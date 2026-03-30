@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ここについて — Wamily</title>
+  <meta name="description" content="Wamilyを作ったサワディーの言葉。なぜ作ったのか、どんな思いを込めているのか。">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <style>
+    .about-hero {
+      position: relative;
+      padding: 80px 24px 64px;
+      text-align: center;
+      border-bottom: 1px solid var(--border-main);
+      overflow: hidden;
+    }
+    .about-hero-bg {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, var(--mustard-light) 0%, var(--cream) 100%);
+      z-index: 0;
+    }
+    .about-hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 640px;
+      margin: 0 auto;
+    }
+    .about-hero-icon {
+      margin: 0 auto 24px;
+      width: 64px;
+      height: 64px;
+    }
+    .about-hero-label {
+      font-size: 11px;
+      letter-spacing: 0.16em;
+      color: var(--mustard);
+      font-weight: 500;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+    .about-hero-title {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 36px;
+      font-weight: 300;
+      color: var(--text-primary);
+      letter-spacing: 0.06em;
+      line-height: 1.6;
+      margin-bottom: 18px;
+    }
+    .about-hero-sub {
+      font-size: 14px;
+      color: var(--text-muted);
+      line-height: 2;
+    }
+
+    .about-content {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 72px 24px 96px;
+    }
+
+    .about-chapter {
+      margin-bottom: 72px;
+    }
+    .about-chapter-num {
+      font-size: 11px;
+      letter-spacing: 0.16em;
+      color: var(--text-hint);
+      font-weight: 500;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .about-chapter-title {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 22px;
+      font-weight: 300;
+      color: var(--text-primary);
+      letter-spacing: 0.06em;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border-main);
+    }
+    .about-chapter-body {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 2.1;
+    }
+    .about-chapter-body p {
+      margin-bottom: 22px;
+    }
+    .about-chapter-body p:last-child {
+      margin-bottom: 0;
+    }
+
+    .about-quote {
+      margin: 32px 0;
+      padding: 24px 28px;
+      border-left: 3px solid var(--mustard);
+      background: var(--mustard-light);
+      border-radius: 0 10px 10px 0;
+    }
+    .about-quote-text {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 16px;
+      font-weight: 300;
+      color: var(--text-primary);
+      line-height: 2;
+      letter-spacing: 0.04em;
+    }
+    .about-quote-attr {
+      margin-top: 12px;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .about-owner-card {
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+      background: var(--white);
+      border: 1.5px solid var(--mustard-border);
+      border-radius: 14px;
+      padding: 28px;
+      margin: 48px 0;
+    }
+    .about-owner-icon {
+      flex-shrink: 0;
+      width: 48px;
+      height: 48px;
+    }
+    .about-owner-info { flex: 1; }
+    .about-owner-name {
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+    }
+    .about-owner-role {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+    .about-owner-desc {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.9;
+    }
+    .about-owner-kids {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 12px;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .about-divider {
+      height: 1px;
+      background: var(--border-main);
+      margin: 56px 0;
+    }
+
+    .about-countries {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .about-country-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--white);
+      border: 1px solid var(--border-main);
+      border-radius: 999px;
+      padding: 6px 14px;
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+
+    .about-values {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-top: 24px;
+    }
+    .about-value-item {
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+      padding: 18px 20px;
+      background: var(--white);
+      border: 1px solid var(--border-main);
+      border-radius: 12px;
+    }
+    .about-value-icon {
+      font-size: 22px;
+      line-height: 1;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .about-value-title {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+    }
+    .about-value-text {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.8;
+    }
+
+    .about-close {
+      text-align: center;
+      padding: 48px 24px;
+      background: linear-gradient(to top, var(--mustard-light) 0%, transparent 100%);
+      border-radius: 16px;
+      margin-top: 56px;
+    }
+    .about-close-text {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 18px;
+      font-weight: 300;
+      color: var(--text-primary);
+      line-height: 2;
+      letter-spacing: 0.06em;
+      margin-bottom: 24px;
+    }
+
+    @media (max-width: 640px) {
+      .about-hero-title { font-size: 26px; }
+      .about-chapter-title { font-size: 18px; }
+      .about-owner-card { flex-direction: column; gap: 16px; }
+      .about-owner-icon { width: 40px; height: 40px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ======= のれん ======= -->
+  <nav class="noren">
+    <a href="../" class="noren-logo"><em>W</em>amily</a>
+    <span class="noren-breadcrumb">ガイドブック > <span>ここについて</span></span>
+    <ul class="noren-links">
+      <li><a href="../#shelf">ガイドブック</a></li>
+    </ul>
+  </nav>
+
+  <!-- ======= ヒーロー ======= -->
+  <div class="about-hero">
+    <div class="about-hero-bg"></div>
+    <div class="about-hero-content">
+      <p class="about-hero-label">About Wamily</p>
+      <!-- サワディーアイコン（大） -->
+      <svg class="about-hero-icon" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <circle cx="32" cy="32" r="30" fill="#fef8d8" stroke="#c8a820" stroke-width="2"/>
+        <ellipse cx="32" cy="20" rx="18" ry="10" fill="#2a2418"/>
+        <circle cx="32" cy="30" r="16" fill="#f5d0b8"/>
+        <circle cx="25" cy="28" r="3.5" fill="#2a2418"/>
+        <circle cx="39" cy="28" r="3.5" fill="#2a2418"/>
+        <ellipse cx="20" cy="34" rx="6" ry="4" fill="#f8a898" opacity="0.55"/>
+        <ellipse cx="44" cy="34" rx="6" ry="4" fill="#f8a898" opacity="0.55"/>
+        <path d="M24 38 Q32 46 40 38" stroke="#c47858" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+      </svg>
+      <h1 class="about-hero-title">ここは、家族の旅を<br>育てていく場所です。</h1>
+      <p class="about-hero-sub">サワディーがひとつひとつ作っています。まだ途中。でも、そこが好きです。</p>
+    </div>
+  </div>
+
+  <!-- ======= 本文 ======= -->
+  <div class="about-content">
+
+    <!-- チャプター1：なぜ作ったか -->
+    <div class="about-chapter">
+      <p class="about-chapter-num">01</p>
+      <h2 class="about-chapter-title">なぜ作ったか</h2>
+      <div class="about-chapter-body">
+        <p>うちの子どもが2歳のとき、はじめて海外に連れていこうと決めました。行き先はイギリス、ロンドン。ずっと行きたかった街でした。</p>
+        <p>でも、いざ調べ始めると、困りました。子連れ向けの情報が、ほとんどない。「ロンドン 子連れ おすすめ」で検索しても出てくるのは、大人向けの観光情報か、子どもがいない前提の旅行記ばかり。「現地で急に熱が出たらどこに行けばいいか」「ベビーカーで地下鉄に乗れるか」「授乳できる場所はあるか」——そんな、子連れ旅行者が本当に知りたいことが、どこにも書いていなかった。</p>
+
+        <div class="about-quote">
+          <p class="about-quote-text">「信頼できる情報に出会えないあのストレス、わかります。だから作り始めました。」</p>
+          <p class="about-quote-attr">— サワディー</p>
+        </div>
+
+        <p>結局、現地に着いてから自分で調べながら動きました。それが思った以上に大変で、思った以上に楽しかった。子連れで旅する、ということの解像度が一気に上がりました。</p>
+        <p>帰国してから思ったんです。「これ、まとめておいたら次の誰かが助かるんじゃないか」と。Wamilyはそこから始まりました。</p>
+      </div>
+    </div>
+
+    <!-- チャプター2：サワディーについて -->
+    <div class="about-chapter">
+      <p class="about-chapter-num">02</p>
+      <h2 class="about-chapter-title">サワディーについて</h2>
+
+      <div class="about-owner-card">
+        <svg class="about-owner-icon" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <circle cx="24" cy="24" r="22" fill="#fef8d8" stroke="#c8a820" stroke-width="1.5"/>
+          <ellipse cx="24" cy="15" rx="13" ry="7" fill="#2a2418"/>
+          <circle cx="24" cy="23" r="12" fill="#f5d0b8"/>
+          <circle cx="18.5" cy="21" r="2.8" fill="#2a2418"/>
+          <circle cx="29.5" cy="21" r="2.8" fill="#2a2418"/>
+          <ellipse cx="15" cy="25.5" rx="4.5" ry="3" fill="#f8a898" opacity="0.55"/>
+          <ellipse cx="33" cy="25.5" rx="4.5" ry="3" fill="#f8a898" opacity="0.55"/>
+          <path d="M18 29 Q24 35 30 29" stroke="#c47858" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div class="about-owner-info">
+          <p class="about-owner-name">サワディー</p>
+          <p class="about-owner-role">Wamilyオーナー / 子連れ旅行者</p>
+          <p class="about-owner-desc">2024年1月からWamilyを作り始めました。子どもが生まれてから、家族でいろんな国に行くのが好きになりました。旅先で困ったこと・学んだことを、ここに置いています。</p>
+          <span class="about-owner-kids">👶 3歳・5歳の男の子と旅しています</span>
+        </div>
+      </div>
+
+      <div class="about-chapter-body">
+        <p>旅が好きになったのは、子どもができてからです。それまでは「子どもがいたら旅行なんて難しい」と思っていました。でも実際に連れていってみると、子どもの目線からしか見えない景色があることに気づきました。大人だけでは入らないような公園に入っていったり、現地の子どもと言葉が通じないのに仲良くなったり。子連れ旅行って、むしろ豊かなんだなと思い始めました。</p>
+        <p>今まで家族で行った国は9カ国。それぞれに失敗談と発見があります。このサイトは、そういう経験を整理しながら作っています。</p>
+
+        <div class="about-countries">
+          <span class="about-country-chip">🇬🇧 イギリス（ロンドン）</span>
+          <span class="about-country-chip">🇫🇷 フランス（パリ）</span>
+          <span class="about-country-chip">🇸🇪 スウェーデン</span>
+          <span class="about-country-chip">🇸🇬 シンガポール</span>
+          <span class="about-country-chip">🇹🇭 タイ（バンコク）</span>
+          <span class="about-country-chip">🇵🇭 フィリピン（マニラ）</span>
+          <span class="about-country-chip">🇺🇸 アメリカ（LA）</span>
+          <span class="about-country-chip">🇺🇸 アメリカ（ハワイ）</span>
+          <span class="about-country-chip">🇰🇷 韓国（ソウル）</span>
+          <span class="about-country-chip">🇹🇼 台湾</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- チャプター3：Wamilyの思想 -->
+    <div class="about-chapter">
+      <p class="about-chapter-num">03</p>
+      <h2 class="about-chapter-title">Wamilyが大切にしていること</h2>
+      <div class="about-chapter-body">
+        <p>情報を届けるのではなく、体験を届けたい。そう思っています。旅の準備って、どのサイトを見ても同じような情報ばかりで、「実際のところどうなの？」という部分が全然わからない。Wamilyは、そこを正直に書きたいと思っています。</p>
+      </div>
+
+      <div class="about-values">
+        <div class="about-value-item">
+          <span class="about-value-icon">📖</span>
+          <div>
+            <p class="about-value-title">育っていく過程を見せる</p>
+            <p class="about-value-text">完成したサービスではなく、育っていく過程そのものを見せる場所。本棚は行くたびに増えていきます。</p>
+          </div>
+        </div>
+        <div class="about-value-item">
+          <span class="about-value-icon">🌡️</span>
+          <div>
+            <p class="about-value-title">体温のある情報</p>
+            <p class="about-value-text">実際に子どもを連れて行った人の経験から生まれた情報だけを置いています。ロボットが生成した情報ではなく、誰かの「これ、ほんとに助かった」という声を届けたい。</p>
+          </div>
+        </div>
+        <div class="about-value-item">
+          <span class="about-value-icon">🪃</span>
+          <div>
+            <p class="about-value-title">バトンを渡し合う</p>
+            <p class="about-value-text">自分たちの困りごとを解決した先に、誰かの困りごとが解決される。旅の経験は、次の誰かへのバトンになります。</p>
+          </div>
+        </div>
+        <div class="about-value-item">
+          <span class="about-value-icon">🏡</span>
+          <div>
+            <p class="about-value-title">主役はあなた</p>
+            <p class="about-value-text">Wamilyはブランドですが、主役は常に訪れた人。私はここの常連がいる居酒屋の店主みたいなものだと思っています。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="about-divider"></div>
+
+    <!-- チャプター4：これから -->
+    <div class="about-chapter">
+      <p class="about-chapter-num">04</p>
+      <h2 class="about-chapter-title">これから</h2>
+      <div class="about-chapter-body">
+        <p>今は9カ国。でも地球はもっと広い。子どもたちが大きくなるにつれて、行ける国も増えると思います。そして、「うちもあの国行ったよ」という声が集まってきたら、Wamilyはもっと広くなれる。</p>
+        <p>まだ途中だし、間違いもあると思う。でも、だからこそ一緒に育てていきたい。子連れで行った国があれば、ぜひ教えてください。あなたの旅の話が、誰かの地図になります。</p>
+      </div>
+
+      <div class="about-close">
+        <p class="about-close-text">家族の数だけ、旅がある<span style="color:var(--teal)">。</span><br>誰かの経験が、誰かの地図になる。</p>
+        <a href="../#shelf" class="btn-primary">ガイドブックを見る ↗</a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ======= フッター ======= -->
+  <footer class="footer">
+    <p class="footer-logo"><em>W</em>amily</p>
+    <p class="footer-text">家族の数だけ、旅がある。誰かの経験が、誰かの地図になる。</p>
+    <p class="footer-text" style="margin-top:6px">© 2024 Wamily — サワディー</p>
+  </footer>
+
+  <script src="../js/main.js"></script>
+</body>
+</html>
