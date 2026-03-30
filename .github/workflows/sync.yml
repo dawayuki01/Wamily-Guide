@@ -1,0 +1,73 @@
+name: データ自動同期
+
+# 毎日 JST 09:00 (UTC 00:00) に実行 + 手動実行も可能
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # data/*.json を commit するため
+
+    steps:
+      # ────────────────────────────────
+      # セットアップ
+      # ────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+
+      - name: Install script dependencies
+        run: npm install
+        working-directory: scripts
+
+      # ────────────────────────────────
+      # 1. Notion → 最近の動き
+      # ────────────────────────────────
+      - name: Fetch Notion live feed
+        run: node scripts/fetch-notion.js
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_LIVEFEED_DB_ID: ${{ secrets.NOTION_LIVEFEED_DB_ID }}
+        # API キーが未設定でもワークフローを止めない
+        continue-on-error: true
+
+      # ────────────────────────────────
+      # 2. TimeOut London RSS + Claude フィルタ → イベント
+      # ────────────────────────────────
+      - name: Fetch & filter events (RSS + Claude API)
+        run: node scripts/fetch-events.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        continue-on-error: true
+
+      # ────────────────────────────────
+      # 3. Google Places → スポット営業状況（週1: 月曜のみ）
+      # ────────────────────────────────
+      - name: Check spot status (Google Places)
+        # 月曜日のみ実行（cron では曜日指定できないのでここで制御）
+        if: github.event_name == 'workflow_dispatch' || toJSON(github.event.schedule) == '"0 0 * * 1"'
+        run: node scripts/check-spots.js
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        continue-on-error: true
+
+      # ────────────────────────────────
+      # 4. 変更があれば commit & push
+      # ────────────────────────────────
+      - name: Commit updated data files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '🔄 データ自動更新 [skip ci]'
+          file_pattern: 'data/*.json'
+          commit_user_name: 'Wamily Bot'
+          commit_user_email: 'bot@wamily.jp'

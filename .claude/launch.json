@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Wamily Dev Server",
+      "runtimeExecutable": "node_modules/.bin/serve",
+      "runtimeArgs": ["."],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}

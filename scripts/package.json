@@ -1,0 +1,17 @@
+{
+  "name": "wamily-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wamily ガイドブック データ同期スクリプト",
+  "scripts": {
+    "fetch:notion": "node fetch-notion.js",
+    "fetch:events": "node fetch-events.js",
+    "check:spots": "node check-spots.js",
+    "sync": "node fetch-notion.js && node fetch-events.js && node check-spots.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@notionhq/client": "^2.2.15",
+    "rss-parser": "^3.13.0"
+  }
+}
