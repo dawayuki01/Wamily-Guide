@@ -1,26 +1,12 @@
 {
   "spots": [
     {
-      "id": "hawaii-001",
-      "name": "在ホノルル日本国総領事館",
-      "emoji": "🇯🇵",
-      "category": "vital",
-      "layer": "vital",
-      "description": "パスポート紛失・緊急時の連絡先。1742 Nuuanu Ave, Honolulu｜+1-808-543-3111",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "hawaii-002",
+      "id": "334088f5-0b07-8128-96b7-f79a47c8d2db",
       "name": "カピオラニ小児科病院",
       "emoji": "🏥",
       "category": "vital",
       "layer": "vital",
-      "description": "ハワイで唯一の小児専門病院。日本語通訳サービスあり。1319 Punahou St, Honolulu｜(808) 983-6000",
+      "description": "ハワイで唯一の小児専門病院。日本語通訳サービスあり　1319 Punahou St, Honolulu｜(808) 983-6000",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -29,12 +15,12 @@
       "extra": false
     },
     {
-      "id": "hawaii-003",
+      "id": "334088f5-0b07-815b-9636-f1c1487f9f8f",
       "name": "Longs Drugs（CVS）",
       "emoji": "💊",
       "category": "vital",
       "layer": "vital",
-      "description": "ハワイではCVS傘下のLongsが主流。子ども用薬・おむつ・日焼け止めが揃う。アラモアナなど観光地近くにも。",
+      "description": "ハワイではCVS僕下のLongsが主流。子ども用薬・おむつ・日焦け止めが揃う。アラモアナなど観光地近くにも。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -43,21 +29,21 @@
       "extra": false
     },
     {
-      "id": "hawaii-004",
-      "name": "DON DON DONKI（ドン・キホーテ）",
-      "emoji": "🍙",
-      "category": "food",
-      "layer": "local",
-      "description": "日本食材・おにぎり・惣菜・日用品が揃うハワイっ子御用達。ワイキキから徒歩圏内で旅行者にも便利。",
+      "id": "334088f5-0b07-8167-bd35-f5caee2ffa32",
+      "name": "在ホノルル日本国総領事館",
+      "emoji": "🇯🇵",
+      "category": "vital",
+      "layer": "vital",
+      "description": "パスポート紛失・緊急時の連絡先　1742 Nuuanu Ave, Honolulu｜+1-808-543-3111",
       "status": "check",
       "statusLabel": "要確認",
-      "free": true,
+      "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
       "extra": false
     },
     {
-      "id": "hawaii-005",
+      "id": "334088f5-0b07-811f-abec-fed3f23c3e03",
       "name": "Foodland（スーパー）",
       "emoji": "🛒",
       "category": "local",
@@ -71,8 +57,22 @@
       "extra": false
     },
     {
-      "id": "hawaii-006",
-      "name": "マノアのレインボーかき氷（Waiola Shave Ice）",
+      "id": "334088f5-0b07-8122-a8f0-ef0b8234b71a",
+      "name": "DON DON DONKI（ドン・キホーテ）",
+      "emoji": "🍙",
+      "category": "food",
+      "layer": "local",
+      "description": "日本食材・おにぎり・惣跃・日用品が揃うハワイっ子御用達。ワイキキから徒歩圈内で旅行者にも便利。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-8171-a062-f7f8808efbac",
+      "name": "ワイオラシェイブアイス",
       "emoji": "🌈",
       "category": "food",
       "layer": "local",
@@ -85,26 +85,12 @@
       "extra": false
     },
     {
-      "id": "hawaii-007",
-      "name": "ダイヤモンドヘッド",
-      "emoji": "🌋",
-      "category": "play",
-      "layer": "play",
-      "description": "ワイキキのシンボル。山頂からの絶景パノラマ。往復1〜1.5時間。小学生なら登れる難易度。日焼け止め必須。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "hawaii-008",
+      "id": "334088f5-0b07-819d-846a-ca52bb3954e1",
       "name": "ハワイ州立水族館（Waikiki Aquarium）",
       "emoji": "🐙",
       "category": "play",
       "layer": "play",
-      "description": "ワイキキビーチ沿いのコンパクトな水族館。ハワイ固有の海の生き物を間近で観察。ベビーカー対応。2777 Kalakaua Ave",
+      "description": "ワイキキビーチ沿いのコンパクトな水族館。ハワイ固有の海の生き物を間近で観察。ベビーカー対応　2777 Kalakaua Ave",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -113,7 +99,7 @@
       "extra": false
     },
     {
-      "id": "hawaii-009",
+      "id": "334088f5-0b07-81a0-b6bd-de5956f0a98d",
       "name": "カイルアビーチ",
       "emoji": "🏖️",
       "category": "play",
@@ -127,19 +113,19 @@
       "extra": false
     },
     {
-      "id": "hawaii-010",
-      "name": "ポリネシアン・カルチャー・センター",
-      "emoji": "🌺",
+      "id": "334088f5-0b07-81c9-823e-c5a58e0e5319",
+      "name": "ダイヤモンドヘッド",
+      "emoji": "🌋",
       "category": "play",
       "layer": "play",
-      "description": "ハワイ・フィジー・タヒチなど6カ国の文化を体験できる施設。ポリネシアンショーが圧巻。オアフ島北部・ライエ。",
+      "description": "ワイキキのシンボル。山頂からの絶景パノラマ。往御1〜1.5時間。小学生なら登れる難易度。日焦け止め必須。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": true
+      "extra": false
     }
   ],
-  "checkedAt": "2026-03-31T00:00:00.000Z"
+  "checkedAt": "2026-03-31T15:00:49.273Z"
 }

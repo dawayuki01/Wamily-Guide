@@ -1,21 +1,7 @@
 {
   "spots": [
     {
-      "id": "paris-001",
-      "name": "在仏日本国大使館",
-      "emoji": "🇯🇵",
-      "category": "vital",
-      "layer": "vital",
-      "description": "パスポート紛失・緊急時の連絡先。7 Avenue Hoche, 75008 Paris｜+33-1-48-88-62-00",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "paris-002",
+      "id": "334088f5-0b07-8167-b46f-fe19b67aa1cc",
       "name": "Hôpital Necker（ネッケル病院）",
       "emoji": "🏥",
       "category": "vital",
@@ -29,7 +15,7 @@
       "extra": false
     },
     {
-      "id": "paris-003",
+      "id": "334088f5-0b07-81e7-8f28-eed772f15720",
       "name": "Pharmacie（薬局）",
       "emoji": "💊",
       "category": "vital",
@@ -43,35 +29,21 @@
       "extra": false
     },
     {
-      "id": "paris-004",
-      "name": "Marché d'Aligre（アリーグル市場）",
-      "emoji": "🥖",
-      "category": "food",
-      "layer": "local",
-      "description": "地元パリジャンが日常使いする青空市場。新鮮野菜・チーズ・パンが揃う。子どもも試食させてもらえることも。",
+      "id": "334088f5-0b07-81f6-be34-dfeafbc9f490",
+      "name": "在仏日本国大使館",
+      "emoji": "🇯🇵",
+      "category": "vital",
+      "layer": "vital",
+      "description": "パスポート紛失・緊急時の連絡先。7 Avenue Hoche, 75008 Paris｜+33-1-48-88-62-00",
       "status": "check",
       "statusLabel": "要確認",
-      "free": true,
+      "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
       "extra": false
     },
     {
-      "id": "paris-005",
-      "name": "Monoprix（モノプリ）",
-      "emoji": "🛒",
-      "category": "local",
-      "layer": "local",
-      "description": "パリ市内に多数展開するスーパー。おむつ・食品・日用品を一か所で揃えられる。観光地近くにも店舗あり。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "paris-006",
+      "id": "334088f5-0b07-8143-813a-fc1827e5f8df",
       "name": "Boulangerie（ブーランジェリー）",
       "emoji": "🥐",
       "category": "food",
@@ -85,26 +57,12 @@
       "extra": false
     },
     {
-      "id": "paris-007",
-      "name": "ルーヴル美術館",
-      "emoji": "🖼️",
-      "category": "play",
-      "layer": "play",
-      "description": "モナリザ・ミロのヴィーナスなど世界最大の美術館。18歳未満は無料。子ども向けワークショップあり。Rue de Rivoli, 75001",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "paris-008",
-      "name": "Jardin du Luxembourg（リュクサンブール公園）",
-      "emoji": "🌳",
-      "category": "play",
-      "layer": "play",
-      "description": "パリ中心部の大きな公園。ポニー乗り・メリーゴーランド・ヨットを浮かべる池。子どもの遊び場が充実。",
+      "id": "334088f5-0b07-8157-bb6d-f1cdcca55104",
+      "name": "Marché d'Aligre（アリーグル市場）",
+      "emoji": "🥖",
+      "category": "food",
+      "layer": "local",
+      "description": "地元パリジャンが日常使いする青空市場。新鮮野菜・チーズ・パンが揃う。子どもも試食させてもらえることも。",
       "status": "check",
       "statusLabel": "要確認",
       "free": true,
@@ -113,7 +71,21 @@
       "extra": false
     },
     {
-      "id": "paris-009",
+      "id": "334088f5-0b07-8166-921b-ca42df0931fa",
+      "name": "Monoprix（モノプリ）",
+      "emoji": "🛒",
+      "category": "local",
+      "layer": "local",
+      "description": "パリ市内に多数展開するスーパー。おむつ・食品・日用品を一か所で揃えられる。観光地近くにも店舗あり。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-8107-873a-dc1fd96bd0d3",
       "name": "Cité des Sciences（科学産業城）",
       "emoji": "🔭",
       "category": "play",
@@ -127,7 +99,35 @@
       "extra": false
     },
     {
-      "id": "paris-010",
+      "id": "334088f5-0b07-8124-ad4a-c75a7354d087",
+      "name": "ルーヴル美術館",
+      "emoji": "🖼️",
+      "category": "play",
+      "layer": "play",
+      "description": "モナリザ・ミロのヴィーナスなど世界最大の美術館。18歳未満は無料。子ども向けワークショップあり。Rue de Rivoli, 75001",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-8149-87ec-cbce8db94f43",
+      "name": "Jardin du Luxembourg（リュクサンブール公園）",
+      "emoji": "🌳",
+      "category": "play",
+      "layer": "play",
+      "description": "パリ中心部の大きな公園。ポニー乗り・メリーゴーランド・ヨットを浮かべる池。子どもの遊び場が充実。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-8170-bc65-e877f44936cd",
       "name": "Parc Astérix（パルク・アステリックス）",
       "emoji": "🎢",
       "category": "play",
@@ -138,8 +138,8 @@
       "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": true
+      "extra": false
     }
   ],
-  "checkedAt": "2026-03-31T00:00:00.000Z"
+  "checkedAt": "2026-03-31T15:00:49.268Z"
 }

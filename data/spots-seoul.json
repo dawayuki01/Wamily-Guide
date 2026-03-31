@@ -1,12 +1,12 @@
 {
   "spots": [
     {
-      "id": "seoul-001",
-      "name": "在韓国日本国大使館",
-      "emoji": "🇯🇵",
+      "id": "334088f5-0b07-8157-a281-ca2af3628e43",
+      "name": "올리브영（オリーブヤング）",
+      "emoji": "💊",
       "category": "vital",
       "layer": "vital",
-      "description": "パスポート紛失・緊急時の連絡先。Namsanguil-ro 22, Yongsan-gu, Seoul｜+82-2-2170-5200",
+      "description": "韓国最大のドラッグストアチェーン。子ども用薬・日焦け止め・スキンケア用品が充実。市内に多数展開。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -15,7 +15,7 @@
       "extra": false
     },
     {
-      "id": "seoul-002",
+      "id": "334088f5-0b07-8196-a26d-cb49f7ec5c40",
       "name": "ソウル大学病院小児科",
       "emoji": "🏥",
       "category": "vital",
@@ -29,12 +29,12 @@
       "extra": false
     },
     {
-      "id": "seoul-003",
-      "name": "올리브영（オリーブヤング）",
-      "emoji": "💊",
+      "id": "334088f5-0b07-81ea-8962-cc6005e724a9",
+      "name": "在韓国日本国大使館",
+      "emoji": "🇯🇵",
       "category": "vital",
       "layer": "vital",
-      "description": "韓国最大のドラッグストアチェーン。子ども用薬・日焼け止め・スキンケア用品が充実。市内に多数展開。",
+      "description": "パスポート紛失・緊急時の連絡先。Namsanguil-ro 22, Yongsan-gu, Seoul｜+82-2-2170-5200",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -43,35 +43,7 @@
       "extra": false
     },
     {
-      "id": "seoul-004",
-      "name": "広蔵市場（クァンジャン市場）",
-      "emoji": "🥚",
-      "category": "food",
-      "layer": "local",
-      "description": "ソウル最古の市場。ビビンバ・緑豆チヂミ・キンパが安くて美味しい。子どもが喜ぶB級グルメの宝庫。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "seoul-005",
-      "name": "Emart（イーマート）",
-      "emoji": "🛒",
-      "category": "local",
-      "layer": "local",
-      "description": "韓国最大のスーパーチェーン。おむつ・韓国食品・日用品が安く揃う。フードコートでキンパも食べられる。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "seoul-006",
+      "id": "334088f5-0b07-817a-873d-c4df81d49f3f",
       "name": "CU / GS25（コンビニ）",
       "emoji": "🏪",
       "category": "local",
@@ -85,12 +57,40 @@
       "extra": false
     },
     {
-      "id": "seoul-007",
-      "name": "ロッテワールド",
-      "emoji": "🎢",
+      "id": "334088f5-0b07-817b-ab2b-ff01f51a7a23",
+      "name": "Emart（イーマート）",
+      "emoji": "🛒",
+      "category": "local",
+      "layer": "local",
+      "description": "韓国最大のスーパーチェーン。おむつ・韓国食品・日用品が安く揃う。フードコートでキンパも食べられる。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-8187-a4c9-fa9331dde35b",
+      "name": "広蔵市場（クァンジャン市場）",
+      "emoji": "🥚",
+      "category": "food",
+      "layer": "local",
+      "description": "ソウル最古の市場。ビビンバ・緑豆チジミ・キンパが安くて美味しい。子どもが喜ぶB級グルメの宝庫。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-8117-bb20-d8b5b71a3016",
+      "name": "ソウル大公園（서울대공원）",
+      "emoji": "🐘",
       "category": "play",
       "layer": "play",
-      "description": "世界最大の屋内テーマパーク。室内なので雨でも楽しめる。乗り物・アイスショー・퍼레이드が充実。蚕室駅直結。",
+      "description": "動物園・遅園地・植物園が一か所に集まる大型公園。家族で一日楽しめる。地下鉄４号線・大公園駅から徒歩。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -99,9 +99,23 @@
       "extra": false
     },
     {
-      "id": "seoul-008",
+      "id": "334088f5-0b07-8191-8a92-c524e6281774",
+      "name": "ロッテワールド",
+      "emoji": "🎢",
+      "category": "play",
+      "layer": "play",
+      "description": "世界最大の屋内テーマパーク。室内なので雨でも楽しめる。乗り物・アイスショー・パレードが充実。蜒室駅直結。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-81dc-94d8-cfec4163fe86",
       "name": "景福宮（キョンボックン）",
-      "emoji": "🏯",
+      "emoji": "🎯",
       "category": "play",
       "layer": "play",
       "description": "朝鮮王朝の宮殿。韓服レンタルで無料入場できる。子どもと一緒に韓服を着ての写真が思い出に残る。",
@@ -111,35 +125,7 @@
       "checkedDate": "2026年3月",
       "placeId": null,
       "extra": false
-    },
-    {
-      "id": "seoul-009",
-      "name": "ソウル大公園（서울대공원）",
-      "emoji": "🐘",
-      "category": "play",
-      "layer": "play",
-      "description": "動物園・遊園地・植物園が一か所に集まる大型公園。家族で一日楽しめる。地下鉄4号線・大公園駅から徒歩。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "seoul-010",
-      "name": "北村韓屋村（プクチョン・ハノッマウル）",
-      "emoji": "🏘️",
-      "category": "play",
-      "layer": "play",
-      "description": "伝統家屋が立ち並ぶ路地。韓服を着て散策するのが定番。インスタ映えスポットとしても有名。景福宮から徒歩。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": true
     }
   ],
-  "checkedAt": "2026-03-31T00:00:00.000Z"
+  "checkedAt": "2026-03-31T15:00:49.273Z"
 }

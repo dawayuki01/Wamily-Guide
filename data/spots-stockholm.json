@@ -1,35 +1,7 @@
 {
   "spots": [
     {
-      "id": "stockholm-001",
-      "name": "在スウェーデン日本国大使館",
-      "emoji": "🇯🇵",
-      "category": "vital",
-      "layer": "vital",
-      "description": "パスポート紛失・緊急時の連絡先。Gardesgatan 10, 115 27 Stockholm｜+46-8-579-351-00",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "stockholm-002",
-      "name": "Astrid Lindgrens Barnsjukhus（小児病院）",
-      "emoji": "🏥",
-      "category": "vital",
-      "layer": "vital",
-      "description": "カロリンスカ大学病院内の小児専門病院。北欧最大規模。緊急：112。Solnavägen 1, 171 76 Solna",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "stockholm-003",
+      "id": "334088f5-0b07-814d-aa74-deb2a41d127c",
       "name": "Apoteket（薬局）",
       "emoji": "💊",
       "category": "vital",
@@ -43,21 +15,35 @@
       "extra": false
     },
     {
-      "id": "stockholm-004",
-      "name": "Östermalms Saluhall（食品市場）",
-      "emoji": "🧀",
-      "category": "food",
-      "layer": "local",
-      "description": "1888年創業の歴史ある屋内食品市場。スモーブロー・サーモン・チーズを食べ歩き。観光にも最適。",
+      "id": "334088f5-0b07-81c5-b8a8-d6ae65b6bd5b",
+      "name": "Astrid Lindgrens Barnsjukhus（小児病院）",
+      "emoji": "🏥",
+      "category": "vital",
+      "layer": "vital",
+      "description": "カロリンスカ大学病院内の小児専門病院。北欧最大規模。緊急：112。Solnavägen 1, 171 76 Solna",
       "status": "check",
       "statusLabel": "要確認",
-      "free": true,
+      "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
       "extra": false
     },
     {
-      "id": "stockholm-005",
+      "id": "334088f5-0b07-81d7-a4f3-c687c7915c73",
+      "name": "在スウェーデン日本国大使館",
+      "emoji": "🇯🇵",
+      "category": "vital",
+      "layer": "vital",
+      "description": "パスポート紛失・緊急時の連絡先。Gardesgatan 10, 115 27 Stockholm｜+46-8-579-351-00",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-814f-9f5f-e65008f3bd98",
       "name": "ICA Supermarket",
       "emoji": "🛒",
       "category": "local",
@@ -71,7 +57,21 @@
       "extra": false
     },
     {
-      "id": "stockholm-006",
+      "id": "334088f5-0b07-8187-9fd0-fe8e4dbdb5de",
+      "name": "Östermalms Saluhall（食品市場）",
+      "emoji": "🧀",
+      "category": "food",
+      "layer": "local",
+      "description": "1888年創業の歴史ある屋内食品市場。スモーブロー・サーモン・チーズを食べ歩き。観光にも最適。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-81d2-8c61-df7759c49d32",
       "name": "IKEA（イケア）",
       "emoji": "🛋️",
       "category": "local",
@@ -85,12 +85,12 @@
       "extra": false
     },
     {
-      "id": "stockholm-007",
+      "id": "334088f5-0b07-811e-bc2b-ee960fc94ce9",
       "name": "ユールゴーデン島（Djurgården）",
       "emoji": "🌿",
       "category": "play",
       "layer": "play",
-      "description": "緑豊かな島に博物館・遊園地が集結。スカンセン野外博物館・ヴァーサ号博物館・グレーナルンド遊園地が一帯に。",
+      "description": "緑豊かな島に博物館・遅園地が集結。スカンセン野外博物館・ヴァーサ号博物館・グレーナルン遅園地が一帯に。",
       "status": "check",
       "statusLabel": "要確認",
       "free": true,
@@ -99,21 +99,7 @@
       "extra": false
     },
     {
-      "id": "stockholm-008",
-      "name": "スカンセン野外博物館",
-      "emoji": "🏘️",
-      "category": "play",
-      "layer": "play",
-      "description": "世界初の野外博物館。昔のスウェーデンの街並みが再現され、動物園も併設。子どもが一日楽しめる。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "stockholm-009",
+      "id": "334088f5-0b07-81b9-8301-c89beb246bcf",
       "name": "ヴァーサ号博物館（Vasamuseet）",
       "emoji": "⚓",
       "category": "play",
@@ -127,7 +113,7 @@
       "extra": false
     },
     {
-      "id": "stockholm-010",
+      "id": "334088f5-0b07-81cc-be83-eeaa3e8548b0",
       "name": "ガムラスタン（旧市街）",
       "emoji": "🏰",
       "category": "play",
@@ -138,8 +124,22 @@
       "free": true,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": true
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-81da-99a0-e542e16709ee",
+      "name": "スカンセン野外博物館",
+      "emoji": "🏘️",
+      "category": "play",
+      "layer": "play",
+      "description": "世界初の野外博物館。昔のスウェーデンの街並みが再現され、動物園も併設。子どもが一日楽しめる。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
     }
   ],
-  "checkedAt": "2026-03-31T00:00:00.000Z"
+  "checkedAt": "2026-03-31T15:00:49.268Z"
 }

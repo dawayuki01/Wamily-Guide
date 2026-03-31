@@ -1,7 +1,7 @@
 {
   "spots": [
     {
-      "id": "taipei-001",
+      "id": "334088f5-0b07-813a-8d0e-ec0b4aad0cfd",
       "name": "在台日本国大使館（交流協会台北事務所）",
       "emoji": "🇯🇵",
       "category": "vital",
@@ -15,7 +15,7 @@
       "extra": false
     },
     {
-      "id": "taipei-002",
+      "id": "334088f5-0b07-81bc-91d5-dc0b6cf52fb5",
       "name": "台大医院（国立台湾大学医学院附設医院）",
       "emoji": "🏥",
       "category": "vital",
@@ -29,7 +29,7 @@
       "extra": false
     },
     {
-      "id": "taipei-003",
+      "id": "334088f5-0b07-81d6-b5b2-f5f603862cd7",
       "name": "康是美（コスメッド）",
       "emoji": "💊",
       "category": "vital",
@@ -43,35 +43,7 @@
       "extra": false
     },
     {
-      "id": "taipei-004",
-      "name": "士林夜市",
-      "emoji": "🍢",
-      "category": "food",
-      "layer": "local",
-      "description": "台北最大の夜市。臭豆腐・大鶏排・タピオカなど子どもが喜ぶ食べ歩きが充実。夕方17時頃から賑わう。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "taipei-005",
-      "name": "全聯福利中心（PX Mart）",
-      "emoji": "🛒",
-      "category": "local",
-      "layer": "local",
-      "description": "台湾最大のスーパーマーケットチェーン。おむつ・ミルク・日用品を安く調達できる。全国どこにでもある。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "taipei-006",
+      "id": "334088f5-0b07-8145-ad3b-f5048aace312",
       "name": "7-ELEVEN（セブン-イレブン）",
       "emoji": "🏪",
       "category": "local",
@@ -85,21 +57,49 @@
       "extra": false
     },
     {
-      "id": "taipei-007",
-      "name": "国立故宮博物院",
-      "emoji": "🏛️",
-      "category": "play",
-      "layer": "play",
-      "description": "世界三大博物館のひとつ。翠玉白菜など見どころ豊富。子ども向けワークショップ開催あり。No. 221, Sec. 2, Zhi'nan Rd, Shilin",
+      "id": "334088f5-0b07-815e-89b3-e304388741ff",
+      "name": "全聯福利中心（PX Mart）",
+      "emoji": "🛒",
+      "category": "local",
+      "layer": "local",
+      "description": "台湾最大のスーパーマーケットチェーン。おむつ・ミルク・日用品を安く調達できる。全国どこにでもある。",
       "status": "check",
       "statusLabel": "要確認",
-      "free": false,
+      "free": true,
       "checkedDate": "2026年3月",
       "placeId": null,
       "extra": false
     },
     {
-      "id": "taipei-008",
+      "id": "334088f5-0b07-81cf-ad10-ed96537e1444",
+      "name": "士林夜市",
+      "emoji": "🍢",
+      "category": "food",
+      "layer": "local",
+      "description": "台北最大の夜市。臭豆腐・大鶏排・タピオカなど子どもが喜ぶ食べ歩きが充実。夕方17時頃から賑わう。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-815f-9757-f002d852deb0",
+      "name": "象山（シャンシャン）登山道",
+      "emoji": "🌆",
+      "category": "play",
+      "layer": "play",
+      "description": "101タワーを正面に望む絶景ハイキングコース。片道20〜30分。子どもでも登れる難易度。夕日の時間がおすすめ。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-8164-bf2d-c8a9d7a387e9",
       "name": "台北市立動物園",
       "emoji": "🐼",
       "category": "play",
@@ -113,7 +113,21 @@
       "extra": false
     },
     {
-      "id": "taipei-009",
+      "id": "334088f5-0b07-81a9-a0b8-cd273f94d846",
+      "name": "国立故宮博物院",
+      "emoji": "🏛️",
+      "category": "play",
+      "layer": "play",
+      "description": "世界三大博物館のひとつ。翠玉白菜など見どころ豊富。子ども向けワークショップ開催あり。No. 221, Sec. 2, Zhi'nan Rd, Shilin",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-81c2-9538-d65d1cc96111",
       "name": "九份老街",
       "emoji": "🏮",
       "category": "play",
@@ -124,22 +138,8 @@
       "free": true,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": true
-    },
-    {
-      "id": "taipei-010",
-      "name": "象山（シャンシャン）登山道",
-      "emoji": "🌆",
-      "category": "play",
-      "layer": "play",
-      "description": "101タワーを正面に望む絶景ハイキングコース。片道20〜30分。子どもでも登れる難易度。夕日の時間がおすすめ。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": true
+      "extra": false
     }
   ],
-  "checkedAt": "2026-03-31T00:00:00.000Z"
+  "checkedAt": "2026-03-31T15:00:49.274Z"
 }

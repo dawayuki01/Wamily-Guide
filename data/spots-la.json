@@ -1,7 +1,7 @@
 {
   "spots": [
     {
-      "id": "la-001",
+      "id": "334088f5-0b07-8132-957d-dc821345547d",
       "name": "在ロサンゼルス日本国総領事館",
       "emoji": "🇯🇵",
       "category": "vital",
@@ -15,21 +15,7 @@
       "extra": false
     },
     {
-      "id": "la-002",
-      "name": "Cedars-Sinai Medical Center",
-      "emoji": "🏥",
-      "category": "vital",
-      "layer": "vital",
-      "description": "全米トップクラスの病院。小児科・24時間救急対応。日本語通訳サービスあり。8700 Beverly Blvd, LA",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "la-003",
+      "id": "334088f5-0b07-8157-affc-ed79475aa3c7",
       "name": "CVS Pharmacy",
       "emoji": "💊",
       "category": "vital",
@@ -43,35 +29,21 @@
       "extra": false
     },
     {
-      "id": "la-004",
-      "name": "Mitsuwa Marketplace（ミツワ）",
-      "emoji": "🍱",
-      "category": "food",
-      "layer": "local",
-      "description": "LA最大の日系スーパー。日本食・おむつ・日用品が全部揃う。フードコートでラーメン・寿司も食べられる。Torrance店が有名。",
+      "id": "334088f5-0b07-8184-b4ce-df9ffbd08aeb",
+      "name": "Cedars-Sinai Medical Center",
+      "emoji": "🏥",
+      "category": "vital",
+      "layer": "vital",
+      "description": "全米トップクラスの病院。小児科・24時間救急対応。日本語通訳サービスあり　8700 Beverly Blvd, LA",
       "status": "check",
       "statusLabel": "要確認",
-      "free": true,
+      "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
       "extra": false
     },
     {
-      "id": "la-005",
-      "name": "Trader Joe's",
-      "emoji": "🛒",
-      "category": "local",
-      "layer": "local",
-      "description": "おしゃれ系スーパー。プライベートブランドが豊富で安い。子ども向けスナック・オーガニック食品が充実。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "la-006",
+      "id": "334088f5-0b07-8112-ae10-e64625724a5d",
       "name": "In-N-Out Burger",
       "emoji": "🍔",
       "category": "food",
@@ -85,12 +57,40 @@
       "extra": false
     },
     {
-      "id": "la-007",
+      "id": "334088f5-0b07-814e-98d1-c708385b415f",
+      "name": "Trader Joe's",
+      "emoji": "🛒",
+      "category": "local",
+      "layer": "local",
+      "description": "おしゃれ系スーパー。プライベートブランドが豊富で安い。子ども向けスナック・オーガニック食品が充実。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-815c-a540-c123b7749c14",
+      "name": "Mitsuwa Marketplace（ミツワ）",
+      "emoji": "🍱",
+      "category": "food",
+      "layer": "local",
+      "description": "LA最大の日系スーパー。日本食・おむつ・日用品が全部揃う。フードコートでラーメン・寿司も食べられる。Torrance店が有名。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-8137-9d70-dbf16aef76dc",
       "name": "ディズニーランド（アナハイム）",
       "emoji": "🏰",
       "category": "play",
       "layer": "play",
-      "description": "世界初のディズニーランド。LAから車で約40分。スターウォーズのギャラクシーズエッジも人気。1313 Disneyland Dr, Anaheim",
+      "description": "世界初のディズニーランド。LAから車で絀40分。スターウォーズのギャラクシーズエッジも人気　1313 Disneyland Dr, Anaheim",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -99,47 +99,33 @@
       "extra": false
     },
     {
-      "id": "la-008",
+      "id": "334088f5-0b07-819e-a640-dc1f0510b140",
+      "name": "サンタモニカビーチ★ピア",
+      "emoji": "🎡",
+      "category": "play",
+      "layer": "play",
+      "description": "ルート66の終着点。ビーチで遊んだ後は桁橋の遅園地でコースターも。子どもが一日楽しめる定番スポット。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-81d5-beb6-eb8b69c0e69e",
       "name": "グリフィス天文台",
       "emoji": "🔭",
       "category": "play",
       "layer": "play",
-      "description": "LAの山の上にある天文台。市内を一望できる絶景スポット。入場無料。夕暮れ時の景色が最高。2800 E Observatory Rd",
+      "description": "LAの山の上にある天文台。市内を一望できる絶景スポット。入場無料。夕暮れ時の景色が最高　2800 E Observatory Rd",
       "status": "check",
       "statusLabel": "要確認",
       "free": true,
       "checkedDate": "2026年3月",
       "placeId": null,
       "extra": false
-    },
-    {
-      "id": "la-009",
-      "name": "サンタモニカビーチ＆ピア",
-      "emoji": "🎡",
-      "category": "play",
-      "layer": "play",
-      "description": "ルート66の終着点。ビーチで遊んだ後は桟橋の遊園地でコースターも。子どもが一日楽しめる定番スポット。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "la-010",
-      "name": "カリフォルニア科学センター",
-      "emoji": "🚀",
-      "category": "play",
-      "layer": "play",
-      "description": "スペースシャトル「エンデバー」を間近で見られる博物館。入場無料（シャトル展示は有料）。子どもが大興奮。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": true
     }
   ],
-  "checkedAt": "2026-03-31T00:00:00.000Z"
+  "checkedAt": "2026-03-31T15:00:49.270Z"
 }

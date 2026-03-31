@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-8181-97ab-f489ec4a85c6",
+      "name": "「ロンドン子育て」関連チャンネル",
+      "type": "YouTube",
+      "description": "子連れの移動方法や現地の学校生活など、旅行では得られない生活密着情報で、より深い理解が得られます。",
+      "url": "",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8176-b1f0-d55b9e8756a2",
+      "name": "Kids in London",
+      "type": "Instagram",
+      "description": "子どもが楽しめるロンドンのスポットを視覚的に分かりやすく紹介。リアルな子どもの反応が参考になります。",
+      "url": "",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-811a-b520-d574167b6bcd",
+      "name": "ロンドンナビ",
+      "type": "ブログ",
+      "description": "子連れに優しい観光地選びから食事場所まで、現地ママ視点の実践的な情報が満載で、安心して計画立てられます。",
+      "url": "https://london-navi.com",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-817b-92ea-f899badacb6a",
       "name": "Yuki London Life",
       "type": "Instagram",
@@ -121,5 +145,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T14:46:26.697Z"
+  "updatedAt": "2026-03-31T15:00:52.888Z"
 }

@@ -1,35 +1,7 @@
 {
   "spots": [
     {
-      "id": "singapore-001",
-      "name": "在シンガポール日本国大使館",
-      "emoji": "🇯🇵",
-      "category": "vital",
-      "layer": "vital",
-      "description": "パスポート紛失・緊急時の連絡先。16 Nassim Road, Singapore 258390｜+65-6235-8855",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "singapore-002",
-      "name": "KK Women's and Children's Hospital",
-      "emoji": "🏥",
-      "category": "vital",
-      "layer": "vital",
-      "description": "シンガポール最大の小児・産婦人科専門病院。24時間救急対応。100 Bukit Timah Rd, 229899",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "singapore-003",
+      "id": "334088f5-0b07-8111-b3ba-ce3ec25d2b61",
       "name": "Guardian（ドラッグストア）",
       "emoji": "💊",
       "category": "vital",
@@ -43,12 +15,12 @@
       "extra": false
     },
     {
-      "id": "singapore-004",
-      "name": "ホーカーセンター",
-      "emoji": "🍜",
-      "category": "food",
-      "layer": "local",
-      "description": "シンガポール名物の屋外フードコート。チキンライス・ラクサ・チャーコイティオなど本場の味が安く食べられる。",
+      "id": "334088f5-0b07-8159-aaca-d797b9a1465c",
+      "name": "KK Women's and Children's Hospital",
+      "emoji": "🏥",
+      "category": "vital",
+      "layer": "vital",
+      "description": "シンガポール最大の小児・産婦人科専門病院。24時間救急対応。100 Bukit Timah Rd, 229899",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -57,21 +29,21 @@
       "extra": false
     },
     {
-      "id": "singapore-005",
-      "name": "FairPrice（フェアプライス）",
-      "emoji": "🛒",
-      "category": "local",
-      "layer": "local",
-      "description": "シンガポール最大のスーパーチェーン。おむつ・食品・日用品が安く揃う。MRT各駅近くに展開。",
+      "id": "334088f5-0b07-8181-987b-e9378eb9d07c",
+      "name": "在シンガポール日本国大使館",
+      "emoji": "🇯🇵",
+      "category": "vital",
+      "layer": "vital",
+      "description": "パスポート紛失・緊急時の連絡先。16 Nassim Road, Singapore 258390｜+65-6235-8855",
       "status": "check",
       "statusLabel": "要確認",
-      "free": true,
+      "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
       "extra": false
     },
     {
-      "id": "singapore-006",
+      "id": "334088f5-0b07-8131-8013-dd06b87240b6",
       "name": "Cold Storage",
       "emoji": "🛒",
       "category": "local",
@@ -85,12 +57,12 @@
       "extra": false
     },
     {
-      "id": "singapore-007",
-      "name": "シンガポール動物園",
-      "emoji": "🦒",
-      "category": "play",
-      "layer": "play",
-      "description": "世界トップクラスの動物園。オランウータンと朝食を一緒に食べる「Jungle Breakfast」が人気。80 Mandai Lake Rd",
+      "id": "334088f5-0b07-815e-9c9e-e9b40367d673",
+      "name": "ホーカーセンター",
+      "emoji": "🍜",
+      "category": "food",
+      "layer": "local",
+      "description": "シンガポール名物の屋外フードコート。チキンライス・ラクサ・チャーコイティオなど本場の味が安く食べられる。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -99,7 +71,21 @@
       "extra": false
     },
     {
-      "id": "singapore-008",
+      "id": "334088f5-0b07-81bc-9977-d3ee61a211c0",
+      "name": "FairPrice（フェアプライス）",
+      "emoji": "🛒",
+      "category": "local",
+      "layer": "local",
+      "description": "シンガポール最大のスーパーチェーン。おむつ・食品・日用品が安く揃う。MRT各駅近くに展開。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-810c-b382-edbae93986e1",
       "name": "ガーデンズ・バイ・ザ・ベイ",
       "emoji": "🌴",
       "category": "play",
@@ -113,12 +99,12 @@
       "extra": false
     },
     {
-      "id": "singapore-009",
-      "name": "ユニバーサル・スタジオ・シンガポール",
-      "emoji": "🎢",
+      "id": "334088f5-0b07-818d-8dbb-cccc888cdc5a",
+      "name": "シンガポール動物園",
+      "emoji": "🦒",
       "category": "play",
       "layer": "play",
-      "description": "アジアで2番目のUSJ。ハリウッド・ミニオン・ジュラシックパークなど人気エリア多数。8 Sentosa Gateway",
+      "description": "世界トップクラスの動物園。オランウータンと朝食を一緒に食べるJungle Breakfastが人気。80 Mandai Lake Rd",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -127,8 +113,22 @@
       "extra": false
     },
     {
-      "id": "singapore-010",
-      "name": "センバワン温泉公園（Sembawang Hot Spring Park）",
+      "id": "334088f5-0b07-81a6-b2c9-eed030870c28",
+      "name": "ユニバーサル・スタジオ・シンガポール",
+      "emoji": "🎢",
+      "category": "play",
+      "layer": "play",
+      "description": "アジアで2番目のUSJ。ハリウッド・ミニオン・ジュラシックパークなど人気エリア多数　8 Sentosa Gateway",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-81ba-9c91-d691ce8aa867",
+      "name": "センバワン温泉公園",
       "emoji": "♨️",
       "category": "play",
       "layer": "play",
@@ -138,8 +138,8 @@
       "free": true,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": true
+      "extra": false
     }
   ],
-  "checkedAt": "2026-03-31T00:00:00.000Z"
+  "checkedAt": "2026-03-31T15:00:49.269Z"
 }

@@ -1,26 +1,12 @@
 {
   "spots": [
     {
-      "id": "manila-001",
-      "name": "在フィリピン日本国大使館",
-      "emoji": "🇯🇵",
-      "category": "vital",
-      "layer": "vital",
-      "description": "パスポート紛失・緊急時の連絡先。2627 Roxas Blvd, Pasay City｜+63-2-8551-5710",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "manila-002",
+      "id": "334088f5-0b07-812f-bcde-e61ac9daddf7",
       "name": "マカティ医療センター",
       "emoji": "🏥",
       "category": "vital",
       "layer": "vital",
-      "description": "マカティ中心部の総合病院。小児科・救急対応。外国人旅行者の利用実績多数。2 Amorsolo St, Makati",
+      "description": "マカティ中心部の総合病院。小児科・救急対応。外国人旅行者の利用実績多数　2 Amorsolo St, Makati",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -29,7 +15,21 @@
       "extra": false
     },
     {
-      "id": "manila-003",
+      "id": "334088f5-0b07-8179-9587-ff7c79a58143",
+      "name": "在フィリピン日本国大使館",
+      "emoji": "🇯🇵",
+      "category": "vital",
+      "layer": "vital",
+      "description": "パスポート紛失・緊急時の連絡先　2627 Roxas Blvd, Pasay City｜+63-2-8551-5710",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-81fc-bb2c-d1e373f92b40",
       "name": "Mercury Drug（薬局）",
       "emoji": "💊",
       "category": "vital",
@@ -43,12 +43,12 @@
       "extra": false
     },
     {
-      "id": "manila-004",
+      "id": "334088f5-0b07-8111-af79-d6c8e8732d18",
       "name": "BGCストリートフード",
       "emoji": "🍢",
       "category": "food",
       "layer": "local",
-      "description": "ボニファシオ・グローバル・シティのフードトラックエリア。バーベキュー・イシャワン・ハロハロなど地元グルメが集結。",
+      "description": "ボニファシオ・グローバル・シティのフードトラックエリア。バーベキュー・イシアワン・ハロハロなど地元グルメが集結。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -57,7 +57,7 @@
       "extra": false
     },
     {
-      "id": "manila-005",
+      "id": "334088f5-0b07-8130-81f2-f706d62f8d32",
       "name": "SM Supermarket",
       "emoji": "🛒",
       "category": "local",
@@ -71,7 +71,7 @@
       "extra": false
     },
     {
-      "id": "manila-006",
+      "id": "334088f5-0b07-8195-a13c-c2f1df771a25",
       "name": "Jollibee（ジョリビー）",
       "emoji": "🍔",
       "category": "food",
@@ -85,35 +85,7 @@
       "extra": false
     },
     {
-      "id": "manila-007",
-      "name": "マニラ海洋公園",
-      "emoji": "🐠",
-      "category": "play",
-      "layer": "play",
-      "description": "リサール公園隣接の水族館・テーマパーク。魚・サメ・海亀などを観察できる。子どもが半日楽しめる。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": false,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "manila-008",
-      "name": "イントラムロス（Intramuros）",
-      "emoji": "🏰",
-      "category": "play",
-      "layer": "play",
-      "description": "スペイン統治時代の石造りの城壁都市。カルサダに乗って散策できる。歴史と観光が両立する子連れスポット。",
-      "status": "check",
-      "statusLabel": "要確認",
-      "free": true,
-      "checkedDate": "2026年3月",
-      "placeId": null,
-      "extra": false
-    },
-    {
-      "id": "manila-009",
+      "id": "334088f5-0b07-814c-af41-eaf12faedee0",
       "name": "モールオブアジア（Mall of Asia）",
       "emoji": "🎡",
       "category": "play",
@@ -127,19 +99,33 @@
       "extra": false
     },
     {
-      "id": "manila-010",
-      "name": "パグサンハン滝（日帰りツアー）",
-      "emoji": "💧",
+      "id": "334088f5-0b07-8165-ba08-e810a1a6c2c9",
+      "name": "イントラムロス（Intramuros）",
+      "emoji": "🏰",
       "category": "play",
       "layer": "play",
-      "description": "マニラから車で2時間のジャングルの滝。カヌーで川を下るツアーが人気。小学生以上ならチャレンジできる。",
+      "description": "スペイン統治時代の石造りの城壁都市。カルサダに乗って散策できる。歴史と観光が両立する子連れスポット。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": true,
+      "checkedDate": "2026年3月",
+      "placeId": null,
+      "extra": false
+    },
+    {
+      "id": "334088f5-0b07-81a1-bb76-c9654f05519b",
+      "name": "マニラ海洋公園",
+      "emoji": "🐠",
+      "category": "play",
+      "layer": "play",
+      "description": "リサール公園隣接の水族館・テーマパーク。魚・サメ・海亀などを間近で観察できる。子どもが半日楽しめる。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": true
+      "extra": false
     }
   ],
-  "checkedAt": "2026-03-31T00:00:00.000Z"
+  "checkedAt": "2026-03-31T15:00:49.269Z"
 }
