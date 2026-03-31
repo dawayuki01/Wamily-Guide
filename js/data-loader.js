@@ -61,6 +61,20 @@
       </div>`;
   }
 
+  // 国スラッグ → Notion国名キーワードのマッピング
+  const SLUG_TO_COUNTRY = {
+    'london':    ['ロンドン'],
+    'taipei':    ['台湾'],
+    'paris':     ['パリ'],
+    'stockholm': ['ストックホルム'],
+    'singapore': ['シンガポール'],
+    'bangkok':   ['バンコク'],
+    'manila':    ['マニラ'],
+    'la':        ['LA'],
+    'hawaii':    ['ハワイ'],
+    'seoul':     ['ソウル'],
+  };
+
   async function loadLiveFeed() {
     const container = document.getElementById('feed-list');
     if (!container) return;
@@ -68,7 +82,20 @@
     try {
       const { items } = await fetchJSON('data/live-feed.json');
       if (!items || !items.length) return;
-      container.innerHTML = items.map(renderFeedItem).join('');
+
+      const slug = document.body.dataset.country;
+      let filtered = items;
+
+      // 国ページではその国の投稿だけに絞る（最大5件）
+      if (slug && SLUG_TO_COUNTRY[slug]) {
+        const keywords = SLUG_TO_COUNTRY[slug];
+        filtered = items
+          .filter(item => keywords.some(kw => item.country && item.country.includes(kw)))
+          .slice(0, 5);
+      }
+
+      if (!filtered.length) return;
+      container.innerHTML = filtered.map(renderFeedItem).join('');
     } catch (e) {
       // 静的HTMLがフォールバックとして残るのでエラーは握りつぶす
     }
