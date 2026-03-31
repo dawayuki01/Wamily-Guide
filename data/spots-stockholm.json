@@ -109,7 +109,7 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年3月",
-      "placeId": "ChIJrymDbVSdX0YRQTLBtPGa8M8",
+      "placeId": null,
       "extra": false
     },
     {
@@ -137,9 +137,9 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年3月",
-      "placeId": "ChIJ72t2V6qCX0YRQfBhNvh8p_I",
+      "placeId": null,
       "extra": false
     }
   ],
-  "checkedAt": "2026-03-31T15:00:49.268Z"
+  "checkedAt": "2026-03-31T21:26:18.627Z"
 }

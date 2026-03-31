@@ -95,7 +95,7 @@
       "statusLabel": "要確認",
       "free": true,
       "checkedDate": "2026年3月",
-      "placeId": "ChIJ11qbMCWd4jARuxyNWJunmNs",
+      "placeId": null,
       "extra": false
     },
     {
@@ -109,7 +109,7 @@
       "statusLabel": "要確認",
       "free": true,
       "checkedDate": "2026年3月",
-      "placeId": "ChIJc0Y-E3mZ4jARFW877xcPVWM",
+      "placeId": null,
       "extra": false
     },
     {
@@ -118,7 +118,7 @@
       "emoji": "👩‍⚕️",
       "category": "play",
       "layer": "play",
-      "description": "※2021年に閉業。子どもが職業体験できる施設として人気だったが現在は存在しない。Siam Paragonでショッピングを楽しむのがおすすめ。",
+      "description": "子どもが職業体験できる施設。パイロット・医者・料理人など100種類以上の仕事を体験できる。Siam Paragon内",
       "status": "closed",
       "statusLabel": "閉業",
       "free": false,
@@ -127,5 +127,5 @@
       "extra": false
     }
   ],
-  "checkedAt": "2026-03-31T15:00:49.269Z"
+  "checkedAt": "2026-03-31T21:26:18.628Z"
 }
