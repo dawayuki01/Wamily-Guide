@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-817b-92ea-f899badacb6a",
+      "name": "Yuki London Life",
+      "type": "Instagram",
+      "description": "日本人ママがロンドン生活で見つけた子どもとの日常を発信。親子で行けるカジュアルなスポットが素敵に映っています。",
+      "url": "",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8172-abbd-cb530b27734e",
+      "name": "ロンドンナビ（子連れ向けブログ）",
+      "type": "ブログ",
+      "description": "キッズフレンドリーな宿泊施設・食事処・安全な公共交通の使い方まで、実体験ベースの情報が整理されています。",
+      "url": "",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81be-a1a4-f0fbf0cc9aa7",
+      "name": "ロンドン子連れ旅行チャンネル by ファミリー旅TV",
+      "type": "YouTube",
+      "description": "子どもが実際に楽しんだ公園・博物館・カフェを映像で紹介。親目線のリアルな移動ルートや所要時間が参考になります。",
+      "url": "",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-8128-bf7d-d970f43cb8f0",
       "name": "Family Travel Vlog - London with Kids",
       "type": "Instagram",
@@ -97,5 +121,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T14:12:51.281Z"
+  "updatedAt": "2026-03-31T14:46:26.697Z"
 }
