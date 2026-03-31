@@ -33,11 +33,13 @@ jobs:
       # ────────────────────────────────
       # 1. Notion → 最近の動き
       # ────────────────────────────────
-      - name: Fetch Notion live feed
+      - name: Fetch Notion (ライブフィード / スポット / キュレーション)
         run: node scripts/fetch-notion.js
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_LIVEFEED_DB_ID: ${{ secrets.NOTION_LIVEFEED_DB_ID }}
+          NOTION_SPOTS_DB_ID: ${{ secrets.NOTION_SPOTS_DB_ID }}
+          NOTION_CURATION_DB_ID: ${{ secrets.NOTION_CURATION_DB_ID }}
         # API キーが未設定でもワークフローを止めない
         continue-on-error: true
 

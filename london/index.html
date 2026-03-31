@@ -8,7 +8,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/style.css">
 </head>
-<body>
+<body data-country="london">
 
   <!-- ======= のれん（パンくず付き） ======= -->
   <nav class="noren">
@@ -521,8 +521,9 @@
         <h3 class="baton-block-title">🎬 これ、見てみて</h3>
         <p style="font-size:13px;color:var(--text-muted);margin-bottom:12px">サワディーが実際に参考にした YouTube・インスタ・ブログです</p>
 
-        <div class="curation-list">
+        <div class="curation-list" id="curation-list">
 
+          <!-- Notionから自動取得。未接続時は以下の静的データが表示されます -->
           <div class="curation-card">
             <span class="curation-icon">▶️</span>
             <div>

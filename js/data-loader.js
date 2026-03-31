@@ -218,6 +218,54 @@
   }
 
   // ──────────────────────────────────────────────────────────
+  // キュレーション（london/index.html）
+  // ──────────────────────────────────────────────────────────
+
+  const CURATION_TYPE_ICON = {
+    'YouTube':   '▶️',
+    'Instagram': '📸',
+    'ブログ':    '📝',
+  };
+
+  function renderCurationCard(item) {
+    const icon = CURATION_TYPE_ICON[item.type] || '🔗';
+    const nameLink = item.url
+      ? `<a href="${item.url}" target="_blank" rel="noopener noreferrer" class="curation-name-link">${item.name}</a>`
+      : `<span class="curation-name">${item.name}</span>`;
+
+    return `
+      <div class="curation-card">
+        <span class="curation-icon">${icon}</span>
+        <div>
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+            ${nameLink}
+            <span class="badge badge-owner">サワディーおすすめ</span>
+          </div>
+          <p class="curation-desc">${item.description}</p>
+        </div>
+      </div>`;
+  }
+
+  async function loadCuration() {
+    const container = document.getElementById('curation-list');
+    if (!container) return;
+
+    // ページの country スラッグを取得（data属性 or URLから推定）
+    const slug = document.body.dataset.country
+      || window.location.pathname.replace(/\//g, '').replace('index.html', '') || 'london';
+
+    try {
+      const data = await fetchJSON(`data/curation-${slug}.json`);
+      const items = data.items || [];
+      if (!items.length) return;
+
+      container.innerHTML = items.map(renderCurationCard).join('');
+    } catch (e) {
+      // 静的HTMLがフォールバック
+    }
+  }
+
+  // ──────────────────────────────────────────────────────────
   // 初期化
   // ──────────────────────────────────────────────────────────
 
@@ -225,6 +273,7 @@
     loadLiveFeed();
     loadSpots();
     loadEvents();
+    loadCuration();
   });
 
 })();
