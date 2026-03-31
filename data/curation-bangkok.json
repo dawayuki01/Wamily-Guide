@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "334088f5-0b07-8175-bf8d-dcb2c0cfb1d4",
+      "name": "子連れバンコク旅行記 by るるぶ",
+      "type": "ブログ",
+      "description": "キッズ向けアクティビティから食事場所まで網羅的で、実際の滞在費や注意点も書いてあって参考になります。",
+      "url": "",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81ce-8705-d8f1c27ec8b2",
+      "name": "famitabi（ファミ旅）",
+      "type": "Instagram",
+      "description": "家族向けアジア旅の実体験が満載で、バンコクの子どもウケスポットや移動Tips がリアルに分かります。",
+      "url": "https://www.instagram.com/famitabi_/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81f8-aa9a-d07bab1ee1f1",
+      "name": "バンコク子連れ旅行ガイド by にほんごnet",
+      "type": "YouTube",
+      "description": "子ども向けホテル、レストラン、安全な移動手段まで、親目線で丁寧に解説してくれるから安心です。",
+      "url": "",
+      "addedDate": "2026-03-31"
+    }
+  ],
+  "updatedAt": "2026-03-31T12:25:37.223Z"
+}
