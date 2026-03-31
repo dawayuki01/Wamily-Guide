@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ガイドブック — Wamily</title>
+  <meta name="description" content="子連れ海外旅行のガイドブック。実際に行った人の情報を、みんなで育てています。">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/pages.css">
+</head>
+<body class="gb-body">
+
+  <!-- ======= ナビ ======= -->
+  <header class="gnav">
+    <a href="../" class="gnav-logo"><span class="gnav-logo-w">W</span>amily</a>
+    <nav class="gnav-links">
+      <span class="gnav-dot" style="background:#2a9d8f"></span>
+      <a href="../concept/">コンセプト</a>
+      <a href="../guidebook/" class="active">ガイドブック</a>
+      <a href="../connect/">つながる</a>
+      <span class="gnav-dot" style="background:#c8a820"></span>
+    </nav>
+    <div class="gnav-ctas">
+      <a href="../connect/" class="gnav-pill outline">旅のバトン</a>
+      <a href="../guidebook/" class="gnav-pill teal">ガイドブック</a>
+    </div>
+  </header>
+
+  <!-- ======= 70/30 スプリットレイアウト ======= -->
+  <div class="gb-split">
+
+    <!-- ===== 左カラム（65%）: 世界地図 + エリアフィルタ + 凡例 ===== -->
+    <div class="gb-left">
+      <div class="gb-left-inner">
+
+        <!-- 世界地図 -->
+        <div class="gb-map-wrap">
+          <img class="gb-map-bg" src="../img/world-map.svg" alt="世界地図" width="1000" height="500">
+          <svg id="world-map" class="gb-map-svg" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+            <!-- 飛行軌跡 -->
+            <g stroke="#c8a820" stroke-width="1.2" fill="none" stroke-dasharray="5 7" opacity="0.35">
+              <path d="M820,195 Q640,60 460,140"/><path d="M820,195 Q648,78 478,158"/>
+              <path d="M820,195 Q660,42 505,115"/><path d="M820,195 Q788,245 755,285"/>
+              <path d="M820,195 Q782,230 740,255"/><path d="M820,195 Q808,232 790,262"/>
+              <path d="M820,195 Q482,80 145,228"/><path d="M820,195 Q490,68 162,208"/>
+            </g>
+            <!-- 日本マーカー -->
+            <g><circle cx="820" cy="195" r="12" fill="#c8a820" fill-opacity="0.18" stroke="#c8a820" stroke-width="1.5"/>
+              <text x="820" y="196" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="#c8a820">✈</text></g>
+            <!-- 9カ国ピン -->
+            <g class="map-pins">
+              <g class="map-pin" data-country="london" data-label="🇬🇧 ロンドン" data-status="ちゃんと調べた" data-cx="460" data-cy="140" style="--d:0s"><circle cx="460" cy="140" r="8" class="mp-d" fill="#2a9d8f"/><circle cx="460" cy="140" r="14" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="paris" data-label="🇫🇷 パリ" data-status="まだ旅の途中" data-cx="478" data-cy="158" style="--d:.3s"><circle cx="478" cy="158" r="7" class="mp-d" fill="#2a9d8f"/><circle cx="478" cy="158" r="12" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="stockholm" data-label="🇸🇪 ストックホルム" data-status="まだ旅の途中" data-cx="505" data-cy="115" style="--d:.6s"><circle cx="505" cy="115" r="7" class="mp-d" fill="#2a9d8f"/><circle cx="505" cy="115" r="12" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="singapore" data-label="🇸🇬 シンガポール" data-status="まだ旅の途中" data-cx="755" data-cy="285" style="--d:.9s"><circle cx="755" cy="285" r="7" class="mp-d" fill="#2a9d8f"/><circle cx="755" cy="285" r="12" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="bangkok" data-label="🇹🇭 バンコク" data-status="まだ旅の途中" data-cx="740" data-cy="255" style="--d:1.2s"><circle cx="740" cy="255" r="7" class="mp-d" fill="#2a9d8f"/><circle cx="740" cy="255" r="12" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="manila" data-label="🇵🇭 マニラ" data-status="まだ旅の途中" data-cx="790" data-cy="262" style="--d:1.5s"><circle cx="790" cy="262" r="7" class="mp-d" fill="#2a9d8f"/><circle cx="790" cy="262" r="12" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="seoul" data-label="🇰🇷 ソウル" data-status="まだ旅の途中" data-cx="800" data-cy="183" style="--d:1.8s"><circle cx="800" cy="183" r="7" class="mp-d" fill="#2a9d8f"/><circle cx="800" cy="183" r="12" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="taipei" data-label="🇹🇼 台湾" data-status="ちゃんと調べた" data-cx="800" data-cy="208" style="--d:2.1s"><circle cx="800" cy="208" r="8" class="mp-d" fill="#2a9d8f"/><circle cx="800" cy="208" r="14" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="hawaii" data-label="🇺🇸 ハワイ" data-status="まだ旅の途中" data-cx="145" data-cy="228" style="--d:2.4s"><circle cx="145" cy="228" r="7" class="mp-d" fill="#2a9d8f"/><circle cx="145" cy="228" r="12" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+              <g class="map-pin" data-country="la" data-label="🇺🇸 LA" data-status="まだ旅の途中" data-cx="162" data-cy="208" style="--d:2.7s"><circle cx="162" cy="208" r="7" class="mp-d" fill="#2a9d8f"/><circle cx="162" cy="208" r="12" class="mp-r" fill="none" stroke="#2a9d8f" stroke-width="1.5"/></g>
+            </g>
+          </svg>
+          <div class="mtt" id="map-tooltip"><span class="mtt-name"></span><span class="mtt-status"></span></div>
+        </div>
+
+        <!-- 凡例 + ヒント -->
+        <div class="gb-map-meta">
+          <div class="gb-legend">
+            <span class="gb-legend-item"><span class="gb-legend-dot" style="background:#2a9d8f"></span>ちゃんと調べた</span>
+            <span class="gb-legend-item"><span class="gb-legend-dot" style="background:#2a9d8f;opacity:.5"></span>まだ旅の途中</span>
+          </div>
+          <p class="gb-map-hint">ピンをクリックするとガイドブックへ</p>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ===== 右カラム（35%）: コンテンツ ===== -->
+    <div class="gb-right">
+
+      <!-- ヘッダー -->
+      <div class="gb-right-header">
+        <p class="gb-en">GUIDEBOOK</p>
+        <h1 class="gb-title">みんなで育てる<br>ガイドブック<span class="period-teal">。</span></h1>
+        <p class="gb-sub">実際に子どもを連れて行った人の<br>経験から生まれた、体温のある情報。</p>
+      </div>
+
+      <div class="gb-divider"></div>
+
+      <!-- このガイドブックについて -->
+      <div class="gb-block">
+        <h2 class="gb-block-title">このガイドブックについて</h2>
+        <p class="gb-block-text">サワディー家が実際に子連れで行った9カ国の情報をまとめています。「子連れで行くとどうなるか」に特化した、体温のある情報です。</p>
+        <div class="gb-quote">
+          <p>「育っていく過程そのものを見せる場所。行くたびに、本棚が増えていきます。」</p>
+          <span>— サワディー</span>
+        </div>
+      </div>
+
+      <div class="gb-divider"></div>
+
+      <!-- 特徴 -->
+      <div class="gb-block">
+        <h2 class="gb-block-title">特徴</h2>
+        <div class="gb-feature-list">
+          <div class="gb-feat"><span>🌡️</span><div><strong>体温のある情報</strong><p>実際に行った人の体験だけ。</p></div></div>
+          <div class="gb-feat"><span>🔄</span><div><strong>自動で更新</strong><p>営業状況を定期確認。</p></div></div>
+          <div class="gb-feat"><span>🪃</span><div><strong>みんなで育てる</strong><p>声が集まるほど充実。</p></div></div>
+          <div class="gb-feat"><span>🆓</span><div><strong>すべて無料</strong><p>広告もありません。</p></div></div>
+        </div>
+      </div>
+
+      <div class="gb-divider"></div>
+
+      <!-- ページの見方 -->
+      <div class="gb-block">
+        <h2 class="gb-block-title">ページの見方</h2>
+        <p class="gb-block-text">各国のガイドブックは4つのタブで構成されています。</p>
+        <div class="gb-tab-list">
+          <div class="gb-tab-item"><span>🏙️</span> <strong>○○について</strong> — 親子視点の魅力紹介</div>
+          <div class="gb-tab-item"><span>🧭</span> <strong>行く前に</strong> — 医療・交通・持ち物</div>
+          <div class="gb-tab-item"><span>✨</span> <strong>現地で楽しむ</strong> — スポット・レストラン</div>
+          <div class="gb-tab-item"><span>🪃</span> <strong>旅のバトン</strong> — SNS・おすすめ・体験談</div>
+        </div>
+      </div>
+
+      <div class="gb-divider"></div>
+
+      <!-- 国カード（エリアタブ付き） -->
+      <div class="gb-block">
+        <h2 class="gb-block-title">一覧から選ぶ</h2>
+
+        <div class="gb-area-tabs">
+          <button class="gb-area-tab active" data-area="europe">🌍 ヨーロッパ</button>
+          <button class="gb-area-tab" data-area="asia">🌏 アジア</button>
+          <button class="gb-area-tab" data-area="america">🌎 アメリカ</button>
+        </div>
+
+        <div class="gb-cards" id="panel-europe">
+          <a href="../london/" class="gb-card gb-card-ready">
+            <img src="https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=300&q=80" alt="ロンドン" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇬🇧</span><strong>イギリス</strong><small>London</small><em class="ready">ちゃんと調べた</em></div>
+          </a>
+          <a href="../paris/" class="gb-card gb-card-wip">
+            <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&q=80" alt="パリ" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇫🇷</span><strong>フランス</strong><small>Paris</small><em class="wip">まだ旅の途中</em></div>
+          </a>
+          <a href="../stockholm/" class="gb-card gb-card-wip">
+            <img src="https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=300&q=80" alt="ストックホルム" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇸🇪</span><strong>スウェーデン</strong><small>Stockholm</small><em class="wip">まだ旅の途中</em></div>
+          </a>
+        </div>
+
+        <div class="gb-cards" id="panel-asia" style="display:none">
+          <a href="../taipei/" class="gb-card gb-card-ready">
+            <img src="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=300&q=80" alt="台湾" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇹🇼</span><strong>台湾</strong><small>Taiwan</small><em class="ready">ちゃんと調べた</em></div>
+          </a>
+          <a href="../singapore/" class="gb-card gb-card-wip">
+            <img src="https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=300&q=80" alt="シンガポール" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇸🇬</span><strong>シンガポール</strong><small>Singapore</small><em class="wip">まだ旅の途中</em></div>
+          </a>
+          <a href="../bangkok/" class="gb-card gb-card-wip">
+            <img src="https://images.unsplash.com/photo-1528181304800-259b08848526?w=300&q=80" alt="バンコク" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇹🇭</span><strong>タイ</strong><small>Bangkok</small><em class="wip">まだ旅の途中</em></div>
+          </a>
+          <a href="../seoul/" class="gb-card gb-card-wip">
+            <img src="https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=300&q=80" alt="韓国" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇰🇷</span><strong>韓国</strong><small>Seoul</small><em class="wip">まだ旅の途中</em></div>
+          </a>
+          <a href="../manila/" class="gb-card gb-card-wip">
+            <img src="https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=300&q=80" alt="マニラ" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇵🇭</span><strong>フィリピン</strong><small>Manila</small><em class="wip">まだ旅の途中</em></div>
+          </a>
+        </div>
+
+        <div class="gb-cards" id="panel-america" style="display:none">
+          <a href="../la/" class="gb-card gb-card-wip">
+            <img src="https://images.unsplash.com/photo-1534430480872-3498386e7856?w=300&q=80" alt="LA" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇺🇸</span><strong>LA</strong><small>Los Angeles</small><em class="wip">まだ旅の途中</em></div>
+          </a>
+          <a href="../hawaii/" class="gb-card gb-card-wip">
+            <img src="https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=300&q=80" alt="ハワイ" loading="lazy">
+            <div class="gb-card-info"><span class="gb-card-flag">🇺🇸</span><strong>ハワイ</strong><small>Hawaii</small><em class="wip">まだ旅の途中</em></div>
+          </a>
+        </div>
+      </div>
+
+      <!-- フッター（右カラム内） -->
+      <div class="gb-footer">
+        <p class="gb-footer-logo"><span style="color:#2a9d8f">W</span>amily</p>
+        <p class="gb-footer-copy">家族の数だけ、旅がある。</p>
+        <p class="gb-footer-copy">&copy; 2024 Wamily</p>
+      </div>
+
+    </div><!-- /.gb-right -->
+
+  </div><!-- /.gb-split -->
+
+  <script>
+  (function(){
+    // エリアタブ
+    document.querySelectorAll('.gb-area-tab').forEach(function(tab){
+      tab.addEventListener('click', function(){
+        document.querySelectorAll('.gb-area-tab').forEach(function(t){ t.classList.remove('active'); });
+        document.querySelectorAll('.gb-cards').forEach(function(p){ p.style.display='none'; });
+        this.classList.add('active');
+        var panel = document.getElementById('panel-' + this.dataset.area);
+        if(panel) panel.style.display = '';
+      });
+    });
+
+    // マップ ピン
+    var JX=820, JY=195, svg=document.getElementById('world-map');
+    if(!svg) return;
+    var tt=document.getElementById('map-tooltip'), ttN=tt.querySelector('.mtt-name'), ttS=tt.querySelector('.mtt-status');
+    var flying=false;
+
+    document.querySelectorAll('.map-pin').forEach(function(p){
+      var cx=+p.dataset.cx, cy=+p.dataset.cy, c=p.dataset.country, l=p.dataset.label, s=p.dataset.status;
+      p.style.cursor='pointer';
+
+      p.addEventListener('mouseenter', function(){
+        ttN.textContent=l; ttS.textContent=s;
+        ttS.className='mtt-status '+(s==='ちゃんと調べた'?'ready':'wip');
+        tt.classList.add('show');
+        var sr=svg.getBoundingClientRect(), wr=svg.parentElement.getBoundingClientRect();
+        tt.style.left=(sr.left-wr.left+cx*sr.width/1000)+'px';
+        tt.style.top=(sr.top-wr.top+cy*sr.height/500-52)+'px';
+      });
+      p.addEventListener('mouseleave', function(){ tt.classList.remove('show'); });
+      p.addEventListener('click', function(){
+        if(flying)return; flying=true; tt.classList.remove('show');
+        var mx=(JX+cx)/2, my=Math.min(JY,cy)-80;
+        var g=document.createElementNS('http://www.w3.org/2000/svg','g');
+        var t=document.createElementNS('http://www.w3.org/2000/svg','text');
+        t.setAttribute('text-anchor','middle'); t.setAttribute('dominant-baseline','middle');
+        t.setAttribute('font-size','18'); t.textContent='✈'; g.appendChild(t);
+        var a=document.createElementNS('http://www.w3.org/2000/svg','animateMotion');
+        a.setAttribute('dur','0.8s'); a.setAttribute('fill','freeze'); a.setAttribute('rotate','auto');
+        a.setAttribute('begin','indefinite');
+        a.setAttribute('path','M'+JX+','+JY+' Q'+mx+','+my+' '+cx+','+cy);
+        g.appendChild(a); svg.appendChild(g);
+        requestAnimationFrame(function(){ requestAnimationFrame(function(){ a.beginElement(); }); });
+        setTimeout(function(){ window.location.href='../'+c+'/'; }, 900);
+      });
+    });
+  })();
+  </script>
+
+</body>
+</html>
