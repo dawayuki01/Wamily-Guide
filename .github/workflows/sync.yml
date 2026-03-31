@@ -31,7 +31,23 @@ jobs:
         working-directory: scripts
 
       # ────────────────────────────────
-      # 1. Notion → 最近の動き
+      # 1. Claude API → Notionにコンテンツ自動生成（週1: 月曜のみ）
+      #    - 最近の動き：各国の季節トピックを投稿
+      #    - キュレーション：YouTube/Instagram/ブログ提案を追加
+      # ────────────────────────────────
+      - name: Generate content (Claude → Notion)
+        if: github.event_name == 'workflow_dispatch' || toJSON(github.event.schedule) == '"0 0 * * 1"'
+        run: node scripts/generate-guide.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_LIVEFEED_DB_ID: ${{ secrets.NOTION_LIVEFEED_DB_ID }}
+          NOTION_CURATION_DB_ID: ${{ secrets.NOTION_CURATION_DB_ID }}
+        continue-on-error: true
+
+      # ────────────────────────────────
+      # 2. Notion → data/*.json に同期
+      #    - 最近の動き / スポット / キュレーション
       # ────────────────────────────────
       - name: Fetch Notion (ライブフィード / スポット / キュレーション)
         run: node scripts/fetch-notion.js
@@ -40,11 +56,10 @@ jobs:
           NOTION_LIVEFEED_DB_ID: ${{ secrets.NOTION_LIVEFEED_DB_ID }}
           NOTION_SPOTS_DB_ID: ${{ secrets.NOTION_SPOTS_DB_ID }}
           NOTION_CURATION_DB_ID: ${{ secrets.NOTION_CURATION_DB_ID }}
-        # API キーが未設定でもワークフローを止めない
         continue-on-error: true
 
       # ────────────────────────────────
-      # 2. TimeOut London RSS + Claude フィルタ → イベント
+      # 3. TimeOut London RSS + Claude フィルタ → イベント
       # ────────────────────────────────
       - name: Fetch & filter events (RSS + Claude API)
         run: node scripts/fetch-events.js
@@ -53,10 +68,9 @@ jobs:
         continue-on-error: true
 
       # ────────────────────────────────
-      # 3. Google Places → スポット営業状況（週1: 月曜のみ）
+      # 4. Google Places → スポット営業状況（週1: 月曜のみ）
       # ────────────────────────────────
       - name: Check spot status (Google Places)
-        # 月曜日のみ実行（cron では曜日指定できないのでここで制御）
         if: github.event_name == 'workflow_dispatch' || toJSON(github.event.schedule) == '"0 0 * * 1"'
         run: node scripts/check-spots.js
         env:
@@ -64,7 +78,7 @@ jobs:
         continue-on-error: true
 
       # ────────────────────────────────
-      # 4. 変更があれば commit & push
+      # 5. 変更があれば commit & push
       # ────────────────────────────────
       - name: Commit updated data files
         uses: stefanzweifel/git-auto-commit-action@v5
