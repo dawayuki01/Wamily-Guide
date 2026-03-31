@@ -1,29 +1,4 @@
 {
-  "items": [
-    {
-      "id": "static-1",
-      "author": "サワディー",
-      "authorType": "owner",
-      "country": "🇬🇧 ロンドン",
-      "body": "医療情報を更新しました。Chelsea and Westminster Hospitalの小児科について詳しくなりました。",
-      "date": "2026-03-20"
-    },
-    {
-      "id": "static-2",
-      "author": "田中さん",
-      "authorType": "resident",
-      "country": "🇬🇧 ロンドン",
-      "body": "「Alexandra Palaceがほんとによかった！ローカルな雰囲気で子どもが走り回れます」 — 田中さん（在住）",
-      "date": "2026-03-15"
-    },
-    {
-      "id": "static-3",
-      "author": "サワディー",
-      "authorType": "owner",
-      "country": "🇹🇼 台湾",
-      "body": "コンビニの授乳室情報を追加しました。セブンイレブン等の授乳スペースがある店舗を地図に追加しています。",
-      "date": "2026-03-10"
-    }
-  ],
-  "updatedAt": "2026-03-27T00:00:00.000Z"
+  "items": [],
+  "updatedAt": "2026-03-31T12:08:36.303Z"
 }
