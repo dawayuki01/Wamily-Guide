@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-8144-820e-c3461900a01e",
+      "name": "ayu_london_life",
+      "type": "Instagram",
+      "description": "ロンドン在住ママによる子連れ散歩スポットやカフェなど、視覚的に分かりやすく日常的に参考になる投稿が続いています。",
+      "url": "https://www.instagram.com/ayu_london_life",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81ca-9309-c6dc6c9debf8",
+      "name": "ロンドンナビ",
+      "type": "ブログ",
+      "description": "子連れ移動の工夫やキッズ向けスポット、ベビーカー情報など、実用的でかゆい所に手が届く現地情報が豊富。",
+      "url": "",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81a3-a4dc-d8105bfb1c54",
+      "name": "Kids and Family Bucket",
+      "type": "YouTube",
+      "description": "ロンドン在住ファミリーが、子連れで実際に訪れた場所や移動方法をリアルに紹介。同じ目線での情報が親切です。",
+      "url": "https://www.youtube.com/@kidsandfamilybucket",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81a2-ac9f-da9d948a8c18",
+      "name": "@visitlondon",
+      "type": "Instagram",
+      "description": "ロンドン観光局の公式Instagram。フォトジェニックなスポットや季節のイベント情報を日々更新。",
+      "url": "https://www.instagram.com/visitlondon/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81ba-b3f4-e6bd08ab99cc",
+      "name": "VisitBritain 公式YouTube",
+      "type": "YouTube",
+      "description": "英国政府観光庁の公式チャンネル。街の雰囲気・観光スポットを映像で確認できる。行く前に見ておきたい。",
+      "url": "https://www.youtube.com/@visitbritain",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81f4-9aac-e1e4a04f7dc2",
+      "name": "地球の歩き方 イギリス",
+      "type": "ブログ",
+      "description": "旅行者の定番ガイド公式サイト。医療・交通・子連れスポットまで網羅。事前情報収集の第一歩に。",
+      "url": "https://www.arukikata.co.jp/guidebook/area/GB/",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-814f-b618-c3a31fbc5e83",
       "name": "旅するように暮らす - ロンドン編（ブログ）",
       "type": "ブログ",
@@ -25,5 +73,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T12:25:37.224Z"
+  "updatedAt": "2026-03-31T13:44:59.882Z"
 }

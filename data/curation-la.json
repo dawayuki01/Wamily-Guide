@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-813e-8edc-e26614d62838",
+      "name": "ロサンゼルス観光局 日本語サイト",
+      "type": "ブログ",
+      "description": "LAの公式観光サイト。テーマパーク・ビーチ・グルメなど、ファミリー旅行のプランニングに役立つ。",
+      "url": "https://www.discoverlosangeles.com/ja",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8195-9f2f-eb171a232086",
+      "name": "@discoverlosangeles",
+      "type": "Instagram",
+      "description": "LA観光局の公式Instagram。太陽・ビーチ・アート。西海岸の開放感が子どもも大人もワクワクさせる。",
+      "url": "https://www.instagram.com/discoverlosangeles/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81f5-98af-de36c19eff3c",
+      "name": "Discover Los Angeles 公式YouTube",
+      "type": "YouTube",
+      "description": "LA観光局の公式チャンネル。ハリウッド・ビーチ・グルメなどLAの多彩な魅力を映像で紹介。",
+      "url": "https://www.youtube.com/@discoverLA",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-81b0-b987-ece39f0c955f",
       "name": "Family Travel LA",
       "type": "Instagram",
@@ -25,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T12:25:37.223Z"
+  "updatedAt": "2026-03-31T13:44:59.883Z"
 }

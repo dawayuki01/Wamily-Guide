@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-8150-9b13-cf591af39377",
+      "name": "@amazingthailand",
+      "type": "Instagram",
+      "description": "タイ政府観光庁の公式Instagram。バンコクの寺院・市場・食べ物など現地の空気感が伝わる写真が多い。",
+      "url": "https://www.instagram.com/amazingthailand/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8157-8e78-ca159be4a124",
+      "name": "タイ国政府観光庁 日本語サイト",
+      "type": "ブログ",
+      "description": "タイ政府観光庁の公式日本語サイト。バンコクの子連れスポット・祭り・移動情報が豊富。",
+      "url": "https://www.tourismthailand.org/home",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8196-8fa9-ce49e15c9638",
+      "name": "Amazing Thailand 公式YouTube",
+      "type": "YouTube",
+      "description": "タイ政府観光庁の公式チャンネル。寺院・自然・食文化など、タイの多様な魅力を映像で体感。",
+      "url": "https://www.youtube.com/@AmazingThailand",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-8175-bf8d-dcb2c0cfb1d4",
       "name": "子連れバンコク旅行記 by るるぶ",
       "type": "ブログ",
@@ -25,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T12:25:37.223Z"
+  "updatedAt": "2026-03-31T13:44:59.883Z"
 }

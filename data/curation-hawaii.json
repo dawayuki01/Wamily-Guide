@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-812d-9588-f6b12adef567",
+      "name": "@gohawaiijapan",
+      "type": "Instagram",
+      "description": "ハワイ州観光局の日本語Instagram。青い海・虹・家族写真。ハワイへの気持ちが高まる一枚ばかり。",
+      "url": "https://www.instagram.com/gohawaiijapan/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8141-b1dd-c578e26eb404",
+      "name": "ハワイ州観光局 日本語公式サイト",
+      "type": "ブログ",
+      "description": "ハワイ州が運営する公式観光サイト。ビーチ・自然・ファミリー向けアクティビティ情報が豊富。",
+      "url": "https://www.gohawaii.jp/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81c9-88a0-dabef61a6a6d",
+      "name": "Go Hawaii 公式YouTube",
+      "type": "YouTube",
+      "description": "ハワイ州観光局の公式チャンネル。各島の魅力・家族向けアクティビティを映像で紹介。",
+      "url": "https://www.youtube.com/@GoHawaii",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-8140-a237-ecdc009fa8d7",
       "name": "yuuuuuu_family",
       "type": "Instagram",
@@ -25,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T12:25:37.223Z"
+  "updatedAt": "2026-03-31T13:44:59.883Z"
 }

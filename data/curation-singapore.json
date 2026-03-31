@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-8110-829d-ef50707a6c9d",
+      "name": "シンガポール政府観光局 日本語サイト",
+      "type": "ブログ",
+      "description": "シンガポール政府観光局の公式日本語サイト。ファミリー向けのモデルコースや最新情報が充実。",
+      "url": "https://www.visitsingapore.com/ja_jp/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81c0-ae2f-e12a63fcd3ec",
+      "name": "@visitsingaporejp",
+      "type": "Instagram",
+      "description": "シンガポール観光局の日本語Instagram。夜景・動物園・美食など、子連れが喜ぶ情報を発信。",
+      "url": "https://www.instagram.com/visitsingaporejp/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81ff-a866-ccc124dfa2f0",
+      "name": "Visit Singapore 公式YouTube",
+      "type": "YouTube",
+      "description": "シンガポールの観光スポット・グルメ・文化を映像で紹介。ガーデンズ・バイ・ザ・ベイも映える。",
+      "url": "https://www.youtube.com/@VisitSingapore",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-81dc-bb70-dc447cbc0f5d",
       "name": "シンガポール駐在ママの日常",
       "type": "Instagram",
@@ -25,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T12:25:37.223Z"
+  "updatedAt": "2026-03-31T13:44:59.882Z"
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-8121-8fd6-f446cc6226ae",
+      "name": "@visitsweden",
+      "type": "Instagram",
+      "description": "スウェーデン政府観光局の公式Instagram。森・湖・街並み。北欧の美しい景色が子どもの冒険心を刺激。",
+      "url": "https://www.instagram.com/visitsweden/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8166-84f4-c3b0a6b26924",
+      "name": "スウェーデン政府観光局 公式サイト",
+      "type": "ブログ",
+      "description": "スウェーデン政府観光局の公式サイト。ストックホルムの自然・文化・ファミリー旅行情報を掲載。",
+      "url": "https://visitsweden.com/ja/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81cf-8b2e-ed44f15cbc41",
+      "name": "Visit Sweden 公式YouTube",
+      "type": "YouTube",
+      "description": "スウェーデン政府観光局の公式チャンネル。北欧の自然・暮らし・子ども文化が伝わる映像が豊富。",
+      "url": "https://www.youtube.com/@visitsweden",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-815c-9432-dbbe66233d34",
       "name": "Family Travel in Sweden",
       "type": "Instagram",
@@ -25,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T12:25:37.223Z"
+  "updatedAt": "2026-03-31T13:44:59.882Z"
 }

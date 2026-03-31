@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-8111-96be-cfe6fba057d5",
+      "name": "It's More Fun in the Philippines 公式YouTube",
+      "type": "YouTube",
+      "description": "フィリピン観光省の公式チャンネル。現地の人の温かさと自然の美しさが伝わる映像が豊富。",
+      "url": "https://www.youtube.com/@TourismPhilippines",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8132-902a-e1be9ecd064c",
+      "name": "@itsmorefuninthephilippines",
+      "type": "Instagram",
+      "description": "フィリピン観光省の公式Instagram。青い海・笑顔・食べ物。フィリピンへの期待が膨らむ一枚。",
+      "url": "https://www.instagram.com/itsmorefuninthephilippines/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8198-b23f-c644e78003f0",
+      "name": "フィリピン政府観光省 日本語サイト",
+      "type": "ブログ",
+      "description": "フィリピン政府観光省の公式サイト。マニラ観光・ビーチリゾート・子連れ向け情報を掲載。",
+      "url": "https://www.itsmorefuninthephilippines.com/",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-81d8-9517-e1c6e82dd854",
       "name": "フィリピン情報 Instagram",
       "type": "Instagram",
@@ -25,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T12:25:37.223Z"
+  "updatedAt": "2026-03-31T13:44:59.882Z"
 }

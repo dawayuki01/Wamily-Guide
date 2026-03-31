@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "334088f5-0b07-810b-9479-e4e3cf09ca5e",
+      "name": "フランス政府観光局 日本語サイト",
+      "type": "ブログ",
+      "description": "フランス政府観光局の公式日本語サイト。パリの子連れスポット・美術館・グルメ情報が充実。",
+      "url": "https://jp.france.fr/ja",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-812b-9f94-d54c83dfc577",
+      "name": "@france.fr",
+      "type": "Instagram",
+      "description": "フランス政府観光局の公式Instagram。パリの美しい景色・カフェ・アート。旅心をくすぐる写真が並ぶ。",
+      "url": "https://www.instagram.com/france.fr/",
+      "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-8173-a70a-c20afb918281",
+      "name": "Atout France 公式YouTube",
+      "type": "YouTube",
+      "description": "フランス政府観光局の公式チャンネル。パリの街並み・文化・旅の空気感が映像でよく伝わる。",
+      "url": "https://www.youtube.com/@AtoutFrance",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-8183-a38d-d86a6a0d5737",
       "name": "Yuki's Paris Travel",
       "type": "Instagram",
@@ -25,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-03-31T12:25:37.224Z"
+  "updatedAt": "2026-03-31T13:44:59.882Z"
 }
