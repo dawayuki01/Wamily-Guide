@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * check-spots.js
- * data/spots-london.json の各スポットについて Google Places API で
+ * data/spots-*.json の各スポットについて Google Places API で
  * 営業状況を確認し、status フィールドを更新する。
  *
  * 必要な環境変数：
@@ -17,9 +17,13 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
-const SPOTS_FILE = path.join(DATA_DIR, 'spots-london.json');
-
 const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
+
+// 対象の全国スラグ
+const SLUGS = [
+  'london', 'taipei', 'paris', 'stockholm', 'singapore',
+  'bangkok', 'manila', 'la', 'hawaii', 'seoul'
+];
 
 // ──────────────────────────────────────────────────────────
 // Google Places API で営業状況を取得
@@ -54,34 +58,34 @@ async function checkPlaceStatus(placeId) {
 }
 
 // ──────────────────────────────────────────────────────────
-// メイン
+// 1つの国のスポットファイルを処理
 // ──────────────────────────────────────────────────────────
 
-async function main() {
-  if (!API_KEY) {
-    console.error('❌ GOOGLE_PLACES_API_KEY が設定されていません。');
-    process.exit(1);
+async function processCountry(slug) {
+  const spotsFile = path.join(DATA_DIR, `spots-${slug}.json`);
+
+  if (!fs.existsSync(spotsFile)) {
+    console.log(`⚠️  ${slug}: ファイルが見つかりません（スキップ）`);
+    return;
   }
 
-  if (!fs.existsSync(SPOTS_FILE)) {
-    console.error(`❌ ${SPOTS_FILE} が見つかりません。`);
-    process.exit(1);
-  }
-
-  const spotsData = JSON.parse(fs.readFileSync(SPOTS_FILE, 'utf-8'));
+  const spotsData = JSON.parse(fs.readFileSync(spotsFile, 'utf-8'));
   const spots = spotsData.spots || [];
+  const withPlaceId = spots.filter(s => s.placeId);
 
-  console.log(`🗺  ${spots.length} 件のスポットを確認中...`);
+  if (withPlaceId.length === 0) {
+    console.log(`⏭️  ${slug}: placeId 設定済みスポットなし（スキップ）`);
+    return;
+  }
+
+  console.log(`\n🗺  ${slug}: ${withPlaceId.length} 件を確認中...`);
 
   let updatedCount = 0;
 
   for (const spot of spots) {
-    if (!spot.placeId) {
-      // Place ID なしは手動管理 → スキップ
-      continue;
-    }
+    if (!spot.placeId) continue;
 
-    process.stdout.write(`  チェック中: ${spot.name} ... `);
+    process.stdout.write(`  ${spot.name} ... `);
     const newStatus = await checkPlaceStatus(spot.placeId);
 
     if (newStatus === null) {
@@ -92,7 +96,6 @@ async function main() {
     if (newStatus !== spot.status) {
       console.log(`${spot.status} → ${newStatus}`);
       spot.status = newStatus;
-      // statusLabel も更新
       spot.statusLabel = newStatus === 'open' ? '営業中'
         : newStatus === 'closed' ? '閉業'
         : '要確認';
@@ -107,13 +110,28 @@ async function main() {
   }
 
   spotsData.checkedAt = new Date().toISOString();
-  fs.writeFileSync(SPOTS_FILE, JSON.stringify(spotsData, null, 2), 'utf-8');
+  fs.writeFileSync(spotsFile, JSON.stringify(spotsData, null, 2), 'utf-8');
 
-  if (updatedCount > 0) {
-    console.log(`✅ ${updatedCount} 件のスポット状況を更新しました`);
-  } else {
-    console.log('✅ 全スポットの状況に変化はありませんでした');
+  console.log(`  ✅ ${updatedCount > 0 ? `${updatedCount} 件更新` : '変化なし'}`);
+}
+
+// ──────────────────────────────────────────────────────────
+// メイン
+// ──────────────────────────────────────────────────────────
+
+async function main() {
+  if (!API_KEY) {
+    console.error('❌ GOOGLE_PLACES_API_KEY が設定されていません。');
+    process.exit(1);
   }
+
+  console.log('🌍 全10カ国のスポット営業状況チェックを開始します...');
+
+  for (const slug of SLUGS) {
+    await processCountry(slug);
+  }
+
+  console.log('\n🎉 全カ国チェック完了！');
 }
 
 main().catch(err => {
