@@ -117,7 +117,8 @@
     if (!container) return;
 
     try {
-      const data = await fetchJSON('data/spots-london.json');
+      const slug = document.body.dataset.country || 'london';
+      const data = await fetchJSON(`data/spots-${slug}.json`);
       const spots = data.spots || [];
 
       const layers = {
