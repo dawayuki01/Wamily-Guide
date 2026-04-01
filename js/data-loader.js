@@ -296,31 +296,44 @@
       const items = data.items || [];
       if (!items.length) return;
 
-      const VISIBLE = 5;
-      const visible = items.slice(0, VISIBLE);
-      const hidden  = items.slice(VISIBLE);
+      const PAGE = 10; // 1ページの表示件数
+      let page = 0;
 
-      let html = visible.map(renderCurationCard).join('');
+      function renderPage() {
+        const start = page * PAGE;
+        const end   = start + PAGE;
+        const slice = items.slice(start, end);
+        const total = items.length;
+        const hasMore = end < total;
+        const hasPrev = page > 0;
 
-      if (hidden.length > 0) {
-        html += `
-          <div class="curation-more" id="curation-more" style="display:none">
-            ${hidden.map(renderCurationCard).join('')}
-          </div>
-          <button class="curation-more-btn" id="curation-more-btn" style="margin-top:12px;background:none;border:1.5px solid var(--teal-border);color:var(--teal);padding:8px 20px;border-radius:999px;font-size:13px;cursor:pointer;">
-            もっと見る（残り${hidden.length}件）
-          </button>`;
-      }
+        let html = slice.map(renderCurationCard).join('');
 
-      container.innerHTML = html;
+        // ページネーション
+        if (hasMore || hasPrev) {
+          html += `<div class="curation-pager">`;
+          if (hasPrev) {
+            html += `<button class="curation-pager-btn" data-dir="-1">← 前の${PAGE}件</button>`;
+          }
+          html += `<span class="curation-pager-count">${start + 1}–${Math.min(end, total)} / ${total}件</span>`;
+          if (hasMore) {
+            html += `<button class="curation-pager-btn" data-dir="1">次の${PAGE}件 →</button>`;
+          }
+          html += `</div>`;
+        }
 
-      const btn = document.getElementById('curation-more-btn');
-      if (btn) {
-        btn.addEventListener('click', () => {
-          document.getElementById('curation-more').style.display = '';
-          btn.style.display = 'none';
+        container.innerHTML = html;
+
+        container.querySelectorAll('.curation-pager-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            page += parseInt(btn.dataset.dir);
+            renderPage();
+            container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
         });
       }
+
+      renderPage();
     } catch (e) {
       // 静的HTMLがフォールバック
     }
