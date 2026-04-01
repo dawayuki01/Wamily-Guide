@@ -134,7 +134,7 @@
           ${statusTag(spot)}
           ${freeTag}
           ${residentBadge}
-          <span class="spot-date">確認：${spot.checkedDate}</span>
+          <span class="spot-date">✓ サワディー確認済み（${spot.checkedDate}）</span>
         </div>
       </div>`;
   }
@@ -304,6 +304,50 @@
   }
 
   // ──────────────────────────────────────────────────────────
+  // 国カルーセル（他の国を見る）
+  // ──────────────────────────────────────────────────────────
+
+  const ALL_COUNTRIES = [
+    { slug: 'london',    flag: '🇬🇧', name: 'イギリス・ロンドン',   status: 'ちゃんと調べた', img: 'photo-1513635269975-59663e0ac1ad' },
+    { slug: 'taipei',    flag: '🇹🇼', name: '台湾・台北',         status: 'ちゃんと調べた', img: 'photo-1470004914212-05527e49370b' },
+    { slug: 'paris',     flag: '🇫🇷', name: 'フランス・パリ',     status: 'まだ旅の途中',   img: 'photo-1502602898657-3e91760cbb34' },
+    { slug: 'stockholm', flag: '🇸🇪', name: 'ストックホルム',     status: 'まだ旅の途中',   img: 'photo-1509356843151-3e7d96241e11' },
+    { slug: 'singapore', flag: '🇸🇬', name: 'シンガポール',       status: 'まだ旅の途中',   img: 'photo-1525625293386-3f8f99389edd' },
+    { slug: 'bangkok',   flag: '🇹🇭', name: 'タイ・バンコク',     status: 'まだ旅の途中',   img: 'photo-1508009603885-50cf7c579365' },
+    { slug: 'manila',    flag: '🇵🇭', name: 'フィリピン・マニラ', status: 'まだ旅の途中',   img: 'photo-1518509562904-e7ef99cdcc86' },
+    { slug: 'la',        flag: '🇺🇸', name: 'アメリカ・LA',       status: 'まだ旅の途中',   img: 'photo-1534190239940-9ba8944ea261' },
+    { slug: 'hawaii',    flag: '🇺🇸', name: 'アメリカ・ハワイ',   status: 'まだ旅の途中',   img: 'photo-1507876466758-bc54f384809c' },
+    { slug: 'seoul',     flag: '🇰🇷', name: '韓国・ソウル',       status: 'まだ旅の途中',   img: 'photo-1534274988757-a28bf1a57c17' },
+  ];
+
+  function loadCountryCarousel() {
+    const container = document.getElementById('country-carousel');
+    if (!container) return;
+
+    const currentSlug = document.body.dataset.country;
+    const others = ALL_COUNTRIES.filter(c => c.slug !== currentSlug);
+
+    // シャッフルして4つ選ぶ
+    const shuffled = others.sort(() => Math.random() - 0.5).slice(0, 4);
+
+    container.innerHTML = `
+      <div class="carousel-section">
+        <p class="carousel-title">📚 他の国のガイドブック</p>
+        <div class="carousel-scroll">
+          ${shuffled.map(c => `
+            <a href="${BASE}${c.slug}/" class="carousel-card">
+              <img src="https://images.unsplash.com/${c.img}?w=400&h=200&fit=crop&q=70" alt="${c.name}" loading="lazy">
+              <div class="carousel-card-info">
+                <span class="carousel-flag">${c.flag}</span>
+                <span class="carousel-name">${c.name}</span>
+              </div>
+            </a>
+          `).join('')}
+        </div>
+      </div>`;
+  }
+
+  // ──────────────────────────────────────────────────────────
   // 初期化
   // ──────────────────────────────────────────────────────────
 
@@ -312,6 +356,7 @@
     loadSpots();
     loadEvents();
     loadCuration();
+    loadCountryCarousel();
   });
 
 })();
