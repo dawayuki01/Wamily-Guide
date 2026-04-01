@@ -13,6 +13,9 @@ docs/archive/ の古い版は無視してください。
 - GitHub Pages でホスティング
 - Notion API でコンテンツ管理（稼働中）
 - Claude API（claude-haiku-4-5）でコンテンツ自動生成
+- Google Maps JavaScript API（スポット地図埋め込み）
+- Google Places API（営業状況自動チェック）
+- Google My Maps（共同編集スポット管理）
 
 ## 作業ルール
 - カラーパレット・言葉のトーンはWAMILY_DESIGN_SPEC.mdに従う
@@ -25,18 +28,30 @@ docs/archive/ の古い版は無視してください。
 
 ### 全体フロー
 ```
-Claude API → Notion DB → GitHub Actions → data/*.json → GitHub Pages
+【入力口】
+  Google My Maps ← みんなでピン追加（共同編集）
+  Notion DB     ← スポット・フィード・キュレーション管理
+
+【毎日 09:00 JST 自動実行（GitHub Actions）】
+  ① Claude API → Notion コンテンツ生成（週1・月曜）
+  ② Notion → data/*.json 同期（毎日）
+  ③ Google My Maps → 新規スポット取得（毎日）
+  ④ Google Places → 営業状況チェック（週1・月曜）
+  ⑤ TimeOut RSS → ロンドンイベント更新（毎日）
+  ⑥ commit & push → GitHub Pages に反映
+
+【表示】
+  GitHub Pages ← 全10カ国ページ + Google Maps 埋め込み地図
 ```
 
-毎日09:00 JST（UTC 00:00）に自動実行。月曜のみコンテンツ生成も走る。
-
 ### GitHub Actions（.github/workflows/sync.yml）
-| ステップ | 内容 | 頻度 |
-|---|---|---|
-| generate-guide.js | Claude → Notion にフィード・キュレーション自動生成 | 週1（月曜） |
-| fetch-notion.js | Notion → data/*.json に同期 | 毎日 |
-| fetch-events.js | TimeOut London RSS + Claude → イベント情報 | 毎日 |
-| check-spots.js | Google Places → スポット営業状況更新 | 週1（月曜）※未稼働 |
+| ステップ | スクリプト | 内容 | 頻度 |
+|---|---|---|---|
+| 1 | generate-guide.js | Claude → Notion にフィード・キュレーション自動生成 | 週1（月曜） |
+| 2 | fetch-notion.js | Notion → data/*.json に同期 | 毎日 |
+| 3 | fetch-mymaps.js | Google My Maps → 新規スポット取得 | 毎日 |
+| 4 | check-spots.js | Google Places → スポット営業状況更新（全10カ国対応） | 週1（月曜） |
+| 5 | fetch-events.js | TimeOut London RSS + Claude → イベント情報 | 毎日 |
 
 ### Notion DB 構成
 | DB名 | ID | 用途 |
@@ -47,41 +62,121 @@ Claude API → Notion DB → GitHub Actions → data/*.json → GitHub Pages
 
 各DBに10カ国のビュー（フィルター）を設定済み。
 
+### Google Cloud Console（プロジェクト: sawady-twitter）
+| APIキー名 | 用途 | 制限 |
+|---|---|---|
+| Wamily-Places | サーバー側：営業状況チェック（check-spots.js） | Places API / 制限なし |
+| Wamily-Maps-Frontend | ブラウザ側：地図埋め込み表示 | Maps JS API + Places API / dawayuki01.github.io/* |
+
+### Google My Maps
+| 項目 | 値 |
+|---|---|
+| マップ名 | Wamily Spots |
+| Map ID | 1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM |
+| KML URL | https://www.google.com/maps/d/kml?mid=1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM&forcekml=1 |
+| 共有設定 | リンクを知っている人なら誰でも表示できる |
+
+フォルダ構成：国ごとに10フォルダ。新しいフォルダを追加する場合は fetch-mymaps.js の `FOLDER_TO_SLUG` に追加する。
+
+### GitHub Secrets
+| シークレット名 | 用途 |
+|---|---|
+| ANTHROPIC_API_KEY | Claude API（コンテンツ生成） |
+| GOOGLE_PLACES_API_KEY | Google Places API（営業チェック） |
+| NOTION_API_KEY | Notion API（DB読み書き） |
+| NOTION_CURATION_DB_ID | キュレーションDB ID |
+| NOTION_LIVEFEED_DB_ID | 最近の動きDB ID |
+| NOTION_SPOTS_DB_ID | スポットDB ID |
+
 ### 対応国（10カ国）
 ロンドン / 台湾 / パリ / ストックホルム / シンガポール / バンコク / マニラ / LA / ハワイ / ソウル
 
 ### 各国ページ（/{slug}/index.html）
 - `<body data-country="{slug}">` で国を識別
 - `window.WAMILY_BASE = '../'` でパス解決
-- タブ構成：① その国について ② 行く前に ③ スポット ④ 旅のバトン
+- タブ構成：① その国について ② 行く前に ③ 現地で楽しむ ④ 旅のバトン
 - 「最近の動き」セクション（id="feed-list"）：各国の投稿のみ最大5件表示
 - スポット：data/spots-{slug}.json から動的読み込み
+- **Google Maps 埋め込み地図**：スポットをピンで表示（id="spots-map"）
 - キュレーション：data/curation-{slug}.json から動的読み込み
 
 ### data/*.json ファイル一覧
 | ファイル | 生成元 | 内容 |
 |---|---|---|
 | live-feed.json | Notion最近の動きDB | 全国フィード（10件） |
-| spots-{slug}.json | Notionスポット DB | 各国10スポット |
-| curation-{slug}.json | Notionキュレーション DB | 各国おすすめコンテンツ |
+| spots-{slug}.json | Notion + My Maps | 各国スポット（lat/lng/placeId付き） |
+| curation-{slug}.json | NotionキュレーションDB | 各国おすすめコンテンツ |
 | events-london.json | TimeOut RSS + Claude | ロンドンイベント |
+
+### JS ファイル構成
+| ファイル | 役割 |
+|---|---|
+| js/main.js | タブ切替・アコーディオン・フィルター |
+| js/data-loader.js | data/*.json を fetch して DOM 更新 |
+| js/spots-map.js | Google Maps 初期化・マーカー配置 |
+| js/maps-config.js | Maps JavaScript API キー設定 |
+
+### fetch-notion.js のデータ引き継ぎ
+Notion sync時に以下のフィールドは既存JSONファイルから引き継がれる：
+- `status` / `statusLabel` / `checkedDate`（Google Places更新分を保持）
+- `placeId`（Notionにない場合は既存値を保持）
+- `lat` / `lng`（座標は手動管理）
+
+---
+
+## 2026年4月1日の作業記録
+
+### 完了した作業
+1. **check-spots.js を全10カ国対応に拡張**
+   - ロンドンのみ → 全 spots-*.json を処理するよう変更
+   - 主要15スポットに placeId を追加
+
+2. **Google Places API セットアップ**
+   - Google Cloud Console で Places API 有効化
+   - Wamily-Places キーを作成・GitHub Secrets に登録
+   - 毎週月曜の自動チェックが稼働開始
+
+3. **全10カ国ページに Google Maps 埋め込み**
+   - js/spots-map.js 新規作成（座標ベース・PlacesService不要）
+   - 全100スポットに lat/lng 座標を追加
+   - カテゴリ別カラーマーカー（赤:vital / 橙:local / 緑:play）
+   - ピンクリック → InfoWindow → Googleマップで開く
+   - Wamily-Maps-Frontend キー作成（HTTPリファラー制限）
+   - fetch-notion.js に座標引き継ぎロジック追加
+
+4. **Google My Maps「Wamily Spots」作成**
+   - 全100スポットを KML でインポート
+   - 10カ国フォルダ構成・共有設定完了
+
+5. **My Maps → サイト自動同期**
+   - scripts/fetch-mymaps.js 新規作成
+   - KML取得 → パース → 新規スポットのみ追加
+   - 絵文字・ZWJ対応の名前正規化で重複検知
+   - GitHub Actions に組み込み（毎日実行）
+
+6. **キッザニア・バンコク閉業を反映**
+   - 2021年閉業 → status: "closed" に更新
+
+### 技術的な解決事項
+- **PlacesService 非対応問題**: 2025年3月以降の新規GCPプロジェクトでは PlacesService が使えない → lat/lng 座標ベースに変更して解決
+- **fetch-notion.js placeId 上書き問題**: Notion sync時に placeId が null で上書きされる → `spot.placeId || prev?.placeId || null` のフォールバック追加
+- **KMLフォルダ名抽出バグ**: CDATA対応で Placemark名がフォルダ名として誤検知 → `<Placemark>` 前のテキストからフォルダ名を取得するよう修正
 
 ---
 
 ## 次にやること（優先順）
 
-1. **Google Places API キーを取得・設定**（check-spots.js を稼働させる）
-   - Google Cloud Console でAPIキー取得
-   - GitHub Secrets に `GOOGLE_PLACES_API_KEY` を追加
-   - 各スポットに `placeId` を設定すると営業状況が自動更新される
-
-2. **他国のイベント情報を追加**
+1. **他国のイベント情報を追加**
    - 現状ロンドンのみ対応
    - 各国のイベントRSSまたはClaude生成で補完
 
-3. **サイト導線・表示確認**
+2. **サイト導線・表示確認**
    - トップページ国カード → 各国ページのリンク確認
    - スポット・キュレーション表示の最終確認
+
+3. **My Maps 運用開始**
+   - 旅先でピンを追加する運用フローを確立
+   - 信頼できる在住者を編集者として招待
 
 ---
 
@@ -92,6 +187,8 @@ Claude API → Notion DB → GitHub Actions → data/*.json → GitHub Pages
 | サイト本番 | https://dawayuki01.github.io/Wamily-Guide/ |
 | GitHubリポジトリ | https://github.com/dawayuki01/Wamily-Guide |
 | GitHub Actions | https://github.com/dawayuki01/Wamily-Guide/actions/workflows/sync.yml |
-| Notionスポット DB | https://notion.so/61864001cf964afbb7f294b07cd445a1 |
-| Notionキュレーション DB | https://notion.so/4f146e35f6804 6e1acf28e4cc86851fb |
+| Google My Maps | https://www.google.com/maps/d/edit?mid=1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM |
+| Google Cloud Console | https://console.cloud.google.com/apis/credentials?project=sawady-twitter |
+| NotionスポットDB | https://notion.so/61864001cf964afbb7f294b07cd445a1 |
+| NotionキュレーションDB | https://notion.so/4f146e35f68046e1acf28e4cc86851fb |
 | Notion Integration設定 | https://www.notion.so/profile/integrations |
