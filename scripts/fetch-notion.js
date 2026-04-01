@@ -283,7 +283,8 @@ async function main() {
             status: prev?.status ?? spot.status,
             statusLabel: prev?.statusLabel ?? spot.statusLabel,
             checkedDate: prev?.checkedDate ?? spot.checkedDate,
-            // placeId は Notion 側を優先（管理者が更新するため）
+            // placeId: Notion側を優先。Notionにない場合は既存ファイルの値を引き継ぐ
+            placeId: spot.placeId || prev?.placeId || null,
           };
         });
 
