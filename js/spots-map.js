@@ -132,7 +132,7 @@
 
       var infoWindow = new google.maps.InfoWindow();
       var bounds = new google.maps.LatLngBounds();
-      var markers = []; // {marker, category} のリスト
+      var markers = []; // {marker, category, name} のリスト
 
       spotsWithCoords.forEach(function(spot) {
         var position = { lat: spot.lat, lng: spot.lng };
@@ -144,7 +144,7 @@
           icon:     markerIcon(CATEGORY_COLOR[spot.category] || '#2a9d8f'),
         });
 
-        markers.push({ marker: marker, category: spot.category });
+        markers.push({ marker: marker, category: spot.category, name: spot.name, spot: spot });
         bounds.extend(position);
 
         marker.addListener('click', function() {
@@ -176,6 +176,40 @@
             }
           });
         });
+      });
+
+      // ── スポットカードクリック → 地図のピンにフォーカス ──────
+      function normName(n) {
+        return n.replace(/[\uFE00-\uFE0F\u200D]/g, '').replace(/\s+/g, '').trim();
+      }
+
+      document.getElementById('spot-layers').addEventListener('click', function(e) {
+        var card = e.target.closest('.spot-card');
+        if (!card) return;
+
+        var nameEl = card.querySelector('.spot-name');
+        if (!nameEl) return;
+
+        var clickedName = normName(nameEl.textContent);
+
+        for (var i = 0; i < markers.length; i++) {
+          if (normName(markers[i].name) === clickedName) {
+            var item = markers[i];
+            // ピンが非表示なら表示する
+            item.marker.setVisible(true);
+            // 地図をそのピンにパン＆ズーム
+            map.panTo(item.marker.getPosition());
+            map.setZoom(15);
+            // InfoWindowを開く
+            infoWindow.setContent(buildInfoWindowContent(item.spot));
+            infoWindow.open(map, item.marker);
+            // 地図が見える位置にスクロール
+            document.getElementById('spots-map-section').scrollIntoView({
+              behavior: 'smooth', block: 'center'
+            });
+            break;
+          }
+        }
       });
     });
   }
