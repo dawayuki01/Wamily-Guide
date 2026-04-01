@@ -7,9 +7,9 @@
 .ed-hero {
   position: relative;
   width: 100%;
-  height: 80vh;
-  min-height: 450px;
-  max-height: 700px;
+  height: 88vh;
+  min-height: 500px;
+  max-height: 780px;
   overflow: hidden;
 }
 
@@ -25,68 +25,91 @@
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(0,0,0,0) 20%,
-    rgba(0,0,0,0.6) 100%
+    rgba(0,0,0,0.15) 0%,
+    rgba(0,0,0,0.25) 40%,
+    rgba(0,0,0,0.72) 100%
   );
 }
 
+/* コンテンツ：中央揃え、縦方向は少し下寄り */
 .ed-hero-content {
   position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 48px 32px;
-  color: #fff;
-  max-width: 700px;
-  margin: 0 auto;
-}
-
-.ed-hero-flag {
-  font-size: 36px;
-  display: block;
-  margin-bottom: 12px;
-}
-
-.ed-hero-title {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 42px;
-  font-weight: 400;
-  line-height: 1.2;
-  margin-bottom: 6px;
-  text-shadow: 0 2px 16px rgba(0,0,0,0.35);
-}
-
-.ed-hero-subtitle {
-  font-size: 14px;
-  opacity: 0.75;
-  letter-spacing: 0.08em;
-  margin-bottom: 20px;
-  font-weight: 300;
-}
-
-.ed-hero-lead {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 20px;
-  font-weight: 300;
-  line-height: 1.7;
-  margin-bottom: 20px;
-  text-shadow: 0 1px 10px rgba(0,0,0,0.25);
-}
-
-.ed-hero-meta {
+  inset: 0;
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  flex-direction: column;
   align-items: center;
-  font-size: 12px;
+  justify-content: flex-end;
+  padding: 0 32px 72px;
+  color: #fff;
+  text-align: center;
+}
+
+/* 国旗 + United Kingdom 横並び */
+.ed-hero-flag-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
   opacity: 0.85;
 }
 
-.ed-hero-meta .tag {
-  background: rgba(255,255,255,0.2);
-  border-color: rgba(255,255,255,0.35);
-  color: #fff;
-  backdrop-filter: blur(4px);
+.ed-hero-flag {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.ed-hero-flag-label {
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+/* メインタイトル：英字大きく */
+.ed-hero-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 96px;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  margin-bottom: 10px;
+  text-shadow: 0 4px 32px rgba(0,0,0,0.4);
+}
+
+/* サブ：日本語カナ */
+.ed-hero-subtitle {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.2em;
+  opacity: 0.7;
+  margin-bottom: 28px;
+}
+
+/* タグライン */
+.ed-hero-lead {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.8;
+  text-shadow: 0 1px 12px rgba(0,0,0,0.3);
+  opacity: 0.92;
+  margin-bottom: 0;
+  position: relative;
+  padding: 0 24px;
+}
+
+/* タグライン前後の装飾線 */
+.ed-hero-lead::before,
+.ed-hero-lead::after {
+  content: '';
+  display: inline-block;
+  width: 28px;
+  height: 1px;
+  background: rgba(255,255,255,0.6);
+  vertical-align: middle;
+  margin: 0 12px;
 }
 
 /* ---------- Sections（余白を広く） ---------- */
@@ -484,13 +507,14 @@
 /* ---------- Responsive ---------- */
 @media (max-width: 768px) {
   .ed-hero {
-    height: 60vh;
-    min-height: 320px;
+    height: 70vh;
+    min-height: 360px;
   }
 
-  .ed-hero-title { font-size: 30px; }
-  .ed-hero-lead { font-size: 16px; }
-  .ed-hero-content { padding: 32px 20px; }
+  .ed-hero-title { font-size: 56px; }
+  .ed-hero-subtitle { font-size: 13px; letter-spacing: 0.12em; }
+  .ed-hero-lead { font-size: 15px; }
+  .ed-hero-content { padding: 0 20px 48px; }
 
   .ed-lead-text { font-size: 21px; }
   .ed-section { padding: 40px 20px; }
