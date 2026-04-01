@@ -342,8 +342,85 @@
   }
 }
 
-/* ---------- Hide old page-header when editorial hero is present ---------- */
-.page-header,
-.page-photo-header {
-  /* These are replaced by ed-hero in editorial pages */
+/* ---------- Editorial Tab Nav Override ---------- */
+
+.tab-nav {
+  background: var(--cream);
+  border-bottom: none;
+  padding: 8px 0 0;
+}
+
+.tab-nav-inner {
+  max-width: 700px;
+  gap: 0;
+  justify-content: center;
+}
+
+.tab-btn {
+  padding: 14px 20px;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--text-muted);
+  background: transparent;
+  border: 1.5px solid transparent;
+  border-bottom: none;
+  border-radius: 12px 12px 0 0;
+  margin-bottom: 0;
+  transition: all 0.25s ease;
+  position: relative;
+  letter-spacing: 0.02em;
+}
+
+.tab-btn:hover {
+  color: var(--text-primary);
+  background: rgba(42, 157, 143, 0.04);
+}
+
+.tab-btn.active {
+  color: var(--teal);
+  background: var(--white);
+  border-color: var(--border-main);
+  font-weight: 500;
+  box-shadow: 0 -2px 8px rgba(0,0,0,0.03);
+}
+
+/* Active tab下線を太くて暖かい感じに */
+.tab-btn::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 0;
+  height: 3px;
+  background: var(--teal);
+  border-radius: 3px 3px 0 0;
+  transition: width 0.3s ease;
+}
+
+.tab-btn.active::after {
+  width: 60%;
+}
+
+/* タブとコンテンツの間の接続線 */
+.tab-nav::after {
+  content: '';
+  display: block;
+  height: 1.5px;
+  background: var(--border-main);
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .tab-nav-inner {
+    justify-content: flex-start;
+    gap: 0;
+    padding: 0 12px;
+  }
+
+  .tab-btn {
+    padding: 12px 14px;
+    font-size: 12px;
+    flex-shrink: 0;
+  }
 }
