@@ -1,14 +1,15 @@
 #!/usr/bin/env node
 /**
  * fetch-events.js
- * TimeOut London の RSS を取得し、Claude API で子連れ関連性をフィルタリング。
- * 結果を data/events-london.json に書き出す。
+ * 全10カ国のファミリー向けイベント情報を取得・生成する。
+ *
+ * - ロンドン：TimeOut London RSS + Claude API フィルタリング
+ * - 他9カ国：Claude API で季節のイベント・アクティビティを生成
+ *
+ * 出力：data/events-{slug}.json
  *
  * 必要な環境変数：
  *   ANTHROPIC_API_KEY — Claude API キー
- *
- * （オプション）
- *   TIMEOUT_RSS_URL   — RSS URL を上書きする場合（デフォルト: TimeOut London family）
  */
 
 const RSSParser = require('rss-parser');
@@ -18,10 +19,74 @@ const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 
-const DEFAULT_RSS = 'https://www.timeout.com/london/family/rss.xml';
+// ── 国ごとの設定 ────────────────────────────────────────────
+const COUNTRIES = [
+  {
+    slug: 'london',
+    name: 'ロンドン',
+    nameEn: 'London',
+    rssUrl: 'https://www.timeout.com/london/family/rss.xml',
+    source: 'TimeOut London',
+    sourceUrl: 'https://www.timeout.com/london/family',
+  },
+  {
+    slug: 'taipei',
+    name: '台北',
+    nameEn: 'Taipei',
+    source: 'Claude AI 生成',
+  },
+  {
+    slug: 'paris',
+    name: 'パリ',
+    nameEn: 'Paris',
+    source: 'Claude AI 生成',
+  },
+  {
+    slug: 'stockholm',
+    name: 'ストックホルム',
+    nameEn: 'Stockholm',
+    source: 'Claude AI 生成',
+  },
+  {
+    slug: 'singapore',
+    name: 'シンガポール',
+    nameEn: 'Singapore',
+    source: 'Claude AI 生成',
+  },
+  {
+    slug: 'bangkok',
+    name: 'バンコク',
+    nameEn: 'Bangkok',
+    source: 'Claude AI 生成',
+  },
+  {
+    slug: 'manila',
+    name: 'マニラ',
+    nameEn: 'Manila',
+    source: 'Claude AI 生成',
+  },
+  {
+    slug: 'la',
+    name: 'ロサンゼルス',
+    nameEn: 'Los Angeles',
+    source: 'Claude AI 生成',
+  },
+  {
+    slug: 'hawaii',
+    name: 'ハワイ',
+    nameEn: 'Hawaii',
+    source: 'Claude AI 生成',
+  },
+  {
+    slug: 'seoul',
+    name: 'ソウル',
+    nameEn: 'Seoul',
+    source: 'Claude AI 生成',
+  },
+];
 
 // ──────────────────────────────────────────────────────────
-// RSS 取得
+// RSS 取得（ロンドン用）
 // ──────────────────────────────────────────────────────────
 
 async function fetchRSSItems(url) {
@@ -30,13 +95,13 @@ async function fetchRSSItems(url) {
     const feed = await parser.parseURL(url);
     return feed.items.slice(0, 20);
   } catch (err) {
-    console.warn(`⚠  RSS 取得に失敗しました: ${err.message}`);
+    console.warn(`  ⚠  RSS 取得に失敗: ${err.message}`);
     return [];
   }
 }
 
 // ──────────────────────────────────────────────────────────
-// Claude API でフィルタリング
+// Claude API でRSSフィルタリング（ロンドン用）
 // ──────────────────────────────────────────────────────────
 
 async function filterWithClaude(client, items) {
@@ -74,14 +139,80 @@ ${summary}`,
 }
 
 // ──────────────────────────────────────────────────────────
-// アイテムを整形
+// Claude API でイベント生成（ロンドン以外の国用）
 // ──────────────────────────────────────────────────────────
 
-function formatItem(item) {
+async function generateEventsWithClaude(client, country) {
+  const now = new Date();
+  const month = now.getMonth() + 1;
+  const year = now.getFullYear();
+
+  const monthNames = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+  const currentMonth = monthNames[month - 1];
+
+  const message = await client.messages.create({
+    model: 'claude-haiku-4-5-20251001',
+    max_tokens: 1024,
+    messages: [{
+      role: 'user',
+      content: `あなたは${country.name}（${country.nameEn}）の子連れ旅行の専門家です。
+${year}年${currentMonth}に${country.name}を子連れ（乳幼児〜小学生）で訪れる家族向けに、おすすめのイベント・季節のアクティビティを4〜5件教えてください。
+
+以下の条件で:
+- その季節ならではのイベントや行事（祭り、マーケット、季節の花見など）
+- 子ども向け施設の特別プログラム
+- 無料で楽しめるものを1〜2件含める
+- 屋外アクティビティを1件以上含める
+- 実在するイベント・場所を優先（架空のものは避ける）
+
+JSON形式で返してください:
+{
+  "items": [
+    {
+      "title": "イベント名",
+      "description": "120文字以内の説明",
+      "date": "${currentMonth}の時期（例: ${currentMonth}上旬〜下旬）",
+      "place": "場所名・住所",
+      "free": true/false
+    }
+  ]
+}
+
+JSONのみ返してください。`,
+    }],
+  });
+
+  try {
+    const text = message.content[0].text;
+    const match = text.match(/\{[\s\S]*\}/);
+    if (match) {
+      const data = JSON.parse(match[0]);
+      if (Array.isArray(data.items)) {
+        return data.items.map(item => ({
+          title: item.title || '',
+          description: (item.description || '').slice(0, 120),
+          date: item.date || currentMonth,
+          place: item.place || '',
+          link: '',
+          free: !!item.free,
+        }));
+      }
+    }
+  } catch (err) {
+    console.warn(`  ⚠  JSON パースエラー: ${err.message}`);
+  }
+
+  return [];
+}
+
+// ──────────────────────────────────────────────────────────
+// RSS アイテムを整形（ロンドン用）
+// ──────────────────────────────────────────────────────────
+
+function formatRSSItem(item) {
   const titleLower = (item.title + ' ' + (item.contentSnippet || '')).toLowerCase();
   const isFree = titleLower.includes('free') || titleLower.includes('無料');
 
-  // 日付を日本語形式に変換
   let date = '';
   if (item.pubDate) {
     const d = new Date(item.pubDate);
@@ -92,9 +223,48 @@ function formatItem(item) {
     title: item.title || '',
     description: (item.contentSnippet || '').slice(0, 120),
     date,
-    place: '',  // RSS には場所情報がないことが多い
+    place: '',
     link: item.link || '',
     free: isFree,
+  };
+}
+
+// ──────────────────────────────────────────────────────────
+// 1カ国分のイベントを処理
+// ──────────────────────────────────────────────────────────
+
+async function processCountry(client, country) {
+  let items = [];
+
+  if (country.rssUrl) {
+    // RSS ベース（ロンドン）
+    console.log(`  📡 RSS 取得中: ${country.rssUrl}`);
+    const rawItems = await fetchRSSItems(country.rssUrl);
+
+    if (rawItems.length) {
+      console.log(`     ${rawItems.length} 件取得 → Claude フィルタリング中...`);
+      const selectedIndices = await filterWithClaude(client, rawItems);
+      items = selectedIndices.map(i => rawItems[i]).filter(Boolean).map(formatRSSItem);
+    } else {
+      console.log('     RSS 取得失敗 → 既存データを維持');
+      return null; // 既存データを維持
+    }
+  } else {
+    // Claude 生成（ロンドン以外）
+    console.log(`  🤖 Claude API でイベント生成中...`);
+    items = await generateEventsWithClaude(client, country);
+  }
+
+  if (!items.length) {
+    console.log('     イベント 0 件 → スキップ');
+    return null;
+  }
+
+  return {
+    items,
+    source: country.source,
+    sourceUrl: country.sourceUrl || '',
+    updatedAt: new Date().toISOString(),
   };
 }
 
@@ -109,37 +279,32 @@ async function main() {
     process.exit(1);
   }
 
-  const rssUrl = process.env.TIMEOUT_RSS_URL || DEFAULT_RSS;
   const client = new Anthropic({ apiKey });
 
-  console.log('📡 TimeOut London RSS を取得中...');
-  const rawItems = await fetchRSSItems(rssUrl);
+  console.log('🌍 全10カ国のイベント情報を取得・生成します...\n');
 
-  if (!rawItems.length) {
-    console.warn('⚠  RSS アイテムが取得できませんでした。既存データを維持します。');
-    return;
+  for (const country of COUNTRIES) {
+    console.log(`🗺  ${country.name}（${country.slug}）:`);
+
+    try {
+      const data = await processCountry(client, country);
+
+      if (data) {
+        const outPath = path.join(DATA_DIR, `events-${country.slug}.json`);
+        fs.writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf-8');
+        console.log(`  ✅ events-${country.slug}.json 更新（${data.items.length} 件）\n`);
+      } else {
+        console.log(`  ⏭️  スキップ\n`);
+      }
+    } catch (err) {
+      console.error(`  ❌ エラー: ${err.message}\n`);
+    }
+
+    // API レート制限対策
+    await new Promise(r => setTimeout(r, 500));
   }
 
-  console.log(`  取得: ${rawItems.length} 件`);
-
-  console.log('🤖 Claude API でファミリー向けイベントをフィルタリング中...');
-  const selectedIndices = await filterWithClaude(client, rawItems);
-
-  const items = selectedIndices
-    .map(i => rawItems[i])
-    .filter(Boolean)
-    .map(formatItem);
-
-  const outData = {
-    items,
-    source: 'TimeOut London',
-    sourceUrl: 'https://www.timeout.com/london/family',
-    updatedAt: new Date().toISOString(),
-  };
-
-  const outPath = path.join(DATA_DIR, 'events-london.json');
-  fs.writeFileSync(outPath, JSON.stringify(outData, null, 2), 'utf-8');
-  console.log(`✅ events-london.json を更新しました（${items.length} 件）`);
+  console.log('🎉 全カ国イベント処理完了！');
 }
 
 main().catch(err => {

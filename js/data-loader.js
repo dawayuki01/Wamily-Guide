@@ -234,7 +234,8 @@
     if (!container) return;
 
     try {
-      const data = await fetchJSON('data/events-london.json');
+      const slug = document.body.dataset.country || 'london';
+      const data = await fetchJSON(`data/events-${slug}.json`);
       const items = data.items || [];
       if (!items.length) return;
 
