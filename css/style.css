@@ -1078,6 +1078,15 @@ small { font-size: 12px; }
 .event-title { font-size: 14px; font-weight: 500; color: var(--text-primary); margin-bottom: 4px; }
 .event-desc  { font-size: 12px; color: var(--text-muted); line-height: 1.75; margin-bottom: 6px; }
 .event-place { font-size: 12px; color: var(--text-muted); }
+.event-link {
+  display: inline-block;
+  font-size: 12px;
+  color: var(--teal);
+  margin-top: 6px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.event-link:hover { text-decoration: underline; }
 
 .link-more {
   font-size: 13px;

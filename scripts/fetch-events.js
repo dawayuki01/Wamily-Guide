@@ -173,11 +173,13 @@ JSON形式で返してください:
       "description": "120文字以内の説明",
       "date": "${currentMonth}の時期（例: ${currentMonth}上旬〜下旬）",
       "place": "場所名・住所",
-      "free": true/false
+      "free": true/false,
+      "link": "公式サイトや観光局のURL（実在するURLのみ。不明なら空文字）"
     }
   ]
 }
 
+linkには実在するURLのみ入れてください。公式サイト、観光局、イベント公式ページなどが望ましいです。URLが不明な場合は空文字にしてください。
 JSONのみ返してください。`,
     }],
   });
@@ -193,7 +195,7 @@ JSONのみ返してください。`,
           description: (item.description || '').slice(0, 120),
           date: item.date || currentMonth,
           place: item.place || '',
-          link: '',
+          link: item.link || '',
           free: !!item.free,
         }));
       }

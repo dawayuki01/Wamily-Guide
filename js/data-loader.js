@@ -217,6 +217,9 @@
     const placeHtml = item.place
       ? `<p class="event-place">📍 ${item.place}</p>` : '';
 
+    const linkHtml = item.link
+      ? `<a href="${item.link}" target="_blank" rel="noopener noreferrer" class="event-link">🔗 詳細を見る</a>` : '';
+
     return `
       <div class="event-card">
         <div class="event-card-top">
@@ -226,6 +229,7 @@
         <p class="event-title">${item.title}</p>
         <p class="event-desc">${item.description}</p>
         ${placeHtml}
+        ${linkHtml}
       </div>`;
   }
 
