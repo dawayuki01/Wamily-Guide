@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・アース・デイ",
-      "description": "4月22日前後に開催される地球環境の日。無料で家族向けのエコ活動、ワークショップ、音楽、食べ物の屋台が楽しめます。子どもたちが学べる体験型イベントです。",
-      "date": "4月20日〜22日頃",
-      "place": "グリフィス・パーク及び周辺施設（Los Angeles, CA）",
-      "link": "https://www.laparks.org/",
-      "free": true
-    },
-    {
-      "title": "ファーマーズマーケット・ハリウッド",
-      "description": "毎週日曜と火・木曜に開催。新鮮な野菜、フルーツ、地元産の食べ物やクラフトが揃います。子ども向けのライブミュージックやワークショップもあり、家族で楽しめます。",
-      "date": "4月通年（毎週開催）",
-      "place": "ハリウッド・ファーマーズマーケット、6333 W 3rd St, Los Angeles, CA 90036",
-      "link": "https://www.farmersmarketla.com/",
-      "free": true
-    },
-    {
-      "title": "カリフォルニア・ポピー咲き誇りハイキング",
-      "description": "4月はカリフォルニア・ポピー（州花）が最も美しい季節。ウォーカー・ランチやアンテロープ・バレーでのハイキングは子どもにも最適な屋外アクティビティです。",
-      "date": "4月上旬〜下旬",
-      "place": "アンテロープ・バレー・カリフォルニア・ポピー保護区（Lancaster, CA）",
-      "link": "https://www.parks.ca.gov/?page_id=627",
+      "title": "LA オーキッド ショー（Los Angeles Orchid Show）",
+      "description": "南カリフォルニア植物園で開催される蘭の大規模展示。美しい花々を学びながら観賞でき、家族向けのワークショップも開催されます。",
+      "date": "4月上旬〜中旬",
+      "place": "南カリフォルニア植物園（South Coast Botanic Garden）、ランチョ・パロス・ベルデス",
+      "link": "https://www.southcoastbotanicgarden.org/",
       "free": false
     },
     {
-      "title": "ロサンゼルス自然史博物館の春イベント",
-      "description": "春の特別展示やファミリープログラムが開催されます。恐竜展示、インタラクティブな体験、屋外の庭園探検など、子どもたちが学べる機会が豊富です。",
-      "date": "4月通年",
-      "place": "ロサンゼルス自然史博物館、900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org/",
-      "free": false
-    },
-    {
-      "title": "グリフィス天文台のファミリーナイト",
-      "description": "春の夜間プログラムで天体観測を家族で楽しめます。無料入場で屋外から望遠鏡での観星体験、プラネタリウムショーもあります。子どもの科学への興味を引き出します。",
-      "date": "4月通年（金土日）",
-      "place": "グリフィス天文台、2800 E Observatory Rd, Los Angeles, CA 90027",
+      "title": "グリフィス天文台 春季ファミリープログラム",
+      "description": "グリフィス天文台の春季特別プログラム。プラネタリウムショーと展示で宇宙を学べます。夜間は天体観測も。眺望も最高です。",
+      "date": "4月通期",
+      "place": "グリフィス天文台（Griffith Observatory）、ロサンゼルス",
       "link": "https://www.griffithobservatory.org/",
+      "free": true
+    },
+    {
+      "title": "ハンティントン図書館 春の庭園ウォーキング",
+      "description": "世界有数の美しい庭園で、春の花が咲き誇る季節。子ども向けガイドツアーや工作ワークショップも開催。屋外で自然を満喫できます。",
+      "date": "4月上旬〜下旬",
+      "place": "ハンティントン図書館・美術館・植物園（The Huntington）、サンマリノ",
+      "link": "https://www.huntington.org/",
+      "free": false
+    },
+    {
+      "title": "アースデー LA（EarthDay LA）",
+      "description": "毎年4月下旬にエコープレイグラウンド公園で開催される大規模環境フェスティバル。ステージパフォーマンス、環境教育ブース、フードベンダーが楽しめます。",
+      "date": "4月下旬",
+      "place": "エコープレイグラウンド公園（Exposition Park近辺）、ロサンゼルス",
+      "link": "https://www.earthdaylosangeles.org/",
+      "free": true
+    },
+    {
+      "title": "カリフォルニア科学センター 春の特別展示",
+      "description": "常設展示に加え、春季限定の子ども向け特別展や体験プログラムを開催。スペースシャトル展示やハンズオン実験が人気。",
+      "date": "4月通期",
+      "place": "カリフォルニア科学センター（California Science Center）、ロサンゼルス",
+      "link": "https://www.californiasciencecenter.org/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T04:12:04.994Z"
+  "updatedAt": "2026-04-01T06:13:55.417Z"
 }

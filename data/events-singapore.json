@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
-      "description": "毎年4月に開催される東南アジア最大級のガーデンフェスティバル。美しい花の展示、ガーデンデザイン、キッズワークショップが楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Gardens by the Bay、シンガポール植物園",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "Singapore Garden Festival",
+      "description": "シンガポール最大のガーデンイベント。色とりどりの花の展示、ガーデンデザインコンペティション、子ども向けワークショップなどが開催されます。植物学習と花の美しさを同時に楽しめます。",
+      "date": "4月中旬～下旬",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）",
+      "link": "https://www.singaporegardensfestival.com",
       "free": false
     },
     {
-      "title": "East Coast Park ビーチでのレクリーション",
-      "description": "4月の晴天の中、イーストコースト・パークでシャベルや砂遊び、自転車、キャンプなどを楽しめます。無料で家族向けの屋外アクティビティが充実。",
-      "date": "4月全般（通年）",
-      "place": "East Coast Park Road, シンガポール",
+      "title": "East Coast Park サイクリング・ビーチアクティビティ",
+      "description": "シンガポール最大のビーチパーク。広いサイクリングロード、砂浜でのアクティビティ、子ども向けの遊具が充実。海風を感じながら家族で楽しめる屋外スポット。",
+      "date": "4月上旬～下旬（通年）",
+      "place": "East Coast Park, Singapore",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Science Centre Singapore スプリングプログラム",
-      "description": "4月の春休み時期に合わせた子ども向けの特別体験プログラム、ワークショップ、サイエンスショーが展開されます。",
-      "date": "4月上旬〜下旬",
-      "place": "15 Science Centre Road, シンガポール",
-      "link": "https://www.science.edu.sg",
+      "title": "Sentosa Island Spring Carnival",
+      "description": "セントーサ島で開催される春のカーニバル。子ども向けのゲーム、アトラクション、キャラクターミート&グリート、ワークショップなど家族向けイベントが満載です。",
+      "date": "4月中旬～下旬",
+      "place": "Sentosa Island, Singapore",
+      "link": "https://www.sentosa.com.sg",
       "free": false
     },
     {
-      "title": "Singapore Zoo スプリング・フェスティバル",
-      "description": "4月に動物園が開催する春のイベント。動物ショー、フィーディングセッション、キッズ向けインタラクティブプログラムなどが豊富。",
-      "date": "4月全般",
-      "place": "80 Mandai Lake Road, シンガポール",
-      "link": "https://www.zoo.sg",
+      "title": "National Museum Singapore Kids Programs",
+      "description": "シンガポール国立博物館の子ども向けワークショップやガイドツアー。シンガポールの歴史と文化を楽しく学べるプログラム。対話的な展示で幅広い年齢層に対応。",
+      "date": "4月通年開催（日程は要確認）",
+      "place": "National Museum of Singapore, 93 Stamford Road",
+      "link": "https://www.nationalmuseum.sg",
       "free": false
     },
     {
-      "title": "Pulau Ubin（ウビン島）サイクリング・トレッキング",
-      "description": "自然に恵まれた離島で、家族向けの自転車レンタルやハイキングが無料で楽しめます。4月の気候は良好で、子どもたちの屋外冒険に最適。",
-      "date": "4月全般（通年）",
-      "place": "Pulau Ubin, シンガポール",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pulau-ubin",
+      "title": "Marina Bay Waterfront 無料イベント & 散策",
+      "description": "マリーナベイの広大なウォーターフロント。無料で楽しめるパブリックエリア、トイレ、遊び場が充実。イベントステージでは季節ごとに子ども向けパフォーマンスも開催されます。",
+      "date": "4月上旬～下旬（通年）",
+      "place": "Marina Bay, Singapore",
+      "link": "https://www.visitsingapore.com/see-do/attractions/marina-bay/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T04:11:10.059Z"
+  "updatedAt": "2026-04-01T06:13:30.499Z"
 }

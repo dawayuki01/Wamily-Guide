@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの季節・モネの庭（ジヴェルニー）",
-      "description": "印象派の巨匠モネが愛した庭園。4月は色とりどりのチューリップが咲き誇り、子どもたちと一緒に自然美を堪能できます。睡蓮の池も見どころ。",
-      "date": "4月上旬〜下旬",
-      "place": "84 rue Claude Monet, 27620 Giverny, フランス",
-      "link": "https://fondation-monet.com",
-      "free": false
-    },
-    {
-      "title": "パリ・エーグ（復活祭の卵探し）",
-      "description": "多くのパリの公園やスポットで復活祭（4月20日）前後に卵探しイベントが開催。ルクセンブルク公園などで無料で楽しめ、子どもたちが大喜びする伝統行事。",
-      "date": "4月中旬〜下旬（復活祭前後）",
-      "place": "ルクセンブルク公園ほか（Jardin du Luxembourg）",
-      "link": "https://www.parisinfo.com",
+      "title": "パリ春の花祭り（Fleurs de Paris）",
+      "description": "パリ各地の庭園やバルコニーに春の花が咲き誇る季節。ルーヴル宮庭園やテュイルリー庭園で色とりどりの花々が楽しめます。",
+      "date": "4月上旬〜5月上旬",
+      "place": "テュイルリー庭園（Jardin des Tuileries）、8 Rue de Rivoli, 75001 Paris",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "シテ科学館（Cité des Sciences）の子ども向け特別展示",
-      "description": "パリ最大級の科学館。4月は春をテーマにした子ども向けプログラムや実験ショーが開催。乳幼児から小学生までが楽しめるインタラクティブ展示多数。",
-      "date": "4月上旬〜下旬",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
-      "free": false
-    },
-    {
-      "title": "ボワ・ド・ブーローニュの春散策と遊園地",
-      "description": "パリ西部の広大な公園。4月は新緑が美しく、家族向けの乗馬体験や子ども用遊園地「Jardin d'Acclimatation」で遊べます。屋外で思いっきり遊べる場所。",
-      "date": "4月上旬〜下旬",
-      "place": "Bois de Boulogne, 75016 Paris",
-      "link": "https://www.paris.fr/pages/les-bois-de-paris-3683",
+      "title": "マリオネット劇場（Guignol）",
+      "description": "パリの公園で開催される伝統的なフランス人形劇。子どもたちが喜ぶコミカルなショーで、4月は温暖な気候で屋外上演が増えます。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "ルクセンブルク庭園（Jardin du Luxembourg）、Rue de Médicis, 75006 Paris",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "フランス国立図書館（BnF）キッズラボ・春プログラム",
-      "description": "子ども向けワークショップや読書イベントが充実。4月は物語や造形活動など季節プログラムで小学生を中心に楽しめます。",
+      "title": "イースターマーケット（Marché de Pâques）",
+      "description": "パリ各地で開催されるイースター関連のマーケット。チョコレート、装飾卵、春の手工芸品などが売られ、子ども向けアクティビティもあります。",
+      "date": "4月上旬〜中旬",
+      "place": "シャンゼリゼ通りほか市内各所",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "パリ水族館・特別春企画",
+      "description": "シャイヨー宮地下のパリ水族館で春特別展示が開催。海の生き物との触れ合いコーナーや子ども向け学習プログラムが充実しています。",
+      "date": "4月1日〜5月31日",
+      "place": "シャイヨー宮（Palais de Chaillot）、5 Avenue Albert de Mun, 75016 Paris",
+      "link": "https://www.aquariumdeparis.com",
+      "free": false
+    },
+    {
+      "title": "セーヌ川クルーズ＆春の散策",
+      "description": "4月のセーヌ川沿いは新緑が美しく、クルーズ船での観光やボートピクニックが人気。乳幼児から参加でき、パリの風景を楽しめます。",
       "date": "4月上旬〜下旬",
-      "place": "Quai François Mauriac, 75013 Paris",
-      "link": "https://www.bnf.fr",
+      "place": "セーヌ川各乗船地点（Pont de l'Alma, Port de la Bourdonnaise等）",
+      "link": "https://www.batobus.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T04:10:53.822Z"
+  "updatedAt": "2026-04-01T06:13:15.848Z"
 }

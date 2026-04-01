@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "国王の誕生日パレード（Konung Carl XVI Gustafs födelsedag）",
-      "description": "4月30日にスウェーデン国王の誕生日を祝うパレード。王宮前での儀式行進が見られ、子どもたちも楽しめる。家族向けの雰囲気で、無料で観覧できます。",
-      "date": "4月30日",
-      "place": "ロイヤルパレス（Stockholms Slott）周辺、Gamla Stan",
-      "link": "https://www.kungahuset.se",
+      "title": "王立劇場のイースター・プログラム",
+      "description": "ストックホルムの伝統的なイースター・セレブレーションで、劇場の特別公演や子ども向けワークショップが開催されます。春の雰囲気の中で家族で楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "Royal Dramatic Theatre (Dramaten), Nybroplan, Stockholm",
+      "link": "https://www.dramaten.se/",
+      "free": false
+    },
+    {
+      "title": "スキンスカン公園の春の花まつり",
+      "description": "ストックホルムの人気公園で、4月は桜やチューリップが満開。広大な緑地で子どもが自由に遊べ、ピクニックやピクニックエリアも充実しています。",
+      "date": "4月上旬〜下旬",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
+      "link": "https://www.skansen.se/",
       "free": true
     },
     {
-      "title": "チューリップ花盛り＆春のガーデンツアー（ドロットニングホルム宮殿）",
-      "description": "4月中旬から下旬にかけて、ドロットニングホルム宮殿の庭園でチューリップと春の花が満開。子ども向けのガイド付きツアーもあり、歴史学習と自然鑑賞が両立できます。",
+      "title": "ノルディスカ美術館の子ども向け春イベント",
+      "description": "北欧デザインの美術館で、イースター向けの子ども向けワークショップやクラフト活動が開催。家族で北欧の文化を学べます。",
       "date": "4月中旬〜下旬",
-      "place": "ドロットニングホルム宮殿庭園（Drottningholms slottspark）",
-      "link": "https://www.drottningholmen.se",
+      "place": "Nordiska museet, Djurgårdsvägen 6-16, Stockholm",
+      "link": "https://www.nordiskamuseet.se/",
       "free": false
     },
     {
-      "title": "スカンセン野外博物館の春イベント＆動物の赤ちゃん観察",
-      "description": "春シーズンにスカンセンでは動物たちの出産期間。新しい命が見られる時期で、子どもたちに生命の学びを提供。園内では春祭りの催しも開催されます。",
+      "title": "ジュルゴーデン島のサイクリング&自然散策",
+      "description": "ストックホルムの緑豊かなジュルゴーデン島で、家族向けレンタサイクルや散策路が完備。春の花々が咲き、子どもも参加しやすい屋外アクティビティです。",
       "date": "4月上旬〜下旬",
-      "place": "スカンセン（Skansen Akvariet och Skansen）、Djurgården",
-      "link": "https://www.skansen.se",
-      "free": false
-    },
-    {
-      "title": "春のサイクリング＆ハイキング（ジュールゴーデン公園）",
-      "description": "4月の穏やかな気候はサイクリングに最適。ジュールゴーデン公園は広大で安全、自転車レンタルも充実。家族で屋外の春を満喫でき、ほぼ無料です（レンタル料除く）。",
-      "date": "4月上旬〜下旬",
-      "place": "ジュールゴーデン公園（Djurgården）",
-      "link": "https://www.stockholm.se",
+      "place": "Djurgården Island, Stockholm",
+      "link": "https://www.djurgardsbolagets.se/",
       "free": true
     },
     {
-      "title": "バルトスカ美術館・子ども向けアート体験プログラム",
-      "description": "4月に実施される子ども向けの創作ワークショップ。北欧の現代美術に触れながら、子どもたちが自分で作品を制作。インタラクティブで年齢に応じたプログラムが用意されています。",
-      "date": "4月の週末（変動あり）",
-      "place": "バルトスカ美術館（Moderna Museet / Fotografiska）",
-      "link": "https://www.modernamuseet.se",
+      "title": "スウェーデン自然博物館のイースター・プログラム",
+      "description": "恐竜や動物に関する展示で、イースター期間の子ども向けガイドツアーやスカベンジャーハントが開催。対話的な学習が可能です。",
+      "date": "4月上旬〜中旬",
+      "place": "Swedish Museum of Natural History, Frescativägen 40, Stockholm",
+      "link": "https://www.nrm.se/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T04:11:03.064Z"
+  "updatedAt": "2026-04-01T06:13:22.929Z"
 }

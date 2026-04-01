@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Flores de Mayo（花の月行列）",
-      "description": "5月に行われるカトリック行事ですが、4月下旬から準備イベントが始まります。子どもたちが花で飾られた山車に乗り、教会周辺をパレードします。フィリピンの文化を体験できます。",
-      "date": "4月下旬〜5月上旬",
-      "place": "マニラ首都圏内の各教会（特にマロロス地区、ケソンシティ）",
+      "title": "Summer Fiesta（サマーフィエスタ）",
+      "description": "4月はフィリピンの夏シーズン開幕。各ショッピングモール・公園で子ども向けのゲーム、工作ワークショップ、エンターテイメントが開催される季節の祭典です。",
+      "date": "4月上旬〜下旬",
+      "place": "SM Malls of Asia, Robinsons Malls等大型ショッピングモール",
       "link": "",
       "free": true
     },
     {
-      "title": "Luneta Park（リサール公園）での家族向けアウトドアアクティビティ",
-      "description": "マニラ最大の公園で、ローラースケート、自転車、ピクニックが楽しめます。4月は天気が良く、子どもと過ごすのに最適。歴史的建造物も見学できます。",
-      "date": "4月全期間",
-      "place": "Rizal Park, Manila, Metro Manila",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "Manila Zoo Free Day（マニラ動物園 無料開放日）",
+      "description": "毎月特定日に無料開放される公立動物園。乳幼児から楽しめる動物展示と屋外散策が可能。フィリピンの動物も観察できます。",
+      "date": "4月中旬（通常毎月第3日曜）",
+      "place": "Manila Zoo, Rizal Park, Padre Faura St., Manila",
+      "link": "https://www.manilazooph.org",
       "free": true
     },
     {
-      "title": "Manila Ocean Park（マニラオーシャンパーク）の春休みスペシャルプログラム",
-      "description": "水族館やアトラクションが充実した施設。4月は春休みシーズンで、子ども向けワークショップやイルカショーなどの特別プログラムが開催されます。",
-      "date": "4月全期間",
-      "place": "CCP Complex, Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceanpark.com/",
+      "title": "Rizal Park（リサール公園）での春の屋外活動",
+      "description": "マニラの大規模公園。4月の快晴時に凧揚げ、ピクニック、サイクリングが楽しめます。歴史的モニュメントの見学と親子での運動に最適です。",
+      "date": "4月上旬〜下旬",
+      "place": "Rizal Park, Manila City",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
+    },
+    {
+      "title": "Enchanted Kingdom School Break Promo（エンチャンテッドキングダム）",
+      "description": "フィリピン最大級のテーマパーク。4月の学校休暇期間に子ども向けの特別キャンペーン・割引が実施されます。ジェットコースターから幼児向けアトラクションまで対応。",
+      "date": "4月上旬〜中旬",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから約1時間）",
+      "link": "https://www.enchantedkingdom.ph",
       "free": false
     },
     {
-      "title": "SM Mall of Asia（SMモール・オブ・アジア）キッズイベント",
-      "description": "東南アジア最大級のショッピングモール。4月中旬から夏休み向けキッズイベントやコンサート、ゲーム大会などが開催されます。屋内で快適に過ごせます。",
-      "date": "4月中旬〜下旬",
-      "place": "SM Mall of Asia, Pasay City, Metro Manila",
-      "link": "https://www.smmallofasia.com.ph/",
-      "free": false
-    },
-    {
-      "title": "Makati Ayala Museum（マカティアヤラ博物館）の子ども向けツアー",
-      "description": "フィリピンの歴史と文化を学べる博物館。4月に子ども向けの特別ツアーやワークショップを開催。陶製品や織物などの展示が子どもにも分かりやすいです。",
-      "date": "4月全期間（週末推奨）",
-      "place": "Makati Avenue, Makati City, Metro Manila",
-      "link": "https://www.ayalamuseum.org/",
+      "title": "National Museum（国立博物館）子ども向けプログラム",
+      "description": "4月に子ども向けの体験型展示やガイドツアーが開催される場合があります。フィリピン文化・歴史を学べる屋内施設で、乳幼児連れに最適です。",
+      "date": "4月上旬〜下旬",
+      "place": "National Museum Complex, Padre Burgos Ave., Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T04:11:25.560Z"
+  "updatedAt": "2026-04-01T06:13:47.888Z"
 }

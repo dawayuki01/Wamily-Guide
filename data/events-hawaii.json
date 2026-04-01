@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "イースター・セレブレーション",
-      "description": "ハワイ全島でイースター関連のイベントが開催。子ども向けのエッグハントやパレード、教会での家族礼拝など、春の祝い を楽しめます。",
-      "date": "4月上旬～中旬",
-      "place": "オアフ島全域（ワイキキビーチ、アラモアナセンターなど主要施設）",
-      "link": "https://www.gohawaii.com/",
+      "title": "Lei Day（レイデー）",
+      "description": "5月1日の前後に開催。ハワイの伝統的なレイ作りワークショップや、花のレイコンテストなどで、ハワイ文化を学べます。子ども向けの簡単なレイ作り体験も。",
+      "date": "4月下旬〜5月上旬",
+      "place": "カピオラニ公園（ホノルル）",
+      "link": "https://www.honolulu.gov/",
       "free": true
     },
     {
-      "title": "アウアイ・フラフェスティバル（フラコンペティション）",
-      "description": "ハワイアンカルチャーの祭典。伝統フラやハワイアン音楽の演技、子どもフラ部門もあり。家族で楽しめるステージと屋台が充実。",
-      "date": "4月中旬～下旬",
-      "place": "カピオラニパーク、ワイキキシェル（オアフ島）",
-      "link": "https://www.merriemonarchfestival.org/",
-      "free": true
-    },
-    {
-      "title": "アメニティーズ・チルドレン・プログラム（ハワイ自然史博物館）",
-      "description": "恐竜展示や自然科学を学べる特別プログラム。4月は春限定ワークショップが充実し、乳幼児～小学生向けの体験型展示が豊富。",
-      "date": "4月通年",
-      "place": "Bishop Museum, 1525 Bernice Street, Honolulu, HI 96817",
-      "link": "https://www.bishopmuseum.org/",
+      "title": "Hawaii Plumerias Festival（ハワイプルメリア祭）",
+      "description": "春に咲くプルメリアの花を祝うイベント。色とりどりの花の展示、地元フラダンサーのパフォーマンス、子ども向けのワークショップで家族向け。",
+      "date": "4月中旬",
+      "place": "ハワイボタニカルガーデン（オアフ島カフク）",
+      "link": "https://www.honolulubotanicgardens.org/",
       "free": false
     },
     {
-      "title": "ダイアモンドヘッド・ハイキング",
-      "description": "ハワイを代表する山。約30分で登頂可能で、頂上からワイキキと太平洋の絶景が望めます。4月は天候が安定し、家族ハイキングに最適。",
-      "date": "4月通年（早朝推奨）",
-      "place": "ダイアモンドヘッド・ステートモニュメント, Honolulu, HI 96815",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "title": "Honolulu Zoo Spring Programs（ホノルル動物園スプリングプログラム）",
+      "description": "子ども向けの動物との触れ合いプログラムやガイドツアー。春の心地よい気候の中で、安全に動物を観察・学習できるおすすめアクティビティ。",
+      "date": "4月全体",
+      "place": "ホノルル動物園（ワイキキ）",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "ホノルル・ファーマーズマーケット",
-      "description": "地元産の新鮮野菜、フルーツ、ハワイアン雑貨が並ぶマーケット。ストリートフードも充実し、ハワイの地域文化を気軽に体験できます。",
-      "date": "4月通年（水・土曜日開催）",
-      "place": "KCC Farmers Market, 2755 Kaala Street, Honolulu, HI 96816",
-      "link": "https://www.kccfarmersmarket.com/",
+      "title": "Farmer's Markets at KCC & Saturday Markets（ファーマーズマーケット）",
+      "description": "新鮮な地元野菜、果物、ハワイアンフードが並ぶ無料マーケット。子どもと一緒にローカル文化を体験でき、朝食やスナックも楽しめます。",
+      "date": "4月毎週土日",
+      "place": "KCC farmers market（ホノルル）他各地",
+      "link": "https://www.kcc.hawaii.edu/community/farmers-market/",
       "free": true
+    },
+    {
+      "title": "Snorkeling at Hanauma Bay（ハナウマ湾でのシュノーケリング）",
+      "description": "春の穏やかな海でシュノーケリング体験。カラフルな熱帯魚を観察できる屋外アクティビティ。小学生向けの浅い場所も完備。",
+      "date": "4月全体（天候による）",
+      "place": "ハナウマ湾自然保護区（ホノルル）",
+      "link": "https://www.honolulu.gov/parks/hanauma-bay-snorkeling/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T04:12:14.115Z"
+  "updatedAt": "2026-04-01T06:14:03.103Z"
 }
