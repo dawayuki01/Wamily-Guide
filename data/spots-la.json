@@ -12,7 +12,9 @@
       "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": false
+      "extra": false,
+      "lat": 34.0534,
+      "lng": -118.2551
     },
     {
       "id": "334088f5-0b07-8157-affc-ed79475aa3c7",
@@ -26,7 +28,9 @@
       "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": false
+      "extra": false,
+      "lat": 34.059,
+      "lng": -118.268
     },
     {
       "id": "334088f5-0b07-8184-b4ce-df9ffbd08aeb",
@@ -40,7 +44,9 @@
       "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": false
+      "extra": false,
+      "lat": 34.0749,
+      "lng": -118.38
     },
     {
       "id": "334088f5-0b07-8112-ae10-e64625724a5d",
@@ -54,7 +60,9 @@
       "free": false,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": false
+      "extra": false,
+      "lat": 34.064,
+      "lng": -118.299
     },
     {
       "id": "334088f5-0b07-814e-98d1-c708385b415f",
@@ -68,7 +76,9 @@
       "free": true,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": false
+      "extra": false,
+      "lat": 34.058,
+      "lng": -118.283
     },
     {
       "id": "334088f5-0b07-815c-a540-c123b7749c14",
@@ -82,7 +92,9 @@
       "free": true,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": false
+      "extra": false,
+      "lat": 33.8316,
+      "lng": -118.3271
     },
     {
       "id": "334088f5-0b07-8137-9d70-dbf16aef76dc",
@@ -96,7 +108,9 @@
       "free": false,
       "checkedDate": "2026年3月",
       "placeId": "ChIJa147K9HX3IAR-lwiGIQv9i4",
-      "extra": false
+      "extra": false,
+      "lat": 33.8121,
+      "lng": -117.919
     },
     {
       "id": "334088f5-0b07-819e-a640-dc1f0510b140",
@@ -110,7 +124,9 @@
       "free": true,
       "checkedDate": "2026年3月",
       "placeId": null,
-      "extra": false
+      "extra": false,
+      "lat": 34.0095,
+      "lng": -118.497
     },
     {
       "id": "334088f5-0b07-81d5-beb6-eb8b69c0e69e",
@@ -124,7 +140,9 @@
       "free": true,
       "checkedDate": "2026年3月",
       "placeId": "ChIJDQUp5mG_woARPGoCqvGBvMM",
-      "extra": false
+      "extra": false,
+      "lat": 34.1184,
+      "lng": -118.3004
     }
   ],
   "checkedAt": "2026-03-31T21:27:50.014Z"

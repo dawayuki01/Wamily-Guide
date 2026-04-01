@@ -285,6 +285,9 @@ async function main() {
             checkedDate: prev?.checkedDate ?? spot.checkedDate,
             // placeId: Notion側を優先。Notionにない場合は既存ファイルの値を引き継ぐ
             placeId: spot.placeId || prev?.placeId || null,
+            // 座標: 既存ファイルの値を引き継ぐ（手動管理）
+            lat: prev?.lat || null,
+            lng: prev?.lng || null,
           };
         });
 
