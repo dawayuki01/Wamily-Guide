@@ -442,6 +442,45 @@
   transform: rotate(-1deg);
 }
 
+/* ---------- Illustration Decorations ---------- */
+.ed-illust-section {
+  position: relative;
+}
+
+.ed-illust {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  animation: illust-float 6s ease-in-out infinite;
+  mix-blend-mode: multiply;
+}
+
+@keyframes illust-float {
+  0%, 100% { transform: translateY(0px); }
+  50%       { transform: translateY(-12px); }
+}
+
+/* ヒーロー内イラスト */
+.ed-hero-illust {
+  position: absolute;
+  right: 6%;
+  bottom: 0;
+  z-index: 5;
+  animation: illust-float 8s ease-in-out infinite;
+}
+
+.ed-hero-illust img {
+  width: 150px;
+  filter: drop-shadow(0 4px 20px rgba(0,0,0,0.25));
+  display: block;
+}
+
+/* 900px以下でイラスト非表示（邪魔になるため） */
+@media (max-width: 900px) {
+  .ed-illust,
+  .ed-hero-illust { display: none; }
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 768px) {
   .ed-hero {
