@@ -288,7 +288,6 @@
     const container = document.getElementById('curation-list');
     if (!container) return;
 
-    // ページの country スラッグを取得（data属性 or URLから推定）
     const slug = document.body.dataset.country
       || window.location.pathname.replace(/\//g, '').replace('index.html', '') || 'london';
 
@@ -297,7 +296,31 @@
       const items = data.items || [];
       if (!items.length) return;
 
-      container.innerHTML = items.map(renderCurationCard).join('');
+      const VISIBLE = 5;
+      const visible = items.slice(0, VISIBLE);
+      const hidden  = items.slice(VISIBLE);
+
+      let html = visible.map(renderCurationCard).join('');
+
+      if (hidden.length > 0) {
+        html += `
+          <div class="curation-more" id="curation-more" style="display:none">
+            ${hidden.map(renderCurationCard).join('')}
+          </div>
+          <button class="curation-more-btn" id="curation-more-btn" style="margin-top:12px;background:none;border:1.5px solid var(--teal-border);color:var(--teal);padding:8px 20px;border-radius:999px;font-size:13px;cursor:pointer;">
+            もっと見る（残り${hidden.length}件）
+          </button>`;
+      }
+
+      container.innerHTML = html;
+
+      const btn = document.getElementById('curation-more-btn');
+      if (btn) {
+        btn.addEventListener('click', () => {
+          document.getElementById('curation-more').style.display = '';
+          btn.style.display = 'none';
+        });
+      }
     } catch (e) {
       // 静的HTMLがフォールバック
     }

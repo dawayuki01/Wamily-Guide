@@ -32,6 +32,16 @@ function initTabs() {
       btn.classList.add('active');
       const target = document.getElementById(btn.dataset.tab);
       if (target) target.classList.add('active');
+
+      // Google Maps は非表示タブから表示されると崩れるため resize を発火
+      if (btn.dataset.tab === 'tab-enjoy' && window.google && window.google.maps) {
+        const mapEl = document.getElementById('spots-map');
+        if (mapEl && mapEl._googleMap) {
+          setTimeout(() => {
+            window.google.maps.event.trigger(mapEl._googleMap, 'resize');
+          }, 50);
+        }
+      }
     });
   });
 }
