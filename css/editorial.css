@@ -1,0 +1,349 @@
+/* ============================================================
+   editorial.css — エディトリアル（雑誌風）レイアウト
+   各国ガイドページ用。style.css と併用。
+   ============================================================ */
+
+/* ---------- Hero ---------- */
+.ed-hero {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  min-height: 400px;
+  max-height: 600px;
+  overflow: hidden;
+}
+
+.ed-hero-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.ed-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0) 30%,
+    rgba(0,0,0,0.55) 100%
+  );
+}
+
+.ed-hero-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 40px 24px;
+  color: #fff;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.ed-hero-flag {
+  font-size: 32px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.ed-hero-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 1.2;
+  margin-bottom: 4px;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.3);
+}
+
+.ed-hero-subtitle {
+  font-size: 13px;
+  opacity: 0.8;
+  letter-spacing: 0.05em;
+  margin-bottom: 16px;
+}
+
+.ed-hero-lead {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.6;
+  margin-bottom: 16px;
+  text-shadow: 0 1px 8px rgba(0,0,0,0.2);
+}
+
+.ed-hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  font-size: 12px;
+  opacity: 0.9;
+}
+
+.ed-hero-meta .tag {
+  background: rgba(255,255,255,0.2);
+  border-color: rgba(255,255,255,0.3);
+  color: #fff;
+}
+
+/* ---------- Sections ---------- */
+.ed-section {
+  padding: 40px 24px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.ed-section-narrow {
+  max-width: 680px;
+}
+
+/* ---------- Lead Text ---------- */
+.ed-lead-text {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.8;
+  color: var(--text-primary);
+  margin-bottom: 24px;
+}
+
+.ed-body-text {
+  font-size: 15px;
+  line-height: 2;
+  color: var(--text-secondary);
+}
+
+/* ---------- Section Titles ---------- */
+.ed-section-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 28px;
+  line-height: 1.5;
+}
+
+.ed-small-title {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 16px;
+}
+
+/* ---------- Photo Break ---------- */
+.ed-photo-break {
+  width: 100%;
+  margin: 0;
+  position: relative;
+}
+
+.ed-photo-break img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  display: block;
+}
+
+.ed-photo-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px 24px 16px;
+  background: linear-gradient(to top, rgba(0,0,0,0.5), transparent);
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+/* ---------- Feature Grid ---------- */
+.ed-feature-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.ed-feature {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  padding: 20px;
+  background: var(--white);
+  border-radius: 14px;
+  border: 1.5px solid var(--border-main);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ed-feature:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+}
+
+.ed-feature-icon {
+  font-size: 28px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--cream-dark);
+  border-radius: 12px;
+}
+
+.ed-feature-title {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+
+.ed-feature-text {
+  font-size: 13px;
+  line-height: 1.8;
+  color: var(--text-muted);
+}
+
+/* ---------- Resident Voice ---------- */
+.ed-resident-voice {
+  background: var(--white);
+  border-radius: 16px;
+  border: 1.5px solid var(--teal-border);
+  padding: 28px;
+  position: relative;
+}
+
+.ed-voice-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--teal-light);
+  color: var(--teal);
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 12px;
+  border-radius: 999px;
+  margin-bottom: 14px;
+}
+
+.ed-voice-quote {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.9;
+  color: var(--text-primary);
+  margin: 0 0 12px;
+  border: none;
+  padding: 0;
+}
+
+.ed-voice-name {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+/* ---------- Details (collapsible) ---------- */
+.ed-details {
+  background: var(--white);
+  border: 1.5px solid var(--border-main);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.ed-details-summary {
+  padding: 16px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.ed-details-summary::-webkit-details-marker { display: none; }
+
+.ed-details-summary::after {
+  content: '▼';
+  float: right;
+  font-size: 10px;
+  color: var(--text-hint);
+  transition: transform 0.2s;
+}
+
+.ed-details[open] .ed-details-summary::after {
+  transform: rotate(180deg);
+}
+
+.ed-details-body {
+  padding: 0 20px 20px;
+}
+
+/* ---------- CTA ---------- */
+.ed-cta {
+  text-align: center;
+  padding: 40px 20px;
+  background: var(--cream-dark);
+  border-radius: 16px;
+  margin-top: 32px;
+}
+
+.ed-cta-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 16px;
+}
+
+.ed-cta-note {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 12px;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 768px) {
+  .ed-hero {
+    height: 55vh;
+    min-height: 300px;
+  }
+
+  .ed-hero-title {
+    font-size: 28px;
+  }
+
+  .ed-hero-lead {
+    font-size: 15px;
+  }
+
+  .ed-lead-text {
+    font-size: 20px;
+  }
+
+  .ed-section {
+    padding: 28px 18px;
+  }
+
+  .ed-photo-break img {
+    height: 220px;
+  }
+
+  .ed-feature {
+    padding: 16px;
+  }
+
+  .ed-feature-icon {
+    width: 40px;
+    height: 40px;
+    font-size: 22px;
+  }
+}
+
+/* ---------- Hide old page-header when editorial hero is present ---------- */
+.page-header,
+.page-photo-header {
+  /* These are replaced by ed-hero in editorial pages */
+}
