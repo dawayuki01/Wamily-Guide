@@ -132,6 +132,7 @@
 
       var infoWindow = new google.maps.InfoWindow();
       var bounds = new google.maps.LatLngBounds();
+      var markers = []; // {marker, category} のリスト
 
       spotsWithCoords.forEach(function(spot) {
         var position = { lat: spot.lat, lng: spot.lng };
@@ -143,6 +144,7 @@
           icon:     markerIcon(CATEGORY_COLOR[spot.category] || '#2a9d8f'),
         });
 
+        markers.push({ marker: marker, category: spot.category });
         bounds.extend(position);
 
         marker.addListener('click', function() {
@@ -158,6 +160,23 @@
 
       // 地図外クリックでInfoWindow閉じる
       map.addListener('click', function() { infoWindow.close(); });
+
+      // ── フィルターボタンと連動 ─────────────────────────────
+      var filterBtns = document.querySelectorAll('.filter-btn');
+      filterBtns.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          var category = btn.dataset.category;
+          infoWindow.close();
+
+          markers.forEach(function(item) {
+            if (category === 'all' || item.category === category) {
+              item.marker.setVisible(true);
+            } else {
+              item.marker.setVisible(false);
+            }
+          });
+        });
+      });
     });
   }
 
