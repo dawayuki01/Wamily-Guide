@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの季節 - ジャルダン・デ・プラント",
-      "description": "パリ植物園で春のチューリップが見頃。色彩豊かな花々が咲き誇り、子どもと一緒に自然観察ができます。屋外散策に最適な季節です。",
-      "date": "4月上旬〜中旬",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "パリ子ども向け劇場 - 春休みプログラム",
-      "description": "ガニョル劇場などで開催される子ども向けの人形劇やミュージカル。4月の春休み期間に特別公演が多数開催されます。幼児向けも豊富です。",
-      "date": "4月上旬〜中旬",
-      "place": "Théâtre Gignol, 2 Avenue du Fessart, 75004 Paris",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "ルクサンブルク公園での親子向けアクティビティ",
-      "description": "広大な公園で遊具遊び、ヨット池での水遊び、ポニー乗馬など。春の気候で屋外活動に最適。多くのアクティビティが無料で楽しめます。",
+      "title": "チューリップの季節・モネの庭（ジヴェルニー）",
+      "description": "印象派の巨匠モネが愛した庭園。4月は色とりどりのチューリップが咲き誇り、子どもたちと一緒に自然美を堪能できます。睡蓮の池も見どころ。",
       "date": "4月上旬〜下旬",
-      "place": "Jardin du Luxembourg, Rue de Médicis, 75006 Paris",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "パリ動物園の春のプログラム",
-      "description": "ウサギやヒヨコなど春の新しい動物の赤ちゃんが公開。子ども向けガイドツアーや触れ合い体験が充実しています。",
-      "date": "4月全期間",
-      "place": "Ménagerie du Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "",
+      "place": "84 rue Claude Monet, 27620 Giverny, フランス",
+      "link": "https://fondation-monet.com",
       "free": false
     },
     {
-      "title": "パリ博物館の子ども向け春休みワークショップ",
-      "description": "ルーヴル美術館やオルセー美術館が開催する4月の春休み特別プログラム。年齢別の美術工作やゲーム形式の鑑賞活動で、子どもも楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris / Musée d'Orsay, 1 Rue de la Légion d'Honneur, 75007 Paris",
-      "link": "",
+      "title": "パリ・エーグ（復活祭の卵探し）",
+      "description": "多くのパリの公園やスポットで復活祭（4月20日）前後に卵探しイベントが開催。ルクセンブルク公園などで無料で楽しめ、子どもたちが大喜びする伝統行事。",
+      "date": "4月中旬〜下旬（復活祭前後）",
+      "place": "ルクセンブルク公園ほか（Jardin du Luxembourg）",
+      "link": "https://www.parisinfo.com",
+      "free": true
+    },
+    {
+      "title": "シテ科学館（Cité des Sciences）の子ども向け特別展示",
+      "description": "パリ最大級の科学館。4月は春をテーマにした子ども向けプログラムや実験ショーが開催。乳幼児から小学生までが楽しめるインタラクティブ展示多数。",
+      "date": "4月上旬〜下旬",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "ボワ・ド・ブーローニュの春散策と遊園地",
+      "description": "パリ西部の広大な公園。4月は新緑が美しく、家族向けの乗馬体験や子ども用遊園地「Jardin d'Acclimatation」で遊べます。屋外で思いっきり遊べる場所。",
+      "date": "4月上旬〜下旬",
+      "place": "Bois de Boulogne, 75016 Paris",
+      "link": "https://www.paris.fr/pages/les-bois-de-paris-3683",
+      "free": true
+    },
+    {
+      "title": "フランス国立図書館（BnF）キッズラボ・春プログラム",
+      "description": "子ども向けワークショップや読書イベントが充実。4月は物語や造形活動など季節プログラムで小学生を中心に楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Quai François Mauriac, 75013 Paris",
+      "link": "https://www.bnf.fr",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T03:52:24.416Z"
+  "updatedAt": "2026-04-01T04:10:53.822Z"
 }

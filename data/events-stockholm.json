@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スコーナ公園（Skansen）の春まつり",
-      "description": "北欧最大の野外博物館で、春の動物たちの活動や季節の花が見どころ。子ども向けの動物ふれあい体験やスウェーデン伝統文化体験が楽しめます。",
-      "date": "4月上旬〜5月上旬",
-      "place": "Skansen, Djurgården, Stockholm",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "チューリップ＆春の花祭り（Stockholms Stadsträdgård）",
-      "description": "ストックホルムの市街地庭園で色とりどりのチューリップや春の花が満開。散歩やピクニックに最適で、子どもも季節を肌で感じられます。",
-      "date": "4月中旬〜5月上旬",
-      "place": "Stockholms Stadsträdgård, Norrmalm",
-      "link": "",
+      "title": "国王の誕生日パレード（Konung Carl XVI Gustafs födelsedag）",
+      "description": "4月30日にスウェーデン国王の誕生日を祝うパレード。王宮前での儀式行進が見られ、子どもたちも楽しめる。家族向けの雰囲気で、無料で観覧できます。",
+      "date": "4月30日",
+      "place": "ロイヤルパレス（Stockholms Slott）周辺、Gamla Stan",
+      "link": "https://www.kungahuset.se",
       "free": true
     },
     {
-      "title": "ユーランデルスホテット（Gröna Lund）の春シーズンオープン",
-      "description": "ジューテン島の遊園地が春シーズンを開始。子ども向けアトラクションやキャラクターイベント、ライブエンターテインメントが随時開催されます。",
-      "date": "4月中旬〜",
-      "place": "Gröna Lund, Djurgården",
-      "link": "",
+      "title": "チューリップ花盛り＆春のガーデンツアー（ドロットニングホルム宮殿）",
+      "description": "4月中旬から下旬にかけて、ドロットニングホルム宮殿の庭園でチューリップと春の花が満開。子ども向けのガイド付きツアーもあり、歴史学習と自然鑑賞が両立できます。",
+      "date": "4月中旬〜下旬",
+      "place": "ドロットニングホルム宮殿庭園（Drottningholms slottspark）",
+      "link": "https://www.drottningholmen.se",
       "free": false
     },
     {
-      "title": "王立動物園（Kolmården）の春開園",
-      "description": "スウェーデン最大級の動物園。春は新生児動物たちの公開が話題。広大な敷地での屋外散策と動物観察が家族向けに最適。",
-      "date": "4月初旬〜",
-      "place": "Kolmården, Västerljung（ストックホルムから約150km）",
-      "link": "",
+      "title": "スカンセン野外博物館の春イベント＆動物の赤ちゃん観察",
+      "description": "春シーズンにスカンセンでは動物たちの出産期間。新しい命が見られる時期で、子どもたちに生命の学びを提供。園内では春祭りの催しも開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "スカンセン（Skansen Akvariet och Skansen）、Djurgården",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ノルマルム広場（Norrmalmstor）の春マーケット",
-      "description": "地元の農家による新鮮な野菜や花、手作り品が並ぶ週末マーケット。子ども連れで気軽に立ち寄れ、スウェーデンの春の味を楽しめます。",
-      "date": "4月中旬〜5月中旬（週末）",
-      "place": "Norrmalmstor, Norrmalm",
-      "link": "",
+      "title": "春のサイクリング＆ハイキング（ジュールゴーデン公園）",
+      "description": "4月の穏やかな気候はサイクリングに最適。ジュールゴーデン公園は広大で安全、自転車レンタルも充実。家族で屋外の春を満喫でき、ほぼ無料です（レンタル料除く）。",
+      "date": "4月上旬〜下旬",
+      "place": "ジュールゴーデン公園（Djurgården）",
+      "link": "https://www.stockholm.se",
       "free": true
+    },
+    {
+      "title": "バルトスカ美術館・子ども向けアート体験プログラム",
+      "description": "4月に実施される子ども向けの創作ワークショップ。北欧の現代美術に触れながら、子どもたちが自分で作品を制作。インタラクティブで年齢に応じたプログラムが用意されています。",
+      "date": "4月の週末（変動あり）",
+      "place": "バルトスカ美術館（Moderna Museet / Fotografiska）",
+      "link": "https://www.modernamuseet.se",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T03:52:30.988Z"
+  "updatedAt": "2026-04-01T04:11:03.064Z"
 }

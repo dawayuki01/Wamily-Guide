@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA Earth Day Festival",
-      "description": "4月22日アースデイを中心に開催される環境イベント。子ども向けエコワークショップ、動物とのふれあい、ステージパフォーマンスなど家族向けコンテンツが充実。",
-      "date": "4月中旬〜下旬",
-      "place": "Griffith Park Los Angeles",
-      "link": "",
+      "title": "ロサンゼルス・アース・デイ",
+      "description": "4月22日前後に開催される地球環境の日。無料で家族向けのエコ活動、ワークショップ、音楽、食べ物の屋台が楽しめます。子どもたちが学べる体験型イベントです。",
+      "date": "4月20日〜22日頃",
+      "place": "グリフィス・パーク及び周辺施設（Los Angeles, CA）",
+      "link": "https://www.laparks.org/",
       "free": true
     },
     {
-      "title": "Descanso Gardens Spring Blooms",
-      "description": "春の花々が満開となる庭園。バラやシャクナゲが見頃。子ども向けガイドツアーやピクニックエリアあり。屋外で自然を楽しめる。",
+      "title": "ファーマーズマーケット・ハリウッド",
+      "description": "毎週日曜と火・木曜に開催。新鮮な野菜、フルーツ、地元産の食べ物やクラフトが揃います。子ども向けのライブミュージックやワークショップもあり、家族で楽しめます。",
+      "date": "4月通年（毎週開催）",
+      "place": "ハリウッド・ファーマーズマーケット、6333 W 3rd St, Los Angeles, CA 90036",
+      "link": "https://www.farmersmarketla.com/",
+      "free": true
+    },
+    {
+      "title": "カリフォルニア・ポピー咲き誇りハイキング",
+      "description": "4月はカリフォルニア・ポピー（州花）が最も美しい季節。ウォーカー・ランチやアンテロープ・バレーでのハイキングは子どもにも最適な屋外アクティビティです。",
       "date": "4月上旬〜下旬",
-      "place": "Descanso Gardens, La Cañada Flintridge",
-      "link": "",
+      "place": "アンテロープ・バレー・カリフォルニア・ポピー保護区（Lancaster, CA）",
+      "link": "https://www.parks.ca.gov/?page_id=627",
       "free": false
     },
     {
-      "title": "LA Zoo Spring Programs",
-      "description": "ロサンゼルス動物園の春の特別プログラム。キッズワークショップ、動物の赤ちゃん展示、スプリングキャンプなど。乳幼児から小学生向けのアクティビティ。",
-      "date": "4月全般",
-      "place": "Los Angeles Zoo, Griffith Park",
-      "link": "",
+      "title": "ロサンゼルス自然史博物館の春イベント",
+      "description": "春の特別展示やファミリープログラムが開催されます。恐竜展示、インタラクティブな体験、屋外の庭園探検など、子どもたちが学べる機会が豊富です。",
+      "date": "4月通年",
+      "place": "ロサンゼルス自然史博物館、900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
       "free": false
     },
     {
-      "title": "Santa Monica Pier Spring Events",
-      "description": "サンタモニカピアのビーチイベントシーズン。カーニバル、ストリートパフォーマー、キッズエリア。海の景色と屋外アクティビティが楽しめる。",
-      "date": "4月全般",
-      "place": "Santa Monica Pier, Santa Monica",
-      "link": "",
+      "title": "グリフィス天文台のファミリーナイト",
+      "description": "春の夜間プログラムで天体観測を家族で楽しめます。無料入場で屋外から望遠鏡での観星体験、プラネタリウムショーもあります。子どもの科学への興味を引き出します。",
+      "date": "4月通年（金土日）",
+      "place": "グリフィス天文台、2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
-    },
-    {
-      "title": "The Huntington Library Spring Festival",
-      "description": "ハンティントン図書館の春祭りイベント。子ども向けアートワークショップ、庭園散策、ファミリーアクティビティ。美しい庭園での屋外体験。",
-      "date": "4月中旬〜下旬",
-      "place": "The Huntington Library, San Marino",
-      "link": "",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T03:52:58.875Z"
+  "updatedAt": "2026-04-01T04:12:04.994Z"
 }

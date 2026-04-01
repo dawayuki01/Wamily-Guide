@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィエスタ・デ・サンタ・クルス（聖十字架の祭り）",
-      "description": "マニラ市内各地で開催される伝統的な春祭り。パレード、文化表演、地元食の屋台が並び、子どもも楽しめる家族向けイベントです。",
-      "date": "4月上旬〜中旬",
-      "place": "マニラ市内各地（リサール公園周辺など）",
+      "title": "Flores de Mayo（花の月行列）",
+      "description": "5月に行われるカトリック行事ですが、4月下旬から準備イベントが始まります。子どもたちが花で飾られた山車に乗り、教会周辺をパレードします。フィリピンの文化を体験できます。",
+      "date": "4月下旬〜5月上旬",
+      "place": "マニラ首都圏内の各教会（特にマロロス地区、ケソンシティ）",
       "link": "",
       "free": true
     },
     {
-      "title": "リサール公園でのピクニック・アウトドア活動",
-      "description": "マニラ最大級の公園。広い芝生、遊具、子ども向けエリアがあり、家族でピクニックやアウトドアを楽しめます。4月は乾季で天気が良好。",
+      "title": "Luneta Park（リサール公園）での家族向けアウトドアアクティビティ",
+      "description": "マニラ最大の公園で、ローラースケート、自転車、ピクニックが楽しめます。4月は天気が良く、子どもと過ごすのに最適。歴史的建造物も見学できます。",
+      "date": "4月全期間",
+      "place": "Rizal Park, Manila, Metro Manila",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "Manila Ocean Park（マニラオーシャンパーク）の春休みスペシャルプログラム",
+      "description": "水族館やアトラクションが充実した施設。4月は春休みシーズンで、子ども向けワークショップやイルカショーなどの特別プログラムが開催されます。",
+      "date": "4月全期間",
+      "place": "CCP Complex, Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceanpark.com/",
+      "free": false
+    },
+    {
+      "title": "SM Mall of Asia（SMモール・オブ・アジア）キッズイベント",
+      "description": "東南アジア最大級のショッピングモール。4月中旬から夏休み向けキッズイベントやコンサート、ゲーム大会などが開催されます。屋内で快適に過ごせます。",
       "date": "4月中旬〜下旬",
-      "place": "リサール公園（Rizal Park）、マニラ",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "スター・シティ（Star City）での遊園地体験",
-      "description": "フィリピン最大級の遊園地。子ども向けアトラクション、キャラクターショー、子どもが楽しめる乗り物が豊富に揃っています。",
-      "date": "4月通年営業（特に週末）",
-      "place": "スター・シティ、パサイ市（Pasay City）",
-      "link": "",
+      "place": "SM Mall of Asia, Pasay City, Metro Manila",
+      "link": "https://www.smmallofasia.com.ph/",
       "free": false
     },
     {
-      "title": "フィリピン国立博物館・自然史セクション",
-      "description": "恐竜化石や自然史展示が充実。子ども向けの体験学習プログラムやガイドツアーがあり、教育的で楽しめます。",
-      "date": "4月通年営業",
-      "place": "フィリピン国立博物館、ルネタ公園内、マニラ",
-      "link": "",
+      "title": "Makati Ayala Museum（マカティアヤラ博物館）の子ども向けツアー",
+      "description": "フィリピンの歴史と文化を学べる博物館。4月に子ども向けの特別ツアーやワークショップを開催。陶製品や織物などの展示が子どもにも分かりやすいです。",
+      "date": "4月全期間（週末推奨）",
+      "place": "Makati Avenue, Makati City, Metro Manila",
+      "link": "https://www.ayalamuseum.org/",
       "free": false
-    },
-    {
-      "title": "マニラの街角ナイトマーケット・フェスタ",
-      "description": "地元の手工芸品、おもちゃ、子ども向けスナックが並ぶナイトマーケット。涼しい夜間に家族で散策・買い物が楽しめます。",
-      "date": "4月中旬〜下旬（週末）",
-      "place": "マニラ市内各地（モール周辺、コミュニティセンターなど）",
-      "link": "",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T03:52:53.402Z"
+  "updatedAt": "2026-04-01T04:11:25.560Z"
 }
