@@ -68,6 +68,14 @@ jobs:
         continue-on-error: true
 
       # ────────────────────────────────
+      # 3.5. Google My Maps → 新規スポット取得
+      #    - My Maps に追加されたピンを spots-*.json に反映
+      # ────────────────────────────────
+      - name: Fetch new spots from Google My Maps
+        run: node scripts/fetch-mymaps.js
+        continue-on-error: true
+
+      # ────────────────────────────────
       # 4. Google Places → スポット営業状況（週1: 月曜のみ）
       # ────────────────────────────────
       - name: Check spot status (Google Places)
