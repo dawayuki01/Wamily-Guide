@@ -103,10 +103,10 @@
       "category": "play",
       "layer": "play",
       "description": "世界初のディズニーランド。LAから車で絀40分。スターウォーズのギャラクシーズエッジも人気　1313 Disneyland Dr, Anaheim",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
-      "checkedDate": "2026年3月",
+      "checkedDate": "2026年4月",
       "placeId": "ChIJa147K9HX3IAR-lwiGIQv9i4",
       "extra": false,
       "lat": 33.8121,
@@ -145,5 +145,5 @@
       "lng": -118.3004
     }
   ],
-  "checkedAt": "2026-03-31T21:27:50.014Z"
+  "checkedAt": "2026-04-01T03:53:18.275Z"
 }

@@ -103,10 +103,10 @@
       "category": "play",
       "layer": "play",
       "description": "世界最大規模の週末マーケット。土日限、15,000店舗以上。子ども服・おもちゃも豊富。MRTカンペーンペット駅",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": true,
-      "checkedDate": "2026年3月",
+      "checkedDate": "2026年4月",
       "placeId": "ChIJ11qbMCWd4jARuxyNWJunmNs",
       "extra": false,
       "lat": 13.7999,
@@ -119,10 +119,10 @@
       "category": "play",
       "layer": "play",
       "description": "チャオプラヤー川沿いの巨大ショッピングモール。屋内水上マーケットが有名。フードコートも充実。子連れでも快適。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": true,
-      "checkedDate": "2026年3月",
+      "checkedDate": "2026年4月",
       "placeId": "ChIJc0Y-E3mZ4jARFW877xcPVWM",
       "extra": false,
       "lat": 13.7262,
@@ -145,5 +145,5 @@
       "lng": 100.5347
     }
   ],
-  "checkedAt": "2026-03-31T21:27:50.014Z"
+  "checkedAt": "2026-04-01T03:53:17.280Z"
 }

@@ -103,10 +103,10 @@
       "category": "play",
       "layer": "play",
       "description": "巨大スーパーツリーが並ぶ未来都市の庭園。夜のライトアップショーは無料。子どもが大興奮する景色。18 Marina Gardens Drive",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": true,
-      "checkedDate": "2026年3月",
+      "checkedDate": "2026年4月",
       "placeId": "ChIJMxZ-kwQZ2jERdsqftXeWCWI",
       "extra": false,
       "lat": 1.2816,
@@ -119,10 +119,10 @@
       "category": "play",
       "layer": "play",
       "description": "世界トップクラスの動物園。オランウータンと朝食を一緒に食べるJungle Breakfastが人気。80 Mandai Lake Rd",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
-      "checkedDate": "2026年3月",
+      "checkedDate": "2026年4月",
       "placeId": "ChIJE_4ZCNkT2jER-4-n1MD0cXE",
       "extra": false,
       "lat": 1.4043,
@@ -135,10 +135,10 @@
       "category": "play",
       "layer": "play",
       "description": "アジアで2番目のUSJ。ハリウッド・ミニオン・ジュラシックパークなど人気エリア多数　8 Sentosa Gateway",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
-      "checkedDate": "2026年3月",
+      "checkedDate": "2026年4月",
       "placeId": "ChIJQ6MVplUZ2jERn1LmNH0DlDA",
       "extra": false,
       "lat": 1.254,
@@ -161,5 +161,5 @@
       "lng": 103.82
     }
   ],
-  "checkedAt": "2026-03-31T21:27:50.013Z"
+  "checkedAt": "2026-04-01T03:53:16.780Z"
 }

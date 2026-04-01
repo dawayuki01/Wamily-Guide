@@ -119,10 +119,10 @@
       "category": "play",
       "layer": "play",
       "description": "アジア最大級の動物園。パンダ館が子どもに大人気。MR木柵線・動物園駅すぐ。No. 2, Sec. 2, Xinguang Rd, Wenshan",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
-      "checkedDate": "2026年3月",
+      "checkedDate": "2026年4月",
       "placeId": "ChIJj4EySmCqQjQRZte0Cf0G_qo",
       "extra": false,
       "lat": 24.9985,
@@ -161,5 +161,5 @@
       "lng": 121.8442
     }
   ],
-  "checkedAt": "2026-03-31T21:27:50.017Z"
+  "checkedAt": "2026-04-01T03:53:14.667Z"
 }

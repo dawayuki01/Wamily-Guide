@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "title": "チューリップの季節 - ジャルダン・デ・プラント",
+      "description": "パリ植物園で春のチューリップが見頃。色彩豊かな花々が咲き誇り、子どもと一緒に自然観察ができます。屋外散策に最適な季節です。",
+      "date": "4月上旬〜中旬",
+      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "パリ子ども向け劇場 - 春休みプログラム",
+      "description": "ガニョル劇場などで開催される子ども向けの人形劇やミュージカル。4月の春休み期間に特別公演が多数開催されます。幼児向けも豊富です。",
+      "date": "4月上旬〜中旬",
+      "place": "Théâtre Gignol, 2 Avenue du Fessart, 75004 Paris",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "ルクサンブルク公園での親子向けアクティビティ",
+      "description": "広大な公園で遊具遊び、ヨット池での水遊び、ポニー乗馬など。春の気候で屋外活動に最適。多くのアクティビティが無料で楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Jardin du Luxembourg, Rue de Médicis, 75006 Paris",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "パリ動物園の春のプログラム",
+      "description": "ウサギやヒヨコなど春の新しい動物の赤ちゃんが公開。子ども向けガイドツアーや触れ合い体験が充実しています。",
+      "date": "4月全期間",
+      "place": "Ménagerie du Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "パリ博物館の子ども向け春休みワークショップ",
+      "description": "ルーヴル美術館やオルセー美術館が開催する4月の春休み特別プログラム。年齢別の美術工作やゲーム形式の鑑賞活動で、子どもも楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris / Musée d'Orsay, 1 Rue de la Légion d'Honneur, 75007 Paris",
+      "link": "",
+      "free": false
+    }
+  ],
+  "source": "Claude AI 生成",
+  "sourceUrl": "",
+  "updatedAt": "2026-04-01T03:52:24.416Z"
+}
