@@ -57,16 +57,18 @@ function initAccordion() {
 
 /* ---------- Spot Category Filter ---------- */
 function initSpotFilter() {
-  const filterBtns   = document.querySelectorAll('.filter-btn');
-  const spotCards    = document.querySelectorAll('.spot-card');
-  const layerLabels  = document.querySelectorAll('.layer-label');
-  const showMoreBtns = document.querySelectorAll('.show-more');
+  const filterBtns = document.querySelectorAll('.filter-btn');
   if (!filterBtns.length) return;
 
   filterBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       filterBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
+
+      // 毎回DOMから取得（data-loader.jsが動的に生成するため）
+      const spotCards    = document.querySelectorAll('.spot-card');
+      const layerLabels  = document.querySelectorAll('.layer-label');
+      const showMoreBtns = document.querySelectorAll('.show-more');
 
       const category = btn.dataset.category;
 
