@@ -195,6 +195,11 @@
           checkedEl.textContent = '最終確認：' + formatDate(data.checkedAt.slice(0, 10));
         }
       }
+
+      // Google Maps スポット地図を初期化
+      if (typeof window.initSpotsMap === 'function') {
+        window.initSpotsMap(spots, slug);
+      }
     } catch (e) {
       // 静的HTMLがフォールバック
     }

@@ -1821,4 +1821,71 @@ small { font-size: 12px; }
   /* Connect */
   .connect-hero-title { font-size: 26px; }
   .connect-newsletter-form { flex-direction: column; }
+
+  /* Spots Map */
+  #spots-map { height: 280px; }
+  .spots-map-legend { gap: 10px; }
+}
+
+/* ============================================================
+   Spots Map — Google Maps 埋め込み
+   ============================================================ */
+
+.spots-map-wrapper {
+  margin-bottom: 20px;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1.5px solid var(--border-main);
+  background: var(--white);
+}
+
+#spots-map {
+  width: 100%;
+  height: 340px;
+  display: block;
+  background: #e8e0d4; /* 地図ロード前のプレースホルダー色 */
+}
+
+.spots-map-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px 14px;
+  background: var(--white);
+  border-top: 1px solid var(--border-light);
+}
+
+.spots-map-legend {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.spots-map-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  color: var(--text-muted);
+  letter-spacing: 0.01em;
+}
+
+.spots-map-legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1.5px solid rgba(0,0,0,0.12);
+  flex-shrink: 0;
+}
+
+/* Google Maps の InfoWindow スタイル調整 */
+.gm-style .gm-style-iw-c {
+  border-radius: 10px !important;
+  padding: 14px 16px !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.14) !important;
+}
+.gm-style .gm-style-iw-d {
+  overflow: hidden !important;
 }

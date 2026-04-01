@@ -279,6 +279,24 @@
         <button class="filter-btn" data-category="vital">🏥 いざという時</button>
       </div>
 
+      <!-- Google Maps スポット一覧 -->
+      <div class="spots-map-wrapper" id="spots-map-section">
+        <div id="spots-map"></div>
+        <div class="spots-map-footer">
+          <div class="spots-map-legend">
+            <span class="spots-map-legend-item">
+              <span class="spots-map-legend-dot" style="background:#e74c3c"></span>いざという時
+            </span>
+            <span class="spots-map-legend-item">
+              <span class="spots-map-legend-dot" style="background:#f39c12"></span>現地の日常へ
+            </span>
+            <span class="spots-map-legend-item">
+              <span class="spots-map-legend-dot" style="background:#2a9d8f"></span>遊びに行く
+            </span>
+          </div>
+        </div>
+      </div>
+
       <div id="spot-layers">
 
       <!-- 層1：いざという時 -->
@@ -534,5 +552,7 @@
   <script src="../js/main.js"></script>
   <script>window.WAMILY_BASE = '../';</script>
   <script src="../js/data-loader.js"></script>
+  <script src="../js/maps-config.js"></script>
+  <script src="../js/spots-map.js"></script>
 </body>
 </html>
