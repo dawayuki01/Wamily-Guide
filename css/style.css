@@ -2,6 +2,8 @@
    Wamily ガイドブック — スタイルシート
    ============================================================ */
 
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&display=swap');
+
 /* ---------- CSS Custom Properties ---------- */
 :root {
   --cream:          #f5f1ea;
@@ -1052,13 +1054,28 @@ small { font-size: 12px; }
 .show-more:hover { background: var(--teal-light); }
 
 /* ---------- Events ---------- */
+.event-section-wrap {
+  background: var(--bg-light, #f5f1ea);
+  border-radius: 16px;
+  padding: 28px 24px;
+  margin-top: 32px;
+  border: 1px solid var(--border-main);
+}
+
 .event-section-header {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .event-source { font-size: 12px; color: var(--text-muted); }
+
+.event-section-note {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
 
 .event-list { display: flex; flex-direction: column; gap: 10px; margin-bottom: 14px; }
 
@@ -1897,4 +1914,591 @@ small { font-size: 12px; }
 }
 .gm-style .gm-style-iw-d {
   overflow: hidden !important;
+}
+
+/* ============================================================
+   Country Carousel — 他の国を見る
+   ============================================================ */
+
+.carousel-section {
+  margin: 32px 0 0;
+  padding: 24px 0;
+  border-top: 1.5px solid var(--border-main);
+}
+
+.carousel-title {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 14px;
+}
+
+.carousel-scroll {
+  display: flex;
+  gap: 14px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 8px;
+}
+
+.carousel-scroll::-webkit-scrollbar { height: 4px; }
+.carousel-scroll::-webkit-scrollbar-thumb { background: var(--border-main); border-radius: 4px; }
+
+.carousel-card {
+  flex: 0 0 160px;
+  scroll-snap-align: start;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1.5px solid var(--border-main);
+  background: var(--white);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.carousel-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+.carousel-card img {
+  width: 100%;
+  height: 90px;
+  object-fit: cover;
+}
+
+.carousel-card-info {
+  padding: 10px 12px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.carousel-flag { font-size: 16px; }
+
+.carousel-name {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ============================================================
+   Phrase Grid — 行く前に：現地の言葉
+   ============================================================ */
+.phrase-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-top: 8px;
+}
+
+@media (max-width: 600px) {
+  .phrase-grid { grid-template-columns: 1fr; }
+}
+
+.phrase-group {
+  background: var(--cream);
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.phrase-scene {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--teal);
+  letter-spacing: 0.05em;
+  margin-bottom: 10px;
+}
+
+.phrase-item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-light);
+}
+.phrase-item:last-child { border-bottom: none; }
+
+.phrase-en {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+  font-style: italic;
+}
+
+.phrase-ja {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+/* ============================================================
+   Curation Pager
+   ============================================================ */
+.curation-pager {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-light);
+}
+
+.curation-pager-btn {
+  background: none;
+  border: 1.5px solid var(--teal-border);
+  color: var(--teal);
+  padding: 7px 16px;
+  border-radius: 999px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.curation-pager-btn:hover {
+  background: var(--teal-light);
+}
+
+.curation-pager-count {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+/* ============================================================
+   Baton Community — Instagram + メルマガ CTA
+   ============================================================ */
+.baton-community {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 8px;
+}
+
+.baton-community-block {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  padding: 28px 24px;
+  border-radius: 16px;
+  border: 1.5px solid var(--border-main);
+  background: var(--white);
+}
+
+.baton-community-icon {
+  font-size: 32px;
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--cream);
+  border-radius: 14px;
+}
+
+.baton-community-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.baton-community-text {
+  font-size: 13px;
+  line-height: 1.9;
+  color: var(--text-secondary);
+}
+
+.baton-community-btn {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 10px 20px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: opacity 0.2s;
+  cursor: pointer;
+  border: none;
+}
+.baton-community-btn:hover { opacity: 0.82; }
+
+.baton-instagram-btn {
+  background: linear-gradient(135deg, #f09433, #e6683c, #dc2743, #cc2366);
+  color: #fff;
+}
+
+.baton-newsletter-btn {
+  background: var(--teal);
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .baton-community-block { flex-direction: column; gap: 12px; }
+  .baton-community-icon { width: 44px; height: 44px; font-size: 24px; }
+}
+
+/* ============================================================
+   Design Polish — 手作り感・ワクワク感
+   ============================================================ */
+
+/* --- セクション区切り: ドット装飾 --- */
+.divider {
+  border: none;
+  height: auto;
+  text-align: center;
+  margin: 28px 0;
+}
+
+.divider::before {
+  content: '● ● ●';
+  font-size: 6px;
+  letter-spacing: 8px;
+  color: var(--border-main);
+}
+
+/* --- スポットカード: ホバーで浮き上がる --- */
+.spot-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.spot-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+}
+
+/* --- タブナビ: アクティブ下線アニメーション --- */
+.tab-btn {
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+.tab-btn::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  width: 0;
+  height: 2.5px;
+  background: var(--teal);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
+
+.tab-btn.active::after {
+  width: 70%;
+}
+
+/* --- イベントカード: ホバー --- */
+.event-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+}
+
+/* --- パルスドット強調 --- */
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(42, 157, 143, 0.4); }
+  50% { box-shadow: 0 0 0 6px rgba(42, 157, 143, 0); }
+}
+
+.pulse-dot {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* ============================================================
+   Page Floats — 浮遊イラスト装飾
+   ============================================================ */
+
+.page-floats {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.float-icon {
+  position: absolute;
+  opacity: 0;
+  animation: float-drift 20s ease-in-out infinite;
+}
+
+.float-1 { right: 3%; top: 25%; animation-delay: 0s; animation-duration: 22s; }
+.float-2 { left: 2%; top: 45%; animation-delay: 3s; animation-duration: 18s; }
+.float-3 { right: 5%; top: 60%; animation-delay: 6s; animation-duration: 24s; }
+.float-4 { left: 3%; top: 75%; animation-delay: 9s; animation-duration: 20s; }
+.float-5 { right: 8%; top: 15%; animation-delay: 2s; animation-duration: 26s; }
+
+@keyframes float-drift {
+  0%, 100% { opacity: 0; transform: translateY(0px) rotate(0deg); }
+  15% { opacity: 1; }
+  50% { transform: translateY(-15px) rotate(2deg); }
+  85% { opacity: 1; }
+}
+
+@media (max-width: 768px) {
+  .float-icon { display: none; }
+}
+
+.page-photo-header, .page-header,
+.tab-pane, .footer, .section, .carousel-section {
+  position: relative;
+  z-index: 0;
+}
+
+/* ============================================================
+   Wamily ホストシステム — ホストカード & 募集カード
+   ============================================================ */
+
+/* --- ホストありカード（ロンドン・マニラ・ハワイ） --- */
+.host-card {
+  background: linear-gradient(135deg, #f0faf9 0%, #e6f7f5 100%);
+  border: 1.5px solid var(--teal-border);
+  border-radius: 20px;
+  padding: 32px 28px;
+  margin: 32px auto;
+  max-width: 640px;
+}
+
+.host-card-inner {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.host-card-icon {
+  font-size: 40px;
+  flex-shrink: 0;
+  line-height: 1;
+  padding-top: 4px;
+}
+
+.host-card-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--teal);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  padding: 4px 12px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+}
+
+.host-card-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  line-height: 1.75;
+}
+
+.host-card-name {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+}
+
+.host-card-catchphrase {
+  font-family: 'Klee One', 'Noto Serif JP', cursive;
+  font-size: 17px;
+  font-weight: 400;
+  color: var(--teal);
+  margin-bottom: 14px;
+  line-height: 1.7;
+  padding: 10px 16px;
+  background: rgba(42, 157, 143, 0.07);
+  border-left: 3px solid var(--teal);
+  border-radius: 0 10px 10px 0;
+}
+
+.host-card-icon-svg {
+  width: 52px;
+  height: 52px;
+  flex-shrink: 0;
+}
+
+.host-card-desc {
+  font-size: 13px;
+  line-height: 1.95;
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+}
+
+.host-card-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--teal);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 12px 24px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.host-card-btn:hover {
+  background: #218f82;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(42, 157, 143, 0.28);
+}
+
+/* --- ホスト募集カード（その他7カ国） --- */
+.host-recruit-card {
+  background: linear-gradient(135deg, #fefdf5 0%, #fdf8e3 100%);
+  border: 1.5px dashed #c8a820;
+  border-radius: 20px;
+  padding: 32px 28px;
+  margin: 32px auto;
+  max-width: 640px;
+}
+
+.host-recruit-inner {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.host-recruit-icon {
+  font-size: 40px;
+  flex-shrink: 0;
+  line-height: 1;
+  padding-top: 4px;
+}
+
+.host-recruit-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: #fef3cd;
+  color: #7a5c00;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  padding: 4px 12px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+  border: 1px solid #e8d060;
+}
+
+.host-recruit-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  line-height: 1.75;
+}
+
+.host-recruit-desc {
+  font-size: 13px;
+  line-height: 1.95;
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+}
+
+.host-card-quote {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 2;
+  color: var(--text-secondary);
+  border-left: 2px solid var(--teal-border);
+  padding: 10px 16px;
+  margin: 14px 0 20px;
+  background: rgba(42,157,143,0.04);
+  border-radius: 0 8px 8px 0;
+}
+
+.host-card-quote cite {
+  display: block;
+  font-style: normal;
+  font-size: 12px;
+  color: var(--text-hint);
+  margin-top: 8px;
+}
+
+.host-card-recruit-hint {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border-light);
+  font-size: 12px;
+  color: var(--text-hint);
+  line-height: 1.8;
+}
+.host-card-recruit-hint a {
+  color: var(--teal);
+  text-decoration: none;
+}
+.host-card-recruit-hint a:hover {
+  text-decoration: underline;
+}
+
+.hashtag-share-note {
+  margin-top: 14px;
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+.host-recruit-note {
+  font-size: 12px;
+  color: var(--text-hint);
+  line-height: 1.8;
+  margin-bottom: 16px;
+  padding-left: 10px;
+  border-left: 2px solid #e8d060;
+}
+
+.host-recruit-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  color: #7a5c00;
+  border: 1.5px solid #c8a820;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 12px 24px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.host-recruit-btn:hover {
+  background: #fef3cd;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(200, 168, 32, 0.2);
+}
+
+@media (max-width: 600px) {
+  .host-card-inner,
+  .host-recruit-inner { flex-direction: column; gap: 12px; }
+  .host-card-icon,
+  .host-recruit-icon { font-size: 32px; }
+  .host-card,
+  .host-recruit-card { padding: 24px 20px; }
+  .host-card-title,
+  .host-recruit-title { font-size: 16px; }
 }

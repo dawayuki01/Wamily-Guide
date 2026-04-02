@@ -1,0 +1,543 @@
+/* ============================================================
+   editorial.css — エディトリアル（雑誌風）レイアウト
+   タテヤ観光案内書をベンチマーク。写真大きく、余白広く、装飾的。
+   ============================================================ */
+
+/* ---------- Hero ---------- */
+.ed-hero {
+  position: relative;
+  width: 100%;
+  height: 88vh;
+  min-height: 500px;
+  max-height: 780px;
+  overflow: hidden;
+}
+
+.ed-hero-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.ed-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0.15) 0%,
+    rgba(0,0,0,0.25) 40%,
+    rgba(0,0,0,0.72) 100%
+  );
+}
+
+/* コンテンツ：中央揃え、縦方向は少し下寄り */
+.ed-hero-content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 32px 72px;
+  color: #fff;
+  text-align: center;
+}
+
+/* 国旗 + United Kingdom 横並び */
+.ed-hero-flag-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  opacity: 0.85;
+}
+
+.ed-hero-flag {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.ed-hero-flag-label {
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+/* メインタイトル：英字大きく */
+.ed-hero-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 96px;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  margin-bottom: 10px;
+  text-shadow: 0 4px 32px rgba(0,0,0,0.4);
+}
+
+/* サブ：日本語カナ */
+.ed-hero-subtitle {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.2em;
+  opacity: 0.7;
+  margin-bottom: 28px;
+}
+
+/* タグライン */
+.ed-hero-lead {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.8;
+  text-shadow: 0 1px 12px rgba(0,0,0,0.3);
+  opacity: 0.92;
+  margin-bottom: 0;
+  position: relative;
+  padding: 0 24px;
+}
+
+/* タグライン前後の装飾線 */
+.ed-hero-lead::before,
+.ed-hero-lead::after {
+  content: '';
+  display: inline-block;
+  width: 28px;
+  height: 1px;
+  background: rgba(255,255,255,0.6);
+  vertical-align: middle;
+  margin: 0 12px;
+}
+
+/* ---------- Sections（余白を広く） ---------- */
+.ed-section {
+  padding: 60px 32px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.ed-section-narrow {
+  max-width: 640px;
+}
+
+/* ---------- Lead Text ---------- */
+.ed-lead-text {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 2;
+  color: var(--text-primary);
+  margin-bottom: 32px;
+}
+
+.ed-body-text {
+  font-size: 15px;
+  line-height: 2.2;
+  color: var(--text-secondary);
+  margin-bottom: 16px;
+}
+
+/* ---------- Section Titles ---------- */
+.ed-section-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 24px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 36px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.ed-small-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 20px;
+}
+
+/* ---------- Photo Break（タテヤ風に大きく） ---------- */
+.ed-photo-break {
+  width: 100%;
+  margin: 16px 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.ed-photo-break img {
+  width: 100%;
+  height: 380px;
+  object-fit: cover;
+  display: block;
+  transition: transform 6s ease;
+}
+
+.ed-photo-break:hover img {
+  transform: scale(1.03);
+}
+
+.ed-photo-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 24px 32px 20px;
+  background: linear-gradient(to top, rgba(0,0,0,0.55), transparent);
+  color: #fff;
+  font-size: 13px;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+/* ---------- Wave Divider（タテヤ風の波形区切り） ---------- */
+.ed-wave {
+  width: 100%;
+  height: 60px;
+  overflow: hidden;
+  position: relative;
+}
+
+.ed-wave svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* ---------- Feature Grid ---------- */
+.ed-feature-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.ed-feature {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  padding: 28px 24px;
+  background: var(--white);
+  border-radius: 16px;
+  border: 1.5px solid var(--border-main);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.ed-feature:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.07);
+}
+
+.ed-feature-icon {
+  font-size: 32px;
+  flex-shrink: 0;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--teal-light);
+  border-radius: 14px;
+}
+
+.ed-feature-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.ed-feature-text {
+  font-size: 14px;
+  line-height: 1.9;
+  color: var(--text-muted);
+}
+
+/* ---------- Resident Voice ---------- */
+.ed-resident-voice {
+  background: var(--white);
+  border-radius: 20px;
+  border: 1.5px solid var(--teal-border);
+  padding: 36px 32px;
+  position: relative;
+}
+
+.ed-voice-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--teal-light);
+  color: var(--teal);
+  font-size: 13px;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-radius: 999px;
+  margin-bottom: 18px;
+}
+
+.ed-voice-quote {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 2;
+  color: var(--text-primary);
+  margin: 0 0 16px;
+  border: none;
+  padding: 0;
+}
+
+.ed-voice-name {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+/* ---------- Details (collapsible) ---------- */
+.ed-details {
+  background: var(--white);
+  border: 1.5px solid var(--border-main);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.ed-details-summary {
+  padding: 20px 24px;
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-primary);
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.ed-details-summary::-webkit-details-marker { display: none; }
+
+.ed-details-summary::after {
+  content: '▼';
+  float: right;
+  font-size: 10px;
+  color: var(--text-hint);
+  transition: transform 0.3s;
+}
+
+.ed-details[open] .ed-details-summary::after {
+  transform: rotate(180deg);
+}
+
+.ed-details-body {
+  padding: 0 24px 24px;
+}
+
+/* ---------- CTA ---------- */
+.ed-cta {
+  text-align: center;
+  padding: 48px 28px;
+  background: var(--teal-light);
+  border-radius: 20px;
+  margin-top: 40px;
+  border: 1.5px solid var(--teal-border);
+}
+
+.ed-cta-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.ed-cta-note {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 14px;
+}
+
+/* ---------- Editorial Tab Nav ---------- */
+
+.tab-nav {
+  background: var(--cream);
+  border-bottom: none;
+  padding: 12px 0 0;
+}
+
+.tab-nav-inner {
+  max-width: 700px;
+  gap: 4px;
+  justify-content: center;
+}
+
+.tab-btn {
+  padding: 14px 22px;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--text-muted);
+  background: transparent;
+  border: 1.5px solid transparent;
+  border-bottom: none;
+  border-radius: 14px 14px 0 0;
+  margin-bottom: 0;
+  transition: all 0.25s ease;
+  position: relative;
+  letter-spacing: 0.03em;
+}
+
+.tab-btn:hover {
+  color: var(--text-primary);
+  background: rgba(42, 157, 143, 0.05);
+}
+
+.tab-btn.active {
+  color: var(--teal);
+  background: var(--white);
+  border-color: var(--border-main);
+  font-weight: 500;
+  box-shadow: 0 -3px 10px rgba(0,0,0,0.04);
+}
+
+.tab-btn::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 0;
+  height: 3px;
+  background: var(--teal);
+  border-radius: 3px 3px 0 0;
+  transition: width 0.3s ease;
+}
+
+.tab-btn.active::after {
+  width: 60%;
+}
+
+.tab-nav::after {
+  content: '';
+  display: block;
+  height: 1.5px;
+  background: var(--border-main);
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* ---------- Scatter Photos（タテヤ風の散らばり写真） ---------- */
+.ed-scatter {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  padding: 16px 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.ed-scatter img {
+  width: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.ed-scatter img:hover {
+  transform: scale(1.02);
+}
+
+.ed-scatter img:nth-child(1) {
+  height: 240px;
+  transform: rotate(-1.5deg);
+}
+
+.ed-scatter img:nth-child(2) {
+  height: 200px;
+  margin-top: 40px;
+  transform: rotate(1deg);
+}
+
+.ed-scatter img:nth-child(3) {
+  height: 200px;
+  margin-top: -20px;
+  transform: rotate(0.5deg);
+}
+
+.ed-scatter img:nth-child(4) {
+  height: 240px;
+  margin-top: 20px;
+  transform: rotate(-1deg);
+}
+
+/* ---------- Illustration Decorations ---------- */
+.ed-illust-section {
+  position: relative;
+}
+
+.ed-illust {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2;
+  animation: illust-float 6s ease-in-out infinite;
+}
+
+@keyframes illust-float {
+  0%, 100% { transform: translateY(0px); }
+  50%       { transform: translateY(-12px); }
+}
+
+/* ヒーロー内イラスト */
+.ed-hero-illust {
+  position: absolute;
+  right: 6%;
+  bottom: 0;
+  z-index: 5;
+  animation: illust-float 8s ease-in-out infinite;
+}
+
+.ed-hero-illust img {
+  width: 150px;
+  filter: drop-shadow(0 4px 20px rgba(0,0,0,0.25));
+  display: block;
+}
+
+/* 900px以下でイラスト非表示（邪魔になるため） */
+@media (max-width: 900px) {
+  .ed-illust,
+  .ed-hero-illust { display: none; }
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 768px) {
+  .ed-hero {
+    height: 70vh;
+    min-height: 360px;
+  }
+
+  .ed-hero-title { font-size: 56px; }
+  .ed-hero-subtitle { font-size: 13px; letter-spacing: 0.12em; }
+  .ed-hero-lead { font-size: 15px; }
+  .ed-hero-content { padding: 0 20px 48px; }
+
+  .ed-lead-text { font-size: 21px; }
+  .ed-section { padding: 40px 20px; }
+  .ed-photo-break img { height: 250px; }
+  .ed-photo-caption { padding: 16px 20px 14px; font-size: 12px; }
+
+  .ed-feature { padding: 20px 18px; gap: 14px; }
+  .ed-feature-icon { width: 44px; height: 44px; font-size: 24px; }
+
+  .ed-resident-voice { padding: 24px 20px; }
+  .ed-voice-quote { font-size: 15px; }
+
+  .ed-scatter { grid-template-columns: 1fr; gap: 12px; }
+  .ed-scatter img { height: 200px !important; margin-top: 0 !important; transform: none !important; }
+  .ed-scatter img:hover { transform: scale(1.01) !important; }
+
+  .tab-nav-inner {
+    justify-content: flex-start;
+    gap: 2px;
+    padding: 0 12px;
+  }
+  .tab-btn {
+    padding: 12px 14px;
+    font-size: 12px;
+    flex-shrink: 0;
+  }
+}

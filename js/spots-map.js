@@ -130,6 +130,9 @@
         gestureHandling:     'cooperative',
       });
 
+      // タブ切り替え後の resize 対応のためインスタンスを保持
+      mapEl._googleMap = map;
+
       var infoWindow = new google.maps.InfoWindow();
       var bounds = new google.maps.LatLngBounds();
       var markers = []; // {marker, category, name} のリスト

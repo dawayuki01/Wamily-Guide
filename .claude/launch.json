@@ -2,11 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "Wamily Dev Server",
-      "runtimeExecutable": "node_modules/.bin/serve",
-      "runtimeArgs": ["."],
-      "port": 3000,
-      "autoPort": true
+      "name": "Wamily Guide",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8888"],
+      "port": 8888
     }
   ]
 }

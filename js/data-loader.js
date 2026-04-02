@@ -134,7 +134,7 @@
           ${statusTag(spot)}
           ${freeTag}
           ${residentBadge}
-          <span class="spot-date">確認：${spot.checkedDate}</span>
+          <span class="spot-date">✓ サワディー確認済み（${spot.checkedDate}）</span>
         </div>
       </div>`;
   }
@@ -288,7 +288,6 @@
     const container = document.getElementById('curation-list');
     if (!container) return;
 
-    // ページの country スラッグを取得（data属性 or URLから推定）
     const slug = document.body.dataset.country
       || window.location.pathname.replace(/\//g, '').replace('index.html', '') || 'london';
 
@@ -297,9 +296,203 @@
       const items = data.items || [];
       if (!items.length) return;
 
-      container.innerHTML = items.map(renderCurationCard).join('');
+      const PAGE = 5; // 1ページの表示件数
+      let page = 0;
+
+      function renderPage() {
+        const start = page * PAGE;
+        const end   = start + PAGE;
+        const slice = items.slice(start, end);
+        const total = items.length;
+        const hasMore = end < total;
+        const hasPrev = page > 0;
+
+        let html = slice.map(renderCurationCard).join('');
+
+        // ページネーション
+        if (hasMore || hasPrev) {
+          html += `<div class="curation-pager">`;
+          if (hasPrev) {
+            html += `<button class="curation-pager-btn" data-dir="-1">← 前の${PAGE}件</button>`;
+          }
+          html += `<span class="curation-pager-count">${start + 1}–${Math.min(end, total)} / ${total}件</span>`;
+          if (hasMore) {
+            html += `<button class="curation-pager-btn" data-dir="1">次の${PAGE}件 →</button>`;
+          }
+          html += `</div>`;
+        }
+
+        container.innerHTML = html;
+
+        container.querySelectorAll('.curation-pager-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            page += parseInt(btn.dataset.dir);
+            renderPage();
+            container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+        });
+      }
+
+      renderPage();
     } catch (e) {
       // 静的HTMLがフォールバック
+    }
+  }
+
+  // ──────────────────────────────────────────────────────────
+  // 国カルーセル（他の国を見る）
+  // ──────────────────────────────────────────────────────────
+
+  const ALL_COUNTRIES = [
+    { slug: 'london',    flag: '🇬🇧', name: 'イギリス・ロンドン',   status: 'ちゃんと調べた', img: 'photo-1513635269975-59663e0ac1ad' },
+    { slug: 'taipei',    flag: '🇹🇼', name: '台湾・台北',         status: 'ちゃんと調べた', img: 'photo-1470004914212-05527e49370b' },
+    { slug: 'paris',     flag: '🇫🇷', name: 'フランス・パリ',     status: 'まだ旅の途中',   img: 'photo-1502602898657-3e91760cbb34' },
+    { slug: 'stockholm', flag: '🇸🇪', name: 'ストックホルム',     status: 'まだ旅の途中',   img: 'photo-1509356843151-3e7d96241e11' },
+    { slug: 'singapore', flag: '🇸🇬', name: 'シンガポール',       status: 'まだ旅の途中',   img: 'photo-1525625293386-3f8f99389edd' },
+    { slug: 'bangkok',   flag: '🇹🇭', name: 'タイ・バンコク',     status: 'まだ旅の途中',   img: 'photo-1508009603885-50cf7c579365' },
+    { slug: 'manila',    flag: '🇵🇭', name: 'フィリピン・マニラ', status: 'まだ旅の途中',   img: 'photo-1518509562904-e7ef99cdcc86' },
+    { slug: 'la',        flag: '🇺🇸', name: 'アメリカ・LA',       status: 'まだ旅の途中',   img: 'photo-1534190239940-9ba8944ea261' },
+    { slug: 'hawaii',    flag: '🇺🇸', name: 'アメリカ・ハワイ',   status: 'まだ旅の途中',   img: 'photo-1507876466758-bc54f384809c' },
+    { slug: 'seoul',     flag: '🇰🇷', name: '韓国・ソウル',       status: 'まだ旅の途中',   img: 'photo-1534274988757-a28bf1a57c17' },
+  ];
+
+  function loadCountryCarousel() {
+    const container = document.getElementById('country-carousel');
+    if (!container) return;
+
+    const currentSlug = document.body.dataset.country;
+    const others = ALL_COUNTRIES.filter(c => c.slug !== currentSlug);
+
+    // 全カ国を表示（元の順番を維持）
+    const shuffled = others;
+
+    container.innerHTML = `
+      <div class="carousel-section">
+        <p class="carousel-title">📚 他の国のガイドブック</p>
+        <div class="carousel-scroll">
+          ${shuffled.map(c => `
+            <a href="${BASE}${c.slug}/" class="carousel-card">
+              <img src="https://images.unsplash.com/${c.img}?w=400&h=200&fit=crop&q=70" alt="${c.name}" loading="lazy">
+              <div class="carousel-card-info">
+                <span class="carousel-flag">${c.flag}</span>
+                <span class="carousel-name">${c.name}</span>
+              </div>
+            </a>
+          `).join('')}
+        </div>
+      </div>`;
+  }
+
+  // ──────────────────────────────────────────────────────────
+  // ホストセクション（旅のバトン）
+  // ──────────────────────────────────────────────────────────
+
+  // ホストが存在する国
+  const HOST_COUNTRIES = ['london', 'manila', 'hawaii'];
+
+  const INQUIRY_FORM_URL  = 'https://docs.google.com/forms/d/e/1FAIpQLScEBeQA3p8bZOm3Wd-H1v5QUz5A-8AjCmgMo6E9g5yZsUgs3g/viewform'; // ホスト問い合わせフォーム
+  const RECRUIT_FORM_URL  = 'https://docs.google.com/forms/d/e/1FAIpQLScyoeAMB3YqqreMo7KFWjQnlMfPF0RqDmOmhtV5DjCeGM7FqA/viewform'; // ホスト応募フォーム
+
+  const COUNTRY_NAME_JA = {
+    london:    'ロンドン',
+    taipei:    '台湾・台北',
+    paris:     'フランス・パリ',
+    stockholm: 'ストックホルム',
+    singapore: 'シンガポール',
+    bangkok:   'タイ・バンコク',
+    manila:    'フィリピン・マニラ',
+    la:        'アメリカ・LA',
+    hawaii:    'アメリカ・ハワイ',
+    seoul:     '韓国・ソウル',
+  };
+
+  // ホスト紹介文（サワディーより）
+  // ※ エピソードが更新されたらここを書き換える
+  const HOST_INFO = {
+    london: {
+      name: 'Miyukiさん',
+      catchphrase: 'ロンドン親子旅の図書館',
+      quote: '元ツアーコンダクターで、インスタグラムには現地スポットの情報が溢れていて。でも何より、温かくて親身で、本当に好きな人です。ロンドンに行くたびに会いに行って、毎回キャッチアップしています。',
+    },
+    manila: {
+      name: 'Kanaさん',
+      catchphrase: 'ホスピタリティ女神',
+      quote: 'Kanaさんに会いに行くために、僕たちはマニラに行きました。ご夫婦でいてくれたからこそ開いた扉がたくさんあって、一緒にいるだけで明るくなれる。あの旅が最高だったのは、間違いなくKanaさんのおかげです。',
+    },
+    hawaii: {
+      name: 'Miyaさん',
+      catchphrase: 'ハワイの達人',
+      quote: '日本のテレビ番組のロケアテンドもされているハワイの達人。でも達人だから気が利かないわけじゃなくて、むしろ逆。親子の痒いところに手が届く気遣いと、ガイドブックには絶対載っていないローカルな扉を開いてくれる人です。Miyaさんの一振りのソルトで、ハワイの景色が変わります。',
+    },
+  };
+
+  function hostIconSVG() {
+    return `<svg class="host-card-icon-svg" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <circle cx="26" cy="26" r="25" fill="#fff0f5" stroke="#f5b8d0" stroke-width="1.5"/>
+      <ellipse cx="26" cy="14" rx="12" ry="8" fill="#8b5e3c"/>
+      <circle cx="33" cy="8" r="5" fill="#8b5e3c"/>
+      <circle cx="26" cy="23" r="11" fill="#f5d0b8"/>
+      <ellipse cx="15" cy="23" rx="3.5" ry="7" fill="#8b5e3c"/>
+      <ellipse cx="37" cy="23" rx="3.5" ry="7" fill="#8b5e3c"/>
+      <ellipse cx="21" cy="22" rx="1.8" ry="2.2" fill="#2a2418"/>
+      <ellipse cx="31" cy="22" rx="1.8" ry="2.2" fill="#2a2418"/>
+      <circle cx="22" cy="21" r="0.8" fill="white"/>
+      <circle cx="32" cy="21" r="0.8" fill="white"/>
+      <ellipse cx="18" cy="26" rx="3.2" ry="2" fill="#f8a898" opacity="0.55"/>
+      <ellipse cx="34" cy="26" rx="3.2" ry="2" fill="#f8a898" opacity="0.55"/>
+      <path d="M21 29 Q26 33.5 31 29" stroke="#c47858" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+      <path d="M18 36 Q26 41 34 36" fill="#f5b8d0" stroke="none"/>
+    </svg>`;
+  }
+
+  function loadHostSection() {
+    const container = document.getElementById('host-section');
+    if (!container) return;
+
+    const slug   = document.body.dataset.country || 'london';
+    const nameJa = COUNTRY_NAME_JA[slug] || slug;
+    const hasHost = HOST_COUNTRIES.includes(slug);
+
+    if (hasHost) {
+      const host = HOST_INFO[slug] || {};
+      const catchphraseHtml = host.catchphrase
+        ? `<p class="host-card-catchphrase">「${host.catchphrase}」と、僕は呼んでいます。</p>`
+        : '';
+      const quoteHtml = host.quote
+        ? `<blockquote class="host-card-quote">「${host.quote}」<cite>— サワディー</cite></blockquote>`
+        : '';
+      container.innerHTML = `
+        <div class="host-card">
+          <div class="host-card-inner">
+            ${hostIconSVG()}
+            <div class="host-card-body">
+              <div class="host-card-badge">✦ Wamilyホスト</div>
+              <h3 class="host-card-name">${host.name || nameJa}</h3>
+              ${catchphraseHtml}
+              ${quoteHtml}
+              <a href="${INQUIRY_FORM_URL}" target="_blank" rel="noopener noreferrer" class="host-card-btn">
+                💬 気軽に相談してみる
+              </a>
+              <p class="host-card-recruit-hint">この国に住んでいて、旅する家族の力になれそうという方、ぜひご応募ください。<a href="${RECRUIT_FORM_URL}" target="_blank" rel="noopener noreferrer">Wamilyホストに応募する →</a></p>
+            </div>
+          </div>
+        </div>`;
+    } else {
+      container.innerHTML = `
+        <div class="host-recruit-card">
+          <div class="host-recruit-inner">
+            <div class="host-recruit-icon">🙋</div>
+            <div class="host-recruit-body">
+              <div class="host-recruit-badge">ホスト募集中</div>
+              <h3 class="host-recruit-title">${nameJa}で暮らす方へ</h3>
+              <p class="host-recruit-desc">Wamilyホストとして、旅する家族の力になりませんか？あなたの経験と繋がりが、誰かの旅を変えます。詳しいことはお気軽に聞いてください。</p>
+              <p class="host-recruit-note">国籍や背景は問いません。現地に暮らしていて、旅する家族の力になれそうと思ってくれる方なら。</p>
+              <a href="${RECRUIT_FORM_URL}" target="_blank" rel="noopener noreferrer" class="host-recruit-btn">
+                ✋ ホストについて聞いてみる
+              </a>
+            </div>
+          </div>
+        </div>`;
     }
   }
 
@@ -312,6 +505,8 @@
     loadSpots();
     loadEvents();
     loadCuration();
+    loadHostSection();
+    loadCountryCarousel();
   });
 
 })();
