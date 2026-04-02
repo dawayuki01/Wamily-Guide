@@ -63,13 +63,8 @@
             <strong>10</strong>
             <span>カ国</span>
           </div>
-          <div class="gb2-stat">
-            <strong>100+</strong>
-            <span>スポット</span>
-          </div>
-          <div class="gb2-stat">
-            <strong>0円</strong>
-            <span>すべて無料</span>
+          <div class="gb2-stat-text">
+            <p>今は10カ国。これからも、<br>家族の旅とともに増えていきます。</p>
           </div>
         </div>
       </div>
@@ -82,20 +77,20 @@
         <!-- Decorative pin trails on hero map -->
         <svg class="gb2-hero-map-pins" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
           <g stroke="#c8a820" stroke-width="1" fill="none" stroke-dasharray="4 7" opacity="0.45">
-            <path d="M820,195 Q640,60 460,140"/>
-            <path d="M820,195 Q648,78 478,158"/>
-            <path d="M820,195 Q660,42 505,115"/>
-            <path d="M820,195 Q788,245 755,285"/>
-            <path d="M820,195 Q782,230 740,255"/>
-            <path d="M820,195 Q808,232 790,262"/>
-            <path d="M820,195 Q482,80 145,228"/>
-            <path d="M820,195 Q490,68 162,208"/>
-            <path d="M820,195 Q810,189 800,183"/>
-            <path d="M820,195 Q812,202 800,208"/>
+            <path d="M875,165 Q660,55 460,140"/>
+            <path d="M875,165 Q660,65 478,158"/>
+            <path d="M875,165 Q680,38 505,115"/>
+            <path d="M875,165 Q810,240 755,285"/>
+            <path d="M875,165 Q800,220 740,255"/>
+            <path d="M875,165 Q825,225 790,262"/>
+            <path d="M875,165 Q500,72 145,228"/>
+            <path d="M875,165 Q510,60 155,165"/>
+            <path d="M875,165 Q838,174 800,183"/>
+            <path d="M875,165 Q840,185 800,208"/>
           </g>
           <!-- Japan -->
-          <circle cx="820" cy="195" r="12" fill="#c8a820" fill-opacity="0.18" stroke="#c8a820" stroke-width="1.5"/>
-          <circle cx="820" cy="195" r="5" fill="#c8a820"/>
+          <circle cx="875" cy="165" r="12" fill="#c8a820" fill-opacity="0.18" stroke="#c8a820" stroke-width="1.5"/>
+          <circle cx="875" cy="165" r="5" fill="#c8a820"/>
         </svg>
 
         <!-- Animated floating plane -->
@@ -157,88 +152,97 @@
           <text x="834" y="188" font-size="8" fill="#c8a820" font-family="Arial, sans-serif" font-weight="600" letter-spacing="0.08em">JAPAN</text>
         </g>
 
-        <!-- 10カ国ピン -->
+        <!-- 10カ国ピン (全て同一スタイル) -->
         <g class="map-pins">
 
-          <!-- London 🇬🇧 (ちゃんと調べた) -->
-          <g class="map-pin" data-country="london" data-label="🇬🇧 London" data-status="ちゃんと調べた" data-cx="460" data-cy="140" style="--d:0s">
-            <circle cx="460" cy="140" r="18" fill="#2a9d8f" fill-opacity="0.08"/>
-            <circle cx="460" cy="140" r="18" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
-            <circle cx="460" cy="140" r="8"  fill="#2a9d8f" fill-opacity="0.25" stroke="#2a9d8f" stroke-width="1.5"/>
-            <circle cx="460" cy="140" r="4"  fill="#2a9d8f" class="mp-core"/>
+          <!-- London 🇬🇧 -->
+          <g class="map-pin" data-country="london" data-label="🇬🇧 London" data-cx="460" data-cy="140" style="--d:0s">
+            <circle cx="460" cy="140" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="460" cy="140" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="460" cy="140" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="460" cy="140" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
           <!-- Paris 🇫🇷 -->
-          <g class="map-pin" data-country="paris" data-label="🇫🇷 Paris" data-status="まだ旅の途中" data-cx="478" data-cy="158" style="--d:.4s">
-            <circle cx="478" cy="158" r="9"  fill="#2a9d8f" fill-opacity="0.15" stroke="#2a9d8f" stroke-width="1.2" stroke-dasharray="2 2"/>
-            <circle cx="478" cy="158" r="4"  fill="#2a9d8f" fill-opacity="0.7" class="mp-core"/>
+          <g class="map-pin" data-country="paris" data-label="🇫🇷 Paris" data-cx="478" data-cy="150" style="--d:.4s">
+            <circle cx="478" cy="150" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="478" cy="150" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="478" cy="150" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="478" cy="150" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
           <!-- Stockholm 🇸🇪 -->
-          <g class="map-pin" data-country="stockholm" data-label="🇸🇪 Stockholm" data-status="まだ旅の途中" data-cx="505" data-cy="115" style="--d:.8s">
-            <circle cx="505" cy="115" r="9"  fill="#2a9d8f" fill-opacity="0.15" stroke="#2a9d8f" stroke-width="1.2" stroke-dasharray="2 2"/>
-            <circle cx="505" cy="115" r="4"  fill="#2a9d8f" fill-opacity="0.7" class="mp-core"/>
+          <g class="map-pin" data-country="stockholm" data-label="🇸🇪 Stockholm" data-cx="497" data-cy="112" style="--d:.8s">
+            <circle cx="497" cy="112" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="497" cy="112" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="497" cy="112" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="497" cy="112" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
           <!-- Singapore 🇸🇬 -->
-          <g class="map-pin" data-country="singapore" data-label="🇸🇬 Singapore" data-status="まだ旅の途中" data-cx="755" data-cy="285" style="--d:1.2s">
-            <circle cx="755" cy="285" r="9"  fill="#2a9d8f" fill-opacity="0.15" stroke="#2a9d8f" stroke-width="1.2" stroke-dasharray="2 2"/>
-            <circle cx="755" cy="285" r="4"  fill="#2a9d8f" fill-opacity="0.7" class="mp-core"/>
+          <g class="map-pin" data-country="singapore" data-label="🇸🇬 Singapore" data-cx="745" data-cy="288" style="--d:1.2s">
+            <circle cx="745" cy="288" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="745" cy="288" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="745" cy="288" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="745" cy="288" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
           <!-- Bangkok 🇹🇭 -->
-          <g class="map-pin" data-country="bangkok" data-label="🇹🇭 Bangkok" data-status="まだ旅の途中" data-cx="740" data-cy="255" style="--d:1.6s">
-            <circle cx="740" cy="255" r="9"  fill="#2a9d8f" fill-opacity="0.15" stroke="#2a9d8f" stroke-width="1.2" stroke-dasharray="2 2"/>
-            <circle cx="740" cy="255" r="4"  fill="#2a9d8f" fill-opacity="0.7" class="mp-core"/>
+          <g class="map-pin" data-country="bangkok" data-label="🇹🇭 Bangkok" data-cx="728" data-cy="258" style="--d:1.6s">
+            <circle cx="728" cy="258" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="728" cy="258" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="728" cy="258" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="728" cy="258" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
           <!-- Manila 🇵🇭 -->
-          <g class="map-pin" data-country="manila" data-label="🇵🇭 Manila" data-status="まだ旅の途中" data-cx="790" data-cy="262" style="--d:2s">
-            <circle cx="790" cy="262" r="9"  fill="#2a9d8f" fill-opacity="0.15" stroke="#2a9d8f" stroke-width="1.2" stroke-dasharray="2 2"/>
-            <circle cx="790" cy="262" r="4"  fill="#2a9d8f" fill-opacity="0.7" class="mp-core"/>
+          <g class="map-pin" data-country="manila" data-label="🇵🇭 Manila" data-cx="790" data-cy="265" style="--d:2s">
+            <circle cx="790" cy="265" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="790" cy="265" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="790" cy="265" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="790" cy="265" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
           <!-- Seoul 🇰🇷 -->
-          <g class="map-pin" data-country="seoul" data-label="🇰🇷 Seoul" data-status="まだ旅の途中" data-cx="800" data-cy="183" style="--d:2.4s">
-            <circle cx="800" cy="183" r="9"  fill="#2a9d8f" fill-opacity="0.15" stroke="#2a9d8f" stroke-width="1.2" stroke-dasharray="2 2"/>
-            <circle cx="800" cy="183" r="4"  fill="#2a9d8f" fill-opacity="0.7" class="mp-core"/>
+          <g class="map-pin" data-country="seoul" data-label="🇰🇷 Seoul" data-cx="813" data-cy="185" style="--d:2.4s">
+            <circle cx="813" cy="185" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="813" cy="185" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="813" cy="185" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="813" cy="185" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
-          <!-- Taipei 🇹🇼 (ちゃんと調べた) -->
-          <g class="map-pin" data-country="taipei" data-label="🇹🇼 Taipei" data-status="ちゃんと調べた" data-cx="800" data-cy="208" style="--d:2.8s">
-            <circle cx="800" cy="208" r="18" fill="#2a9d8f" fill-opacity="0.08"/>
-            <circle cx="800" cy="208" r="18" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
-            <circle cx="800" cy="208" r="8"  fill="#2a9d8f" fill-opacity="0.25" stroke="#2a9d8f" stroke-width="1.5"/>
-            <circle cx="800" cy="208" r="4"  fill="#2a9d8f" class="mp-core"/>
+          <!-- Taipei 🇹🇼 -->
+          <g class="map-pin" data-country="taipei" data-label="🇹🇼 Taipei" data-cx="815" data-cy="210" style="--d:2.8s">
+            <circle cx="815" cy="210" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="815" cy="210" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="815" cy="210" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="815" cy="210" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
           <!-- Hawaii 🇺🇸 -->
-          <g class="map-pin" data-country="hawaii" data-label="🇺🇸 Hawaii" data-status="まだ旅の途中" data-cx="145" data-cy="228" style="--d:3.2s">
-            <circle cx="145" cy="228" r="9"  fill="#2a9d8f" fill-opacity="0.15" stroke="#2a9d8f" stroke-width="1.2" stroke-dasharray="2 2"/>
-            <circle cx="145" cy="228" r="4"  fill="#2a9d8f" fill-opacity="0.7" class="mp-core"/>
+          <g class="map-pin" data-country="hawaii" data-label="🇺🇸 Hawaii" data-cx="88" data-cy="220" style="--d:3.2s">
+            <circle cx="88" cy="220" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="88" cy="220" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="88" cy="220" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="88" cy="220" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
           <!-- LA 🇺🇸 -->
-          <g class="map-pin" data-country="la" data-label="🇺🇸 Los Angeles" data-status="まだ旅の途中" data-cx="162" data-cy="208" style="--d:3.6s">
-            <circle cx="162" cy="208" r="9"  fill="#2a9d8f" fill-opacity="0.15" stroke="#2a9d8f" stroke-width="1.2" stroke-dasharray="2 2"/>
-            <circle cx="162" cy="208" r="4"  fill="#2a9d8f" fill-opacity="0.7" class="mp-core"/>
+          <g class="map-pin" data-country="la" data-label="🇺🇸 Los Angeles" data-cx="148" data-cy="182" style="--d:3.6s">
+            <circle cx="148" cy="182" r="16" fill="#2a9d8f" fill-opacity="0.1"/>
+            <circle cx="148" cy="182" r="16" class="mp-pulse" fill="none" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="148" cy="182" r="6"  fill="#2a9d8f" fill-opacity="0.35" stroke="#2a9d8f" stroke-width="1.5"/>
+            <circle cx="148" cy="182" r="3.5" fill="#2a9d8f" class="mp-core"/>
           </g>
 
         </g><!-- /.map-pins -->
       </svg>
 
-      <!-- Tooltip -->
+      <!-- Tooltip (名前のみ、ステータスなし) -->
       <div class="gb2-map-tooltip" id="map-tooltip">
         <span class="mtt-name"></span>
-        <span class="mtt-status"></span>
       </div>
     </div><!-- /.gb2-map-wrap -->
-
-    <!-- Legend -->
-    <div class="gb2-map-legend">
-      <span class="gb2-legend-item"><span class="gb2-legend-dot"></span>ちゃんと調べた</span>
-      <span class="gb2-legend-item"><span class="gb2-legend-dot wip"></span>まだ旅の途中</span>
-    </div>
 
   </section>
 
@@ -265,7 +269,6 @@
             <span class="gb2-ccard-flag">🇬🇧</span>
             <span class="gb2-ccard-city">London</span>
             <span class="gb2-ccard-country">イギリス</span>
-            <span class="gb2-ccard-status ready">ちゃんと調べた</span>
           </div>
         </a>
 
@@ -278,7 +281,6 @@
             <span class="gb2-ccard-flag">🇹🇼</span>
             <span class="gb2-ccard-city">Taipei</span>
             <span class="gb2-ccard-country">台湾</span>
-            <span class="gb2-ccard-status ready">ちゃんと調べた</span>
           </div>
         </a>
 
@@ -291,7 +293,6 @@
             <span class="gb2-ccard-flag">🇫🇷</span>
             <span class="gb2-ccard-city">Paris</span>
             <span class="gb2-ccard-country">フランス</span>
-            <span class="gb2-ccard-status wip">まだ旅の途中</span>
           </div>
         </a>
 
@@ -304,7 +305,6 @@
             <span class="gb2-ccard-flag">🇸🇪</span>
             <span class="gb2-ccard-city">Stockholm</span>
             <span class="gb2-ccard-country">スウェーデン</span>
-            <span class="gb2-ccard-status wip">まだ旅の途中</span>
           </div>
         </a>
 
@@ -317,7 +317,6 @@
             <span class="gb2-ccard-flag">🇸🇬</span>
             <span class="gb2-ccard-city">Singapore</span>
             <span class="gb2-ccard-country">シンガポール</span>
-            <span class="gb2-ccard-status wip">まだ旅の途中</span>
           </div>
         </a>
 
@@ -330,7 +329,6 @@
             <span class="gb2-ccard-flag">🇹🇭</span>
             <span class="gb2-ccard-city">Bangkok</span>
             <span class="gb2-ccard-country">タイ</span>
-            <span class="gb2-ccard-status wip">まだ旅の途中</span>
           </div>
         </a>
 
@@ -343,7 +341,6 @@
             <span class="gb2-ccard-flag">🇰🇷</span>
             <span class="gb2-ccard-city">Seoul</span>
             <span class="gb2-ccard-country">韓国</span>
-            <span class="gb2-ccard-status wip">まだ旅の途中</span>
           </div>
         </a>
 
@@ -356,7 +353,6 @@
             <span class="gb2-ccard-flag">🇵🇭</span>
             <span class="gb2-ccard-city">Manila</span>
             <span class="gb2-ccard-country">フィリピン</span>
-            <span class="gb2-ccard-status wip">まだ旅の途中</span>
           </div>
         </a>
 
@@ -369,7 +365,6 @@
             <span class="gb2-ccard-flag">🇺🇸</span>
             <span class="gb2-ccard-city">Los Angeles</span>
             <span class="gb2-ccard-country">アメリカ</span>
-            <span class="gb2-ccard-status wip">まだ旅の途中</span>
           </div>
         </a>
 
@@ -382,7 +377,6 @@
             <span class="gb2-ccard-flag">🇺🇸</span>
             <span class="gb2-ccard-city">Hawaii</span>
             <span class="gb2-ccard-country">アメリカ</span>
-            <span class="gb2-ccard-status wip">まだ旅の途中</span>
           </div>
         </a>
 
@@ -405,8 +399,8 @@
           ガイドブック<span style="color:#2a9d8f">。</span>
         </h2>
         <p class="gb2-about-body">
-          サワディー家が実際に子連れで行った10カ国の情報をまとめています。「子連れで行くとどうなるか」に特化した、体温のある情報です。<br><br>
-          各国ページは4つのタブで構成。旅の前から後まで、一冊の本のように使えます。声が集まるほど、内容が充実していきます。
+          親子での海外に特化した、一冊の本のようなガイドブック。私たち家族の旅が起点ではあるけれど、ここを訪れた親子旅行者の声や体験談が投稿されることで、どんどん育っていく場所にしたい。<br><br>
+          声が集まるほど内容が充実して、それが誰かの背中を押す。そうして積み重なったものが、未来につながる資産になると信じています。
         </p>
         <blockquote class="gb2-about-quote">
           <p>「育っていく過程そのものを見せる場所。行くたびに、本棚が増えていきます。」</p>
@@ -414,33 +408,33 @@
         </blockquote>
       </div>
 
-      <!-- Right: features + tab guide -->
+      <!-- Right: tab guide -->
       <div class="gb2-about-right gb2-anim">
 
         <div class="gb2-features-grid">
           <div class="gb2-feat-item">
-            <span class="gb2-feat-icon">🌡️</span>
-            <strong class="gb2-feat-title">体温のある情報</strong>
-            <p class="gb2-feat-desc">実際に行った人の体験だけ。</p>
+            <span class="gb2-feat-icon">✈️</span>
+            <strong class="gb2-feat-title">行ったことがある国だけ</strong>
+            <p class="gb2-feat-desc">自分たちが足を運んだ場所の話しかしません。知らない国は、まだ載せない。</p>
           </div>
           <div class="gb2-feat-item">
-            <span class="gb2-feat-icon">🔄</span>
-            <strong class="gb2-feat-title">自動で更新</strong>
-            <p class="gb2-feat-desc">営業状況を定期確認。</p>
+            <span class="gb2-feat-icon">🖊️</span>
+            <strong class="gb2-feat-title">黒板は常に書き換え中</strong>
+            <p class="gb2-feat-desc">スポットの営業状況もイベントも、情報は眠らせない。</p>
           </div>
           <div class="gb2-feat-item">
-            <span class="gb2-feat-icon">🪃</span>
-            <strong class="gb2-feat-title">みんなで育てる</strong>
-            <p class="gb2-feat-desc">声が集まるほど充実。</p>
+            <span class="gb2-feat-icon">📍</span>
+            <strong class="gb2-feat-title">スポットは地図で見られる</strong>
+            <p class="gb2-feat-desc">気になった場所はそのまま地図で確認。現地でも使える。</p>
           </div>
           <div class="gb2-feat-item">
-            <span class="gb2-feat-icon">🆓</span>
-            <strong class="gb2-feat-title">すべて無料</strong>
-            <p class="gb2-feat-desc">広告もありません。</p>
+            <span class="gb2-feat-icon">🤝</span>
+            <strong class="gb2-feat-title">現地ホストがいる国も</strong>
+            <p class="gb2-feat-desc">ゼロからの旅を一緒に考えてくれる現地の仲間。少しずつ、増えています。</p>
           </div>
         </div>
 
-        <div class="gb2-tab-guide">
+        <div class="gb2-tab-guide" style="margin-top:1.5rem">
           <p class="gb2-tab-guide-title">各国ページの構成</p>
           <div class="gb2-tab-row">
             <div class="gb2-tab-item">
@@ -494,12 +488,11 @@
   <!-- ===== JavaScript ===== -->
   <script>
   (function () {
-    var JX = 820, JY = 195;
+    var JX = 875, JY = 165;
     var svg      = document.getElementById('world-map');
     var mapWrap  = document.getElementById('map-wrap');
     var tt       = document.getElementById('map-tooltip');
-    var ttN      = tt ? tt.querySelector('.mtt-name')   : null;
-    var ttS      = tt ? tt.querySelector('.mtt-status') : null;
+    var ttN      = tt ? tt.querySelector('.mtt-name') : null;
     var overlay  = document.getElementById('plane-overlay');
     var flyEl    = document.getElementById('plane-fly');
     var flying   = false;
@@ -584,19 +577,16 @@
     // ---- Map pins ----
     if (svg) {
       document.querySelectorAll('.map-pin').forEach(function (pin) {
-        var cx     = +pin.dataset.cx;
-        var cy     = +pin.dataset.cy;
-        var label  = pin.dataset.label;
-        var status = pin.dataset.status;
+        var cx      = +pin.dataset.cx;
+        var cy      = +pin.dataset.cy;
+        var label   = pin.dataset.label;
         var country = pin.dataset.country;
 
         pin.style.cursor = 'pointer';
 
         pin.addEventListener('mouseenter', function () {
-          if (!tt || !ttN || !ttS) return;
+          if (!tt || !ttN) return;
           ttN.textContent = label;
-          ttS.textContent = status;
-          ttS.className = 'mtt-status ' + (status === 'ちゃんと調べた' ? 'ready' : 'wip');
           tt.classList.add('show');
           var sr = svg.getBoundingClientRect();
           var wr = mapWrap.getBoundingClientRect();
