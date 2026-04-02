@@ -296,7 +296,7 @@
       const items = data.items || [];
       if (!items.length) return;
 
-      const PAGE = 10; // 1ページの表示件数
+      const PAGE = 5; // 1ページの表示件数
       let page = 0;
 
       function renderPage() {
@@ -411,17 +411,39 @@
   const HOST_INFO = {
     london: {
       name: 'Miyukiさん',
-      quote: 'ロンドン親子旅の図書館、と僕は呼んでいます。元ツアーコンダクターで、インスタグラムには現地スポットの情報が溢れていて。でも何より、温かくて親身で、本当に好きな人です。ロンドンに行くたびに会いに行って、毎回キャッチアップしています。',
+      catchphrase: 'ロンドン親子旅の図書館',
+      quote: '元ツアーコンダクターで、インスタグラムには現地スポットの情報が溢れていて。でも何より、温かくて親身で、本当に好きな人です。ロンドンに行くたびに会いに行って、毎回キャッチアップしています。',
     },
     manila: {
       name: 'Kanaさん',
-      quote: 'Kanaさんに会いに行くために、僕たちはマニラに行きました。ご夫婦でいてくれたからこそ開いた扉がたくさんあって、一緒にいるだけで明るくなれる。ホスピタリティ女神と呼んでいます。あの旅が最高だったのは、間違いなくKanaさんのおかげです。',
+      catchphrase: 'ホスピタリティ女神',
+      quote: 'Kanaさんに会いに行くために、僕たちはマニラに行きました。ご夫婦でいてくれたからこそ開いた扉がたくさんあって、一緒にいるだけで明るくなれる。あの旅が最高だったのは、間違いなくKanaさんのおかげです。',
     },
     hawaii: {
       name: 'Miyaさん',
+      catchphrase: 'ハワイの達人',
       quote: '日本のテレビ番組のロケアテンドもされているハワイの達人。でも達人だから気が利かないわけじゃなくて、むしろ逆。親子の痒いところに手が届く気遣いと、ガイドブックには絶対載っていないローカルな扉を開いてくれる人です。Miyaさんの一振りのソルトで、ハワイの景色が変わります。',
     },
   };
+
+  function hostIconSVG() {
+    return `<svg class="host-card-icon-svg" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <circle cx="26" cy="26" r="25" fill="#fff0f5" stroke="#f5b8d0" stroke-width="1.5"/>
+      <ellipse cx="26" cy="14" rx="12" ry="8" fill="#8b5e3c"/>
+      <circle cx="33" cy="8" r="5" fill="#8b5e3c"/>
+      <circle cx="26" cy="23" r="11" fill="#f5d0b8"/>
+      <ellipse cx="15" cy="23" rx="3.5" ry="7" fill="#8b5e3c"/>
+      <ellipse cx="37" cy="23" rx="3.5" ry="7" fill="#8b5e3c"/>
+      <ellipse cx="21" cy="22" rx="1.8" ry="2.2" fill="#2a2418"/>
+      <ellipse cx="31" cy="22" rx="1.8" ry="2.2" fill="#2a2418"/>
+      <circle cx="22" cy="21" r="0.8" fill="white"/>
+      <circle cx="32" cy="21" r="0.8" fill="white"/>
+      <ellipse cx="18" cy="26" rx="3.2" ry="2" fill="#f8a898" opacity="0.55"/>
+      <ellipse cx="34" cy="26" rx="3.2" ry="2" fill="#f8a898" opacity="0.55"/>
+      <path d="M21 29 Q26 33.5 31 29" stroke="#c47858" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+      <path d="M18 36 Q26 41 34 36" fill="#f5b8d0" stroke="none"/>
+    </svg>`;
+  }
 
   function loadHostSection() {
     const container = document.getElementById('host-section');
@@ -433,20 +455,25 @@
 
     if (hasHost) {
       const host = HOST_INFO[slug] || {};
+      const catchphraseHtml = host.catchphrase
+        ? `<p class="host-card-catchphrase">「${host.catchphrase}」と、僕は呼んでいます。</p>`
+        : '';
       const quoteHtml = host.quote
         ? `<blockquote class="host-card-quote">「${host.quote}」<cite>— サワディー</cite></blockquote>`
         : '';
       container.innerHTML = `
         <div class="host-card">
           <div class="host-card-inner">
-            <div class="host-card-icon">🏠</div>
+            ${hostIconSVG()}
             <div class="host-card-body">
               <div class="host-card-badge">✦ Wamilyホスト</div>
-              <h3 class="host-card-title">${nameJa}には、素敵なWamilyホストがいます。</h3>
+              <h3 class="host-card-name">${host.name || nameJa}</h3>
+              ${catchphraseHtml}
               ${quoteHtml}
               <a href="${INQUIRY_FORM_URL}" target="_blank" rel="noopener noreferrer" class="host-card-btn">
                 💬 気軽に相談してみる
               </a>
+              <p class="host-card-recruit-hint">この国に住んでいて、旅する家族の力になれそうという方、ぜひご応募ください。<a href="${RECRUIT_FORM_URL}" target="_blank" rel="noopener noreferrer">Wamilyホストに応募する →</a></p>
             </div>
           </div>
         </div>`;
