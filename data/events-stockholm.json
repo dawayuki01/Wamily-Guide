@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "王立劇場のイースター・プログラム",
-      "description": "ストックホルムの伝統的なイースター・セレブレーションで、劇場の特別公演や子ども向けワークショップが開催されます。春の雰囲気の中で家族で楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "Royal Dramatic Theatre (Dramaten), Nybroplan, Stockholm",
-      "link": "https://www.dramaten.se/",
-      "free": false
-    },
-    {
-      "title": "スキンスカン公園の春の花まつり",
-      "description": "ストックホルムの人気公園で、4月は桜やチューリップが満開。広大な緑地で子どもが自由に遊べ、ピクニックやピクニックエリアも充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
-      "link": "https://www.skansen.se/",
-      "free": true
-    },
-    {
-      "title": "ノルディスカ美術館の子ども向け春イベント",
-      "description": "北欧デザインの美術館で、イースター向けの子ども向けワークショップやクラフト活動が開催。家族で北欧の文化を学べます。",
+      "title": "チューリップフェスティバル（Stockholms Tulipfestival）",
+      "description": "ストックホルムの公園や広場に色鮮やかなチューリップが咲き誇る春の祭り。子どもたちが花々を楽しみながら散策できます。",
       "date": "4月中旬〜下旬",
-      "place": "Nordiska museet, Djurgårdsvägen 6-16, Stockholm",
-      "link": "https://www.nordiskamuseet.se/",
-      "free": false
-    },
-    {
-      "title": "ジュルゴーデン島のサイクリング&自然散策",
-      "description": "ストックホルムの緑豊かなジュルゴーデン島で、家族向けレンタサイクルや散策路が完備。春の花々が咲き、子どもも参加しやすい屋外アクティビティです。",
-      "date": "4月上旬〜下旬",
-      "place": "Djurgården Island, Stockholm",
-      "link": "https://www.djurgardsbolagets.se/",
+      "place": "Kungsträdgården（王立庭園）、ストックホルム中心部",
+      "link": "https://www.stockholmsinfocenter.se/",
       "free": true
     },
     {
-      "title": "スウェーデン自然博物館のイースター・プログラム",
-      "description": "恐竜や動物に関する展示で、イースター期間の子ども向けガイドツアーやスカベンジャーハントが開催。対話的な学習が可能です。",
-      "date": "4月上旬〜中旬",
-      "place": "Swedish Museum of Natural History, Frescativägen 40, Stockholm",
-      "link": "https://www.nrm.se/",
+      "title": "スカンセン野外博物館の春イベント",
+      "description": "北欧の伝統的な建築物や動物園が集まる施設で、春の特別プログラム。子ども向けの動物との触れ合いやワークショップが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
+      "free": false
+    },
+    {
+      "title": "ジュルゴーデン島の春散策と野外アクティビティ",
+      "description": "ストックホルムの緑豊かな島で、春の自然を満喫。遊具のある公園、野外カフェ、美術館など家族向けスポットが充実しています。",
+      "date": "4月上旬〜下旬",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.djurgarden.se/",
+      "free": true
+    },
+    {
+      "title": "ノーベル博物館の子ども向けプログラム",
+      "description": "ノーベル賞の歴史を学べる博物館。春期間中は子ども向けの特別ガイドツアーやインタラクティブな展示があります。",
+      "date": "4月上旬〜下旬",
+      "place": "Nobelmuseet, Stortorget 2, 111 29 Stockholm",
+      "link": "https://www.nobelprize.org/about/the-nobel-museum/",
+      "free": false
+    },
+    {
+      "title": "ストックホルム動物園（Stockholms Zoo）での春シーズン",
+      "description": "動物たちが活発に動く春の季節。新しく生まれた子動物たちが見られることもあり、子どもたちに人気です。",
+      "date": "4月上旬〜下旬",
+      "place": "Skansen Zoo, Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/en/zoo",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T06:13:22.929Z"
+  "updatedAt": "2026-04-02T05:51:05.667Z"
 }

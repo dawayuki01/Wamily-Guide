@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Summer Fiesta（サマーフィエスタ）",
-      "description": "4月はフィリピンの夏シーズン開幕。各ショッピングモール・公園で子ども向けのゲーム、工作ワークショップ、エンターテイメントが開催される季節の祭典です。",
+      "title": "フィリピン夏祭り（Summer Festivals）",
+      "description": "4月はフィリピンの夏シーズン。マニラ各地で水かけ祭りやカラフルなパレードが開催され、子どもたちも水遊びを楽しめる家族向けイベント。",
+      "date": "4月中旬〜下旬",
+      "place": "マニラ市内各地（リサール公園など）",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "Manila Ocean Park",
+      "description": "水族館とテーマパークが一体化した施設。子ども向けの海の生き物ショーや触れ合いプログラムが豊富。春休み期間中は特別企画も開催。",
       "date": "4月上旬〜下旬",
-      "place": "SM Malls of Asia, Robinsons Malls等大型ショッピングモール",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "Manila Zoo Free Day（マニラ動物園 無料開放日）",
-      "description": "毎月特定日に無料開放される公立動物園。乳幼児から楽しめる動物展示と屋外散策が可能。フィリピンの動物も観察できます。",
-      "date": "4月中旬（通常毎月第3日曜）",
-      "place": "Manila Zoo, Rizal Park, Padre Faura St., Manila",
-      "link": "https://www.manilazooph.org",
-      "free": true
-    },
-    {
-      "title": "Rizal Park（リサール公園）での春の屋外活動",
-      "description": "マニラの大規模公園。4月の快晴時に凧揚げ、ピクニック、サイクリングが楽しめます。歴史的モニュメントの見学と親子での運動に最適です。",
-      "date": "4月上旬〜下旬",
-      "place": "Rizal Park, Manila City",
-      "link": "https://www.tourism.gov.ph",
-      "free": true
-    },
-    {
-      "title": "Enchanted Kingdom School Break Promo（エンチャンテッドキングダム）",
-      "description": "フィリピン最大級のテーマパーク。4月の学校休暇期間に子ども向けの特別キャンペーン・割引が実施されます。ジェットコースターから幼児向けアトラクションまで対応。",
-      "date": "4月上旬〜中旬",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから約1時間）",
-      "link": "https://www.enchantedkingdom.ph",
+      "place": "Manila Circumferential Road, Pasay City",
+      "link": "https://www.manilaoceanpark.com/",
       "free": false
     },
     {
-      "title": "National Museum（国立博物館）子ども向けプログラム",
-      "description": "4月に子ども向けの体験型展示やガイドツアーが開催される場合があります。フィリピン文化・歴史を学べる屋内施設で、乳幼児連れに最適です。",
+      "title": "Ayala Museum春期特別展示",
+      "description": "フィリピン文化と歴史を学べる博物館。4月は子ども向けの対話型展示やワークショップを開催。家族で楽しく学べる環境。",
       "date": "4月上旬〜下旬",
-      "place": "National Museum Complex, Padre Burgos Ave., Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "place": "Makati Avenue, Makati City",
+      "link": "https://www.ayalamuseum.org/",
+      "free": false
+    },
+    {
+      "title": "Rizal Park（リサール公園）での屋外アクティビティ",
+      "description": "マニラ最大の公園。ピクニック、サイクリング、池での水遊びなど家族向けアクティビティが充実。入園無料で終日楽しめるスポット。",
+      "date": "4月上旬〜下旬",
+      "place": "Padre Burgos Avenue, Ermita, Manila",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "Enchanted Kingdom春休みキャンペーン",
+      "description": "テーマパーク。4月の春休み期間中は子ども向け特別イベントやキャラクターグリーティングが充実。乗り物や舞台ショーで家族で丸一日楽しめる。",
+      "date": "4月上旬〜中旬",
+      "place": "Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T06:13:47.888Z"
+  "updatedAt": "2026-04-02T05:51:29.701Z"
 }
