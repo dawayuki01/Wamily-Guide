@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival",
-      "description": "シンガポール最大のガーデンイベント。色とりどりの花の展示、ガーデンデザインコンペティション、子ども向けワークショップなどが開催されます。植物学習と花の美しさを同時に楽しめます。",
-      "date": "4月中旬～下旬",
-      "place": "シンガポール植物園（Singapore Botanic Gardens）",
-      "link": "https://www.singaporegardensfestival.com",
+      "title": "シンガポール・チューリップ・フェスティバル",
+      "description": "ガーデンズ・バイ・ザ・ベイで開催される春の花祭り。色とりどりのチューリップが咲き誇り、親子で季節の花々を楽しめます。園内の遊び場も利用可。",
+      "date": "4月上旬〜中旬（2026年予定）",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park サイクリング・ビーチアクティビティ",
-      "description": "シンガポール最大のビーチパーク。広いサイクリングロード、砂浜でのアクティビティ、子ども向けの遊具が充実。海風を感じながら家族で楽しめる屋外スポット。",
-      "date": "4月上旬～下旬（通年）",
-      "place": "East Coast Park, Singapore",
+      "title": "イースター・ファミリー・セレブレーション",
+      "description": "シンガポール動物園やセントーサ島などでイースターエッグハント、キャラクター出演、ワークショップが開催。子どもたちの笑顔があふれるイベント。",
+      "date": "4月上旬〜中旬（2026年予定）",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826 他複数会場",
+      "link": "https://www.mandai.sg",
+      "free": false
+    },
+    {
+      "title": "East Coast Park でのファミリー・アウトドア・アクティビティ",
+      "description": "広大なビーチパークで、サイクリング、カイトボーディング、BBQ設備が無料で利用可。家族でアクティブに過ごせます。",
+      "date": "4月上旬〜下旬（通年開放）",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Sentosa Island Spring Carnival",
-      "description": "セントーサ島で開催される春のカーニバル。子ども向けのゲーム、アトラクション、キャラクターミート&グリート、ワークショップなど家族向けイベントが満載です。",
-      "date": "4月中旬～下旬",
-      "place": "Sentosa Island, Singapore",
-      "link": "https://www.sentosa.com.sg",
-      "free": false
-    },
-    {
-      "title": "National Museum Singapore Kids Programs",
-      "description": "シンガポール国立博物館の子ども向けワークショップやガイドツアー。シンガポールの歴史と文化を楽しく学べるプログラム。対話的な展示で幅広い年齢層に対応。",
-      "date": "4月通年開催（日程は要確認）",
-      "place": "National Museum of Singapore, 93 Stamford Road",
-      "link": "https://www.nationalmuseum.sg",
-      "free": false
-    },
-    {
-      "title": "Marina Bay Waterfront 無料イベント & 散策",
-      "description": "マリーナベイの広大なウォーターフロント。無料で楽しめるパブリックエリア、トイレ、遊び場が充実。イベントステージでは季節ごとに子ども向けパフォーマンスも開催されます。",
-      "date": "4月上旬～下旬（通年）",
-      "place": "Marina Bay, Singapore",
-      "link": "https://www.visitsingapore.com/see-do/attractions/marina-bay/",
+      "title": "シンガポール・ナショナル・デー・ファン・ボックス準備期間のアクティビティ",
+      "description": "図書館やコミュニティセンターで無料のファミリー工作ワークショップが開催。シンガポール文化を学びながら手工芸を楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "National Library Board Singapore, 100 Victoria Street, Singapore 188064 他",
+      "link": "https://www.nlb.gov.sg",
       "free": true
+    },
+    {
+      "title": "S.E.A.水族館の春季スペシャル・プログラム",
+      "description": "セントーサ島の大型水族館で、イースターテーマのスキューバ体験やタッチプール、キッズワークショップ開催。海の生き物たちと触れ合える。",
+      "date": "4月上旬〜中旬",
+      "place": "S.E.A. Aquarium, 8 Sentosa Gateway, Singapore 098269",
+      "link": "https://www.rwsentosa.com/attractions/sea-aquarium",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T06:13:30.499Z"
+  "updatedAt": "2026-04-02T05:51:14.685Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ春の花祭り（Fleurs de Paris）",
-      "description": "パリ各地の庭園やバルコニーに春の花が咲き誇る季節。ルーヴル宮庭園やテュイルリー庭園で色とりどりの花々が楽しめます。",
-      "date": "4月上旬〜5月上旬",
-      "place": "テュイルリー庭園（Jardin des Tuileries）、8 Rue de Rivoli, 75001 Paris",
-      "link": "https://www.paris.fr",
+      "title": "チューリップの季節・モネの庭園",
+      "description": "ジヴェルニーのモネの庭園で春のチューリップが咲く季節。子どもたちが美しい花園を自然散策できます。",
+      "date": "4月上旬〜下旬",
+      "place": "Claude Monet's House and Gardens, 84 rue Claude Monet, 27620 Giverny",
+      "link": "https://fondation-monet.com",
+      "free": false
+    },
+    {
+      "title": "ルーヴル美術館キッズプログラム",
+      "description": "春休み時期に実施される子ども向けガイドツアーや体験ワークショップ。家族向けの特別プログラムで芸術に親しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris",
+      "link": "https://www.louvre.fr",
+      "free": false
+    },
+    {
+      "title": "パリの公園でのピクニック・春散策（無料）",
+      "description": "ルクセンブルク公園やブーローニュの森でピクニック。春の花が咲き、子どもたちが自由に遊べる広大な芝生で家族時間を過ごせます。",
+      "date": "4月全期間",
+      "place": "Jardin du Luxembourg / Bois de Boulogne, Paris",
+      "link": "https://www.paris.fr/pages/les-parcs-et-jardins-2149",
       "free": true
     },
     {
-      "title": "マリオネット劇場（Guignol）",
-      "description": "パリの公園で開催される伝統的なフランス人形劇。子どもたちが喜ぶコミカルなショーで、4月は温暖な気候で屋外上演が増えます。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "ルクセンブルク庭園（Jardin du Luxembourg）、Rue de Médicis, 75006 Paris",
-      "link": "https://www.paris.fr",
-      "free": true
+      "title": "ディズニーランド・パリ春イベント",
+      "description": "春の季節限定装飾とキャラクターグリーティング。子ども向けアトラクションが豊富で、家族で楽しむ屋外テーマパーク体験ができます。",
+      "date": "4月上旬〜下旬",
+      "place": "Disneyland Paris, Boulevard de Parc, 77700 Marne-la-Vallée",
+      "link": "https://www.disneylandparis.com",
+      "free": false
     },
     {
-      "title": "イースターマーケット（Marché de Pâques）",
-      "description": "パリ各地で開催されるイースター関連のマーケット。チョコレート、装飾卵、春の手工芸品などが売られ、子ども向けアクティビティもあります。",
-      "date": "4月上旬〜中旬",
-      "place": "シャンゼリゼ通りほか市内各所",
+      "title": "ノートルダム大聖堂周辺のイースターマーケット",
+      "description": "イースター時期のマーケットで工芸品やお菓子を販売。子ども向けの工作体験やゲームが無料で楽しめます。",
+      "date": "4月中旬（イースター時期）",
+      "place": "Parvis Notre-Dame, 6 Parvis Notre-Dame, 75004 Paris",
       "link": "",
       "free": true
-    },
-    {
-      "title": "パリ水族館・特別春企画",
-      "description": "シャイヨー宮地下のパリ水族館で春特別展示が開催。海の生き物との触れ合いコーナーや子ども向け学習プログラムが充実しています。",
-      "date": "4月1日〜5月31日",
-      "place": "シャイヨー宮（Palais de Chaillot）、5 Avenue Albert de Mun, 75016 Paris",
-      "link": "https://www.aquariumdeparis.com",
-      "free": false
-    },
-    {
-      "title": "セーヌ川クルーズ＆春の散策",
-      "description": "4月のセーヌ川沿いは新緑が美しく、クルーズ船での観光やボートピクニックが人気。乳幼児から参加でき、パリの風景を楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "セーヌ川各乗船地点（Pont de l'Alma, Port de la Bourdonnaise等）",
-      "link": "https://www.batobus.com",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T06:13:15.848Z"
+  "updatedAt": "2026-04-02T05:50:58.216Z"
 }

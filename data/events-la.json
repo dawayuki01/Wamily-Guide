@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA オーキッド ショー（Los Angeles Orchid Show）",
-      "description": "南カリフォルニア植物園で開催される蘭の大規模展示。美しい花々を学びながら観賞でき、家族向けのワークショップも開催されます。",
-      "date": "4月上旬〜中旬",
-      "place": "南カリフォルニア植物園（South Coast Botanic Garden）、ランチョ・パロス・ベルデス",
-      "link": "https://www.southcoastbotanicgarden.org/",
-      "free": false
-    },
-    {
-      "title": "グリフィス天文台 春季ファミリープログラム",
-      "description": "グリフィス天文台の春季特別プログラム。プラネタリウムショーと展示で宇宙を学べます。夜間は天体観測も。眺望も最高です。",
-      "date": "4月通期",
-      "place": "グリフィス天文台（Griffith Observatory）、ロサンゼルス",
-      "link": "https://www.griffithobservatory.org/",
+      "title": "Los Angeles Times Festival of Books",
+      "description": "南カリフォルニア大学キャンパスで開催される北米最大級の書籍フェスティバル。子ども向けのステージプログラム、ワークショップ、キャラクター出演などが充実。",
+      "date": "4月中旬（通常第3週末の土日）",
+      "place": "University of Southern California（USC）キャンパス、Los Angeles, CA 90089",
+      "link": "https://www.latimesfestivalofbooks.com",
       "free": true
     },
     {
-      "title": "ハンティントン図書館 春の庭園ウォーキング",
-      "description": "世界有数の美しい庭園で、春の花が咲き誇る季節。子ども向けガイドツアーや工作ワークショップも開催。屋外で自然を満喫できます。",
+      "title": "Descanso Gardens - Spring Bloom Season",
+      "description": "季節の花々が咲き乱れる植物園。春のチューリップ、シャクナゲ、バラが見頃。家族向けのトレイルウォーキングやピクニック、子ども向けガイドツアーなど。",
       "date": "4月上旬〜下旬",
-      "place": "ハンティントン図書館・美術館・植物園（The Huntington）、サンマリノ",
-      "link": "https://www.huntington.org/",
+      "place": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org",
       "free": false
     },
     {
-      "title": "アースデー LA（EarthDay LA）",
-      "description": "毎年4月下旬にエコープレイグラウンド公園で開催される大規模環境フェスティバル。ステージパフォーマンス、環境教育ブース、フードベンダーが楽しめます。",
-      "date": "4月下旬",
-      "place": "エコープレイグラウンド公園（Exposition Park近辺）、ロサンゼルス",
-      "link": "https://www.earthdaylosangeles.org/",
+      "title": "Griffith Observatory - Spring Programs & Outdoor Views",
+      "description": "歴史的な天文台での春の天体観察会やプラネタリウムプログラム。無料の展示ホール、屋外テラスからのロサンゼルス景観。子ども向け教育プログラムも開催。",
+      "date": "4月通期",
+      "place": "2800 East Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "カリフォルニア科学センター 春の特別展示",
-      "description": "常設展示に加え、春季限定の子ども向け特別展や体験プログラムを開催。スペースシャトル展示やハンズオン実験が人気。",
+      "title": "The Huntington Library - Spring Botanical Exhibitions",
+      "description": "美術館と広大な庭園施設。春の花々の展示、子ども向けのアート・ワークショップ、家族向けガイドツアーが開催。屋外での散策も楽しめる。",
       "date": "4月通期",
-      "place": "カリフォルニア科学センター（California Science Center）、ロサンゼルス",
-      "link": "https://www.californiasciencecenter.org/",
+      "place": "1151 Oxford Road, San Marino, CA 91108",
+      "link": "https://www.huntington.org",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier Spring Events & Outdoor Recreation",
+      "description": "カーニバルゲーム、遊園地乗り物、海辺でのアクティビティ。春の気候が最適な季節。ビーチでの砂遊び、サイクリング、ピクニックなどファミリー向けアクティビティが豊富。",
+      "date": "4月通期",
+      "place": "200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-01T06:13:55.417Z"
+  "updatedAt": "2026-04-02T05:51:37.115Z"
 }
