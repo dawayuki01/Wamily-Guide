@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>コンセプト — Wamily</title>
-  <meta name="description" content="Wamilyを作ったサワディーの言葉。なぜ作ったのか、どんな思いを込めているのか。">
+  <meta name="description" content="子どもと行く旅は、もっと面白い。Wamilyをはじめた理由と、これからのこと。">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../css/pages.css">
+  <link rel="stylesheet" href="../css/concept.css">
 </head>
 <body>
 
-  <!-- ======= ナビ（コンパクト scrolled-state） ======= -->
-  <header class="gnav">
+  <!-- ======= ナビ ======= -->
+  <header class="gnav" id="gnav">
     <a href="../" class="gnav-logo"><span class="gnav-logo-w">W</span>amily</a>
     <nav class="gnav-links">
       <span class="gnav-dot" style="background:#2a9d8f"></span>
@@ -26,173 +26,223 @@
     </div>
   </header>
 
-  <!-- ======= ページヒーロー ======= -->
-  <section class="page-hero">
-    <div class="page-hero-bg">
-      <img src="https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1920&q=80" alt="" loading="eager">
+  <!-- ======= HERO ======= -->
+  <section class="cp-hero">
+    <div class="cp-hero-img">
+      <img src="../assets/images/concept_image/DSC02082.JPG" alt="ストックホルムの石畳を歩く家族" loading="eager" id="hero-img">
     </div>
-    <div class="page-hero-overlay"></div>
-    <div class="page-hero-content">
-      <p class="page-hero-en">ABOUT WAMILY</p>
-      <h1 class="page-hero-title">ここは、家族の旅を<br>育てていく場所です<span class="period-teal">。</span></h1>
-      <p class="page-hero-sub">まだ途中。でも、そこが好きです。</p>
+    <div class="cp-hero-grad"></div>
+    <div class="cp-hero-content">
+      <p class="cp-hero-en">About Wamily</p>
+      <h1 class="cp-hero-title">
+        子どもと行く旅は、<br>
+        <em>もっと、面白い。</em>
+      </h1>
+      <p class="cp-hero-sub">Wamilyをはじめた理由と、これからのこと。</p>
+    </div>
+    <div class="cp-hero-scroll">
+      <div class="cp-hero-scroll-line"></div>
+      <span>scroll</span>
     </div>
   </section>
 
-  <!-- ======= コンテンツ ======= -->
-  <div class="page-section">
-
-    <!-- 01: なぜ作ったか -->
-    <div class="chapter">
-      <div class="chapter-header">
-        <span class="chapter-num">01</span>
-        <h2 class="chapter-title">なぜ作ったか</h2>
-      </div>
-      <div class="chapter-body">
-        <p>うちの子どもが2歳のとき、はじめて海外に連れていこうと決めました。行き先はイギリス、ロンドン。ずっと行きたかった街でした。</p>
-        <p>でも、いざ調べ始めると、困りました。子連れ向けの情報が、ほとんどない。「ロンドン 子連れ おすすめ」で検索しても出てくるのは、大人向けの観光情報か、子どもがいない前提の旅行記ばかり。</p>
-        <p>「現地で急に熱が出たらどこに行けばいいか」「ベビーカーで地下鉄に乗れるか」「授乳できる場所はあるか」——そんな、子連れ旅行者が本当に知りたいことが、どこにも書いていなかった。</p>
-
-        <!-- 引用 + オーナー写真（旅先で食べている） -->
-        <div class="quote-with-photo">
-          <div class="quote-block">
-            <p class="quote-text">「信頼できる情報に出会えないあのストレス、わかります。だから作り始めました。」</p>
-            <p class="quote-attr">— サワディー</p>
-          </div>
-          <div class="quote-photo">
-            <img src="../assets/images/owner-eating.png" alt="" loading="lazy">
-          </div>
-        </div>
-
-        <p>結局、現地に着いてから自分で調べながら動きました。それが思った以上に大変で、思った以上に楽しかった。帰国してから思ったんです。「これ、まとめておいたら次の誰かが助かるんじゃないか」と。Wamilyはそこから始まりました。</p>
-      </div>
+  <!-- ======= OPENING ======= -->
+  <section style="background: var(--cream)">
+    <div class="cp-opening cp-anim">
+      <p class="cp-opening-text">
+        子どもができてから、旅が変わりました。<br>
+        荷物は増えた。計画は狂う。思い通りにいかないことばかり。<br>
+        <strong>でも、帰るたびに「また行きたい」と思う。</strong>
+      </p>
     </div>
+  </section>
 
-    <!-- オーナー写真（子どもと一緒・さりげなくページに溶け込む） -->
-    <div class="owner-photo-float">
-      <div class="owner-photo-frame">
-        <img src="../assets/images/owner-with-kid.png" alt="サワディーと子ども" loading="lazy">
-      </div>
-      <div class="owner-photo-deco">
-        <span class="opd-dot" style="top:-12px;right:-8px;background:#c8a820"></span>
-        <span class="opd-dot" style="bottom:20px;left:-14px;background:#2a9d8f"></span>
-        <svg class="opd-star" width="18" height="18" viewBox="0 0 28 28" style="top:-20px;left:30px"><polygon points="14,2 17,10 26,10 19,16 21,25 14,20 7,25 9,16 2,10 11,10" fill="#c8a820" opacity="0.5"/></svg>
-      </div>
+  <!-- ======= FULL-BLEED: ロンドンバス ======= -->
+  <div class="cp-fullphoto cp-anim">
+    <img src="../assets/images/concept_image/DSC04482.JPG" alt="ロンドンのバスで眠る兄弟" loading="lazy">
+    <div class="cp-fullphoto-caption">
+      <p>2人が眠ったバスの中で、<br>書き始めることにした。</p>
+      <small>London, UK</small>
     </div>
-
-    <!-- 02: 誰が主役か -->
-    <div class="chapter">
-      <div class="chapter-header">
-        <span class="chapter-num">02</span>
-        <h2 class="chapter-title">誰が主役か</h2>
-      </div>
-      <div class="chapter-body">
-        <p>主役は、あなたです。ここに来てくれた「家族で旅したい人」が、いつも真ん中にいます。</p>
-
-        <div class="owner-card">
-          <img class="owner-card-photo" src="../assets/images/owner-profile.png" alt="サワディー" loading="lazy">
-          <div class="owner-card-info">
-            <p class="owner-card-name">サワディー</p>
-            <p class="owner-card-role">Wamilyオーナー / 子連れ旅行者</p>
-            <p class="owner-card-desc">2024年1月からWamilyを作り始めました。子どもが生まれてから、家族でいろんな国に行くのが好きになりました。旅先で困ったこと・学んだことを、ここに置いています。</p>
-            <span class="owner-card-kids">3歳・5歳の男の子と旅しています</span>
-          </div>
-        </div>
-
-        <p>私はここの店主みたいなものです。本棚のある、黒板がある、常連が集まる居酒屋。そんな空気感を目指しています。でも主役は常に、カウンターの向こう側にいるあなた。</p>
-
-        <p class="chapter-body" style="margin-top:28px;font-size:12px;font-weight:500;color:#9a8868;letter-spacing:.06em">サワディー家が行った9カ国</p>
-        <div class="country-chips">
-          <span class="country-chip">&#x1F1EC;&#x1F1E7; イギリス</span>
-          <span class="country-chip">&#x1F1EB;&#x1F1F7; フランス</span>
-          <span class="country-chip">&#x1F1F8;&#x1F1EA; スウェーデン</span>
-          <span class="country-chip">&#x1F1F8;&#x1F1EC; シンガポール</span>
-          <span class="country-chip">&#x1F1F9;&#x1F1ED; タイ</span>
-          <span class="country-chip">&#x1F1F5;&#x1F1ED; フィリピン</span>
-          <span class="country-chip">&#x1F1FA;&#x1F1F8; アメリカ（LA）</span>
-          <span class="country-chip">&#x1F1FA;&#x1F1F8; ハワイ</span>
-          <span class="country-chip">&#x1F1F0;&#x1F1F7; 韓国</span>
-          <span class="country-chip">&#x1F1F9;&#x1F1FC; 台湾</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- オーナー写真（ジャケット姿・左からはみ出す） -->
-    <div class="owner-photo-side left">
-      <img src="../assets/images/owner-jacket.png" alt="" loading="lazy">
-      <span class="opd-dot" style="top:10px;right:-10px;background:#2a9d8f"></span>
-      <svg class="opd-star" width="14" height="14" viewBox="0 0 28 28" style="position:absolute;bottom:30px;right:-20px"><polygon points="14,2 17,10 26,10 19,16 21,25 14,20 7,25 9,16 2,10 11,10" fill="#c8a820" opacity="0.45"/></svg>
-    </div>
-
-    <!-- 03: どう育てていくか -->
-    <div class="chapter">
-      <div class="chapter-header">
-        <span class="chapter-num">03</span>
-        <h2 class="chapter-title">どう育てていくか</h2>
-      </div>
-      <div class="chapter-body">
-        <p>Wamilyは完成したサービスではありません。育っていく過程そのものを見せる場所です。</p>
-
-        <div class="value-list">
-          <div class="value-item">
-            <span class="value-icon">&#x1F4D6;</span>
-            <div>
-              <p class="value-title">行くたびに増える本棚</p>
-              <p class="value-text">サワディー家が旅するたびにガイドブックが増えます。コミュニティの声でさらに広がります。</p>
-            </div>
-          </div>
-          <div class="value-item">
-            <span class="value-icon">&#x1F321;&#xFE0F;</span>
-            <div>
-              <p class="value-title">体温のある情報</p>
-              <p class="value-text">実際に子どもを連れて行った人の経験だけを置いています。誰かの「これ、ほんとに助かった」を届けたい。</p>
-            </div>
-          </div>
-          <div class="value-item">
-            <span class="value-icon">&#x1FA83;</span>
-            <div>
-              <p class="value-title">バトンを渡し合う</p>
-              <p class="value-text">自分たちの困りごとを解決した先に、誰かの困りごとが解決される。旅の経験は、次の誰かへのバトンです。</p>
-            </div>
-          </div>
-          <div class="value-item">
-            <span class="value-icon">&#x1F30D;</span>
-            <div>
-              <p class="value-title">目指せ全世界</p>
-              <p class="value-text">今は9カ国。でも地球はもっと広い。子連れで行った国があれば、ぜひ教えてください。</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- オーナー写真（全身・右からはみ出す） -->
-    <div class="owner-photo-side right">
-      <img src="../assets/images/owner-standing.png" alt="" loading="lazy">
-      <span class="opd-dot" style="bottom:40px;left:-12px;background:#c8a820"></span>
-      <span class="opd-dot" style="top:20px;left:10px;background:#2a9d8f;width:6px;height:6px"></span>
-    </div>
-
-    <!-- クロージング -->
-    <div class="page-close">
-      <img class="page-close-owner" src="../assets/images/owner-profile.png" alt="サワディー" loading="lazy">
-      <p class="page-close-text">家族の数だけ、旅がある<span class="period-teal">。</span><br>誰かの経験が、誰かの地図になる。</p>
-      <a href="../guidebook/" class="btn-primary">ガイドブックを見る &#x2197;</a>
-    </div>
-
   </div>
 
+  <!-- ======= TEXT: きっかけ ======= -->
+  <section class="cp-text">
+    <div class="cp-text-inner cp-anim">
+      <p class="cp-label">01 — きっかけ</p>
+      <h2 class="cp-h2">「この旅を、<br>どこかに残しておきたい。」</h2>
+      <p class="cp-body">
+        うちの子どもが初めて海外に行ったのは、2歳のときでした。行き先はロンドン。帰り道の二階建てバスで、2人が並んで眠っていた。その横顔を見ながら、ふと思ったんです。この旅を、どこかに残しておきたい、と。
+      </p>
+      <p class="cp-body" style="margin-top:20px">
+        帰国してから気づいたのが、子連れ向けの情報の少なさでした。「急に熱が出たらどこに行けばいいか」「ベビーカーで地下鉄に乗れるか」——そんな基本的なことが、どこにも書いていない。
+      </p>
+      <p class="cp-body" style="margin-top:20px">
+        だったら自分が書けばいい。それがWamilyの始まりです。
+      </p>
+    </div>
+  </section>
+
+  <!-- ======= CHAPTER: 家族の姿（パパと子ども） ======= -->
+  <div class="cp-chapter cp-anim">
+    <div class="cp-chapter-img">
+      <img src="../assets/images/concept_image/DSC02880.JPG" alt="パパと2人の息子" loading="lazy">
+    </div>
+    <div class="cp-chapter-body">
+      <p class="cp-label">02 — 旅のかたち</p>
+      <h2 class="cp-h2">不安より、<br>設定が上まわった。</h2>
+      <p class="cp-body">
+        正直、最初は不安のほうが大きかった。でも行ってみたら、子どもたちの反応が全部おもしろかった。何気ない路地ではしゃいで、知らない食べ物を怖がって、疲れたら誰の腕でも眠る。
+      </p>
+      <p class="cp-body" style="margin-top:16px">
+        そういう旅を、もっと普通のことにしたい。子どもを連れて海外に行くことを、特別なことじゃなく、選択肢のひとつにしたい。Wamilyはそのために作っています。
+      </p>
+    </div>
+  </div>
+
+  <!-- ======= PHOTO GRID ======= -->
+  <div class="cp-grid cp-anim">
+    <div class="cp-grid-item">
+      <img src="../assets/images/concept_image/IMG_1156.JPG" alt="出発のとき" loading="lazy">
+      <span class="cp-grid-loc">空港にて</span>
+    </div>
+    <div class="cp-grid-item">
+      <img src="../assets/images/concept_image/DSC07367.JPG" alt="台湾の乗り物" loading="lazy">
+      <span class="cp-grid-loc">Taiwan</span>
+    </div>
+    <div class="cp-grid-item">
+      <img src="../assets/images/concept_image/DSC05164.JPG" alt="ロンドンのグラフィティ" loading="lazy">
+      <span class="cp-grid-loc">London</span>
+    </div>
+    <div class="cp-grid-item">
+      <img src="../assets/images/concept_image/DSC07131.JPG" alt="台湾の路地" loading="lazy">
+      <span class="cp-grid-loc">Taiwan</span>
+    </div>
+    <div class="cp-grid-item">
+      <img src="../assets/images/concept_image/DSC07760.JPG" alt="家族のハロウィン" loading="lazy">
+      <span class="cp-grid-loc">おまけ</span>
+    </div>
+  </div>
+
+  <!-- ======= PULLQUOTE ======= -->
+  <section class="cp-quote cp-anim">
+    <span class="cp-quote-mark">"</span>
+    <p class="cp-quote-text">
+      子どもを連れていくと、<br>その街の違う顔が見える気がする。
+    </p>
+    <span class="cp-quote-attr">— サワディー</span>
+  </section>
+
+  <!-- ======= CHAPTER: Wamilyとは（flip） ======= -->
+  <div class="cp-chapter cp-chapter--flip cp-anim">
+    <div class="cp-chapter-img">
+      <img src="../assets/images/concept_image/DSC05137.JPG" alt="ロンドンの街を歩く家族" loading="lazy">
+    </div>
+    <div class="cp-chapter-body cream">
+      <p class="cp-label">03 — Wamilyとは</p>
+      <h2 class="cp-h2">育っていく途中で、<br>ここにいます。</h2>
+      <p class="cp-body">
+        Wamilyは完成品ではないし、完成させるつもりもありません。旅のたびに更新して、誰かの声が加わって、少しずつ育っていくものでいい。
+      </p>
+      <p class="cp-body" style="margin-top:16px">
+        ここを訪れた家族の体験が集まれば集まるほど、次の誰かの背中を押すものになる。自分たちの旅が、誰かの地図になる。そういう場所にしていきたいと思っています。
+      </p>
+    </div>
+  </div>
+
+  <!-- ======= PROFILE ======= -->
+  <section class="cp-profile">
+    <div class="cp-profile-photo cp-anim">
+      <img src="../assets/images/concept_image/DSC07195.JPG" alt="サワディー" loading="lazy">
+    </div>
+    <div class="cp-profile-body cp-anim cp-anim-delay-2">
+      <p class="cp-profile-name">サワディー</p>
+      <p class="cp-profile-role">Wamilyオーナー</p>
+      <p class="cp-profile-text">
+        旅好きのパパです。子どもが生まれてから、家族で行く旅が一番好きになりました。困ったこと、驚いたこと、おいしかったもの——全部ここに置いています。まだ途中だけど、そこが好きです。
+      </p>
+      <div class="cp-profile-chips">
+        <span class="cp-profile-chip">🇬🇧 ロンドン</span>
+        <span class="cp-profile-chip">🇫🇷 パリ</span>
+        <span class="cp-profile-chip">🇸🇪 ストックホルム</span>
+        <span class="cp-profile-chip">🇸🇬 シンガポール</span>
+        <span class="cp-profile-chip">🇹🇭 バンコク</span>
+        <span class="cp-profile-chip">🇵🇭 マニラ</span>
+        <span class="cp-profile-chip">🇺🇸 LA</span>
+        <span class="cp-profile-chip">🇺🇸 ハワイ</span>
+        <span class="cp-profile-chip">🇰🇷 ソウル</span>
+        <span class="cp-profile-chip">🇹🇼 台湾</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= CLOSING ======= -->
+  <section class="cp-close">
+    <p class="cp-close-title cp-anim">
+      家族の数だけ、<em>旅がある。</em>
+    </p>
+    <p class="cp-close-sub cp-anim cp-anim-delay-1">
+      あなたの旅も、誰かの地図になります。
+    </p>
+    <a href="../guidebook/" class="cp-close-cta cp-anim cp-anim-delay-2">
+      ガイドブックを見る →
+    </a>
+  </section>
+
   <!-- ======= フッター ======= -->
-  <footer class="sec-footer">
-    <p class="footer-logo"><span class="footer-logo-w">W</span>amily</p>
-    <nav class="footer-links">
+  <footer class="cp-footer">
+    <p class="cp-footer-logo"><span class="cp-footer-logo-w">W</span>amily</p>
+    <nav class="cp-footer-links">
       <a href="../concept/">コンセプト</a>
       <a href="../guidebook/">ガイドブック</a>
       <a href="../connect/">つながる</a>
     </nav>
-    <p class="footer-copy">家族の数だけ、旅がある。誰かの経験が、誰かの地図になる。</p>
-    <p class="footer-copy">&copy; 2024 Wamily — サワディー</p>
+    <p class="cp-footer-copy">家族の数だけ、旅がある。© 2024 Wamily</p>
   </footer>
+
+  <script>
+  (function () {
+    // ---- nav scroll state ----
+    var nav = document.getElementById('gnav');
+    function updateNav() {
+      if (window.scrollY > 60) {
+        nav.classList.add('scrolled');
+      } else {
+        nav.classList.remove('scrolled');
+      }
+    }
+    window.addEventListener('scroll', updateNav, { passive: true });
+    updateNav();
+
+    // ---- hero image zoom-in on load ----
+    var heroImg = document.getElementById('hero-img');
+    if (heroImg) {
+      if (heroImg.complete) {
+        heroImg.classList.add('loaded');
+      } else {
+        heroImg.addEventListener('load', function () {
+          heroImg.classList.add('loaded');
+        });
+      }
+    }
+
+    // ---- scroll animations ----
+    var anims = document.querySelectorAll('.cp-anim');
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) {
+            e.target.classList.add('visible');
+            io.unobserve(e.target);
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+      anims.forEach(function (el) { io.observe(el) });
+    } else {
+      anims.forEach(function (el) { el.classList.add('visible') });
+    }
+  })();
+  </script>
 
 </body>
 </html>
