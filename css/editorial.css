@@ -475,7 +475,6 @@
   pointer-events: none;
   z-index: 2;
   animation: illust-float 6s ease-in-out infinite;
-  mix-blend-mode: multiply;
 }
 
 @keyframes illust-float {

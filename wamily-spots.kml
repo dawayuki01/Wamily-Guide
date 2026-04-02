@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Wamily Spots</name>
+  <description>子連れ家族向け海外旅行ガイドブック — 全スポット一覧</description>
+
+  <!-- スタイル定義 -->
+  <Style id="vital"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href></Icon></IconStyle></Style>
+  <Style id="food"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon></IconStyle></Style>
+  <Style id="local"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href></Icon></IconStyle></Style>
+  <Style id="play"><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href></Icon></IconStyle></Style>
+
+  <Folder>
+    <name>イギリス・ロンドン</name>
+    <Placemark>
+      <name>💊 Boots 薬局</name>
+      <description><![CDATA[イギリス最大手薬局チェーン。子ども用薬・おむつ・ベビー用品も充実。街中に多数あり。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-0.138,51.5118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🇯🇵 在英日本大使館</name>
+      <description><![CDATA[101-104 Piccadilly, W1J 7JT｜緊急時：020-7465-6565
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-0.1408,51.5068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏥 Chelsea and Westminster Hospital</name>
+      <description><![CDATA[小児科あり・24時間救急対応。369 Fulham Rd, SW10 9NH
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-0.1817,51.4843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🥧 Borough Market</name>
+      <description><![CDATA[ロンドン最古の食市場。世界中の食べ物が集まり、子どもと一緒に食べ歩きが楽しめます。週末がおすすめ。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>-0.091,51.5055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 Tesco</name>
+      <description><![CDATA[イギリス最大のスーパーチェーン。おむつ・ミルク・日用品を現地調達するならここ。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>-0.0768,51.529,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 Waitrose</name>
+      <description><![CDATA[イギリスの高級スーパー。子ども連れに優しい雰囲気で、オーガニック食品も充実。試食コーナーも。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>-0.1596,51.5013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🚀 科学博物館（Science Museum）</name>
+      <description><![CDATA[宇宙・技術・医学など体験型の展示が充実。子ども向けのWonderLab（有料）も人気。Exhibition Rd, SW7 2DD
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-0.1745,51.4978,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🌳 Diana Memorial Playground</name>
+      <description><![CDATA[Hyde Park内の子ども専用プレイグラウンド。ピーターパンがテーマの大型遊具あり。入場無料・予約不要。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-0.188,51.5082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🦕 自然史博物館（Natural History Museum）</name>
+      <description><![CDATA[恐竜の化石・巨大なクジラの標本など、子どもが大興奮の展示が無料。Cromwell Rd, SW7 5BD
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-0.1764,51.4967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏔️ Alexandra Palace（在住者おすすめ）</name>
+      <description><![CDATA[地元の人が集まるローカルな公園。子どもが走り回れる広い芝生と美しい景色。穴場。Alexandra Palace Way, N22 7AY
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-0.1302,51.594,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>台湾・台北</name>
+    <Placemark>
+      <name>🇯🇵 在台日本国大使館（交流協会台北事務所）</name>
+      <description><![CDATA[日本の公的窓口。パスポート紛失・緊急時はここへ。No. 43, Sec. 2, Jihu Rd, Neihu District｜(02) 2713-8000
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>121.5445,25.0369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏥 台大医院（国立台湾大学医学院附設医院）</name>
+      <description><![CDATA[台湾最高水準の総合病院。小児科・救急対応。日本語通訳サービスあり。No. 7, Zhongshan S Rd, Zhongzheng District
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>121.52,25.0418,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>💊 康是美（コスメッド）</name>
+      <description><![CDATA[台湾最大手ドラッグストアチェーン。子ども用薬・おむつ・ベビー用品が揃う。街中に多数展開。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>121.531,25.041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏪 7-ELEVEN（セブン-イレブン）</name>
+      <description><![CDATA[台湾に6,000店以上。温かいご飯・おにぎり・ベビー用品まで揃う。ATM・Wi-Fiも完備。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>121.532,25.042,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 全聯福利中心（PX Mart）</name>
+      <description><![CDATA[台湾最大のスーパーマーケットチェーン。おむつ・ミルク・日用品を安く調達できる。全国どこにでもある。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>121.528,25.033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🍢 士林夜市</name>
+      <description><![CDATA[台北最大の夜市。臭豆腐・大鶏排・タピオカなど子どもが喜ぶ食べ歩きが充実。夕方17時頃から賑わう。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>121.5241,25.0882,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🌆 象山（シャンシャン）登山道</name>
+      <description><![CDATA[101タワーを正面に望む絶景ハイキングコース。片道20〜30分。子どもでも登れる難易度。夕日の時間がおすすめ。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>121.5716,25.0271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🐼 台北市立動物園</name>
+      <description><![CDATA[アジア最大級の動物園。パンダ館が子どもに大人気。MR木柵線・動物園駅すぐ。No. 2, Sec. 2, Xinguang Rd, Wenshan
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>121.5811,24.9985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏛️ 国立故宮博物院</name>
+      <description><![CDATA[世界三大博物館のひとつ。翠玉白菜など見どころ豊富。子ども向けワークショップ開催あり。No. 221, Sec. 2, Zhi'nan Rd, Shilin
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>121.5485,25.1024,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏮 九份老街</name>
+      <description><![CDATA[ジブリ映画のモデルとも言われる山の上の街。赤いちょうちんが幻想的。夕暮れ時が最も美しい。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>121.8442,25.1094,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>フランス・パリ</name>
+    <Placemark>
+      <name>🏥 Hôpital Necker（ネッケル病院）</name>
+      <description><![CDATA[フランス最大の小児病院。149 Rue de Sèvres, 75015 Paris｜緊急：15（SAMU）
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>2.3154,48.8465,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>💊 Pharmacie（薬局）</name>
+      <description><![CDATA[緑の十字マークが目印。フランスの薬局は薬剤師が詳しく対応してくれる。夜間営業店もあり。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>2.34,48.862,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🇯🇵 在仏日本国大使館</name>
+      <description><![CDATA[パスポート紛失・緊急時の連絡先。7 Avenue Hoche, 75008 Paris｜+33-1-48-88-62-00
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>2.3106,48.8762,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🥐 Boulangerie（ブーランジェリー）</name>
+      <description><![CDATA[街角のパン屋。クロワッサン・バゲットが安くてうまい。子どもはパン・オ・ショコラが大好き。朝7時頃から開く。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>2.35,48.858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🥖 Marché d'Aligre（アリーグル市場）</name>
+      <description><![CDATA[地元パリジャンが日常使いする青空市場。新鮮野菜・チーズ・パンが揃う。子どもも試食させてもらえることも。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>2.3781,48.8497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 Monoprix（モノプリ）</name>
+      <description><![CDATA[パリ市内に多数展開するスーパー。おむつ・食品・日用品を一か所で揃えられる。観光地近くにも店舗あり。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>2.332,48.87,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🔭 Cité des Sciences（科学産業城）</name>
+      <description><![CDATA[ヨーロッパ最大の科学博物館。子ども専用ゾーン「Cité des Enfants」が大人気。30 Avenue Corentin Cariou, 75019
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>2.3872,48.8957,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🖼️ ルーヴル美術館</name>
+      <description><![CDATA[モナリザ・ミロのヴィーナスなど世界最大の美術館。18歳未満は無料。子ども向けワークショップあり。Rue de Rivoli, 75001
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>2.3376,48.8606,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🌳 Jardin du Luxembourg（リュクサンブール公園）</name>
+      <description><![CDATA[パリ中心部の大きな公園。ポニー乗り・メリーゴーランド・ヨットを浮かべる池。子どもの遊び場が充実。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>2.3372,48.8462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🎢 Parc Astérix（パルク・アステリックス）</name>
+      <description><![CDATA[フランス版テーマパーク。ガリア人の英雄アステリックスが主人公。ディズニーより空いていてコスパ良し。パリから車で30分。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>2.6114,49.1344,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>スウェーデン・ストックホルム</name>
+    <Placemark>
+      <name>💊 Apoteket（薬局）</name>
+      <description><![CDATA[スウェーデンの薬局チェーン。子ども用薬・おむつ・体温計など揃う。市内各所に展開。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>18.062,59.334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏥 Astrid Lindgrens Barnsjukhus（小児病院）</name>
+      <description><![CDATA[カロリンスカ大学病院内の小児専門病院。北欧最大規模。緊急：112。Solnavägen 1, 171 76 Solna
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>18.039,59.3525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🇯🇵 在スウェーデン日本国大使館</name>
+      <description><![CDATA[パスポート紛失・緊急時の連絡先。Gardesgatan 10, 115 27 Stockholm｜+46-8-579-351-00
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>18.084,59.3371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 ICA Supermarket</name>
+      <description><![CDATA[スウェーデン最大のスーパーチェーン。おむつ・食品・日用品が揃う。市内に多数展開。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>18.057,59.333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🧀 Östermalms Saluhall（食品市場）</name>
+      <description><![CDATA[1888年創業の歴史ある屋内食品市場。スモーブロー・サーモン・チーズを食べ歩き。観光にも最適。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>18.0764,59.3349,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛋️ IKEA（イケア）</name>
+      <description><![CDATA[スウェーデン発祥。子ども用品・日用品を安く調達できる。キッズコーナーで子どもを預けて買い物も可能。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>18.0152,59.2857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🌿 ユールゴーデン島（Djurgården）</name>
+      <description><![CDATA[緑豊かな島に博物館・遅園地が集結。スカンセン野外博物館・ヴァーサ号博物館・グレーナルン遅園地が一帯に。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>18.099,59.3269,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>⚓ ヴァーサ号博物館（Vasamuseet）</name>
+      <description><![CDATA[1628年に沈没した戦艦をそのまま展示。世界で最もよく保存された17世紀の船。子どもが目を輝かせる迫力。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>18.0914,59.328,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏰 ガムラスタン（旧市街）</name>
+      <description><![CDATA[中世の石畳が残る旧市街。カラフルな建物・王宮・アンティークショップが並ぶ。子連れでも歩きやすい。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>18.0716,59.3258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏘️ スカンセン野外博物館</name>
+      <description><![CDATA[世界初の野外博物館。昔のスウェーデンの街並みが再現され、動物園も併設。子どもが一日楽しめる。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>18.1036,59.3268,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>シンガポール</name>
+    <Placemark>
+      <name>💊 Guardian（ドラッグストア）</name>
+      <description><![CDATA[シンガポール最大手ドラッグストアチェーン。おむつ・ベビー用品・常備薬が揃う。モール内に多数展開。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>103.839,1.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏥 KK Women's and Children's Hospital</name>
+      <description><![CDATA[シンガポール最大の小児・産婦人科専門病院。24時間救急対応。100 Bukit Timah Rd, 229899
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>103.8466,1.3101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🇯🇵 在シンガポール日本国大使館</name>
+      <description><![CDATA[パスポート紛失・緊急時の連絡先。16 Nassim Road, Singapore 258390｜+65-6235-8855
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>103.8271,1.267,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 Cold Storage</name>
+      <description><![CDATA[輸入食品・オーガニック製品が充実したスーパー。日本食材も一部取り扱いあり。観光エリアのモール内にも。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>103.8327,1.304,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🍜 ホーカーセンター</name>
+      <description><![CDATA[シンガポール名物の屋外フードコート。チキンライス・ラクサ・チャーコイティオなど本場の味が安く食べられる。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>103.8448,1.2804,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 FairPrice（フェアプライス）</name>
+      <description><![CDATA[シンガポール最大のスーパーチェーン。おむつ・食品・日用品が安く揃う。MRT各駅近くに展開。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>103.852,1.293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🌴 ガーデンズ・バイ・ザ・ベイ</name>
+      <description><![CDATA[巨大スーパーツリーが並ぶ未来都市の庭園。夜のライトアップショーは無料。子どもが大興奮する景色。18 Marina Gardens Drive
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>103.8636,1.2816,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🦒 シンガポール動物園</name>
+      <description><![CDATA[世界トップクラスの動物園。オランウータンと朝食を一緒に食べるJungle Breakfastが人気。80 Mandai Lake Rd
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>103.793,1.4043,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🎢 ユニバーサル・スタジオ・シンガポール</name>
+      <description><![CDATA[アジアで2番目のUSJ。ハリウッド・ミニオン・ジュラシックパークなど人気エリア多数　8 Sentosa Gateway
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>103.8238,1.254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>♨️ センバワン温泉公園</name>
+      <description><![CDATA[シンガポール唯一の天然温泉公園。足湯で温泉卵が作れる！地元ファミリーに人気の穴場スポット。無料。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>103.82,1.4266,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>タイ・バンコク</name>
+    <Placemark>
+      <name>🇯🇵 在タイ日本国大使館</name>
+      <description><![CDATA[パスポート紛失・緊急時の連絡先。177 Witthayu Rd, Lumphini, Pathum Wan｜+66-2-207-8500
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>100.5466,13.738,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏥 バムルンラード病院</name>
+      <description><![CDATA[アジア屈指の国際病院。日本語対応スタッフあり。小児科・24時間救急対応。33 Sukhumvit 3, Wattana
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>100.5558,13.7445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>💊 Boots（ブーツ薬局）</name>
+      <description><![CDATA[バンコク市内に多数展開するイギリス系ドラッグストア。子ども用薬・おむつ・日焦け止めなど豊富。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>100.5339,13.7459,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏪 Family Mart / 7-ELEVEN</name>
+      <description><![CDATA[バンコクは世界一7-ELEVENが多い都市。おにぎり・サンドイッチ・飲み物が24時間調達可。ATMも完備。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>100.538,13.745,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🥭 OR TORKOR市場（オートーコー市場）</name>
+      <description><![CDATA[王室農場直営の高品質食材市場。マンゴー・ドリアン・カオニャオマムアンなど子どもが喜ぶフルーツ天国。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>100.5497,13.8009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 Tops Market</name>
+      <description><![CDATA[バンコク市内に多数展開するスーパー。輸入食品・オーガニック商品も揃う。日本食材の取り扱いあり。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>100.563,13.732,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛍️ チャトゥチャック週末市場</name>
+      <description><![CDATA[世界最大規模の週末マーケット。土日限、15,000店舗以上。子ども服・おもちゃも豊富。MRTカンペーンペット駅
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>100.5504,13.7999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏙️ アイコンサイアム（Icon Siam）</name>
+      <description><![CDATA[チャオプラヤー川沿いの巨大ショッピングモール。屋内水上マーケットが有名。フードコートも充実。子連れでも快適。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>100.5097,13.7262,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>👩‍⚕️ キッザニア・バンコク</name>
+      <description><![CDATA[【閉業】子どもが職業体験できる施設。パイロット・医者・料理人など100種類以上の仕事を体験できる。Siam Paragon内
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>100.5347,13.7462,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>フィリピン・マニラ</name>
+    <Placemark>
+      <name>🏥 マカティ医療センター</name>
+      <description><![CDATA[マカティ中心部の総合病院。小児科・救急対応。外国人旅行者の利用実績多数　2 Amorsolo St, Makati
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>121.0152,14.556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🇯🇵 在フィリピン日本国大使館</name>
+      <description><![CDATA[パスポート紛失・緊急時の連絡先　2627 Roxas Blvd, Pasay City｜+63-2-8551-5710
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>120.989,14.541,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>💊 Mercury Drug（薬局）</name>
+      <description><![CDATA[フィリピン最大の薬局チェーン。子ども用薬・おむつ・体温計が揃う。24時間営業店舗もあり。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>121.027,14.5645,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🍢 BGCストリートフード</name>
+      <description><![CDATA[ボニファシオ・グローバル・シティのフードトラックエリア。バーベキュー・イシアワン・ハロハロなど地元グルメが集結。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>121.0496,14.5514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 SM Supermarket</name>
+      <description><![CDATA[フィリピン最大のSMモール内のスーパー。おむつ・食品・日用品が揃う。SMモールはマニラ各地にあり。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>120.981,14.588,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🍔 Jollibee（ジョリビー）</name>
+      <description><![CDATA[フィリピンのマクドナルドと言われる国民的ファストフード。チキンジョイが子どもに大人気。どこにでもある安心感。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>121.019,14.554,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🎡 モールオブアジア（Mall of Asia）</name>
+      <description><![CDATA[アジア最大級のショッピングモール。海を望む観覧車・アイスリンク・映画館が子どもに人気。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>120.9827,14.535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏰 イントラムロス（Intramuros）</name>
+      <description><![CDATA[スペイン統治時代の石造りの城壁都市。カルサダに乗って散策できる。歴史と観光が両立する子連れスポット。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>120.975,14.5896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🐠 マニラ海洋公園</name>
+      <description><![CDATA[リサール公園隣接の水族館・テーマパーク。魚・サメ・海亀などを間近で観察できる。子どもが半日楽しめる。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>120.978,14.5721,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>アメリカ・ロサンゼルス</name>
+    <Placemark>
+      <name>🇯🇵 在ロサンゼルス日本国総領事館</name>
+      <description><![CDATA[パスポート紛失・緊急時の連絡先。350 S. Grand Ave. Suite 1700, Los Angeles｜+1-213-617-6700
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-118.2551,34.0534,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>💊 CVS Pharmacy</name>
+      <description><![CDATA[全米最大のドラッグストアチェーン。子ども用薬・おむつ・日用品が24時間購入可能。LA市内に多数展開。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-118.268,34.059,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏥 Cedars-Sinai Medical Center</name>
+      <description><![CDATA[全米トップクラスの病院。小児科・24時間救急対応。日本語通訳サービスあり　8700 Beverly Blvd, LA
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-118.38,34.0749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🍔 In-N-Out Burger</name>
+      <description><![CDATA[西海岸発のハンバーガーチェーン。シンプルで美味しく子どもも大好き。LA旅行のお約束スポット。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>-118.299,34.064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 Trader Joe's</name>
+      <description><![CDATA[おしゃれ系スーパー。プライベートブランドが豊富で安い。子ども向けスナック・オーガニック食品が充実。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>-118.283,34.058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🍱 Mitsuwa Marketplace（ミツワ）</name>
+      <description><![CDATA[LA最大の日系スーパー。日本食・おむつ・日用品が全部揃う。フードコートでラーメン・寿司も食べられる。Torrance店が有名。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>-118.3271,33.8316,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏰 ディズニーランド（アナハイム）</name>
+      <description><![CDATA[世界初のディズニーランド。LAから車で絀40分。スターウォーズのギャラクシーズエッジも人気　1313 Disneyland Dr, Anaheim
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-117.919,33.8121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🎡 サンタモニカビーチ★ピア</name>
+      <description><![CDATA[ルート66の終着点。ビーチで遊んだ後は桁橋の遅園地でコースターも。子どもが一日楽しめる定番スポット。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-118.497,34.0095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🔭 グリフィス天文台</name>
+      <description><![CDATA[LAの山の上にある天文台。市内を一望できる絶景スポット。入場無料。夕暮れ時の景色が最高　2800 E Observatory Rd
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-118.3004,34.1184,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>アメリカ・ハワイ</name>
+    <Placemark>
+      <name>🏥 カピオラニ小児科病院</name>
+      <description><![CDATA[ハワイで唯一の小児専門病院。日本語通訳サービスあり　1319 Punahou St, Honolulu｜(808) 983-6000
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-157.837,21.2939,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>💊 Longs Drugs（CVS）</name>
+      <description><![CDATA[ハワイではCVS僕下のLongsが主流。子ども用薬・おむつ・日焦け止めが揃う。アラモアナなど観光地近くにも。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-157.829,21.281,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🇯🇵 在ホノルル日本国総領事館</name>
+      <description><![CDATA[パスポート紛失・緊急時の連絡先　1742 Nuuanu Ave, Honolulu｜+1-808-543-3111
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>-157.859,21.31,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 Foodland（スーパー）</name>
+      <description><![CDATA[ハワイローカルのスーパーチェーン。ポキ・プレートランチなど現地グルメもイートインで食べられる。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>-157.827,21.277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🍙 DON DON DONKI（ドン・キホーテ）</name>
+      <description><![CDATA[日本食材・おにぎり・惣跃・日用品が揃うハワイっ子御用達。ワイキキから徒歩圈内で旅行者にも便利。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>-157.8407,21.289,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🌈 ワイオラシェイブアイス</name>
+      <description><![CDATA[ハワイ名物かき氷の老舗。フルーツシロップ・あずき・アイスクリームトッピングが絶品。子どもに超人気。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>-157.853,21.295,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🐙 ハワイ州立水族館（Waikiki Aquarium）</name>
+      <description><![CDATA[ワイキキビーチ沿いのコンパクトな水族館。ハワイ固有の海の生き物を間近で観察。ベビーカー対応　2777 Kalakaua Ave
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-157.8208,21.2655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏖️ カイルアビーチ</name>
+      <description><![CDATA[ハワイで最も美しいと言われるビーチのひとつ。波穏やかで子ども連れ安心。カヤックレンタルも人気。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-157.7262,21.3962,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🌋 ダイヤモンドヘッド</name>
+      <description><![CDATA[ワイキキのシンボル。山頂からの絶景パノラマ。往御1〜1.5時間。小学生なら登れる難易度。日焦け止め必須。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>-157.8057,21.2617,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>韓国・ソウル</name>
+    <Placemark>
+      <name>💊 올리브영（オリーブヤング）</name>
+      <description><![CDATA[韓国最大のドラッグストアチェーン。子ども用薬・日焦け止め・スキンケア用品が充実。市内に多数展開。
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>126.9368,37.5563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏥 ソウル大学病院小児科</name>
+      <description><![CDATA[韓国最高水準の総合病院。小児科・救急対応。101 Daehak-ro, Jongno-gu, Seoul｜緊急：119
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>126.9992,37.5799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🇯🇵 在韓国日本国大使館</name>
+      <description><![CDATA[パスポート紛失・緊急時の連絡先。Namsanguil-ro 22, Yongsan-gu, Seoul｜+82-2-2170-5200
+
+カテゴリ: いざという時
+確認: 2026年3月]]></description>
+      <styleUrl>#vital</styleUrl>
+      <Point>
+        <coordinates>126.9805,37.559,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🏪 CU / GS25（コンビニ）</name>
+      <description><![CDATA[韓国コンビニはレベルが高い。ホットク・トッポッキ・キムパが温かい状態で買える。深夜も安心。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>126.937,37.556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🛒 Emart（イーマート）</name>
+      <description><![CDATA[韓国最大のスーパーチェーン。おむつ・韓国食品・日用品が安く揃う。フードコートでキンパも食べられる。
+
+カテゴリ: 現地の日常へ
+確認: 2026年3月]]></description>
+      <styleUrl>#local</styleUrl>
+      <Point>
+        <coordinates>126.952,37.545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🥚 広蔵市場（クァンジャン市場）</name>
+      <description><![CDATA[ソウル最古の市場。ビビンバ・緑豆チジミ・キンパが安くて美味しい。子どもが喜ぶB級グルメの宝庫。
+
+カテゴリ: 親子で食べる
+確認: 2026年3月]]></description>
+      <styleUrl>#food</styleUrl>
+      <Point>
+        <coordinates>126.999,37.57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🐘 ソウル大公園（서울대공원）</name>
+      <description><![CDATA[動物園・遅園地・植物園が一か所に集まる大型公園。家族で一日楽しめる。地下鉄４号線・大公園駅から徒歩。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>127.0169,37.4278,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🎢 ロッテワールド</name>
+      <description><![CDATA[世界最大の屋内テーマパーク。室内なので雨でも楽しめる。乗り物・アイスショー・パレードが充実。蜒室駅直結。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>127.098,37.5111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>🎯 景福宮（キョンボックン）</name>
+      <description><![CDATA[朝鮮王朝の宮殿。韓服レンタルで無料入場できる。子どもと一緒に韓服を着ての写真が思い出に残る。
+
+カテゴリ: 遊びに行く
+確認: 2026年3月]]></description>
+      <styleUrl>#play</styleUrl>
+      <Point>
+        <coordinates>126.977,37.5796,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

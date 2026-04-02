@@ -2242,3 +2242,196 @@ small { font-size: 12px; }
   position: relative;
   z-index: 1;
 }
+
+/* ============================================================
+   Wamily ホストシステム — ホストカード & 募集カード
+   ============================================================ */
+
+/* --- ホストありカード（ロンドン・マニラ・ハワイ） --- */
+.host-card {
+  background: linear-gradient(135deg, #f0faf9 0%, #e6f7f5 100%);
+  border: 1.5px solid var(--teal-border);
+  border-radius: 20px;
+  padding: 32px 28px;
+  margin: 32px auto;
+  max-width: 640px;
+}
+
+.host-card-inner {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.host-card-icon {
+  font-size: 40px;
+  flex-shrink: 0;
+  line-height: 1;
+  padding-top: 4px;
+}
+
+.host-card-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--teal);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  padding: 4px 12px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+}
+
+.host-card-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  line-height: 1.75;
+}
+
+.host-card-desc {
+  font-size: 13px;
+  line-height: 1.95;
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+}
+
+.host-card-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--teal);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 12px 24px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.host-card-btn:hover {
+  background: #218f82;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(42, 157, 143, 0.28);
+}
+
+/* --- ホスト募集カード（その他7カ国） --- */
+.host-recruit-card {
+  background: linear-gradient(135deg, #fefdf5 0%, #fdf8e3 100%);
+  border: 1.5px dashed #c8a820;
+  border-radius: 20px;
+  padding: 32px 28px;
+  margin: 32px auto;
+  max-width: 640px;
+}
+
+.host-recruit-inner {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.host-recruit-icon {
+  font-size: 40px;
+  flex-shrink: 0;
+  line-height: 1;
+  padding-top: 4px;
+}
+
+.host-recruit-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: #fef3cd;
+  color: #7a5c00;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  padding: 4px 12px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+  border: 1px solid #e8d060;
+}
+
+.host-recruit-title {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  line-height: 1.75;
+}
+
+.host-recruit-desc {
+  font-size: 13px;
+  line-height: 1.95;
+  color: var(--text-secondary);
+  margin-bottom: 20px;
+}
+
+.host-card-quote {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 2;
+  color: var(--text-secondary);
+  border-left: 2px solid var(--teal-border);
+  padding: 10px 16px;
+  margin: 14px 0 20px;
+  background: rgba(42,157,143,0.04);
+  border-radius: 0 8px 8px 0;
+}
+
+.host-card-quote cite {
+  display: block;
+  font-style: normal;
+  font-size: 12px;
+  color: var(--text-hint);
+  margin-top: 8px;
+}
+
+.host-recruit-note {
+  font-size: 12px;
+  color: var(--text-hint);
+  line-height: 1.8;
+  margin-bottom: 16px;
+  padding-left: 10px;
+  border-left: 2px solid #e8d060;
+}
+
+.host-recruit-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  color: #7a5c00;
+  border: 1.5px solid #c8a820;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 12px 24px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.host-recruit-btn:hover {
+  background: #fef3cd;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(200, 168, 32, 0.2);
+}
+
+@media (max-width: 600px) {
+  .host-card-inner,
+  .host-recruit-inner { flex-direction: column; gap: 12px; }
+  .host-card-icon,
+  .host-recruit-icon { font-size: 32px; }
+  .host-card,
+  .host-recruit-card { padding: 24px 20px; }
+  .host-card-title,
+  .host-recruit-title { font-size: 16px; }
+}
