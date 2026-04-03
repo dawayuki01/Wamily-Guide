@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・チューリップ・フェスティバル",
-      "description": "ガーデンズ・バイ・ザ・ベイで開催される春の花祭り。色とりどりのチューリップが咲き誇り、親子で季節の花々を楽しめます。園内の遊び場も利用可。",
-      "date": "4月上旬〜中旬（2026年予定）",
+      "title": "Singapore Garden Festival 2026",
+      "description": "シンガポール最大のガーデンイベント。園芸展示、花の装飾、子ども向けワークショップ、遊び場などが充実。春の花々が美しく、家族連れに人気です。",
+      "date": "4月上旬〜中旬",
       "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "イースター・ファミリー・セレブレーション",
-      "description": "シンガポール動物園やセントーサ島などでイースターエッグハント、キャラクター出演、ワークショップが開催。子どもたちの笑顔があふれるイベント。",
-      "date": "4月上旬〜中旬（2026年予定）",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826 他複数会場",
-      "link": "https://www.mandai.sg",
-      "free": false
-    },
-    {
-      "title": "East Coast Park でのファミリー・アウトドア・アクティビティ",
-      "description": "広大なビーチパークで、サイクリング、カイトボーディング、BBQ設備が無料で利用可。家族でアクティブに過ごせます。",
-      "date": "4月上旬〜下旬（通年開放）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
+      "title": "East Coast Park での家族向けウォーターアクティビティ",
+      "description": "シンガポール最大の海浜公園。砂浜での水遊び、サイクリング、ピクニックが無料で楽しめます。4月は天気も良く、家族連れに最適な屋外アクティビティスポットです。",
+      "date": "4月中旬〜下旬",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449855",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "シンガポール・ナショナル・デー・ファン・ボックス準備期間のアクティビティ",
-      "description": "図書館やコミュニティセンターで無料のファミリー工作ワークショップが開催。シンガポール文化を学びながら手工芸を楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "National Library Board Singapore, 100 Victoria Street, Singapore 188064 他",
-      "link": "https://www.nlb.gov.sg",
+      "title": "Chingay Parade（4月に向けた準備イベント）",
+      "description": "多文化祭典に関連したコミュニティイベント。伝統的な山車制作ワークショップ、文化体験、キッズ向けアクティビティが無料で開催されます。",
+      "date": "4月中旬",
+      "place": "Various locations across Singapore (主にシンガポール各地のコミュニティセンター)",
+      "link": "https://www.chingay.com.sg",
       "free": true
     },
     {
-      "title": "S.E.A.水族館の春季スペシャル・プログラム",
-      "description": "セントーサ島の大型水族館で、イースターテーマのスキューバ体験やタッチプール、キッズワークショップ開催。海の生き物たちと触れ合える。",
-      "date": "4月上旬〜中旬",
-      "place": "S.E.A. Aquarium, 8 Sentosa Gateway, Singapore 098269",
-      "link": "https://www.rwsentosa.com/attractions/sea-aquarium",
+      "title": "Singapore Zoo の春季特別プログラム",
+      "description": "動物園の季節限定プログラム。キッズ向けの動物ふれあいタイム、ガイド付きツアー、教育ワークショップなど。乳幼児から小学生まで楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.com.sg",
+      "free": false
+    },
+    {
+      "title": "Science Centre Singapore の季節展示・ワークショップ",
+      "description": "科学館の春季特別展示と子ども向けSTEMワークショップ。インタラクティブ展示、実験コーナー、プラネタリウムが人気です。4月は学校休暇時期で混雑。",
+      "date": "4月上旬〜下旬",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-02T05:51:14.685Z"
+  "updatedAt": "2026-04-03T05:51:25.965Z"
 }

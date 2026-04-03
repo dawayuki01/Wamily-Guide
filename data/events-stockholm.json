@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップフェスティバル（Stockholms Tulipfestival）",
-      "description": "ストックホルムの公園や広場に色鮮やかなチューリップが咲き誇る春の祭り。子どもたちが花々を楽しみながら散策できます。",
+      "title": "チューリップシーズン at スウェーデン王立公園",
+      "description": "4月のストックホルムは春の花が満開。王立公園ではチューリップ、サクラ、ヒヤシンスが咲き乱れ、子どもたちが自然の中で遊べる絶好の季節です。ピクニックに最適。",
+      "date": "4月上旬〜中旬",
+      "place": "Drottningholms Slottsteater, Drottningholm Palace Gardens, Stockholm",
+      "link": "https://www.kkh.se",
+      "free": true
+    },
+    {
+      "title": "イースター・イベント at Junibacken",
+      "description": "ストックホルムの子ども向け博物館では4月にイースター特別プログラムを開催。卵探しゲーム、工作、物語の世界への冒険など、乳幼児から小学生まで楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "Junibacken, Galärvarvsvägen 14, 100 41 Stockholm",
+      "link": "https://www.junibacken.se",
+      "free": false
+    },
+    {
+      "title": "アーランダ・スカイ・シャトルでの空中散歩体験",
+      "description": "ストックホルムの空を臨むロープウェイ。4月の美しい春景色の中、子どもたちが都市全体を眺める貴重な体験ができます。天気が良い日がおすすめです。",
+      "date": "4月全般",
+      "place": "Arlanda Sky, Stockholm Arlanda Airport",
+      "link": "https://www.arlandasky.com",
+      "free": false
+    },
+    {
+      "title": "オープン・エアー・マーケット & ストリート・フェスティバル",
+      "description": "春の到来を祝うストックホルムの各地でマーケットが開催。Gamla Stan旧市街では地元の工芸品、食べ物の露店が並び、家族向けの無料イベントも多数。",
       "date": "4月中旬〜下旬",
-      "place": "Kungsträdgården（王立庭園）、ストックホルム中心部",
-      "link": "https://www.stockholmsinfocenter.se/",
+      "place": "Gamla Stan, Old Town Stockholm",
+      "link": "https://www.stockholmtown.com",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の春イベント",
-      "description": "北欧の伝統的な建築物や動物園が集まる施設で、春の特別プログラム。子ども向けの動物との触れ合いやワークショップが開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
-      "free": false
-    },
-    {
-      "title": "ジュルゴーデン島の春散策と野外アクティビティ",
-      "description": "ストックホルムの緑豊かな島で、春の自然を満喫。遊具のある公園、野外カフェ、美術館など家族向けスポットが充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.djurgarden.se/",
-      "free": true
-    },
-    {
-      "title": "ノーベル博物館の子ども向けプログラム",
-      "description": "ノーベル賞の歴史を学べる博物館。春期間中は子ども向けの特別ガイドツアーやインタラクティブな展示があります。",
-      "date": "4月上旬〜下旬",
-      "place": "Nobelmuseet, Stortorget 2, 111 29 Stockholm",
-      "link": "https://www.nobelprize.org/about/the-nobel-museum/",
-      "free": false
-    },
-    {
-      "title": "ストックホルム動物園（Stockholms Zoo）での春シーズン",
-      "description": "動物たちが活発に動く春の季節。新しく生まれた子動物たちが見られることもあり、子どもたちに人気です。",
-      "date": "4月上旬〜下旬",
-      "place": "Skansen Zoo, Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/en/zoo",
+      "title": "Skansen野外博物館のスプリング・プログラム",
+      "description": "北欧最大の野外民俗博物館で、春のプログラムが展開。動物たちの赤ちゃん誕生、伝統文化体験ワークショップなど、子どもたちが自然と文化を学べます。",
+      "date": "4月全般",
+      "place": "Skansen, Djurgården, 100 82 Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-02T05:51:05.667Z"
+  "updatedAt": "2026-04-03T05:51:18.675Z"
 }
