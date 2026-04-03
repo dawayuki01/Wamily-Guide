@@ -1,58 +1,52 @@
 /* ============================================================
-   Wamily — トップページ CSS（TATEYA-inspired）
+   Wamily — トップページ CSS（大幅リデザイン 2026-04）
+   コンセプト・ガイドブック・つながるページのT&Mに統一
    ============================================================ */
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{font-size:14px;scroll-behavior:smooth}
-body{font-family:'Noto Serif JP',serif;background:var(--cream);color:var(--dark);line-height:1.8;font-weight:300;overflow-x:hidden}
+body{
+  font-family:'Noto Serif JP',serif;
+  background:var(--cream);color:var(--dark);
+  line-height:1.8;font-weight:300;overflow-x:hidden;
+}
 a{color:inherit;text-decoration:none}
 img{max-width:100%;display:block}
 
 :root{
-  --cream:#f5f1ea;--cream-d:#f0ebe0;--white:#fff;
+  --cream:#f5f1ea;--cream-d:#ede8de;--white:#fff;
+  --dark:#221c14;--dark2:#1a1410;--dark-forest:#1a3530;
   --teal:#2a9d8f;--teal-lt:#d0f0ec;
   --mustard:#c8a820;--mustard-lt:#fef8d8;
-  --dark:#221c14;--muted:#9a8868;--hint:#b8b0a0;
+  --muted:#9a8868;--hint:#b8b0a0;
   --border:#e4dcd0;
 }
 
 /* ============================================================
-   ナビ（2状態）
+   ナビ（コンセプトページと統一デザイン）
    ============================================================ */
 .gnav{
-  position:fixed;top:0;left:0;right:0;z-index:100;
-  display:flex;align-items:flex-start;justify-content:space-between;
-  padding:28px 40px 0;
+  position:fixed;top:0;left:0;right:0;z-index:200;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:0 40px;height:60px;
+  background:transparent;
+  transition:background .4s,border-color .4s;
   pointer-events:none;
-  transition:all .4s ease;
 }
 .gnav.scrolled{
-  padding:0 40px;
-  background:rgba(255,255,255,.92);
+  background:rgba(255,255,255,.94);
   backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
   border-bottom:1px solid var(--border);
-  align-items:center;
-  height:60px;
 }
-
-/* ロゴ */
 .gnav-logo{
-  font-size:28px;font-weight:500;color:var(--dark);
-  pointer-events:all;transition:font-size .3s;
+  font-size:20px;font-weight:500;color:var(--dark);
+  pointer-events:all;transition:color .4s;
 }
-.gnav-logo-w{color:var(--teal);font-style:normal}
-.gnav.scrolled .gnav-logo{font-size:20px}
-
-/* リンク（中央） */
+.gnav-logo-w{color:var(--teal)}
 .gnav-links{
   display:flex;align-items:center;gap:8px;
   pointer-events:all;
-  padding:10px 20px;
-  transition:all .3s;
 }
-.gnav-dot{
-  width:8px;height:8px;border-radius:50%;flex-shrink:0;
-  display:inline-block;
-}
+.gnav-dot{width:8px;height:8px;border-radius:50%;display:inline-block;flex-shrink:0}
 .gnav-links a{
   font-size:13px;font-weight:400;color:var(--dark);
   padding:6px 16px;border-radius:999px;
@@ -60,350 +54,394 @@ img{max-width:100%;display:block}
   transition:background .2s,color .2s;
 }
 .gnav-links a:hover{background:rgba(42,157,143,.08);color:var(--teal)}
-.gnav.scrolled .gnav-links{padding:0}
-.gnav.scrolled .gnav-dot{display:none}
-
-/* 丸CTAボタン（右上） */
-.gnav-ctas{
-  display:flex;flex-direction:column;gap:10px;
-  pointer-events:all;
-  transition:all .3s;
+.gnav.scrolled .gnav-links a{color:var(--dark)}
+.gnav-ctas{display:flex;gap:8px;pointer-events:all}
+.gnav-pill{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:8px 20px;border-radius:999px;
+  font-size:11px;font-weight:400;letter-spacing:.04em;white-space:nowrap;
+  transition:transform .15s,opacity .4s;
 }
-.gnav-circle{
-  width:68px;height:68px;border-radius:50%;
-  display:flex;align-items:center;justify-content:center;
-  text-align:center;font-size:10px;font-weight:400;
-  letter-spacing:.04em;line-height:1.4;
-  background:var(--white);border:1.5px solid var(--border);
-  color:var(--dark);
-  transition:transform .2s,background .2s;
-  box-shadow:0 2px 12px rgba(0,0,0,.06);
-}
-.gnav-circle:hover{transform:translateY(-2px)}
-.gnav-circle.accent{background:var(--teal);border-color:var(--teal);color:#fff}
-.gnav-circle.accent:hover{background:#228e81}
-
-.gnav.scrolled .gnav-ctas{flex-direction:row;gap:8px}
-.gnav.scrolled .gnav-circle{
-  width:auto;height:36px;border-radius:999px;
-  padding:0 16px;font-size:11px;
+.gnav-pill:hover{transform:translateY(-1px)}
+.gnav-pill.teal{background:var(--teal);color:#fff}
+.gnav-pill.outline{
+  background:var(--white);color:var(--dark);
+  border:1px solid var(--border);
 }
 
 /* ============================================================
-   セクション① ヒーロー
+   HERO
    ============================================================ */
 .sec-hero{
-  position:relative;min-height:100vh;
+  position:relative;
+  height:100svh;height:100vh;
   background:var(--cream);
   display:flex;flex-direction:column;
-  align-items:center;justify-content:flex-start;
-  padding:120px 24px 80px;
+  align-items:center;justify-content:center;
+  padding:0 24px 120px;
   overflow:hidden;
+  flex-shrink:0;
 }
 
-/* ゴールドドット */
-.gold-dots{position:absolute;inset:0;pointer-events:none;z-index:1}
-.gold-dots i{
-  position:absolute;border-radius:50%;background:var(--mustard);
-  display:block;
-}
-
-/* 弧コピー */
-.hero-arc-wrap{position:relative;z-index:5;text-align:center;margin-bottom:0}
-.hero-arc-svg{width:min(92vw,860px);height:auto;overflow:visible}
-.hero-arc-text{
-  font-family:'Noto Serif JP',serif;font-size:76px;font-weight:300;
-  fill:var(--dark);letter-spacing:.06em;
-}
-.hero-arc-period{
-  font-family:'Noto Serif JP',serif;font-size:76px;font-weight:300;
-  fill:var(--teal);letter-spacing:.06em;
-}
-.hero-en{
-  font-size:13px;letter-spacing:.28em;color:var(--teal);
-  font-weight:400;margin-top:8px;
-}
-.hero-sub{
-  font-size:15px;color:var(--muted);letter-spacing:.1em;
-  margin-top:6px;
-}
-
-/* 地球イラスト（高品質img） */
-.hero-globe-wrap{
-  position:relative;z-index:3;
-  width:min(68vw,520px);
-  margin:-20px auto 0;
-  transform:rotate(-8deg);
-}
+/* 地球儀 */
 .hero-globe{
-  width:100%;height:auto;
-  filter:drop-shadow(0 12px 40px rgba(0,0,0,.08));
-  animation:gentleSpin 120s linear infinite;
+  position:absolute;
+  width:min(70vw,760px);
+  top:50%;left:50%;
+  transform:translate(-50%,-50%);
+  opacity:.22;
+  animation:globeSpin 90s linear infinite;
+  pointer-events:none;z-index:1;
 }
-.hero-globe-pins{
-  position:absolute;inset:0;
-  width:100%;height:100%;
-  pointer-events:none;
-}
-@keyframes gentleSpin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+.hero-globe img{width:100%;height:auto}
+@keyframes globeSpin{from{transform:translate(-50%,-55%) rotate(0)}to{transform:translate(-50%,-55%) rotate(360deg)}}
 
 /* 浮遊イラスト */
-.hero-floats{position:absolute;inset:0;z-index:4;pointer-events:none;overflow:hidden}
+.hero-floats{position:absolute;inset:0;z-index:2;pointer-events:none}
 .hf{position:absolute;display:block}
 
-.hf-plane1{top:10%;left:4%;animation:hFloat 8s ease-in-out infinite}
-.hf-plane2{bottom:12%;right:3%;animation:hFloat 10s ease-in-out 2s infinite reverse}
-.hf-star1{top:16%;right:16%;animation:hFloat 6s ease-in-out 1s infinite}
-.hf-star2{top:38%;left:10%;animation:hFloat 9s ease-in-out 3s infinite}
-.hf-star3{bottom:26%;right:26%;animation:hFloat 7s ease-in-out .5s infinite reverse}
-.hf-star4{bottom:16%;left:30%;animation:hFloat 11s ease-in-out 4s infinite}
-.hf-bus{top:20%;left:18%;animation:hFloat 12s ease-in-out 1.5s infinite}
-.hf-eiffel{top:28%;right:8%;animation:hFloat 10s ease-in-out 2.5s infinite}
-.hf-boba{bottom:20%;right:14%;animation:hFloat 9s ease-in-out .8s infinite reverse}
-.hf-tuktuk{bottom:28%;left:5%;animation:hFloat 11s ease-in-out 3.5s infinite}
-.hf-kimchi{top:48%;right:4%;animation:hFloat 8s ease-in-out 1.2s infinite reverse}
+.hf-plane{width:88px;top:10%;right:8%;animation:hFloatPlane 8s ease-in-out infinite}
+.hf-star1{width:42px;top:16%;left:10%;animation:hFloat 7s ease-in-out 1s infinite}
+.hf-star2{width:32px;top:12%;right:26%;animation:hFloat 9s ease-in-out 3s infinite reverse}
+.hf-bus{width:64px;top:28%;left:3%;animation:hFloat 12s ease-in-out 2s infinite}
+.hf-eiffel{width:52px;top:8%;left:24%;animation:hFloat 10s ease-in-out .5s infinite}
+.hf-suitcase{width:50px;top:16%;right:2%;animation:hFloat 11s ease-in-out 4s infinite}
+.hf-balloon1{width:42px;top:12%;right:18%;animation:hFloat 9s ease-in-out 1.5s infinite}
+.hf-balloon2{width:38px;top:42%;left:8%;animation:hFloat 8s ease-in-out 3.5s infinite reverse}
+.hf-castle{width:56px;top:34%;left:1%;animation:hFloat 10s ease-in-out 2.5s infinite}
+.hf-drink{width:38px;top:6%;left:38%;animation:hFloat 7s ease-in-out .8s infinite reverse}
 
 @keyframes hFloat{
-  0%,100%{transform:translateY(0) rotate(0deg)}
-  33%{transform:translateY(-14px) rotate(3deg)}
-  66%{transform:translateY(-6px) rotate(-2deg)}
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-16px)}
+}
+/* scaleX -1 for plane */
+.hf-plane{animation:hFloatPlane 8s ease-in-out infinite}
+@keyframes hFloatPlane{
+  0%,100%{transform:scaleX(-1) translateY(0)}
+  50%{transform:scaleX(-1) translateY(-16px)}
+}
+
+/* コピー */
+.hero-copy{
+  position:relative;z-index:5;
+  text-align:center;
+}
+.hero-en{
+  font-size:11px;letter-spacing:.24em;color:var(--teal);
+  text-transform:uppercase;font-weight:400;
+  margin-bottom:20px;
+  opacity:0;animation:fadeUp .8s ease-out .2s forwards;
+}
+.hero-title{
+  font-size:clamp(36px,7vw,76px);
+  font-weight:300;color:var(--dark);
+  letter-spacing:.06em;line-height:1.4;
+  opacity:0;animation:fadeUp .9s ease-out .4s forwards;
+}
+.hero-title-line{display:block}
+.period{color:var(--teal)}
+.hero-sub{
+  font-size:clamp(13px,1.6vw,16px);
+  color:var(--muted);letter-spacing:.1em;
+  margin-top:16px;font-weight:300;
+  opacity:0;animation:fadeUp .9s ease-out .65s forwards;
+}
+
+/* 家族行進イラスト */
+.hero-parade{
+  position:absolute;bottom:44px;left:0;right:0;
+  z-index:3;
+  display:flex;align-items:flex-end;justify-content:center;
+  gap:clamp(4px,1.2vw,14px);
+  max-width:1000px;
+  margin:0 auto;
+  padding:0 24px;
+  opacity:0;animation:fadeIn 1s ease-out .9s forwards;
+}
+.parade-person{
+  height:clamp(60px,9vw,100px);
+  width:auto;flex-shrink:0;
+  max-width:80px;
+  filter:drop-shadow(0 4px 12px rgba(0,0,0,.06));
 }
 
 /* スクロールヒント */
 .hero-scroll{
-  position:absolute;bottom:28px;left:50%;transform:translateX(-50%);
+  position:absolute;bottom:20px;left:50%;transform:translateX(-50%);
   display:flex;flex-direction:column;align-items:center;gap:8px;z-index:5;
+  opacity:0;animation:fadeIn 1s ease-out 1.4s forwards;
 }
 .hero-scroll-line{
-  width:1px;height:52px;background:var(--hint);
-  animation:scrollPulse 2s ease-in-out infinite;
+  width:1px;height:44px;background:var(--hint);
+  position:relative;overflow:hidden;
 }
-@keyframes scrollPulse{0%,100%{opacity:.3;transform:scaleY(1)}50%{opacity:.8;transform:scaleY(1.1)}}
-.hero-scroll-txt{font-size:10px;letter-spacing:.22em;color:var(--hint);text-transform:uppercase}
+.hero-scroll-line::after{
+  content:'';position:absolute;top:-100%;left:0;
+  width:100%;height:100%;background:var(--teal);
+  animation:scrollLine 2s ease-in-out 2s infinite;
+}
+.hero-scroll span{font-size:9px;letter-spacing:.2em;color:var(--hint);text-transform:uppercase}
 
 /* ============================================================
-   セクション② Welcome
+   ABOUT
    ============================================================ */
-.sec-welcome{
-  position:relative;
-  min-height:80vh;
-  display:flex;flex-direction:column;
-  align-items:center;justify-content:center;
-  background:var(--cream);
-  padding:120px 24px;overflow:hidden;
-}
-.welcome-circle-wrap{
-  position:absolute;
-  width:min(90vw,520px);height:min(90vw,520px);
-  animation:welcomeSpin 30s linear infinite;
-}
-.welcome-circle-svg{width:100%;height:100%}
-.welcome-circle-text{
-  font-size:14px;letter-spacing:.3em;
-  fill:var(--border);font-weight:400;
-  text-transform:uppercase;
-}
-@keyframes welcomeSpin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
-
-.welcome-logo{
-  position:relative;z-index:2;
-  font-size:72px;font-weight:500;color:var(--dark);
-  letter-spacing:.04em;
-}
-.welcome-logo-w{color:var(--teal);font-style:normal}
-.welcome-tagline{
-  position:relative;z-index:2;
-  font-size:14px;color:var(--muted);letter-spacing:.12em;
-  margin-top:12px;
-}
-
-/* ============================================================
-   セクション③ コンセプトテキスト
-   ============================================================ */
-.sec-concept{
+.sec-about{
   background:var(--white);
-  padding:160px 24px 80px;
+  padding:clamp(80px,12vw,160px) 24px;
 }
-.concept-inner{
-  max-width:760px;margin:0 auto;text-align:center;
+.about-inner{
+  max-width:720px;margin:0 auto;text-align:center;
 }
-.concept-text{
-  font-size:26px;font-weight:300;color:var(--dark);
-  line-height:2.2;letter-spacing:.06em;
+.about-en{
+  font-size:10px;letter-spacing:.22em;color:var(--teal);
+  text-transform:uppercase;font-weight:400;margin-bottom:20px;
 }
-.concept-mt{margin-top:56px}
-.concept-sig{
-  margin-top:56px;font-size:14px;color:var(--muted);
+.about-title{
+  font-size:clamp(26px,4.5vw,44px);
+  font-weight:300;color:var(--dark);
+  letter-spacing:.06em;line-height:1.6;
+  margin-bottom:36px;
+}
+.about-body{
+  font-size:clamp(14px,1.4vw,16px);
+  line-height:2.2;color:#3a322a;
+  font-weight:300;letter-spacing:.04em;
+}
+.about-body+.about-body{margin-top:24px}
+.about-sig{
+  margin-top:40px;font-size:13px;color:var(--muted);
   letter-spacing:.08em;
 }
-
-/* パノラマ */
-.concept-panorama{
-  margin-top:80px;overflow:hidden;
+.about-link{
+  display:inline-block;margin-top:28px;
+  font-size:13px;color:var(--teal);letter-spacing:.06em;
+  padding:10px 0;
+  border-bottom:1px solid rgba(42,157,143,.3);
+  transition:border-color .2s;
 }
-.panorama-svg{
-  width:100%;height:auto;max-height:180px;
-}
+.about-link:hover{border-color:var(--teal)}
 
 /* ============================================================
-   セクション④ フルスクリーン写真
+   GALLERY — 各国の写真グリッド
    ============================================================ */
-.sec-photo{
-  padding:0 40px;
+.sec-gallery{
+  padding:clamp(40px,6vw,80px) clamp(16px,3vw,40px);
+  background:var(--cream);
 }
-.photo-frame{
-  width:100%;overflow:hidden;
-  border-radius:24px 24px 0 0;
+.gallery-duo{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:16px;
+  max-width:1100px;margin:0 auto;
 }
-.photo-frame img{
-  width:100%;height:80vh;
-  object-fit:cover;object-position:center 60%;
+.gallery-item{
+  position:relative;overflow:hidden;
+  border-radius:14px;
+}
+.gallery-item--hero{height:340px}
+.gallery-item--wide{grid-column:span 2}
+.gallery-item img{
+  width:100%;height:100%;
+  object-fit:cover;
+  transition:transform .6s ease;
+}
+.gallery-item:hover img{transform:scale(1.04)}
+.gallery-loc{
+  position:absolute;bottom:12px;left:16px;
+  font-size:11px;letter-spacing:.1em;
+  color:rgba(255,255,255,.75);font-weight:300;
+  background:rgba(0,0,0,.25);
+  padding:4px 12px;border-radius:999px;
+  backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);
 }
 
 /* ============================================================
-   セクション⑤ ガイドブック
+   GUIDEBOOK
    ============================================================ */
 .sec-guide{
   background:var(--cream);
-  padding:120px 0 80px;
+  padding:clamp(80px,12vw,140px) 24px clamp(60px,8vw,100px);
 }
-.guide-header{
-  text-align:center;padding:0 24px 48px;
+.guide-header{text-align:center;margin-bottom:48px}
+.sec-label-en{
+  font-size:10px;letter-spacing:.22em;color:var(--teal);
+  text-transform:uppercase;font-weight:400;margin-bottom:16px;
 }
-.sec-big-label{
-  font-size:clamp(48px,8vw,96px);
-  font-weight:500;color:var(--teal);
-  letter-spacing:.04em;opacity:.15;
-  line-height:1;margin-bottom:-8px;
+.sec-title{
+  font-size:clamp(28px,5vw,48px);
+  font-weight:300;color:var(--dark);
+  letter-spacing:.08em;line-height:1.4;
+  margin-bottom:16px;
 }
-.sec-jp-label{
-  font-size:28px;font-weight:300;color:var(--dark);
-  letter-spacing:.08em;margin-bottom:16px;
-}
-.sec-sub{
+.sec-desc{
   font-size:14px;color:var(--muted);line-height:2;
 }
-.guide-map-wrap{
-  position:relative;max-width:1100px;margin:0 auto;padding:0 24px;
+
+/* 世界地図 */
+.guide-map{
+  position:relative;max-width:960px;margin:0 auto 40px;
 }
-.guide-map-bg{
-  display:block;width:100%;height:auto;
+.guide-map-img{
+  width:100%;height:auto;
   border-radius:16px;
-  box-shadow:0 4px 24px rgba(0,0,0,.06);
-}
-.guide-map-svg{
-  position:absolute;inset:0;
-  width:100%;height:100%;
-  border-radius:16px;
+  background:var(--white);
+  padding:32px;
+  border:1px solid var(--border);
 }
 
-/* ピンアニメ */
-.map-pin .mp-d{
-  opacity:0;transform-box:fill-box;transform-origin:center;
-  animation:mpIn .5s cubic-bezier(.34,1.56,.64,1) var(--d,0s) both;
-}
-.map-pin .mp-r{
-  opacity:0;
-  animation:mpRIn .5s ease-out var(--d,0s) forwards,
-            mpPulse 2.5s ease-in-out calc(var(--d,0s)+.5s) infinite;
-}
-@keyframes mpIn{0%{opacity:0;transform:scale(0)}100%{opacity:1;transform:scale(1)}}
-@keyframes mpRIn{0%{opacity:0}100%{opacity:.5}}
-@keyframes mpPulse{0%,100%{opacity:.5}50%{opacity:.15}}
-.map-pin:hover .mp-d{filter:brightness(1.2)}
-
-/* ツールチップ */
-.mtt{
-  position:absolute;background:var(--dark);color:#fff;
-  padding:6px 14px 7px;border-radius:8px;font-size:12px;
-  white-space:nowrap;pointer-events:none;
-  opacity:0;transform:translateX(-50%) translateY(-4px);
-  transition:opacity .15s,transform .15s;z-index:10;
-  display:flex;flex-direction:column;align-items:center;gap:2px;
-}
-.mtt::after{
-  content:'';position:absolute;top:100%;left:50%;
-  transform:translateX(-50%);
-  border:5px solid transparent;border-top-color:var(--dark);
-}
-.mtt.show{opacity:1;transform:translateX(-50%) translateY(0)}
-.mtt-name{font-weight:500;font-size:13px}
-.mtt-status{font-size:10px;letter-spacing:.04em}
-.mtt-status.ready{color:#7ad0c8}
-.mtt-status.wip{color:#e8d890}
-
-/* ガイドブックCTA */
-.guide-cta{text-align:center;padding:36px 24px 0}
-.guide-cta-btn{
-  display:inline-block;
-  background:var(--teal);color:#fff;
-  border-radius:999px;padding:14px 36px;
-  font-size:14px;font-weight:500;letter-spacing:.04em;
-  transition:background .2s,transform .15s;
-}
-.guide-cta-btn:hover{background:#228e81;transform:translateY(-2px)}
-
-/* ============================================================
-   セクション⑥ コミュニティCTA
-   ============================================================ */
-.sec-community{
-  position:relative;
+/* ピン */
+.guide-pins{position:absolute;inset:0;pointer-events:none}
+.gpin{
+  position:absolute;
+  width:12px;height:12px;
+  border-radius:50%;
   background:var(--teal);
-  padding:100px 24px 120px;
-  margin-top:-2px;
+  transform:translate(-50%,-50%);
+  box-shadow:0 0 0 4px rgba(42,157,143,.25);
+  animation:pinPulse 2.5s ease-in-out infinite;
 }
-.wave-top{
-  position:absolute;top:-78px;left:0;right:0;
-  height:80px;overflow:hidden;
+.gpin::after{
+  content:attr(data-name);
+  position:absolute;bottom:calc(100% + 8px);left:50%;
+  transform:translateX(-50%);
+  font-size:10px;letter-spacing:.06em;color:var(--dark);
+  white-space:nowrap;
+  background:rgba(255,255,255,.9);
+  padding:3px 10px;border-radius:999px;
+  opacity:0;transition:opacity .2s;
+  pointer-events:none;
+  box-shadow:0 2px 8px rgba(0,0,0,.1);
 }
-.wave-top svg{width:100%;height:100%;display:block}
+.gpin:hover::after{opacity:1}
+@keyframes pinPulse{
+  0%,100%{box-shadow:0 0 0 4px rgba(42,157,143,.25)}
+  50%{box-shadow:0 0 0 8px rgba(42,157,143,.08)}
+}
 
-.community-inner{
-  max-width:720px;margin:0 auto;text-align:center;
+/* 飛行機 */
+.guide-plane{
+  position:absolute;
+  width:40px;
+  top:28%;right:30%;
+  transform:rotate(-20deg);
+  animation:planeFly 6s ease-in-out infinite;
+  pointer-events:none;
 }
-.community-en{
-  font-size:13px;letter-spacing:.25em;color:rgba(255,255,255,.5);
-  margin-bottom:24px;text-transform:uppercase;
+@keyframes planeFly{
+  0%,100%{transform:rotate(-20deg) translate(0,0)}
+  50%{transform:rotate(-15deg) translate(10px,-10px)}
 }
-.community-title{
-  font-size:clamp(32px,5vw,52px);
-  font-weight:500;color:#fff;
-  letter-spacing:.06em;line-height:1.5;
-  margin-bottom:28px;
+
+/* 地図まわり装飾イラスト */
+.guide-floats{position:absolute;inset:0;pointer-events:none}
+.gf{position:absolute;display:block;opacity:.7}
+.gf-1{width:44px;top:-20px;left:8%;animation:hFloat 9s ease-in-out 0s infinite}
+.gf-2{width:40px;top:-16px;right:10%;animation:hFloat 11s ease-in-out 1s infinite}
+.gf-3{width:32px;bottom:-10px;left:15%;animation:hFloat 8s ease-in-out 2s infinite reverse}
+.gf-4{width:36px;bottom:-14px;right:12%;animation:hFloat 10s ease-in-out .5s infinite}
+.gf-5{width:28px;top:30%;left:-30px;animation:hFloat 9s ease-in-out 1.5s infinite}
+.gf-6{width:30px;top:40%;right:-28px;animation:hFloat 10s ease-in-out 3s infinite reverse}
+
+/* 地図まわり人イラスト */
+.gf-person1{width:70px;bottom:-8px;left:6%;opacity:.85;animation:gPersonBob 3.5s ease-in-out infinite}
+.gf-person2{width:60px;bottom:-8px;right:8%;opacity:.85;animation:gPersonBob 4s ease-in-out .8s infinite}
+.gf-person3{width:55px;bottom:-8px;right:28%;opacity:.85;animation:gPersonBob 3.8s ease-in-out 1.5s infinite}
+@keyframes gPersonBob{
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-6px)}
 }
-.period-mustard{color:var(--mustard)}
-.community-body{
-  font-size:16px;color:rgba(255,255,255,.8);
-  line-height:2.2;margin-bottom:40px;
-}
-.community-btn{
-  display:inline-block;
-  background:#fff;color:var(--teal);
-  border-radius:999px;padding:14px 36px;
-  font-size:14px;font-weight:500;
-  transition:transform .15s,box-shadow .2s;
-}
-.community-btn:hover{transform:translateY(-2px);box-shadow:0 4px 20px rgba(0,0,0,.12)}
+
+.guide-cta{text-align:center}
 
 /* ============================================================
-   セクション⑦ 最近の動き
+   FEATURES
+   ============================================================ */
+.sec-features{
+  position:relative;
+  background:var(--white);
+  padding:clamp(60px,8vw,100px) 24px;
+  overflow:hidden;
+}
+.features-inner{
+  max-width:960px;margin:0 auto;
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:28px;
+}
+.feature-card{
+  text-align:center;
+  padding:36px 20px;
+  border:1px solid var(--border);
+  border-radius:16px;
+  background:var(--cream);
+  transition:transform .2s,box-shadow .2s;
+}
+.feature-card:hover{transform:translateY(-4px);box-shadow:0 8px 28px rgba(0,0,0,.06)}
+.feature-icon{
+  width:56px;height:56px;
+  object-fit:contain;
+  margin:0 auto 20px;
+}
+.feature-card h3{
+  font-size:15px;font-weight:400;
+  color:var(--dark);letter-spacing:.04em;
+  margin-bottom:12px;line-height:1.6;
+}
+.feature-card p{
+  font-size:13px;color:var(--muted);
+  line-height:1.9;font-weight:300;
+}
+
+/* ============================================================
+   CONNECT CTA
+   ============================================================ */
+.sec-connect{
+  position:relative;
+  background:var(--dark-forest);
+  padding:clamp(80px,12vw,140px) 24px;
+  overflow:hidden;
+}
+.connect-inner{
+  max-width:720px;margin:0 auto;text-align:center;
+  position:relative;z-index:2;
+}
+.connect-en{
+  font-size:10px;letter-spacing:.22em;
+  color:rgba(255,255,255,.4);
+  text-transform:uppercase;font-weight:400;margin-bottom:20px;
+}
+.connect-title{
+  font-size:clamp(26px,4.5vw,48px);
+  font-weight:300;color:#fff;
+  letter-spacing:.06em;line-height:1.5;
+  margin-bottom:24px;
+}
+.period-w{color:var(--mustard)}
+.connect-body{
+  font-size:clamp(14px,1.5vw,16px);
+  color:rgba(255,255,255,.6);
+  line-height:2;margin-bottom:36px;
+}
+.connect-illus{
+  position:absolute;z-index:1;
+  opacity:.85;pointer-events:none;
+}
+.connect-illus-l{width:180px;bottom:10%;left:4%}
+.connect-illus-r{width:160px;top:10%;right:4%}
+
+/* ============================================================
+   NEWS
    ============================================================ */
 .sec-news{
-  position:relative;
   background:var(--cream);
-  padding:100px 24px 120px;
+  padding:clamp(80px,10vw,120px) 24px;
 }
-.wave-bottom-teal{
-  position:absolute;top:-58px;left:0;right:0;
-  height:60px;overflow:hidden;
-}
-.wave-bottom-teal svg{width:100%;height:100%;display:block}
-
 .news-inner{max-width:800px;margin:0 auto}
-.news-list{display:flex;flex-direction:column;gap:0;margin-top:36px}
+.news-list{display:flex;flex-direction:column;margin-top:32px}
 .news-item{
   display:flex;gap:14px;align-items:flex-start;
-  padding:22px 0;border-bottom:1px solid var(--border);
+  padding:20px 0;border-bottom:1px solid var(--border);
 }
 .news-item:last-child{border-bottom:none}
 .news-dot{
@@ -414,59 +452,189 @@ img{max-width:100%;display:block}
 .news-date{font-size:11px;color:var(--hint);margin-top:4px;letter-spacing:.06em}
 
 /* ============================================================
-   フッター
+   BUTTONS
    ============================================================ */
-.sec-footer{
-  background:var(--cream-d);
-  padding:64px 24px;text-align:center;
-  border-top:1px solid var(--border);
+.btn-primary{
+  display:inline-block;
+  background:var(--teal);color:#fff;
+  border-radius:999px;padding:14px 36px;
+  font-size:13px;font-weight:400;letter-spacing:.06em;
+  transition:transform .15s,background .2s;
 }
-.footer-logo{font-size:24px;font-weight:500;margin-bottom:20px}
-.footer-logo-w{color:var(--teal);font-style:normal}
-.footer-links{display:flex;justify-content:center;gap:28px;margin-bottom:24px}
-.footer-links a{font-size:12px;color:var(--muted);letter-spacing:.06em;transition:color .2s}
-.footer-links a:hover{color:var(--teal)}
-.footer-copy{font-size:11px;color:var(--hint);margin-top:4px;letter-spacing:.04em}
+.btn-primary:hover{background:#228e81;transform:translateY(-2px)}
+.btn-white{
+  display:inline-block;
+  background:#fff;color:var(--dark-forest);
+  border-radius:999px;padding:14px 36px;
+  font-size:13px;font-weight:400;letter-spacing:.06em;
+  transition:transform .15s,box-shadow .2s;
+}
+.btn-white:hover{transform:translateY(-2px);box-shadow:0 4px 20px rgba(0,0,0,.15)}
 
 /* ============================================================
-   レスポンシブ
+   FOOTER
+   ============================================================ */
+.sec-footer{
+  background:var(--dark2);
+  padding:56px 24px;
+}
+.footer-inner{
+  max-width:800px;margin:0 auto;text-align:center;
+}
+.footer-logo{font-size:22px;font-weight:500;color:rgba(255,255,255,.6);margin-bottom:20px}
+.footer-w{color:var(--teal)}
+.footer-links{display:flex;justify-content:center;gap:28px;margin-bottom:24px}
+.footer-links a{
+  font-size:12px;color:rgba(255,255,255,.35);
+  letter-spacing:.08em;transition:color .2s;
+}
+.footer-links a:hover{color:rgba(255,255,255,.7)}
+.footer-tagline{
+  font-size:12px;color:rgba(255,255,255,.2);
+  letter-spacing:.06em;margin-bottom:8px;
+}
+.footer-copy{font-size:11px;color:rgba(255,255,255,.15);letter-spacing:.04em}
+
+/* ============================================================
+   SCROLL ANIMATIONS
+   ============================================================ */
+.tp-anim{
+  opacity:0;transform:translateY(28px);
+  transition:opacity .8s ease-out,transform .8s ease-out;
+}
+.tp-anim.visible{opacity:1;transform:translateY(0)}
+
+/* ============================================================
+   KEYFRAMES
+   ============================================================ */
+/* ---- ヒーロー追加の浮遊アイコン ---- */
+.hf-star3{width:22px;bottom:30%;right:8%;animation:hFloat 8s ease-in-out 2.5s infinite}
+.hf-bag{width:40px;top:42%;right:3%;animation:hFloat 11s ease-in-out 1s infinite reverse}
+
+/* ---- ヒーロー散りばめドット ---- */
+.hero-dots{position:absolute;inset:0;z-index:1;pointer-events:none}
+.hdot{
+  position:absolute;border-radius:50%;
+  animation:dotTwinkle 4s ease-in-out infinite;
+}
+.hdot-1{width:6px;height:6px;background:var(--teal);top:22%;left:18%;animation-delay:0s}
+.hdot-2{width:4px;height:4px;background:var(--mustard);top:16%;right:32%;animation-delay:1s}
+.hdot-3{width:5px;height:5px;background:var(--teal);top:38%;right:6%;animation-delay:2s}
+.hdot-4{width:3px;height:3px;background:var(--mustard);top:8%;left:35%;animation-delay:.5s}
+.hdot-5{width:5px;height:5px;background:var(--teal);top:42%;left:4%;animation-delay:1.5s}
+.hdot-6{width:4px;height:4px;background:var(--mustard);top:12%;left:50%;animation-delay:2.5s}
+.hdot-7{width:3px;height:3px;background:var(--teal);top:34%;right:18%;animation-delay:3s}
+.hdot-8{width:5px;height:5px;background:var(--mustard);top:28%;left:8%;animation-delay:3.5s}
+
+@keyframes dotTwinkle{
+  0%,100%{opacity:.3;transform:scale(1)}
+  50%{opacity:.9;transform:scale(1.6)}
+}
+
+/* ---- パレード歩行アニメーション ---- */
+.parade-person:nth-child(odd){animation:paradeWalk 1.2s ease-in-out infinite}
+.parade-person:nth-child(even){animation:paradeWalk 1.2s ease-in-out .6s infinite}
+@keyframes paradeWalk{
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-4px)}
+}
+
+/* ---- About 装飾イラスト ---- */
+.sec-about{position:relative;overflow:hidden}
+.about-illus{
+  position:absolute;z-index:0;
+  opacity:.35;pointer-events:none;
+  animation:hFloat 10s ease-in-out infinite;
+}
+.about-illus-l{width:80px;bottom:12%;left:6%;animation-delay:0s}
+.about-illus-r{width:70px;top:12%;right:6%;animation-delay:2s}
+
+/* ---- セクション区切りドット ---- */
+.sec-divider{
+  display:flex;justify-content:center;align-items:center;gap:10px;
+  padding:12px 0;
+  background:var(--cream);
+}
+.sec-divider span{
+  width:6px;height:6px;border-radius:50%;
+  display:block;
+}
+.sec-divider span:nth-child(1){background:var(--mustard)}
+.sec-divider span:nth-child(2){background:var(--teal)}
+.sec-divider span:nth-child(3){background:var(--mustard)}
+
+/* ---- Features 装飾イラスト ---- */
+.features-floats{position:absolute;inset:0;pointer-events:none}
+.ff{position:absolute;display:block;opacity:.2}
+.ff-1{width:60px;top:10%;left:3%;animation:hFloat 12s ease-in-out 0s infinite}
+.ff-2{width:50px;bottom:10%;right:3%;animation:hFloat 10s ease-in-out 2s infinite reverse}
+
+@keyframes fadeUp{
+  from{opacity:0;transform:translateY(20px)}
+  to{opacity:1;transform:translateY(0)}
+}
+@keyframes fadeIn{
+  from{opacity:0}
+  to{opacity:1}
+}
+@keyframes scrollLine{
+  0%{top:-100%}
+  100%{top:100%}
+}
+
+/* ============================================================
+   RESPONSIVE
    ============================================================ */
 @media(max-width:768px){
-  .gnav{padding:16px 20px 0}
-  .gnav-logo{font-size:22px}
+  .gnav{padding:0 20px}
   .gnav-ctas{display:none}
   .gnav-links a{font-size:11px;padding:6px 10px}
-  .gnav.scrolled{padding:0 20px;height:52px}
-  .gnav.scrolled .gnav-logo{font-size:18px}
 
-  .sec-hero{padding:100px 16px 60px}
-  .hero-arc-text,.hero-arc-period{font-size:52px}
-  .hero-globe-wrap{width:88vw;margin-top:0}
-  .hf-bus,.hf-eiffel,.hf-boba,.hf-tuktuk,.hf-kimchi{display:none}
+  .sec-hero{padding:70px 16px 80px}
+  .hero-globe{width:95vw;opacity:.2}
 
-  .sec-welcome{min-height:60vh;padding:80px 24px}
-  .welcome-logo{font-size:48px}
+  /* 浮遊イラスト縮小 */
+  .hf-bus,.hf-castle,.hf-drink,.hf-balloon2{display:none}
+  .hf-plane{width:48px}
+  .hf-eiffel{width:28px}
+  .hf-star1{width:20px}
+  .hf-star2{width:18px}
+  .hf-suitcase{width:28px}
+  .hf-balloon1{width:24px}
 
-  .concept-text{font-size:20px}
-  .sec-concept{padding:100px 24px 60px}
-  .concept-mt{margin-top:36px}
+  .hero-parade{gap:2px;padding:0 12px}
+  .parade-person{height:clamp(48px,9vw,72px)}
 
-  .sec-photo{padding:0 16px}
-  .photo-frame img{height:50vh}
+  .features-inner{grid-template-columns:repeat(2,1fr);gap:16px}
+  .feature-card{padding:28px 16px}
+  .feature-icon{width:44px;height:44px}
 
-  .sec-guide{padding:80px 0 60px}
-  .sec-big-label{font-size:clamp(36px,10vw,72px)}
-  .sec-jp-label{font-size:22px}
+  .gallery-duo{grid-template-columns:1fr;gap:12px}
+  .gallery-item--hero{height:240px}
 
-  .community-title{font-size:28px}
+  .guide-map-img{padding:16px}
+  .gf-5,.gf-6{display:none}
+  .gf-person1,.gf-person2,.gf-person3{width:45px}
+
+  .connect-illus{display:none}
+
+  .about-illus{display:none}
+  .ff{display:none}
+  .hf-bag{display:none}
+  .hf-star3{display:none}
 }
 
 @media(max-width:480px){
-  .gnav-links{gap:4px;padding:8px 12px}
+  .gnav-links{gap:4px}
   .gnav-links a{font-size:10px;padding:4px 8px}
   .gnav-dot{width:6px;height:6px}
-  .hero-arc-text,.hero-arc-period{font-size:38px}
-  .welcome-logo{font-size:36px}
-  .concept-text{font-size:18px;line-height:2}
-  .photo-frame{border-radius:16px 16px 0 0}
+
+  .hero-title{font-size:32px}
+  .hero-parade{gap:0}
+  .parade-person{height:clamp(48px,9vw,64px)}
+
+  .features-inner{grid-template-columns:1fr;gap:12px}
+
+  .about-title{font-size:24px}
+  .connect-title{font-size:24px}
 }
