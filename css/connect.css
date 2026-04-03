@@ -275,6 +275,30 @@ img{max-width:100%;display:block}
   letter-spacing:.02em;
 }
 
+/* ===== ③ 問い合わせブロック ===== */
+.cn-contact-blocks{
+  display:flex;flex-direction:column;gap:36px;
+  margin-top:32px;
+}
+.cn-contact-block{
+  padding:28px 32px;
+  background:var(--white);
+  border:1px solid var(--border);
+  border-radius:14px;
+}
+.cn-contact-block-title{
+  font-size:15px;font-weight:500;
+  color:var(--dark);letter-spacing:.03em;
+  margin-bottom:10px;
+}
+.cn-contact-block-body{
+  font-size:14px;color:#3a2c1e;
+  line-height:2;
+}
+.cn-contact-block .cn-channels{
+  grid-template-columns:repeat(2,1fr);
+}
+
 /* ===== ④ 旅のバトン（一言フォーム） ===== */
 .cn-baton-section{
   background:var(--cream);
