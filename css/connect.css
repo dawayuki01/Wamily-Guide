@@ -298,6 +298,17 @@ img{max-width:100%;display:block}
 .cn-contact-block .cn-channels{
   grid-template-columns:repeat(2,1fr);
 }
+.cn-host-countries{
+  display:flex;flex-wrap:wrap;gap:8px;margin-top:16px;
+}
+.cn-host-country{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:6px 16px;
+  background:rgba(42,157,143,.07);
+  border:1px solid rgba(42,157,143,.3);
+  border-radius:999px;
+  font-size:13px;color:var(--dark);
+}
 
 /* ===== ④ 旅のバトン（一言フォーム） ===== */
 .cn-baton-section{
