@@ -105,13 +105,24 @@ img{max-width:100%;display:block}
   padding:72px 24px;text-align:center;
 }
 .cn-bridge-text{
-  font-size:clamp(18px,2.5vw,26px);font-weight:300;
+  font-size:clamp(16px,2.5vw,26px);font-weight:300;
   color:var(--dark);line-height:2;
   letter-spacing:.06em;
   max-width:600px;margin:0 auto;
-  word-break:keep-all;
+  word-break:auto-phrase;overflow-wrap:break-word;
 }
 .cn-bridge-text em{
+  font-style:normal;
+  color:var(--teal);
+}
+.cn-bridge-sub{
+  font-size:clamp(14px,1.8vw,17px);font-weight:300;
+  color:var(--muted);line-height:1.9;
+  letter-spacing:.04em;
+  max-width:600px;margin:28px auto 0;
+  word-break:keep-all;
+}
+.cn-bridge-sub em{
   font-style:normal;
   color:var(--teal);
 }
