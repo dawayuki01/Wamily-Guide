@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソンクラーン（タイ正月）",
-      "description": "4月13～15日の水かけ祭り。子どもたちが水鉄砲や水風船で楽しく遊べ、タイ文化を体験できます。バンコク中心部の通りが祝賀ムードに包まれます。",
-      "date": "4月13日～15日",
-      "place": "バンコク市内全域（シーロム地区、カオサン通りなど）",
-      "link": "https://www.tourismthailand.org",
+      "title": "ソンクラーン（タイ正月・水かけ祭り）",
+      "description": "4月13〜15日のタイ正月。子どもたちが水を掛け合う伝統的な祭り。バンコク中心部では水かけが繰り広げられ、家族で楽しめます。",
+      "date": "4月13日〜15日",
+      "place": "バンコク市内全域（シーロム通り、スクンビット通り等）",
+      "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "ジムトンプソンの家 子ども向けツアー",
-      "description": "タイシルクの伝統文化を学べる特別プログラム。保存状態の良い木造建築を探検でき、子どもにタイ芸術への興味を引き出します。",
-      "date": "4月通年（毎日実施）",
-      "place": "ジムトンプソンの家、バンコク市内6 Soi Kasemsan 2, Rama I Road",
-      "link": "https://www.jimthompsonhouse.com",
+      "title": "サファリワールド（Safari World）の春期イベント",
+      "description": "動物園とドライブスルーサファリの複合施設。乳幼児から小学生まで楽しめる動物との触れ合いや餌やり体験。4月の特別プログラムがあります。",
+      "date": "4月通年",
+      "place": "99 Rama 9 Road, Prakanong Sub-district, Wattana District, Bangkok",
+      "link": "https://www.safariworld.com/",
       "free": false
     },
     {
-      "title": "シャムパーク（Siam Park）での水遊び",
-      "description": "子ども向けのプール・スライダー充実。4月は暑季で水遊びに最適。家族向けエリアも整備されており、安心して楽しめます。",
-      "date": "4月上旬～下旬",
-      "place": "シャムパーク、バンコク市内国立公園内",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "毎週末開催される世界最大級のマーケット。ペット、食べ物、おもちゃなど多彩な品揃え。子ども服や雑貨も充実で家族向けです。",
-      "date": "毎週土曜日・日曜日",
-      "place": "チャトゥチャック・ウィークエンド・マーケット、Chatuchak, Bangkok",
-      "link": "https://www.chatuchakmarket.org",
+      "title": "ルンピニ公園（Lumphini Park）での春の散策・無料アクティビティ",
+      "description": "バンコク中心部の大規模公園。4月は朝夕が涼しく、子ども向け遊具、池でのカヌー体験、散策が楽しめます。無料で家族利用できます。",
+      "date": "4月通年",
+      "place": "Rama IV Road, Pathum Wan District, Bangkok",
+      "link": "https://www.bangkok.go.th/",
       "free": true
     },
     {
-      "title": "サイアム・オーシャン・ワールド 春休み特別プログラム",
-      "description": "タッチプールで海の生き物に触れたり、水族館内のアクティビティで海洋知識を学べます。子ども向けの教育的体験が充実。",
-      "date": "4月上旬～中旬",
-      "place": "サイアム・オーシャン・ワールド、Siam Paragon, Rama I Road",
-      "link": "https://www.siamoceanworld.com",
+      "title": "シアム パラゴン（Siam Paragon）のキッズ向けイベント",
+      "description": "大型商業施設の水族館やキッズスペースで季節限定プログラム開催。4月春休みシーズンの子ども向けワークショップや展示が企画されます。",
+      "date": "4月上旬〜下旬",
+      "place": "991 Rama 1 Road, Pathum Wan District, Bangkok",
+      "link": "https://www.siamparagon.co.th/",
       "free": false
+    },
+    {
+      "title": "チャットチャック週末マーケット（Chatuchak Weekend Market）",
+      "description": "世界最大級の屋外マーケット。子ども向けおもちゃ、衣類、食べ物が充実。朝早い時間は比較的空いており、家族向けの散策スポットです。",
+      "date": "4月の土日（毎週末）",
+      "place": "Chatuchak, Chatuchak District, Bangkok",
+      "link": "https://www.chatuchakmarket.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-03T05:51:35.132Z"
+  "updatedAt": "2026-04-04T05:15:15.084Z"
 }

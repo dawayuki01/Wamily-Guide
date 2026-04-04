@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・イースター・フェスティバル",
-      "description": "4月はイースターの時期。マニラ周辺の教会やコミュニティでイースター関連のパレード、卵探しイベント、家族向けの宗教行事が開催されます。",
-      "date": "4月上旬〜中旬",
-      "place": "マニラ大聖堂周辺、イントラムロス地区",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "フィリピン・イースター・ウィークセレブレーション",
+      "description": "マニラ各地で開催されるイースター関連イベント。子ども向けのエッグハント、パレード、文化的なパフォーマンスが楽しめます。",
+      "date": "4月上旬～中旬",
+      "place": "マニラ市内各所（イントラムロス地区、リサール公園など）",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "スターシティ・キッズイベント",
-      "description": "フィリピン最大級の遊園地スターシティでは、4月に春休みシーズン向けの特別キッズプログラムを開催。乗り物割引やキャラクターショーなど。",
-      "date": "4月上旬〜下旬",
-      "place": "Star City, E. Rodriguez Ave, Cubao, Quezon City",
-      "link": "https://www.star-city.com.ph/",
+      "title": "マニラ・サマーキャンプ＆ワークショップ",
+      "description": "子ども向けの夏季アクティビティ。アート、科学、スポーツなど様々なプログラムがコンドミニアムやコミュニティセンターで開催されます。",
+      "date": "4月中旬～下旬",
+      "place": "マニラ市内各コミュニティセンター",
+      "link": "",
       "free": false
     },
     {
-      "title": "リザル公園での野外活動",
-      "description": "マニラの広大な公園。4月の好天の中、遊び場、レンタル自転車、池でのボート乗車などが楽しめます。家族向けの屋外アクティビティに最適。",
-      "date": "4月通年",
-      "place": "Rizal Park, Padre Burgos, Manila",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "マニラ湾サンセットアクティビティ�het",
+      "description": "バイクサイクリングやジョギング、スポーツ活動が楽しめる屋外スポット。子連れで安全にリラックスでき、美しい夕焼けが見られます。",
+      "date": "4月上旬～下旬（通年）",
+      "place": "マニラ湾エリア（Bay City、MOA Promenade）",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "ナショナル・ミュージアム・キッズ向けプログラム",
-      "description": "マニラのナショナル・ミュージアムでは、子ども向けの特別展示ツアーやワークショップを開催。フィリピンの文化・自然を学べます。",
-      "date": "4月上旬〜下旬",
-      "place": "National Museum Complex, Padre Burgos, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "フィリピン国立動物園（スヌーピーズ・ファミリー・デー）",
+      "description": "子ども向け特別プログラムで動物観察、教育的なショー、乗馬体験などが楽しめます。4月は比較的空いており家族連れに最適です。",
+      "date": "4月通日（週末特別プログラム）",
+      "place": "フィリピン国立動物園、キエゾン・シティ",
+      "link": "https://www.nzcp.org.ph",
       "free": false
     },
     {
-      "title": "モール・オブ・アジア（MOA）ファミリーイベント",
-      "description": "フィリピン最大級のショッピングモール。4月は春休みシーズンに合わせた子ども向けキャラクターショー、ゲーム大会などの無料イベントを開催。",
-      "date": "4月上旬〜下旬",
-      "place": "Mall of Asia Complex, Pasay City",
-      "link": "https://www.moa.com.ph/",
-      "free": true
+      "title": "スター・シティ・テーマパーク・ファミリー・ウィークエンド",
+      "description": "アミューズメントパークの子ども向けイベント。ゲーム、乗り物、キャラクター出演で楽しめる。4月は学校休暇期間で家族客が多いです。",
+      "date": "4月通日（週末中心）",
+      "place": "スター・シティ、パサイ市",
+      "link": "https://www.star-city.com.ph",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-03T05:51:42.356Z"
+  "updatedAt": "2026-04-04T05:15:22.712Z"
 }

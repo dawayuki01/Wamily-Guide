@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival 2026",
-      "description": "シンガポール最大のガーデンイベント。園芸展示、花の装飾、子ども向けワークショップ、遊び場などが充実。春の花々が美しく、家族連れに人気です。",
-      "date": "4月上旬〜中旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "Singapore Garden Festival",
+      "description": "シンガポール最大の園芸イベント。色とりどりの花展示、ガーデニング教室、キッズワークショップなど。家族向けアクティビティが充実しており、子どもたちが自然を学べます。",
+      "date": "4月中旬〜下旬",
+      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
+      "link": "https://www.singaporegardenfestival.com",
       "free": false
     },
     {
-      "title": "East Coast Park での家族向けウォーターアクティビティ",
-      "description": "シンガポール最大の海浜公園。砂浜での水遊び、サイクリング、ピクニックが無料で楽しめます。4月は天気も良く、家族連れに最適な屋外アクティビティスポットです。",
-      "date": "4月中旬〜下旬",
-      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449855",
+      "title": "East Coast Park Beach活動",
+      "description": "シンガポール最大のビーチパークで砂浜遊び、ウォータースポーツ体験。4月は天気が良く、家族でのビーチピクニックに最適。無料で楽しめる屋外アクティビティです。",
+      "date": "4月上旬〜下旬",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449876",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Chingay Parade（4月に向けた準備イベント）",
-      "description": "多文化祭典に関連したコミュニティイベント。伝統的な山車制作ワークショップ、文化体験、キッズ向けアクティビティが無料で開催されます。",
-      "date": "4月中旬",
-      "place": "Various locations across Singapore (主にシンガポール各地のコミュニティセンター)",
-      "link": "https://www.chingay.com.sg",
-      "free": true
-    },
-    {
-      "title": "Singapore Zoo の春季特別プログラム",
-      "description": "動物園の季節限定プログラム。キッズ向けの動物ふれあいタイム、ガイド付きツアー、教育ワークショップなど。乳幼児から小学生まで楽しめます。",
+      "title": "Children's Season at Singapore Science Centre",
+      "description": "科学センターの子ども向け特別プログラム。インタラクティブ展示、実験ワークショップ、プラネタリウム。乳幼児から小学生まで楽しめる体験型学習施設です。",
       "date": "4月上旬〜下旬",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.com.sg",
+      "place": "Science Centre Singapore, 15 Science Centre Road, Singapore 609081",
+      "link": "https://www.sciencecentre.sg",
       "free": false
     },
     {
-      "title": "Science Centre Singapore の季節展示・ワークショップ",
-      "description": "科学館の春季特別展示と子ども向けSTEMワークショップ。インタラクティブ展示、実験コーナー、プラネタリウムが人気です。4月は学校休暇時期で混雑。",
+      "title": "Pulau Ubin自転車ツアー・自然探検",
+      "description": "シンガポール近郊の自然島。レンタル自転車で家族でサイクリング、ビーチ探索、野生動物観察。4月は気候が比較的良く、屋外自然体験に最適なシーズンです。",
       "date": "4月上旬〜下旬",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
+      "place": "Pulau Ubin, Singapore 2158",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pulau-ubin",
+      "free": true
+    },
+    {
+      "title": "ArtScience Museum Kids Programs",
+      "description": "マリーナベイサンズ内の美術館の子ども向けプログラム。アート制作ワークショップ、キュレーターツアー、創造性を育むアクティビティが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "ArtScience Museum, Marina Bay Sands, 6 Bayfront Ave, Singapore 018974",
+      "link": "https://www.artscience.museum",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-03T05:51:25.965Z"
+  "updatedAt": "2026-04-04T05:15:07.374Z"
 }

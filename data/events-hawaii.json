@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "レイ・デー（Lei Day）",
-      "description": "ハワイ文化を祝う5月1日の前後に開催。子どもたちがレイ作り体験や伝統文化を学べるイベント。ワイキキやダウンタウンで無料プログラムが充実しています。",
-      "date": "4月下旬〜5月1日前後",
-      "place": "ホノルル各地（ワイキキ、ハワイ州庁舎周辺など）",
-      "link": "https://www.gohawaii.com/",
+      "title": "マーチンルーサーキングJr.デー関連イベント・春のローカルマーケット",
+      "description": "ワイキキやダウンタウンで開催される春のファーマーズマーケット。地元の新鮮な果物、野菜、ハワイアングッズが並び、子どもも楽しめます。ライブミュージックも魅力。",
+      "date": "4月上旬〜下旬（毎週末）",
+      "place": "ワイキキビーチウォーク周辺、ダウンタウン・ホノルル",
+      "link": "https://www.honolulu.gov/",
       "free": true
     },
     {
-      "title": "ホノルル・フェスティバル・オブ・アーツ・アンド・カルチャー",
-      "description": "日本とハワイの文化交流をテーマにした大型フェスティバル。子ども向けワークショップ、ステージパフォーマンス、キルト展など多彩。大部分が無料で楽しめます。",
+      "title": "オアフ島スプリングシーズン・ホエールウォッチング",
+      "description": "4月はザトウクジラが北上する季節。ワイキキビーチからも見える時期があり、ボートツアーで間近に観察できます。子どもの海への興味を引き出す最高の体験。",
       "date": "4月上旬〜中旬",
-      "place": "ホノルル市内（シップ・スタジアム、ハワイ・コンベンション・センター周辺）",
-      "link": "https://www.honolulufestival.com/",
-      "free": true
-    },
-    {
-      "title": "ダイアモンドヘッド・ハイキング（家族向けプログラム）",
-      "description": "ハワイを代表する火山で初心者向けハイキング。4月は気候が最適。キッズ向けガイドツアーもあり、自然体験と絶景が楽しめます。",
-      "date": "4月上旬〜下旬（通年可）",
-      "place": "ダイアモンドヘッド州立公園、1 Leahi Ave, Honolulu",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "place": "ワイキキ発着のツアー各社（オアフ島沿岸）",
+      "link": "https://www.gohawaii.com/islands/oahu",
       "free": false
     },
     {
-      "title": "ホノルル・ズー・サマー・キャンプ",
-      "description": "子どもたちが動物と触れ合い、自然保護を学ぶサマープログラム。4月から予約受付が始まります。屋外での学習体験が充実。",
-      "date": "4月（予約開始）、実施は夏季",
-      "place": "ホノルル・ズー、151 Kapahulu Ave, Honolulu",
+      "title": "ホノルル動物園スプリングフェスティバル",
+      "description": "ワイキキにある動物園の春イベント。動物とのふれあい体験、ワークショップ、特別展示があり、乳幼児から小学生まで楽しめます。園内は無料エリアも。",
+      "date": "4月中旬〜下旬",
+      "place": "ホノルル動物園（151 Kapahulu Ave, Honolulu）",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "KCC ファーマーズ・マーケット",
-      "description": "毎週末開催の大人気マーケット。新鮮なトロピカルフルーツ、地元グルメ、キッズコーナーもあり。家族で地元の食文化を体験できます。",
-      "date": "4月の毎週土曜日（通年開催）",
-      "place": "カピオラニ・コミュニティ・カレッジ駐車場、4303 Diamond Head Rd",
-      "link": "https://www.honolulubiz.com/article/kcc-farmers-market/",
+      "title": "ハナウマ湾シュノーケリング・スプリングシーズン",
+      "description": "ハワイ屈指のシュノーケリングスポット。春は透視度が良く、熱帯魚が多い季節。子ども向けの浅いエリアもあり、家族で海の生き物を観察できます。",
+      "date": "4月上旬〜下旬",
+      "place": "ハナウマ湾（7455 Kalanianaole Hwy, Honolulu）",
+      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
+      "free": false
+    },
+    {
+      "title": "ウォーキング・フェスティバル・スプリング・コースト・トレイル",
+      "description": "オアフ島のコアラウ山脈周辺でのファミリー向けハイキングイベント。初心者向けコースが多く、子どもと一緒に自然散策が楽しめます。ローカル環境保全活動も体験。",
+      "date": "4月中旬",
+      "place": "コアラウ地区・各トレイルヘッド（オアフ島各地）",
+      "link": "https://www.gohawaii.com/islands/oahu",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-03T05:51:58.834Z"
+  "updatedAt": "2026-04-04T05:15:38.883Z"
 }

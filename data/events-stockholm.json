@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップシーズン at スウェーデン王立公園",
-      "description": "4月のストックホルムは春の花が満開。王立公園ではチューリップ、サクラ、ヒヤシンスが咲き乱れ、子どもたちが自然の中で遊べる絶好の季節です。ピクニックに最適。",
-      "date": "4月上旬〜中旬",
-      "place": "Drottningholms Slottsteater, Drottningholm Palace Gardens, Stockholm",
-      "link": "https://www.kkh.se",
-      "free": true
-    },
-    {
-      "title": "イースター・イベント at Junibacken",
-      "description": "ストックホルムの子ども向け博物館では4月にイースター特別プログラムを開催。卵探しゲーム、工作、物語の世界への冒険など、乳幼児から小学生まで楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "Junibacken, Galärvarvsvägen 14, 100 41 Stockholm",
-      "link": "https://www.junibacken.se",
-      "free": false
-    },
-    {
-      "title": "アーランダ・スカイ・シャトルでの空中散歩体験",
-      "description": "ストックホルムの空を臨むロープウェイ。4月の美しい春景色の中、子どもたちが都市全体を眺める貴重な体験ができます。天気が良い日がおすすめです。",
-      "date": "4月全般",
-      "place": "Arlanda Sky, Stockholm Arlanda Airport",
-      "link": "https://www.arlandasky.com",
-      "free": false
-    },
-    {
-      "title": "オープン・エアー・マーケット & ストリート・フェスティバル",
-      "description": "春の到来を祝うストックホルムの各地でマーケットが開催。Gamla Stan旧市街では地元の工芸品、食べ物の露店が並び、家族向けの無料イベントも多数。",
-      "date": "4月中旬〜下旬",
-      "place": "Gamla Stan, Old Town Stockholm",
+      "title": "スウェーデン王妃誕生日パレード（Namnsdag）",
+      "description": "4月9日はスウェーデン王妃シルヴィアの誕生日。王宮での式典やストックホルム旧市街での祝賀行事。王族を見られるチャンスで、家族向けのお祭り雰囲気が楽しめます。",
+      "date": "4月9日前後",
+      "place": "ロイヤルパレス（Kungliga Slottet）、旧市街（Gamla Stan）",
       "link": "https://www.stockholmtown.com",
       "free": true
     },
     {
-      "title": "Skansen野外博物館のスプリング・プログラム",
-      "description": "北欧最大の野外民俗博物館で、春のプログラムが展開。動物たちの赤ちゃん誕生、伝統文化体験ワークショップなど、子どもたちが自然と文化を学べます。",
-      "date": "4月全般",
-      "place": "Skansen, Djurgården, 100 82 Stockholm",
+      "title": "イースターマーケット（Påskkälla）",
+      "description": "スカンセン野外博物館やストックホルム各地で開催。卵の色塗り、イースターバニー探し、伝統スウェーデン菓子の試食など。子どもが楽しめる春の行事です。",
+      "date": "4月中旬〜下旬",
+      "place": "スカンセン野外博物館（Skansen）、Djurgården",
       "link": "https://www.skansen.se",
+      "free": false
+    },
+    {
+      "title": "ブリュンスヴィク春祭り（Brunnsviksmarknaden）",
+      "description": "ストックホルム北部の地域春祭り。手作り工芸品、地元食品、子ども向けアクティビティが充実。家族連れで賑わい、地元文化を体験できます。",
+      "date": "4月中旬",
+      "place": "ブリュンスヴィク地区（Brunnsvik）",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "船での春のディングラホルメン島ツアー",
+      "description": "4月の穏やかな気候を活かし、ストックホルムの島々をめぐるガイド付きボートツアー。水辺の自然観察と春の風景が楽しめる屋外アクティビティです。",
+      "date": "4月上旬〜下旬",
+      "place": "ストックホルム湖水ツアー出発地（Strandvägen など）",
+      "link": "https://www.stockholmtown.com",
+      "free": false
+    },
+    {
+      "title": "ノルディスカ美術館の春休み子ども向けワークショップ",
+      "description": "4月は春休みシーズン。北欧美術に触れる子ども向けクリエイティブワークショップが連日開催。絵画、彫刻制作など様々なプログラムがあります。",
+      "date": "4月中旬〜下旬",
+      "place": "ノルディスカ美術館（Nordiska museet）、Djurgården",
+      "link": "https://www.nordiskamuseet.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-03T05:51:18.675Z"
+  "updatedAt": "2026-04-04T05:14:59.973Z"
 }

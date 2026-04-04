@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Fête de Pâques（イースターフェスティバル）",
-      "description": "パリ各地で開催されるイースターイベント。子ども向けのたまご探しゲーム、キャラクターショー、春の装飾されたマーケットなど。Jardin d'Acclimationではイースター特別プログラムも開催。",
-      "date": "4月上旬〜中旬",
-      "place": "パリ市内各所（Jardin d'Acclimatation、各公園など）",
-      "link": "https://www.paris-tourist.com",
-      "free": false
-    },
-    {
-      "title": "チューリップ・春の花見（ジャルダン・デ・プラント）",
-      "description": "4月のパリはチューリップと春花が見頃。庭園内を散策でき、子どもも自然の中でのんびり楽しめます。無料で公開エリアもあり、季節の花の美しさを体験できます。",
-      "date": "4月全般",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.jardindesplantes.net",
+      "title": "パリ・チューリップ祭（春の花咲く庭園）",
+      "description": "4月のパリは色鮮やかなチューリップやサクラが咲き誇ります。モネの庭園やジヴェルニーへの日帰り旅行も人気。パリ市内の公園でも春の花々が楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "ジヴェルニー（Giverny）、パリ各公園",
+      "link": "https://www.giverny.org/",
       "free": true
     },
     {
-      "title": "Musée de l'Orangerie 春の特別展示",
-      "description": "春季に子ども向けワークショップやファミリー向けガイドツアーを実施。モネの睡蓮などの名作を子どもにも分かりやすく解説。創作活動も含まれます。",
-      "date": "4月全般",
-      "place": "Musée de l'Orangerie, Jardin des Tuileries, 75001 Paris",
-      "link": "https://www.musee-orangerie.fr",
+      "title": "ルーヴル美術館「子どもガイドツアー」",
+      "description": "4月は春休み時期。ルーヴル美術館では子ども向けの特別ガイドツアーやワークショップを開催。有名作品を分かりやすく学べます。",
+      "date": "4月中旬〜下旬",
+      "place": "ルーヴル美術館（Musée du Louvre）、パリ1区",
+      "link": "https://www.louvre.fr/",
       "free": false
     },
     {
-      "title": "パリ・ナチュラル・マーケット（Marché Bio）",
-      "description": "セーヌ左岸やマレ地区などで開催される有機野菜・春の地産地消マーケット。子どもと季節の野菜や食材を選ぶ体験ができ、フランス文化も学べます。無料で散策可能。",
-      "date": "4月全般（週末など）",
-      "place": "パリ市内各地（Marché Bastille, Marché Raspail等）",
-      "link": "https://www.paris.fr",
+      "title": "パリ動物園（Ménagerie du Jardin des Plantes）春祭り",
+      "description": "4月は春の動物園は特に楽しい時期。新しく生まれた動物たちの公開や春の生き物に関するワークショップが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "ジャルダン・デ・プラント内メナジェリー、パリ5区",
+      "link": "https://www.jardindesplantes.net/",
+      "free": false
+    },
+    {
+      "title": "テュイルリー庭園での自由遊び・遊具広場",
+      "description": "広大なテュイルリー庭園は子どもの遊び場に最適。4月の気候の中、遊具エリア、砂場、カルーセルで無料で楽しめます。",
+      "date": "4月全期間",
+      "place": "テュイルリー庭園（Jardin des Tuileries）、パリ1区",
+      "link": "https://www.louvre.fr/en/jardin-des-tuileries",
       "free": true
     },
     {
-      "title": "Parc de la Tête d'Or周辺での春キャンプ・公園探検",
-      "description": "4月のパリの公園は新緑と花で彩られます。子ども向けのエコツアーやガイド付き自然観察プログラムが開催され、春の生き物や植物を学べるアウトドアアクティビティ。",
-      "date": "4月全般",
-      "place": "Parc de la Tête d'Or、Bois de Boulogne、Bois de Vincennesなど",
-      "link": "https://www.paris.fr/pages/les-parcs-et-jardins-1994",
+      "title": "パリ・イースター・マーケット（Easter Market）",
+      "description": "4月中旬のイースターシーズンに、パリ各地でマーケットが開催。子ども向けクラフト、イースターエッグ探しイベント、季節菓子が楽しめます。",
+      "date": "4月中旬（イースター前後）",
+      "place": "シャンゼリゼ、ノートルダム周辺など複数会場",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-03T05:51:11.169Z"
+  "updatedAt": "2026-04-04T05:14:51.879Z"
 }
