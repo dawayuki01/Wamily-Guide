@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン王妃誕生日パレード（Namnsdag）",
-      "description": "4月9日はスウェーデン王妃シルヴィアの誕生日。王宮での式典やストックホルム旧市街での祝賀行事。王族を見られるチャンスで、家族向けのお祭り雰囲気が楽しめます。",
-      "date": "4月9日前後",
-      "place": "ロイヤルパレス（Kungliga Slottet）、旧市街（Gamla Stan）",
-      "link": "https://www.stockholmtown.com",
+      "title": "ストックホルム春祭り（Stockholms Vårfest）",
+      "description": "4月のストックホルムで開催される春の祭り。音楽ライブ、子ども向けワークショップ、フードマーケット、公園でのピクニックエリアなど家族向けアクティビティが豊富です。",
+      "date": "4月中旬〜下旬",
+      "place": "ストックホルム市内各地（主にNorrmalm地区とOstermalm地区）",
+      "link": "https://www.stockholmvaarfest.se",
       "free": true
     },
     {
-      "title": "イースターマーケット（Påskkälla）",
-      "description": "スカンセン野外博物館やストックホルム各地で開催。卵の色塗り、イースターバニー探し、伝統スウェーデン菓子の試食など。子どもが楽しめる春の行事です。",
-      "date": "4月中旬〜下旬",
-      "place": "スカンセン野外博物館（Skansen）、Djurgården",
+      "title": "スクーセン野外博物館の春プログラム",
+      "description": "北欧最大の野外博物館で、春シーズンに動物との触れ合い、伝統工芸ワークショップ、昔ながらの農場体験が楽しめます。乳幼児から小学生まで対応。",
+      "date": "4月初旬〜",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ブリュンスヴィク春祭り（Brunnsviksmarknaden）",
-      "description": "ストックホルム北部の地域春祭り。手作り工芸品、地元食品、子ども向けアクティビティが充実。家族連れで賑わい、地元文化を体験できます。",
-      "date": "4月中旬",
-      "place": "ブリュンスヴィク地区（Brunnsvik）",
-      "link": "",
+      "title": "王立庭園（Drottningholms slottspark）の春の散策",
+      "description": "ユネスコ世界遺産の王宮の庭園。4月は新緑と春の花が美しい季節。無料で散策でき、子どもが走り回って遊べる広大な公園です。",
+      "date": "4月全般",
+      "place": "Drottningholms slottspark, Drottningholm, Stockholm",
+      "link": "https://www.kungligaslotten.se",
       "free": true
     },
     {
-      "title": "船での春のディングラホルメン島ツアー",
-      "description": "4月の穏やかな気候を活かし、ストックホルムの島々をめぐるガイド付きボートツアー。水辺の自然観察と春の風景が楽しめる屋外アクティビティです。",
-      "date": "4月上旬〜下旬",
-      "place": "ストックホルム湖水ツアー出発地（Strandvägen など）",
-      "link": "https://www.stockholmtown.com",
+      "title": "ムンマルベリー博物館の子ども向けイベント",
+      "description": "北欧のアート・デザインを学べる。4月は子ども向けの創作ワークショップや展示会が充実。5歳以上向けのインタラクティブプログラムが魅力。",
+      "date": "4月全般（週末中心）",
+      "place": "Moderna Museet, Exercisvägen 4, Stockholm",
+      "link": "https://www.modernamuseet.se",
       "free": false
     },
     {
-      "title": "ノルディスカ美術館の春休み子ども向けワークショップ",
-      "description": "4月は春休みシーズン。北欧美術に触れる子ども向けクリエイティブワークショップが連日開催。絵画、彫刻制作など様々なプログラムがあります。",
-      "date": "4月中旬〜下旬",
-      "place": "ノルディスカ美術館（Nordiska museet）、Djurgården",
-      "link": "https://www.nordiskamuseet.se",
-      "free": false
+      "title": "ガムラスタン（旧市街）での子どもガイドツアーと春市場",
+      "description": "中世の石畳の町並みを子ども目線で探索するガイドツアー。4月は春の花が装飾された古い広場で、手工芸品や春の食材のマーケットも開催。",
+      "date": "4月全般（ツアーは予約制）",
+      "place": "Gamla Stan, Stockholm",
+      "link": "https://www.visitstockholm.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-04T05:14:59.973Z"
+  "updatedAt": "2026-04-05T05:55:18.652Z"
 }

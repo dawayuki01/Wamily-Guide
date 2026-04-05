@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "マーチンルーサーキングJr.デー関連イベント・春のローカルマーケット",
-      "description": "ワイキキやダウンタウンで開催される春のファーマーズマーケット。地元の新鮮な果物、野菜、ハワイアングッズが並び、子どもも楽しめます。ライブミュージックも魅力。",
-      "date": "4月上旬〜下旬（毎週末）",
-      "place": "ワイキキビーチウォーク周辺、ダウンタウン・ホノルル",
-      "link": "https://www.honolulu.gov/",
+      "title": "レイ・デー（Lei Day）",
+      "description": "ハワイの伝統的な花の首飾りレイを祝う日。5月1日ですが、4月下旬から関連イベントが各地で開催されます。子どもがレイ作り体験ができるワークショップが多数開催されます。",
+      "date": "4月下旬〜5月1日",
+      "place": "ホノルル各地（Iolani Palace周辺など）",
+      "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "オアフ島スプリングシーズン・ホエールウォッチング",
-      "description": "4月はザトウクジラが北上する季節。ワイキキビーチからも見える時期があり、ボートツアーで間近に観察できます。子どもの海への興味を引き出す最高の体験。",
-      "date": "4月上旬〜中旬",
-      "place": "ワイキキ発着のツアー各社（オアフ島沿岸）",
-      "link": "https://www.gohawaii.com/islands/oahu",
-      "free": false
-    },
-    {
-      "title": "ホノルル動物園スプリングフェスティバル",
-      "description": "ワイキキにある動物園の春イベント。動物とのふれあい体験、ワークショップ、特別展示があり、乳幼児から小学生まで楽しめます。園内は無料エリアも。",
-      "date": "4月中旬〜下旬",
-      "place": "ホノルル動物園（151 Kapahulu Ave, Honolulu）",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "ハナウマ湾シュノーケリング・スプリングシーズン",
-      "description": "ハワイ屈指のシュノーケリングスポット。春は透視度が良く、熱帯魚が多い季節。子ども向けの浅いエリアもあり、家族で海の生き物を観察できます。",
-      "date": "4月上旬〜下旬",
-      "place": "ハナウマ湾（7455 Kalanianaole Hwy, Honolulu）",
-      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
-      "free": false
-    },
-    {
-      "title": "ウォーキング・フェスティバル・スプリング・コースト・トレイル",
-      "description": "オアフ島のコアラウ山脈周辺でのファミリー向けハイキングイベント。初心者向けコースが多く、子どもと一緒に自然散策が楽しめます。ローカル環境保全活動も体験。",
-      "date": "4月中旬",
-      "place": "コアラウ地区・各トレイルヘッド（オアフ島各地）",
-      "link": "https://www.gohawaii.com/islands/oahu",
+      "title": "ワイキキビーチでの海遊び・シュノーケリング",
+      "description": "4月はハワイが最も過ごしやすい季節。ワイキキビーチは波も穏やかで、小さな子どもも安全に海遊びやシュノーケリングが楽しめます。ビーチパトロール常駐で安心です。",
+      "date": "4月全般",
+      "place": "ワイキキビーチ、ホノルル、オアフ島",
+      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
       "free": true
+    },
+    {
+      "title": "ホノルル・フェスティバル",
+      "description": "アジア太平洋の文化を祝う大規模フェスティバル。ステージパフォーマンス、文化体験コーナー、子ども向けアクティビティが豊富。4月上旬開催。",
+      "date": "4月上旬（3日間程度）",
+      "place": "ホノルル港周辺、カピオラニ公園ほか、オアフ島",
+      "link": "https://www.honolulufestival.com/",
+      "free": true
+    },
+    {
+      "title": "ハワイ子ども博物館（Hawai'i Children's Museum）の春プログラム",
+      "description": "ハンズオン展示や季節の特別プログラムが充実。4月は春テーマの工作や体験学習が開催されます。乳幼児から小学生まで楽しめる施設です。",
+      "date": "4月全般",
+      "place": "ホノルル、イオラニ・パレス隣接",
+      "link": "https://www.hawaiichildrensmuseum.org/",
+      "free": false
+    },
+    {
+      "title": "マウント・イースター・エッグ・ハント",
+      "description": "イースター時期（4月中旬）にビショップ・ミュージアムや各ホテルで開催。卵探しや子ども向けアクティビティ。参加型で家族で楽しめるイベントです。",
+      "date": "4月中旬（イースター週）",
+      "place": "ビショップ・ミュージアムほか各地、オアフ島",
+      "link": "https://www.bishopmuseum.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-04T05:15:38.883Z"
+  "updatedAt": "2026-04-05T05:55:56.506Z"
 }

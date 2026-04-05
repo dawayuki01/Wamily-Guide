@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・チューリップ祭（春の花咲く庭園）",
-      "description": "4月のパリは色鮮やかなチューリップやサクラが咲き誇ります。モネの庭園やジヴェルニーへの日帰り旅行も人気。パリ市内の公園でも春の花々が楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "ジヴェルニー（Giverny）、パリ各公園",
-      "link": "https://www.giverny.org/",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館「子どもガイドツアー」",
-      "description": "4月は春休み時期。ルーヴル美術館では子ども向けの特別ガイドツアーやワークショップを開催。有名作品を分かりやすく学べます。",
-      "date": "4月中旬〜下旬",
-      "place": "ルーヴル美術館（Musée du Louvre）、パリ1区",
-      "link": "https://www.louvre.fr/",
-      "free": false
-    },
-    {
-      "title": "パリ動物園（Ménagerie du Jardin des Plantes）春祭り",
-      "description": "4月は春の動物園は特に楽しい時期。新しく生まれた動物たちの公開や春の生き物に関するワークショップが開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "ジャルダン・デ・プラント内メナジェリー、パリ5区",
+      "title": "チューリップの季節 - ジャルダン・デ・プラント（植物園）",
+      "description": "パリの植物園で春のチューリップが満開。色とりどりの花畑は子どもたちを魅了します。家族でのんびり散歩に最適。",
+      "date": "4月上旬〜中旬",
+      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
       "link": "https://www.jardindesplantes.net/",
-      "free": false
-    },
-    {
-      "title": "テュイルリー庭園での自由遊び・遊具広場",
-      "description": "広大なテュイルリー庭園は子どもの遊び場に最適。4月の気候の中、遊具エリア、砂場、カルーセルで無料で楽しめます。",
-      "date": "4月全期間",
-      "place": "テュイルリー庭園（Jardin des Tuileries）、パリ1区",
-      "link": "https://www.louvre.fr/en/jardin-des-tuileries",
       "free": true
     },
     {
-      "title": "パリ・イースター・マーケット（Easter Market）",
-      "description": "4月中旬のイースターシーズンに、パリ各地でマーケットが開催。子ども向けクラフト、イースターエッグ探しイベント、季節菓子が楽しめます。",
-      "date": "4月中旬（イースター前後）",
-      "place": "シャンゼリゼ、ノートルダム周辺など複数会場",
+      "title": "フェスティバル・ド・シネマ・パリ・ジュネス（子ども映画祭）",
+      "description": "家族向けアニメーション映画やファンタジー作品の特別上映。子ども向けワークショップも開催される春の映画イベント。",
+      "date": "4月中旬〜下旬",
+      "place": "パリ市内各映画館",
+      "link": "https://www.festival-cinemagora.com/",
+      "free": false
+    },
+    {
+      "title": "セーヌ河畔での屋外レクリエーション - パリ・プラージュ準備期",
+      "description": "春らしい気候の中、セーヌ河畔の遊歩道で散策。公園でのピクニックやアイススケートリンク跡地での家族活動が楽しめます。",
+      "date": "4月全般",
+      "place": "Seine Riverbanks, various locations along the river",
+      "link": "https://www.paris.fr/",
+      "free": true
+    },
+    {
+      "title": "パリ水族館（シテ・デ・ザキュアリウム）の春企画",
+      "description": "海の生き物たちを観察できる屋内施設。子ども向けの解説パネルやタッチプール体験。天候に左右されず楽しめます。",
+      "date": "4月全般",
+      "place": "5 Avenue Albert 1er, 75007 Paris",
+      "link": "https://www.citedessciences.fr/",
+      "free": false
+    },
+    {
+      "title": "イースター・マーケット - シャンゼリゼ周辺",
+      "description": "イースター時期の装飾品やお菓子が並ぶマーケット。子ども向けの卵探しゲームやクラフト体験も。春の風情を感じられます。",
+      "date": "4月中旬〜下旬（イースター前後）",
+      "place": "Avenue des Champs-Élysées, 75008 Paris",
       "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-04T05:14:51.879Z"
+  "updatedAt": "2026-04-05T05:55:10.793Z"
 }

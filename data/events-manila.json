@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・イースター・ウィークセレブレーション",
-      "description": "マニラ各地で開催されるイースター関連イベント。子ども向けのエッグハント、パレード、文化的なパフォーマンスが楽しめます。",
-      "date": "4月上旬～中旬",
-      "place": "マニラ市内各所（イントラムロス地区、リサール公園など）",
+      "title": "Flores de Mayo（花の月まつり）",
+      "description": "フィリピンの伝統的なカトリック行事。少女たちが聖母マリアに花をささげるパレードで、カラフルで子どもが喜ぶイベント。マニラの各地域で開催されます。",
+      "date": "4月下旬〜5月中旬",
+      "place": "マニラ市内各地（インサイド・サン・オーガスチン教会など）",
       "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "マニラ・サマーキャンプ＆ワークショップ",
-      "description": "子ども向けの夏季アクティビティ。アート、科学、スポーツなど様々なプログラムがコンドミニアムやコミュニティセンターで開催されます。",
-      "date": "4月中旬～下旬",
-      "place": "マニラ市内各コミュニティセンター",
-      "link": "",
+      "title": "Manila Ocean Park",
+      "description": "水族館と遊園地が一体となった施設。子ども向けの海の生き物教室やアシカのショーが楽しめる。4月の春休み期間は特別プログラムが充実。",
+      "date": "4月上旬〜下旬（春休み期間）",
+      "place": "Manila Bay, CCP Complex, Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceanpark.com",
       "free": false
     },
     {
-      "title": "マニラ湾サンセットアクティビティ�het",
-      "description": "バイクサイクリングやジョギング、スポーツ活動が楽しめる屋外スポット。子連れで安全にリラックスでき、美しい夕焼けが見られます。",
-      "date": "4月上旬～下旬（通年）",
-      "place": "マニラ湾エリア（Bay City、MOA Promenade）",
+      "title": "Rizal Park（リサール公園）の野外アクティビティ",
+      "description": "マニラ最大の都市公園。緑地でのピクニック、遊び場、自転車レンタル、国立博物館の無料展示が楽しめる。4月は天気が良く屋外活動に最適。",
+      "date": "4月上旬〜下旬",
+      "place": "Padre Burgos Avenue, Manila",
       "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "フィリピン国立動物園（スヌーピーズ・ファミリー・デー）",
-      "description": "子ども向け特別プログラムで動物観察、教育的なショー、乗馬体験などが楽しめます。4月は比較的空いており家族連れに最適です。",
-      "date": "4月通日（週末特別プログラム）",
-      "place": "フィリピン国立動物園、キエゾン・シティ",
-      "link": "https://www.nzcp.org.ph",
+      "title": "SM Malls of Asia（SMモールオブアジア）のキッズプログラム",
+      "description": "大型ショッピングモール内のキッズエリアで季節ワークショップやアクティビティ。4月は子ども向けの工作教室や英語学習プログラムが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "Seaside Boulevard, Pasay City",
+      "link": "https://www.smmallsofasia.com.ph",
       "free": false
     },
     {
-      "title": "スター・シティ・テーマパーク・ファミリー・ウィークエンド",
-      "description": "アミューズメントパークの子ども向けイベント。ゲーム、乗り物、キャラクター出演で楽しめる。4月は学校休暇期間で家族客が多いです。",
-      "date": "4月通日（週末中心）",
-      "place": "スター・シティ、パサイ市",
-      "link": "https://www.star-city.com.ph",
-      "free": false
+      "title": "National Museum（国立博物館）の子ども向けガイドツアー",
+      "description": "フィリピンの自然史と文化を学ぶ。子ども向けの体験型展示やガイドツアーがあり、教育的で楽しく学べます。毎週末に特別プログラムあり。",
+      "date": "4月上旬〜下旬",
+      "place": "Padre Burgos Street, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-04T05:15:22.712Z"
+  "updatedAt": "2026-04-05T05:55:42.108Z"
 }

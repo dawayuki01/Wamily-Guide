@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market Spring Events）",
-      "description": "春の花々が満開のフラワーマーケット。色とりどりの花に囲まれて撮影やお散歩が楽しめます。家族向けのワークショップも開催されることがあります。",
-      "date": "4月上旬〜下旬",
-      "place": "Los Angeles Flower Market, 766 Wall Street, Los Angeles, CA 90014",
-      "link": "https://www.laflowermarket.com",
+      "title": "Los Angeles Times Festival of Books",
+      "description": "USC校キャンパスで開催される、米国最大級の本の祭典。子ども向けステージ、作家サイン会、ワークショップなど家族で楽しめるプログラムが豊富です。",
+      "date": "4月中旬の週末",
+      "place": "University of Southern California, Los Angeles, CA 90089",
+      "link": "https://www.latimes.com/books/la-et-book-festival",
       "free": true
     },
     {
-      "title": "グリフィス天文台でのキッズプログラム＆展望台訪問",
-      "description": "スプリングシーズンの天体観測イベントと無料の展望台。子ども向けの天文学プログラム、ロサンゼルス市街の絶景が楽しめます。屋外アクティビティとしても最適です。",
+      "title": "Descanso Gardens - Spring Bloom",
+      "description": "春の花々が咲き誇る庭園。子どもが走り回れる広い敷地、トレイン乗車、季節限定イベントなど。屋外で季節を感じられます。",
+      "date": "4月上旬〜下旬",
+      "place": "1418 Descanso Drive, La Canada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org",
+      "free": false
+    },
+    {
+      "title": "Griffith Observatory - Spring Programs",
+      "description": "天文台の子ども向け特別プログラム。プラネタリウム投影、天体観測イベント。山頂からの眺めも最高。入場料無料（ショー有料）。",
       "date": "4月通期",
-      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
+      "place": "2800 E Observatory Road, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "ロサンゼルス自然史博物館のスプリング特別展示",
-      "description": "春限定のインタラクティブ展示や恐竜展、自然科学を学べるプログラムが開催されます。乳幼児向けの探索エリアも完備されています。",
-      "date": "4月中旬〜下旬",
-      "place": "Natural History Museum of Los Angeles, 900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org",
-      "free": false
+      "title": "California Science Center - Spring Camps & Exhibits",
+      "description": "入館無料の最先端科学館。春休みのキッズプログラム、宇宙船エンデバー展示、インタラクティブな展示で学びと遊びが融合。",
+      "date": "4月通期",
+      "place": "700 Exposition Park Drive, Los Angeles, CA 90037",
+      "link": "https://www.californiasciencecenter.org",
+      "free": true
     },
     {
-      "title": "ハンティントン・ライブラリーの春の庭園鑑賞",
-      "description": "12エーカーの美しい庭園が春色に彩られます。子ども向けのガイドツアーやスカベンジャーハント、広大な敷地での家族散策が楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Road, San Marino, CA 91108",
-      "link": "https://www.huntingtonlibrary.org",
-      "free": false
-    },
-    {
-      "title": "サンタモニカ・ビーチでのイースターイベント＆ビーチデー",
-      "description": "4月はイースターの季節。ビーチでのイースターエッグハント、砂遊び、波遊び。屋外で家族揃って楽しめる典型的なロサンゼルス春の過ごし方です。",
-      "date": "4月（イースター前後）",
-      "place": "Santa Monica Beach, Santa Monica, CA 90401",
-      "link": "https://www.santamonica.com",
+      "title": "Santa Monica Pier Spring Events",
+      "description": "海の眺めと海風を楽しむ屋外アクティビティ。遊園地、アーケード、ストリートパフォーマー。4月は天気も良く、家族で過ごしやすい季節です。",
+      "date": "4月通期",
+      "place": "200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-03T05:51:49.720Z"
+  "updatedAt": "2026-04-05T05:55:48.955Z"
 }
