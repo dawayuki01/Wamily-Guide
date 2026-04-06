@@ -1,6 +1,22 @@
 {
   "spots": [
     {
+      "id": "33a088f5-0b07-81d1-ab96-f5079a89b607",
+      "name": "饒河街觀光夜市",
+      "emoji": "🌙",
+      "category": "local",
+      "layer": "vital",
+      "description": "松山駅すぐの夜市。胡椒餅が名物。子連れでも歩きやすい一本道タイプ。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
+    },
+    {
       "id": "334088f5-0b07-813a-8d0e-ec0b4aad0cfd",
       "name": "在台日本国大使館（交流協会台北事務所）",
       "emoji": "🇯🇵",
@@ -47,6 +63,54 @@
       "extra": false,
       "lat": 25.041,
       "lng": 121.531
+    },
+    {
+      "id": "33a088f5-0b07-8182-889d-c322361ac54b",
+      "name": "三媽臭臭鍋 松山饒河店",
+      "emoji": "🍲",
+      "category": "food",
+      "layer": "local",
+      "description": "ローカル鍋チェーン。一人一鍋スタイルで子どもも食べやすい。夜市のあとにも。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "33a088f5-0b07-818b-92e0-ec7231b702dc",
+      "name": "四四南村",
+      "emoji": "🏘️",
+      "category": "local",
+      "layer": "local",
+      "description": "台北101のすぐ近くにある眷村（軍人村）跡。レトロな雰囲気でお散歩に◎。週末はマーケットも。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "33a088f5-0b07-81f6-88ae-ee29a268d302",
+      "name": "華山1914文化創意産業園区",
+      "emoji": "🏛️",
+      "category": "play",
+      "layer": "local",
+      "description": "旧酒造工場をリノベしたアート複合施設。展示やカフェ、子ども向けイベントも。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
     },
     {
       "id": "334088f5-0b07-8145-ad3b-f5048aace312",
@@ -161,5 +225,5 @@
       "lng": 121.8442
     }
   ],
-  "checkedAt": "2026-04-05T05:54:53.746Z"
+  "checkedAt": "2026-04-06T05:00:04.980Z"
 }

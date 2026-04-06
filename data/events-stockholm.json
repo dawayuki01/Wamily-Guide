@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム春祭り（Stockholms Vårfest）",
-      "description": "4月のストックホルムで開催される春の祭り。音楽ライブ、子ども向けワークショップ、フードマーケット、公園でのピクニックエリアなど家族向けアクティビティが豊富です。",
+      "title": "スウェーデン王妃誕生日祝賀（Royal Palace Celebrations）",
+      "description": "4月初旬、王宮で王妃の誕生日を祝う儀式が行われます。衛兵交代式や王宮見学など、子どもも楽しめる華やかなセレモニーが実施されます。",
+      "date": "4月上旬",
+      "place": "王宮（Kungliga Slottet）、Lejonbacken, 111 30 Stockholm",
+      "link": "https://www.royalpalace.se",
+      "free": true
+    },
+    {
+      "title": "春の花祭り（Florariumet Blom & Trädgård）",
+      "description": "スキンスカ宮殿で開催される春の花と庭園のイベント。チューリップや桜が美しく咲き、子ども向けの庭園ツアーやワークショップも。",
       "date": "4月中旬〜下旬",
-      "place": "ストックホルム市内各地（主にNorrmalm地区とOstermalm地区）",
-      "link": "https://www.stockholmvaarfest.se",
-      "free": true
-    },
-    {
-      "title": "スクーセン野外博物館の春プログラム",
-      "description": "北欧最大の野外博物館で、春シーズンに動物との触れ合い、伝統工芸ワークショップ、昔ながらの農場体験が楽しめます。乳幼児から小学生まで対応。",
-      "date": "4月初旬〜",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
-      "link": "https://www.skansen.se",
+      "place": "スキンスカ宮殿（Drottningholm Palace），Drottningholm, 171 73 Stockholm",
+      "link": "https://www.drottningholm.se",
       "free": false
     },
     {
-      "title": "王立庭園（Drottningholms slottspark）の春の散策",
-      "description": "ユネスコ世界遺産の王宮の庭園。4月は新緑と春の花が美しい季節。無料で散策でき、子どもが走り回って遊べる広大な公園です。",
-      "date": "4月全般",
-      "place": "Drottningholms slottspark, Drottningholm, Stockholm",
-      "link": "https://www.kungligaslotten.se",
-      "free": true
-    },
-    {
-      "title": "ムンマルベリー博物館の子ども向けイベント",
-      "description": "北欧のアート・デザインを学べる。4月は子ども向けの創作ワークショップや展示会が充実。5歳以上向けのインタラクティブプログラムが魅力。",
-      "date": "4月全般（週末中心）",
-      "place": "Moderna Museet, Exercisvägen 4, Stockholm",
-      "link": "https://www.modernamuseet.se",
+      "title": "ユールゴーデン島の屋外遊び園地開園",
+      "description": "グローナ・ルンドなど遊園地が4月に営業を開始。乗り物や屋外アクティビティが充実し、春の気候の中で家族で楽しめます。",
+      "date": "4月中旬頃",
+      "place": "ユールゴーデン島（Djurgården），Stockholm",
+      "link": "https://www.grolalund.com",
       "free": false
     },
     {
-      "title": "ガムラスタン（旧市街）での子どもガイドツアーと春市場",
-      "description": "中世の石畳の町並みを子ども目線で探索するガイドツアー。4月は春の花が装飾された古い広場で、手工芸品や春の食材のマーケットも開催。",
-      "date": "4月全般（ツアーは予約制）",
-      "place": "Gamla Stan, Stockholm",
+      "title": "ストックホルム自然史博物館の春企画展示",
+      "description": "子ども向けの春テーマ展示やインタラクティブプログラムが開催。恐竜や動物について学べる体験コーナーが充実しています。",
+      "date": "4月上旬〜下旬",
+      "place": "自然史博物館（Naturhistoriska riksmuseet），Frescativägen 40, 104 05 Stockholm",
+      "link": "https://www.nrm.se",
+      "free": false
+    },
+    {
+      "title": "メラル湖の春のカヌー・ボートツアー",
+      "description": "融氷期の美しい景色の中でカヌーやボートツアーが利用可能。子ども向けの安全ツアーで、自然の中で水上アクティビティを楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "メラル湖周辺（Västerås, Mälaren Lake area）",
       "link": "https://www.visitstockholm.com",
-      "free": true
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-05T05:55:18.652Z"
+  "updatedAt": "2026-04-06T04:59:12.984Z"
 }

@@ -1,6 +1,38 @@
 {
   "spots": [
     {
+      "id": "33a088f5-0b07-8150-b3b0-c52c58d60ada",
+      "name": "セーフウェイ",
+      "emoji": "🛒",
+      "category": "local",
+      "layer": "vital",
+      "description": "大型スーパー。トイレあるよ。おむつ・ミルク・お菓子の調達に。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "33a088f5-0b07-81c3-93ff-c0e66c72104b",
+      "name": "レナーズ ベーカリー",
+      "emoji": "🍩",
+      "category": "food",
+      "layer": "vital",
+      "description": "マラサダの名店。揚げたてアツアツ。子どもが大好きな味。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
+    },
+    {
       "id": "334088f5-0b07-8128-96b7-f79a47c8d2db",
       "name": "カピオラニ小児科病院",
       "emoji": "🏥",
@@ -47,6 +79,54 @@
       "extra": false,
       "lat": 21.31,
       "lng": -157.859
+    },
+    {
+      "id": "33a088f5-0b07-8141-b08d-d1980ea8e0a6",
+      "name": "Hana Koa Brewing Co.",
+      "emoji": "🍺",
+      "category": "food",
+      "layer": "local",
+      "description": "ワイキキ近くのブルワリー。フードメニューも充実。子連れでも入りやすい雰囲気。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "33a088f5-0b07-8189-b73e-f46cc630b275",
+      "name": "ユチュン コリアン レストラン",
+      "emoji": "🇰🇷",
+      "category": "food",
+      "layer": "local",
+      "description": "ハワイの韓国料理店。ボリュームたっぷりで家族向き。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "33a088f5-0b07-81d8-9bc3-c157589fdebf",
+      "name": "Bắc Nam",
+      "emoji": "🍜",
+      "category": "food",
+      "layer": "local",
+      "description": "ベトナム料理。フォーが美味しい。子どもも食べやすいメニューあり。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
     },
     {
       "id": "334088f5-0b07-811f-abec-fed3f23c3e03",
@@ -97,6 +177,22 @@
       "lng": -157.853
     },
     {
+      "id": "33a088f5-0b07-81b0-aa08-cd514eedec6e",
+      "name": "KIDS CITY ADVENTURE",
+      "emoji": "🎪",
+      "category": "play",
+      "layer": "play",
+      "description": "室内キッズプレイグラウンド。雨の日や暑すぎる日の避難所に。",
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年4月",
+      "placeId": null,
+      "extra": false,
+      "lat": null,
+      "lng": null
+    },
+    {
       "id": "334088f5-0b07-819d-846a-ca52bb3954e1",
       "name": "ハワイ州立水族館（Waikiki Aquarium）",
       "emoji": "🐙",
@@ -145,5 +241,5 @@
       "lng": -157.8057
     }
   ],
-  "checkedAt": "2026-04-05T05:54:53.746Z"
+  "checkedAt": "2026-04-06T04:58:46.924Z"
 }

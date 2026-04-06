@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Los Angeles Times Festival of Books",
-      "description": "USC校キャンパスで開催される、米国最大級の本の祭典。子ども向けステージ、作家サイン会、ワークショップなど家族で楽しめるプログラムが豊富です。",
-      "date": "4月中旬の週末",
+      "description": "南カリフォルニア大学キャンパスで開催される北米最大級の書籍フェスティバル。子ども向けのパネル、ワークショップ、キャラクター出演など多数。",
+      "date": "4月中旬",
       "place": "University of Southern California, Los Angeles, CA 90089",
-      "link": "https://www.latimes.com/books/la-et-book-festival",
+      "link": "https://www.latimes.com/entertainment/events/festival-of-books",
       "free": true
     },
     {
-      "title": "Descanso Gardens - Spring Bloom",
-      "description": "春の花々が咲き誇る庭園。子どもが走り回れる広い敷地、トレイン乗車、季節限定イベントなど。屋外で季節を感じられます。",
+      "title": "ハンティントン・ライブラリーの春の花園めぐり",
+      "description": "広大な庭園で春の花々が満開。ウォーキングツアーや子ども向けガイドツアーで植物について学べます。屋外の自然散策に最適。",
       "date": "4月上旬〜下旬",
-      "place": "1418 Descanso Drive, La Canada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org",
+      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Rd, San Marino, CA 91108",
+      "link": "https://www.huntington.org",
       "free": false
     },
     {
-      "title": "Griffith Observatory - Spring Programs",
-      "description": "天文台の子ども向け特別プログラム。プラネタリウム投影、天体観測イベント。山頂からの眺めも最高。入場料無料（ショー有料）。",
-      "date": "4月通期",
-      "place": "2800 E Observatory Road, Los Angeles, CA 90027",
+      "title": "グリフィス天文台の春特別プログラム",
+      "description": "昼間の天体観測プログラムや春の星座解説。子ども向けプラネタリウムショーも充実。無料入場で展示エリアも楽しめます。",
+      "date": "4月全月",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "California Science Center - Spring Camps & Exhibits",
-      "description": "入館無料の最先端科学館。春休みのキッズプログラム、宇宙船エンデバー展示、インタラクティブな展示で学びと遊びが融合。",
-      "date": "4月通期",
-      "place": "700 Exposition Park Drive, Los Angeles, CA 90037",
-      "link": "https://www.californiasciencecenter.org",
+      "title": "サンタモニカ・ピアのスプリングイベント",
+      "description": "遊園地施設やファミリー向けアクティビティが充実。海岸風景と共に、子どもたちが安全に遊べる季節限定プログラムが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
       "free": true
     },
     {
-      "title": "Santa Monica Pier Spring Events",
-      "description": "海の眺めと海風を楽しむ屋外アクティビティ。遊園地、アーケード、ストリートパフォーマー。4月は天気も良く、家族で過ごしやすい季節です。",
-      "date": "4月通期",
-      "place": "200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.org",
-      "free": true
+      "title": "LA Zoo の春の特別教育プログラム",
+      "description": "新生動物の展示や春の繁殖期イベント。子ども向けワークショップやキーパートークなど、動物について学べるプログラムが豊富。",
+      "date": "4月全月",
+      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Dr, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-05T05:55:48.955Z"
+  "updatedAt": "2026-04-06T04:59:43.757Z"
 }

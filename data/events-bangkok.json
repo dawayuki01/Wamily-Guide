@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソンクラーン（タイ正月水かけ祭り）",
-      "description": "4月中旬のタイの正月祝い。水を掛け合う伝統行事で、子どもたちも楽しめます。家族向けイベントが各地で開催されます。",
-      "date": "4月13日〜15日",
-      "place": "バンコク市内各所（スペクトラム、サヤーム地区など）",
-      "link": "https://www.tatnews.org",
+      "title": "ソンクラーン（タイ正月）",
+      "description": "水をかけ合う伝統的な新年祭。子どもたちが楽しく参加でき、水遊びイベントが各地で開催。文化体験と涼しさが同時に楽しめます。",
+      "date": "4月上旬（4月13～15日が中心）",
+      "place": "バンコク市内各地、特にシーロムやカオサンロード",
+      "link": "https://www.tourismthailand.org/",
       "free": true
     },
     {
-      "title": "アーンシーパーク（アンシーパーク）での春の野外イベント",
-      "description": "バンコクの大型公園。4月は家族向けピクニックやアウトドア活動が活発。緑豊かな環境で子どもは走り回れます。",
-      "date": "4月上旬〜下旬",
-      "place": "Ang Sila Park, Samutprakan, Bangkok",
+      "title": "サイアム・スクエアの子どもイベント",
+      "description": "バンコクの大型ショッピングモール内で開催される子ども向けの季節イベント。ワークショップやキャラクター登場など、屋内で安全に楽しめます。",
+      "date": "4月中旬～下旬",
+      "place": "Siam Square, 965 Rama 1 Road, Bangkok",
       "link": "",
       "free": true
     },
     {
-      "title": "サファリワールド（Safari World）の春キャンペーン",
-      "description": "バンコク郊外の大型動物園。4月の春シーズンに子ども向け特別プログラムやショーが開催。動物との触れ合い体験が人気。",
-      "date": "4月中旬〜下旬",
-      "place": "99 Panya Road, Samutprakan, Thailand",
-      "link": "https://www.safariworld.com",
-      "free": false
-    },
-    {
-      "title": "シーアクアリウム（The Sea Life Bangkok Ocean World）の特別展示",
-      "description": "バンコク市内の大型水族館。4月限定で海洋生物の繁殖シーズン特別展示やタッチプール体験が実施されます。",
-      "date": "4月上旬〜下旬",
-      "place": "The EmQuartier, 622 Sukhumvit Road, Bangkok",
-      "link": "https://www.bkkoceanworld.com",
-      "free": false
-    },
-    {
-      "title": "チャトゥチャック・ウィークエンド・マーケット（春の花・植物特集）",
-      "description": "バンコク最大規模の市場。4月は春の花や観葉植物の特別コーナーが拡大。家族でお土産探しや食べ歩きが楽しめます。",
-      "date": "4月の週末（土日）",
-      "place": "Chatuchak Park, Phahonyothin Road, Bangkok",
-      "link": "https://www.chatuchakmarket.com",
+      "title": "ルンピニー公園での屋外遊び・ジョギングトラック",
+      "description": "広大な公園で朝早く訪れると、地元家族との交流ができます。遊び場、湖、広場があり、子どもが走り回れる安全な環境。朝6時～8時がおすすめ。",
+      "date": "4月中旬～下旬（早朝）",
+      "place": "Lumphini Park, Rama IV Road, Bangkok",
+      "link": "https://www.bangkoknoi.go.th/",
       "free": true
+    },
+    {
+      "title": "サファリワールド＆マリンパーク春の特別プログラム",
+      "description": "アニマルパークで野生動物を見学。春季限定の餌やり体験やショー、水遊びエリアが充実。小学生向けの教育プログラムもあります。",
+      "date": "4月中旬～下旬",
+      "place": "Safari World, 99 Panya Indra Rd, Bangkok 10210",
+      "link": "https://www.safariworld.com/",
+      "free": false
+    },
+    {
+      "title": "ジムトンプソンの家での子ども向けツアー",
+      "description": "タイ文化を学べる歴史的建造物。子ども向けガイドツアーが用意されており、タイ建築や文化を分かりやすく説明。涼しい室内で過ごせます。",
+      "date": "4月上旬～下旬（毎日開催）",
+      "place": "Jim Thompson House, 6 Soi Kasemsan 2, Bangkok",
+      "link": "https://www.jimthompsonhouse.com/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-05T05:55:34.940Z"
+  "updatedAt": "2026-04-06T04:59:28.423Z"
 }

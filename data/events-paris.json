@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの季節 - ジャルダン・デ・プラント（植物園）",
-      "description": "パリの植物園で春のチューリップが満開。色とりどりの花畑は子どもたちを魅了します。家族でのんびり散歩に最適。",
-      "date": "4月上旬〜中旬",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.jardindesplantes.net/",
+      "title": "チューリップの季節・パリの公園散策",
+      "description": "4月のパリは色とりどりのチューリップが咲き誇ります。ルクセンブルク公園やテュイルリー庭園で子どもと一緒に春の花を楽しめる季節。散策は無料で楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）/ テュイルリー庭園（Jardin des Tuileries）",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "フェスティバル・ド・シネマ・パリ・ジュネス（子ども映画祭）",
-      "description": "家族向けアニメーション映画やファンタジー作品の特別上映。子ども向けワークショップも開催される春の映画イベント。",
-      "date": "4月中旬〜下旬",
-      "place": "パリ市内各映画館",
-      "link": "https://www.festival-cinemagora.com/",
-      "free": false
-    },
-    {
-      "title": "セーヌ河畔での屋外レクリエーション - パリ・プラージュ準備期",
-      "description": "春らしい気候の中、セーヌ河畔の遊歩道で散策。公園でのピクニックやアイススケートリンク跡地での家族活動が楽しめます。",
-      "date": "4月全般",
-      "place": "Seine Riverbanks, various locations along the river",
-      "link": "https://www.paris.fr/",
-      "free": true
-    },
-    {
-      "title": "パリ水族館（シテ・デ・ザキュアリウム）の春企画",
-      "description": "海の生き物たちを観察できる屋内施設。子ども向けの解説パネルやタッチプール体験。天候に左右されず楽しめます。",
-      "date": "4月全般",
-      "place": "5 Avenue Albert 1er, 75007 Paris",
-      "link": "https://www.citedessciences.fr/",
-      "free": false
-    },
-    {
-      "title": "イースター・マーケット - シャンゼリゼ周辺",
-      "description": "イースター時期の装飾品やお菓子が並ぶマーケット。子ども向けの卵探しゲームやクラフト体験も。春の風情を感じられます。",
+      "title": "イースター（復活祭）関連イベント・ワークショップ",
+      "description": "パリの多くの子ども向け博物館やギャラリーでイースター期間に卵探しやクラフトワークショップが開催されます。シテ科学産業博物館などで楽しめます。",
       "date": "4月中旬〜下旬（イースター前後）",
-      "place": "Avenue des Champs-Élysées, 75008 Paris",
-      "link": "",
+      "place": "シテ科学産業博物館（Cité des Sciences et de l'Industrie）、パリ市内各所",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "パリ・プランタン春のイルミネーション＆ショーウィンドウ",
+      "description": "百貨店プランタンの春のデコレーション。豪華で楽しいショーウィンドウが家族連れに人気。ショッピングモール内でも子ども向けアクティビティが開催されることも。",
+      "date": "4月上旬〜下旬",
+      "place": "プランタン（Printemps）、パリ9区 Boulevard Haussmann",
+      "link": "https://www.printemps.com",
       "free": true
+    },
+    {
+      "title": "セーヌ川沿いの屋外アクティビティ・ピクニック",
+      "description": "4月の好天時に、セーヌ川沿いのポートアレクサンドル3世やアイル・サン・ルイでピクニック。遊歩道での散策やアイスクリーム屋巡りが楽しい季節です。完全に無料です。",
+      "date": "4月上旬〜下旬",
+      "place": "セーヌ川沿い（Port de l'Alma、Île Saint-Louis周辺）",
+      "link": "https://www.parisinfo.com",
+      "free": true
+    },
+    {
+      "title": "ベルサイユ宮殿・春の庭園フェスティバル",
+      "description": "ベルサイユ宮殿では4月に春の庭園フェスティバル開催。フランス式庭園のチューリップやマグノリアが満開。子ども向けのガイドツアーも利用できます。",
+      "date": "4月上旬〜下旬",
+      "place": "ベルサイユ宮殿（Château de Versailles）、Versailles",
+      "link": "https://www.chateauversailles.fr",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-05T05:55:10.793Z"
+  "updatedAt": "2026-04-06T04:59:04.940Z"
 }

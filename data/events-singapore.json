@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・ガーデン・フェスティバル",
-      "description": "春の花々が咲き誇るガーデン・バイ・ザ・ベイでの大規模フェスティバル。子ども向けワークショップ、植物迷路、フォトスポットなど家族で楽しめるコンテンツが豊富です。",
-      "date": "4月中旬〜5月上旬",
-      "place": "ガーデン・バイ・ザ・ベイ（18 Marina Gardens Drive）",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "Singapore Garden Festival 2026",
+      "description": "シンガポール最大の園芸イベント。美しい花壇、ガーデンディスプレイ、子ども向けワークショップ、アクティビティゾーンが充実。家族連れに大人気。",
+      "date": "4月上旬〜中旬",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
+      "link": "https://www.gardensfestival.gov.sg",
       "free": false
     },
     {
-      "title": "チャイニーズ・ニューイヤー・デコレーション＆マーケット",
-      "description": "4月は旧正月後の装飾が各地に残り、チャイナタウンでは特別マーケットが開催。カラフルな飾り、屋台グルメ、子ども向けゲーム。文化体験と食べ歩きが楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "チャイナタウン・ヘリテージ・センター周辺（48 Pagoda Street）",
-      "link": "https://www.visitsingapore.com/see-do-experience/neighbourhoods/chinatown/",
-      "free": true
-    },
-    {
-      "title": "東海岸公園・シーサイド・ファーマーズ・マーケット",
-      "description": "毎月第2日曜開催の屋外ファーマーズマーケット。地元農産物、子ども向けアクティビティ、ビーチでの遊び。新鮮な空気と自然を満喫できます。",
-      "date": "4月の第2日曜および毎週末",
-      "place": "イースト・コースト・パーク（East Coast Park）",
+      "title": "East Coast Park ビーチアクティビティ",
+      "description": "シンガポール最大のビーチパーク。4月は好天が多く、海水浴、サイクリング、ピクニックに最適。家族向けの遊び場、カフェも充実。",
+      "date": "4月全般",
+      "place": "East Coast Park, East Coast Parkway, Singapore 1441",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "シンガポール動物園・キッズ向けスペシャルプログラム",
-      "description": "春季の動物園では、乳幼児向けふれあい広場やガイド付きトラムツアーが充実。新しい生まれたばかりの動物たちの特別展示も期待でき、全年代で楽しめます。",
-      "date": "4月通年（要確認）",
-      "place": "シンガポール動物園（80 Mandai Lake Road）",
-      "link": "https://www.zoo.com.sg",
+      "title": "Sentosa Island Family Fest",
+      "description": "セントーサ島での家族向けフェスティバル。キッズアクティビティ、パフォーマンス、ワークショップが開催。S.E.A.水族館やユニバーサルスタジオも近く便利。",
+      "date": "4月中旬〜下旬",
+      "place": "Sentosa Island, Sentosa Gateway, Singapore 098269",
+      "link": "https://www.sentosa.com.sg",
       "free": false
     },
     {
-      "title": "セントーサ島・ビーチクリーンアップ・ファミリーデー",
-      "description": "4月下旬開催の家族向けビーチクリーンアップイベント。環境学習、砂浜遊び、軽食提供。子どもと一緒に社会貢献できるユニークなアクティビティです。",
-      "date": "4月下旬（要確認）",
-      "place": "セントーサ島・シルバー・ビーチ（Sentosa Island）",
-      "link": "https://www.sentosa.com.sg",
+      "title": "Sri Mariamman Temple 文化体験プログラム",
+      "description": "シンガポール最古のヒンドゥー寺院。4月はタイプーサム後の季節で、文化ワークショップや子ども向けガイドツアーを開催。伝統体験ができます。",
+      "date": "4月中旬〜下旬",
+      "place": "Sri Mariamman Temple, 48 South Bridge Road, Singapore 058688",
+      "link": "https://www.smt.org.sg",
       "free": true
+    },
+    {
+      "title": "Singapore Zoo春の特別ナイトサファリ",
+      "description": "動物園が春向けの限定プログラムを開催。懐中電灯を持って夜間の動物観察。子どもが大興奮するアドベンチャー。餌やりタイムなども実施。",
+      "date": "4月中旬〜下旬（週末）",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.com.sg",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-05T05:55:27.624Z"
+  "updatedAt": "2026-04-06T04:59:20.402Z"
 }
