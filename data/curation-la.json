@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "id": "334088f5-0b07-813e-8edc-e26614d62838",
-      "name": "ロサンゼルス観光局 日本語サイト",
-      "type": "ブログ",
-      "description": "LAの公式観光サイト。テーマパーク・ビーチ・グルメなど、ファミリー旅行のプランニングに役立つ。",
-      "url": "https://www.discoverlosangeles.com/ja",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-8195-9f2f-eb171a232086",
       "name": "@discoverlosangeles",
       "type": "Instagram",
@@ -23,31 +15,7 @@
       "description": "LA観光局の公式チャンネル。ハリウッド・ビーチ・グルメなどLAの多彩な魅力を映像で紹介。",
       "url": "https://www.youtube.com/@discoverLA",
       "addedDate": "2026-03-31"
-    },
-    {
-      "id": "334088f5-0b07-81b0-b987-ece39f0c955f",
-      "name": "Family Travel LA",
-      "type": "Instagram",
-      "description": "家族連れのLA旅行スナップが満載で、視覚的に子どもとの楽しみ方がイメージしやすく、計画立てが捗ります。",
-      "url": "",
-      "addedDate": "2026-03-31"
-    },
-    {
-      "id": "334088f5-0b07-81d8-be05-cc15cb4cc279",
-      "name": "ロサンゼルス観光ガイド",
-      "type": "ブログ",
-      "description": "ディズニーランド、グリフィス天文台、ビーチなど定番スポットの子連れ向けの周り方やコツが詳しく、事前準備に最適です。",
-      "url": "",
-      "addedDate": "2026-03-31"
-    },
-    {
-      "id": "334088f5-0b07-813e-ab03-d82543af6ac9",
-      "name": "LAに住む日本人ママのvlog",
-      "type": "YouTube",
-      "description": "子連れで行きやすい穴場スポットやキッズフレンドリーなレストランを、実体験ベースで分かりやすく紹介してくれます。",
-      "url": "",
-      "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-04-06T04:58:48.535Z"
+  "updatedAt": "2026-04-06T06:18:06.824Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィエスタ・デ・サン・フェルナンド（Fiesta de San Fernando）",
-      "description": "マニラ市内各地で開催される聖人祭。パレード、文化行事、地元の屋台が並び、フィリピンの伝統文化を体験できます。子ども向けの演技やアクティビティも多数。",
-      "date": "4月中旬",
-      "place": "マニラ市内各地（メインはキアポ教会周辺）",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "Summer Festival 2026（サマーフェスティバル）",
+      "description": "4月のマニラは夏シーズンの始まり。ショッピングモールやリゾート施設では子ども向けの夏祭りイベントが開催され、ゲームやアクティビティが楽しめます。",
+      "date": "4月全般",
+      "place": "SM Mall of Asia、Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
       "free": true
     },
     {
-      "title": "ナショナル・ミュージアム「恐竜展」春特別展",
-      "description": "ナショナル・ミュージアムで開催される子ども向け特別展示。化石、骨格標本、インタラクティブなディスプレイで自然史を学べます。4月は乾季で訪問に最適。",
-      "date": "4月上旬〜下旬",
-      "place": "National Museum Complex, Padre Burgos Street, Manila",
+      "title": "Palaruan ng Lungsod Maynila（マニラ市民公園の水遊び施設）",
+      "description": "暑い4月は屋外の水遊び施設が大人気。子ども向けプールやウォータースライダー、ピクニック区域が完備されており、家族でリーズナブルに楽しめます。",
+      "date": "4月全般（営業期間内）",
+      "place": "Rizal Memorial Sports Complex, Vito Cruz, Manila",
+      "link": "https://www.rizalmemorial.org.ph/",
+      "free": false
+    },
+    {
+      "title": "Oceanarium & Marine Park（水族館での特別展示）",
+      "description": "マニラ湾周辺の水族館では春の海の生き物展示が充実。子ども向けのタッチプール体験やフィーディングショーが開催されています。",
+      "date": "4月全般",
+      "place": "Manila Ocean Park, Mall of Asia Complex, Pasay City",
+      "link": "https://www.manilaoceanpark.com/",
+      "free": false
+    },
+    {
+      "title": "National Museum Free Day（国立美術館・無料開放日）",
+      "description": "毎月第1日曜日は複数の国立美術館が無料開放。子ども向けの展示や体験コーナーもあり、フィリピン文化を学べます。",
+      "date": "4月の第1日曜日",
+      "place": "National Museum Complex, Padre Burgos Avenue, Manila",
       "link": "https://www.nationalmuseum.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "スモーキー・マウンテン周辺エコツアー・清掃ボランティア",
-      "description": "子ども向けのエコツアーとボランティア体験プログラム。自然保護活動を学びながら、地域コミュニティとの交流ができます。屋外アクティビティで環境学習。",
-      "date": "4月上旬〜中旬",
-      "place": "Smokey Mountain Area, Tondo, Manila",
-      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "フィリピン・チルドレンズ・ミュージアム春休みプログラム",
-      "description": "インタラクティブな展示と春休み向けワークショップ。STEM教育、アート、フィリピン文化について学ぶプログラムが充実。乳幼児〜小学生向けコーナー完備。",
-      "date": "4月上旬〜下旬",
-      "place": "Children's Museum, BGC (Bonifacio Global City), Taguig",
-      "link": "https://childrensmuseum.ph/",
+      "title": "Enchanted Kingdom Spring Events（テーマパークの春イベント）",
+      "description": "人気テーマパークでは4月に春限定のアトラクションやキャラクターグリーティング、子ども向けショーが開催されます。",
+      "date": "4月全般",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから車で1時間程度）",
+      "link": "https://www.enchantedkingdom.ph/",
       "free": false
-    },
-    {
-      "title": "リサール公園（Rizal Park）での凧揚げ・野外ピクニックフェスティバル",
-      "description": "マニラ最大の公園で開催される家族向けアウトドアイベント。凧揚げ大会、ピクニック、子ども向けゲーム、文化パフォーマンスが楽しめます。広大な緑地で安全に遊べます。",
-      "date": "4月中旬〜下旬",
-      "place": "Rizal Park, Manila",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T04:59:36.455Z"
+  "updatedAt": "2026-04-06T06:18:54.046Z"
 }

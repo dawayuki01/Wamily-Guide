@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival 2026",
-      "description": "シンガポール最大の園芸イベント。美しい花壇、ガーデンディスプレイ、子ども向けワークショップ、アクティビティゾーンが充実。家族連れに大人気。",
-      "date": "4月上旬〜中旬",
-      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
-      "link": "https://www.gardensfestival.gov.sg",
+      "title": "シンガポール・チューリップフェスティバル",
+      "description": "Gardens by the Bayで開催される春の花祭り。色とりどりのチューリップが咲き誇り、親子で季節の花を楽しめます。ガイドツアーも有。",
+      "date": "4月上旬～中旬",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park ビーチアクティビティ",
-      "description": "シンガポール最大のビーチパーク。4月は好天が多く、海水浴、サイクリング、ピクニックに最適。家族向けの遊び場、カフェも充実。",
-      "date": "4月全般",
-      "place": "East Coast Park, East Coast Parkway, Singapore 1441",
+      "title": "イースターイベント＠ユニバーサル・スタジオ・シンガポール",
+      "description": "家族向けのイースターエッグハント、キャラクターグリーティング、限定ショー。乳幼児から楽しめるアトラクションも充実しています。",
+      "date": "4月中旬～下旬",
+      "place": "Universal Studios Singapore, 8 Sentosa Gateway, Singapore 098269",
+      "link": "https://www.uss.com.sg",
+      "free": false
+    },
+    {
+      "title": "East Coast Park でのビーチピクニック・ウォータースポーツ",
+      "description": "シンガポール最大のビーチで、砂遊び、ピクニック、サイクリング、ウォータースポーツが無料で楽しめます。遊具やグラウンドも完備。",
+      "date": "4月全般（毎日）",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Sentosa Island Family Fest",
-      "description": "セントーサ島での家族向けフェスティバル。キッズアクティビティ、パフォーマンス、ワークショップが開催。S.E.A.水族館やユニバーサルスタジオも近く便利。",
-      "date": "4月中旬〜下旬",
-      "place": "Sentosa Island, Sentosa Gateway, Singapore 098269",
-      "link": "https://www.sentosa.com.sg",
-      "free": false
-    },
-    {
-      "title": "Sri Mariamman Temple 文化体験プログラム",
-      "description": "シンガポール最古のヒンドゥー寺院。4月はタイプーサム後の季節で、文化ワークショップや子ども向けガイドツアーを開催。伝統体験ができます。",
-      "date": "4月中旬〜下旬",
-      "place": "Sri Mariamman Temple, 48 South Bridge Road, Singapore 058688",
-      "link": "https://www.smt.org.sg",
+      "title": "シンガポール・フリンジ・フェスティバル",
+      "description": "アート・パフォーマンス・シアターの国際フェスティバル。子ども向けワークショップ、ファミリーショー、無料パフォーマンスも多数。",
+      "date": "4月中旬～下旬",
+      "place": "複数の会場（Esplanade、Funan、Gillman Barracksなど）",
+      "link": "https://www.singaporefringe.com",
       "free": true
     },
     {
-      "title": "Singapore Zoo春の特別ナイトサファリ",
-      "description": "動物園が春向けの限定プログラムを開催。懐中電灯を持って夜間の動物観察。子どもが大興奮するアドベンチャー。餌やりタイムなども実施。",
-      "date": "4月中旬〜下旬（週末）",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.com.sg",
-      "free": false
+      "title": "ナショナル・ライブラリー・ボード（NLB）子ども向けキャンペーン",
+      "description": "全図書館で開催される春のストーリータイム、工作ワークショップ、読み聞かせ。子ども向けプログラムが無料で楽しめます。",
+      "date": "4月全般",
+      "place": "シンガポール各所の図書館（Jurong Regional Library、Marina Bay Libraryなど）",
+      "link": "https://www.nlb.gov.sg",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T04:59:20.402Z"
+  "updatedAt": "2026-04-06T06:18:37.413Z"
 }

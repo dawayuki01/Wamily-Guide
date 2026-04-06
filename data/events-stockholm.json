@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン王妃誕生日祝賀（Royal Palace Celebrations）",
-      "description": "4月初旬、王宮で王妃の誕生日を祝う儀式が行われます。衛兵交代式や王宮見学など、子どもも楽しめる華やかなセレモニーが実施されます。",
-      "date": "4月上旬",
-      "place": "王宮（Kungliga Slottet）、Lejonbacken, 111 30 Stockholm",
-      "link": "https://www.royalpalace.se",
+      "title": "スウェーデン春祭り（Vårmarknad）",
+      "description": "ストックホルム各地で開催される春の市場。手工芸品、地元産物、キッズ向けワークショップが楽しめます。家族向けのアクティビティが豊富です。",
+      "date": "4月上旬〜中旬",
+      "place": "ストックホルム市内各地（Gamla Stan、Skansen周辺など）",
+      "link": "https://www.stockholm.se",
       "free": true
     },
     {
-      "title": "春の花祭り（Florariumet Blom & Trädgård）",
-      "description": "スキンスカ宮殿で開催される春の花と庭園のイベント。チューリップや桜が美しく咲き、子ども向けの庭園ツアーやワークショップも。",
-      "date": "4月中旬〜下旬",
-      "place": "スキンスカ宮殿（Drottningholm Palace），Drottningholm, 171 73 Stockholm",
-      "link": "https://www.drottningholm.se",
-      "free": false
-    },
-    {
-      "title": "ユールゴーデン島の屋外遊び園地開園",
-      "description": "グローナ・ルンドなど遊園地が4月に営業を開始。乗り物や屋外アクティビティが充実し、春の気候の中で家族で楽しめます。",
-      "date": "4月中旬頃",
-      "place": "ユールゴーデン島（Djurgården），Stockholm",
-      "link": "https://www.grolalund.com",
-      "free": false
-    },
-    {
-      "title": "ストックホルム自然史博物館の春企画展示",
-      "description": "子ども向けの春テーマ展示やインタラクティブプログラムが開催。恐竜や動物について学べる体験コーナーが充実しています。",
+      "title": "スカンセン野外博物館の春季特別展示",
+      "description": "北欧最大の野外博物館で、春の動物たちの様子、伝統的な北欧文化体験、子どものための教育プログラムが開催されます。",
       "date": "4月上旬〜下旬",
-      "place": "自然史博物館（Naturhistoriska riksmuseet），Frescativägen 40, 104 05 Stockholm",
-      "link": "https://www.nrm.se",
+      "place": "Skansen, Djurgården 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "メラル湖の春のカヌー・ボートツアー",
-      "description": "融氷期の美しい景色の中でカヌーやボートツアーが利用可能。子ども向けの安全ツアーで、自然の中で水上アクティビティを楽しめます。",
+      "title": "Djurgården島での春の自然散策と遊び場",
+      "description": "ストックホルムの緑の島で、春の花々と北欧の自然を楽しめます。複数の子ども向け遊び場、博物館、カフェがあり、家族で一日過ごせます。",
       "date": "4月中旬〜下旬",
-      "place": "メラル湖周辺（Västerås, Mälaren Lake area）",
-      "link": "https://www.visitstockholm.com",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.stockholm.se/en/djurgarden",
+      "free": true
+    },
+    {
+      "title": "北欧子ども博物館（Junibacken）の春イベント",
+      "description": "スウェーデンの児童文学をテーマにした施設。春季の特別展示、ワークショップ、キャラクターとの交流が楽しめます。乳幼児から小学生向け。",
+      "date": "4月中旬〜下旬",
+      "place": "Junibacken, Galärvägen 8, 115 21 Stockholm",
+      "link": "https://www.junibacken.se",
+      "free": false
+    },
+    {
+      "title": "ストックホルム水族館（Aquaria）の春休みプログラム",
+      "description": "北欧最大の水族館で、春休み期間の子ども向け教育プログラムやタッチングプールが実施されます。海の生き物について楽しく学べます。",
+      "date": "4月上旬〜中旬",
+      "place": "Aquaria Water Museum, Falkenbergsgatan 2, 115 20 Stockholm",
+      "link": "https://www.aquariavattenmuseum.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T04:59:12.984Z"
+  "updatedAt": "2026-04-06T06:18:29.773Z"
 }

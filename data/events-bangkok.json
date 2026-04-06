@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソンクラーン（タイ正月）",
-      "description": "水をかけ合う伝統的な新年祭。子どもたちが楽しく参加でき、水遊びイベントが各地で開催。文化体験と涼しさが同時に楽しめます。",
-      "date": "4月上旬（4月13～15日が中心）",
-      "place": "バンコク市内各地、特にシーロムやカオサンロード",
+      "title": "ソンクラーン（タイ正月）水かけ祭り",
+      "description": "タイの伝統的な正月祭。子どもたちが水鉄砲や水を掛け合う楽しいお祭り。家族で気軽に参加でき、タイ文化を体験できます。4月中旬がピークです。",
+      "date": "4月13日〜15日（前後に延長される場合あり）",
+      "place": "バンコク市内全域（特にカオサン通り、シーロム通り、サイアムスクエア周辺）",
       "link": "https://www.tourismthailand.org/",
       "free": true
     },
     {
-      "title": "サイアム・スクエアの子どもイベント",
-      "description": "バンコクの大型ショッピングモール内で開催される子ども向けの季節イベント。ワークショップやキャラクター登場など、屋内で安全に楽しめます。",
-      "date": "4月中旬～下旬",
-      "place": "Siam Square, 965 Rama 1 Road, Bangkok",
-      "link": "",
+      "title": "チャトゥチャック・ウィークエンド・マーケット",
+      "description": "東南アジア最大級の週末マーケット。子ども向けおもちゃ、衣類、食べ物が豊富。広大で家族で丸一日楽しめます。毎週末開催です。",
+      "date": "毎週土日（4月全週末）",
+      "place": "Chat Chai Rd, Lat Yao, Chatuchak, Bangkok 10900",
+      "link": "https://www.chatuchakmarket.org/",
       "free": true
     },
     {
-      "title": "ルンピニー公園での屋外遊び・ジョギングトラック",
-      "description": "広大な公園で朝早く訪れると、地元家族との交流ができます。遊び場、湖、広場があり、子どもが走り回れる安全な環境。朝6時～8時がおすすめ。",
-      "date": "4月中旬～下旬（早朝）",
-      "place": "Lumphini Park, Rama IV Road, Bangkok",
-      "link": "https://www.bangkoknoi.go.th/",
-      "free": true
-    },
-    {
-      "title": "サファリワールド＆マリンパーク春の特別プログラム",
-      "description": "アニマルパークで野生動物を見学。春季限定の餌やり体験やショー、水遊びエリアが充実。小学生向けの教育プログラムもあります。",
-      "date": "4月中旬～下旬",
-      "place": "Safari World, 99 Panya Indra Rd, Bangkok 10210",
-      "link": "https://www.safariworld.com/",
+      "title": "サイアム・パラゴン水族館（サイアム・オーシャン・ワールド）",
+      "description": "バンコク最大級の水族館。30,000匹以上の海洋生物を展示。タッチプール体験、イルカショーなど子ども向けプログラムが豊富です。",
+      "date": "通年営業（4月は毎日）",
+      "place": "Siam Paragon Building, 991 Rama I Rd, Pathum Wan, Bangkok 10330",
+      "link": "https://www.siamoceanworld.com/",
       "free": false
     },
     {
-      "title": "ジムトンプソンの家での子ども向けツアー",
-      "description": "タイ文化を学べる歴史的建造物。子ども向けガイドツアーが用意されており、タイ建築や文化を分かりやすく説明。涼しい室内で過ごせます。",
-      "date": "4月上旬～下旬（毎日開催）",
-      "place": "Jim Thompson House, 6 Soi Kasemsan 2, Bangkok",
-      "link": "https://www.jimthompsonhouse.com/",
+      "title": "ルンピニ公園での朝のエクササイズ・バードウォッチング",
+      "description": "バンコク最大級の公園。早朝は地元民のジョギング、太極拳、ヨガなどが行われます。野鳥観察も可能。広場で家族で走ったり遊んだりできます。",
+      "date": "通年（4月全期間、早朝がおすすめ）",
+      "place": "Rama IV Rd, Pathum Wan, Khet Pathum Wan, Bangkok 10330",
+      "link": "https://www.bangkok.com/",
+      "free": true
+    },
+    {
+      "title": "キッザニア・バンコク職業体験プログラム",
+      "description": "3〜15才向けの職業体験施設。100種類以上の職業が体験できます。4月は特別プログラムやイベントが開催される場合があります。",
+      "date": "通年営業（4月全期間、事前確認推奨）",
+      "place": "EmQuartier Building, 689 Sukhumvit Rd, Prakanong, Wattana, Bangkok 10110",
+      "link": "https://www.kidzania.com/th/en",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T04:59:28.423Z"
+  "updatedAt": "2026-04-06T06:18:46.740Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの季節・パリの公園散策",
-      "description": "4月のパリは色とりどりのチューリップが咲き誇ります。ルクセンブルク公園やテュイルリー庭園で子どもと一緒に春の花を楽しめる季節。散策は無料で楽しめます。",
+      "title": "チューリップ咲く春のジベルニー モネの庭園",
+      "description": "クロード・モネの邸宅と庭園を訪問。4月は色とりどりのチューリップが咲き乱れ、絵画の世界そのものです。子どもも大自然を満喫できます。",
       "date": "4月上旬〜下旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）/ テュイルリー庭園（Jardin des Tuileries）",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "イースター（復活祭）関連イベント・ワークショップ",
-      "description": "パリの多くの子ども向け博物館やギャラリーでイースター期間に卵探しやクラフトワークショップが開催されます。シテ科学産業博物館などで楽しめます。",
-      "date": "4月中旬〜下旬（イースター前後）",
-      "place": "シテ科学産業博物館（Cité des Sciences et de l'Industrie）、パリ市内各所",
-      "link": "https://www.cite-sciences.fr",
+      "place": "84 rue Claude Monet, 27620 Giverny",
+      "link": "https://fondation-monet.com",
       "free": false
     },
     {
-      "title": "パリ・プランタン春のイルミネーション＆ショーウィンドウ",
-      "description": "百貨店プランタンの春のデコレーション。豪華で楽しいショーウィンドウが家族連れに人気。ショッピングモール内でも子ども向けアクティビティが開催されることも。",
-      "date": "4月上旬〜下旬",
-      "place": "プランタン（Printemps）、パリ9区 Boulevard Haussmann",
-      "link": "https://www.printemps.com",
-      "free": true
-    },
-    {
-      "title": "セーヌ川沿いの屋外アクティビティ・ピクニック",
-      "description": "4月の好天時に、セーヌ川沿いのポートアレクサンドル3世やアイル・サン・ルイでピクニック。遊歩道での散策やアイスクリーム屋巡りが楽しい季節です。完全に無料です。",
-      "date": "4月上旬〜下旬",
-      "place": "セーヌ川沿い（Port de l'Alma、Île Saint-Louis周辺）",
+      "title": "パリ春のマーケット・フラワーマーケット",
+      "description": "イル・ド・ラ・シテのマダレーヌ寺院周辺で開催される春のマーケット。季節の花や地元産品が並び、散策して無料で楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "Place de la Madeleine, 75008 Paris",
       "link": "https://www.parisinfo.com",
       "free": true
     },
     {
-      "title": "ベルサイユ宮殿・春の庭園フェスティバル",
-      "description": "ベルサイユ宮殿では4月に春の庭園フェスティバル開催。フランス式庭園のチューリップやマグノリアが満開。子ども向けのガイドツアーも利用できます。",
+      "title": "セーヌ川沿いの桜並木散歩",
+      "description": "パリ各所に植えられた日本の桜が4月に開花。セーヌ川沿いを散歩しながら春の花見が無料で楽しめます。家族でピクニック気分も良好。",
+      "date": "4月上旬〜中旬",
+      "place": "Seine Riverbanks, Paris",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "パリ子ども科学館（Cité des Sciences）春のワークショップ",
+      "description": "4月は春休みシーズン向け特別プログラム充実。乳幼児から小学生まで対象の科学実験やデジタル体験が毎日開催されます。",
       "date": "4月上旬〜下旬",
-      "place": "ベルサイユ宮殿（Château de Versailles）、Versailles",
-      "link": "https://www.chateauversailles.fr",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "ルクセンブルク公園 春のポニー乗馬・遊園地",
+      "description": "パリの美しい公園で、子ども向けポニー乗馬や遊具エリアが営業開始。春の陽気の中、家族でのんびり過ごせます。",
+      "date": "4月中旬〜下旬",
+      "place": "Rue de Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T04:59:04.940Z"
+  "updatedAt": "2026-04-06T06:18:22.687Z"
 }

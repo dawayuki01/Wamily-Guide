@@ -1,35 +1,11 @@
 {
   "items": [
     {
-      "id": "334088f5-0b07-8151-9571-cc10efa9861f",
-      "name": "韓国観光公社 日本語公式サイト",
-      "type": "ブログ",
-      "description": "韓国政府の観光公社が運営。子連れ旅行プラン・テーマ別観光情報が日本語で充実。",
-      "url": "https://japanese.visitkorea.or.kr/",
-      "addedDate": "2026-03-31"
-    },
-    {
-      "id": "334088f5-0b07-8165-841f-f297cc22f68f",
-      "name": "韓国観光公社 公式YouTube",
-      "type": "YouTube",
-      "description": "韓国の観光スポット・グルメ・文化を映像で紹介。ソウルの街の雰囲気が伝わる公式チャンネル。",
-      "url": "https://www.youtube.com/@KoreaTourismOrg",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-81fb-b6bc-fefe4b90faa4",
       "name": "@visitkorea.jp",
       "type": "Instagram",
       "description": "韓国観光公社の日本語Instagram。K-POPだけじゃない韓国の魅力を子連れ目線でも発信中。",
       "url": "https://www.instagram.com/visitkorea.jp/",
-      "addedDate": "2026-03-31"
-    },
-    {
-      "id": "334088f5-0b07-81ab-a6ef-cad959ad1707",
-      "name": "ハナのソウル子育て日記",
-      "type": "Instagram",
-      "description": "実際にソウルで子育てする日本人ママのリアルな日常。子どもウケする公園やカフェ、買い物情報が親友目線で伝わってきます。",
-      "url": "",
       "addedDate": "2026-03-31"
     },
     {
@@ -39,15 +15,7 @@
       "description": "韓国の最新情報を日本語で発信。子ども向け施設やファミリー向けレストランのクーポンも充実していて助かります。",
       "url": "https://www.seoulnavi.com/",
       "addedDate": "2026-03-31"
-    },
-    {
-      "id": "334088f5-0b07-814a-bc3f-e5d3899d2d25",
-      "name": "子連れでソウル",
-      "type": "ブログ",
-      "description": "子ども連れの視点で、キッズフレンドリーなカフェ・遊び場・食事スポットを詳しく紹介。親目線の正直な情報が宝物。",
-      "url": "",
-      "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-04-06T04:58:48.536Z"
+  "updatedAt": "2026-04-06T06:18:06.824Z"
 }
