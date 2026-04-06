@@ -203,6 +203,10 @@ async function fetchCuration(notion) {
   do {
     const response = await notion.databases.query({
       database_id: dbId,
+      filter: {
+        property: 'ステータス',
+        select: { equals: '公開' },
+      },
       sorts: [{ property: '追加日', direction: 'descending' }],
       start_cursor: cursor,
       page_size: 100,
