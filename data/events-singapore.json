@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・チューリップフェスティバル",
-      "description": "Gardens by the Bayで開催される春の花祭り。色とりどりのチューリップが咲き誇り、親子で季節の花を楽しめます。ガイドツアーも有。",
-      "date": "4月上旬～中旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
+      "title": "チンゲイ・パレード（Chingay Parade）",
+      "description": "旧正月を祝う東南アジア最大級のパレード。カラフルな巨大人形や山車が街を練り歩き、子どもたちも沿道から楽しめます。無料で観賞できます。",
+      "date": "4月上旬（旧正月時期により変動）",
+      "place": "シンガポール川沿い、クラークキー周辺",
+      "link": "https://www.visitsingapore.com",
+      "free": true
+    },
+    {
+      "title": "ガーデンズ・バイ・ザ・ベイ春の花展示",
+      "description": "チューリップやサクラなど春の花々の特別展示。フラワー・ドーム内で季節限定の花景を楽しめます。子ども向けワークショップも開催。",
+      "date": "4月中旬〜下旬",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "イースターイベント＠ユニバーサル・スタジオ・シンガポール",
-      "description": "家族向けのイースターエッグハント、キャラクターグリーティング、限定ショー。乳幼児から楽しめるアトラクションも充実しています。",
-      "date": "4月中旬～下旬",
-      "place": "Universal Studios Singapore, 8 Sentosa Gateway, Singapore 098269",
-      "link": "https://www.uss.com.sg",
+      "title": "イースター・エッグ・ハント",
+      "description": "シンガポール内のショッピングモールやホテルで開催される子ども向けイースターイベント。カラフルな卵を探すアクティビティが楽しめます。",
+      "date": "4月上旬〜中旬（イースター時期）",
+      "place": "複数施設（オーチャード地区など）",
+      "link": "",
       "free": false
     },
     {
-      "title": "East Coast Park でのビーチピクニック・ウォータースポーツ",
-      "description": "シンガポール最大のビーチで、砂遊び、ピクニック、サイクリング、ウォータースポーツが無料で楽しめます。遊具やグラウンドも完備。",
-      "date": "4月全般（毎日）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "セントーサ島ビーチ・クリーンアップ＆プレイデー",
+      "description": "セントーサ島でのビーチクリーンアップと子ども向け環境教育アクティビティ。砂浜で遊びながら自然を学べます。一部無料コーナーあり。",
+      "date": "4月中旬",
+      "place": "Sentosa Island, Siloso Beach",
+      "link": "https://www.sentosa.com.sg",
       "free": true
     },
     {
-      "title": "シンガポール・フリンジ・フェスティバル",
-      "description": "アート・パフォーマンス・シアターの国際フェスティバル。子ども向けワークショップ、ファミリーショー、無料パフォーマンスも多数。",
-      "date": "4月中旬～下旬",
-      "place": "複数の会場（Esplanade、Funan、Gillman Barracksなど）",
-      "link": "https://www.singaporefringe.com",
-      "free": true
-    },
-    {
-      "title": "ナショナル・ライブラリー・ボード（NLB）子ども向けキャンペーン",
-      "description": "全図書館で開催される春のストーリータイム、工作ワークショップ、読み聞かせ。子ども向けプログラムが無料で楽しめます。",
-      "date": "4月全般",
-      "place": "シンガポール各所の図書館（Jurong Regional Library、Marina Bay Libraryなど）",
-      "link": "https://www.nlb.gov.sg",
-      "free": true
+      "title": "シンガポール動物園・春の餌やり体験",
+      "description": "動物園での季節限定の近距離餌やり体験プログラム。キリンやシマウマなど動物たちとの触れ合いが印象的です。子ども向けガイドツアーも充実。",
+      "date": "4月全期間",
+      "place": "Singapore Zoo, 80 Mandai Lake Road",
+      "link": "https://www.singaporezoo.com.sg",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T06:18:37.413Z"
+  "updatedAt": "2026-04-07T05:59:22.945Z"
 }

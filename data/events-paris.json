@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップ咲く春のジベルニー モネの庭園",
-      "description": "クロード・モネの邸宅と庭園を訪問。4月は色とりどりのチューリップが咲き乱れ、絵画の世界そのものです。子どもも大自然を満喫できます。",
-      "date": "4月上旬〜下旬",
-      "place": "84 rue Claude Monet, 27620 Giverny",
-      "link": "https://fondation-monet.com",
-      "free": false
-    },
-    {
-      "title": "パリ春のマーケット・フラワーマーケット",
-      "description": "イル・ド・ラ・シテのマダレーヌ寺院周辺で開催される春のマーケット。季節の花や地元産品が並び、散策して無料で楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Place de la Madeleine, 75008 Paris",
-      "link": "https://www.parisinfo.com",
+      "title": "パリ春祭り（Printemps des Rues）",
+      "description": "パリの街全体で開催される春のアートフェスティバル。音楽、演劇、ダンスなど子ども向けのワークショップやストリートパフォーマンスが各地で展開されます。",
+      "date": "4月中旬〜5月上旬",
+      "place": "パリ全域（主にマレ地区、ラタン地区など）",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "セーヌ川沿いの桜並木散歩",
-      "description": "パリ各所に植えられた日本の桜が4月に開花。セーヌ川沿いを散歩しながら春の花見が無料で楽しめます。家族でピクニック気分も良好。",
-      "date": "4月上旬〜中旬",
-      "place": "Seine Riverbanks, Paris",
+      "title": "バージ・オー・セーヌ（Barge aux Sources）での子ども向け春イベント",
+      "description": "セーヌ河畔の屋外イベント会場で、春の花と自然をテーマにした子ども向けアクティビティ、ピクニック、ストーリーテリングが開催されます。",
+      "date": "4月上旬〜5月中旬",
+      "place": "Barge aux Sources, Port de Javel Bas, 75015 Paris",
       "link": "",
       "free": true
     },
     {
-      "title": "パリ子ども科学館（Cité des Sciences）春のワークショップ",
-      "description": "4月は春休みシーズン向け特別プログラム充実。乳幼児から小学生まで対象の科学実験やデジタル体験が毎日開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
+      "title": "パリ動物園（Ménagerie du Jardin des Plantes）春期特別プログラム",
+      "description": "春の動物たちの活動期を観察できる特別プログラム。新生児動物の展示や子ども向けガイドツアーが充実した時期です。",
+      "date": "4月全期間",
+      "place": "Muséum national d'Histoire naturelle, 57 Rue Cuvier, 75005 Paris",
+      "link": "https://www.menagerie.fr",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園 春のポニー乗馬・遊園地",
-      "description": "パリの美しい公園で、子ども向けポニー乗馬や遊具エリアが営業開始。春の陽気の中、家族でのんびり過ごせます。",
-      "date": "4月中旬〜下旬",
-      "place": "Rue de Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite",
+      "title": "ルクセンブルク公園の春の公園遊び・オープンエア映画",
+      "description": "パリ最大級の庭園で、春の花咲く中でのピクニック、遊具利用、親子向けの無料イベント。4月下旬より屋外映画も開始されます。",
+      "date": "4月全期間",
+      "place": "Jardin du Luxembourg, 6 Rue de Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardin/accueil.html",
+      "free": true
+    },
+    {
+      "title": "グラン・パレ・イメルシフのキッズアート展覧会",
+      "description": "春の特別企画として、子ども向けインタラクティブアート展やワークショップが開催。美術館デビューにも最適です。",
+      "date": "4月上旬〜5月中旬",
+      "place": "Grand Palais Immersif, 9 Avenue Winston Churchill, 75008 Paris",
+      "link": "https://www.grandpalaisimmersif.fr",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T06:18:22.687Z"
+  "updatedAt": "2026-04-07T05:59:07.280Z"
 }

@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "id": "33b088f5-0b07-8092-9860-c0872f9e59c9",
+      "name": "ロンドン みゆき旅",
+      "type": "Instagram",
+      "description": "在英22年　旅するシンママOL。ガイドブックにないロンドンの魅力をみゆき目線でリアルに！",
+      "url": "https://www.instagram.com/miyuki.london/",
+      "addedDate": "2026-04-07"
+    },
+    {
       "id": "335088f5-0b07-8189-9c92-da3c0cacdb93",
       "name": "ファミリーで世界を旅する",
       "type": "YouTube",
@@ -49,5 +57,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-04-06T06:18:06.822Z"
+  "updatedAt": "2026-04-07T05:58:49.539Z"
 }

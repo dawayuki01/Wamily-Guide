@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン春祭り（Vårmarknad）",
-      "description": "ストックホルム各地で開催される春の市場。手工芸品、地元産物、キッズ向けワークショップが楽しめます。家族向けのアクティビティが豊富です。",
-      "date": "4月上旬〜中旬",
-      "place": "ストックホルム市内各地（Gamla Stan、Skansen周辺など）",
-      "link": "https://www.stockholm.se",
+      "title": "チューリップフェスティバル（Stockholms Tulipfestival）",
+      "description": "ストックホルムの公園や広場に約100万本のチューリップが咲き乱れるイベント。色鮮やかな花々の中で家族で写真撮影やピクニックが楽しめます。春の訪れを感じる最高のシーズン。",
+      "date": "4月中旬〜下旬",
+      "place": "Kungsträdgården（国王の庭園）、Djurgården公園ほか市内各所",
+      "link": "https://www.stockholmsinfo.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の春季特別展示",
-      "description": "北欧最大の野外博物館で、春の動物たちの様子、伝統的な北欧文化体験、子どものための教育プログラムが開催されます。",
+      "title": "スカンセン野外博物館の春イベント",
+      "description": "北欧の伝統的な建物や動物を見学できる野外博物館。春季は子ども向けの農場体験やイースターイベント、動物との触れ合いが充実。乳幼児から小学生まで楽しめます。",
       "date": "4月上旬〜下旬",
-      "place": "Skansen, Djurgården 49-51, 115 21 Stockholm",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "Djurgården島での春の自然散策と遊び場",
-      "description": "ストックホルムの緑の島で、春の花々と北欧の自然を楽しめます。複数の子ども向け遊び場、博物館、カフェがあり、家族で一日過ごせます。",
-      "date": "4月中旬〜下旬",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/en/djurgarden",
-      "free": true
-    },
-    {
-      "title": "北欧子ども博物館（Junibacken）の春イベント",
-      "description": "スウェーデンの児童文学をテーマにした施設。春季の特別展示、ワークショップ、キャラクターとの交流が楽しめます。乳幼児から小学生向け。",
-      "date": "4月中旬〜下旬",
-      "place": "Junibacken, Galärvägen 8, 115 21 Stockholm",
-      "link": "https://www.junibacken.se",
+      "title": "ストックホルム市庁舎ガイド付きツアー＆周辺散策",
+      "description": "世界遺産の市庁舎を見学し、その後ガムラスタン（旧市街）を家族で散策。北欧建築の魅力を感じながら、春の街並みを楽しめます。子どもサイズの情報も充実。",
+      "date": "4月上旬〜下旬（通年開催）",
+      "place": "Stockholms Stadshus, Hantverkargatan 1, Stockholm",
+      "link": "https://www.stockholm.se/stadshuset",
       "free": false
     },
     {
-      "title": "ストックホルム水族館（Aquaria）の春休みプログラム",
-      "description": "北欧最大の水族館で、春休み期間の子ども向け教育プログラムやタッチングプールが実施されます。海の生き物について楽しく学べます。",
-      "date": "4月上旬〜中旬",
-      "place": "Aquaria Water Museum, Falkenbergsgatan 2, 115 20 Stockholm",
-      "link": "https://www.aquariavattenmuseum.se",
+      "title": "ジュルゴーデン島サイクリング＆自然散策",
+      "description": "ストックホルムの緑の楽園で、春の新緑を楽しみながらサイクリングやウォーキング。レンタル自転車やベビーカー対応パスも充実。自然の中で子どもを走らせるのに最適。",
+      "date": "4月上旬〜下旬",
+      "place": "Djurgården island, Stockholm",
+      "link": "https://www.stockholmsinfo.se/en/djurgarden",
+      "free": true
+    },
+    {
+      "title": "ノーベル博物館の子ども向けプログラム",
+      "description": "ノーベル賞の歴史を学べる博物館。春季は子ども向けの対話型展示やワークショップが開催。科学への興味を引き出す良い機会です。ファミリーチケット割引あり。",
+      "date": "4月上旬〜下旬",
+      "place": "Nobelmuseet, Stortorget 2, Gamla Stan, Stockholm",
+      "link": "https://www.nobelmuseum.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T06:18:29.773Z"
+  "updatedAt": "2026-04-07T05:59:15.519Z"
 }

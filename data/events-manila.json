@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Summer Festival 2026（サマーフェスティバル）",
-      "description": "4月のマニラは夏シーズンの始まり。ショッピングモールやリゾート施設では子ども向けの夏祭りイベントが開催され、ゲームやアクティビティが楽しめます。",
-      "date": "4月全般",
-      "place": "SM Mall of Asia、Pasay City",
-      "link": "https://www.smmallofasia.com.ph/",
+      "title": "サマー・フェスティバル（Summer Festival）",
+      "description": "4月はマニラの夏休みシーズン。各ショッピングモールでキッズ向けアクティビティ、ゲーム、ワークショップなどが開催される期間です。涼しい屋内で家族向けイベントが充実しています。",
+      "date": "4月上旬〜下旬",
+      "place": "SMモール・オブ・アジア、アヤラモール、ロビンソンズ・プレイス等主要ショッピングモール",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "フィリピン・アクアティック・チャンピオンシップ（観光アクティビティ）",
+      "description": "4月の暑い季節、マニラ湾周辺やラグーンでのウォーターパークやビーチでの水遊びがおすすめ。子ども向けウォーターパークは家族向けアクティビティが豊富です。",
+      "date": "4月上旬〜下旬",
+      "place": "ワーター・ワールド・フィリピンズ、イーランド・マニラベイ周辺ビーチ",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "アヤラ・トライアングルガーデン・スプリング・フェスティバル",
+      "description": "マニラ市内の屋外ガーデンで春のお花イベントが開催。子ども向けワークショップ、フェイスペイント、アート体験が無料で楽しめるエリアもあります。",
+      "date": "4月中旬〜下旬",
+      "place": "アヤラ・トライアングル・ガーデン（マカティ市）",
+      "link": "https://ayalalandmalls.com.ph/",
       "free": true
     },
     {
-      "title": "Palaruan ng Lungsod Maynila（マニラ市民公園の水遊び施設）",
-      "description": "暑い4月は屋外の水遊び施設が大人気。子ども向けプールやウォータースライダー、ピクニック区域が完備されており、家族でリーズナブルに楽しめます。",
-      "date": "4月全般（営業期間内）",
-      "place": "Rizal Memorial Sports Complex, Vito Cruz, Manila",
-      "link": "https://www.rizalmemorial.org.ph/",
-      "free": false
-    },
-    {
-      "title": "Oceanarium & Marine Park（水族館での特別展示）",
-      "description": "マニラ湾周辺の水族館では春の海の生き物展示が充実。子ども向けのタッチプール体験やフィーディングショーが開催されています。",
-      "date": "4月全般",
-      "place": "Manila Ocean Park, Mall of Asia Complex, Pasay City",
-      "link": "https://www.manilaoceanpark.com/",
-      "free": false
-    },
-    {
-      "title": "National Museum Free Day（国立美術館・無料開放日）",
-      "description": "毎月第1日曜日は複数の国立美術館が無料開放。子ども向けの展示や体験コーナーもあり、フィリピン文化を学べます。",
-      "date": "4月の第1日曜日",
-      "place": "National Museum Complex, Padre Burgos Avenue, Manila",
+      "title": "フィリピン国立博物館・キッズプログラム",
+      "description": "4月の学校休暇中、フィリピン国立博物館で子ども向けの特別ワークショップ・ツアーが実施されます。恐竜展示や地元文化体験など、教育的なプログラムが無料で開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "フィリピン国立博物館・マニラ（ロハスブルバード）",
       "link": "https://www.nationalmuseum.gov.ph/",
       "free": true
     },
     {
-      "title": "Enchanted Kingdom Spring Events（テーマパークの春イベント）",
-      "description": "人気テーマパークでは4月に春限定のアトラクションやキャラクターグリーティング、子ども向けショーが開催されます。",
-      "date": "4月全般",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから車で1時間程度）",
-      "link": "https://www.enchantedkingdom.ph/",
+      "title": "ターラ・ズー・スプリング・キャンプ",
+      "description": "マニラ郊外の動物園で、4月の学校休暇期間に子ども向けスプリングキャンプが開催。動物との触れ合い、教育プログラム、アクティビティが豊富な期間です。",
+      "date": "4月上旬〜下旬",
+      "place": "ターラ・ズー（ラグナ州）",
+      "link": "https://www.taracoza.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T06:18:54.046Z"
+  "updatedAt": "2026-04-07T05:59:42.003Z"
 }

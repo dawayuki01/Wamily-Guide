@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "id": "33b088f5-0b07-80bd-bd62-dbcf0daf8d54",
+      "name": "Nobby Araki",
+      "type": "Instagram",
+      "description": "ハワイ在住者による定番の観光スポットからローカルな穴場まで、とっておきのスポットにお客様をお連れするツアーを提供",
+      "url": "https://www.instagram.com/nobbyland_hawaii/",
+      "addedDate": "2026-04-07"
+    },
+    {
       "id": "334088f5-0b07-812d-9588-f6b12adef567",
       "name": "@gohawaiijapan",
       "type": "Instagram",
@@ -17,5 +25,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-04-06T06:18:06.823Z"
+  "updatedAt": "2026-04-07T05:58:49.539Z"
 }

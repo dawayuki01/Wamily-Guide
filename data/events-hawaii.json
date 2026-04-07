@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "レイデー（Lei Day）",
-      "description": "ハワイの伝統文化を祝う日。レイ作り体験、パレード、フラダンス、ハワイアン音楽など家族で楽しめる無料イベント多数。",
-      "date": "4月30日～5月1日",
-      "place": "オアフ島全域（カピオラニ公園メイン会場など）",
+      "title": "キプ・パレード（Kuhio Day Parade）",
+      "description": "ハワイ王国の建国者を祝う毎年3月26日前後の大型パレード。フロート、バンド、ダンサーが登場。4月上旬に追加イベント開催の場合あり。子ども向けの催しも充実。",
+      "date": "4月上旬（2026年は3月開催の可能性、要確認）",
+      "place": "ホノルル・ダウンタウン、カラカウア通り周辺",
       "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "ホノルル動物園 春の特別プログラム",
-      "description": "イースター関連の子ども向けワークショップ、動物との触れ合いタイム。乳幼児～小学生向けのアクティビティが充実。",
-      "date": "4月上旬～中旬",
-      "place": "ホノルル動物園（オアフ島ワイキキ）",
+      "title": "ホノルル動物園 春のイースター&スプリングフェスタ",
+      "description": "4月のイースター時期に開催。子ども向けのエッグハント、動物とのふれあい体験、特別な展示が行われます。乳幼児から楽しめるアクティビティ多数。",
+      "date": "4月上旬〜中旬（イースター時期）",
+      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "ワイメア渓谷トレッキング・春の滝めぐり",
-      "description": "4月は雨季で水量が豊富。キャニオンビューや複数の滝を子どもでも楽しめるハイキングコース。家族向けの短距離ルートあり。",
-      "date": "4月全期間",
-      "place": "ワイメア渓谷州立公園（カウアイ島）",
-      "link": "https://dlnr.hawaii.gov/",
+      "title": "ワイキキビーチでのシュノーケリング＆ビーチ遊び",
+      "description": "4月は水温も心地よく、子ども向けシュノーケリングレッスンやビーチ活動の最適シーズン。多くのビーチ施設が子ども専用プールやライフガード常駐で安心。",
+      "date": "4月全月を通じて最適",
+      "place": "Waikiki Beach, Honolulu, HI",
+      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
       "free": true
     },
     {
-      "title": "ビショップ・ミュージアム 春の企画展示",
-      "description": "ハワイの歴史・文化を学べる博物館。子ども向けの対話的展示やワークショップが充実。雨の日の室内アクティビティに最適。",
-      "date": "4月全期間",
-      "place": "ビショップ・ミュージアム（オアフ島ホノルル）",
-      "link": "https://www.bishopmuseum.org/",
+      "title": "KCC ファーマーズマーケット（Kapiolani Community College）",
+      "description": "毎週土曜朝開催のハワイ最大級ファーマーズマーケット。新鮮なトロピカルフルーツ、地元グルメを試食できます。子どもと一緒に楽しむ地元の朝市体験。",
+      "date": "4月の毎週土曜",
+      "place": "Kapiolani Community College, 4303 Diamond Head Rd, Honolulu, HI 96816",
+      "link": "https://kccfarmers.org/",
+      "free": true
+    },
+    {
+      "title": "ダイヤモンドヘッド登山（家族向けコース）",
+      "description": "ハワイの象徴的な火山。4月は天気が安定し、小学生向けの軽いハイキングコースは往復1.5時間程度。展望台からオアフ島全景を望める屋外アドベンチャー。",
+      "date": "4月全月（早朝6時開園）",
+      "place": "Diamond Head State Monument, 3908 Diamond Head Rd, Honolulu, HI 96816",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
       "free": false
-    },
-    {
-      "title": "イースター・サンライズ・サービス＆ビーチピクニック",
-      "description": "タンタラスの丘やハナウマ湾で開催される無料イースター礼拝。その後、家族でビーチピクニックも可能。朝日と一体感を体験。",
-      "date": "4月20日頃（イースター）",
-      "place": "タンタラス展望台・ハナウマ湾（オアフ島）",
-      "link": "https://www.gohawaii.com/",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T06:19:09.969Z"
+  "updatedAt": "2026-04-07T05:59:57.737Z"
 }

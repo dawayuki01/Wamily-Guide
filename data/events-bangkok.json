@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソンクラーン（タイ正月）水かけ祭り",
-      "description": "タイの伝統的な正月祭。子どもたちが水鉄砲や水を掛け合う楽しいお祭り。家族で気軽に参加でき、タイ文化を体験できます。4月中旬がピークです。",
-      "date": "4月13日〜15日（前後に延長される場合あり）",
-      "place": "バンコク市内全域（特にカオサン通り、シーロム通り、サイアムスクエア周辺）",
-      "link": "https://www.tourismthailand.org/",
+      "title": "ソンクラーン（タイ正月）",
+      "description": "水をかけて新年を祝うタイの伝統祭。子どもたちが楽しめる水遊びイベント。ラチャダムヌン通りやサイアム周辺で開催。安全な子ども向けエリアもあります。",
+      "date": "4月上旬〜中旬（4月13-15日が正式日程）",
+      "place": "バンコク市内各地（ラチャダムヌン通り、サイアム、シーロムなど）",
+      "link": "https://www.tourismthailand.org",
       "free": true
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "東南アジア最大級の週末マーケット。子ども向けおもちゃ、衣類、食べ物が豊富。広大で家族で丸一日楽しめます。毎週末開催です。",
-      "date": "毎週土日（4月全週末）",
-      "place": "Chat Chai Rd, Lat Yao, Chatuchak, Bangkok 10900",
-      "link": "https://www.chatuchakmarket.org/",
+      "title": "ルンピニ公園での凧揚げシーズン",
+      "description": "4月の風の季節にタイの伝統凧揚げが楽しめます。家族向けの凧揚げイベントも開催。広大な公園で安全に遊べます。",
+      "date": "4月中旬〜下旬",
+      "place": "ルンピニ公園（Lumphini Park）、ラマ4世通り、バンコク",
+      "link": "https://www.bangkok.go.th",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館（サイアム・オーシャン・ワールド）",
-      "description": "バンコク最大級の水族館。30,000匹以上の海洋生物を展示。タッチプール体験、イルカショーなど子ども向けプログラムが豊富です。",
-      "date": "通年営業（4月は毎日）",
-      "place": "Siam Paragon Building, 991 Rama I Rd, Pathum Wan, Bangkok 10330",
-      "link": "https://www.siamoceanworld.com/",
+      "title": "セアクアリウム（Sea Life Bangkok Ocean World）の春イベント",
+      "description": "東南アジア最大級の水族館。春の特別プログラムやワークショップ、子ども向けの餌やり体験で海の生き物を学べます。",
+      "date": "4月上旬〜下旬",
+      "place": "セアクアリウム、シーロム通り、バンコク",
+      "link": "https://www.sealifebangkok.com",
       "free": false
     },
     {
-      "title": "ルンピニ公園での朝のエクササイズ・バードウォッチング",
-      "description": "バンコク最大級の公園。早朝は地元民のジョギング、太極拳、ヨガなどが行われます。野鳥観察も可能。広場で家族で走ったり遊んだりできます。",
-      "date": "通年（4月全期間、早朝がおすすめ）",
-      "place": "Rama IV Rd, Pathum Wan, Khet Pathum Wan, Bangkok 10330",
-      "link": "https://www.bangkok.com/",
+      "title": "チャトゥチャック・ウィークエンド・マーケットの子どもコーナー",
+      "description": "世界最大級のマーケット。子ども向けの玩具、衣類、食べ物が豊富。ショッピング体験と迷路のような散策が家族の思い出になります。",
+      "date": "毎週土日（4月中の土日）",
+      "place": "チャトゥチャック・ウィークエンド・マーケット、バンコク北部",
+      "link": "https://www.chatuchakmarket.org",
       "free": true
     },
     {
-      "title": "キッザニア・バンコク職業体験プログラム",
-      "description": "3〜15才向けの職業体験施設。100種類以上の職業が体験できます。4月は特別プログラムやイベントが開催される場合があります。",
-      "date": "通年営業（4月全期間、事前確認推奨）",
-      "place": "EmQuartier Building, 689 Sukhumvit Rd, Prakanong, Wattana, Bangkok 10110",
-      "link": "https://www.kidzania.com/th/en",
+      "title": "エラワン博物館（Erawan Museum）のファミリープログラム",
+      "description": "象をモチーフにした独特な建築の博物館。春のファミリー向けワークショップやガイドツアーで、タイ文化と芸術を学べます。",
+      "date": "4月上旬〜下旬（要事前確認）",
+      "place": "エラワン博物館、ラムインタラ通り、バンコク",
+      "link": "https://www.theerawan.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-06T06:18:46.740Z"
+  "updatedAt": "2026-04-07T05:59:33.158Z"
 }
