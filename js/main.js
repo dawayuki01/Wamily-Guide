@@ -82,29 +82,12 @@ function initSpotFilter() {
 
       const category = btn.dataset.category;
 
+      if (!window._wamilySpots) return; // データ未ロード
+
       if (category === 'all') {
-        // Restore default view
-        layerLabels.forEach(l => l.style.display = '');
-        showMoreBtns.forEach(b => b.style.display = '');
-        spotCards.forEach(card => {
-          if (card.classList.contains('extra')) {
-            card.classList.add('hidden');
-          } else {
-            card.style.display = '';
-          }
-        });
+        window._wamilySpots.renderAll();
       } else {
-        // Filtered view: hide layers, show all matching
-        layerLabels.forEach(l => l.style.display = 'none');
-        showMoreBtns.forEach(b => b.style.display = 'none');
-        spotCards.forEach(card => {
-          if (card.dataset.category === category) {
-            card.style.display = '';
-            card.classList.remove('hidden'); // reveal extras too
-          } else {
-            card.style.display = 'none';
-          }
-        });
+        window._wamilySpots.renderFiltered(category);
       }
     });
   });
