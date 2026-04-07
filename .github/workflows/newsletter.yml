@@ -1,0 +1,44 @@
+name: Wamily Letter
+
+# 毎週月曜 7:00 JST (日曜 22:00 UTC) + 手動実行
+on:
+  schedule:
+    - cron: '0 22 * * 0'
+  workflow_dispatch:
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: scripts
+
+      - name: Send Wamily Letter
+        run: node scripts/newsletter.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NEWSLETTER_SUBSCRIBERS_DB_ID: ${{ secrets.NEWSLETTER_SUBSCRIBERS_DB_ID }}
+          NEWSLETTER_GAS_URL: ${{ secrets.NEWSLETTER_GAS_URL }}
+
+      - name: Commit newsletter history
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '📬 Wamily Letter 配信履歴更新 [skip ci]'
+          file_pattern: 'data/newsletter-history.json'
+          commit_user_name: 'Wamily Bot'
+          commit_user_email: 'bot@wamily.jp'

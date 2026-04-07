@@ -462,9 +462,11 @@
               <p class="baton-community-text">
                 世界中の子連れ旅情報から、本当に使えるものだけを選んで毎週お届け。読んで損なし、たまに得あり。そんなゆるいつながりでいい。
               </p>
-              <a href="#" class="baton-community-btn baton-newsletter-btn">
-                ✉️ メルマガを受け取る（無料）
-              </a>
+              <div class="baton-nl-form" style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
+                <input type="email" placeholder="メールアドレス" class="baton-nl-input" style="flex:1;min-width:180px;border:1.5px solid var(--border-main);border-radius:8px;padding:10px 14px;font-size:13px;font-family:inherit;background:var(--cream);">
+                <button type="button" class="baton-community-btn baton-newsletter-btn baton-nl-submit">✉️ 登録する</button>
+              </div>
+              <p class="baton-nl-note" style="font-size:12px;color:var(--text-secondary);margin-top:8px;">いつでも解除できます。</p>
             </div>
           </div>
 
@@ -497,5 +499,28 @@
   <script src="../js/data-loader.js"></script>
   <script src="../js/maps-config.js"></script>
   <script src="../js/spots-map.js"></script>
+  <script>
+  (function(){
+    var NL_GAS_URL='https://script.google.com/macros/s/AKfycbxXO-kU0h91mU7wZ6fmntSImTDZuG0Gus-naXaL36yCXNo95m42BNgh1YS9O2XsQkjc/exec';
+    var btn=document.querySelector('.baton-nl-submit');
+    var input=document.querySelector('.baton-nl-input');
+    var note=document.querySelector('.baton-nl-note');
+    if(!btn||!input)return;
+    btn.addEventListener('click',function(){
+      var email=input.value.trim().toLowerCase();
+      if(!email||!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){note.textContent='正しいメールアドレスを入力してください。';note.style.color='#e74c3c';return;}
+      btn.disabled=true;btn.textContent='登録中…';note.textContent='';
+      fetch(NL_GAS_URL,{method:'POST',headers:{'Content-Type':'text/plain'},body:JSON.stringify({email:email,source:'各国ページ'})})
+      .then(function(r){return r.json();})
+      .then(function(d){
+        if(d.success){input.value='';input.style.display='none';btn.style.display='none';note.textContent='登録ありがとうございます。毎週月曜にお届けします。';note.style.color='#2a9d8f';}
+        else if(d.error==='already_subscribed'){note.textContent='すでに登録されています。';note.style.color='#e4a853';btn.disabled=false;btn.textContent='✉️ 登録する';}
+        else{throw new Error(d.error);}
+      })
+      .catch(function(){note.textContent='登録できませんでした。時間をおいて再度お試しください。';note.style.color='#e74c3c';btn.disabled=false;btn.textContent='✉️ 登録する';});
+    });
+    input.addEventListener('keydown',function(e){if(e.key==='Enter')btn.click();});
+  })();
+  </script>
 </body>
 </html>

@@ -284,6 +284,64 @@
   })();
   </script>
 
+  <!-- ======= メルマガ登録JS ======= -->
+  <script>
+  (function(){
+    var NL_GAS_URL = 'https://script.google.com/macros/s/AKfycbxXO-kU0h91mU7wZ6fmntSImTDZuG0Gus-naXaL36yCXNo95m42BNgh1YS9O2XsQkjc/exec';
+    var input = document.querySelector('.cn-nl-input');
+    var btn = document.querySelector('.cn-nl-btn');
+    var note = document.querySelector('.cn-form-note');
+
+    if (!btn || !input) return;
+
+    btn.addEventListener('click', function(){
+      var email = input.value.trim().toLowerCase();
+      if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        note.textContent = '正しいメールアドレスを入力してください。';
+        note.style.color = '#e74c3c';
+        return;
+      }
+
+      btn.disabled = true;
+      btn.textContent = '登録中…';
+      note.textContent = '';
+
+      fetch(NL_GAS_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain' },
+        body: JSON.stringify({ email: email, source: 'フレンズページ' })
+      })
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        if (data.success) {
+          input.value = '';
+          input.style.display = 'none';
+          btn.style.display = 'none';
+          note.textContent = '登録ありがとうございます。毎週月曜にお届けします。';
+          note.style.color = '#2a9d8f';
+        } else if (data.error === 'already_subscribed') {
+          note.textContent = 'すでに登録されています。';
+          note.style.color = '#e4a853';
+          btn.disabled = false;
+          btn.textContent = '登録する';
+        } else {
+          throw new Error(data.error);
+        }
+      })
+      .catch(function(){
+        note.textContent = '登録できませんでした。時間をおいて再度お試しください。';
+        note.style.color = '#e74c3c';
+        btn.disabled = false;
+        btn.textContent = '登録する';
+      });
+    });
+
+    input.addEventListener('keydown', function(e){
+      if (e.key === 'Enter') btn.click();
+    });
+  })();
+  </script>
+
   <!-- ======= フッター ======= -->
   <footer class="cn-footer">
     <p class="cn-footer-logo"><span class="cn-footer-logo-w">W</span>amily</p>
