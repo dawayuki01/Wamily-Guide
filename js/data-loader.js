@@ -154,39 +154,115 @@
         play:  spots.filter(s => s.layer === 'play'),
       };
 
-      const playCards  = layers.play.map(renderSpotCard).join('');
-      const hasExtras  = layers.play.some(s => s.extra);
+      const PAGE_SIZE = 5;
+      const layerPages = { vital: 0, local: 0, play: 0 };
 
-      container.innerHTML = `
-        <div class="spot-layer">
-          <p class="layer-label">🔴 いざという時</p>
-          <div class="spot-list">${layers.vital.map(renderSpotCard).join('')}</div>
-        </div>
+      function renderLayerPage(layerKey, label, spotsArr) {
+        if (!spotsArr.length) return '';
+        const page = layerPages[layerKey];
+        const start = page * PAGE_SIZE;
+        const end = start + PAGE_SIZE;
+        const slice = spotsArr.slice(start, end);
+        const total = spotsArr.length;
+        const hasMore = end < total;
+        const hasPrev = page > 0;
 
-        <div class="spot-layer">
-          <p class="layer-label">🟢 現地の日常へ</p>
-          <div class="spot-list">${layers.local.map(renderSpotCard).join('')}</div>
-        </div>
+        let cards = slice.map(renderSpotCard).join('');
 
-        <div class="spot-layer">
-          <p class="layer-label">🟢 遊びに行く・親子で食べる</p>
-          <div class="spot-list">${playCards}</div>
-          ${hasExtras ? '<button class="show-more">もっと見る ↓</button>' : ''}
+        let pager = '';
+        if (hasMore || hasPrev) {
+          pager = `<div class="spot-pager">`;
+          if (hasPrev) {
+            pager += `<button class="spot-pager-btn" data-layer="${layerKey}" data-dir="-1">← 前の${PAGE_SIZE}件</button>`;
+          }
+          pager += `<span class="spot-pager-count">${start + 1}–${Math.min(end, total)} / ${total}件</span>`;
+          if (hasMore) {
+            const remaining = Math.min(PAGE_SIZE, total - end);
+            pager += `<button class="spot-pager-btn" data-layer="${layerKey}" data-dir="1">次の${remaining}件 →</button>`;
+          }
+          pager += `</div>`;
+        }
+
+        return `
+        <div class="spot-layer" data-layer-key="${layerKey}">
+          <p class="layer-label">${label}</p>
+          <div class="spot-list">${cards}</div>
+          ${pager}
         </div>`;
-
-      // show-more を再初期化（main.js は DOMContentLoaded 後に実行済みのため手動で）
-      container.querySelectorAll('.show-more').forEach(btn => {
-        btn.addEventListener('click', () => {
-          container.querySelectorAll('.spot-card.extra').forEach(c => c.classList.remove('hidden'));
-          btn.style.display = 'none';
-        });
-      });
-
-      // フィルターが既にアクティブなら再適用
-      const activeFilter = document.querySelector('.filter-btn.active');
-      if (activeFilter && activeFilter.dataset.category !== 'all') {
-        activeFilter.click();
       }
+
+      function renderAllLayers() {
+        container.innerHTML =
+          renderLayerPage('vital', '🔴 いざという時', layers.vital) +
+          renderLayerPage('local', '🟢 現地の日常へ', layers.local) +
+          renderLayerPage('play',  '🟢 遊びに行く・親子で食べる', layers.play);
+
+        container.querySelectorAll('.spot-pager-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const key = btn.dataset.layer;
+            layerPages[key] += parseInt(btn.dataset.dir);
+            const layerEl = btn.closest('.spot-layer');
+            renderAllLayers();
+            // スクロール：ページ切り替え後にそのレイヤーの位置へ
+            const newLayer = container.querySelector(`[data-layer-key="${key}"]`);
+            if (newLayer) newLayer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+        });
+      }
+
+      // フィルターカテゴリ用ページ切り替え
+      let filterPage = 0;
+      let filterCategory = null;
+
+      function renderFilteredPage(cat) {
+        const filtered = spots.filter(s => s.category === cat);
+        if (!filtered.length) { container.innerHTML = ''; return; }
+        const start = filterPage * PAGE_SIZE;
+        const end = start + PAGE_SIZE;
+        const slice = filtered.slice(start, end);
+        const total = filtered.length;
+        const hasMore = end < total;
+        const hasPrev = filterPage > 0;
+
+        let html = `<div class="spot-layer"><div class="spot-list">${slice.map(renderSpotCard).join('')}</div>`;
+        if (hasMore || hasPrev) {
+          html += `<div class="spot-pager">`;
+          if (hasPrev) html += `<button class="spot-pager-btn" data-dir="-1">← 前の${PAGE_SIZE}件</button>`;
+          html += `<span class="spot-pager-count">${start + 1}–${Math.min(end, total)} / ${total}件</span>`;
+          if (hasMore) {
+            const remaining = Math.min(PAGE_SIZE, total - end);
+            html += `<button class="spot-pager-btn" data-dir="1">次の${remaining}件 →</button>`;
+          }
+          html += `</div>`;
+        }
+        html += `</div>`;
+        container.innerHTML = html;
+
+        container.querySelectorAll('.spot-pager-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            filterPage += parseInt(btn.dataset.dir);
+            renderFilteredPage(cat);
+            container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+        });
+      }
+
+      // グローバルに公開（main.jsのフィルターから呼び出す）
+      window._wamilySpots = {
+        renderAll: function() {
+          filterCategory = null;
+          filterPage = 0;
+          Object.keys(layerPages).forEach(k => layerPages[k] = 0);
+          renderAllLayers();
+        },
+        renderFiltered: function(cat) {
+          filterCategory = cat;
+          filterPage = 0;
+          renderFilteredPage(cat);
+        }
+      };
+
+      renderAllLayers();
 
       // 最終確認日を表示
       if (data.checkedAt) {
