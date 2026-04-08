@@ -374,125 +374,79 @@ if (newStatus === 'closed') {
 
 ---
 
-## 6. メルマガ部 — シーケンスメール
+## 6. メルマガ部 — ウェルカムメール + シーケンス基盤
 
 ### 6.1 設計方針
 
-- **営業臭くない。** Wamilyに登録してくれた人は「共感」が入口。情報の押し売りではなく、愛を込めて迎える
-- **テンプレートの最終コピーはサワディーと詰める。** この仕様書ではフレームワーク（ステップ定義・処理ロジック・メール構造）のみ定義
-- **1日1ステップ上限。** スクリプトがダウンしていた場合のバースト送信を防止
+- **営業臭くない。** 登録してくれた人は「共感」が入口。ナーチャリングではなく「仲間になってくれてありがとう」
+- **ウェルカムメール1通のみ（Phase 1）。** 週刊メルマガで単純接触回数を上げるのが本筋
+- **登録直後に即時送信。** GAS内でResend APIを呼び、登録数秒後にウェルカムメールが届く
+- **Phase 2（Wamily成長後）でステップ追加を検討。** シーケンス基盤は拡張可能な設計で残す
 
-### 6.2 シーケンス定義
+### 6.2 ウェルカムメール（実装済み）
+
+#### 送信経路
+
+```
+ユーザーが登録 → GAS doPost → Notion に追加（シーケンスステップ=1）
+                            → Resend API → ウェルカムメール即時送信
+```
+
+**件名:** 🌱 Wamily Letterへのご登録ありがとうございます
+
+**本文構成（具体→大局の流れ）:**
+1. 登録ありがとうございます
+2. 毎週月曜に世界中のメディアから「旅と家族」の種をお届けします
+3. Wamilyは子連れガイドブックを目指しています。みんなで育てていきたい
+4. みんながつながれる場も作っていきたい。これからよろしくお願いします
+5. 署名: Wamily オーナー サワディー
+
+**デザイン:** 週刊メルマガ（email-template.js）と同一スタイル
+
+#### 再登録時の挙動
+
+配信停止→再登録の場合、ステータスを「アクティブ」に戻すが、**ウェルカムメールは再送しない**（意図的な設計）。
+
+#### 関連ファイル
+
+| ファイル | 役割 |
+|---|---|
+| `docs/gas-newsletter.js` | GAS Web Appソースコード（参照用） |
+| `scripts/newsletter/sequence-templates.js` | ウェルカムメールHTMLテンプレート |
+
+### 6.3 シーケンス基盤（フォールバック + Phase 2 拡張用）
+
+`newsletter-sequence.js` と `newsletter-sequence.yml` はそのまま残す。
+
+**現在の役割:**
+- GASでウェルカムメール送信に失敗した場合のフォールバック（翌日07:30に再試行）
+- Phase 2 でステップ追加する際のインフラ
+
+**Phase 2 拡張時:**
+SEQUENCE配列にステップを追加し、sequence-templates.js にテンプレートを追加するだけで拡張可能。
 
 ```js
+// Phase 1（現在）
 const SEQUENCE = [
-  { step: 1, daysAfter: 1,  template: 'welcome',   subject: 'Wamilyへようこそ' },
-  { step: 2, daysAfter: 3,  template: 'howToUse',   subject: '（サワディーと相談して決定）' },
-  { step: 3, daysAfter: 7,  template: 'recommend',  subject: '（サワディーと相談して決定）' },
-  { step: 4, daysAfter: 14, template: 'baton',      subject: '（サワディーと相談して決定）' },
+  { step: 1, daysAfter: 1, template: 'welcome', subject: '...' },
+];
+
+// Phase 2（将来）
+const SEQUENCE = [
+  { step: 1, daysAfter: 1,  template: 'welcome',   subject: '...' },
+  { step: 2, daysAfter: 3,  template: 'howToUse',   subject: '...' },
+  { step: 3, daysAfter: 7,  template: 'recommend',  subject: '...' },
+  { step: 4, daysAfter: 14, template: 'baton',      subject: '...' },
 ];
 ```
 
-- `daysAfter`: 登録日からの経過日数
-- `template`: `scripts/newsletter/sequence-templates.js` 内のテンプレート関数名
-- `subject`: メールの件名
+### 6.4 フォーム品質チェック（2026-04-08 追加）
 
-### 6.3 テンプレートファイル: `scripts/newsletter/sequence-templates.js`（新規作成）
+メルマガ登録フォームでUI不具合が発見された（GAS Web Appのリダイレクトレスポンスによるパースエラー、CSSセレクタの重複）。パトロール部のヘルスチェックでは検知できない類のバグ。
 
-```js
-// 各テンプレートは HTML を返す関数
-module.exports = {
-  welcome(subscriber) {
-    return `
-      <div style="...">
-        <h1>Wamilyへようこそ</h1>
-        <p><!-- サワディーと相談して決定 --></p>
-        <!-- 配信停止リンク -->
-      </div>
-    `;
-  },
-  howToUse(subscriber) { /* ... */ },
-  recommend(subscriber) { /* ... */ },
-  baton(subscriber) { /* ... */ },
-};
-```
-
-テンプレートのHTML構造は `scripts/newsletter/email-template.js` のスタイルを踏襲（ブランドカラー、フッター構成など）。
-
-### 6.4 処理スクリプト: `scripts/newsletter-sequence.js`（新規作成）
-
-#### 処理フロー
-
-```
-1. Notion購読者DB をクエリ:
-   フィルター: ステータス = "アクティブ" AND シーケンスステップ < 999
-
-2. 各購読者について:
-   a. 登録日 が null → スキップ（console.warn）
-   b. 経過日数 = 今日 - 登録日
-   c. 現在のステップ = シーケンスステップ（0なら未開始）
-   d. 次のステップ = SEQUENCE[現在のステップ]（配列は0-indexed、ステップは1-indexed）
-   e. 経過日数 >= 次のステップの daysAfter → メール送信
-   f. 送信成功 → Notion の シーケンスステップ を更新
-   g. 最終ステップ完了 → シーケンスステップ = 999
-
-3. 結果を #newsletter に報告
-```
-
-#### エッジケース処理
-
-| ケース | 処理 |
-|---|---|
-| `登録日` が null | スキップ + console.warn |
-| ステータスが「停止」 | クエリフィルターで除外済み |
-| Resend APIエラー | 1回リトライ → 失敗したらスキップ（翌日再試行される） |
-| 複数ステップが溜まっている | 次の1ステップだけ送信（バースト防止） |
-| 全ステップ完了 | シーケンスステップ = 999 に更新 |
-
-#### DRY_RUN モード
-
-```bash
-DRY_RUN=true node scripts/newsletter-sequence.js
-```
-
-`DRY_RUN=true` の場合、メール送信とNotion更新をスキップし、代わりに処理内容をコンソールに出力。
-
-#### 環境変数
-
-```
-NOTION_API_KEY              — Notion API
-NEWSLETTER_SUBSCRIBERS_DB_ID — 購読者DB ID
-RESEND_API_KEY              — Resend メール送信
-RESEND_FROM_EMAIL           — 送信元（デフォルト: hello@send.tomoyukisawada.com）
-SLACK_WEBHOOK_NEWSLETTER    — Slack通知
-```
-
-### 6.5 ワークフロー: `.github/workflows/newsletter-sequence.yml`（新規作成）
-
-```yaml
-name: Newsletter Sequence
-on:
-  schedule:
-    - cron: '30 22 * * *'  # 毎日 07:30 JST
-  workflow_dispatch:
-
-jobs:
-  sequence:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - run: cd scripts && npm ci
-      - name: Send sequence emails
-        run: node scripts/newsletter-sequence.js
-        env:
-          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
-          NEWSLETTER_SUBSCRIBERS_DB_ID: ${{ secrets.NEWSLETTER_SUBSCRIBERS_DB_ID }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          SLACK_WEBHOOK_NEWSLETTER: ${{ secrets.SLACK_WEBHOOK_NEWSLETTER }}
-```
+**今後の品質チェックに含めるべき観点:**
+- **フォーム送信の E2E テスト:** GAS連携フォーム（メルマガ登録・旅のバトン）が正しくレスポンスを処理し、UIにフィードバックを表示するか
+- **CSSセレクタの一意性:** 同一ページ内で同じクラス名が複数箇所に存在しないか
 
 ### 6.6 既存メルマガスクリプトへの通知追加
 
