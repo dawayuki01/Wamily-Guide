@@ -103,12 +103,14 @@ async function main() {
     return;
   }
 
-  // 全ホスト取得（退会以外）
+  // 全ホスト取得（アクティブ + 審査中）
   const res = await notion.databases.query({
     database_id: hostDbId,
     filter: {
-      property: 'ステータス',
-      select: { does_not_equal: '退会' },
+      or: [
+        { property: 'ステータス', select: { equals: 'アクティブ' } },
+        { property: 'ステータス', select: { equals: '審査中' } },
+      ],
     },
   });
 
