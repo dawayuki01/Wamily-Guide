@@ -463,11 +463,8 @@
   // ホストセクション（旅のバトン）
   // ──────────────────────────────────────────────────────────
 
-  // ホストが存在する国
-  const HOST_COUNTRIES = ['london', 'manila', 'hawaii'];
-
-  const INQUIRY_FORM_URL  = 'https://docs.google.com/forms/d/e/1FAIpQLScEBeQA3p8bZOm3Wd-H1v5QUz5A-8AjCmgMo6E9g5yZsUgs3g/viewform'; // ホスト問い合わせフォーム
-  const RECRUIT_FORM_URL  = 'https://docs.google.com/forms/d/e/1FAIpQLScyoeAMB3YqqreMo7KFWjQnlMfPF0RqDmOmhtV5DjCeGM7FqA/viewform'; // ホスト応募フォーム
+  const INQUIRY_FORM_URL  = 'https://docs.google.com/forms/d/e/1FAIpQLScEBeQA3p8bZOm3Wd-H1v5QUz5A-8AjCmgMo6E9g5yZsUgs3g/viewform';
+  const RECRUIT_FORM_URL  = 'https://docs.google.com/forms/d/e/1FAIpQLScyoeAMB3YqqreMo7KFWjQnlMfPF0RqDmOmhtV5DjCeGM7FqA/viewform';
 
   const COUNTRY_NAME_JA = {
     london:    'ロンドン',
@@ -480,26 +477,6 @@
     la:        'アメリカ・LA',
     hawaii:    'アメリカ・ハワイ',
     seoul:     '韓国・ソウル',
-  };
-
-  // ホスト紹介文（サワディーより）
-  // ※ エピソードが更新されたらここを書き換える
-  const HOST_INFO = {
-    london: {
-      name: 'Miyukiさん',
-      catchphrase: 'ロンドン親子旅の図書館',
-      quote: '元ツアーコンダクターで、インスタグラムには現地スポットの情報が溢れていて。でも何より、温かくて親身で、本当に好きな人です。ロンドンに行くたびに会いに行って、毎回キャッチアップしています。',
-    },
-    manila: {
-      name: 'Kanaさん',
-      catchphrase: 'ホスピタリティ女神',
-      quote: 'Kanaさんに会いに行くために、僕たちはマニラに行きました。ご夫婦でいてくれたからこそ開いた扉がたくさんあって、一緒にいるだけで明るくなれる。あの旅が最高だったのは、間違いなくKanaさんのおかげです。',
-    },
-    hawaii: {
-      name: 'Miyaさん',
-      catchphrase: 'ハワイの達人',
-      quote: '日本のテレビ番組のロケアテンドもされているハワイの達人。でも達人だから気が利かないわけじゃなくて、むしろ逆。親子の痒いところに手が届く気遣いと、ガイドブックには絶対載っていないローカルな扉を開いてくれる人です。Miyaさんの一振りのソルトで、ハワイの景色が変わります。',
-    },
   };
 
   function hostIconSVG() {
@@ -521,21 +498,30 @@
     </svg>`;
   }
 
-  function loadHostSection() {
+  async function loadHostSection() {
     const container = document.getElementById('host-section');
     if (!container) return;
 
     const slug   = document.body.dataset.country || 'london';
     const nameJa = COUNTRY_NAME_JA[slug] || slug;
-    const hasHost = HOST_COUNTRIES.includes(slug);
 
-    if (hasHost) {
-      const host = HOST_INFO[slug] || {};
+    // hosts.json を動的に取得
+    let hosts = [];
+    try {
+      const res = await fetch(`${window.WAMILY_BASE || './'}data/hosts.json`);
+      if (res.ok) hosts = await res.json();
+    } catch (e) {
+      console.warn('hosts.json の取得に失敗:', e);
+    }
+
+    const host = hosts.find(h => h.slug === slug);
+
+    if (host) {
       const catchphraseHtml = host.catchphrase
         ? `<p class="host-card-catchphrase">「${host.catchphrase}」と、僕は呼んでいます。</p>`
         : '';
-      const quoteHtml = host.quote
-        ? `<blockquote class="host-card-quote">「${host.quote}」<cite>— サワディー</cite></blockquote>`
+      const introHtml = host.intro
+        ? `<blockquote class="host-card-quote">「${host.intro}」<cite>— サワディー</cite></blockquote>`
         : '';
       container.innerHTML = `
         <div class="host-card">
@@ -543,9 +529,9 @@
             ${hostIconSVG()}
             <div class="host-card-body">
               <div class="host-card-badge">✦ Wamilyホスト</div>
-              <h3 class="host-card-name">${host.name || nameJa}</h3>
+              <h3 class="host-card-name">${host.nickname || nameJa}</h3>
               ${catchphraseHtml}
-              ${quoteHtml}
+              ${introHtml}
               <a href="${INQUIRY_FORM_URL}" target="_blank" rel="noopener noreferrer" class="host-card-btn">
                 💬 気軽に相談してみる
               </a>
@@ -581,7 +567,7 @@
     loadSpots();
     loadEvents();
     loadCuration();
-    loadHostSection();
+    loadHostSection().catch(e => console.warn('ホストセクション読み込みエラー:', e));
     loadCountryCarousel();
   });
 

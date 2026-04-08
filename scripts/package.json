@@ -12,6 +12,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
     "@notionhq/client": "^2.2.15",
+    "googleapis": "^171.4.0",
     "resend": "^4.0.0",
     "rss-parser": "^3.13.0"
   }

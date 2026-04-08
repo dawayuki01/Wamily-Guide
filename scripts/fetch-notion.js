@@ -239,6 +239,37 @@ async function fetchCuration(notion) {
 }
 
 // ──────────────────────────────────────────────────────────
+// 4. ホストDB
+// ──────────────────────────────────────────────────────────
+
+async function fetchHosts(notion) {
+  const dbId = process.env.NOTION_HOST_DB_ID;
+  if (!dbId) {
+    console.warn('⚠  NOTION_HOST_DB_ID が設定されていません。スキップします。');
+    return null;
+  }
+
+  const response = await notion.databases.query({
+    database_id: dbId,
+    filter: {
+      property: 'ステータス',
+      select: { equals: 'アクティブ' },
+    },
+  });
+
+  const hosts = response.results.map(page => ({
+    id: page.id,
+    nickname:    richText(page.properties['ニックネーム']),
+    catchphrase: richText(page.properties['キャッチフレーズ']),
+    intro:       richText(page.properties['紹介文']),
+    slug:        selectName(page.properties['国スラッグ']),
+    imageUrl:    urlProp(page.properties['プロフィール画像URL']),
+  }));
+
+  return hosts;
+}
+
+// ──────────────────────────────────────────────────────────
 // メイン
 // ──────────────────────────────────────────────────────────
 
@@ -325,6 +356,19 @@ async function main() {
     }
   } catch (err) {
     console.error('  ❌ キュレーション取得エラー:', err.message);
+  }
+
+  // ── ホスト ──
+  console.log('\n🏠 ホストDBを取得中...');
+  try {
+    const hosts = await fetchHosts(notion);
+    if (hosts) {
+      const hostsPath = path.join(DATA_DIR, 'hosts.json');
+      fs.writeFileSync(hostsPath, JSON.stringify(hosts, null, 2), 'utf8');
+      console.log(`  ✅ hosts.json: ${hosts.length}件`);
+    }
+  } catch (err) {
+    console.error('  ❌ ホスト取得エラー:', err.message);
   }
 
   console.log('\n🎉 完了しました');
