@@ -20,6 +20,7 @@
 const { Client } = require('@notionhq/client');
 const fs = require('fs');
 const path = require('path');
+const { notifySlack } = require('./lib/slack-notify');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 
@@ -327,9 +328,32 @@ async function main() {
   }
 
   console.log('\n🎉 完了しました');
+
+  // Slack通知
+  await notifySlack({
+    channel: 'patrol',
+    icon: '🟢',
+    title: '[パトロール部] Notion同期 完了',
+    body: 'Notion DBからデータを同期しました',
+    color: 'success',
+    fields: [
+      { label: 'フィード', value: 'live-feed.json' },
+      { label: 'スポット', value: `${SLUGS_COUNT}カ国` },
+    ],
+  });
 }
 
-main().catch(err => {
+// スポットの国数カウント用（main内で使えるよう変数化は避け、通知時に概算）
+const SLUGS_COUNT = 10;
+
+main().catch(async err => {
   console.error('❌ 予期しないエラー:', err.message);
+  await notifySlack({
+    channel: 'patrol',
+    icon: '🔴',
+    title: '[パトロール部] Notion同期 エラー',
+    body: err.message,
+    color: 'error',
+  });
   process.exit(1);
 });

@@ -16,6 +16,7 @@ const RSSParser = require('rss-parser');
 const Anthropic = require('@anthropic-ai/sdk');
 const fs = require('fs');
 const path = require('path');
+const { notifySlack } = require('./lib/slack-notify');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 
@@ -285,6 +286,9 @@ async function main() {
 
   console.log('🌍 全10カ国のイベント情報を取得・生成します...\n');
 
+  let updatedCount = 0;
+  let errorCount = 0;
+
   for (const country of COUNTRIES) {
     console.log(`🗺  ${country.name}（${country.slug}）:`);
 
@@ -295,11 +299,13 @@ async function main() {
         const outPath = path.join(DATA_DIR, `events-${country.slug}.json`);
         fs.writeFileSync(outPath, JSON.stringify(data, null, 2), 'utf-8');
         console.log(`  ✅ events-${country.slug}.json 更新（${data.items.length} 件）\n`);
+        updatedCount++;
       } else {
         console.log(`  ⏭️  スキップ\n`);
       }
     } catch (err) {
       console.error(`  ❌ エラー: ${err.message}\n`);
+      errorCount++;
     }
 
     // API レート制限対策
@@ -307,9 +313,28 @@ async function main() {
   }
 
   console.log('🎉 全カ国イベント処理完了！');
+
+  await notifySlack({
+    channel: 'patrol',
+    icon: updatedCount > 0 ? '🟢' : '⚠️',
+    title: `[パトロール部] イベント更新 ${errorCount > 0 ? '一部エラー' : '完了'}`,
+    body: `${updatedCount}カ国更新`,
+    color: errorCount > 0 ? 'warning' : 'success',
+    fields: [
+      { label: '更新国数', value: `${updatedCount}カ国` },
+      { label: 'エラー', value: `${errorCount}件` },
+    ],
+  });
 }
 
-main().catch(err => {
+main().catch(async err => {
   console.error('❌ エラー:', err.message);
+  await notifySlack({
+    channel: 'patrol',
+    icon: '🔴',
+    title: '[パトロール部] イベント更新 エラー',
+    body: err.message,
+    color: 'error',
+  });
   process.exit(1);
 });

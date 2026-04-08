@@ -36,6 +36,7 @@ jobs:
       #    - キュレーション：YouTube/Instagram/ブログ提案を追加
       # ────────────────────────────────
       - name: Generate content (Claude → Notion)
+        id: generate_content
         if: github.event_name == 'workflow_dispatch' || toJSON(github.event.schedule) == '"0 0 * * 1"'
         run: node scripts/generate-guide.js
         env:
@@ -43,6 +44,7 @@ jobs:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_LIVEFEED_DB_ID: ${{ secrets.NOTION_LIVEFEED_DB_ID }}
           NOTION_CURATION_DB_ID: ${{ secrets.NOTION_CURATION_DB_ID }}
+          SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
         continue-on-error: true
 
       # ────────────────────────────────
@@ -50,21 +52,25 @@ jobs:
       #    - 最近の動き / スポット / キュレーション
       # ────────────────────────────────
       - name: Fetch Notion (ライブフィード / スポット / キュレーション)
+        id: fetch_notion
         run: node scripts/fetch-notion.js
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_LIVEFEED_DB_ID: ${{ secrets.NOTION_LIVEFEED_DB_ID }}
           NOTION_SPOTS_DB_ID: ${{ secrets.NOTION_SPOTS_DB_ID }}
           NOTION_CURATION_DB_ID: ${{ secrets.NOTION_CURATION_DB_ID }}
+          SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
         continue-on-error: true
 
       # ────────────────────────────────
       # 3. TimeOut London RSS + Claude フィルタ → イベント
       # ────────────────────────────────
       - name: Fetch & filter events (RSS + Claude API)
+        id: fetch_events
         run: node scripts/fetch-events.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
         continue-on-error: true
 
       # ────────────────────────────────
@@ -72,21 +78,43 @@ jobs:
       #    - My Maps に追加されたピンを spots-*.json に反映
       # ────────────────────────────────
       - name: Fetch new spots from Google My Maps
+        id: fetch_mymaps
         run: node scripts/fetch-mymaps.js
+        env:
+          SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
         continue-on-error: true
 
       # ────────────────────────────────
       # 4. Google Places → スポット営業状況（週1: 月曜のみ）
       # ────────────────────────────────
       - name: Check spot status (Google Places)
+        id: check_spots
         if: github.event_name == 'workflow_dispatch' || toJSON(github.event.schedule) == '"0 0 * * 1"'
         run: node scripts/check-spots.js
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_SPOTS_DB_ID: ${{ secrets.NOTION_SPOTS_DB_ID }}
+          SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
         continue-on-error: true
 
       # ────────────────────────────────
-      # 5. 変更があれば commit & push
+      # 5. ヘルスチェック & Slackレポート
+      # ────────────────────────────────
+      - name: Health check & Slack report
+        if: always()
+        run: node scripts/health-check.js
+        env:
+          SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
+          SLACK_WEBHOOK_CONTENT: ${{ secrets.SLACK_WEBHOOK_CONTENT }}
+          STEP_GENERATE: ${{ steps.generate_content.outcome }}
+          STEP_NOTION: ${{ steps.fetch_notion.outcome }}
+          STEP_EVENTS: ${{ steps.fetch_events.outcome }}
+          STEP_MYMAPS: ${{ steps.fetch_mymaps.outcome }}
+          STEP_SPOTS: ${{ steps.check_spots.outcome }}
+
+      # ────────────────────────────────
+      # 6. 変更があれば commit & push
       # ────────────────────────────────
       - name: Commit updated data files
         uses: stefanzweifel/git-auto-commit-action@v5

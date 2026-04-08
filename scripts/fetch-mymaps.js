@@ -14,6 +14,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { notifySlack } = require('./lib/slack-notify');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const DEFAULT_MAP_ID = '1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM';
@@ -217,9 +218,30 @@ async function main() {
   }
 
   console.log(`\n🎉 完了！ 新規追加: ${totalNew} 件`);
+
+  // 新規追加がある場合のみ通知
+  if (totalNew > 0) {
+    await notifySlack({
+      channel: 'patrol',
+      icon: '🟢',
+      title: '[パトロール部] My Maps同期 完了',
+      body: `${totalNew}件の新規スポットを追加`,
+      color: 'success',
+      fields: [
+        { label: '新規追加', value: `${totalNew}件` },
+      ],
+    });
+  }
 }
 
-main().catch(err => {
+main().catch(async err => {
   console.error('❌ エラー:', err.message);
+  await notifySlack({
+    channel: 'patrol',
+    icon: '🔴',
+    title: '[パトロール部] My Maps同期 エラー',
+    body: err.message,
+    color: 'error',
+  });
   process.exit(1);
 });
