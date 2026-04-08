@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップフェスティバル（Stockholms Tulipfestival）",
-      "description": "ストックホルムの公園や広場に約100万本のチューリップが咲き乱れるイベント。色鮮やかな花々の中で家族で写真撮影やピクニックが楽しめます。春の訪れを感じる最高のシーズン。",
-      "date": "4月中旬〜下旬",
-      "place": "Kungsträdgården（国王の庭園）、Djurgården公園ほか市内各所",
-      "link": "https://www.stockholmsinfo.se",
+      "title": "スウェーデン国王誕生日祝賀（Kungafödelsedagen）",
+      "description": "王宮での儀式や行進が見られる、スウェーデンの重要な祝日。王宮前広場に多くの国民が集まり、家族連れでも楽しめる国を挙げての祝祭です。",
+      "date": "4月30日",
+      "place": "王宮（Stockholms Slott）、Gamla Stan, Stockholm",
+      "link": "https://www.kungligaslotten.se/",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の春イベント",
-      "description": "北欧の伝統的な建物や動物を見学できる野外博物館。春季は子ども向けの農場体験やイースターイベント、動物との触れ合いが充実。乳幼児から小学生まで楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
-      "link": "https://www.skansen.se",
-      "free": false
-    },
-    {
-      "title": "ストックホルム市庁舎ガイド付きツアー＆周辺散策",
-      "description": "世界遺産の市庁舎を見学し、その後ガムラスタン（旧市街）を家族で散策。北欧建築の魅力を感じながら、春の街並みを楽しめます。子どもサイズの情報も充実。",
-      "date": "4月上旬〜下旬（通年開催）",
-      "place": "Stockholms Stadshus, Hantverkargatan 1, Stockholm",
-      "link": "https://www.stockholm.se/stadshuset",
-      "free": false
-    },
-    {
-      "title": "ジュルゴーデン島サイクリング＆自然散策",
-      "description": "ストックホルムの緑の楽園で、春の新緑を楽しみながらサイクリングやウォーキング。レンタル自転車やベビーカー対応パスも充実。自然の中で子どもを走らせるのに最適。",
-      "date": "4月上旬〜下旬",
-      "place": "Djurgården island, Stockholm",
-      "link": "https://www.stockholmsinfo.se/en/djurgarden",
+      "title": "スウェーデン春祭り・アウトドアシーズンの開始",
+      "description": "4月中旬から各地で春のイベント開催。スキンスカン公園やユーセゴーデンなど屋外施設がシーズン営業開始。春の自然散策や公園でのアクティビティが最適な時期。",
+      "date": "4月中旬〜5月初旬",
+      "place": "スキンスカン公園（Skinnarviksparken）、ストックホルム市内各公園",
+      "link": "https://www.stockholm.se/",
       "free": true
     },
     {
-      "title": "ノーベル博物館の子ども向けプログラム",
-      "description": "ノーベル賞の歴史を学べる博物館。春季は子ども向けの対話型展示やワークショップが開催。科学への興味を引き出す良い機会です。ファミリーチケット割引あり。",
-      "date": "4月上旬〜下旬",
-      "place": "Nobelmuseet, Stortorget 2, Gamla Stan, Stockholm",
-      "link": "https://www.nobelmuseum.se",
+      "title": "ユーセゴーデン遊園地・春開園イベント",
+      "description": "北欧最大級の遊園地が4月から営業開始。子ども向けアトラクション、キャラクターグリーティング、春限定プログラムで乳幼児から小学生まで楽しめます。",
+      "date": "4月1日〜",
+      "place": "Gröna Lund, Allmänna vägen 9, 115 21 Stockholm",
+      "link": "https://www.gronalund.com/",
+      "free": false
+    },
+    {
+      "title": "ノーベル博物館・春の教育プログラム",
+      "description": "4月から春季プログラム開始。子ども向けのガイドツアー、実験ワークショップ。ノーベル賞について学べる対話的な展示で、小学生向けに最適です。",
+      "date": "4月初旬〜",
+      "place": "ノーベル博物館（Nobelmuseet）, Stortorget 2, Gamla Stan",
+      "link": "https://www.nobelmuseum.se/",
+      "free": false
+    },
+    {
+      "title": "ヴァーサ号博物館・子ども向けツアー",
+      "description": "17世紀の軍艦を保存した博物館。春シーズンに子ども向けガイドツアーと対話的展示プログラムが活性化。家族向けのアクティビティが充実する時期です。",
+      "date": "4月通年営業",
+      "place": "Vasamuseet, Galärvarvsvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-07T05:59:15.519Z"
+  "updatedAt": "2026-04-08T06:00:54.382Z"
 }

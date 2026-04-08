@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ春祭り（Printemps des Rues）",
-      "description": "パリの街全体で開催される春のアートフェスティバル。音楽、演劇、ダンスなど子ども向けのワークショップやストリートパフォーマンスが各地で展開されます。",
-      "date": "4月中旬〜5月上旬",
-      "place": "パリ全域（主にマレ地区、ラタン地区など）",
-      "link": "https://www.paris.fr",
-      "free": true
+      "title": "パリ春のチューリップ祭り（Tulipes à Giverny）",
+      "description": "モネの庭園ジヴェルニーで咲き乱れるチューリップと春の花々。子ども向けのガイドツアーやスケッチ教室も開催。美しい庭園での家族散策に最適です。",
+      "date": "4月上旬〜中旬",
+      "place": "ジヴェルニー モネの家と庭園、パリ西郊外",
+      "link": "https://fondation-monet.com",
+      "free": false
     },
     {
-      "title": "バージ・オー・セーヌ（Barge aux Sources）での子ども向け春イベント",
-      "description": "セーヌ河畔の屋外イベント会場で、春の花と自然をテーマにした子ども向けアクティビティ、ピクニック、ストーリーテリングが開催されます。",
-      "date": "4月上旬〜5月中旬",
-      "place": "Barge aux Sources, Port de Javel Bas, 75015 Paris",
+      "title": "シャンゼリゼ・イースターマーケット",
+      "description": "シャンゼリゼ大通りで開催されるイースター時期のマーケット。子ども向けのエッグハント、手工芸ワークショップ、キャラメルやお菓子の販売。家族で楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "シャンゼリゼ大通り周辺",
       "link": "",
       "free": true
     },
     {
-      "title": "パリ動物園（Ménagerie du Jardin des Plantes）春期特別プログラム",
-      "description": "春の動物たちの活動期を観察できる特別プログラム。新生児動物の展示や子ども向けガイドツアーが充実した時期です。",
+      "title": "ルクセンブルク公園の春の屋外遊び場開放",
+      "description": "パリ最大級の公園で、4月から子ども向けの遊び場、木馬、ポニー乗馬体験が本格営業開始。広大な緑地で思いっきり遊べます。",
       "date": "4月全期間",
-      "place": "Muséum national d'Histoire naturelle, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.menagerie.fr",
-      "free": false
-    },
-    {
-      "title": "ルクセンブルク公園の春の公園遊び・オープンエア映画",
-      "description": "パリ最大級の庭園で、春の花咲く中でのピクニック、遊具利用、親子向けの無料イベント。4月下旬より屋外映画も開始されます。",
-      "date": "4月全期間",
-      "place": "Jardin du Luxembourg, 6 Rue de Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardin/accueil.html",
+      "place": "ルクセンブルク公園、6区",
+      "link": "https://www.senat.fr/visite/luxembourg",
       "free": true
     },
     {
-      "title": "グラン・パレ・イメルシフのキッズアート展覧会",
-      "description": "春の特別企画として、子ども向けインタラクティブアート展やワークショップが開催。美術館デビューにも最適です。",
-      "date": "4月上旬〜5月中旬",
-      "place": "Grand Palais Immersif, 9 Avenue Winston Churchill, 75008 Paris",
-      "link": "https://www.grandpalaisimmersif.fr",
+      "title": "パリ科学産業博物館の春季特別展示",
+      "description": "シテ・デ・サイエンスで開催される季節の特別展。子ども向けの体験型展示、ワークショップ、プラネタリウム。科学への興味を引き出します。",
+      "date": "4月全期間",
+      "place": "シテ・デ・サイエンス、パリ北部19区",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "バガテル公園のバラ園開園とファミリーイベント",
+      "description": "ブローニュの森内のバガテル公園でバラの季節開始。4月下旬からバラが見頃に。子ども向けの植物ガイドツアーやピクニックエリア充実。",
+      "date": "4月中旬〜下旬",
+      "place": "バガテル公園、パリ16区",
+      "link": "https://www.paris.fr/pratique/bagatelle-2263",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-07T05:59:07.280Z"
+  "updatedAt": "2026-04-08T06:00:46.139Z"
 }

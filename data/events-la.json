@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles Times Festival of Books",
-      "description": "USC校舎で開催される米国最大級の書籍フェスティバル。子ども向けのパネル、朗読会、ワークショップなど多数。家族向けアクティビティが充実しています。",
-      "date": "4月中旬",
-      "place": "University of Southern California (USC), Los Angeles, CA 90007",
-      "link": "https://www.latimesbookfestival.com",
+      "title": "LA Earth Day Festival",
+      "description": "4月22日アースデイを中心に開催される環境イベント。子ども向けのワークショップ、エコ体験コーナー、音楽ライブなどが楽しめます。無料で参加できる家族向けアクティビティが豊富です。",
+      "date": "4月中旬〜下旬",
+      "place": "Exposition Park（エクスポジション・パーク）、Los Angeles, CA 90037",
+      "link": "https://www.laparks.org/",
       "free": true
     },
     {
-      "title": "Santa Monica Pier Spring Events",
-      "description": "遊園地、ゲームアーケード、ショップが集中した歴史的な桟橋。春は天気も良く、家族で楽しめる屋外遊技施設。太平洋の景色も魅力。",
-      "date": "4月全月",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
-      "free": true
-    },
-    {
-      "title": "Descanso Gardens Spring Flower Festival",
-      "description": "広大な庭園で春の花々が満開。チューリップ、シャクナゲなどが見頃。子ども向けガイドツアーやピクニックエリアあり。",
-      "date": "4月上旬〜中旬",
-      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org",
+      "title": "Los Angeles County Arboretum & Botanic Garden - Spring Blooms",
+      "description": "春の花々が満開の季節。チューリップ、桜、牡丹などが咲き誇ります。トレイン乗車や子ども向けガイドツアー、ピクニックエリアも完備。屋外で自然を満喫できます。",
+      "date": "4月全般",
+      "place": "301 N Baldwin Ave, Arcadia, CA 91007",
+      "link": "https://www.arboretum.org/",
       "free": false
     },
     {
-      "title": "California Science Center - Spring Programs",
-      "description": "入場無料の大規模科学館。春限定の子ども向けワークショップ、展示体験。IMAX映画やプラネタリウムも人気。乳幼児向けエリアも充実。",
-      "date": "4月全月",
-      "place": "California Science Center, 700 Exposition Park Drive, Los Angeles, CA 90037",
-      "link": "https://www.californiasciencecenter.org",
+      "title": "Griffith Observatory & Park Spring Activities",
+      "description": "グリフィス天文台と公園の春イベント。展望台からのロサンゼルス市街地の眺め、ハイキングコース、子ども向け教育プログラム。天文台の入館は無料。自然豊かな屋外スポット。",
+      "date": "4月全般",
+      "place": "2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "Los Angeles County Arboretum - Spring Bloom",
-      "description": "126エーカーの広大な植物園。春は桜、牡丹、チューリップが開花。子ども向けガイドツアーやピクニックエリアで家族向け。",
-      "date": "4月全月",
-      "place": "Los Angeles County Arboretum & Botanic Garden, 301 North Baldwin Avenue, Arcadia, CA 91007",
-      "link": "https://www.arboretum.org",
+      "title": "Santa Monica Pier Spring Events & Seaside Activities",
+      "description": "サンタモニカ桟橋での春のお祭りやイベント。メリーゴーラウンド、アミューズメント、ビーチでの遊び。海辺の自然を感じながら家族で楽しめます。多くのアクティビティは無料。",
+      "date": "4月全般",
+      "place": "200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
+      "free": true
+    },
+    {
+      "title": "Natural History Museum - Spring Family Programs",
+      "description": "ロサンゼルス自然史博物館の春の特別プログラム。恐竜展示、動物展示、子ども向けワークショップが充実。屋内で快適に過ごせる家族向け施設。",
+      "date": "4月全般",
+      "place": "900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-07T05:59:48.524Z"
+  "updatedAt": "2026-04-08T06:01:26.516Z"
 }

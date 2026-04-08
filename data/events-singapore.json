@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チンゲイ・パレード（Chingay Parade）",
-      "description": "旧正月を祝う東南アジア最大級のパレード。カラフルな巨大人形や山車が街を練り歩き、子どもたちも沿道から楽しめます。無料で観賞できます。",
-      "date": "4月上旬（旧正月時期により変動）",
-      "place": "シンガポール川沿い、クラークキー周辺",
-      "link": "https://www.visitsingapore.com",
-      "free": true
-    },
-    {
-      "title": "ガーデンズ・バイ・ザ・ベイ春の花展示",
-      "description": "チューリップやサクラなど春の花々の特別展示。フラワー・ドーム内で季節限定の花景を楽しめます。子ども向けワークショップも開催。",
+      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
+      "description": "シンガポール最大の園芸イベント。美しい花壇展示、花卉販売、ガーデニングワークショップなど。子ども向けの対話的ガーデン体験エリアもあり、家族で楽しめます。",
       "date": "4月中旬〜下旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive",
-      "link": "https://www.gardensbythebay.com.sg",
+      "place": "Marina Bay, シンガポール",
+      "link": "https://www.singaporegardensfestival.com",
       "free": false
     },
     {
-      "title": "イースター・エッグ・ハント",
-      "description": "シンガポール内のショッピングモールやホテルで開催される子ども向けイースターイベント。カラフルな卵を探すアクティビティが楽しめます。",
-      "date": "4月上旬〜中旬（イースター時期）",
-      "place": "複数施設（オーチャード地区など）",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "セントーサ島ビーチ・クリーンアップ＆プレイデー",
-      "description": "セントーサ島でのビーチクリーンアップと子ども向け環境教育アクティビティ。砂浜で遊びながら自然を学べます。一部無料コーナーあり。",
-      "date": "4月中旬",
-      "place": "Sentosa Island, Siloso Beach",
-      "link": "https://www.sentosa.com.sg",
+      "title": "East Coast Park のビーチ活動とサイクリング",
+      "description": "東海岸の広大なビーチパークで家族向けのシーズナル活動。子ども向けビーチゲーム、安全なサイクリングエリア、ピクニック施設が充実。無料で楽しめる屋外レジャースポット。",
+      "date": "4月通年（4月は天気が良好）",
+      "place": "East Coast Park Road, シンガポール",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "シンガポール動物園・春の餌やり体験",
-      "description": "動物園での季節限定の近距離餌やり体験プログラム。キリンやシマウマなど動物たちとの触れ合いが印象的です。子ども向けガイドツアーも充実。",
-      "date": "4月全期間",
-      "place": "Singapore Zoo, 80 Mandai Lake Road",
-      "link": "https://www.singaporezoo.com.sg",
+      "title": "Chingay Parade（チンゲイ・パレード）春季延長プログラム",
+      "description": "伝統的な中国系祭りの春季イベント。大規模なフロート、パフォーマンス、文化展示。子ども向けの工芸ワークショップやファミリーエリアが設営されます。",
+      "date": "4月初旬（毎年日程変動）",
+      "place": "Orchard Road, シンガポール",
+      "link": "https://www.visitsingapore.com/festivals-events-singapore/chingay-parade/",
+      "free": true
+    },
+    {
+      "title": "Singapore Zoo春季スペシャルプログラム",
+      "description": "ズーの春季キャンペーンで、動物との触れ合い体験、教育的ワークショップ、スペシャルフィーディングセッションが開催。幼児から小学生向けのプログラムが豊富。",
+      "date": "4月通年",
+      "place": "80 Mandai Lake Road, シンガポール",
+      "link": "https://www.zoo.com.sg",
+      "free": false
+    },
+    {
+      "title": "Science Centre Singapore春季子ども向けエキシビション",
+      "description": "春季の特別展示プログラムで、STEM学習、インタラクティブ実験、子ども向け科学ワークショップ。幅広い年齢層の子どもが楽しめる教育的体験施設。",
+      "date": "4月通年",
+      "place": "15 Science Centre Road, シンガポール",
+      "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-07T05:59:22.945Z"
+  "updatedAt": "2026-04-08T06:01:02.391Z"
 }
