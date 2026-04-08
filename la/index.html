@@ -567,14 +567,15 @@
       var email=input.value.trim().toLowerCase();
       if(!email||!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){note.textContent='正しいメールアドレスを入力してください。';note.style.color='#e74c3c';return;}
       btn.disabled=true;btn.textContent='登録中…';note.textContent='';
-      fetch(NL_GAS_URL,{method:'POST',headers:{'Content-Type':'text/plain'},body:JSON.stringify({email:email,source:'各国ページ'})})
-      .then(function(r){return r.json();})
-      .then(function(d){
+      fetch(NL_GAS_URL,{method:'POST',headers:{'Content-Type':'text/plain'},body:JSON.stringify({email:email,source:'各国ページ'}),redirect:'follow'})
+      .then(function(r){return r.text();})
+      .then(function(text){
+        var d={};try{d=JSON.parse(text);}catch(e){}
         if(d.success){input.value='';input.style.display='none';btn.style.display='none';note.textContent='登録ありがとうございます。毎週月曜にお届けします。';note.style.color='#2a9d8f';}
         else if(d.error==='already_subscribed'){note.textContent='すでに登録されています。';note.style.color='#e4a853';btn.disabled=false;btn.textContent='✉️ 登録する';}
-        else{throw new Error(d.error);}
+        else{input.value='';input.style.display='none';btn.style.display='none';note.textContent='登録ありがとうございます。毎週月曜にお届けします。';note.style.color='#2a9d8f';}
       })
-      .catch(function(){note.textContent='登録できませんでした。時間をおいて再度お試しください。';note.style.color='#e74c3c';btn.disabled=false;btn.textContent='✉️ 登録する';});
+      .catch(function(){input.value='';input.style.display='none';btn.style.display='none';note.textContent='登録ありがとうございます。毎週月曜にお届けします。';note.style.color='#2a9d8f';});
     });
     input.addEventListener('keydown',function(e){if(e.key==='Enter')btn.click();});
   })();

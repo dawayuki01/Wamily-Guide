@@ -2,8 +2,8 @@
  * シーケンスメール HTMLテンプレート
  * email-template.js のスタイルを踏襲（#faf8f4 / #2a9d8f / #e4a853 / Noto系フォント）
  *
- * 各テンプレートは subscriber オブジェクトを受け取り、HTMLを返す。
- * 最終コピーはサワディーと相談して決定。ここではフレームワーク＋プレースホルダー。
+ * Phase 1: ウェルカムメール1通のみ
+ * Phase 2（Wamily成長後）: howToUse / recommend / baton を追加予定
  */
 
 const SITE_URL = 'https://dawayuki01.github.io/Wamily-Guide';
@@ -97,98 +97,44 @@ function wrapLayout(title, bodyHtml, unsubscribeUrl) {
 
 module.exports = {
   /**
-   * Step 1: ウェルカムメール（登録翌日）
+   * ウェルカムメール（登録翌日）
+   * 営業ではなく「仲間になってくれてありがとう」のトーン
    */
   welcome(subscriber, unsubscribeUrl) {
     const bodyHtml = `
       <div style="width: 32px; height: 2px; background-color: #e4a853; margin-bottom: 20px;"></div>
-      <h1 style="margin: 0 0 20px 0; font-family: 'Noto Serif JP', Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 500; color: #2c2c2c; line-height: 1.5;">
-        Wamilyへようこそ
+
+      <h1 style="margin: 0 0 24px 0; font-family: 'Noto Serif JP', Georgia, 'Times New Roman', serif; font-size: 20px; font-weight: 500; color: #2c2c2c; line-height: 1.6;">
+        Wamily Letterへようこそ
       </h1>
-      <p style="margin: 0 0 16px 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        <!-- サワディーと相談して決定 -->
-        登録ありがとうございます。<br>
+
+      <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
+        Wamily Letterにご登録いただき、本当にありがとうございます。
+      </p>
+
+      <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
+        毎週月曜日に、世界中のメディアからまだ日本に届いていない<br>
+        「旅と家族」の種をお届けします。<br>
+        楽しんでいただけたら嬉しいです。
+      </p>
+
+      <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
         Wamilyは「子連れで海外に行きたい」と思ったときに、<br>
-        いちばん最初に開くガイドブックを目指しています。
+        いちばん最初に開くガイドブックを目指しています。<br>
+        まだまだ小さなガイドブックですが、<br>
+        みんなで少しずつ育てていけたらと思っています。
       </p>
-      <p style="margin: 0 0 16px 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        毎週月曜日に、世界の英語メディアから選んだ<br>
-        「旅と家族」の種をお届けします。
+
+      <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
+        Wamilyの成長とともに、みんながつながれる場も<br>
+        少しずつ作っていきたいと思っています。<br>
+        これからよろしくお願いします。
       </p>
-      <p style="margin: 0 0 0 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        サワディー
+
+      <p style="margin: 0 0 0 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
+        Wamily オーナー サワディー
       </p>
     `;
     return wrapLayout('Wamilyへようこそ', bodyHtml, unsubscribeUrl);
-  },
-
-  /**
-   * Step 2: 使い方ガイド（登録3日後）
-   */
-  howToUse(subscriber, unsubscribeUrl) {
-    const bodyHtml = `
-      <div style="width: 32px; height: 2px; background-color: #e4a853; margin-bottom: 20px;"></div>
-      <h1 style="margin: 0 0 20px 0; font-family: 'Noto Serif JP', Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 500; color: #2c2c2c; line-height: 1.5;">
-        <!-- サワディーと相談して件名・本文を決定 -->
-        Wamilyの歩き方
-      </h1>
-      <p style="margin: 0 0 16px 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        Wamilyのガイドブックには、10カ国の子連れ情報が詰まっています。<br>
-        各国のページでは、地元のおすすめスポットや<br>
-        季節のイベント情報を見ることができます。
-      </p>
-      <p style="margin: 0 0 16px 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        気になる国のページを覗いてみてください。
-      </p>
-      <p style="margin: 0 0 0 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        サワディー
-      </p>
-    `;
-    return wrapLayout('Wamilyの歩き方', bodyHtml, unsubscribeUrl);
-  },
-
-  /**
-   * Step 3: おすすめ紹介（登録7日後）
-   */
-  recommend(subscriber, unsubscribeUrl) {
-    const bodyHtml = `
-      <div style="width: 32px; height: 2px; background-color: #e4a853; margin-bottom: 20px;"></div>
-      <h1 style="margin: 0 0 20px 0; font-family: 'Noto Serif JP', Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 500; color: #2c2c2c; line-height: 1.5;">
-        <!-- サワディーと相談して件名・本文を決定 -->
-        今月のおすすめ
-      </h1>
-      <p style="margin: 0 0 16px 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        Wamilyが今月おすすめしたい旅先やコンテンツを<br>
-        ご紹介します。
-      </p>
-      <p style="margin: 0 0 0 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        サワディー
-      </p>
-    `;
-    return wrapLayout('今月のおすすめ', bodyHtml, unsubscribeUrl);
-  },
-
-  /**
-   * Step 4: 旅のバトン紹介（登録14日後）
-   */
-  baton(subscriber, unsubscribeUrl) {
-    const bodyHtml = `
-      <div style="width: 32px; height: 2px; background-color: #e4a853; margin-bottom: 20px;"></div>
-      <h1 style="margin: 0 0 20px 0; font-family: 'Noto Serif JP', Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 500; color: #2c2c2c; line-height: 1.5;">
-        <!-- サワディーと相談して件名・本文を決定 -->
-        旅のバトン
-      </h1>
-      <p style="margin: 0 0 16px 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        Wamilyには「旅のバトン」という仕組みがあります。<br>
-        子連れ旅行の体験を次の家族へつなげる場所です。
-      </p>
-      <p style="margin: 0 0 16px 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        あなたの旅の体験も、ぜひ教えてください。
-      </p>
-      <p style="margin: 0 0 0 0; font-size: 13px; color: #4a4a4a; line-height: 1.9; font-weight: 300;">
-        サワディー
-      </p>
-    `;
-    return wrapLayout('旅のバトン', bodyHtml, unsubscribeUrl);
   },
 };

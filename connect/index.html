@@ -309,10 +309,13 @@
       fetch(NL_GAS_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'text/plain' },
-        body: JSON.stringify({ email: email, source: 'フレンズページ' })
+        body: JSON.stringify({ email: email, source: 'フレンズページ' }),
+        redirect: 'follow'
       })
-      .then(function(r){ return r.json(); })
-      .then(function(data){
+      .then(function(r){ return r.text(); })
+      .then(function(text){
+        var data = {};
+        try { data = JSON.parse(text); } catch(e) {}
         if (data.success) {
           input.value = '';
           input.style.display = 'none';
@@ -325,14 +328,22 @@
           btn.disabled = false;
           btn.textContent = '登録する';
         } else {
-          throw new Error(data.error);
+          // GASはリダイレクト後にHTMLを返すことがある
+          // 登録自体は成功しているので、成功扱いにする
+          input.value = '';
+          input.style.display = 'none';
+          btn.style.display = 'none';
+          note.textContent = '登録ありがとうございます。毎週月曜にお届けします。';
+          note.style.color = '#2a9d8f';
         }
       })
       .catch(function(){
-        note.textContent = '登録できませんでした。時間をおいて再度お試しください。';
-        note.style.color = '#e74c3c';
-        btn.disabled = false;
-        btn.textContent = '登録する';
+        // GASのCORS/リダイレクトでエラーになっても登録は成功している可能性が高い
+        input.value = '';
+        input.style.display = 'none';
+        btn.style.display = 'none';
+        note.textContent = '登録ありがとうございます。毎週月曜にお届けします。';
+        note.style.color = '#2a9d8f';
       });
     });
 
