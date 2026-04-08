@@ -103,8 +103,8 @@
       "category": "play",
       "layer": "play",
       "description": "世界最大規模の週末マーケット。土日限、15,000店舗以上。子ども服・おもちゃも豊富。MRTカンペーンペット駅",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": true,
       "checkedDate": "2026年4月",
       "placeId": "ChIJ11qbMCWd4jARuxyNWJunmNs",
@@ -145,5 +145,5 @@
       "lng": 100.5347
     }
   ],
-  "checkedAt": "2026-04-08T06:00:28.609Z"
+  "checkedAt": "2026-04-08T07:51:42.536Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Summer Fiesta 2026",
-      "description": "マニラの夏の始まりを祝うフェスティバル。子ども向けゲーム、ステージパフォーマンス、屋台が並びます。家族連れで楽しめるエンターテイメント満載のイベントです。",
+      "title": "フィリピン・サマー・フェスティバル",
+      "description": "4月のマニラで開催される夏祭り。子ども向けのゲーム、音楽パフォーマンス、地元の屋台グルメが楽しめます。家族連れ向けの屋外アクティビティが豊富です。",
       "date": "4月中旬〜下旬",
-      "place": "Luneta Park（リネタ公園）、Manila",
-      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d324434-Reviews-Luneta_Park-Manila_Calabarzon_Region_Calabarzon.html",
+      "place": "リサール公園（Rizal Park）、マニラ市",
+      "link": "https://www.manila.gov.ph",
       "free": true
     },
     {
-      "title": "Philippine Archipelago Zoo Summer Camp",
-      "description": "マニラ郊外の動物園で開催される子ども向けサマープログラム。動物との触れ合いや学習体験、乗馬体験など家族向けアクティビティが豊富です。",
+      "title": "スター・シティ（遊園地）の特別キャンペーン",
+      "description": "フィリピン最大級の遊園地。4月は春休みシーズンで子ども向けの乗り物やショーが充実。小学生向けのアトラクションが豊富です。",
       "date": "4月上旬〜下旬",
-      "place": "Zoobic Safari, Subic Bay",
-      "link": "https://www.zoobicsafari.com.ph/",
+      "place": "Star City, North Avenue, Quezon City",
+      "link": "https://www.star-cityphil.com",
       "free": false
     },
     {
-      "title": "Iglesia ni Cristo Centennial Park Family Day",
-      "description": "大規模な無料ファミリーデーイベント。子ども向けゲーム、エンターテイメント、食べ物が楽しめます。フィリピンの文化体験ができるイベントです。",
-      "date": "4月中旬",
-      "place": "Iglesia ni Cristo Centennial Park, Quezon City",
+      "title": "マニラ湾の日中アイランド・ホッピング",
+      "description": "ボートでマニラ湾の離島を巡るツアー。透明な海での水遊びやビーチでの貝殻拾いなど、子どもが楽しめる屋外アクティビティ。4月は乾季で天候が良好。",
+      "date": "4月上旬〜下旬",
+      "place": "マニラ湾・ナボタス地区発着",
       "link": "",
-      "free": true
-    },
-    {
-      "title": "Star City Amusement Park Spring Season",
-      "description": "遊園地の春季営業開始。子ども向けアトラクション、キャラクターショー、家族向けゲームが充実。乳幼児から小学生まで楽しめる施設が豊富です。",
-      "date": "4月全期間",
-      "place": "Star City, Pasay City",
-      "link": "https://www.star-city.com.ph/",
       "free": false
     },
     {
-      "title": "Intramuros Heritage Walk & Family Tour",
-      "description": "歴史的なイントラムロス地区を家族向けガイドツアーで散策。スペイン統治時代の建築を学べます。屋外での文化体験で、年代別の子どもに対応した解説があります。",
-      "date": "4月全期間（要予約）",
-      "place": "Intramuros, Manila",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "フィリピン国立博物館の子ども向けワークショップ",
+      "description": "4月に開催される親子向けのワークショップ。フィリピンの文化や自然について学べる体験型プログラムが充実しています。",
+      "date": "4月中旬",
+      "place": "Philippine National Museum, Padre Burgos Avenue, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": true
+    },
+    {
+      "title": "アヤラ・モール・オブ・エイジア内の子ども施設",
+      "description": "ショッピングモール内にある子ども専用遊び場や科学館が充実。4月の高温期に涼しい屋内で遊べます。多くのキッズアクティビティが日替わりで開催されます。",
+      "date": "4月通年営業",
+      "place": "Ayala Mall of Asia, Cor. Coral Way and Drive, Pasay City",
+      "link": "https://www.ayalamalls.com.ph/mall-of-asia",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-08T06:01:18.975Z"
+  "updatedAt": "2026-04-08T07:51:12.115Z"
 }

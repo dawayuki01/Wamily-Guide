@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ春のチューリップ祭り（Tulipes à Giverny）",
-      "description": "モネの庭園ジヴェルニーで咲き乱れるチューリップと春の花々。子ども向けのガイドツアーやスケッチ教室も開催。美しい庭園での家族散策に最適です。",
-      "date": "4月上旬〜中旬",
-      "place": "ジヴェルニー モネの家と庭園、パリ西郊外",
-      "link": "https://fondation-monet.com",
+      "title": "チューリップの季節 - ジベルニー モネの庭園",
+      "description": "クロード・モネの邸宅と庭園。4月は色とりどりのチューリップが咲き、子どもたちが花の美しさを楽しめます。印象派美術の世界を体験できます。",
+      "date": "4月上旬〜下旬",
+      "place": "84 rue Claude Monet, 27620 Giverny",
+      "link": "https://fondation-monet.com/",
       "free": false
     },
     {
-      "title": "シャンゼリゼ・イースターマーケット",
-      "description": "シャンゼリゼ大通りで開催されるイースター時期のマーケット。子ども向けのエッグハント、手工芸ワークショップ、キャラメルやお菓子の販売。家族で楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "シャンゼリゼ大通り周辺",
+      "title": "イースター・エッグハント - ルーヴル美術館周辺",
+      "description": "パリ市内の公園やチュイルリー公園でイースター時期に開催される子ども向けエッグハント。家族で宝探しを楽しめます。",
+      "date": "4月中旬〜下旬（イースター前後）",
+      "place": "Jardin des Tuileries, 75001 Paris",
+      "link": "https://www.paris.fr/",
+      "free": true
+    },
+    {
+      "title": "ブートリー・アントワーヌ - 子ども向けイベント",
+      "description": "4月に開催される春のイベント。ワークショップ、ゲーム、クラフト体験など、乳幼児から小学生まで楽しめる無料・有料プログラムが豊富です。",
+      "date": "4月中旬〜下旬",
+      "place": "Parc Monceau, 75008 Paris",
       "link": "",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園の春の屋外遊び場開放",
-      "description": "パリ最大級の公園で、4月から子ども向けの遊び場、木馬、ポニー乗馬体験が本格営業開始。広大な緑地で思いっきり遊べます。",
-      "date": "4月全期間",
-      "place": "ルクセンブルク公園、6区",
-      "link": "https://www.senat.fr/visite/luxembourg",
-      "free": true
-    },
-    {
-      "title": "パリ科学産業博物館の春季特別展示",
-      "description": "シテ・デ・サイエンスで開催される季節の特別展。子ども向けの体験型展示、ワークショップ、プラネタリウム。科学への興味を引き出します。",
-      "date": "4月全期間",
-      "place": "シテ・デ・サイエンス、パリ北部19区",
-      "link": "https://www.cite-sciences.fr",
+      "title": "セーヌ川沿いの桜・春のサイクリング",
+      "description": "パリの春は桜も咲き、セーヌ川沿いのサイクリングロードで家族向けレンタル自転車が利用できます。子ども乗せ自転車も選べ、屋外で春を満喫できます。",
+      "date": "4月上旬〜中旬",
+      "place": "Seine River Path, Paris",
+      "link": "https://en.velib-metropole.fr/",
       "free": false
     },
     {
-      "title": "バガテル公園のバラ園開園とファミリーイベント",
-      "description": "ブローニュの森内のバガテル公園でバラの季節開始。4月下旬からバラが見頃に。子ども向けの植物ガイドツアーやピクニックエリア充実。",
-      "date": "4月中旬〜下旬",
-      "place": "バガテル公園、パリ16区",
-      "link": "https://www.paris.fr/pratique/bagatelle-2263",
+      "title": "シテ科学産業博物館 - 子ども向け特別展示",
+      "description": "4月は春の特別企画展を開催。対話型展示やプラネタリウム、実験教室など、子ども向けのSTEM学習プログラムが充実しています。",
+      "date": "4月上旬〜下旬",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-08T06:00:46.139Z"
+  "updatedAt": "2026-04-08T07:50:40.123Z"
 }

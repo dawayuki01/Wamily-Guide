@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国王誕生日祝賀（Kungafödelsedagen）",
-      "description": "王宮での儀式や行進が見られる、スウェーデンの重要な祝日。王宮前広場に多くの国民が集まり、家族連れでも楽しめる国を挙げての祝祭です。",
-      "date": "4月30日",
-      "place": "王宮（Stockholms Slott）、Gamla Stan, Stockholm",
-      "link": "https://www.kungligaslotten.se/",
+      "title": "スウェーデン王妃誕生日を祝う王宮儀式",
+      "description": "4月9日の王妃誕生日にロイヤルパレスで行われる衛兵交代式。豪華な儀式を無料で観覧でき、子どもたちも王妃への敬礼セレモニーを見学できます。",
+      "date": "4月9日前後",
+      "place": "ロイヤルパレス（Kungliga Slottet）、Gamla Stan, Stockholm",
+      "link": "https://www.royalcourt.se",
       "free": true
     },
     {
-      "title": "スウェーデン春祭り・アウトドアシーズンの開始",
-      "description": "4月中旬から各地で春のイベント開催。スキンスカン公園やユーセゴーデンなど屋外施設がシーズン営業開始。春の自然散策や公園でのアクティビティが最適な時期。",
-      "date": "4月中旬〜5月初旬",
-      "place": "スキンスカン公園（Skinnarviksparken）、ストックホルム市内各公園",
-      "link": "https://www.stockholm.se/",
+      "title": "春の桜・チューリップ祭り",
+      "description": "ストックホルムの公園で春の花が一斉に咲く時期。ユールゴーデン島やノルマルム地区でピンクの桜やカラフルなチューリップが楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "ユールゴーデン島、スキャンセン周辺、Drottningholm Palace Gardens",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "ユーセゴーデン遊園地・春開園イベント",
-      "description": "北欧最大級の遊園地が4月から営業開始。子ども向けアトラクション、キャラクターグリーティング、春限定プログラムで乳幼児から小学生まで楽しめます。",
-      "date": "4月1日〜",
-      "place": "Gröna Lund, Allmänna vägen 9, 115 21 Stockholm",
-      "link": "https://www.gronalund.com/",
+      "title": "スキャンセン野外民族博物館の春季プログラム",
+      "description": "北欧の伝統的な動物たちが活動を始める春。子ども向けの動物ふれあいプログラムやスウェーデン民族文化体験が充実しています。",
+      "date": "4月全期間",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ノーベル博物館・春の教育プログラム",
-      "description": "4月から春季プログラム開始。子ども向けのガイドツアー、実験ワークショップ。ノーベル賞について学べる対話的な展示で、小学生向けに最適です。",
-      "date": "4月初旬〜",
-      "place": "ノーベル博物館（Nobelmuseet）, Stortorget 2, Gamla Stan",
-      "link": "https://www.nobelmuseum.se/",
+      "title": "ヴァーサ号博物館の子ども向けスペシャルツアー",
+      "description": "17世紀の実在する木造軍船を見学。4月は春季プログラムで子ども向けガイドツアーや船乗り体験アクティビティが開催されます。",
+      "date": "4月全期間（週末に多数開催）",
+      "place": "Vasa Museum, Galärvarvsvägen 14, Stockholm",
+      "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ヴァーサ号博物館・子ども向けツアー",
-      "description": "17世紀の軍艦を保存した博物館。春シーズンに子ども向けガイドツアーと対話的展示プログラムが活性化。家族向けのアクティビティが充実する時期です。",
-      "date": "4月通年営業",
-      "place": "Vasamuseet, Galärvarvsvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se/",
+      "title": "メーラレン湖でのカヤック・ボート春季アクティビティ",
+      "description": "春の氷が溶けたメーラレン湖で家族向けカヤックツアーやボートエクスペリエンスを実施。子ども向けの穏やかなコースも用意されています。",
+      "date": "4月中旬〜下旬",
+      "place": "ストックホルム市内各所（Lake Mälaren water activities）",
+      "link": "https://www.visitstockholm.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-08T06:00:54.382Z"
+  "updatedAt": "2026-04-08T07:50:48.516Z"
 }

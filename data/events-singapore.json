@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
-      "description": "シンガポール最大の園芸イベント。美しい花壇展示、花卉販売、ガーデニングワークショップなど。子ども向けの対話的ガーデン体験エリアもあり、家族で楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Marina Bay, シンガポール",
-      "link": "https://www.singaporegardensfestival.com",
+      "title": "シンガポール・フラワー・フェスティバル",
+      "description": "シンガポール植物園で開催される春の花祭り。チューリップ、バラ、蘭など色とりどりの花が咲き、家族向けワークショップや花の展示が楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road",
+      "link": "https://www.sbg.org.sg",
       "free": false
     },
     {
-      "title": "East Coast Park のビーチ活動とサイクリング",
-      "description": "東海岸の広大なビーチパークで家族向けのシーズナル活動。子ども向けビーチゲーム、安全なサイクリングエリア、ピクニック施設が充実。無料で楽しめる屋外レジャースポット。",
-      "date": "4月通年（4月は天気が良好）",
-      "place": "East Coast Park Road, シンガポール",
+      "title": "イースター・エッグ・ハント",
+      "description": "ユニバーサル・スタジオ・シンガポール内でのイースターイベント。子どもたちがテーマパーク内でイースター・エッグを探すアクティビティで、家族で楽しめます。",
+      "date": "4月上旬（イースター時期による）",
+      "place": "ユニバーサル・スタジオ・シンガポール、8 Sentosa Gateway",
+      "link": "https://www.universalstudiosingapore.com",
+      "free": false
+    },
+    {
+      "title": "イースト・コースト・パーク でのサイクリング・ピクニック",
+      "description": "広大な海岸公園でレンタサイクルやピクニック。子どもと一緒に自然の中でアクティビティを楽しむ無料の屋外スポット。ビーチエリアもあります。",
+      "date": "4月通期",
+      "place": "イースト・コースト・パーク（East Coast Park）",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Chingay Parade（チンゲイ・パレード）春季延長プログラム",
-      "description": "伝統的な中国系祭りの春季イベント。大規模なフロート、パフォーマンス、文化展示。子ども向けの工芸ワークショップやファミリーエリアが設営されます。",
-      "date": "4月初旬（毎年日程変動）",
-      "place": "Orchard Road, シンガポール",
-      "link": "https://www.visitsingapore.com/festivals-events-singapore/chingay-parade/",
+      "title": "チャイナタウン・ヘリテージ・フェスティバル",
+      "description": "チャイナタウン地区での文化祭。屋台グルメ、伝統工芸ワークショップ、ストリートパフォーマンスなど家族向けの無料アクティビティが豊富です。",
+      "date": "4月中旬〜下旬",
+      "place": "チャイナタウン地区、Smith Street周辺",
+      "link": "",
       "free": true
     },
     {
-      "title": "Singapore Zoo春季スペシャルプログラム",
-      "description": "ズーの春季キャンペーンで、動物との触れ合い体験、教育的ワークショップ、スペシャルフィーディングセッションが開催。幼児から小学生向けのプログラムが豊富。",
-      "date": "4月通年",
-      "place": "80 Mandai Lake Road, シンガポール",
+      "title": "シンガポール・ズーの春季スペシャル・プログラム",
+      "description": "動物園での子ども向けの季節限定プログラム。ワークショップや動物との触れ合い体験など、親子で学べるアクティビティが開催されます。",
+      "date": "4月通期",
+      "place": "シンガポール・ズー（Singapore Zoo）、80 Mandai Lake Road",
       "link": "https://www.zoo.com.sg",
-      "free": false
-    },
-    {
-      "title": "Science Centre Singapore春季子ども向けエキシビション",
-      "description": "春季の特別展示プログラムで、STEM学習、インタラクティブ実験、子ども向け科学ワークショップ。幅広い年齢層の子どもが楽しめる教育的体験施設。",
-      "date": "4月通年",
-      "place": "15 Science Centre Road, シンガポール",
-      "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-08T06:01:02.391Z"
+  "updatedAt": "2026-04-08T07:50:55.965Z"
 }

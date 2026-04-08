@@ -311,10 +311,10 @@
       "category": "play",
       "layer": "play",
       "description": "モナリザ・ミロのヴィーナスなど世界最大の美術館。18歳未満は無料。子ども向けワークショップあり。Rue de Rivoli, 75001",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
-      "checkedDate": "2026年3月",
+      "checkedDate": "2026年4月",
       "placeId": "ChIJD3uTd9hx5kcR1IQvGfr8dbk",
       "extra": false,
       "lat": 48.8606,
@@ -353,5 +353,5 @@
       "lng": 2.6114
     }
   ],
-  "checkedAt": "2026-04-08T06:00:28.608Z"
+  "checkedAt": "2026-04-08T07:51:40.541Z"
 }
