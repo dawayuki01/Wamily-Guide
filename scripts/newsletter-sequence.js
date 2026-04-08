@@ -22,11 +22,10 @@ const FROM_EMAIL = process.env.RESEND_FROM_EMAIL || 'hello@send.tomoyukisawada.c
 const DRY_RUN = process.env.DRY_RUN === 'true';
 
 // ── シーケンス定義 ──
+// Phase 1: ウェルカムメール1通のみ
+// Phase 2（Wamily成長後）: ステップ追加を検討
 const SEQUENCE = [
-  { step: 1, daysAfter: 1,  template: 'welcome',   subject: 'Wamilyへようこそ' },
-  { step: 2, daysAfter: 3,  template: 'howToUse',   subject: 'Wamilyの歩き方' },
-  { step: 3, daysAfter: 7,  template: 'recommend',  subject: '今月のおすすめ' },
-  { step: 4, daysAfter: 14, template: 'baton',      subject: '旅のバトン' },
+  { step: 1, daysAfter: 1,  template: 'welcome',   subject: '🌱 Wamily Letterへのご登録ありがとうございます' },
 ];
 
 // ──────────────────────────────────────────────────────────
