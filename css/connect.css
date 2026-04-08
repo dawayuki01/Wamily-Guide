@@ -245,7 +245,7 @@ img{max-width:100%;display:block}
   white-space:nowrap;
 }
 .cn-nl-btn:hover{background:#228e81;transform:translateY(-1px)}
-.cn-form-note{
+.cn-form-note,.cn-nl-note{
   margin-top:14px;
   font-size:12px;color:var(--muted);
   line-height:1.8;
