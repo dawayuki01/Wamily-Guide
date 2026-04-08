@@ -25,7 +25,7 @@ const DRY_RUN = process.env.DRY_RUN === 'true';
 // Phase 1: ウェルカムメール1通のみ
 // Phase 2（Wamily成長後）: ステップ追加を検討
 const SEQUENCE = [
-  { step: 1, daysAfter: 1,  template: 'welcome',   subject: 'Wamilyへようこそ — 仲間になってくれてありがとうございます' },
+  { step: 1, daysAfter: 1,  template: 'welcome',   subject: '🌱 Wamily Letterへのご登録ありがとうございます' },
 ];
 
 // ──────────────────────────────────────────────────────────

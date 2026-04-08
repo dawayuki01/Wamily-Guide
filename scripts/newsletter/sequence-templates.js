@@ -105,12 +105,17 @@ module.exports = {
       <div style="width: 32px; height: 2px; background-color: #e4a853; margin-bottom: 20px;"></div>
 
       <h1 style="margin: 0 0 24px 0; font-family: 'Noto Serif JP', Georgia, 'Times New Roman', serif; font-size: 20px; font-weight: 500; color: #2c2c2c; line-height: 1.6;">
-        Wamilyへようこそ。<br>
-        仲間になってくれて、ありがとうございます。
+        Wamily Letterへようこそ
       </h1>
 
       <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
         Wamily Letterにご登録いただき、本当にありがとうございます。
+      </p>
+
+      <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
+        毎週月曜日に、世界中のメディアからまだ日本に届いていない<br>
+        「旅と家族」の種をお届けします。<br>
+        楽しんでいただけたら嬉しいです。
       </p>
 
       <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
@@ -121,19 +126,13 @@ module.exports = {
       </p>
 
       <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
-        毎週月曜日に、世界の英語メディアからまだ日本に届いていない<br>
-        「旅と家族」の種をお届けします。<br>
-        楽しんでいただけたら嬉しいです。
-      </p>
-
-      <p style="margin: 0 0 20px 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
         Wamilyの成長とともに、みんながつながれる場も<br>
         少しずつ作っていきたいと思っています。<br>
         これからよろしくお願いします。
       </p>
 
       <p style="margin: 0 0 0 0; font-size: 13px; color: #4a4a4a; line-height: 2.0; font-weight: 300;">
-        サワディー
+        Wamily オーナー サワディー
       </p>
     `;
     return wrapLayout('Wamilyへようこそ', bodyHtml, unsubscribeUrl);
