@@ -16,6 +16,7 @@
 
 const Anthropic = require('@anthropic-ai/sdk');
 const { Client } = require('@notionhq/client');
+const { notifySlack } = require('./lib/slack-notify');
 
 // ──────────────────────────────────────────────────────────
 // 設定
@@ -340,9 +341,24 @@ async function main() {
   }
 
   console.log('\n🎉 コンテンツ自動生成 完了');
+
+  await notifySlack({
+    channel: 'patrol',
+    icon: '🟢',
+    title: '[パトロール部] コンテンツ生成 完了',
+    body: `${ctx.label} のコンテンツを生成しました`,
+    color: 'success',
+  });
 }
 
-main().catch(err => {
+main().catch(async err => {
   console.error('❌ 予期しないエラー:', err.message);
+  await notifySlack({
+    channel: 'patrol',
+    icon: '🔴',
+    title: '[パトロール部] コンテンツ生成 エラー',
+    body: err.message,
+    color: 'error',
+  });
   process.exit(1);
 });

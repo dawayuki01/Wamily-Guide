@@ -19,6 +19,7 @@ const { Client: NotionClient } = require('@notionhq/client');
 const { fetchAllArticles } = require('./newsletter/rss-fetcher');
 const { buildCurationPrompt } = require('./newsletter/curate-prompt');
 const { buildCuratedHtml } = require('./newsletter/email-template');
+const { notifySlack } = require('./lib/slack-notify');
 
 // ===== 設定 =====
 const SITE_URL = 'https://dawayuki01.github.io/Wamily-Guide';
@@ -206,9 +207,30 @@ async function main() {
   console.log(`送信成功: ${successCount}`);
   console.log(`送信失敗: ${errors.length}`);
   console.log('\n=== Wamily Letter 配信完了 ===');
+
+  await notifySlack({
+    channel: 'newsletter',
+    icon: errors.length ? '🔴' : '🟢',
+    title: `[メルマガ部] 週刊配信 ${errors.length ? '一部エラー' : '完了'}`,
+    body: `${curatedItems.length}記事を${successCount}名に配信`,
+    color: errors.length ? 'warning' : 'success',
+    fields: [
+      { label: '記事数', value: `${curatedItems.length}本` },
+      { label: '購読者数', value: `${subscribers.length}名` },
+      { label: '成功', value: `${successCount}名` },
+      { label: '失敗', value: `${errors.length}名` },
+    ],
+  });
 }
 
-main().catch(err => {
+main().catch(async err => {
   console.error('致命的エラー:', err);
+  await notifySlack({
+    channel: 'newsletter',
+    icon: '🔴',
+    title: '[メルマガ部] 週刊配信 エラー',
+    body: err.message || String(err),
+    color: 'error',
+  });
   process.exit(1);
 });
