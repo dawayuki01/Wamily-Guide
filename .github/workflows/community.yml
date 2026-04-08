@@ -1,0 +1,100 @@
+name: Community
+
+on:
+  schedule:
+    - cron: '30 0 * * *'   # 毎日 09:30 JST（日次）
+    - cron: '0 1 * * 1'    # 毎週月曜 10:00 JST（週次）
+  workflow_dispatch:
+    inputs:
+      weekly_report:
+        description: '週次レポートを実行する'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '30 0 * * *' || (github.event_name == 'workflow_dispatch' && !inputs.weekly_report)
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+      - run: cd scripts && npm ci
+
+      - name: Community daily report
+        run: node scripts/community-report.js --daily
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_BATON_DB_ID: ${{ secrets.NOTION_BATON_DB_ID }}
+          NEWSLETTER_SUBSCRIBERS_DB_ID: ${{ secrets.NEWSLETTER_SUBSCRIBERS_DB_ID }}
+          SLACK_WEBHOOK_COMMUNITY_USER: ${{ secrets.SLACK_WEBHOOK_COMMUNITY_USER }}
+
+      - name: Host reminder
+        run: node scripts/host-reminder.js
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_HOST_DB_ID: ${{ secrets.NOTION_HOST_DB_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_COMMUNITY_HOST: ${{ secrets.SLACK_WEBHOOK_COMMUNITY_HOST }}
+
+      - name: Commit state files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/.community-last-check.json data/.milestone-state.json
+          git diff --staged --quiet || git commit -m "chore: update community state files"
+          git push
+
+  weekly:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 1 * * 1' || (github.event_name == 'workflow_dispatch' && inputs.weekly_report)
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+      - run: cd scripts && npm ci
+
+      - name: Community weekly report
+        run: node scripts/community-report.js --weekly
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_BATON_DB_ID: ${{ secrets.NOTION_BATON_DB_ID }}
+          NEWSLETTER_SUBSCRIBERS_DB_ID: ${{ secrets.NEWSLETTER_SUBSCRIBERS_DB_ID }}
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_CREDENTIALS: ${{ secrets.GA4_CREDENTIALS }}
+          SLACK_WEBHOOK_COMMUNITY_USER: ${{ secrets.SLACK_WEBHOOK_COMMUNITY_USER }}
+
+      - name: Update dashboard
+        run: node scripts/update-dashboard.js
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DASHBOARD_PAGE_ID: ${{ secrets.NOTION_DASHBOARD_PAGE_ID }}
+          NOTION_SPOTS_DB_ID: ${{ secrets.NOTION_SPOTS_DB_ID }}
+          NOTION_CURATION_DB_ID: ${{ secrets.NOTION_CURATION_DB_ID }}
+          NOTION_HOST_DB_ID: ${{ secrets.NOTION_HOST_DB_ID }}
+          NEWSLETTER_SUBSCRIBERS_DB_ID: ${{ secrets.NEWSLETTER_SUBSCRIBERS_DB_ID }}
+          NOTION_BATON_DB_ID: ${{ secrets.NOTION_BATON_DB_ID }}
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_CREDENTIALS: ${{ secrets.GA4_CREDENTIALS }}
+          SLACK_WEBHOOK_COMMUNITY_USER: ${{ secrets.SLACK_WEBHOOK_COMMUNITY_USER }}
+
+      - name: Commit state files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/.community-last-check.json data/.milestone-state.json
+          git diff --staged --quiet || git commit -m "chore: update community state files"
+          git push
