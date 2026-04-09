@@ -1,1 +1,47 @@
-{"events":[],"updatedAt":null}
+{
+  "source": "Claude AI 生成",
+  "sourceUrl": null,
+  "updatedAt": "2026-04-09T00:00:00.000Z",
+  "items": [
+    {
+      "title": "長洲島 饅頭祭り（太平清醮）",
+      "description": "毎年旧暦4月に開催される長洲島の伝統祭り。高さ14mの饅頭タワー、パレード、獅子舞が見どころ。フェリーで約40分。子どもが大興奮する香港最大の伝統行事。2026年は5月中旬頃。",
+      "date": "5月中旬",
+      "place": "長洲島（中環フェリーターミナルからフェリー約40分）",
+      "link": "https://www.discoverhongkong.com/",
+      "free": true
+    },
+    {
+      "title": "ビクトリアハーバー シンフォニー・オブ・ライツ",
+      "description": "毎晩20時から約10分間、ビクトリアハーバー両岸のビルがレーザーと光で演出されるショー。尖沙咀プロムナードから無料で鑑賞可能。子どもの寝る前の特別な時間に。",
+      "date": "毎日 20:00",
+      "place": "尖沙咀プロムナード（Avenue of Stars周辺）",
+      "link": "https://www.discoverhongkong.com/",
+      "free": true
+    },
+    {
+      "title": "香港ディズニーランド 春のスペシャルイベント",
+      "description": "4〜5月は春の特別プログラム。キャラクターグリーティング強化、限定フード、ナイトパレードが楽しめる。平日は比較的空いていて子連れにおすすめ。",
+      "date": "4月〜5月",
+      "place": "香港ディズニーランド（ランタオ島）",
+      "link": "https://www.hongkongdisneyland.com/",
+      "free": false
+    },
+    {
+      "title": "オーシャンパーク 春の動物プログラム",
+      "description": "パンダの赤ちゃん公開やイルカとのインタラクションプログラム。春は気温が穏やかで屋外アトラクションも快適。ケーブルカーから海の絶景も楽しめる。",
+      "date": "4月〜5月",
+      "place": "オーシャンパーク（香港島南区）",
+      "link": "https://www.oceanpark.com.hk/",
+      "free": false
+    },
+    {
+      "title": "香港花卉展覧（Hong Kong Flower Show）",
+      "description": "ビクトリアパークで開催される香港最大のフラワーフェスティバル。色とりどりの花の展示、ガーデニング体験、子ども向けワークショップもあり。入場無料。",
+      "date": "3月中旬〜下旬",
+      "place": "ビクトリアパーク（銅鑼湾）",
+      "link": "https://www.hkflowershow.hk/",
+      "free": true
+    }
+  ]
+}
