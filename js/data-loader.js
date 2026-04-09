@@ -73,6 +73,7 @@
     'la':        ['LA'],
     'hawaii':    ['ハワイ'],
     'seoul':     ['ソウル'],
+    'hongkong':  ['香港'],
   };
 
   async function loadLiveFeed() {
@@ -431,6 +432,7 @@
     la:        'photo-1534190239940-9ba8944ea261',
     hawaii:    'photo-1507876466758-bc54f384809c',
     seoul:     'photo-1534274988757-a28bf1a57c17',
+    hongkong:  'photo-1506970845246-98f69a01127c',
   };
 
   // カルーセル用の表示名マッピング
@@ -445,6 +447,7 @@
     la:        'アメリカ・LA',
     hawaii:    'アメリカ・ハワイ',
     seoul:     '韓国・ソウル',
+    hongkong:  '香港',
   };
 
   // countries.json から動的読み込み（公開国のみ）
@@ -452,7 +455,7 @@
   let COUNTRIES_DATA = [];
 
   // デフォルトの国リスト（フォールバック用）
-  const DEFAULT_SLUGS = ['london','taipei','paris','stockholm','singapore','bangkok','manila','la','hawaii','seoul'];
+  const DEFAULT_SLUGS = ['london','taipei','paris','stockholm','singapore','bangkok','manila','la','hawaii','seoul','hongkong'];
 
   async function loadCountriesConfig() {
     try {
@@ -527,6 +530,7 @@
     la:        'アメリカ・LA',
     hawaii:    'アメリカ・ハワイ',
     seoul:     '韓国・ソウル',
+    hongkong:  '香港',
   };
 
   function hostIconSVG() {

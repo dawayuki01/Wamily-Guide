@@ -84,6 +84,12 @@ const COUNTRIES = [
     nameEn: 'Seoul',
     source: 'Claude AI 生成',
   },
+  {
+    slug: 'hongkong',
+    name: '香港',
+    nameEn: 'Hong Kong',
+    source: 'Claude AI 生成',
+  },
 ];
 
 // ──────────────────────────────────────────────────────────

@@ -42,6 +42,7 @@ const FOLDER_TO_SLUG = {
   'ハワイ': 'hawaii',
   '韓国・ソウル': 'seoul',
   'ソウル': 'seoul',
+  '香港': 'hongkong',
 };
 
 // カテゴリキーワード → カテゴリキー

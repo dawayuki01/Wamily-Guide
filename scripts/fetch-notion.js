@@ -42,6 +42,7 @@ const COUNTRY_SLUG = {
   'ハワイ': 'hawaii',
   '韓国': 'seoul',
   'ソウル': 'seoul',
+  '香港': 'hongkong',
   '台湾': 'taipei',
   '台北': 'taipei',
 };
