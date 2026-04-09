@@ -1,1 +1,45 @@
-{"items":[]}
+{
+  "items": [
+    {
+      "id": "hk-cur-001",
+      "name": "Hong Kong with Kids 🇭🇰",
+      "type": "YouTube",
+      "description": "香港子連れ旅行のリアルなvlog。ディズニーランド・飲茶・トラム体験など。実際のベビーカー事情や子どもの反応がわかる。",
+      "url": "https://www.youtube.com/results?search_query=hong+kong+with+kids+vlog",
+      "addedDate": "2026-04-09"
+    },
+    {
+      "id": "hk-cur-002",
+      "name": "Discover Hong Kong（香港政府観光局）",
+      "type": "ブログ",
+      "description": "公式観光サイト。ファミリー向け特集ページがあり、子連れで楽しめるスポット・レストラン・イベントを日本語で紹介。",
+      "url": "https://www.discoverhongkong.com/jp/index.html",
+      "addedDate": "2026-04-09"
+    },
+    {
+      "id": "hk-cur-003",
+      "name": "@discoverhongkong",
+      "type": "Instagram",
+      "description": "香港政府観光局の公式Instagram。美しい写真とともに最新の観光情報を発信。子連れスポットのヒントも多い。",
+      "url": "https://www.instagram.com/discoverhongkong/",
+      "addedDate": "2026-04-09"
+    },
+    {
+      "id": "hk-cur-004",
+      "name": "子連れ香港旅行ガイド｜ハナセル",
+      "type": "ブログ",
+      "description": "子連れ目線での香港旅行実体験レポート。持ち物・食事・移動手段など実用的な情報が豊富。",
+      "url": "https://www.hanacell.com/blog/hong-kong-with-kids/",
+      "addedDate": "2026-04-09"
+    },
+    {
+      "id": "hk-cur-005",
+      "name": "香港ナビ",
+      "type": "ブログ",
+      "description": "香港の最新情報を日本語で発信。グルメ・ショッピング・観光の実用ガイド。クーポン情報もあり。",
+      "url": "https://www.hongkongnavi.com/",
+      "addedDate": "2026-04-09"
+    }
+  ],
+  "updatedAt": "2026-04-09T00:00:00.000Z"
+}
