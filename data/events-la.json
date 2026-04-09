@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（春季）",
-      "description": "色鮮やかな春の花々が並ぶマーケット。子どもも楽しめる花選びや、フラワーアレンジメント体験コーナーがあります。屋外で散策できる季節の香りが満喫できます。",
+      "title": "Los Angeles Times Festival of Books",
+      "description": "南カリフォルニア大学キャンパスで開催される北米最大級の書籍フェスティバル。子ども向けの読書イベント、ワークショップ、キャラクターグリーティングが充実。",
+      "date": "4月中旬（毎年変動）",
+      "place": "University of Southern California, Los Angeles, CA 90089",
+      "link": "https://www.latimesfestivalofbooks.com",
+      "free": true
+    },
+    {
+      "title": "Descanso Gardens Spring Flower Festival",
+      "description": "初夏の花々が咲き誇る庭園。チューリップ、バラ、藤などの季節の花が見頃。子ども向けガイドツアーやピクニックエリアも完備。",
       "date": "4月上旬〜下旬",
-      "place": "Los Angeles Flower Market, 766 S San Pedro St, Los Angeles, CA 90017",
-      "link": "https://www.laflowermarket.com/",
+      "place": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier Spring Events & Pacific Park",
+      "description": "サンタモニカピアの遊園地。春の好天候の下、観覧車やアトラクションを楽しめます。ビーチでの砂遊びも無料で可能。",
+      "date": "4月上旬〜下旬",
+      "place": "200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.pacpark.com",
+      "free": false
+    },
+    {
+      "title": "Griffith Observatory Spring Hiking & Stargazing",
+      "description": "グリフィス天文台周辺の春のハイキング。親子向けの山道コース、天文台の無料展示、夜間の天体観測プログラムが利用可能。",
+      "date": "4月上旬〜下旬",
+      "place": "2800 E Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "グリフィス天文台（Griffith Observatory）の春季特別プログラム",
-      "description": "天文台の無料展示や、春の星空観測プログラムが開催されます。子ども向けの科学教室やプラネタリウムで宇宙を学べます。",
-      "date": "4月全月",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス・アースデイ・フェスティバル",
-      "description": "4月22日前後に開催される環境フェスティバル。子ども向けワークショップ、エコ体験、音楽ステージがあり、家族で楽しく環境について学べます。",
-      "date": "4月中旬〜下旬（4月22日前後）",
-      "place": "Exposition Park, Los Angeles, CA 90037",
-      "link": "https://www.laparks.org/",
-      "free": true
-    },
-    {
-      "title": "カリフォルニア・サイエンス・センター（春季特別展）",
-      "description": "宇宙船エンデバーや最新の科学展示を体験。春期の子ども向け特別プログラムやハンズオン実験が豊富。乳幼児から小学生まで楽しめます。",
-      "date": "4月全月",
-      "place": "California Science Center, 700 Exposition Park Drive, Los Angeles, CA 90037",
-      "link": "https://www.californiasciencecenter.org/",
-      "free": true
-    },
-    {
-      "title": "ハイキング&ネイチャー体験（エルカピタン州立公園など）",
-      "description": "4月の春シーズンは気候が最適。野花が咲き、野生動物も活発。ファミリー向けの初級トレイルで、自然を満喫しながら屋外アクティビティを楽しめます。",
-      "date": "4月全月（特に上旬〜中旬）",
-      "place": "El Capitan State Park, Ventura County or Griffith Park, Los Angeles",
-      "link": "https://www.parks.ca.gov/",
+      "title": "The Broad Museum Kids Programs & Art Galleries",
+      "description": "無料で楽しめるアートミュージアム。子ども向けのファミリープログラムやインタラクティブ展示で、美術館デビューに最適。",
+      "date": "4月上旬〜下旬（年中開催）",
+      "place": "221 S Grand Avenue, Los Angeles, CA 90012",
+      "link": "https://www.thebroad.org",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-08T07:51:19.961Z"
+  "updatedAt": "2026-04-09T06:00:49.057Z"
 }

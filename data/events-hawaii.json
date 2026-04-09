@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイデー）",
-      "description": "ハワイの文化を代表するレイを祝う日。パレード、音楽、ダンスパフォーマンス、レイメイキングワークショップなど。子どもも参加できる文化体験が豊富です。",
-      "date": "4月30日前後",
-      "place": "カピオラニ公園、ホノルル、オアフ島",
-      "link": "https://www.gohawaii.com/",
+      "title": "Lei Day（レイ・デー）",
+      "description": "ハワイの文化を祝う5月1日前後のイベント。レイ製作体験、フラダンス、音楽ライブなど家族で楽しめます。無料のセレモニーも多数開催されます。",
+      "date": "4月下旬～5月1日前後",
+      "place": "オアフ島全域（主要は州庁舎前など）",
+      "link": "https://www.gohawaii.com/ja",
       "free": true
     },
     {
-      "title": "ホノルル・フェスティバル",
-      "description": "国際的な音楽、ダンス、パフォーマンスが楽しめる3日間のフェスティバル。ファミリーゾーンがあり、子ども向けアクティビティやステージが充実。",
-      "date": "4月中旬（通常4月第2〜3週末）",
-      "place": "ホノルル、オアフ島（ワイキキ、ダウンタウン）",
-      "link": "https://www.honolulufestival.com/",
-      "free": true
-    },
-    {
-      "title": "ハワイ・ロアッククライミング体験（キッズプログラム）",
-      "description": "溶岩洞窟やクライミングウォールで自然を学びながら遊べます。4才から参加可能なキッズプログラムあり。ガイド付きで安心。",
-      "date": "4月通年（通年開催）",
-      "place": "クアロア・ランチ、カネオヘ、オアフ島",
-      "link": "https://www.kualoaranch.com/",
+      "title": "ホノルル動物園の春祭り",
+      "description": "ハワイの野生動物を学べるプログラムや、子ども向けの教育ワークショップ。動物とのふれあい体験やスタンプラリーも開催されます。",
+      "date": "4月中旬～下旬",
+      "place": "ホノルル動物園、ワイキキ",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "春のプルメリア咲き始め＆ビショップ美術館ファミリープログラム",
-      "description": "4月からプルメリアが開花。ビショップ美術館ではファミリー向けプログラムやキッズワークショップを開催。ハワイの自然と文化を学べます。",
-      "date": "4月通月",
-      "place": "ビショップ美術館、ホノルル、オアフ島",
-      "link": "https://www.bishopmuseum.org/",
+      "title": "KCC Farmers Market（KCC ファーマーズ・マーケット）",
+      "description": "毎週土曜早朝開催。地元野菜、トロピカルフルーツ、ハワイアン料理など。屋外で子連れファミリーが楽しめる食文化体験。",
+      "date": "毎週土曜（4月通し）",
+      "place": "カピオラニ・コミュニティ・カレッジ駐車場、ホノルル",
+      "link": "https://www.honolulufarmers.com",
+      "free": true
+    },
+    {
+      "title": "Honolulu Zoo's Snooze in the Zoo（動物園でお泊り）",
+      "description": "子どもが動物園で夜間体験できる特別プログラム。夜の動物の様子を観察し、園内でキャンプ。自然学習と冒険を同時に楽しめます。",
+      "date": "4月不定期開催（要確認）",
+      "place": "ホノルル動物園、ワイキキ",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "KCC ファーマーズマーケット（キッキ・コミュニティ・センター）",
-      "description": "毎週土曜朝に開催される地元野菜・果物・グルメの市場。新鮮なフルーツやローカルフードが豊富。子連れ家族が多く、アットホームな雰囲気。",
-      "date": "4月毎週土曜朝（7:30-11:00）",
-      "place": "KCC ファーマーズマーケット、ホノルル、オアフ島",
-      "link": "https://www.honolululu.com/farmers-markets/",
-      "free": true
+      "title": "ハイキング：ダイヤモンドヘッド",
+      "description": "ワイキキから近い初級向けハイキング。約1時間の往復で絶景を楽しめます。春の心地よい気候で、家族でチャレンジしやすい屋外アクティビティです。",
+      "date": "4月通し（早朝がおすすめ）",
+      "place": "ダイヤモンドヘッド・ステート・モニュメント、ワイキキ",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-08T07:51:28.595Z"
+  "updatedAt": "2026-04-09T06:00:56.954Z"
 }

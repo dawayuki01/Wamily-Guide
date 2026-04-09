@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・フラワー・フェスティバル",
-      "description": "シンガポール植物園で開催される春の花祭り。チューリップ、バラ、蘭など色とりどりの花が咲き、家族向けワークショップや花の展示が楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road",
-      "link": "https://www.sbg.org.sg",
+      "title": "Singapore Garden Festival",
+      "description": "アジア最大級のガーデンフェスティバル。色とりどりの花々、ガーデンデザイン展示、子ども向けワークショップなど、家族で楽しめるイベント。",
+      "date": "4月中旬〜下旬",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
+      "link": "https://www.gardensfestival.sg",
       "free": false
     },
     {
-      "title": "イースター・エッグ・ハント",
-      "description": "ユニバーサル・スタジオ・シンガポール内でのイースターイベント。子どもたちがテーマパーク内でイースター・エッグを探すアクティビティで、家族で楽しめます。",
-      "date": "4月上旬（イースター時期による）",
-      "place": "ユニバーサル・スタジオ・シンガポール、8 Sentosa Gateway",
-      "link": "https://www.universalstudiosingapore.com",
-      "free": false
-    },
-    {
-      "title": "イースト・コースト・パーク でのサイクリング・ピクニック",
-      "description": "広大な海岸公園でレンタサイクルやピクニック。子どもと一緒に自然の中でアクティビティを楽しむ無料の屋外スポット。ビーチエリアもあります。",
-      "date": "4月通期",
-      "place": "イースト・コースト・パーク（East Coast Park）",
+      "title": "East Coast Park での凧揚げと海浜アクティビティ",
+      "description": "シンガポール最大のビーチパーク。無料で凧揚げ、サイクリング、ピクニックが楽しめます。子どもが安全に遊べる広大な砂浜と芝生エリア。",
+      "date": "4月上旬〜下旬",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "チャイナタウン・ヘリテージ・フェスティバル",
-      "description": "チャイナタウン地区での文化祭。屋台グルメ、伝統工芸ワークショップ、ストリートパフォーマンスなど家族向けの無料アクティビティが豊富です。",
-      "date": "4月中旬〜下旬",
-      "place": "チャイナタウン地区、Smith Street周辺",
-      "link": "",
+      "title": "Chingay Parade（チンゲイパレード）の余韻・コミュニティイベント",
+      "description": "4月は春祭り関連のコミュニティイベントやマーケットが各地で開催。文化的体験ができ、子ども向けアクティビティ・屋台食が充実。",
+      "date": "4月上旬〜中旬",
+      "place": "Geylang Serai Market 及び周辺コミュニティセンター",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "シンガポール・ズーの春季スペシャル・プログラム",
-      "description": "動物園での子ども向けの季節限定プログラム。ワークショップや動物との触れ合い体験など、親子で学べるアクティビティが開催されます。",
-      "date": "4月通期",
-      "place": "シンガポール・ズー（Singapore Zoo）、80 Mandai Lake Road",
+      "title": "シンガポール動物園の春季特別プログラム",
+      "description": "動物園の季節限定プログラムや特別ガイドツアー。乳幼児向けの触れ合いエリア、トレイン乗車、教育的なワークショップなど。",
+      "date": "4月上旬〜下旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
       "link": "https://www.zoo.com.sg",
       "free": false
+    },
+    {
+      "title": "シンガポール国立図書館・キッズスペース春季イベント",
+      "description": "公立図書館の無料子ども向けストーリータイム、工作ワークショップ、スプラッシュパッド（水遊びエリア）など季節プログラムが開催。",
+      "date": "4月上旬〜下旬",
+      "place": "National Library Board, Victoria Street & Bras Basah Road, Singapore",
+      "link": "https://www.nlb.gov.sg",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-08T07:50:55.965Z"
+  "updatedAt": "2026-04-09T06:00:24.623Z"
 }

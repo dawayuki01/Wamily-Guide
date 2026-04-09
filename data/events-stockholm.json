@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン王妃誕生日を祝う王宮儀式",
-      "description": "4月9日の王妃誕生日にロイヤルパレスで行われる衛兵交代式。豪華な儀式を無料で観覧でき、子どもたちも王妃への敬礼セレモニーを見学できます。",
-      "date": "4月9日前後",
-      "place": "ロイヤルパレス（Kungliga Slottet）、Gamla Stan, Stockholm",
-      "link": "https://www.royalcourt.se",
+      "title": "スウェーデン国立博物館の春の特別展示",
+      "description": "4月はスウェーデン国立博物館で春の企画展が開催。子ども向けのインタラクティブなプログラムや工作ワークショップが多数用意されています。",
+      "date": "4月上旬〜下旬",
+      "place": "Nationalmuseum, Södra Blasieholmen, 103 21 Stockholm",
+      "link": "https://www.nationalmuseum.se/",
+      "free": false
+    },
+    {
+      "title": "ユーグリーデン王立公園の春の散策",
+      "description": "ストックホルム郊外の広大な王立公園。4月は桜が咲き始め、自然の目覚めを感じられます。無料で入園でき、家族向けの遊歩道やピクニックエリアが充実しています。",
+      "date": "4月中旬〜下旬",
+      "place": "Drottningholm Palace Park, Drottningholmsvägen, 178 02 Ekerö",
+      "link": "https://www.royalpalaces.se/",
       "free": true
     },
     {
-      "title": "春の桜・チューリップ祭り",
-      "description": "ストックホルムの公園で春の花が一斉に咲く時期。ユールゴーデン島やノルマルム地区でピンクの桜やカラフルなチューリップが楽しめます。",
+      "title": "スカンセン野外博物館の春まつり",
+      "description": "北欧最大の野外博物館。4月は動物園エリアで春の動物たちの活動が見られ、伝統工芸のデモンストレーションや子ども向けアクティビティが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
+      "free": false
+    },
+    {
+      "title": "ヴァーサ博物館の家族向けプログラム",
+      "description": "17世紀の軍艦ヴァーサを展示する博物館。4月は子ども向けの特別ツアーやスカベンジャーハントなど、季節の家族プログラムが充実しています。",
+      "date": "4月上旬〜下旬",
+      "place": "Vasamuseet, Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se/",
+      "free": false
+    },
+    {
+      "title": "ジュールゴーデン島の春の屋外アクティビティ",
+      "description": "ストックホルム中心部の島。4月は新緑が美しく、遊び場、自転車レンタル、カフェが豊富。無料で散策でき、家族向けの安全な環境でアウトドアを楽しめます。",
       "date": "4月中旬〜下旬",
-      "place": "ユールゴーデン島、スキャンセン周辺、Drottningholm Palace Gardens",
-      "link": "https://www.visitstockholm.com",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.stockholm.se/",
       "free": true
-    },
-    {
-      "title": "スキャンセン野外民族博物館の春季プログラム",
-      "description": "北欧の伝統的な動物たちが活動を始める春。子ども向けの動物ふれあいプログラムやスウェーデン民族文化体験が充実しています。",
-      "date": "4月全期間",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
-      "link": "https://www.skansen.se",
-      "free": false
-    },
-    {
-      "title": "ヴァーサ号博物館の子ども向けスペシャルツアー",
-      "description": "17世紀の実在する木造軍船を見学。4月は春季プログラムで子ども向けガイドツアーや船乗り体験アクティビティが開催されます。",
-      "date": "4月全期間（週末に多数開催）",
-      "place": "Vasa Museum, Galärvarvsvägen 14, Stockholm",
-      "link": "https://www.vasamuseet.se",
-      "free": false
-    },
-    {
-      "title": "メーラレン湖でのカヤック・ボート春季アクティビティ",
-      "description": "春の氷が溶けたメーラレン湖で家族向けカヤックツアーやボートエクスペリエンスを実施。子ども向けの穏やかなコースも用意されています。",
-      "date": "4月中旬〜下旬",
-      "place": "ストックホルム市内各所（Lake Mälaren water activities）",
-      "link": "https://www.visitstockholm.com",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-08T07:50:48.516Z"
+  "updatedAt": "2026-04-09T06:00:16.827Z"
 }
