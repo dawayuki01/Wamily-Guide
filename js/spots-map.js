@@ -19,6 +19,7 @@
     la:        { lat: 34.0522,  lng: -118.2437, zoom: 10 },
     hawaii:    { lat: 21.3069,  lng: -157.8583, zoom: 11 },
     seoul:     { lat: 37.5665,  lng: 126.9780,  zoom: 12 },
+    hongkong:  { lat: 22.3193,  lng: 114.1694,  zoom: 12 },
   };
 
   var COUNTRY_CONFIG = Object.assign({}, COUNTRY_CONFIG_DEFAULT);

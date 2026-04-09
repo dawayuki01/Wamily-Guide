@@ -159,6 +159,22 @@
         "lng": 126.978
       },
       "zoom": 12
+    },
+    {
+      "slug": "hongkong",
+      "nameJa": "香港",
+      "nameEn": "Hong Kong",
+      "flag": "🇭🇰",
+      "status": "draft",
+      "maturity": "準備中",
+      "tripDate": "2026-04-30",
+      "spots": 0,
+      "hasHost": false,
+      "center": {
+        "lat": 22.3193,
+        "lng": 114.1694
+      },
+      "zoom": 12
     }
   ]
 }

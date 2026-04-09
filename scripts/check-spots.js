@@ -23,7 +23,7 @@ const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
 // 対象の全国スラグ
 const SLUGS = [
   'london', 'taipei', 'paris', 'stockholm', 'singapore',
-  'bangkok', 'manila', 'la', 'hawaii', 'seoul'
+  'bangkok', 'manila', 'la', 'hawaii', 'seoul', 'hongkong'
 ];
 
 // ──────────────────────────────────────────────────────────

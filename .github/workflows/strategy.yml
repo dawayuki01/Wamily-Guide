@@ -23,3 +23,7 @@ jobs:
           NOTION_WATCHLIST_DB_ID: ${{ secrets.NOTION_WATCHLIST_DB_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SLACK_WEBHOOK_STRATEGY: ${{ secrets.SLACK_WEBHOOK_STRATEGY }}
+          NEWSLETTER_SUBSCRIBERS_DB_ID: ${{ secrets.NEWSLETTER_SUBSCRIBERS_DB_ID }}
+          NOTION_BATON_DB_ID: ${{ secrets.NOTION_BATON_DB_ID }}
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_CREDENTIALS: ${{ secrets.GA4_CREDENTIALS }}
