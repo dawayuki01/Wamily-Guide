@@ -232,6 +232,40 @@ function createCountryPage(c) {
   console.log(`  ✅ ${c.slug}/index.html 作成`);
 }
 
+// ── 1.5. countries.json に draft で追加 ────────────────────
+
+function updateCountriesJson(c) {
+  const countriesPath = path.join(ROOT, 'data', 'countries.json');
+  let countriesData;
+  try {
+    countriesData = JSON.parse(fs.readFileSync(countriesPath, 'utf-8'));
+  } catch {
+    countriesData = { countries: [] };
+  }
+
+  if (countriesData.countries.some(entry => entry.slug === c.slug)) {
+    console.log(`  ⏭️  countries.json に ${c.slug} は既に存在します`);
+    return;
+  }
+
+  countriesData.countries.push({
+    slug: c.slug,
+    nameJa: c.nameJa.split('・').pop(),
+    nameEn: c.nameEn.split(' / ').pop(),
+    flag: c.flag,
+    status: 'draft',
+    maturity: '準備中',
+    tripDate: null,
+    spots: 0,
+    hasHost: false,
+    center: { lat: c.lat, lng: c.lng },
+    zoom: c.zoom,
+  });
+
+  fs.writeFileSync(countriesPath, JSON.stringify(countriesData, null, 2) + '\n', 'utf-8');
+  console.log(`  ✅ countries.json に draft で追加`);
+}
+
 // ── 2. 空のスポットファイル生成 ──────────────────────────
 
 function createSpotsJSON(c) {
@@ -242,6 +276,26 @@ function createSpotsJSON(c) {
   }
   fs.writeFileSync(fp, JSON.stringify({ spots: [], checkedAt: new Date().toISOString() }, null, 2), 'utf-8');
   console.log(`  ✅ data/spots-${c.slug}.json 作成`);
+}
+
+function createCurationJSON(c) {
+  const fp = path.join(ROOT, 'data', `curation-${c.slug}.json`);
+  if (fs.existsSync(fp)) {
+    console.log(`  ⏭️  data/curation-${c.slug}.json は既に存在します`);
+    return;
+  }
+  fs.writeFileSync(fp, JSON.stringify({ items: [] }, null, 2) + '\n', 'utf-8');
+  console.log(`  ✅ data/curation-${c.slug}.json 作成`);
+}
+
+function createEventsJSON(c) {
+  const fp = path.join(ROOT, 'data', `events-${c.slug}.json`);
+  if (fs.existsSync(fp)) {
+    console.log(`  ⏭️  data/events-${c.slug}.json は既に存在します`);
+    return;
+  }
+  fs.writeFileSync(fp, JSON.stringify({ items: [], updatedAt: null }, null, 2) + '\n', 'utf-8');
+  console.log(`  ✅ data/events-${c.slug}.json 作成`);
 }
 
 // ── 3〜8. 各設定ファイルに追記 ────────────────────────────
@@ -270,6 +324,8 @@ function updateDataLoader(c) {
 function updateSpotsMap(c) {
   const fp = path.join(ROOT, 'js', 'spots-map.js');
   const pattern = `seoul:     { lat: 37.5665,  lng: 126.9780,  zoom: 12 },`;
+  // Also try the new COUNTRY_CONFIG_DEFAULT format
+  const patternAlt = `seoul:     { lat: 37.5665,  lng: 126.9780,  zoom: 12 },`;
   const insertion = `\n    ${c.slug}:${' '.repeat(Math.max(1, 11 - c.slug.length))}{ lat: ${c.lat.toFixed(4)},  lng: ${c.lng.toFixed(4)}, zoom: ${c.zoom} },`;
   if (insertAfterPattern(fp, pattern, insertion)) {
     console.log(`  ✅ spots-map.js COUNTRY_CONFIG に追加`);
@@ -344,8 +400,13 @@ async function main() {
   // 1. 国ページ生成
   createCountryPage(c);
 
-  // 2. スポットJSON生成
+  // 1.5. countries.json に追加
+  updateCountriesJson(c);
+
+  // 2. データファイル生成
   createSpotsJSON(c);
+  createCurationJSON(c);
+  createEventsJSON(c);
 
   // 3〜8. 設定ファイル更新
   updateDataLoader(c);

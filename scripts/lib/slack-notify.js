@@ -9,6 +9,9 @@ const CHANNEL_MAP = {
   newsletter:      'SLACK_WEBHOOK_NEWSLETTER',
   community_user:  'SLACK_WEBHOOK_COMMUNITY_USER',
   community_host:  'SLACK_WEBHOOK_COMMUNITY_HOST',
+  sns:             'SLACK_WEBHOOK_SNS',
+  editorial:       'SLACK_WEBHOOK_EDITORIAL',
+  strategy:        'SLACK_WEBHOOK_STRATEGY',
 };
 
 const COLOR_MAP = {

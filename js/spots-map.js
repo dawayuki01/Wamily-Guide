@@ -7,8 +7,8 @@
 (function () {
   'use strict';
 
-  // ── 国ごとの中心座標 & ズームレベル ──────────────────────
-  var COUNTRY_CONFIG = {
+  // ── 国ごとの中心座標 & ズームレベル（countries.json から動的取得、フォールバック付き）
+  var COUNTRY_CONFIG_DEFAULT = {
     london:    { lat: 51.5074,  lng: -0.1278,   zoom: 12 },
     taipei:    { lat: 25.0330,  lng: 121.5654,  zoom: 13 },
     paris:     { lat: 48.8566,  lng: 2.3522,    zoom: 12 },
@@ -20,6 +20,24 @@
     hawaii:    { lat: 21.3069,  lng: -157.8583, zoom: 11 },
     seoul:     { lat: 37.5665,  lng: 126.9780,  zoom: 12 },
   };
+
+  var COUNTRY_CONFIG = Object.assign({}, COUNTRY_CONFIG_DEFAULT);
+
+  // countries.json から読み込んでマージ
+  (function loadCountryConfig() {
+    var base = window.WAMILY_BASE || '';
+    fetch(base + 'data/countries.json?_=' + Date.now())
+      .then(function(res) { return res.ok ? res.json() : null; })
+      .then(function(data) {
+        if (!data || !data.countries) return;
+        data.countries.forEach(function(c) {
+          if (c.center && c.center.lat && c.center.lng) {
+            COUNTRY_CONFIG[c.slug] = { lat: c.center.lat, lng: c.center.lng, zoom: c.zoom || 12 };
+          }
+        });
+      })
+      .catch(function() { /* フォールバック値を使用 */ });
+  })();
 
   // ── カテゴリ別マーカー色 ─────────────────────────────────
   var CATEGORY_COLOR = {

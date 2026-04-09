@@ -419,18 +419,68 @@
   // 国カルーセル（他の国を見る）
   // ──────────────────────────────────────────────────────────
 
-  const ALL_COUNTRIES = [
-    { slug: 'london',    flag: '🇬🇧', name: 'イギリス・ロンドン',   status: 'ちゃんと調べた', img: 'photo-1513635269975-59663e0ac1ad' },
-    { slug: 'taipei',    flag: '🇹🇼', name: '台湾・台北',         status: 'ちゃんと調べた', img: 'photo-1470004914212-05527e49370b' },
-    { slug: 'paris',     flag: '🇫🇷', name: 'フランス・パリ',     status: 'まだ旅の途中',   img: 'photo-1502602898657-3e91760cbb34' },
-    { slug: 'stockholm', flag: '🇸🇪', name: 'ストックホルム',     status: 'まだ旅の途中',   img: 'photo-1509356843151-3e7d96241e11' },
-    { slug: 'singapore', flag: '🇸🇬', name: 'シンガポール',       status: 'まだ旅の途中',   img: 'photo-1525625293386-3f8f99389edd' },
-    { slug: 'bangkok',   flag: '🇹🇭', name: 'タイ・バンコク',     status: 'まだ旅の途中',   img: 'photo-1508009603885-50cf7c579365' },
-    { slug: 'manila',    flag: '🇵🇭', name: 'フィリピン・マニラ', status: 'まだ旅の途中',   img: 'photo-1518509562904-e7ef99cdcc86' },
-    { slug: 'la',        flag: '🇺🇸', name: 'アメリカ・LA',       status: 'まだ旅の途中',   img: 'photo-1534190239940-9ba8944ea261' },
-    { slug: 'hawaii',    flag: '🇺🇸', name: 'アメリカ・ハワイ',   status: 'まだ旅の途中',   img: 'photo-1507876466758-bc54f384809c' },
-    { slug: 'seoul',     flag: '🇰🇷', name: '韓国・ソウル',       status: 'まだ旅の途中',   img: 'photo-1534274988757-a28bf1a57c17' },
-  ];
+  // カルーセル用の画像マッピング（Unsplash）
+  const COUNTRY_IMAGES = {
+    london:    'photo-1513635269975-59663e0ac1ad',
+    taipei:    'photo-1470004914212-05527e49370b',
+    paris:     'photo-1502602898657-3e91760cbb34',
+    stockholm: 'photo-1509356843151-3e7d96241e11',
+    singapore: 'photo-1525625293386-3f8f99389edd',
+    bangkok:   'photo-1508009603885-50cf7c579365',
+    manila:    'photo-1518509562904-e7ef99cdcc86',
+    la:        'photo-1534190239940-9ba8944ea261',
+    hawaii:    'photo-1507876466758-bc54f384809c',
+    seoul:     'photo-1534274988757-a28bf1a57c17',
+  };
+
+  // カルーセル用の表示名マッピング
+  const COUNTRY_DISPLAY_NAME = {
+    london:    'イギリス・ロンドン',
+    taipei:    '台湾・台北',
+    paris:     'フランス・パリ',
+    stockholm: 'ストックホルム',
+    singapore: 'シンガポール',
+    bangkok:   'タイ・バンコク',
+    manila:    'フィリピン・マニラ',
+    la:        'アメリカ・LA',
+    hawaii:    'アメリカ・ハワイ',
+    seoul:     '韓国・ソウル',
+  };
+
+  // countries.json から動的読み込み（公開国のみ）
+  let ALL_COUNTRIES = [];
+  let COUNTRIES_DATA = [];
+
+  // デフォルトの国リスト（フォールバック用）
+  const DEFAULT_SLUGS = ['london','taipei','paris','stockholm','singapore','bangkok','manila','la','hawaii','seoul'];
+
+  async function loadCountriesConfig() {
+    try {
+      const res = await fetch(`${BASE}data/countries.json?_=${Date.now()}`);
+      if (res.ok) {
+        const data = await res.json();
+        COUNTRIES_DATA = data.countries;
+        const publicCountries = COUNTRIES_DATA.filter(c => c.status === 'public');
+        ALL_COUNTRIES = publicCountries.map(c => ({
+          slug: c.slug,
+          flag: c.flag,
+          name: COUNTRY_DISPLAY_NAME[c.slug] || c.nameJa,
+          img: COUNTRY_IMAGES[c.slug] || '',
+        }));
+      }
+    } catch (e) {
+      console.warn('countries.json の取得に失敗。デフォルト値を使用:', e);
+    }
+    // フォールバック
+    if (!ALL_COUNTRIES.length) {
+      ALL_COUNTRIES = DEFAULT_SLUGS.map(slug => ({
+        slug,
+        flag: '',
+        name: COUNTRY_DISPLAY_NAME[slug] || slug,
+        img: COUNTRY_IMAGES[slug] || '',
+      }));
+    }
+  }
 
   function loadCountryCarousel() {
     const container = document.getElementById('country-carousel');
@@ -562,7 +612,8 @@
   // 初期化
   // ──────────────────────────────────────────────────────────
 
-  document.addEventListener('DOMContentLoaded', () => {
+  document.addEventListener('DOMContentLoaded', async () => {
+    await loadCountriesConfig();
     loadLiveFeed();
     loadSpots();
     loadEvents();
