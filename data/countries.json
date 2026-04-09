@@ -1,0 +1,164 @@
+{
+  "countries": [
+    {
+      "slug": "london",
+      "nameJa": "ロンドン",
+      "nameEn": "London",
+      "flag": "🇬🇧",
+      "status": "public",
+      "maturity": "充実",
+      "tripDate": null,
+      "spots": 43,
+      "hasHost": true,
+      "center": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "zoom": 12
+    },
+    {
+      "slug": "taipei",
+      "nameJa": "台北",
+      "nameEn": "Taipei",
+      "flag": "🇹🇼",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 14,
+      "hasHost": false,
+      "center": {
+        "lat": 25.033,
+        "lng": 121.5654
+      },
+      "zoom": 13
+    },
+    {
+      "slug": "paris",
+      "nameJa": "パリ",
+      "nameEn": "Paris",
+      "flag": "🇫🇷",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 22,
+      "hasHost": false,
+      "center": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "zoom": 12
+    },
+    {
+      "slug": "stockholm",
+      "nameJa": "ストックホルム",
+      "nameEn": "Stockholm",
+      "flag": "🇸🇪",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 20,
+      "hasHost": false,
+      "center": {
+        "lat": 59.3293,
+        "lng": 18.0686
+      },
+      "zoom": 12
+    },
+    {
+      "slug": "singapore",
+      "nameJa": "シンガポール",
+      "nameEn": "Singapore",
+      "flag": "🇸🇬",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 10,
+      "hasHost": false,
+      "center": {
+        "lat": 1.3521,
+        "lng": 103.8198
+      },
+      "zoom": 12
+    },
+    {
+      "slug": "bangkok",
+      "nameJa": "バンコク",
+      "nameEn": "Bangkok",
+      "flag": "🇹🇭",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 9,
+      "hasHost": false,
+      "center": {
+        "lat": 13.7563,
+        "lng": 100.5018
+      },
+      "zoom": 12
+    },
+    {
+      "slug": "manila",
+      "nameJa": "マニラ",
+      "nameEn": "Manila",
+      "flag": "🇵🇭",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 9,
+      "hasHost": true,
+      "center": {
+        "lat": 14.5995,
+        "lng": 120.9842
+      },
+      "zoom": 13
+    },
+    {
+      "slug": "la",
+      "nameJa": "LA",
+      "nameEn": "Los Angeles",
+      "flag": "🇺🇸",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 9,
+      "hasHost": false,
+      "center": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "zoom": 11
+    },
+    {
+      "slug": "hawaii",
+      "nameJa": "ハワイ",
+      "nameEn": "Hawaii",
+      "flag": "🇺🇸",
+      "status": "public",
+      "maturity": "充実",
+      "tripDate": null,
+      "spots": 15,
+      "hasHost": true,
+      "center": {
+        "lat": 21.3069,
+        "lng": -157.8583
+      },
+      "zoom": 11
+    },
+    {
+      "slug": "seoul",
+      "nameJa": "ソウル",
+      "nameEn": "Seoul",
+      "flag": "🇰🇷",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 9,
+      "hasHost": false,
+      "center": {
+        "lat": 37.5665,
+        "lng": 126.978
+      },
+      "zoom": 12
+    }
+  ]
+}

@@ -649,5 +649,28 @@
   })();
   </script>
 
+  <!-- countries.json による公開/非公開制御 -->
+  <script>
+  (function() {
+    fetch('../data/countries.json?_=' + Date.now())
+      .then(function(r) { return r.ok ? r.json() : null; })
+      .then(function(data) {
+        if (!data || !data.countries) return;
+        var draftSlugs = data.countries
+          .filter(function(c) { return c.status !== 'public'; })
+          .map(function(c) { return c.slug; });
+        if (!draftSlugs.length) return;
+        // 地図ピン非表示
+        draftSlugs.forEach(function(slug) {
+          var pin = document.querySelector('.map-pin[data-country="' + slug + '"]');
+          if (pin) pin.style.display = 'none';
+          var card = document.querySelector('.gb2-ccard[data-country="' + slug + '"]');
+          if (card) card.style.display = 'none';
+        });
+      })
+      .catch(function() { /* フォールバック: 全て表示 */ });
+  })();
+  </script>
+
 </body>
 </html>

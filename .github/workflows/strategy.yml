@@ -1,0 +1,25 @@
+name: Strategy
+on:
+  schedule:
+    - cron: '0 1 1 * *'   # 毎月1日 10:00 JST
+  workflow_dispatch:
+
+jobs:
+  monthly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+      - run: cd scripts && npm ci
+      - name: Monthly strategy report
+        run: node scripts/strategy-report.js
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_STRATEGY_DB_ID: ${{ secrets.NOTION_STRATEGY_DB_ID }}
+          NOTION_WATCHLIST_DB_ID: ${{ secrets.NOTION_WATCHLIST_DB_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_STRATEGY: ${{ secrets.SLACK_WEBHOOK_STRATEGY }}
