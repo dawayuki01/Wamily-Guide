@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival",
-      "description": "アジア最大級のガーデンフェスティバル。色とりどりの花々、ガーデンデザイン展示、子ども向けワークショップなど、家族で楽しめるイベント。",
+      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
+      "description": "植物愛好家向けの大規模なガーデンイベント。花の展示、ワークショップ、園芸用品の販売など。家族向けのガーデンツアーや子ども向けアクティビティも開催されます。",
       "date": "4月中旬〜下旬",
-      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
-      "link": "https://www.gardensfestival.sg",
+      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
+      "link": "https://www.sgbotanicgardens.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park での凧揚げと海浜アクティビティ",
-      "description": "シンガポール最大のビーチパーク。無料で凧揚げ、サイクリング、ピクニックが楽しめます。子どもが安全に遊べる広大な砂浜と芝生エリア。",
-      "date": "4月上旬〜下旬",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "East Coast Park Family Fun Day & Cycling Events",
+      "description": "イースト・コーストパークで開催される家族向けイベント。サイクリング、ピクニック、スポーツアクティビティが無料で楽しめます。屋外での自然を満喫できる期間限定プログラム。",
+      "date": "4月上旬〜下旬（週末中心）",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449855",
+      "link": "https://www.nparks.gov.sg/",
       "free": true
     },
     {
-      "title": "Chingay Parade（チンゲイパレード）の余韻・コミュニティイベント",
-      "description": "4月は春祭り関連のコミュニティイベントやマーケットが各地で開催。文化的体験ができ、子ども向けアクティビティ・屋台食が充実。",
-      "date": "4月上旬〜中旬",
-      "place": "Geylang Serai Market 及び周辺コミュニティセンター",
-      "link": "https://www.visitsingapore.com",
-      "free": true
-    },
-    {
-      "title": "シンガポール動物園の春季特別プログラム",
-      "description": "動物園の季節限定プログラムや特別ガイドツアー。乳幼児向けの触れ合いエリア、トレイン乗車、教育的なワークショップなど。",
+      "title": "Singapore Zoo Spring Programs & Animal Encounters",
+      "description": "シンガポール動物園の春季特別プログラム。子ども向けのアニマル・エンカウンター、教育的なワークショップ、飼育体験などが開催されます。",
       "date": "4月上旬〜下旬",
       "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.com.sg",
+      "link": "https://www.zoo.com.sg/",
       "free": false
     },
     {
-      "title": "シンガポール国立図書館・キッズスペース春季イベント",
-      "description": "公立図書館の無料子ども向けストーリータイム、工作ワークショップ、スプラッシュパッド（水遊びエリア）など季節プログラムが開催。",
-      "date": "4月上旬〜下旬",
-      "place": "National Library Board, Victoria Street & Bras Basah Road, Singapore",
-      "link": "https://www.nlb.gov.sg",
+      "title": "Pulau Ubin Island Adventure & Nature Trails",
+      "description": "離島ウビン島でのアウトドアアクティビティ。自転車レンタル、ネイチャートレイル、マングローブツアーなど。家族向けの簡単なトレイルも多く、自然観察に最適。",
+      "date": "4月通年（4月は乾季で最適）",
+      "place": "Pulau Ubin, Singapore (チャンギ・ビレッジから無料フェリー)",
+      "link": "https://www.nparks.gov.sg/",
+      "free": true
+    },
+    {
+      "title": "Children's Festival at Various Shopping Malls",
+      "description": "シンガポールの大型ショッピングモール（ION Orchard、Suntec City等）で開催される子ども向けフェスティバル。無料のワークショップ、ゲーム、キャラクターミート&グリートなど。",
+      "date": "4月中旬〜下旬",
+      "place": "Various malls (ION Orchard, Suntec City等)",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:24.623Z"
+  "updatedAt": "2026-04-10T06:19:32.625Z"
 }

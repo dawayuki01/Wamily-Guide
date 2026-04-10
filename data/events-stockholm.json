@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館の春の特別展示",
-      "description": "4月はスウェーデン国立博物館で春の企画展が開催。子ども向けのインタラクティブなプログラムや工作ワークショップが多数用意されています。",
-      "date": "4月上旬〜下旬",
-      "place": "Nationalmuseum, Södra Blasieholmen, 103 21 Stockholm",
-      "link": "https://www.nationalmuseum.se/",
-      "free": false
-    },
-    {
-      "title": "ユーグリーデン王立公園の春の散策",
-      "description": "ストックホルム郊外の広大な王立公園。4月は桜が咲き始め、自然の目覚めを感じられます。無料で入園でき、家族向けの遊歩道やピクニックエリアが充実しています。",
-      "date": "4月中旬〜下旬",
-      "place": "Drottningholm Palace Park, Drottningholmsvägen, 178 02 Ekerö",
-      "link": "https://www.royalpalaces.se/",
+      "title": "スウェーデン王妃誕生日パレード（Kungens namnsdag）",
+      "description": "4月6日にスウェーデン国王の名前の日を祝うパレード。王族の豪華な馬車行列がロイヤルパレス周辺を行進。子どもたちも楽しめる華やかなセレモニーです。",
+      "date": "4月6日",
+      "place": "ロイヤルパレス（Kungliga slottet）周辺、ガムラスタン地区",
+      "link": "https://www.stockholmtown.com",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の春まつり",
-      "description": "北欧最大の野外博物館。4月は動物園エリアで春の動物たちの活動が見られ、伝統工芸のデモンストレーションや子ども向けアクティビティが開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "スキャンセン野外博物館の春まつり",
+      "description": "北欧最大規模の野外民俗博物館で、春の開園祭を開催。動物園、伝統家屋、工房体験など。子ども向けアクティビティと昔ながらの雰囲気が特徴です。",
+      "date": "4月中旬〜5月初旬",
+      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ヴァーサ博物館の家族向けプログラム",
-      "description": "17世紀の軍艦ヴァーサを展示する博物館。4月は子ども向けの特別ツアーやスカベンジャーハントなど、季節の家族プログラムが充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "Vasamuseet, Galärvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se/",
+      "title": "ユーランダーソン博物館の春季特別展示",
+      "description": "子ども向け美術館。4月は春のテーマで特別展示やワークショップを開催。創造性を刺激するハンズオン体験で、小学生に人気です。",
+      "date": "4月通期",
+      "place": "Junibacken, Galärvägen 14-16, 115 21 Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     },
     {
-      "title": "ジュールゴーデン島の春の屋外アクティビティ",
-      "description": "ストックホルム中心部の島。4月は新緑が美しく、遊び場、自転車レンタル、カフェが豊富。無料で散策でき、家族向けの安全な環境でアウトドアを楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/",
+      "title": "ジュールゴーデン島の春キューイスト（キューイスト公園での屋外活動）",
+      "description": "ストックホルムの美しい島で散策やピクニック。春の陽気の中、子どもが自由に走り回れる広場や遊具。周辺カフェも充実。",
+      "date": "4月全般（天気による）",
+      "place": "Djurgården Island, Stockholm",
+      "link": "https://www.stockholmtown.com",
       "free": true
+    },
+    {
+      "title": "ストックホルム水族館（Aquaria Vattenmuseum）春季プログラム",
+      "description": "北欧最大級の水族館。4月は春限定の親子向けワークショップや餌やり体験を実施。海の生き物たちの生態を学べます。",
+      "date": "4月通期",
+      "place": "Falkenbergsgatan 2, 115 20 Stockholm",
+      "link": "https://www.aquariavattenmuseum.se",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:16.827Z"
+  "updatedAt": "2026-04-10T06:19:25.300Z"
 }

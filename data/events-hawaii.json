@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デー）",
-      "description": "ハワイの文化を祝う5月1日前後のイベント。レイ製作体験、フラダンス、音楽ライブなど家族で楽しめます。無料のセレモニーも多数開催されます。",
-      "date": "4月下旬～5月1日前後",
-      "place": "オアフ島全域（主要は州庁舎前など）",
-      "link": "https://www.gohawaii.com/ja",
-      "free": true
-    },
-    {
-      "title": "ホノルル動物園の春祭り",
-      "description": "ハワイの野生動物を学べるプログラムや、子ども向けの教育ワークショップ。動物とのふれあい体験やスタンプラリーも開催されます。",
-      "date": "4月中旬～下旬",
-      "place": "ホノルル動物園、ワイキキ",
-      "link": "https://www.honoluluzoo.org",
+      "title": "フラ・フェスティバル（Merrie Monarch Festival）",
+      "description": "ハワイアン文化を代表するフラの祭典。パレードやフラコンペティションが開催され、子どもも楽しめるステージパフォーマンスが多数あります。",
+      "date": "4月上旬〜中旬",
+      "place": "ハワイ島ヒロ（Hilo Civic Auditorium周辺）",
+      "link": "https://www.merriemonarchfestival.org",
       "free": false
     },
     {
-      "title": "KCC Farmers Market（KCC ファーマーズ・マーケット）",
-      "description": "毎週土曜早朝開催。地元野菜、トロピカルフルーツ、ハワイアン料理など。屋外で子連れファミリーが楽しめる食文化体験。",
-      "date": "毎週土曜（4月通し）",
-      "place": "カピオラニ・コミュニティ・カレッジ駐車場、ホノルル",
-      "link": "https://www.honolulufarmers.com",
+      "title": "イースター・サンライズ・サービス（Easter Sunrise Service at Diamond Head）",
+      "description": "ダイヤモンドヘッド麓で開催される無料のイースター礼拝。朝日を見ながら家族で参加でき、その後ハイキングも可能です。",
+      "date": "4月中旬（イースター時期）",
+      "place": "ダイヤモンドヘッド麓・ワイキキ（ホノルル）",
+      "link": "",
       "free": true
     },
     {
-      "title": "Honolulu Zoo's Snooze in the Zoo（動物園でお泊り）",
-      "description": "子どもが動物園で夜間体験できる特別プログラム。夜の動物の様子を観察し、園内でキャンプ。自然学習と冒険を同時に楽しめます。",
-      "date": "4月不定期開催（要確認）",
-      "place": "ホノルル動物園、ワイキキ",
-      "link": "https://www.honoluluzoo.org",
+      "title": "プリンス・ロット・フェスティバル（Ala Moana Beach Park）",
+      "description": "ハワイアン文化を祝うイベント。無料で楽しめるフラ・音楽・伝統工芸などのプログラム。子ども向けワークショップも充実しています。",
+      "date": "4月下旬",
+      "place": "アラモアナビーチパーク（ホノルル）",
+      "link": "https://www.honolulu.gov/parks-recreation.html",
+      "free": true
+    },
+    {
+      "title": "ダイアモンドヘッド・トレイル・ハイキング",
+      "description": "初心者向けの人気ハイキングコース。約40分で頂上に到達でき、ワイキキ全景が楽しめます。小学生なら十分チャレンジ可能です。",
+      "date": "4月通年（天候良好な日）",
+      "place": "ダイヤモンドヘッド州立記念碑（ホノルル）",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
       "free": false
     },
     {
-      "title": "ハイキング：ダイヤモンドヘッド",
-      "description": "ワイキキから近い初級向けハイキング。約1時間の往復で絶景を楽しめます。春の心地よい気候で、家族でチャレンジしやすい屋外アクティビティです。",
-      "date": "4月通し（早朝がおすすめ）",
-      "place": "ダイヤモンドヘッド・ステート・モニュメント、ワイキキ",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument",
+      "title": "ハノウマ湾・シュノーケリング体験",
+      "description": "初心者向けシュノーケリングスポット。カラフルな熱帯魚が見られ、遠浅で子どもも安全に楽しめます。4月は気候が温暖で最適です。",
+      "date": "4月通年",
+      "place": "ハノウマ湾自然保護区（ホノルル東部）",
+      "link": "https://www.honolulu.gov/parks-recreation/beaches/hanauma-bay.html",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:56.954Z"
+  "updatedAt": "2026-04-10T06:20:03.831Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップと春の花々 - ジベルニーのモネの庭",
-      "description": "モネの邸宅と庭園で春咲く色とりどりのチューリップと睡蓮の庭が楽しめます。子どもたちが自然と芸術を体験できる屋外スポットです。",
-      "date": "4月上旬〜5月下旬",
-      "place": "Giverny, Monet's Gardens（ジベルニー モネの庭）- パリから車で約45分",
-      "link": "https://fondationmonet.fr/",
-      "free": false
-    },
-    {
-      "title": "イースターマーケット - シャンゼリゼ通り周辺",
-      "description": "4月のイースター時期に開催される伝統的なマーケット。イースターエッグ探しや春の装飾品、子ども向けアクティビティが多数あります。",
-      "date": "4月上旬〜中旬",
-      "place": "Champs-Élysées & surroundings（シャンゼリゼ通り周辺）",
-      "link": "https://www.paris-tourisme.com/",
+      "title": "パリ春の花祭り（チューリップとキンポウゲの開花）",
+      "description": "ルクセンブルク公園やシャンゼリゼ通りで、春の花々が満開になる時期。子どもたちが自然の美しさを学べる屋外散策に最適です。",
+      "date": "4月上旬〜下旬",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、シャンゼリゼ通り周辺",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "パリ科学博物館 - 春の特別展示と子ども向けワークショップ",
-      "description": "Cité des Sciencesでは4月に子ども向けの特別展示やインタラクティブなワークショップが開催されます。家族向けの科学体験プログラムが充実しています。",
-      "date": "4月通年",
-      "place": "Cité des Sciences et de l'Industrie - 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/",
+      "title": "科学産業博物館の春休みキッズプログラム",
+      "description": "シテ科学館（Cité des Sciences）では、子ども向けの実験教室やインタラクティブ展示が充実。4月は春休みシーズンの特別プログラムが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "シテ科学館（Cité des Sciences et de l'Industrie）、パリ19区",
+      "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園での春の散策と遊び場",
-      "description": "パリ最大級の公園で、4月は新緑と春の花が美しい季節。子ども向け遊び場、人形劇、ポニー乗車体験などが無料で楽しめます。",
-      "date": "4月通年",
-      "place": "Jardin du Luxembourg - Rue de Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite/index.html",
+      "title": "セーヌ河畔の春マーケット（Marché de Bastille）",
+      "description": "バスティーユ広場周辺で開催される朝市。新鮮な春野菜、フルーツ、チーズなどが並び、パリの日常文化を体験できます。家族連れに人気です。",
+      "date": "木曜日と日曜日（4月を通じて）",
+      "place": "バスティーユ広場周辺（Place de la Bastille）",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "パリ動物園（パルク・ド・ラ・テット・ドール）",
-      "description": "春に動物たちが活発になり、子どもたちが多くの種を観察できる最適な時期。新生児動物の展示も期待できます。アクティブな家族向けの屋外アクティビティです。",
-      "date": "4月通年",
-      "place": "Parc de la Tête d'Or - Avenue de la République, 75012 Paris (Vincennes)",
-      "link": "https://www.mnhn.fr/fr/zoo-parc-de-vincennes",
+      "title": "国立自然史博物館の春企画展",
+      "description": "植物園と博物館が併設。4月は新緑シーズンで庭園散策が最適。子ども向けの生物学習プログラムも実施されます。",
+      "date": "4月上旬〜下旬",
+      "place": "国立自然史博物館（Muséum National d'Histoire Naturelle）、パリ5区",
+      "link": "https://www.mnhn.fr",
       "free": false
+    },
+    {
+      "title": "モンマルトル地区の春散策とメリーゴーラウンド",
+      "description": "テルトル広場や坂道では桜が咲き、レトロなメリーゴーラウンドで遊べます。アーティストが並ぶ広場は子どもも楽しめる雰囲気です。",
+      "date": "4月中旬〜下旬",
+      "place": "テルトル広場周辺（Place du Tertre）、モンマルトル地区",
+      "link": "https://www.paris.fr",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:09.523Z"
+  "updatedAt": "2026-04-10T06:19:16.857Z"
 }

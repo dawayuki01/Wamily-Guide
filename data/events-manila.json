@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アースデイ・フェスティバル",
-      "description": "4月22日前後に開催される環境啓発イベント。子どもたちが参加できるエコ工作、動物との触れ合い、自然教室など、家族向けプログラムが充実しています。屋外での無料アクティビティが多数あります。",
-      "date": "4月20日〜26日頃",
-      "place": "フィリピン国立博物館周辺・リサール公園（Rizal Park, Manila）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "スター・シティ春のフェスティバル",
-      "description": "フィリピン最大級の遊園地スター・シティが開催する季節イベント。子ども向けアトラクション割引やキャラクターショー、ステージイベントが企画されます。乳幼児から小学生まで楽しめます。",
+      "title": "フィリピン・オーキッド・ソサエティ・ショー",
+      "description": "フィリピンを代表する蘭の展示会。色鮮やかな蘭の花が咲き誇り、子どもも楽しめる自然の美しさ。毎年4月開催。",
       "date": "4月上旬〜中旬",
-      "place": "スター・シティ（Star City, EDSA Corner Quirino Ave, Manila）",
-      "link": "https://www.star-city.com.ph/",
+      "place": "フィリピン・オーキッド・ソサエティ（Quezon City近郊）",
+      "link": "https://www.philippineorchidsociety.org/",
       "free": false
     },
     {
-      "title": "アヤラ・モール春のキッズ・フェスティバル",
-      "description": "大型ショッピングモール内で開催される子ども向けイベント。工作ワークショップ、キャラクターミート、エンターテイメントステージなど、屋内で家族が楽しめる無料プログラムが多数あります。",
+      "title": "アヤラ・モール・マニラ ベイ キッズイベント",
+      "description": "大型ショッピングモールで開催される春の子ども向けフェスティバル。ワークショップ、ゲーム、キャラクターグリーティング。",
       "date": "4月中旬〜下旬",
-      "place": "アヤラ・モール・マニラ・ベイ（Ayala Mall Manila Bay, Entertainment City, Manila）",
-      "link": "https://www.ayalah.com.ph/",
+      "place": "Ayala Malls Manila Bay, Parañaque",
+      "link": "https://www.ayalamamillabay.com/",
       "free": true
     },
     {
-      "title": "フィリピン・チルドレンズ・ミュージアムの春企画展",
-      "description": "子ども専門の博物館で、4月に季節に合わせた特別展示とワークショップを開催。対話的な展示で乳幼児から小学生が楽しく学べます。屋内施設で年中快適に過ごせます。",
+      "title": "スマートアクアリウム 春の特別企画",
+      "description": "フィリピン最大の水族館で季節展示。海の生き物との触れ合いワークショップ、餌やり体験など子ども向けプログラム充実。",
       "date": "4月通期",
-      "place": "フィリピン・チルドレンズ・ミュージアム（Philippine Children's Museum, Fort Bonifacio, Taguig）",
-      "link": "https://www.childrensmuseum.org.ph/",
+      "place": "Smart Aquarium, SM Mall of Asia, Pasay City",
+      "link": "https://www.smartaquariumph.com/",
       "free": false
     },
     {
-      "title": "ラグーナ・リサーチ・パークでの野外アクティビティ",
-      "description": "マニラ近郊のリゾート地での家族向けアクティビティ。プール遊び、ナチュラルスプリング探索、ピクニック、簡易トレッキングなど、4月の天候を活かした屋外体験が充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "ラグーナ・リサーチ・パーク（Laguna, 車でマニラから約1時間）",
+      "title": "ロハス・ボタニカル・ガーデン散策",
+      "description": "マニラ近郊の広大な植物園。4月は緑豊かで屋外散歩に最適。子ども向けガイドツアーやピクニック向きの自然環境。",
+      "date": "4月通期",
+      "place": "Roces Botanical Garden, Taytay, Rizal",
       "link": "",
+      "free": true
+    },
+    {
+      "title": "キッザニア・マニラ スプリングキャンプ",
+      "description": "職業体験型施設で春限定プログラム。職業体験、親子向けワークショップ、キャリア学習体験が充実。3歳〜15歳向け。",
+      "date": "4月中旬〜下旬",
+      "place": "KidZania Manila, Bonifacio Global City, Taguig",
+      "link": "https://www.kidzania.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:42.362Z"
+  "updatedAt": "2026-04-10T06:19:48.142Z"
 }

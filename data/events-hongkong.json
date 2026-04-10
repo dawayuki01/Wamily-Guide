@@ -1,47 +1,47 @@
 {
-  "source": "Claude AI 生成",
-  "sourceUrl": null,
-  "updatedAt": "2026-04-09T00:00:00.000Z",
   "items": [
     {
-      "title": "長洲島 饅頭祭り（太平清醮）",
-      "description": "毎年旧暦4月に開催される長洲島の伝統祭り。高さ14mの饅頭タワー、パレード、獅子舞が見どころ。フェリーで約40分。子どもが大興奮する香港最大の伝統行事。2026年は5月中旬頃。",
-      "date": "5月中旬",
-      "place": "長洲島（中環フェリーターミナルからフェリー約40分）",
-      "link": "https://www.discoverhongkong.com/",
-      "free": true
-    },
-    {
-      "title": "ビクトリアハーバー シンフォニー・オブ・ライツ",
-      "description": "毎晩20時から約10分間、ビクトリアハーバー両岸のビルがレーザーと光で演出されるショー。尖沙咀プロムナードから無料で鑑賞可能。子どもの寝る前の特別な時間に。",
-      "date": "毎日 20:00",
-      "place": "尖沙咀プロムナード（Avenue of Stars周辺）",
-      "link": "https://www.discoverhongkong.com/",
-      "free": true
-    },
-    {
-      "title": "香港ディズニーランド 春のスペシャルイベント",
-      "description": "4〜5月は春の特別プログラム。キャラクターグリーティング強化、限定フード、ナイトパレードが楽しめる。平日は比較的空いていて子連れにおすすめ。",
-      "date": "4月〜5月",
-      "place": "香港ディズニーランド（ランタオ島）",
-      "link": "https://www.hongkongdisneyland.com/",
+      "title": "香港花卉展覧会（Hong Kong Flower Show）",
+      "description": "春の花々が咲き誇る大規模な花展。子どもたちが色とりどりの花園を探索でき、植物について学べます。家族向けワークショップも開催されます。",
+      "date": "4月上旬〜中旬",
+      "place": "ビクトリア・パーク（Victoria Park）、銅鑼湾",
+      "link": "https://www.lcsd.gov.hk/en/hkflowershow/",
       "free": false
     },
     {
-      "title": "オーシャンパーク 春の動物プログラム",
-      "description": "パンダの赤ちゃん公開やイルカとのインタラクションプログラム。春は気温が穏やかで屋外アトラクションも快適。ケーブルカーから海の絶景も楽しめる。",
-      "date": "4月〜5月",
-      "place": "オーシャンパーク（香港島南区）",
-      "link": "https://www.oceanpark.com.hk/",
+      "title": "スターフェリー乗車体験＆スターフェリー乗船ツアー",
+      "description": "香港の象徴的な赤いスターフェリーで、ビクトリア湾のクルーズを楽しめます。乳幼児から小学生まで船からの眺めが印象的。運河沿いの風景が最高です。",
+      "date": "4月通年（春の天気が最良）",
+      "place": "セントラル・フェリー・ピア（Central Ferry Pier）、セントラル",
+      "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "香港花卉展覧（Hong Kong Flower Show）",
-      "description": "ビクトリアパークで開催される香港最大のフラワーフェスティバル。色とりどりの花の展示、ガーデニング体験、子ども向けワークショップもあり。入場無料。",
-      "date": "3月中旬〜下旬",
-      "place": "ビクトリアパーク（銅鑼湾）",
-      "link": "https://www.hkflowershow.hk/",
+      "title": "香港動物園（Hong Kong Zoo and Botanic Gardens）散策",
+      "description": "春のシーズンに動物たちがより活発に動く時期。広大な庭園で自然に触れ、動物観察ができます。無料で入園でき、子どもが走り回れる広場も完備。",
+      "date": "4月通年",
+      "place": "香港動物園・植物園、セントラル・ピーク・ロード",
+      "link": "https://www.lcsd.gov.hk/en/hkzbg/",
       "free": true
+    },
+    {
+      "title": "西貢（Sai Kung）での船上アクティビティと海水浴",
+      "description": "香港の東部で春の陽気を満喫。ジャンク船でのクルーズやシュノーケリング、美しいビーチでの家族時間が楽しめます。地元の雰囲気も味わえます。",
+      "date": "4月中旬〜下旬",
+      "place": "西貢、新界東",
+      "link": "https://www.discoverhongkong.com/en/explore/nature-outdoors/sai-kung.html",
+      "free": false
+    },
+    {
+      "title": "キッズアート・ワークショップ（各博物館開催）",
+      "description": "香港の主要博物館で春季に開催される子ども向け特別プログラム。工作・絵画・文化体験など、年齢別クラスで創造性を育みます。",
+      "date": "4月不定期開催",
+      "place": "香港博物館、アートセンター等各所",
+      "link": "https://www.lcsd.gov.hk/en/museums/",
+      "free": false
     }
-  ]
+  ],
+  "source": "Claude AI 生成",
+  "sourceUrl": "",
+  "updatedAt": "2026-04-10T06:20:19.783Z"
 }
