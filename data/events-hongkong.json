@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "香港花卉展覧会（Hong Kong Flower Show）",
-      "description": "春の花々が咲き誇る大規模な花展。子どもたちが色とりどりの花園を探索でき、植物について学べます。家族向けワークショップも開催されます。",
-      "date": "4月上旬〜中旬",
-      "place": "ビクトリア・パーク（Victoria Park）、銅鑼湾",
-      "link": "https://www.lcsd.gov.hk/en/hkflowershow/",
+      "description": "春の香港を彩る大規模な花卉展示。色とりどりの花々、フラワーアレンジメントコンテスト、子ども向けの園芸体験ワークショップなど、家族で楽しめるイベント。",
+      "date": "4月中旬〜下旬（例年）",
+      "place": "ビクトリアパーク（Victoria Park）、香港島銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/en/hk_flower_show.html",
       "free": false
     },
     {
-      "title": "スターフェリー乗車体験＆スターフェリー乗船ツアー",
-      "description": "香港の象徴的な赤いスターフェリーで、ビクトリア湾のクルーズを楽しめます。乳幼児から小学生まで船からの眺めが印象的。運河沿いの風景が最高です。",
-      "date": "4月通年（春の天気が最良）",
-      "place": "セントラル・フェリー・ピア（Central Ferry Pier）、セントラル",
+      "title": "スターフェリー乗船体験＆スターフェリー文化遺産ツアー",
+      "description": "香港の象徴的なスターフェリーで、ビクトリアハーバーの景色を楽しむ屋外アクティビティ。乳幼児から小学生まで楽しめ、香港の海の文化を体験できます。",
+      "date": "通年（4月は晴天が多く快適）",
+      "place": "スターフェリー乗り場（セントラル/ワンチャイ桟橋）、ホンコン島〜九龍",
       "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "香港動物園（Hong Kong Zoo and Botanic Gardens）散策",
-      "description": "春のシーズンに動物たちがより活発に動く時期。広大な庭園で自然に触れ、動物観察ができます。無料で入園でき、子どもが走り回れる広場も完備。",
-      "date": "4月通年",
-      "place": "香港動物園・植物園、セントラル・ピーク・ロード",
-      "link": "https://www.lcsd.gov.hk/en/hkzbg/",
+      "title": "香港公園での野外散策＆水遊び",
+      "description": "緑豊かな香港公園は家族向けの無料スポット。池での生き物観察、子ども用プレイエリア、春の花々を楽しめます。ピクニックや散歩に最適です。",
+      "date": "4月上旬〜下旬（通年可）",
+      "place": "香港公園（Hong Kong Park）、セントラル",
+      "link": "https://www.lcsd.gov.hk/en/parks_gardens/hk_parks/hong_kong_park.html",
       "free": true
     },
     {
-      "title": "西貢（Sai Kung）での船上アクティビティと海水浴",
-      "description": "香港の東部で春の陽気を満喫。ジャンク船でのクルーズやシュノーケリング、美しいビーチでの家族時間が楽しめます。地元の雰囲気も味わえます。",
-      "date": "4月中旬〜下旬",
-      "place": "西貢、新界東",
-      "link": "https://www.discoverhongkong.com/en/explore/nature-outdoors/sai-kung.html",
+      "title": "香港サイエンスミュージアム特別展示・子どもワークショップ",
+      "description": "春の特別展示と子ども向けのハンズオン・ワークショップ。インタラクティブな展示で、乳幼児から小学生まで科学の楽しさを学べます。",
+      "date": "4月通期（特別展示時期は事前確認推奨）",
+      "place": "香港サイエンスミュージアム、チムシャーツイ",
+      "link": "https://www.lcsd.gov.hk/en/hk_science_museum.html",
       "free": false
     },
     {
-      "title": "キッズアート・ワークショップ（各博物館開催）",
-      "description": "香港の主要博物館で春季に開催される子ども向け特別プログラム。工作・絵画・文化体験など、年齢別クラスで創造性を育みます。",
-      "date": "4月不定期開催",
-      "place": "香港博物館、アートセンター等各所",
-      "link": "https://www.lcsd.gov.hk/en/museums/",
-      "free": false
+      "title": "スターフェリー前のウォーターフロント公園・無料エリア散策",
+      "description": "セントラルウォーターフロント沿いの無料公共エリア。海風を感じながら、船や海の景色を眺めたり、子どもが走り回れるスペースがあります。",
+      "date": "4月通期（晴天の日が最適）",
+      "place": "セントラルウォーターフロント公園エリア、セントラル",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-10T06:20:19.783Z"
+  "updatedAt": "2026-04-11T05:20:25.067Z"
 }

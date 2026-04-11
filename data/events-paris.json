@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ春の花祭り（チューリップとキンポウゲの開花）",
-      "description": "ルクセンブルク公園やシャンゼリゼ通りで、春の花々が満開になる時期。子どもたちが自然の美しさを学べる屋外散策に最適です。",
-      "date": "4月上旬〜下旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）、シャンゼリゼ通り周辺",
+      "title": "パリの春の花々（桜・チューリップ）",
+      "description": "ルクセンブルク公園やセーヌ川沿いで、春の花が満開。子どもたちが自然の中で遊べます。無料で楽しめる屋外アクティビティです。",
+      "date": "4月上旬〜中旬",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、セーヌ川沿い",
       "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "科学産業博物館の春休みキッズプログラム",
-      "description": "シテ科学館（Cité des Sciences）では、子ども向けの実験教室やインタラクティブ展示が充実。4月は春休みシーズンの特別プログラムが開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "シテ科学館（Cité des Sciences et de l'Industrie）、パリ19区",
-      "link": "https://www.cite-sciences.fr",
-      "free": false
-    },
-    {
-      "title": "セーヌ河畔の春マーケット（Marché de Bastille）",
-      "description": "バスティーユ広場周辺で開催される朝市。新鮮な春野菜、フルーツ、チーズなどが並び、パリの日常文化を体験できます。家族連れに人気です。",
-      "date": "木曜日と日曜日（4月を通じて）",
-      "place": "バスティーユ広場周辺（Place de la Bastille）",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "国立自然史博物館の春企画展",
-      "description": "植物園と博物館が併設。4月は新緑シーズンで庭園散策が最適。子ども向けの生物学習プログラムも実施されます。",
-      "date": "4月上旬〜下旬",
-      "place": "国立自然史博物館（Muséum National d'Histoire Naturelle）、パリ5区",
-      "link": "https://www.mnhn.fr",
-      "free": false
-    },
-    {
-      "title": "モンマルトル地区の春散策とメリーゴーラウンド",
-      "description": "テルトル広場や坂道では桜が咲き、レトロなメリーゴーラウンドで遊べます。アーティストが並ぶ広場は子どもも楽しめる雰囲気です。",
+      "title": "パリ動物園（Ménagerie du Jardin des Plantes）春のプログラム",
+      "description": "春季限定で動物との触れ合いイベントが開催。乳幼児から小学生まで楽しめる子ども向けアクティビティです。",
       "date": "4月中旬〜下旬",
-      "place": "テルトル広場周辺（Place du Tertre）、モンマルトル地区",
+      "place": "ジャルダン・デ・プラント内（Jardin des Plantes, 75005 Paris）",
+      "link": "https://www.mnhn.fr/fr/menagerie-du-jardin-des-plantes",
+      "free": false
+    },
+    {
+      "title": "キャラバン・サロン・デ・プランテス（春の園芸市場）",
+      "description": "4月にパリで開催される春の園芸フェア。子ども向けワークショップや屋外での植物販売も充実。家族で楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "パリ各地（会場は毎年異なる）",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "モンマルトル・アートマーケット（春フェア）",
+      "description": "春シーズンのモンマルトルではアートマーケットが開催。ストリートパフォーマンスや子ども向けアート体験ができます。無料での散策可能。",
+      "date": "4月全般の週末",
+      "place": "モンマルトル地区（Montmartre, 75018 Paris）",
       "link": "https://www.paris.fr",
+      "free": true
+    },
+    {
+      "title": "キュリ・マルシェ（Quai de la Gare春市場）",
+      "description": "4月の春マーケットで、オーガニック食材やクラフトが並びます。子ども向けワークショップや遊び場も設置。家族向けイベントです。",
+      "date": "4月の週末",
+      "place": "キュリ・マルシェ（Quai de la Gare, 75013 Paris）",
+      "link": "https://www.curiemarche.com",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-10T06:19:16.857Z"
+  "updatedAt": "2026-04-11T05:19:21.303Z"
 }

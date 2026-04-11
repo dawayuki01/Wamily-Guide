@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン王妃誕生日パレード（Kungens namnsdag）",
-      "description": "4月6日にスウェーデン国王の名前の日を祝うパレード。王族の豪華な馬車行列がロイヤルパレス周辺を行進。子どもたちも楽しめる華やかなセレモニーです。",
-      "date": "4月6日",
-      "place": "ロイヤルパレス（Kungliga slottet）周辺、ガムラスタン地区",
-      "link": "https://www.stockholmtown.com",
+      "title": "スウェーデン国立博物館のイースターイベント",
+      "description": "イースター時期の子ども向けワークショップ。工作や伝統的なイースターの装飾作り、卵探しゲームなどが楽しめます。家族で北欧の春の文化を体験できます。",
+      "date": "4月上旬〜中旬",
+      "place": "スウェーデン国立博物館（Nationalmuseum）、Södra Blasieholmshamnen 2, 111 48 Stockholm",
+      "link": "https://www.nationalmuseum.se/",
+      "free": false
+    },
+    {
+      "title": "スキャンセン野外博物館の春祭りと子動物との触れ合い",
+      "description": "春生まれの動物の赤ちゃんが登場。北欧の伝統的な農場体験、動物への給餌、乗馬などが楽しめます。屋外で春の自然を満喫できる家族向けスポット。",
+      "date": "4月全般",
+      "place": "スキャンセン（Skansen）、Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
+      "free": false
+    },
+    {
+      "title": "ストックホルム群島でのカヤック・ボートツアー",
+      "description": "春の穏やかな海でカヤックやガイド付きボートツアー。子ども向けコースもあり、自然の中で水上活動が楽しめます。美しい群島の風景と北欧の春を体験。",
+      "date": "4月中旬〜下旬",
+      "place": "ストックホルム群島（Stockholm Archipelago）、各ツアー出発地",
+      "link": "https://www.stockholmtourist.com/",
+      "free": false
+    },
+    {
+      "title": "ヨーロッパ広場（Mynttorget）での春の市場・フリマ",
+      "description": "ストックホルムの季節イベント市場。手工芸品や地元産品が並び、キッズゾーンもあります。地元の雰囲気を感じながら無料で散策・買い物が楽しめます。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "ヨーロッパ広場（Mynttorget）、Gamla Stan, Stockholm",
+      "link": "",
       "free": true
     },
     {
-      "title": "スキャンセン野外博物館の春まつり",
-      "description": "北欧最大規模の野外民俗博物館で、春の開園祭を開催。動物園、伝統家屋、工房体験など。子ども向けアクティビティと昔ながらの雰囲気が特徴です。",
-      "date": "4月中旬〜5月初旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
-      "free": false
-    },
-    {
-      "title": "ユーランダーソン博物館の春季特別展示",
-      "description": "子ども向け美術館。4月は春のテーマで特別展示やワークショップを開催。創造性を刺激するハンズオン体験で、小学生に人気です。",
-      "date": "4月通期",
-      "place": "Junibacken, Galärvägen 14-16, 115 21 Stockholm",
-      "link": "https://www.junibacken.se",
-      "free": false
-    },
-    {
-      "title": "ジュールゴーデン島の春キューイスト（キューイスト公園での屋外活動）",
-      "description": "ストックホルムの美しい島で散策やピクニック。春の陽気の中、子どもが自由に走り回れる広場や遊具。周辺カフェも充実。",
-      "date": "4月全般（天気による）",
-      "place": "Djurgården Island, Stockholm",
-      "link": "https://www.stockholmtown.com",
+      "title": "ユーランデン公園での春の散策と野外プレイグラウンド",
+      "description": "4月は新緑が美しいシーズン。大型のプレイグラウンドや遊歩道があり、乳幼児から小学生まで楽しめます。ストックホルムの自然公園を無料で満喫できます。",
+      "date": "4月全般",
+      "place": "ユーランデン公園（Djurgården）、Stockholm",
+      "link": "https://djurgarden.stockholm.se/",
       "free": true
-    },
-    {
-      "title": "ストックホルム水族館（Aquaria Vattenmuseum）春季プログラム",
-      "description": "北欧最大級の水族館。4月は春限定の親子向けワークショップや餌やり体験を実施。海の生き物たちの生態を学べます。",
-      "date": "4月通期",
-      "place": "Falkenbergsgatan 2, 115 20 Stockholm",
-      "link": "https://www.aquariavattenmuseum.se",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-10T06:19:25.300Z"
+  "updatedAt": "2026-04-11T05:19:29.037Z"
 }

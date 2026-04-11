@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ソンクラーン（タイ正月）",
-      "description": "水かけ祭りで有名なタイの新年。家族で水遊びを楽しめ、子どもたちも大喜び。街中が明るい雰囲気に包まれ、タイ文化を体験できます。",
+      "description": "4月13〜15日の水かけ祭り。子どもたちが水を掛け合い、伝統的な儀式を体験できます。バンコク市内各所で開催され、家族連れで楽しめるタイ最大のお祭りです。",
       "date": "4月13日〜15日",
-      "place": "バンコク全域（特にカオサン通り、ルンピニ公園など）",
-      "link": "https://www.tatnews.org/",
+      "place": "バンコク市内全域（シーロム通り、ラーチャダムヌン通りなど）",
+      "link": "https://www.tatnews.org",
       "free": true
+    },
+    {
+      "title": "シアム・パラゴン・キッズ・フェスティバル",
+      "description": "大型ショッピングモール内で開催される子ども向けイベント。ワークショップ、キャラクター撮影会、ゲーム、子どもの才能展示など、乳幼児から小学生まで楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "シアム・パラゴン（1 Siam Square, Pathum Wan District, Bangkok）",
+      "link": "https://www.siamparagon.co.th",
+      "free": false
+    },
+    {
+      "title": "ルンピニ公園での屋外活動と散策",
+      "description": "バンコク最大の公園。4月は朝夕が快適で、池でのボート遊び、スポーツ施設利用、野鳥観察、散策が楽しめます。子ども向けの遊具も充実しており、ファミリーに最適です。",
+      "date": "4月通期（早朝がおすすめ）",
+      "place": "ルンピニ公園（Rama IV Road, Pathum Wan District, Bangkok）",
+      "link": "https://bangkok.go.th",
+      "free": true
+    },
+    {
+      "title": "キッズ・プラザ・バンコク特別プログラム",
+      "description": "子ども向けの屋内遊技施設。4月は夏休み前の特別プログラムやワークショップが開催されます。STEM教育、アート、運動遊びなど、年齢別プログラムが豊富です。",
+      "date": "4月通期",
+      "place": "キッズ・プラザ・バンコク（スクンビット通り周辺）",
+      "link": "",
+      "free": false
     },
     {
       "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "東南アジア最大の露天市場。子ども向けおもちゃ、衣類、食べ物など多種多様。4月は乾季で過ごしやすく、ファミリーで散策を楽しめます。",
-      "date": "4月上旬〜下旬の週末",
-      "place": "チャトゥチャック公園、バンコク北部",
-      "link": "https://www.chatuchakmarket.org/",
-      "free": true
-    },
-    {
-      "title": "サファリワールド＆マリンパーク",
-      "description": "動物園とイルカショーが楽しめるテーマパーク。子どもたちが様々な動物に出会え、屋外で自然を感じながら丸一日遊べます。",
-      "date": "4月上旬〜下旬（営業中）",
-      "place": "100 Soi Ram Intra 164, Bangkok",
-      "link": "https://www.safariworld.com/",
-      "free": false
-    },
-    {
-      "title": "キッザニア・バンコク（特別プログラム）",
-      "description": "子ども向けの職業体験施設。4月の季節プログラムでは、タイ文化を学ぶ体験が充実。小学生が主体的に学べる環境です。",
-      "date": "4月上旬〜下旬（営業中）",
-      "place": "エムポリアム・バンコク内、Sukhumvit Road",
-      "link": "https://www.kidzania.com/en/bangkok",
-      "free": false
-    },
-    {
-      "title": "ルンピニ公園でのピクニック・朝の散歩",
-      "description": "バンコク最大の都市公園。朝は地元家族で賑わい、乳幼児も歩きやすい遊歩道があります。4月は朝早めの訪問がおすすめ。",
-      "date": "4月上旬〜下旬（毎日）",
-      "place": "Rama IV Road, Pathum Wan, Bangkok",
-      "link": "https://www.bangkok.go.th/",
+      "description": "東南アジア最大のマーケット。子ども向けおもちゃ、服飾、スナックが充実。4月の朝間は比較的涼しく、家族連れが楽しく買い物・散策できます。",
+      "date": "4月の土日",
+      "place": "チャトゥチャック・ウィークエンド・マーケット（Kamphaeng Phet Rd, Bangkok）",
+      "link": "https://www.chatuchakmarket.org",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-10T06:19:40.983Z"
+  "updatedAt": "2026-04-11T05:19:45.058Z"
 }

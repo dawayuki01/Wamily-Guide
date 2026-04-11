@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・フェスティバル",
-      "description": "春の花々が咲き乱れる季節に、ロサンゼルス市内の複数の施設で開催される花のイベント。子ども向けのガーデンクラフトワークショップや園芸教室も実施されます。",
-      "date": "4月上旬〜中旬",
-      "place": "ロサンゼルス各地（パモナ展示場など）",
-      "link": "https://www.discoverlosangeles.com",
-      "free": false
-    },
-    {
-      "title": "グリフィス天文台での春の特別プログラム",
-      "description": "天文台の春季プログラムでは、昼間の太陽観測や夜間の星空観察が可能。子ども向けプラネタリウムショーと展示が充実しており、科学教育に最適です。",
-      "date": "4月通年",
-      "place": "グリフィス天文台、ロサンゼルス、カリフォルニア州",
-      "link": "https://www.griffithobservatory.org",
+      "title": "Los Angeles Times Festival of Books",
+      "description": "毎年4月中旬にUSCキャンパスで開催される北米最大級の本の祭典。子ども向けの読み聞かせ、ワークショップ、キャラクターグリートなど家族で楽しめるプログラムが充実。",
+      "date": "4月中旬",
+      "place": "University of Southern California (USC), Los Angeles, CA 90089",
+      "link": "https://www.latimesfestivalofbooks.com/",
       "free": true
     },
     {
-      "title": "サンタモニカ・ピアのスプリング・フェスティバル",
-      "description": "ビーチ沿いで開催されるファミリー向けイベント。乗馬、海辺でのゲーム、地元アーティストのパフォーマンスなど、子ども向けアクティビティが豊富です。",
-      "date": "4月中旬〜下旬",
-      "place": "サンタモニカ・ピア、カリフォルニア州",
-      "link": "https://www.santamonicapier.org",
-      "free": true
-    },
-    {
-      "title": "LA動物園のスプリング・キャンプ",
-      "description": "4月に開催される子ども向けの屋外教育プログラム。動物の生態を学びながら、園内でのアドベンチャーアクティビティや野生動物クイズに参加できます。",
-      "date": "4月通年（事前予約）",
-      "place": "ロサンゼルス動物園、グリフィス公園内",
-      "link": "https://www.lazoo.org",
+      "title": "Huntington Library春の庭園ツアーと子ども向けプログラム",
+      "description": "春の花が見頃の広大な庭園でのツアー。子ども向けの宝探しやスケッチワークショップなど季節限定プログラムが開催される。屋外で自然を学べます。",
+      "date": "4月上旬〜下旬",
+      "place": "1151 Oxford Road, San Marino, CA 91108",
+      "link": "https://www.huntingtonlibrary.org/",
       "free": false
     },
     {
-      "title": "パサデナ・フラワー・マーケット・ストリート・フェスティバル",
-      "description": "春の花をテーマにした屋外ストリートフェスティバル。地元のマーケット、キッズアート教室、フェイスペイント、ライブエンターテインメントが楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "パサデナ・フラワー・マーケット周辺、パサデナ",
-      "link": "https://www.pasadenacalifornia.com",
+      "title": "Los Angeles County Arboretum & Botanic Garden「春の花祭り」",
+      "description": "4月はチューリップ、桜、ワイルドフラワーが見頃。子ども向けナチュアスケープエリアでの自然体験と、季節の花を楽しむ屋外アクティビティが充実。",
+      "date": "4月全般",
+      "place": "301 North Baldwin Avenue, Arcadia, CA 91007",
+      "link": "https://www.arboretum.org/",
+      "free": false
+    },
+    {
+      "title": "Griffith Observatory春の特別プログラム＆無料入場",
+      "description": "天文館は常に無料入場。4月の夜空観察会や子ども向けプラネタリウムなど春季特別プログラムを開催。公園内でのハイキングも人気。",
+      "date": "4月全般（特に夜間）",
+      "place": "2800 East Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
+      "free": true
+    },
+    {
+      "title": "California Science Center「春の特別展示と屋外学習」",
+      "description": "無料の科学館で4月の春季特別展示が開催。子ども向けのハンズオン体験と屋外のスペースシャトル・エンデバーの見学が楽しめます。",
+      "date": "4月全般",
+      "place": "700 Exposition Park Drive, Los Angeles, CA 90037",
+      "link": "https://www.californiasciencecenter.org/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-10T06:19:55.864Z"
+  "updatedAt": "2026-04-11T05:20:00.438Z"
 }

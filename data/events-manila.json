@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・オーキッド・ソサエティ・ショー",
-      "description": "フィリピンを代表する蘭の展示会。色鮮やかな蘭の花が咲き誇り、子どもも楽しめる自然の美しさ。毎年4月開催。",
-      "date": "4月上旬〜中旬",
-      "place": "フィリピン・オーキッド・ソサエティ（Quezon City近郊）",
-      "link": "https://www.philippineorchidsociety.org/",
-      "free": false
-    },
-    {
-      "title": "アヤラ・モール・マニラ ベイ キッズイベント",
-      "description": "大型ショッピングモールで開催される春の子ども向けフェスティバル。ワークショップ、ゲーム、キャラクターグリーティング。",
-      "date": "4月中旬〜下旬",
-      "place": "Ayala Malls Manila Bay, Parañaque",
-      "link": "https://www.ayalamamillabay.com/",
+      "title": "フィエスタ・デ・サンタ・クルス（十字架の祭り）",
+      "description": "4月中旬の宗教行事。カラフルな衣装、パレード、文化的パフォーマンスが見られます。マニラ市内各地で開催され、子どもたちも参加できる楽しい雰囲気が魅力的です。",
+      "date": "4月15日前後",
+      "place": "マニラ市内各地（特にキアポ地区）",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "スマートアクアリウム 春の特別企画",
-      "description": "フィリピン最大の水族館で季節展示。海の生き物との触れ合いワークショップ、餌やり体験など子ども向けプログラム充実。",
-      "date": "4月通期",
-      "place": "Smart Aquarium, SM Mall of Asia, Pasay City",
-      "link": "https://www.smartaquariumph.com/",
-      "free": false
-    },
-    {
-      "title": "ロハス・ボタニカル・ガーデン散策",
-      "description": "マニラ近郊の広大な植物園。4月は緑豊かで屋外散歩に最適。子ども向けガイドツアーやピクニック向きの自然環境。",
-      "date": "4月通期",
-      "place": "Roces Botanical Garden, Taytay, Rizal",
+      "title": "ロハス大通りの川沿いアクティビティ",
+      "description": "マニラ湾沿いの遊歩道でウォーキングやサイクリング、ピクニックが楽しめます。週末は活気があり、屋台や休憩所も充実。朝早くが過ごしやすくおすすめです。",
+      "date": "4月全般（早朝が快適）",
+      "place": "ロハス大通り（Roxas Boulevard）、マニラ湾沿い",
       "link": "",
       "free": true
     },
     {
-      "title": "キッザニア・マニラ スプリングキャンプ",
-      "description": "職業体験型施設で春限定プログラム。職業体験、親子向けワークショップ、キャリア学習体験が充実。3歳〜15歳向け。",
-      "date": "4月中旬〜下旬",
-      "place": "KidZania Manila, Bonifacio Global City, Taguig",
-      "link": "https://www.kidzania.ph/",
+      "title": "スター・シティのテーマパーク",
+      "description": "家族向けの遊園地で、ジェットコースターから子ども向けアトラクションまで豊富。4月は乾季で晴天が多く、屋外での遊びに最適です。キッズ向けイベントも随時開催。",
+      "date": "4月全般",
+      "place": "スター・シティ（Star City）、パサイ市 Roxas Blvd",
+      "link": "https://www.star-city.com.ph/",
+      "free": false
+    },
+    {
+      "title": "モア・ファン・スクエアのキッズイベント",
+      "description": "マニラ首都圏の大型ショッピングモール。4月には子ども向けワークショップ、キャラクターグリーティング、アート展示などのアクティビティが開催されます。",
+      "date": "4月全般（週末が充実）",
+      "place": "モア・ファン・スクエア（Moa Fun Square）、パサイ市",
+      "link": "https://www.moafunsquare.com.ph/",
+      "free": false
+    },
+    {
+      "title": "フィリピン国立博物館の子ども向けプログラム",
+      "description": "絵画、彫刻、自然史を学べる博物館。4月には子ども向けガイドツアーやワークショップが実施されることがあります。フィリピンの歴史や文化を家族で楽しく学べます。",
+      "date": "4月全般（月曜休館）",
+      "place": "フィリピン国立博物館（National Museum of the Philippines）、マニラ市ロハス大通り",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-10T06:19:48.142Z"
+  "updatedAt": "2026-04-11T05:19:53.331Z"
 }
