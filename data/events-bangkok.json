@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ソンクラーン（タイ正月）",
-      "description": "4月13〜15日の水かけ祭り。子どもたちが水を掛け合い、伝統的な儀式を体験できます。バンコク市内各所で開催され、家族連れで楽しめるタイ最大のお祭りです。",
-      "date": "4月13日〜15日",
-      "place": "バンコク市内全域（シーロム通り、ラーチャダムヌン通りなど）",
-      "link": "https://www.tatnews.org",
+      "description": "タイの伝統的な水かけ祭り。家族で水遊びができ、子どもたちにとって最高の季節イベント。街全体が祝賀ムードで、文化体験ができます。",
+      "date": "4月13日～15日",
+      "place": "バンコク全域（特にシーロムエリア、サイアム周辺）",
+      "link": "https://www.tourismthailand.org/",
       "free": true
     },
     {
-      "title": "シアム・パラゴン・キッズ・フェスティバル",
-      "description": "大型ショッピングモール内で開催される子ども向けイベント。ワークショップ、キャラクター撮影会、ゲーム、子どもの才能展示など、乳幼児から小学生まで楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "シアム・パラゴン（1 Siam Square, Pathum Wan District, Bangkok）",
-      "link": "https://www.siamparagon.co.th",
+      "title": "エラワン博物館での子ども向けプログラム",
+      "description": "四面体の象の像で有名な博物館。子ども向けのガイドツアーや工芸体験が4月に開催。タイ文化を遊びながら学べます。",
+      "date": "4月通年（特定日はお問い合わせ）",
+      "place": "1565 Thanon Rama I, Khwaeng Wang Mai, Khet Pathum Wan, Bangkok 10330",
+      "link": "https://www.erawan-museum.com/",
       "free": false
     },
     {
-      "title": "ルンピニ公園での屋外活動と散策",
-      "description": "バンコク最大の公園。4月は朝夕が快適で、池でのボート遊び、スポーツ施設利用、野鳥観察、散策が楽しめます。子ども向けの遊具も充実しており、ファミリーに最適です。",
-      "date": "4月通期（早朝がおすすめ）",
-      "place": "ルンピニ公園（Rama IV Road, Pathum Wan District, Bangkok）",
-      "link": "https://bangkok.go.th",
+      "title": "チャトゥチャック・ウィークエンドマーケット（春の催事）",
+      "description": "世界最大級の週末マーケット。食べ物、おもちゃ、衣料品など多数の露店。子どもが喜ぶ屋台グルメとローカル体験ができます。",
+      "date": "4月の毎週土日",
+      "place": "587 Kamphaeng Phet 2 Road, Chatuchak, Bangkok 10900",
+      "link": "https://www.chatuchakmarket.org/",
       "free": true
     },
     {
-      "title": "キッズ・プラザ・バンコク特別プログラム",
-      "description": "子ども向けの屋内遊技施設。4月は夏休み前の特別プログラムやワークショップが開催されます。STEM教育、アート、運動遊びなど、年齢別プログラムが豊富です。",
-      "date": "4月通期",
-      "place": "キッズ・プラザ・バンコク（スクンビット通り周辺）",
-      "link": "",
+      "title": "サイアム・パークシティでのウォータースライド体験",
+      "description": "バンコク郊外のテーマパーク。4月の暑い季節にぴったりの大型プール施設。子ども向けスライドが多数あり、家族で丸一日楽しめます。",
+      "date": "4月通年営業",
+      "place": "203 Suwinthawong Rd, Nong Prue, Bang Plee, Samut Prakan 10540",
+      "link": "https://www.siampark.com/",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "東南アジア最大のマーケット。子ども向けおもちゃ、服飾、スナックが充実。4月の朝間は比較的涼しく、家族連れが楽しく買い物・散策できます。",
-      "date": "4月の土日",
-      "place": "チャトゥチャック・ウィークエンド・マーケット（Kamphaeng Phet Rd, Bangkok）",
-      "link": "https://www.chatuchakmarket.org",
+      "title": "ラーマ9世公園での春のピクニック＆散策",
+      "description": "バンコク最大級の都市公園。4月の早朝は涼しく、広い芝生での家族ピクニック、動物園エリア、自転車レンタルが楽しめます。",
+      "date": "4月通年営業（早朝がおすすめ）",
+      "place": "Sukhumvit Road, Tambon Khlong Toei, Khet Watthana, Bangkok 10110",
+      "link": "https://www.npu.go.th/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-11T05:19:45.058Z"
+  "updatedAt": "2026-04-12T06:10:42.016Z"
 }

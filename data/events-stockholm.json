@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館のイースターイベント",
-      "description": "イースター時期の子ども向けワークショップ。工作や伝統的なイースターの装飾作り、卵探しゲームなどが楽しめます。家族で北欧の春の文化を体験できます。",
-      "date": "4月上旬〜中旬",
-      "place": "スウェーデン国立博物館（Nationalmuseum）、Södra Blasieholmshamnen 2, 111 48 Stockholm",
-      "link": "https://www.nationalmuseum.se/",
-      "free": false
+      "title": "チューリップフェスティバル（Stockholms Tulipfestival）",
+      "description": "王立公園Kungsträdgårdenで開催される春のチューリップ祭。約50万本のカラフルなチューリップが咲き誇り、子どもたちが花を背景に自由に遊べる無料イベントです。",
+      "date": "4月中旬〜下旬",
+      "place": "Kungsträdgården, Norrmalm, Stockholm",
+      "link": "https://www.stockholm.se/",
+      "free": true
     },
     {
-      "title": "スキャンセン野外博物館の春祭りと子動物との触れ合い",
-      "description": "春生まれの動物の赤ちゃんが登場。北欧の伝統的な農場体験、動物への給餌、乗馬などが楽しめます。屋外で春の自然を満喫できる家族向けスポット。",
-      "date": "4月全般",
-      "place": "スキャンセン（Skansen）、Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "title": "スカンセン野外博物館の春プログラム",
+      "description": "北欧最大の野外博物館で、春のアクティビティが充実。動物とのふれあい、伝統工芸体験、子ども向けガイドツアーなど、乳幼児から小学生まで楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
       "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ストックホルム群島でのカヤック・ボートツアー",
-      "description": "春の穏やかな海でカヤックやガイド付きボートツアー。子ども向けコースもあり、自然の中で水上活動が楽しめます。美しい群島の風景と北欧の春を体験。",
-      "date": "4月中旬〜下旬",
-      "place": "ストックホルム群島（Stockholm Archipelago）、各ツアー出発地",
-      "link": "https://www.stockholmtourist.com/",
+      "title": "王立動物園（Kolmårdens Djurpark）への春の遠足",
+      "description": "ストックホルム郊外の動物園で、春季特別プログラムが開催。新生子動物の公開やベビーカー対応の散策路。屋外で自然とふれあえるアクティビティです。",
+      "date": "4月上旬〜下旬",
+      "place": "Kolmårdsvägen 1, Nyköping（ストックホルムから約1時間）",
+      "link": "https://www.kolmarden.com/",
       "free": false
     },
     {
-      "title": "ヨーロッパ広場（Mynttorget）での春の市場・フリマ",
-      "description": "ストックホルムの季節イベント市場。手工芸品や地元産品が並び、キッズゾーンもあります。地元の雰囲気を感じながら無料で散策・買い物が楽しめます。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "ヨーロッパ広場（Mynttorget）、Gamla Stan, Stockholm",
-      "link": "",
-      "free": true
+      "title": "グローナ・ルンド遊園地の春季開園",
+      "description": "北欧最古の遊園地が春季営業開始。子ども向けライド、キャラクター体験、季節装飾など。家族向けアトラクションが充実しています。",
+      "date": "4月中旬〜",
+      "place": "Gröna Lund, Allmänna gränd 9, Stockholm",
+      "link": "https://www.gronalund.com/",
+      "free": false
     },
     {
-      "title": "ユーランデン公園での春の散策と野外プレイグラウンド",
-      "description": "4月は新緑が美しいシーズン。大型のプレイグラウンドや遊歩道があり、乳幼児から小学生まで楽しめます。ストックホルムの自然公園を無料で満喫できます。",
-      "date": "4月全般",
-      "place": "ユーランデン公園（Djurgården）、Stockholm",
-      "link": "https://djurgarden.stockholm.se/",
-      "free": true
+      "title": "ヴァーサ号博物館の子ども向けガイドツアー",
+      "description": "17世紀の戦艦を保存した博物館で、子ども専用ツアーやワークショップを実施。屋内で船の歴史を学びながら、子どもたちが参加型で楽しめます。",
+      "date": "4月上旬〜下旬（毎日開催）",
+      "place": "Vasamuseet, Galärvägen 14, Stockholm",
+      "link": "https://www.vasamuseet.se/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-11T05:19:29.037Z"
+  "updatedAt": "2026-04-12T06:10:26.092Z"
 }

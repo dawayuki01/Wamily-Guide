@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・チューリップ・フェスティバル",
-      "description": "シンガポール植物園で開催される春の花祭り。色とりどりのチューリップが咲き誇り、家族向けの花の展示やワークショップが楽しめます。",
+      "title": "Singapore Craft Week",
+      "description": "地元のクラフト職人による展示販売やワークショップ。子どもむけのDIY体験ブースが多数あり、親子で参加できます。手作り体験を通じた創造性育成に最適。",
       "date": "4月上旬〜中旬",
-      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
-      "link": "https://www.nparks.gov.sg/sbg",
+      "place": "Various locations across Singapore（毎年異なる）",
+      "link": "https://www.craftsingapore.sg/",
+      "free": true
+    },
+    {
+      "title": "East Coast Park Family Day",
+      "description": "シンガポール最大のビーチパークで開催される家族向けイベント。自転車、ローラースケート、アクティビティゾーンなど屋外で楽しめます。海での水遊びや砂遊びも可能。",
+      "date": "4月中旬〜下旬（不定期）",
+      "place": "East Coast Park, 1200 East Coast Parkway, Singapore 449855",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "Singapore Zoo Special Programs & Animal Encounters",
+      "description": "動物園の子ども向け特別プログラム。季節ごとの特別展示やトーク、給餌体験など。乳幼児から小学生まで楽しめる対話型学習。",
+      "date": "4月通年開催（週末特別プログラムあり）",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.singaporezoo.sg/",
       "free": false
     },
     {
-      "title": "イースター・セレブレーション（主要ショッピングモール）",
-      "description": "オーチャード地区のモールなどでイースターのアクティビティが開催。子ども向けのエッグハント、手作りワークショップ、キャラクター撮影会などが無料で楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "オーチャード地区各ショッピングモール",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "East Coast Park での週末ファミリーアクティビティ",
-      "description": "シンガポール最大のビーチパーク。サイクリング、スケートボード、砂浜での遊びが無料で楽しめます。海沿いの散歩やピクニック、子ども向けの遊具エリアがあります。",
-      "date": "4月通期（毎週末）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/ecp",
-      "free": true
-    },
-    {
-      "title": "シンガポール・サイエンス・センター 春期特別展",
-      "description": "科学館の季節限定展示。子どもが触って学べるインタラクティブな展示やSTEMワークショップが開催されます。プラネタリウムも人気です。",
-      "date": "4月通期",
-      "place": "Science Centre Singapore, 15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
+      "title": "Science Centre Singapore - School Holiday Programmes",
+      "description": "4月の学校休暇期間に実施される子ども向けワークショップと特別展示。STEM教育とエンターテイメントを組み合わせた体験型学習。",
+      "date": "4月中旬〜下旬（学校休暇期間）",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.ssc.org.sg/",
       "free": false
     },
     {
-      "title": "リバー・ホンバオ（River Hongbao）",
-      "description": "メリライオン周辺で開催される年中行事。屋台グルメ、ライブパフォーマンス、子ども向けの乗り物やゲーム、花火が楽しめます。シンガポール文化を体験できます。",
-      "date": "4月中旬〜下旬",
-      "place": "Marina Bay, Singapore",
-      "link": "https://www.marinabayfloats.com.sg",
-      "free": true
+      "title": "Gardens by the Bay - Flower Dome Seasonal Display",
+      "description": "季節の花々を展示。4月は春の花々が見頃。屋内なので天候に左右されず、乳幼児連れでも快適に楽しめます。キッズ向けガイドツアーもあり。",
+      "date": "4月通年",
+      "place": "18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-11T05:19:36.860Z"
+  "updatedAt": "2026-04-12T06:10:33.756Z"
 }

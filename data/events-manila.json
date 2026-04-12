@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィエスタ・デ・サンタ・クルス（十字架の祭り）",
-      "description": "4月中旬の宗教行事。カラフルな衣装、パレード、文化的パフォーマンスが見られます。マニラ市内各地で開催され、子どもたちも参加できる楽しい雰囲気が魅力的です。",
-      "date": "4月15日前後",
-      "place": "マニラ市内各地（特にキアポ地区）",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "ロハス大通りの川沿いアクティビティ",
-      "description": "マニラ湾沿いの遊歩道でウォーキングやサイクリング、ピクニックが楽しめます。週末は活気があり、屋台や休憩所も充実。朝早くが過ごしやすくおすすめです。",
-      "date": "4月全般（早朝が快適）",
-      "place": "ロハス大通り（Roxas Boulevard）、マニラ湾沿い",
+      "title": "Flores de Mayo（花の五月祭）",
+      "description": "マニラ全域で行われる伝統的な宗教祭り。子どもたちが花で飾った山車を引いてパレードし、教会で供え物をします。地域ごとにお祭り雰囲気が楽しめます。",
+      "date": "4月下旬〜5月上旬",
+      "place": "マニラ市内各地の教会・コミュニティ",
       "link": "",
       "free": true
     },
     {
-      "title": "スター・シティのテーマパーク",
-      "description": "家族向けの遊園地で、ジェットコースターから子ども向けアトラクションまで豊富。4月は乾季で晴天が多く、屋外での遊びに最適です。キッズ向けイベントも随時開催。",
-      "date": "4月全般",
-      "place": "スター・シティ（Star City）、パサイ市 Roxas Blvd",
-      "link": "https://www.star-city.com.ph/",
+      "title": "Manila Zoo（マニラ動物園）の春休みプログラム",
+      "description": "動物園の子ども向け教育プログラム。餌やり体験や動物学習ショーが開催されます。トラやワニなどのフィリピン動物が見学できます。",
+      "date": "4月中旬〜下旬",
+      "place": "Manila Zoo, Rizal Park, Manila",
+      "link": "https://manilazoo.gov.ph",
       "free": false
     },
     {
-      "title": "モア・ファン・スクエアのキッズイベント",
-      "description": "マニラ首都圏の大型ショッピングモール。4月には子ども向けワークショップ、キャラクターグリーティング、アート展示などのアクティビティが開催されます。",
-      "date": "4月全般（週末が充実）",
-      "place": "モア・ファン・スクエア（Moa Fun Square）、パサイ市",
-      "link": "https://www.moafunsquare.com.ph/",
+      "title": "Rizal Park（リサール公園）での屋外アクティビティ",
+      "description": "マニラ最大の公園。子ども向け遊び場、緑地、湖でのボート体験が楽しめます。無料で散策・ピクニック可能。朝の涼しい時間帯が最適です。",
+      "date": "4月上旬〜下旬（毎日）",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.tripadvisor.com/Tourism-g317155-Rizal_Park_Manila_Calabarzon_Region_Calabarzon.html",
+      "free": true
+    },
+    {
+      "title": "Enchanted Kingdom（エンチャンテッド・キングダム）の春キャンペーン",
+      "description": "大型テーマパークの季節限定イベント。子ども向けアトラクションやキャラクターミート、特別ショーが開催されます。サマーシーズン前のセール期間。",
+      "date": "4月上旬〜下旬",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.ph",
       "free": false
     },
     {
-      "title": "フィリピン国立博物館の子ども向けプログラム",
-      "description": "絵画、彫刻、自然史を学べる博物館。4月には子ども向けガイドツアーやワークショップが実施されることがあります。フィリピンの歴史や文化を家族で楽しく学べます。",
-      "date": "4月全般（月曜休館）",
-      "place": "フィリピン国立博物館（National Museum of the Philippines）、マニラ市ロハス大通り",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "National Museum of Natural History の子ども向けワークショップ",
+      "description": "動物や恐竜の展示を通じた学習体験。春休みシーズンに子ども向けの特別ツアーやハンズオン学習が開催されます。教育的で涼しい屋内施設。",
+      "date": "4月中旬〜下旬",
+      "place": "National Museum Complex, Rizal Park, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-11T05:19:53.331Z"
+  "updatedAt": "2026-04-12T06:10:49.502Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles Times Festival of Books",
-      "description": "毎年4月中旬にUSCキャンパスで開催される北米最大級の本の祭典。子ども向けの読み聞かせ、ワークショップ、キャラクターグリートなど家族で楽しめるプログラムが充実。",
-      "date": "4月中旬",
-      "place": "University of Southern California (USC), Los Angeles, CA 90089",
-      "link": "https://www.latimesfestivalofbooks.com/",
+      "title": "ロサンゼルス・フラワー・マーケット春祭り",
+      "description": "4月の花市場は色とりどりの花で満溢れ、家族向けのワークショップやフェイスペイントが楽しめます。屋外で春の花々に囲まれながら、子どもたちは自由に遊べます。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "Los Angeles Flower Market, 754 Wall Street, Los Angeles, CA 90015",
+      "link": "https://www.laflowermarket.com/",
       "free": true
     },
     {
-      "title": "Huntington Library春の庭園ツアーと子ども向けプログラム",
-      "description": "春の花が見頃の広大な庭園でのツアー。子ども向けの宝探しやスケッチワークショップなど季節限定プログラムが開催される。屋外で自然を学べます。",
-      "date": "4月上旬〜下旬",
-      "place": "1151 Oxford Road, San Marino, CA 91108",
-      "link": "https://www.huntingtonlibrary.org/",
-      "free": false
-    },
-    {
-      "title": "Los Angeles County Arboretum & Botanic Garden「春の花祭り」",
-      "description": "4月はチューリップ、桜、ワイルドフラワーが見頃。子ども向けナチュアスケープエリアでの自然体験と、季節の花を楽しむ屋外アクティビティが充実。",
-      "date": "4月全般",
-      "place": "301 North Baldwin Avenue, Arcadia, CA 91007",
-      "link": "https://www.arboretum.org/",
-      "free": false
-    },
-    {
-      "title": "Griffith Observatory春の特別プログラム＆無料入場",
-      "description": "天文館は常に無料入場。4月の夜空観察会や子ども向けプラネタリウムなど春季特別プログラムを開催。公園内でのハイキングも人気。",
-      "date": "4月全般（特に夜間）",
-      "place": "2800 East Observatory Road, Los Angeles, CA 90027",
+      "title": "グリフィス天文台のスプリングプログラム",
+      "description": "子ども向けの天体観測イベントやプラネタリウムショーが開催されます。4月は天気が良く、昼間の景色とロサンゼルスの眺望も素晴らしい時期です。",
+      "date": "4月通期（毎日）",
+      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "California Science Center「春の特別展示と屋外学習」",
-      "description": "無料の科学館で4月の春季特別展示が開催。子ども向けのハンズオン体験と屋外のスペースシャトル・エンデバーの見学が楽しめます。",
-      "date": "4月全般",
-      "place": "700 Exposition Park Drive, Los Angeles, CA 90037",
+      "title": "カリフォルニア科学センター・春休み特別プログラム",
+      "description": "入館無料の科学館で、4月は子ども向けの特別展示やハンズオン体験が豊富です。スペースシャトル展示は子どもたちに大人気です。",
+      "date": "4月通期（毎日）",
+      "place": "California Science Center, 700 Exposition Park Drive, Los Angeles, CA 90037",
       "link": "https://www.californiasciencecenter.org/",
+      "free": true
+    },
+    {
+      "title": "ナチュラル・ヒストリー・ミュージアム春イベント",
+      "description": "ロサンゼルス自然史博物館で春の特別展示。恐竜展示やインタラクティブなディスプレイは子どもたちを夢中にさせます。屋内施設で快適に楽しめます。",
+      "date": "4月通期",
+      "place": "Natural History Museum of Los Angeles County, 900 Exposition Boulevard, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
+      "free": false
+    },
+    {
+      "title": "ビーチサイド・ハイキング：トレイル・アンド・パーク（グレンデール山地）",
+      "description": "4月は気候が温暖で、キッズ向けの簡単なハイキングコースが最適。海辺の景色を楽しみながら、家族で自然を満喫できる屋外アクティビティです。",
+      "date": "4月通期（毎日可能）",
+      "place": "Runyon Canyon Park, 3000 North Runyon Canyon Road, Los Angeles, CA 90046",
+      "link": "https://www.laparks.org/runyon-canyon",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-11T05:20:00.438Z"
+  "updatedAt": "2026-04-12T06:10:57.320Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイデー）",
-      "description": "5月1日前後に開催されるハワイアンカルチャーを祝うイベント。美しいレイの展示・販売、フラダンス、ハワイアン音楽で、子どもも楽しめます。",
-      "date": "4月下旬～5月上旬",
-      "place": "ハワイアル各島（主にワイキキシェルやダウンタウン周辺）",
-      "link": "https://www.hawaiitourismauthority.org",
+      "title": "アースデイ・ハワイ",
+      "description": "4月22日前後に開催される環境イベント。子ども向けアクティビティ、地元産品マーケット、ワークショップなどが楽しめます。家族で環境について学べる無料イベント。",
+      "date": "4月中旬〜下旬",
+      "place": "ワイキキビーチ及びビーチパーク周辺、ホノルル",
+      "link": "https://www.hawaiitourismauthority.org/",
       "free": true
     },
     {
-      "title": "Honolulu Festival（ホノルルフェスティバル）",
-      "description": "アジア太平洋文化交流の大規模フェスティバル。パレード、ステージパフォーマンス、グルメが揃い、家族で楽しめます。",
-      "date": "4月上旬～中旬",
-      "place": "ホノルル市街地（カラカウア通り、ハイオ通りほか）",
-      "link": "https://www.honolulufestival.com",
+      "title": "ハイキング・スノーケリング体験",
+      "description": "ハワイの春は好天が続く季節。子連れ向けの初心者コース（例：ダイヤモンドヘッド、ハナウマ湾）でのハイキングやスノーケリングが最適です。海の生き物観察も。",
+      "date": "4月上旬〜下旬",
+      "place": "ダイヤモンドヘッド、ハナウマ湾、オアフ島各地",
+      "link": "https://www.gohawaii.com/",
+      "free": false
+    },
+    {
+      "title": "ホノルル動物園の春イベント",
+      "description": "春季特別プログラムや動物教育ワークショップが開催。乳幼児から小学生向けのアクティビティで動物について学べます。毎日営業しており家族向け。",
+      "date": "4月通期",
+      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ",
+      "link": "https://www.honoluluzoo.org/",
+      "free": false
+    },
+    {
+      "title": "KCC ファーマーズマーケット",
+      "description": "毎週土曜朝開催のローカル農産物直売所。新鮮なトロピカルフルーツ、ローカルグルメが並びます。子どもも楽しめる地元文化体験で無料入場可。",
+      "date": "4月毎週土曜",
+      "place": "KCC（カピオラニ・コミュニティ・カレッジ）、ホノルル",
+      "link": "https://www.honolulufarmersmarket.com/",
       "free": true
     },
     {
-      "title": "シュノーケリング体験（ハナウマ湾など）",
-      "description": "4月は水温が温暖でシュノーケリングに最適な季節。カラフルな魚を間近で観察でき、小学生以上の子どもに人気です。",
-      "date": "4月通年（天候による変更あり）",
-      "place": "ハナウマ湾国立海洋保護区（オアフ島）",
-      "link": "https://www.honolulu.gov/parks/hanauma-bay-nature-preserve.html",
-      "free": false
-    },
-    {
-      "title": "春のお花見スポット巡り（マニラソウなど）",
-      "description": "春の開花時期。フォスター植物園やウォルフ庭園などで、ハワイ固有種やカラフルな花々が咲き乱れます。乳幼児にも優しい環境です。",
-      "date": "4月全月",
-      "place": "フォスター植物園（ホノルル）、ウォルフ庭園（トリトン）",
-      "link": "https://www.honolulu.gov/parks/foster-garden.html",
-      "free": false
-    },
-    {
-      "title": "Honolulu Zoo・ワイキキ周辺キッズプログラム",
-      "description": "春休み期間に子ども向けプログラムやワークショップを開催。動物との触れ合いや、ハワイアン文化体験が充実しています。",
-      "date": "4月中旬～下旬",
-      "place": "ホノルル動物園（ワイキキビーチ東側）",
-      "link": "https://www.honoluluzoo.org",
-      "free": false
+      "title": "プリンセス・カイウラニ公園での虹の滝ハイキング",
+      "description": "マノア渓谷の短いハイキングコース。子ども向け難易度で、滝や熱帯植物が見られます。4月は降水量も適度で虹が見える確率が高い季節。",
+      "date": "4月上旬〜下旬",
+      "place": "マノア渓谷ハイキングコース、ホノルル",
+      "link": "https://www.gohawaii.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-11T05:20:08.460Z"
+  "updatedAt": "2026-04-12T06:11:05.427Z"
 }
