@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット春祭り",
-      "description": "4月の花市場は色とりどりの花で満溢れ、家族向けのワークショップやフェイスペイントが楽しめます。屋外で春の花々に囲まれながら、子どもたちは自由に遊べます。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "Los Angeles Flower Market, 754 Wall Street, Los Angeles, CA 90015",
-      "link": "https://www.laflowermarket.com/",
+      "title": "Poppy Super Bloom（ポピーの花見）",
+      "description": "南カリフォルニアの野生のオレンジ色のケシが咲き誇る季節。lancaster近郊やAntelope Valley Poppy Reserve で自然の中でハイキングや写真撮影が楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "Antelope Valley California Poppy Reserve, 15101 West Lancaster Road, Lancaster, CA 93536",
+      "link": "https://www.parks.ca.gov/?page_id=627",
       "free": true
     },
     {
-      "title": "グリフィス天文台のスプリングプログラム",
-      "description": "子ども向けの天体観測イベントやプラネタリウムショーが開催されます。4月は天気が良く、昼間の景色とロサンゼルスの眺望も素晴らしい時期です。",
-      "date": "4月通期（毎日）",
+      "title": "Los Angeles Times Festival of Books",
+      "description": "南カリフォルニア最大の書籍フェスティバル。USC キャンパスで開催。子ども向けのワークショップ、読み聞かせ、アクティビティ多数。家族連れで楽しめます。",
+      "date": "4月中旬",
+      "place": "University of Southern California Campus, Los Angeles, CA",
+      "link": "https://events.latimes.com/los-angeles-times-festival-of-books/",
+      "free": true
+    },
+    {
+      "title": "San Fernando Valley Wildflower Festival",
+      "description": "春の野生花が咲き誇る季節を祝うイベント。ガイド付きネイチャーハイク、教育プログラム、子ども向けアクティビティが充実。自然学習に最適です。",
+      "date": "4月上旬〜中旬",
+      "place": "Sepulveda Basin Wildlife Reserve, Los Angeles, CA",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "Griffith Observatory Spring Programs",
+      "description": "グリフィス天文台の春の特別プログラム。プラネタリウムショーや展示、子ども向けの宇宙教育ワークショップ。見晴らしの良い公園でも遊べます。",
+      "date": "4月全期間",
       "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org/",
-      "free": true
-    },
-    {
-      "title": "カリフォルニア科学センター・春休み特別プログラム",
-      "description": "入館無料の科学館で、4月は子ども向けの特別展示やハンズオン体験が豊富です。スペースシャトル展示は子どもたちに大人気です。",
-      "date": "4月通期（毎日）",
-      "place": "California Science Center, 700 Exposition Park Drive, Los Angeles, CA 90037",
-      "link": "https://www.californiasciencecenter.org/",
-      "free": true
-    },
-    {
-      "title": "ナチュラル・ヒストリー・ミュージアム春イベント",
-      "description": "ロサンゼルス自然史博物館で春の特別展示。恐竜展示やインタラクティブなディスプレイは子どもたちを夢中にさせます。屋内施設で快適に楽しめます。",
-      "date": "4月通期",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org/",
       "free": false
     },
     {
-      "title": "ビーチサイド・ハイキング：トレイル・アンド・パーク（グレンデール山地）",
-      "description": "4月は気候が温暖で、キッズ向けの簡単なハイキングコースが最適。海辺の景色を楽しみながら、家族で自然を満喫できる屋外アクティビティです。",
-      "date": "4月通期（毎日可能）",
-      "place": "Runyon Canyon Park, 3000 North Runyon Canyon Road, Los Angeles, CA 90046",
-      "link": "https://www.laparks.org/runyon-canyon",
-      "free": true
+      "title": "Descanso Gardens Spring Blooms & Kids Programs",
+      "description": "美しい庭園で春の花々が満開。チューリップ、藤、桜などが咲き誇ります。子ども向けガイドツアーや家族プログラムも実施中。",
+      "date": "4月全期間",
+      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-12T06:10:57.320Z"
+  "updatedAt": "2026-04-13T07:27:02.489Z"
 }

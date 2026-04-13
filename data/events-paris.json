@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの季節 - ジャルダン・デ・プランテス（植物園）",
-      "description": "パリの植物園で春のチューリップが満開。色とりどりの花畑は子どもも大喜び。散策路は歩きやすく、乳幼児連れにも優しい屋外スポットです。",
+      "title": "パリのチューリップ開花シーズン",
+      "description": "ルクセンブルク公園やジャルダン・デ・プラント（植物園）でカラフルなチューリップが満開。子どもも楽しめる広大な庭園で花を鑑賞できます。",
       "date": "4月上旬〜中旬",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.mnhn.fr/fr/jardin-des-plantes",
-      "free": false
-    },
-    {
-      "title": "イースター・イベント - ディズニーランド・パリ",
-      "description": "イースター期間中の限定デコレーションやキャラクターグリーティング。子ども向けのアクティビティやパレードで家族で楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Disneyland Paris, 77700 Marne-la-Vallée",
-      "link": "https://www.disneylandparis.com/",
-      "free": false
-    },
-    {
-      "title": "フィレ・ランフェール - セーヌ河畔の春祭り",
-      "description": "セーヌ河畔で開催される春の屋外フェスティバル。露店、キッズアクティビティ、音楽ライブなど家族向けのイベントが多数。無料で楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Left Bank of the Seine, 75006 Paris",
-      "link": "",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ6区",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "パリ・モンスリス・フェスティバル - 子ども向け映画祭",
-      "description": "子ども専門の映画祭。アニメーション映画やファミリー映画の上映、ワークショップで映画の世界を体験できます。",
-      "date": "4月（期間は年によって異なる）",
-      "place": "Various cinemas in Paris",
-      "link": "https://www.parismontsouris.fr/",
+      "title": "Foire du Trône（トローン市場）",
+      "description": "春の大型縁日。観覧車、キャラクター乗り物、お化け屋敷など子ども向けアトラクションが豊富。ポップコーンなどの食べ物も楽しめます。",
+      "date": "4月中旬〜5月下旬",
+      "place": "パリ12区 Bois de Vincennes",
+      "link": "https://www.foiredutrone.com",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園 - 春のピクニック・遊具エリア",
-      "description": "パリ最大級の公園で無料で遊べます。遊具、砂場、ポニー乗馬、人形劇などが充実。春の陽気の中ピクニックやアウトドアアクティビティが満喫できます。",
-      "date": "4月上旬〜下旬",
-      "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardins",
+      "title": "セーヌ川クルーズ",
+      "description": "春のセーヌ川沿いは新緑が美しい季節。子ども向けクルーズ船で、パリの主要な橋や建築物を水からの視点で観賞できます。",
+      "date": "4月全期間",
+      "place": "ノートルダム地区、セーヌ川（ユネスコ世界遺産）",
+      "link": "https://www.vedettes-du-pont-neuf.com",
+      "free": false
+    },
+    {
+      "title": "パリ科学館での春休みスペシャルプログラム",
+      "description": "乳幼児から小学生向けの体験型展示。宇宙、恐竜、物理など子どもが学べるワークショップやプラネタリウムが開催されます。",
+      "date": "4月全期間",
+      "place": "Cité des Sciences et de l'Industrie（パリ19区）",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "イースターマーケット・イースターハント",
+      "description": "2026年4月5日がイースター。シャンゼリゼ周辺やデパートで卵型チョコレートを探す宝探しイベント。家族向けパレードも開催されます。",
+      "date": "4月上旬（イースター時期）",
+      "place": "シャンゼリゼ通り、パリ8区及び主要デパート",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-12T06:10:18.054Z"
+  "updatedAt": "2026-04-13T07:26:23.701Z"
 }

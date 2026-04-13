@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Craft Week",
-      "description": "地元のクラフト職人による展示販売やワークショップ。子どもむけのDIY体験ブースが多数あり、親子で参加できます。手作り体験を通じた創造性育成に最適。",
+      "title": "シンガポール・チューリップ・フェスティバル",
+      "description": "シンガポール植物園で開催される春の花の祭典。色とりどりのチューリップが咲き誇り、家族向けワークショップやガイドツアーが楽しめます。",
       "date": "4月上旬〜中旬",
-      "place": "Various locations across Singapore（毎年異なる）",
-      "link": "https://www.craftsingapore.sg/",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road",
+      "link": "https://www.nparks.gov.sg/sbg",
+      "free": false
+    },
+    {
+      "title": "セントーサ・イースター・エッグ・ハント",
+      "description": "セントーサ島内の複数施設でイースター期間中に開催。子どもたちがカラフルな卵を探し、景品をゲット。屋外アクティビティで家族向け。",
+      "date": "4月中旬～下旬（イースター時期）",
+      "place": "セントーサ島（Sentosa Island）各施設",
+      "link": "https://www.sentosa.com.sg",
+      "free": false
+    },
+    {
+      "title": "シンガポール動物園・スプリング・ファン・デー",
+      "description": "春限定の特別プログラム。動物ガイドツアーやハンズオンアクティビティで、子どもたちが動物について学べます。教育的で楽しい体験。",
+      "date": "4月全体（時期は園に確認）",
+      "place": "シンガポール動物園（Singapore Zoo）、80 Mandai Lake Road",
+      "link": "https://www.wrs.com.sg",
+      "free": false
+    },
+    {
+      "title": "イースト・コースト・パーク・ファミリー・ピクニック・デー",
+      "description": "イースト・コースト・パークで開催される無料のコミュニティイベント。公園でのピクニックや家族向けアクティビティ、ビーチ遊びが楽しめます。",
+      "date": "4月中旬の週末",
+      "place": "イースト・コースト・パーク（East Coast Park）",
+      "link": "https://www.nparks.gov.sg/ecp",
       "free": true
     },
     {
-      "title": "East Coast Park Family Day",
-      "description": "シンガポール最大のビーチパークで開催される家族向けイベント。自転車、ローラースケート、アクティビティゾーンなど屋外で楽しめます。海での水遊びや砂遊びも可能。",
-      "date": "4月中旬〜下旬（不定期）",
-      "place": "East Coast Park, 1200 East Coast Parkway, Singapore 449855",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "チャイナタウン・ヘリテージ・フェスティバル無料ツアー",
+      "description": "チャイナタウンの文化と歴史を学べる無料のガイドツアー。子ども向けに分かりやすく、シンガポールの多文化を体験できます。",
+      "date": "4月全体（毎月実施）",
+      "place": "チャイナタウン・ヘリテージ・センター、48 Pagoda Street",
+      "link": "https://www.chinatownheritagecentre.com.sg",
       "free": true
-    },
-    {
-      "title": "Singapore Zoo Special Programs & Animal Encounters",
-      "description": "動物園の子ども向け特別プログラム。季節ごとの特別展示やトーク、給餌体験など。乳幼児から小学生まで楽しめる対話型学習。",
-      "date": "4月通年開催（週末特別プログラムあり）",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.singaporezoo.sg/",
-      "free": false
-    },
-    {
-      "title": "Science Centre Singapore - School Holiday Programmes",
-      "description": "4月の学校休暇期間に実施される子ども向けワークショップと特別展示。STEM教育とエンターテイメントを組み合わせた体験型学習。",
-      "date": "4月中旬〜下旬（学校休暇期間）",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.ssc.org.sg/",
-      "free": false
-    },
-    {
-      "title": "Gardens by the Bay - Flower Dome Seasonal Display",
-      "description": "季節の花々を展示。4月は春の花々が見頃。屋内なので天候に左右されず、乳幼児連れでも快適に楽しめます。キッズ向けガイドツアーもあり。",
-      "date": "4月通年",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-12T06:10:33.756Z"
+  "updatedAt": "2026-04-13T07:26:38.591Z"
 }

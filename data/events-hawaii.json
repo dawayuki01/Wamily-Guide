@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "アースデイ・ハワイ",
-      "description": "4月22日前後に開催される環境イベント。子ども向けアクティビティ、地元産品マーケット、ワークショップなどが楽しめます。家族で環境について学べる無料イベント。",
+      "title": "ハワイ・フィルム・フェスティバル",
+      "description": "家族向けの映画上映やワークショップが開催される国際映画祭。子どもも楽しめるコンテンツが多く、ハワイの文化を学べます。",
       "date": "4月中旬〜下旬",
-      "place": "ワイキキビーチ及びビーチパーク周辺、ホノルル",
-      "link": "https://www.hawaiitourismauthority.org/",
-      "free": true
-    },
-    {
-      "title": "ハイキング・スノーケリング体験",
-      "description": "ハワイの春は好天が続く季節。子連れ向けの初心者コース（例：ダイヤモンドヘッド、ハナウマ湾）でのハイキングやスノーケリングが最適です。海の生き物観察も。",
-      "date": "4月上旬〜下旬",
-      "place": "ダイヤモンドヘッド、ハナウマ湾、オアフ島各地",
-      "link": "https://www.gohawaii.com/",
+      "place": "ホノルル、イーストウエストセンター等複数会場",
+      "link": "https://www.hawaiifilmfestival.org/",
       "free": false
     },
     {
-      "title": "ホノルル動物園の春イベント",
-      "description": "春季特別プログラムや動物教育ワークショップが開催。乳幼児から小学生向けのアクティビティで動物について学べます。毎日営業しており家族向け。",
-      "date": "4月通期",
-      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "KCC ファーマーズマーケット",
-      "description": "毎週土曜朝開催のローカル農産物直売所。新鮮なトロピカルフルーツ、ローカルグルメが並びます。子どもも楽しめる地元文化体験で無料入場可。",
-      "date": "4月毎週土曜",
-      "place": "KCC（カピオラニ・コミュニティ・カレッジ）、ホノルル",
-      "link": "https://www.honolulufarmersmarket.com/",
+      "title": "スプラッシュパッド・ウォータープレイグラウンド",
+      "description": "カカアコ地区の無料水遊び広場。4月の温かい気候で乳幼児〜子どもが安全に水遊びを楽しめ、地元ファミリーに人気です。",
+      "date": "4月通年",
+      "place": "Kakaako Waterfront Park, ホノルル",
+      "link": "",
       "free": true
     },
     {
-      "title": "プリンセス・カイウラニ公園での虹の滝ハイキング",
-      "description": "マノア渓谷の短いハイキングコース。子ども向け難易度で、滝や熱帯植物が見られます。4月は降水量も適度で虹が見える確率が高い季節。",
-      "date": "4月上旬〜下旬",
-      "place": "マノア渓谷ハイキングコース、ホノルル",
-      "link": "https://www.gohawaii.com/",
+      "title": "ダイヤモンドヘッド・ハイキング",
+      "description": "オアフ島の象徴的なハイキング。4月は気候が良く、約30分で頂上到達可能。小学生向けの屋外アクティビティに最適です。",
+      "date": "4月通年（早朝推奨）",
+      "place": "Diamond Head State Monument, ホノルル",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "free": false
+    },
+    {
+      "title": "ハワイ子どもの博物館の春イベント",
+      "description": "ハンズオン体験で学べる博物館。4月は春の特別プログラムやワークショップが充実。乳幼児〜小学生向けの多彩な展示があります。",
+      "date": "4月通年",
+      "place": "Hawaii Children's Discovery Center, ホノルル",
+      "link": "https://www.discoverycenterhawaii.org/",
+      "free": false
+    },
+    {
+      "title": "カイルア・ビーチでの無料ファミリー・デー",
+      "description": "オアフ島で最も美しいビーチ。4月は温暖で海水浴に最適。浅瀬が広く子連れに人気。無料で家族全員で楽しめます。",
+      "date": "4月通年",
+      "place": "Kailua Beach Park, カイルア",
+      "link": "https://www.honolulu.gov/parks-recreation.html",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-12T06:11:05.427Z"
+  "updatedAt": "2026-04-13T07:27:10.105Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港花卉展覧会（Hong Kong Flower Show）",
-      "description": "春の香港を代表する花の祭典。色とりどりの花で飾られた会場で、家族で季節の花々を楽しめます。子ども向けのワークショップや体験コーナーも充実しています。",
+      "title": "香港チューリップフェスティバル",
+      "description": "ビクトリア公園で開催される春の花祭り。色とりどりのチューリップが咲き誇り、家族で散策できます。写真撮影スポットも充実。",
       "date": "4月上旬〜中旬",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣",
-      "link": "https://www.lcsd.gov.hk/tc/hk_flower_show.html",
+      "place": "ビクトリア公園（Victoria Park）、銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/",
+      "free": true
+    },
+    {
+      "title": "香港ディズニーランド春のスペシャルイベント",
+      "description": "春限定のパレードやキャラクターグリーティング、子ども向けアトラクションの特別運営。桜の装飾で園内を彩ります。",
+      "date": "4月中旬〜下旬",
+      "place": "香港ディズニーランド、ランタオ島",
+      "link": "https://www.hongkongdisneyland.com/",
       "free": false
     },
     {
-      "title": "スターフェリー乗車体験と海沿いの散策",
-      "description": "香港の象徴的な赤いスターフェリーで海を渡る屋外アクティビティ。スターフェリー乗船は安価で、ビクトリアハーバーの景色を楽しめ、乳幼児から小学生まで大喜び間違いなし。",
-      "date": "4月通年（季節行事ではなく常時）",
-      "place": "中環桟橋（Central Pier）/ 尖沙咀桟橋（Tsim Sha Tsui Pier）",
+      "title": "スターフェリー乗車体験＆ハーバークルーズ",
+      "description": "香港を代表する交通手段のスターフェリーで海上散歩。ビクトリアハーバーの景色を楽しめ、子どもも喜ぶアクティビティです。",
+      "date": "4月通年可能",
+      "place": "スターフェリー（中環〜尖沙咀間）",
       "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "ビクトリアパーク春の自然散策と無料ピクニック",
-      "description": "4月の香港は気候が良く、ビクトリアパークで家族でピクニックを楽しめます。広大な緑地で子どもが走り回でき、遊具も充実。入園は無料で家族に優しい屋外スポットです。",
-      "date": "4月上旬〜下旬",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣",
-      "link": "https://www.lcsd.gov.hk/en/parks_gardens.html",
-      "free": true
-    },
-    {
-      "title": "香港科学館の特別展示とワークショップ",
-      "description": "春休み期間に子ども向けの特別展示やハンズオンワークショップを開催。乳幼児から小学生まで楽しめるインタラクティブな科学体験プログラムが豊富です。",
-      "date": "4月上旬〜中旬（春休みシーズン）",
-      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀",
-      "link": "https://www.lcsd.gov.hk/en/hk_science_museum.html",
+      "title": "香港動物園での春季プログラム",
+      "description": "子ども向けの動物ふれあいタイム・教育プログラムが充実。パンダやレッサーパンダなど人気動物との春の特別体験。",
+      "date": "4月中旬〜下旬",
+      "place": "香港動物園（Hong Kong Zoo）、セントラル",
+      "link": "https://www.lcsd.gov.hk/en/healthy/zoo/index.html",
       "free": false
     },
     {
-      "title": "雷鳴灣（Lei Ming Bay）での潮間帯観察＆ビーチクリーンアップ",
-      "description": "4月の穏やかな天気を活かした屋外自然観察。潮間帯で小生物を観察でき、子どもの自然学習に最適。NPOによるファミリー向けビーチクリーンアップイベントも開催されます。",
-      "date": "4月中旬〜下旬（週末イベント）",
-      "place": "雷鳴灣（Lei Ming Bay）、南丫島（Lamma Island）",
+      "title": "スターアベニュー屋外マーケット",
+      "description": "春限定の手工芸品・子ども向けおもちゃ市。地元の親子連れで賑わい、工作体験コーナーもあります。無料で見学・散策できます。",
+      "date": "4月中旬",
+      "place": "スターアベニュー周辺マーケット、銅鑼灣",
       "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-12T06:11:22.071Z"
+  "updatedAt": "2026-04-13T07:27:24.448Z"
 }
