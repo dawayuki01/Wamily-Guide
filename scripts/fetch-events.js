@@ -26,9 +26,9 @@ const COUNTRIES = [
     slug: 'london',
     name: 'ロンドン',
     nameEn: 'London',
-    rssUrl: 'https://www.timeout.com/london/family/rss.xml',
+    rssUrl: 'https://www.timeout.com/london/kids/rss.xml',
     source: 'TimeOut London',
-    sourceUrl: 'https://www.timeout.com/london/family',
+    sourceUrl: 'https://www.timeout.com/london/kids',
   },
   {
     slug: 'taipei',

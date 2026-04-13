@@ -1880,6 +1880,13 @@ small { font-size: 12px; }
   .spots-map-legend { gap: 10px; }
 }
 
+@media (max-width: 480px) {
+  #spots-map { height: 220px; }
+  .spot-card { padding: 12px 14px; }
+  .spots-map-legend { flex-wrap: wrap; gap: 6px; }
+  .spots-map-legend span { font-size: 10px; }
+}
+
 /* ============================================================
    Spots Map — Google Maps 埋め込み
    ============================================================ */

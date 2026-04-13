@@ -5,7 +5,7 @@
       "description": "グリニッジマーケットのイースターフェア。子ども向けのエッグハントイベントあり。",
       "date": "4月5日（土）〜6日（日）",
       "place": "Greenwich Market, SE10 9HZ",
-      "link": "https://www.timeout.com/london/family",
+      "link": "https://www.timeout.com/london/kids",
       "free": true
     },
     {
@@ -26,6 +26,6 @@
     }
   ],
   "source": "TimeOut London",
-  "sourceUrl": "https://www.timeout.com/london/family",
+  "sourceUrl": "https://www.timeout.com/london/kids",
   "updatedAt": "2026-03-27T00:00:00.000Z"
 }
