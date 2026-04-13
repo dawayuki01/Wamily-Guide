@@ -166,9 +166,9 @@
       "nameEn": "Hong Kong",
       "flag": "🇭🇰",
       "status": "draft",
-      "maturity": "準備中",
+      "maturity": "基本",
       "tripDate": "2026-04-30",
-      "spots": 0,
+      "spots": 20,
       "hasHost": false,
       "center": {
         "lat": 22.3193,
