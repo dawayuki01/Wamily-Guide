@@ -1,47 +1,47 @@
 {
   "items": [
     {
+      "title": "Poppy Super Bloom（ポピーの花見）",
+      "description": "南カリフォルニアの野生のオレンジ色のケシが咲き誇る季節。lancaster近郊やAntelope Valley Poppy Reserve で自然の中でハイキングや写真撮影が楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "Antelope Valley California Poppy Reserve, 15101 West Lancaster Road, Lancaster, CA 93536",
+      "link": "https://www.parks.ca.gov/?page_id=627",
+      "free": true
+    },
+    {
       "title": "Los Angeles Times Festival of Books",
-      "description": "南カリフォルニア大学キャンパスで開催される北米最大級の書籍フェスティバル。子ども向けの読書イベント、ワークショップ、キャラクターグリーティングが充実。",
-      "date": "4月中旬（毎年変動）",
-      "place": "University of Southern California, Los Angeles, CA 90089",
-      "link": "https://www.latimesfestivalofbooks.com",
+      "description": "南カリフォルニア最大の書籍フェスティバル。USC キャンパスで開催。子ども向けのワークショップ、読み聞かせ、アクティビティ多数。家族連れで楽しめます。",
+      "date": "4月中旬",
+      "place": "University of Southern California Campus, Los Angeles, CA",
+      "link": "https://events.latimes.com/los-angeles-times-festival-of-books/",
       "free": true
     },
     {
-      "title": "Descanso Gardens Spring Flower Festival",
-      "description": "初夏の花々が咲き誇る庭園。チューリップ、バラ、藤などの季節の花が見頃。子ども向けガイドツアーやピクニックエリアも完備。",
-      "date": "4月上旬〜下旬",
-      "place": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org",
+      "title": "San Fernando Valley Wildflower Festival",
+      "description": "春の野生花が咲き誇る季節を祝うイベント。ガイド付きネイチャーハイク、教育プログラム、子ども向けアクティビティが充実。自然学習に最適です。",
+      "date": "4月上旬〜中旬",
+      "place": "Sepulveda Basin Wildlife Reserve, Los Angeles, CA",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "Griffith Observatory Spring Programs",
+      "description": "グリフィス天文台の春の特別プログラム。プラネタリウムショーや展示、子ども向けの宇宙教育ワークショップ。見晴らしの良い公園でも遊べます。",
+      "date": "4月全期間",
+      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": false
     },
     {
-      "title": "Santa Monica Pier Spring Events & Pacific Park",
-      "description": "サンタモニカピアの遊園地。春の好天候の下、観覧車やアトラクションを楽しめます。ビーチでの砂遊びも無料で可能。",
-      "date": "4月上旬〜下旬",
-      "place": "200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.pacpark.com",
+      "title": "Descanso Gardens Spring Blooms & Kids Programs",
+      "description": "美しい庭園で春の花々が満開。チューリップ、藤、桜などが咲き誇ります。子ども向けガイドツアーや家族プログラムも実施中。",
+      "date": "4月全期間",
+      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org/",
       "free": false
-    },
-    {
-      "title": "Griffith Observatory Spring Hiking & Stargazing",
-      "description": "グリフィス天文台周辺の春のハイキング。親子向けの山道コース、天文台の無料展示、夜間の天体観測プログラムが利用可能。",
-      "date": "4月上旬〜下旬",
-      "place": "2800 E Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
-      "free": true
-    },
-    {
-      "title": "The Broad Museum Kids Programs & Art Galleries",
-      "description": "無料で楽しめるアートミュージアム。子ども向けのファミリープログラムやインタラクティブ展示で、美術館デビューに最適。",
-      "date": "4月上旬〜下旬（年中開催）",
-      "place": "221 S Grand Avenue, Los Angeles, CA 90012",
-      "link": "https://www.thebroad.org",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:49.057Z"
+  "updatedAt": "2026-04-13T07:27:02.489Z"
 }

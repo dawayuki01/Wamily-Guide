@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ソンクラーン（タイ正月）",
-      "description": "タイの伝統的な水かけ祭り。4月中旬にバンコク全域で開催され、子どもたちが水をかけて遊べる家族向けの楽しいお祭りです。",
-      "date": "4月13日〜15日",
-      "place": "バンコク全域（中心地はラチャダムヌン通り、サイアム地区）",
-      "link": "https://www.tourismthailand.org/",
+      "description": "タイの伝統的な水かけ祭り。子どもたちが楽しめる水遊びイベントが市内各所で開催。路上での水かけ遊びやパレードなどで家族で楽しめます。",
+      "date": "4月13日～15日",
+      "place": "バンコク市内全域（シーロム通り、ラチャダムヌーン通りなど）",
+      "link": "https://www.tatler.com/article/songkran-festival-bangkok",
       "free": true
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット 春の特別企画",
-      "description": "東南アジア最大級の市場。4月は春の陶芸品やハンドメイド雑貨の特別出店が増え、家族で散策やグルメが楽しめます。",
-      "date": "4月毎週末（土日）",
-      "place": "チャトゥチャック公園内、バンコク北部",
-      "link": "https://www.chatuchakmarket.com/",
+      "title": "ルンピニ公園での野外活動と自然観察",
+      "description": "バンコク最大級の公園。4月は朝夕涼しく、子どもたちが走り回ったり、池の水鳥観察ができます。屋外運動施設も充実。",
+      "date": "4月上旬～下旬",
+      "place": "ルンピニ公園（Lumphini Park）、Rama IV Rd, Pathum Wan District",
+      "link": "https://www.bangkok.go.th/en/web/guest/lumphini-park",
       "free": true
     },
     {
-      "title": "ルンピニ公園での野外アクティビティ・ファミリープログラム",
-      "description": "バンコク中心部の大型公園で、朝のラジオ体操や親子向けヨガ、動物観察が無料で楽しめます。4月の早朝は涼しく散策に最適です。",
-      "date": "4月全期間（毎日開放、特別プログラムは週末）",
-      "place": "ルンピニ公園、シーロム地区",
-      "link": "https://www.tourismthailand.org/",
-      "free": true
-    },
-    {
-      "title": "サファリワールド＆マリンパーク 春季イベント",
-      "description": "動物園とオーシャンパークの複合施設。4月は春の特別飼育体験や子ども向けショーが充実し、象とのふれあい体験も可能です。",
-      "date": "4月全期間（営業日は金〜日）",
-      "place": "サファリワールド＆マリンパーク、バンコク東郊外",
-      "link": "https://www.safariworld.com/",
+      "title": "キッザニア・バンコク特別プログラム",
+      "description": "子ども向け職業体験施設。4月の学校休暇期間に特別プログラムが実施されます。80以上の仕事体験で子どもたちが学びながら遊べます。",
+      "date": "4月上旬～下旬（学校休暇期間）",
+      "place": "キッザニア・バンコク、The Emporium Bangkok 6階、622 Sukhumvit Rd, Phra Khanong District",
+      "link": "https://www.kidzania.com/thailand",
       "free": false
     },
     {
-      "title": "シーライフ バンコク オーシャン・ワールド 春の特別展示",
-      "description": "大型水族館で、4月は春の海の生物展示と子ども向けフィーディングタイムがあります。屋内で過ごせ、エアコン完備なため暑さ対策に最適です。",
-      "date": "4月全期間",
-      "place": "シーライフ バンコク オーシャン・ワールド、サイアムスクエア",
-      "link": "https://www.bangkok.sealifeworldcenter.com/",
+      "title": "サイアム・オーシャン・ワールド春季特別展示",
+      "description": "東南アジア最大級の水族館。春季の特別企画展や子ども向けトークショーが開催。熱帯魚や海洋生物の学習が楽しめます。",
+      "date": "4月上旬～下旬",
+      "place": "サイアム・オーシャン・ワールド、Siam Paragon B1, 991 Rama I Rd, Pathumwan District",
+      "link": "https://www.siamoceanworld.com",
       "free": false
+    },
+    {
+      "title": "チャトゥチャック・ウィークエンド・マーケット子ども向けエリア",
+      "description": "世界最大級の週末市場。子ども向けのおもちゃ、衣類、食べ物が豊富。家族で買い物を楽しみながら市場文化を体験できます。",
+      "date": "4月の毎週土日",
+      "place": "チャトゥチャック・ウィークエンド・マーケット、Chatuchak, Bangkok 10900",
+      "link": "https://www.chatuchakmarket.org",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:33.627Z"
+  "updatedAt": "2026-04-13T07:26:47.228Z"
 }

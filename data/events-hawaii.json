@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デー）",
-      "description": "ハワイの文化を祝う5月1日前後のイベント。レイ製作体験、フラダンス、音楽ライブなど家族で楽しめます。無料のセレモニーも多数開催されます。",
-      "date": "4月下旬～5月1日前後",
-      "place": "オアフ島全域（主要は州庁舎前など）",
-      "link": "https://www.gohawaii.com/ja",
+      "title": "ハワイ・フィルム・フェスティバル",
+      "description": "家族向けの映画上映やワークショップが開催される国際映画祭。子どもも楽しめるコンテンツが多く、ハワイの文化を学べます。",
+      "date": "4月中旬〜下旬",
+      "place": "ホノルル、イーストウエストセンター等複数会場",
+      "link": "https://www.hawaiifilmfestival.org/",
+      "free": false
+    },
+    {
+      "title": "スプラッシュパッド・ウォータープレイグラウンド",
+      "description": "カカアコ地区の無料水遊び広場。4月の温かい気候で乳幼児〜子どもが安全に水遊びを楽しめ、地元ファミリーに人気です。",
+      "date": "4月通年",
+      "place": "Kakaako Waterfront Park, ホノルル",
+      "link": "",
       "free": true
     },
     {
-      "title": "ホノルル動物園の春祭り",
-      "description": "ハワイの野生動物を学べるプログラムや、子ども向けの教育ワークショップ。動物とのふれあい体験やスタンプラリーも開催されます。",
-      "date": "4月中旬～下旬",
-      "place": "ホノルル動物園、ワイキキ",
-      "link": "https://www.honoluluzoo.org",
+      "title": "ダイヤモンドヘッド・ハイキング",
+      "description": "オアフ島の象徴的なハイキング。4月は気候が良く、約30分で頂上到達可能。小学生向けの屋外アクティビティに最適です。",
+      "date": "4月通年（早朝推奨）",
+      "place": "Diamond Head State Monument, ホノルル",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
       "free": false
     },
     {
-      "title": "KCC Farmers Market（KCC ファーマーズ・マーケット）",
-      "description": "毎週土曜早朝開催。地元野菜、トロピカルフルーツ、ハワイアン料理など。屋外で子連れファミリーが楽しめる食文化体験。",
-      "date": "毎週土曜（4月通し）",
-      "place": "カピオラニ・コミュニティ・カレッジ駐車場、ホノルル",
-      "link": "https://www.honolulufarmers.com",
+      "title": "ハワイ子どもの博物館の春イベント",
+      "description": "ハンズオン体験で学べる博物館。4月は春の特別プログラムやワークショップが充実。乳幼児〜小学生向けの多彩な展示があります。",
+      "date": "4月通年",
+      "place": "Hawaii Children's Discovery Center, ホノルル",
+      "link": "https://www.discoverycenterhawaii.org/",
+      "free": false
+    },
+    {
+      "title": "カイルア・ビーチでの無料ファミリー・デー",
+      "description": "オアフ島で最も美しいビーチ。4月は温暖で海水浴に最適。浅瀬が広く子連れに人気。無料で家族全員で楽しめます。",
+      "date": "4月通年",
+      "place": "Kailua Beach Park, カイルア",
+      "link": "https://www.honolulu.gov/parks-recreation.html",
       "free": true
-    },
-    {
-      "title": "Honolulu Zoo's Snooze in the Zoo（動物園でお泊り）",
-      "description": "子どもが動物園で夜間体験できる特別プログラム。夜の動物の様子を観察し、園内でキャンプ。自然学習と冒険を同時に楽しめます。",
-      "date": "4月不定期開催（要確認）",
-      "place": "ホノルル動物園、ワイキキ",
-      "link": "https://www.honoluluzoo.org",
-      "free": false
-    },
-    {
-      "title": "ハイキング：ダイヤモンドヘッド",
-      "description": "ワイキキから近い初級向けハイキング。約1時間の往復で絶景を楽しめます。春の心地よい気候で、家族でチャレンジしやすい屋外アクティビティです。",
-      "date": "4月通し（早朝がおすすめ）",
-      "place": "ダイヤモンドヘッド・ステート・モニュメント、ワイキキ",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:56.954Z"
+  "updatedAt": "2026-04-13T07:27:10.105Z"
 }

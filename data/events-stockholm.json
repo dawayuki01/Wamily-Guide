@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館の春の特別展示",
-      "description": "4月はスウェーデン国立博物館で春の企画展が開催。子ども向けのインタラクティブなプログラムや工作ワークショップが多数用意されています。",
-      "date": "4月上旬〜下旬",
-      "place": "Nationalmuseum, Södra Blasieholmen, 103 21 Stockholm",
-      "link": "https://www.nationalmuseum.se/",
+      "title": "ストックホルム国際児童映画祭（Stockholm International Film Festival for Children）",
+      "description": "4月に開催される北欧最大級の子ども向け映画祭。世界中から選りすぐりの子ども映画が上映され、家族で楽しめるコンテンツが豊富です。",
+      "date": "4月中旬～下旬",
+      "place": "ストックホルム市内複数映画館",
+      "link": "https://www.stockholmfilmfestival.se/",
       "free": false
     },
     {
-      "title": "ユーグリーデン王立公園の春の散策",
-      "description": "ストックホルム郊外の広大な王立公園。4月は桜が咲き始め、自然の目覚めを感じられます。無料で入園でき、家族向けの遊歩道やピクニックエリアが充実しています。",
-      "date": "4月中旬〜下旬",
-      "place": "Drottningholm Palace Park, Drottningholmsvägen, 178 02 Ekerö",
-      "link": "https://www.royalpalaces.se/",
+      "title": "春の花見（桜・チューリップ）- スキンナヴィケン公園",
+      "description": "4月下旬～5月上旬、スキンナヴィケン公園で桜とチューリップが咲き誇ります。ピクニックに最適で、屋外での春の自然を家族で満喫できます。",
+      "date": "4月下旬～5月上旬",
+      "place": "Skinnarviken Park, Södermalm, Stockholm",
+      "link": "https://www.visitstockholm.com/",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の春まつり",
-      "description": "北欧最大の野外博物館。4月は動物園エリアで春の動物たちの活動が見られ、伝統工芸のデモンストレーションや子ども向けアクティビティが開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "title": "ユーランデルスパーケン公園での春まつり（Easter activities）",
+      "description": "4月上旬のイースター時期に、ユーランデルスパーケン公園でイースターエッグハント、動物ふれあいコーナーなど子ども向けプログラムが開催されます。",
+      "date": "4月上旬（イースター前後）",
+      "place": "Urilandsparken, Järvafältet, Stockholm",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "スカンセン野外博物館の春イベント",
+      "description": "スウェーデン伝統文化を学べる屋外博物館で、春の動物たちの活動、昔ながらの手工芸ワークショップなど子ども向けプログラムが充実しています。",
+      "date": "4月全期間",
+      "place": "Skansen, Djurgården, Stockholm",
       "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ヴァーサ博物館の家族向けプログラム",
-      "description": "17世紀の軍艦ヴァーサを展示する博物館。4月は子ども向けの特別ツアーやスカベンジャーハントなど、季節の家族プログラムが充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "Vasamuseet, Galärvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se/",
-      "free": false
-    },
-    {
-      "title": "ジュールゴーデン島の春の屋外アクティビティ",
-      "description": "ストックホルム中心部の島。4月は新緑が美しく、遊び場、自転車レンタル、カフェが豊富。無料で散策でき、家族向けの安全な環境でアウトドアを楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/",
+      "title": "ノルマルム地区の春マーケット（Stortorget Spring Fair）",
+      "description": "ストックホルム旧市街で開催される春マーケット。地元の手作り品、おもちゃ、グルメ屋台があり、家族連れで歩いて楽しめます。",
+      "date": "4月中旬～下旬（週末開催）",
+      "place": "Stortorget, Gamla Stan, Stockholm",
+      "link": "https://www.visitstockholm.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-09T06:00:16.827Z"
+  "updatedAt": "2026-04-13T07:26:31.470Z"
 }
