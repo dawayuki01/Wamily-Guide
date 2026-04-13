@@ -541,3 +541,22 @@
     flex-shrink: 0;
   }
 }
+
+/* 600px以下：スマートフォン小画面対応 */
+@media (max-width: 600px) {
+  .tab-nav-inner {
+    gap: 0;
+    padding: 0 8px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .tab-btn {
+    padding: 10px 10px;
+    font-size: 11px;
+    white-space: nowrap;
+  }
+  .ed-hero { min-height: 50vh; }
+  .ed-hero-title { font-size: clamp(28px, 10vw, 48px); }
+  .ed-hero-sub { font-size: 13px; }
+  .ed-content { padding: 28px 16px; }
+}
