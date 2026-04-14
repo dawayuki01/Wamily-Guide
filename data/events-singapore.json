@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Easter Celebrations at Gardens by the Bay",
-      "description": "イースター期間中、Gardens by the Bayでは子ども向けのイースターエッグハントや工作ワークショップが開催されます。花々に囲まれた園内で春の季節を感じながら家族で楽しめます。",
+      "title": "シンガポール・チューリップ・フェスティバル",
+      "description": "シンガポール植物園で開催される春の花祭り。カラフルなチューリップが咲き誇り、子どもが走り回れる広大な庭園で季節を感じられます。家族向けワークショップも開催。",
       "date": "4月上旬〜中旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
+      "link": "https://www.nparks.gov.sg/sbg",
       "free": false
     },
     {
-      "title": "Chingay Parade（チンゲイパレード）- 春の屋外アクティビティ",
-      "description": "シンガポール最大規模の通り祭り。カラフルな山車やパフォーマンスが見られます。4月は祭りシーズンで、子どもたちも街の活気を体験できます。",
-      "date": "4月（日程は毎年変動）",
-      "place": "Padang Road, Stamford Road, Singapore",
-      "link": "https://www.chingay.com.sg",
-      "free": true
-    },
-    {
-      "title": "Singapore Zoo Spring Activities",
-      "description": "シンガポール動物園では春休み期間に子ども向けの教育プログラムやアニマルトークが増加。乳幼児から小学生まで動物とのふれあいが楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "80 Mandai Lake Road, Singapore 729826",
+      "title": "イースター・イベント at シンガポール動物園",
+      "description": "動物園でのイースター限定イベント。卵探しゲームや動物とのふれあいプログラム、家族向けアクティビティが豊富。乳幼児から小学生まで楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "シンガポール動物園（Singapore Zoo）、80 Mandai Lake Road, Singapore 729826",
       "link": "https://www.zoo.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park - Family Beach Activities",
-      "description": "4月は天気が良く、ビーチでの家族向けアクティビティに最適。無料で楽しめる砂浜での遊びや、安全な遊泳エリアで子どもたちが水遊びできます。",
+      "title": "East Coast Park でのビーチアクティビティ",
+      "description": "シンガポール最大のビーチパークで、遠浅の海での水遊びや砂浜でのアクティビティが無料で楽しめます。屋外アクティビティの定番で家族向けに最適。",
       "date": "4月中旬〜下旬",
-      "place": "East Coast Park, East Coast Parkway, Singapore 1544",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "place": "East Coast Park、East Coast Parkway, Singapore",
+      "link": "https://www.nparks.gov.sg/parks-and-nature/parks/east-coast-park",
       "free": true
     },
     {
-      "title": "Science Centre Singapore - School Holiday Programmes",
-      "description": "春休み期間中、サイエンスセンターでは子ども向けの特別ワークショップやインタラクティブ展示プログラムが充実。STEM学習を楽しく体験できます。",
-      "date": "4月上旬〜中旬",
-      "place": "15 Science Centre Road, Singapore 609081",
+      "title": "チャイナタウン・ヘリテージ・マーケット",
+      "description": "伝統的な中国文化を体験できるマーケット。子ども向けのクラフト体験、露店での食べ歩き、文化体験ブースが充実。無料で散策・参加できます。",
+      "date": "4月中旬〜下旬",
+      "place": "チャイナタウン（Chinatown）、Smith Street & surrounding areas, Singapore",
+      "link": "https://www.visitsingapore.com/see-do-Singapore/culture-heritage/chinatown/",
+      "free": true
+    },
+    {
+      "title": "シンガポール・サイエンス・センター・春の特別展",
+      "description": "春限定の体験型科学展示や子ども向けワークショップ。プラネタリウムも人気。乳幼児向けエリアもあり、家族全員で学びながら楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "シンガポール・サイエンス・センター（Singapore Science Centre）、15 Science Centre Road, Singapore 609081",
       "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T12:41:43.710Z"
+  "updatedAt": "2026-04-14T13:33:46.561Z"
 }

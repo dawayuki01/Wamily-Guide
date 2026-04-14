@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館の春季特別展示と家族向けプログラム",
-      "description": "スウェーデン文化や美術を学べる春の特別展示。子ども向けワークショップやガイドツアーが開催され、家族で楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "Nationalmuseum Stockholm, Södra Blasieholmen, Stockholm",
-      "link": "https://www.nationalmuseum.se/",
-      "free": false
+      "title": "キューケンホフ庭園の春の花（チューリップ）",
+      "description": "ストックホルム王立公園内で4月に満開となる春の花々。特にチューリップやこぶし、桜が見られます。散策路は子どもにも歩きやすく、自然の中での家族撮影に最適です。",
+      "date": "4月上旬〜中旬",
+      "place": "ストックホルム王立公園（Drottningholms slottpark）",
+      "link": "https://www.stockholmsightseeing.com",
+      "free": true
     },
     {
-      "title": "ストックホルムのチューリップと春の花祭り（Kungsträdgården）",
-      "description": "ストックホルムの春を彩るチューリップやさくらが咲き誇ります。無料で散策でき、家族連れに人気の美しい公園です。",
+      "title": "スカンセン野外博物館の春まつり",
+      "description": "北欧最大の野外博物館で春の訪れを祝うイベント。動物との触れ合い、伝統工芸体験、スウェーデンの古い建造物を見学できます。乳幼児〜小学生向けプログラムが充実しています。",
       "date": "4月中旬〜下旬",
-      "place": "Kungsträdgården, Norrmalm, Stockholm",
-      "link": "https://www.kungstradgarden.se/",
-      "free": true
-    },
-    {
-      "title": "スカンセン野外博物館の春季動物観察と伝統文化体験",
-      "description": "北欧の野外博物館で、春の動物たち（仔鹿やヒナ鳥など）の観察と、伝統的なスウェーデン建築・工芸体験ができます。",
-      "date": "4月全期間",
-      "place": "Skansen, Djurgården, Stockholm",
-      "link": "https://www.skansen.se/",
+      "place": "スカンセン（Skansen）、Djurgårdsvägen 49-51",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ジュルゴーデン島の春の屋外散策と自然遊び",
-      "description": "王妃の庭園がある島で、春の自然を感じながら無料で家族で散策。子ども向けの遊び場やピクニックエリアも充実しています。",
-      "date": "4月全期間",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/en/djurgarden/",
+      "title": "ヴァーサ号博物館の子ども向けワークショップ",
+      "description": "17世紀の戦艦ヴァーサ号を展示する博物館が春休み期間に実施する子ども向けプログラム。海の歴史を学び、工作や謎解きなどが体験できます。家族向けガイドツアーも充実。",
+      "date": "4月中旬〜下旬",
+      "place": "ヴァーサ号博物館（Vasa Museum）、Galärvarvsvägen 14",
+      "link": "https://www.vasamuseet.se",
+      "free": false
+    },
+    {
+      "title": "ユーリョリーデン島でのサイクリングと春の自然観察",
+      "description": "ストックホルムを囲むスキェルゴルド（群島）の島々を自転車で巡るアクティビティ。4月は新緑の季節で、野鳥観察や自然写真撮影に最適。家族向けレンタル自転車も豊富です。",
+      "date": "4月上旬〜下旬",
+      "place": "ユーリョリーデン島（Ursholmen）、Västra Norrmalm",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "北欧児童博物館（Junibacken）の春季プログラムと物語の世界",
-      "description": "スウェーデン児童文学の世界を体験できる施設。春季限定のインタラクティブ展示やステージパフォーマンスで、幅広い年齢の子どもが楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "Junibacken, Galärvarvsvägen 14, Djurgården, Stockholm",
-      "link": "https://www.junibacken.se/",
+      "title": "グローナランド遊園地のシーズンオープン",
+      "description": "北欧で人気の遊園地がシーズン開園。乗り物、キャラクターショー、子ども向けアトラクションが充実。ファミリーパッケージチケットがお得で、小さな子どもから楽しめます。",
+      "date": "4月中旬",
+      "place": "グローナランド（Gröna Lund）、Lilla Allmänna vägen",
+      "link": "https://www.gronalund.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T12:41:36.172Z"
+  "updatedAt": "2026-04-14T13:33:38.227Z"
 }

@@ -102,7 +102,7 @@
       "emoji": "🎡",
       "category": "play",
       "layer": "play",
-      "description": "Large green space featuring a jogging path, playground & gardens, plus a lake with paddle boats.",
+      "description": "スアン・ルアン・ラマ9世公園：広い緑地に、遊び場やボート乗船が楽しめます。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -118,7 +118,7 @@
       "emoji": "🎡",
       "category": "play",
       "layer": "play",
-      "description": "Theme park rides, water flumes & marine life exhibits in a family centred 3-in-1 adventure park.",
+      "description": "ロッテワールド：乗り物や水のアトラクション、海の生き物が見られるテーマパークです。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -134,7 +134,7 @@
       "emoji": "🎡",
       "category": "play",
       "layer": "play",
-      "description": "Iconic, grassy city park serving as the site of occasional community & royal events.",
+      "description": "サナム・ルアン：広い芝生の公園で、のんびり遊べるスポットです。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -150,7 +150,7 @@
       "emoji": "🎡",
       "category": "play",
       "layer": "play",
-      "description": "Central urban park featuring manicured lawns, playgrounds & an artificial lake with boat rentals.",
+      "description": "ルンピニ公園：綺麗な芝生と遊び場、ボートが楽しめる都会の公園です。",
       "status": "open",
       "statusLabel": "営業中",
       "free": false,
@@ -166,7 +166,7 @@
       "emoji": "🎡",
       "category": "play",
       "layer": "play",
-      "description": "Built in 1782, this ornate royal palace complex now houses a museum & is open to visitors.",
+      "description": "グランドパレス：1782年建設の豪華な王宮で、博物館として見学できます。",
       "status": "check",
       "statusLabel": "要確認",
       "free": false,
@@ -214,7 +214,7 @@
       "emoji": "🍽️",
       "category": "food",
       "layer": "play",
-      "description": "Thai & Western dishes served in a colorful eatery set within a quirky theme park.",
+      "description": "チョコレート・ヴィル：かわいいテーマパーク内の飲食店です。",
       "status": "open",
       "statusLabel": "営業中",
       "free": false,
@@ -305,5 +305,5 @@
       "lng": 100.5347
     }
   ],
-  "checkedAt": "2026-04-14T12:42:52.724Z"
+  "checkedAt": "2026-04-14T13:34:55.512Z"
 }

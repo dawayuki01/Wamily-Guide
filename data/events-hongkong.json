@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フラワーショー（Hong Kong Flower Show）",
-      "description": "春の花々が咲き誇る大規模な花の展示会。子どもが楽しめる庭園デザイン、蝶やトンボなど自然観察ができます。屋外での花見体験です。",
+      "title": "香港フローラル・ディスプレイ・コンテスト",
+      "description": "春の花々で装飾された香港各地。ビクトリア公園で数百万本の花が展示され、色とりどりの庭園を家族で探索できます。写真撮影に最適な季節のイベント。",
       "date": "4月中旬〜下旬",
-      "place": "ビクトリアパーク（Victoria Park）、香港島銅鑼灣（Causeway Bay）",
-      "link": "https://www.lcsd.gov.hk",
-      "free": false
-    },
-    {
-      "title": "チムシャツイ プロムナード・スプリングフェスティバル",
-      "description": "チムシャツイ海沿いの遊歩道で開催されるスプリングイベント。子ども向けワークショップ、音楽パフォーマンス、屋外展示が無料で楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "チムシャツイ プロムナード（Tsim Sha Tsui Promenade）、九龍",
+      "place": "ビクトリア公園（Victoria Park）、銅鑼湾（Causeway Bay）",
       "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "香港スペース博物館 春休みキッズプログラム",
-      "description": "科学実験や宇宙体験の特別ワークショップ。乳幼児から小学生向けの年齢別プログラムで、インタラクティブな学習が楽しめます。",
-      "date": "4月上旬〜下旬（春休み期間中）",
-      "place": "香港スペース博物館（Hong Kong Space Museum）、尖沙咀",
-      "link": "https://hk.space.museum",
+      "title": "香港子ども映画祭（Hong Kong International Children's Film Festival）",
+      "description": "世界中の子ども向け映画が上映される専門映画祭。乳幼児から小学生向けの作品が多数選定され、家族で楽しめるプログラムが充実しています。",
+      "date": "4月上旬〜中旬",
+      "place": "香港各地の映画館（詳細は公式発表）",
+      "link": "https://www.hkicff.org",
       "free": false
     },
     {
-      "title": "スターフェリー周辺・シーサイドウォーク",
-      "description": "ビクトリアハーバーを眺めながらのシーサイドウォーク。無料で楽しめる屋外アクティビティで、新鮮な海風、眺望、子連れ向けの休憩スポット充実。",
-      "date": "4月全期間",
-      "place": "スターフェリー乗降場周辺、チムシャツイ〜セントラル",
+      "title": "スターフェリーでのベイクルーズと海沿いウォーキング",
+      "description": "ビクトリア湾を渡る伝統的なスターフェリーは子どもにも人気。2階デッキから香港の象徴的な景観を眺められます。春の快適な気候で家族向けのアクティビティに最適。",
+      "date": "4月通年",
+      "place": "スターフェリー乗車地点、中環〜尖沙咀間（Central - Tsim Sha Tsui）",
       "link": "https://www.starferry.com.hk",
-      "free": true
+      "free": false
     },
     {
-      "title": "香港動物園・春のふれあいプログラム",
-      "description": "動物たちとふれあえる期間限定のプログラム。乳幼児も参加できるグリーティングやフィーディング体験で、自然学習ができます。",
-      "date": "4月上旬〜下旬",
-      "place": "香港動物園（Hong Kong Zoo and Botanical Gardens）、セントラル",
-      "link": "https://www.lcsd.gov.hk/en/hkzbg",
+      "title": "香港科学館・スペシャルエキシビション",
+      "description": "常設展示に加え、春季の特別展示プログラムが開催。インタラクティブな体験を通じて子どもの科学への興味を引き出せます。屋内で快適に楽しめます。",
+      "date": "4月通年",
+      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀（Tsim Sha Tsui）",
+      "link": "https://www.lcsd.gov.hk/en/scm",
       "free": false
+    },
+    {
+      "title": "スターライト庭園・春の家族向けガイドツアー",
+      "description": "スターライト庭園は季節ごとに花々が変化。4月の春の花々が満開。無料ガイドツアーで家族向けの自然学習が実施されます。のどかな自然散策スポット。",
+      "date": "4月上旬〜下旬",
+      "place": "スターライト庭園（Starlight Garden）、新界・シャティン地区",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T12:42:30.588Z"
+  "updatedAt": "2026-04-14T13:34:33.427Z"
 }

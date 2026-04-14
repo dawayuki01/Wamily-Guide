@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリのチューリップと春の花",
-      "description": "モネの庭やルーヴル周辺、テュイルリー公園で色鮮やかなチューリップと春の花が咲き誇ります。子どもと一緒に自然の美しさを楽しむ絶好の季節です。",
+      "title": "チューリップの季節・モネの庭（ジヴェルニー）",
+      "description": "印象派の巨匠モネが愛した庭園。4月は色鮮やかなチューリップが咲き誇り、睡蓮の池も美しい季節。子どもと一緒に自然美を満喫できます。",
       "date": "4月上旬〜下旬",
-      "place": "テュイルリー公園（Jardin des Tuileries）、ルーヴル美術館周辺",
-      "link": "https://www.louvre.fr",
-      "free": true
+      "place": "Fondation Claude Monet, 84 rue Claude Monet, 27620 Giverny",
+      "link": "https://fondationclaudemonet.fr",
+      "free": false
     },
     {
-      "title": "ラパリジェンヌ・マーケット（春の季節マーケット）",
-      "description": "パリ中心部で開催される春の市場。地元の食材、手工芸品、子ども向けおもちゃなどが並びます。パリの日常文化を体験できます。",
+      "title": "パリ・イースターマーケット（シャンゼリゼ周辺）",
+      "description": "春の訪れを祝うイースターマーケット。カラフルな卵、春の装飾品、キッズ向けゲームやアクティビティが豊富。家族向けの楽しい雰囲気が特徴です。",
       "date": "4月中旬〜下旬",
-      "place": "チャンゼリゼ通り周辺、またはマレ地区のマーケット",
-      "link": "",
+      "place": "Champs-Élysées周辺、パリ市内各地",
+      "link": "https://www.parisinfo.com",
       "free": true
     },
     {
-      "title": "ミュゼ・グレヴァン（ろう人形館）の春フェスティバル",
-      "description": "有名人のろう人形が展示される施設。子どもが楽しめるインタラクティブなアトラクションや春イベントが開催される時期です。",
-      "date": "4月上旬〜中旬",
-      "place": "ミュゼ・グレヴァン、10 Boulevard Montmartre, 75009 Paris",
-      "link": "https://www.grevin.com",
+      "title": "ルクセンブルク公園での子ども向けアクティビティ",
+      "description": "パリの大公園で、春の季節に無料で楽しめるポニー乗馬、木製劇場での子ども向け公演、遊び場などが充実。セーヌ川沿いの散歩も快適な季節です。",
+      "date": "4月上旬〜下旬",
+      "place": "Jardin du Luxembourg, 75006 Paris",
+      "link": "https://www.senat.fr/visite/index.html",
+      "free": true
+    },
+    {
+      "title": "パリ水族館（シネアクア）の春プログラム",
+      "description": "アンダーシーテーマの大型水族館。春は子ども向けワークショップや特別展示が開催。海の生き物について学びながら、屋内で快適に過ごせます。",
+      "date": "4月通年営業",
+      "place": "Cineaqua, 5 avenue Albert de Mun, 75016 Paris",
+      "link": "https://www.cineaqua.com",
       "free": false
     },
     {
-      "title": "セーヌ河畔でのレンタル自転車とサイクリング",
-      "description": "春のパリはサイクリングに最適。ヴェリブ（Vélib'）で子ども用座席付き自転車をレンタルし、セーヌ沿いや公園を巡るアクティビティを楽しめます。",
+      "title": "セーヌ川沿いサイクリング・散歩",
+      "description": "4月は気候が穏やか。レンタル自転車やベビーカーでセーヌ川沿いの緑道を散策。ノートルダム、アイル・サン・ルイなど、歴史的スポットを巡れます。",
       "date": "4月上旬〜下旬",
-      "place": "セーヌ河畔全域、モンスリ公園周辺",
-      "link": "https://www.velib-metropole.fr",
-      "free": false
-    },
-    {
-      "title": "パリ・アクアリウム（Aquarium de Paris）の春ワークショップ",
-      "description": "子ども向けの海洋生物教育プログラムや餌やり体験が4月に特別開催されます。乳幼児から小学生まで楽しめる施設です。",
-      "date": "4月上旬〜下旬",
-      "place": "パリ・アクアリウム、Av. Albert 1er de Belgique, Trocadéro",
-      "link": "https://www.aquariumdeparis.com",
-      "free": false
+      "place": "Seine riverside cycle paths, Paris",
+      "link": "https://www.paris.fr/pages/les-itineraires-a-velo-1999",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T12:41:29.465Z"
+  "updatedAt": "2026-04-14T13:33:29.334Z"
 }

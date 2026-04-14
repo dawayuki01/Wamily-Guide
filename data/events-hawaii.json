@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "メリーモナークフェスティバル",
-      "description": "ハワイアン文化の最大級の祭典。フラダンスや音楽パレード、工芸品展示など家族向けプログラムが充実。子どもも参加できるワークショップあり。",
-      "date": "4月上旬〜中旬",
-      "place": "ホノルル市内各所（主にハワイ劇場ほか）",
-      "link": "https://www.merriemonarchfestival.org/",
+      "title": "レイ・デー（Lei Day）",
+      "description": "ハワイ文化を代表するレイ作りの体験イベント。子どもも参加でき、ハワイアン音楽やフラの実演が楽しめます。花飾りづくりを通じて文化を学べます。",
+      "date": "4月25日前後",
+      "place": "イオラニ宮殿（Iolani Palace）ホノルル",
+      "link": "https://iolanipalace.org/",
+      "free": true
+    },
+    {
+      "title": "カハラ・ファーマーズ・マーケット（Kahala Farmers Market）",
+      "description": "地元の農産物やハンドメイド雑貨が並ぶマーケット。新鮮なフルーツやローカルフード、子ども向けアクティビティも開催される家族向けイベントです。",
+      "date": "4月毎週土曜（通年開催）",
+      "place": "カハラ・モール駐車場 ホノルル",
+      "link": "https://www.kahalamall.com/events",
+      "free": true
+    },
+    {
+      "title": "ジャパニーズ・フェスティバル・ハワイ",
+      "description": "日本の文化を紹介するイベント。太鼓演奏、盆踊り、屋台、子ども向けワークショップなど家族で楽しめるプログラムが豊富です。",
+      "date": "4月中旬〜下旬",
+      "place": "ハワイ・コンベンション・センター ホノルル",
+      "link": "https://japanesefestivalhawaii.com/",
       "free": false
     },
     {
-      "title": "ホノルル動物園の春の特別プログラム",
-      "description": "動物たちとふれあえるペッティングエリアや季節限定の教育プログラム。4月は春の花も美しく、子連れに最適。無料で楽しめる庭園エリアもあります。",
-      "date": "4月通年",
-      "place": "ワイキキ、ホノルル動物園、151 Kapahulu Ave",
+      "title": "ホノルル・ズー・サマー・キャンプ",
+      "description": "ホノルル・ズーの子ども向け春季プログラム。動物との触れ合い体験やガイド付きツアー、教育的ワークショップで海外学習に最適です。",
+      "date": "4月中旬〜5月",
+      "place": "ホノルル・ズー カピオラニ公園内",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "カイルア・ビーチでの海遊び＆無料ビーチプログラム",
-      "description": "ハワイで最も美しいビーチの一つ。浅瀬で安全に泳げ、子連れに最適。多くの週末に無料のビーチクリーンアップやレンジャープログラムが開催。",
-      "date": "4月通年（週末プログラム）",
-      "place": "カイルア・ビーチ公園、Kailua, HI 96734",
-      "link": "https://www.honolulu.gov/parks-recreation.html",
+      "title": "マノア滝ハイキング（Manoa Falls Trail）",
+      "description": "片道約30分の家族向けトレッキングコース。熱帯雨林の中で美しい滝を目指します。子どもも歩きやすく、ハワイの自然を体験できます。",
+      "date": "4月通年（雨季の為朝がおすすめ）",
+      "place": "マノア渓谷 ホノルル",
+      "link": "https://www.hawaiitourism.jp/",
       "free": true
-    },
-    {
-      "title": "ワイキキ・シェルショー",
-      "description": "貝殻や海の生き物をテーマにした春の展示イベント。子どもが参加できるワークショップやクラフト体験。ビーチ沿いで無料エリアもあり。",
-      "date": "4月中旬〜下旬",
-      "place": "ワイキキ・ビーチセンター周辺",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "ビショップ博物館のファミリープログラム",
-      "description": "ハワイアン文化や自然史を学べる博物館。春休みに合わせた子ども向けワークショップや体験プログラムが充実。屋内なので雨の日にも最適。",
-      "date": "4月通年（週末プログラム）",
-      "place": "1525 Bernice St, Honolulu, HI 96817",
-      "link": "https://www.bishopmuseum.org/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T12:42:14.353Z"
+  "updatedAt": "2026-04-14T13:34:17.289Z"
 }

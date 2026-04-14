@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・フェスティバル",
-      "description": "春の花々を楽しむフェスティバル。チューリップやバラの展示、ガーデニング教室、キッズクラフトなどが開催される季節限定イベント。",
-      "date": "4月上旬〜中旬",
-      "place": "ロサンゼルス・トラスト・フォー・パブリック・ランド（LA County Arboretum & Botanic Garden）",
+      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market）春の花まつり",
+      "description": "カラフルな春の花々が並ぶ花市場。家族で楽しめる無料のマーケット散策で、季節の花の美しさが堪能できます。子どもも楽しめるフォトスポットが豊富です。",
+      "date": "4月上旬〜下旬",
+      "place": "LA Flower Market, 766 Wall Street, Los Angeles, CA 90017",
+      "link": "https://www.laflowermarket.com",
+      "free": true
+    },
+    {
+      "title": "グリフィス天文台のスプリングプログラム",
+      "description": "無料で入場できるグリフィス天文台では、春の星空観察や天体ショーが楽しめます。展示ギャラリーは子ども向けプログラムが充実。ハイキングも可能です。",
+      "date": "4月通期",
+      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
+      "free": true
+    },
+    {
+      "title": "ハンティントン・ライブラリーの春の庭園フェスティバル",
+      "description": "100エーカーの庭園で春の花々が満開。日本庭園やローズガーデンが見頃。子ども向けガイドツアーやワークショップがあり、家族で楽しめます。",
+      "date": "4月全期間",
+      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Road, San Marino, CA 91108",
+      "link": "https://www.huntington.org",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier スプリング・キッズ・フェスティバル",
+      "description": "太平洋沿いの遊園地で開催される子ども向けイベント。乗り物、屋外ゲーム、パフォーマンスが楽しめます。ビーチ散策や海沿いのアクティビティと組み合わせ可能です。",
+      "date": "4月中旬〜下旬（時期は確認推奨）",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
+      "free": false
+    },
+    {
+      "title": "ロサンゼルス・アーボレータムの春の花フェスティバル",
+      "description": "広大な植物園で春の花々が満開。子ども向けガイドツアーやハイキングプログラムが開催されます。自然の中での屋外アクティビティに最適です。",
+      "date": "4月上旬〜5月中旬",
+      "place": "Los Angeles County Arboretum & Botanic Garden, 301 North Baldwin Avenue, Arcadia, CA 91007",
       "link": "https://www.arboretum.org",
       "free": false
-    },
-    {
-      "title": "オリーバー・エヴァンス パークの春祭り",
-      "description": "無料で楽しめるコミュニティ春祭り。ライブ音楽、フードベンダー、子ども向けゲーム、面白い乗り物などが開催される。",
-      "date": "4月中旬〜下旬（毎週末）",
-      "place": "Oliver Evans Park, Los Angeles, CA",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "グリフィス・パークのハイキングと野外アクティビティ",
-      "description": "4月は天候が安定し、ハイキングに最適。子ども向けトレイルが複数あり、野生動物観察やピクニックが楽しめる無料スポット。",
-      "date": "4月全期間（通年開放）",
-      "place": "Griffith Park, Los Angeles, CA 90027",
-      "link": "https://www.laparks.org/griffith-park",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス自然史博物館の春特別展示",
-      "description": "期間限定の子ども向け特別展示。恐竜、昆虫、自然科学などのテーマで、インタラクティブなラーニングプログラムを開催。",
-      "date": "4月全期間",
-      "place": "Los Angeles Natural History Museum, 900 W Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org",
-      "free": false
-    },
-    {
-      "title": "サンタモニカ・ピアのスプリング・フェスティバル",
-      "description": "海辺でのファミリーフェスティバル。ライブパフォーマンス、フードベンダー、キッズゲーム、メリーゴーラウンド乗車が楽しめる。",
-      "date": "4月中旬〜下旬（週末）",
-      "place": "Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.org",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T12:42:06.425Z"
+  "updatedAt": "2026-04-14T13:34:09.534Z"
 }

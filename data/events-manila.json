@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アース・デー（Earth Day）関連イベント",
-      "description": "4月22日前後、マニラの公園やモール内で環境保護をテーマにした子ども向けワークショップやエコクラフト体験が開催されます。家族で参加できる無料イベント。",
+      "title": "Summer Fiesta 2026（サマーフィエスタ）",
+      "description": "マニラの夏シーズン開幕を祝うお祭り。水遊びイベント、ゲーム、ステージパフォーマンスなど家族向けアクティビティが豊富。子どもたちが楽しめるアトラクションが多数あります。",
+      "date": "4月上旬〜中旬",
+      "place": "Robinsons Place Manila、Luneta Park周辺",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
+    },
+    {
+      "title": "Palarong Pambansa Pre-Games Activity（パラロン・パンバンサ）",
+      "description": "フィリピン全国スポーツ祭の事前イベント。子ども向けのミニ競技会やスポーツワークショップ、展示会が開催。家族で参加できる楽しい屋外アクティビティです。",
       "date": "4月中旬〜下旬",
-      "place": "リサール公園（Rizal Park）、マニラ市内各地",
+      "place": "Rizal Memorial Coliseum、Luneta Park",
+      "link": "https://www.psa.gov.ph",
+      "free": true
+    },
+    {
+      "title": "Manila Zoo Spring Special Programs",
+      "description": "マニラ動物園の春の特別プログラム。乳幼児向けアニマルミート&グリート、教育的なガイドツアー、インタラクティブな展示。子ども向けの楽しい体験が充実しています。",
+      "date": "4月上旬〜下旬",
+      "place": "Manila Zoo, Rizal Park, Manila",
+      "link": "https://manilaZoo.gov.ph",
+      "free": false
+    },
+    {
+      "title": "Makati Eco-Festival",
+      "description": "環境をテーマにした家族向けフェスティバル。子ども向けワークショップ、ネイチャーゲーム、農業体験、環境教育プログラムが多数開催されます。",
+      "date": "4月中旬",
+      "place": "Greenbelt Park, Makati City",
       "link": "",
       "free": true
     },
     {
-      "title": "マニラ動物園（Manila Zoo）春のキッズプログラム",
-      "description": "4月の乾季に動物園が特別な子ども向けガイドツアーやふれあいプログラムを実施。動物の生態学習と触れ合い体験が楽しめる。",
+      "title": "The Mind Museum Spring Programs",
+      "description": "子ども向けSTEAM教育施設のスプリングプログラム。対話型展示、科学実験ワークショップ、乳幼児向けスペース。季節限定の特別プログラムで新しい学習体験ができます。",
       "date": "4月上旬〜下旬",
-      "place": "マニラ動物園、リサール公園内、マニラ市",
-      "link": "https://www.manilazo.com/",
-      "free": false
-    },
-    {
-      "title": "リサール公園での無料ファミリーアクティビティ",
-      "description": "マニラ最大級の公園で、4月は天候が良く屋外活動に最適。遊び場、自転車レンタル、ピクニックエリアで家族でリラックスできます。",
-      "date": "4月通期（特に上旬〜中旬）",
-      "place": "リサール公園（Rizal Park）、マニラ市中心部",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "フィリピン国立博物館・子ども博物館展示",
-      "description": "インタラクティブな展示や子ども向けワークショップ。フィリピンの歴史・自然を学べます。4月は特別な春休み向けプログラムを実施。",
-      "date": "4月中旬〜下旬",
-      "place": "フィリピン国立博物館、パドレ・ファウラ通り、マニラ市",
-      "link": "https://nationalmuseum.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "キッザニア・マニラ（KidZania Manila）春の特別イベント",
-      "description": "子ども向けエデュテイメント施設での春の特別プログラム。職業体験やアクティビティが充実。4月は新学期イベント開催予定。",
-      "date": "4月上旬〜下旬",
-      "place": "キッザニア・マニラ、BGCサーキット、タギグ市",
-      "link": "https://www.kidzania.com.ph/",
+      "place": "The Mind Museum, BGC, Taguig City",
+      "link": "https://www.themindmuseum.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T12:41:59.171Z"
+  "updatedAt": "2026-04-14T13:34:01.658Z"
 }
