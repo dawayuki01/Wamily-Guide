@@ -71,7 +71,7 @@ async function main() {
     const spotsText = batch.map((s, idx) => `${idx + 1}. ${s.name}: ${s.desc}`).join('\n');
 
     const response = await anthropic.messages.create({
-      model: 'claude-3-5-haiku-20241022',
+      model: 'claude-3-haiku-20240307',
       max_tokens: 1024,
       messages: [{
         role: 'user',
