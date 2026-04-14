@@ -1,0 +1,19 @@
+name: Add Curation Bulk
+
+on:
+  workflow_dispatch:
+
+jobs:
+  add-curation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - name: Add curations to Notion
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_CURATION_DB_ID: ${{ secrets.NOTION_CURATION_DB_ID }}
+        run: node scripts/add-curation-bulk.js
