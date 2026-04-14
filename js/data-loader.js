@@ -135,7 +135,6 @@
           ${statusTag(spot)}
           ${freeTag}
           ${residentBadge}
-          <span class="spot-date">✓ サワディー確認済み（${spot.checkedDate}）</span>
         </div>
       </div>`;
   }
