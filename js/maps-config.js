@@ -5,4 +5,4 @@
       HTTPリファラー制限：dawayuki01.github.io/* に設定してください。
    ============================================================ */
 
-window.WAMILY_MAPS_KEY = 'AIzaSyAWC2bhIstqmmuvendCEBIUtavWTgyQshA';
+window.WAMILY_MAPS_KEY = 'AIzaSyArlL8Fe-QZU30wujkwfwjtkJcfFNpCCjI';
