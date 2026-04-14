@@ -22,7 +22,7 @@ jobs:
         with:
           node-version: '20'
 
-      - run: npm install @notionhq/client
+      - run: npm install
 
       - name: Run add-spots-bulk
         env:
