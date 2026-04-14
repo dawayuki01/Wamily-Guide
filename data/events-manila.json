@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "SMモール・オブ・アジア（MOA）イースターフェスティバル",
-      "description": "モール内でのイースターエッグハント、キャラクターグリーティング、子ども向けアクティビティが開催。家族で楽しめるショッピングモール内のイベント。",
-      "date": "4月上旬〜中旬",
-      "place": "SM Mall of Asia, Pasay City",
-      "link": "https://www.smmallofasia.com.ph/",
+      "title": "フィリピン・アース・デー（Earth Day）関連イベント",
+      "description": "4月22日前後、マニラの公園やモール内で環境保護をテーマにした子ども向けワークショップやエコクラフト体験が開催されます。家族で参加できる無料イベント。",
+      "date": "4月中旬〜下旬",
+      "place": "リサール公園（Rizal Park）、マニラ市内各地",
+      "link": "",
       "free": true
     },
     {
-      "title": "フィリピーノ・ヘリテージ・モンス（Araw ng Kagitingan）パレード",
-      "description": "4月9日はフィリピン独立記念日で、リサール公園周辺でパレード開催。伝統的な衣装や山車が見られ、フィリピン文化を学べます。",
-      "date": "4月9日前後",
-      "place": "Rizal Park, Manila",
+      "title": "マニラ動物園（Manila Zoo）春のキッズプログラム",
+      "description": "4月の乾季に動物園が特別な子ども向けガイドツアーやふれあいプログラムを実施。動物の生態学習と触れ合い体験が楽しめる。",
+      "date": "4月上旬〜下旬",
+      "place": "マニラ動物園、リサール公園内、マニラ市",
+      "link": "https://www.manilazo.com/",
+      "free": false
+    },
+    {
+      "title": "リサール公園での無料ファミリーアクティビティ",
+      "description": "マニラ最大級の公園で、4月は天候が良く屋外活動に最適。遊び場、自転車レンタル、ピクニックエリアで家族でリラックスできます。",
+      "date": "4月通期（特に上旬〜中旬）",
+      "place": "リサール公園（Rizal Park）、マニラ市中心部",
       "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "バタラン・カルチャラル・センター（BCC）キッズプログラム",
-      "description": "フィリピンの伝統工芸体験、ダンス教室、アート制作など子ども向けワークショップを開催。文化学習とクリエイティブ活動が同時に楽しめます。",
+      "title": "フィリピン国立博物館・子ども博物館展示",
+      "description": "インタラクティブな展示や子ども向けワークショップ。フィリピンの歴史・自然を学べます。4月は特別な春休み向けプログラムを実施。",
       "date": "4月中旬〜下旬",
-      "place": "Bayanihan Cultural Center, Quezon City",
-      "link": "https://bayanihanculturalcenter.org/",
+      "place": "フィリピン国立博物館、パドレ・ファウラ通り、マニラ市",
+      "link": "https://nationalmuseum.gov.ph/",
       "free": false
     },
     {
-      "title": "マニラ動物園（Manila Zoo）春シーズン",
-      "description": "4月の乾季は動物園訪問に最適な季節。新しい動物展示、キッズプレイエリア、餌やり体験などが楽しめます。屋外で自然を満喫できます。",
+      "title": "キッザニア・マニラ（KidZania Manila）春の特別イベント",
+      "description": "子ども向けエデュテイメント施設での春の特別プログラム。職業体験やアクティビティが充実。4月は新学期イベント開催予定。",
       "date": "4月上旬〜下旬",
-      "place": "Rizal Park, Manila",
-      "link": "https://manilazooph.com/",
+      "place": "キッザニア・マニラ、BGCサーキット、タギグ市",
+      "link": "https://www.kidzania.com.ph/",
       "free": false
-    },
-    {
-      "title": "アヤラモール・セントラルのスプリングキッズフェスタ",
-      "description": "子ども向けゲーム、工作ワークショップ、キャラクター撮影会が開催。屋内施設で安全に楽しめるファミリー向けイベント。",
-      "date": "4月中旬〜下旬",
-      "place": "Ayala Malls Central, Makati City",
-      "link": "https://www.ayalamalls.com.ph/",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T06:19:41.431Z"
+  "updatedAt": "2026-04-14T12:41:59.171Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港花卉展覧会（Hong Kong Flower Show）",
-      "description": "春の花々が満開の大規模な花卉展覧会。色とりどりの花壇、ガーデンディスプレイ、子ども向けワークショップなど。家族で春の香港を楽しめます。",
+      "title": "香港フラワーショー（Hong Kong Flower Show）",
+      "description": "春の花々が咲き誇る大規模な花の展示会。子どもが楽しめる庭園デザイン、蝶やトンボなど自然観察ができます。屋外での花見体験です。",
       "date": "4月中旬〜下旬",
-      "place": "ビクトリア公園（Victoria Park）、銅鑼灣",
-      "link": "https://www.hkharbourfest.gov.hk",
+      "place": "ビクトリアパーク（Victoria Park）、香港島銅鑼灣（Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk",
       "free": false
     },
     {
-      "title": "香港科学館の春の特別展示・プログラム",
-      "description": "春の特別科学プログラムや企画展。子ども向けハンズオン展示、実験デモンストレーション、家族科学教室など年間を通じ開催。",
-      "date": "4月通年",
-      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀",
-      "link": "https://www.lcsd.gov.hk/sc_chi/museums/science/",
-      "free": false
-    },
-    {
-      "title": "スターフェリーでの海上散歩と下町探索",
-      "description": "100年以上の歴史あるスターフェリーで香港ハーバーを横断。子どもも喜ぶ乗船体験。船上から絶景を楽しみ、歴史的な下町文化を感じられます。",
-      "date": "4月通年",
-      "place": "スターフェリー乗船所（中環・尖沙咀）",
-      "link": "https://www.starferry.com.hk",
-      "free": false
-    },
-    {
-      "title": "ビクトリア公園での無料户外活動と野外マーケット",
-      "description": "広大な公園で子どもも走り回ってリフレッシュ。週末の花卉市場やアート市など季節イベント開催。春の好天で家族ピクニックに最適。無料。",
-      "date": "4月全般（週末マーケット）",
-      "place": "ビクトリア公園（Victoria Park）、銅鑼灣",
-      "link": "https://www.lcsd.gov.hk/sc_chi/parks/vp/",
+      "title": "チムシャツイ プロムナード・スプリングフェスティバル",
+      "description": "チムシャツイ海沿いの遊歩道で開催されるスプリングイベント。子ども向けワークショップ、音楽パフォーマンス、屋外展示が無料で楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "チムシャツイ プロムナード（Tsim Sha Tsui Promenade）、九龍",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "香港動物園（香港ズー・アンド・ボタニカル・ガーデン）",
-      "description": "春の過ごしやすい気候で動物園散策に最適。ロープウェイで山上へ、多様な動物と出会える。子ども向けアクティビティやふれあい体験も実施。",
-      "date": "4月全般",
-      "place": "香港動物園・植物園（The Hong Kong Zoological & Botanical Gardens）、セントラル",
-      "link": "https://www.lcsd.gov.hk/sc_chi/parks/hkzbg/",
+      "title": "香港スペース博物館 春休みキッズプログラム",
+      "description": "科学実験や宇宙体験の特別ワークショップ。乳幼児から小学生向けの年齢別プログラムで、インタラクティブな学習が楽しめます。",
+      "date": "4月上旬〜下旬（春休み期間中）",
+      "place": "香港スペース博物館（Hong Kong Space Museum）、尖沙咀",
+      "link": "https://hk.space.museum",
+      "free": false
+    },
+    {
+      "title": "スターフェリー周辺・シーサイドウォーク",
+      "description": "ビクトリアハーバーを眺めながらのシーサイドウォーク。無料で楽しめる屋外アクティビティで、新鮮な海風、眺望、子連れ向けの休憩スポット充実。",
+      "date": "4月全期間",
+      "place": "スターフェリー乗降場周辺、チムシャツイ〜セントラル",
+      "link": "https://www.starferry.com.hk",
+      "free": true
+    },
+    {
+      "title": "香港動物園・春のふれあいプログラム",
+      "description": "動物たちとふれあえる期間限定のプログラム。乳幼児も参加できるグリーティングやフィーディング体験で、自然学習ができます。",
+      "date": "4月上旬〜下旬",
+      "place": "香港動物園（Hong Kong Zoo and Botanical Gardens）、セントラル",
+      "link": "https://www.lcsd.gov.hk/en/hkzbg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T06:20:13.687Z"
+  "updatedAt": "2026-04-14T12:42:30.588Z"
 }

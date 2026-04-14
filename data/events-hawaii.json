@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "マーチ・オブ・ダイムス・ウォーク・フォー・ベイビーズ（March of Dimes Walk for Babies）",
-      "description": "ハワイ全島で開催される慈善ウォーキングイベント。家族連れで参加でき、子どもたちも楽しめるお祭り雰囲気。軽装で楽しめる屋外活動で、ハワイの美しい景色を堪能できます。",
-      "date": "4月上旬",
-      "place": "オアフ島各所・アラモアナビーチパーク周辺",
-      "link": "https://www.marchofdimes.org",
-      "free": false
-    },
-    {
-      "title": "ハワイ・マーケット・フェスティバル（Hawaii Farmers Market Festivals）",
-      "description": "地元産の野菜、果物、フード、手工芸品を販売するマーケット。週末に複数の場所で開催。子どもたちがハワイの旬の食べ物を体験でき、ローカル文化を知る無料の楽しみ。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "オアフ島各地・ファーマーズマーケット（KCC Farmers Market など）",
-      "link": "https://www.honolulu.gov",
-      "free": true
-    },
-    {
-      "title": "スネイルス・ペイス・ファーム・パーティー（Snails Pace Farm）",
-      "description": "家族向けの農場体験プログラム。動物とのふれあい、季節の野菜や果物の収穫体験ができます。乳幼児から小学生まで楽しめるハンズオン活動です。",
-      "date": "4月上旬〜下旬（要確認）",
-      "place": "オアフ島南東部・農場エリア",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "ホノルル・ズー・スプリング・コンサート（Honolulu Zoo Spring Programs）",
-      "description": "ホノルル動物園の春の家族向けスペシャルプログラム。動物の教育的な展示や子ども向けワークショップが開催されます。屋外で動物を学べる貴重な経験。",
+      "title": "メリーモナークフェスティバル",
+      "description": "ハワイアン文化の最大級の祭典。フラダンスや音楽パレード、工芸品展示など家族向けプログラムが充実。子どもも参加できるワークショップあり。",
       "date": "4月上旬〜中旬",
-      "place": "ワイキキ・ホノルル動物園（151 Kapahulu Ave, Honolulu）",
-      "link": "https://www.honoluluzoo.org",
+      "place": "ホノルル市内各所（主にハワイ劇場ほか）",
+      "link": "https://www.merriemonarchfestival.org/",
       "free": false
     },
     {
-      "title": "アロア・プラザ・フェスティバル（Ala Moana Center Family Events）",
-      "description": "ショッピングセンターで開催される無料の家族向けイベント。ハワイアン文化ショー、キッズ向けワークショップ、音楽パフォーマンスなど。屋内なので天候に左右されません。",
-      "date": "4月中旬〜下旬（週末）",
-      "place": "アラモアナセンター（1450 Ala Moana Blvd, Honolulu）",
-      "link": "https://www.alamoanacenter.com",
+      "title": "ホノルル動物園の春の特別プログラム",
+      "description": "動物たちとふれあえるペッティングエリアや季節限定の教育プログラム。4月は春の花も美しく、子連れに最適。無料で楽しめる庭園エリアもあります。",
+      "date": "4月通年",
+      "place": "ワイキキ、ホノルル動物園、151 Kapahulu Ave",
+      "link": "https://www.honoluluzoo.org/",
+      "free": false
+    },
+    {
+      "title": "カイルア・ビーチでの海遊び＆無料ビーチプログラム",
+      "description": "ハワイで最も美しいビーチの一つ。浅瀬で安全に泳げ、子連れに最適。多くの週末に無料のビーチクリーンアップやレンジャープログラムが開催。",
+      "date": "4月通年（週末プログラム）",
+      "place": "カイルア・ビーチ公園、Kailua, HI 96734",
+      "link": "https://www.honolulu.gov/parks-recreation.html",
       "free": true
+    },
+    {
+      "title": "ワイキキ・シェルショー",
+      "description": "貝殻や海の生き物をテーマにした春の展示イベント。子どもが参加できるワークショップやクラフト体験。ビーチ沿いで無料エリアもあり。",
+      "date": "4月中旬〜下旬",
+      "place": "ワイキキ・ビーチセンター周辺",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "ビショップ博物館のファミリープログラム",
+      "description": "ハワイアン文化や自然史を学べる博物館。春休みに合わせた子ども向けワークショップや体験プログラムが充実。屋内なので雨の日にも最適。",
+      "date": "4月通年（週末プログラム）",
+      "place": "1525 Bernice St, Honolulu, HI 96817",
+      "link": "https://www.bishopmuseum.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T06:19:57.254Z"
+  "updatedAt": "2026-04-14T12:42:14.353Z"
 }

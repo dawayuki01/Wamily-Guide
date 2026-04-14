@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ春の花祭り（Florales de Paris）",
-      "description": "パリ各地の公園で春の花が満開。チューリップ、桜、牡丹など色とりどりの花が咲き誇り、家族で散策できます。写真撮影も最適です。",
+      "title": "パリのチューリップと春の花",
+      "description": "モネの庭やルーヴル周辺、テュイルリー公園で色鮮やかなチューリップと春の花が咲き誇ります。子どもと一緒に自然の美しさを楽しむ絶好の季節です。",
+      "date": "4月上旬〜下旬",
+      "place": "テュイルリー公園（Jardin des Tuileries）、ルーヴル美術館周辺",
+      "link": "https://www.louvre.fr",
+      "free": true
+    },
+    {
+      "title": "ラパリジェンヌ・マーケット（春の季節マーケット）",
+      "description": "パリ中心部で開催される春の市場。地元の食材、手工芸品、子ども向けおもちゃなどが並びます。パリの日常文化を体験できます。",
+      "date": "4月中旬〜下旬",
+      "place": "チャンゼリゼ通り周辺、またはマレ地区のマーケット",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "ミュゼ・グレヴァン（ろう人形館）の春フェスティバル",
+      "description": "有名人のろう人形が展示される施設。子どもが楽しめるインタラクティブなアトラクションや春イベントが開催される時期です。",
       "date": "4月上旬〜中旬",
-      "place": "バガテル庭園、モネ庭園など各地の公園",
-      "link": "https://www.parisinfo.com",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館『子ども向けワークショップ』",
-      "description": "4月は春の特別プログラムで、子ども向けの美術ワークショップや家族ツアーが開催されます。名画を学びながら創作体験ができます。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "ルーヴル美術館、Rue de Rivoli, 75004 Paris",
-      "link": "https://www.louvre.fr/en/visites-et-activites",
+      "place": "ミュゼ・グレヴァン、10 Boulevard Montmartre, 75009 Paris",
+      "link": "https://www.grevin.com",
       "free": false
     },
     {
-      "title": "シテ島の散策と春のセーヌ川クルーズ",
-      "description": "ノートルダム大聖堂周辺の春の風景を楽しみ、セーヌ川クルーズで家族で優雅な時間を過ごせます。屋外で新緑を満喫できるアクティビティです。",
-      "date": "4月上旬〜下旬（通年実施）",
-      "place": "シテ島、セーヌ川、Île de la Cité, 75004 Paris",
-      "link": "https://www.vedettesdupont-neuf.com",
+      "title": "セーヌ河畔でのレンタル自転車とサイクリング",
+      "description": "春のパリはサイクリングに最適。ヴェリブ（Vélib'）で子ども用座席付き自転車をレンタルし、セーヌ沿いや公園を巡るアクティビティを楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "セーヌ河畔全域、モンスリ公園周辺",
+      "link": "https://www.velib-metropole.fr",
       "free": false
     },
     {
-      "title": "パリ子ども博物館（Musée en Herbe）春の展示",
-      "description": "親子向けの美術館で4月は春をテーマにした体験型展示を開催。触って遊びながら学べるため、乳幼児から小学生まで楽しめます。",
-      "date": "4月全期間",
-      "place": "Musée en Herbe, 21 Rue Herold, 75001 Paris",
-      "link": "https://www.musee-en-herbe.com",
+      "title": "パリ・アクアリウム（Aquarium de Paris）の春ワークショップ",
+      "description": "子ども向けの海洋生物教育プログラムや餌やり体験が4月に特別開催されます。乳幼児から小学生まで楽しめる施設です。",
+      "date": "4月上旬〜下旬",
+      "place": "パリ・アクアリウム、Av. Albert 1er de Belgique, Trocadéro",
+      "link": "https://www.aquariumdeparis.com",
       "free": false
-    },
-    {
-      "title": "モンマルトルの散策と春の露店マーケット",
-      "description": "緑が美しくなるモンマルトルで春のフリマやマーケットが開催。アート、雑貨、地元グルメを楽しみながら散策でき、家族で無料で楽しめます。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "モンマルトル地区、Place du Tertre, 75018 Paris",
-      "link": "https://www.parisinfo.com/musees-monuments/montmartre",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T06:19:07.070Z"
+  "updatedAt": "2026-04-14T12:41:29.465Z"
 }

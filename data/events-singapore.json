@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Flower Festival（シンガポール・フラワー・フェスティバル）",
-      "description": "シンガポール植物園を舞台に開催される春の花祭り。色とりどりの花の展示、ワークショップ、家族向けのアクティビティが充実。子どもも花の美しさを楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Singapore Botanic Gardens（シンガポール植物園）、1 Cluny Road, Singapore 259569",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-gardens/singapore-botanic-gardens",
-      "free": false
-    },
-    {
-      "title": "East Coast Park Family Day & Activities（イーストコースト公園でのファミリーアクティビティ）",
-      "description": "シンガポール最大のビーチパークで開催される家族向けイベント。サイクリング、スケートボード教室、砂遊びなど屋外アクティビティが豊富。海風を感じながら親子で楽しめます。",
-      "date": "4月通期（週末中心）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-gardens/east-coast-park",
-      "free": true
-    },
-    {
-      "title": "S.E.A. Aquarium Kids Program（シーアクアリウム子ども向けプログラム）",
-      "description": "シンガポール最大の水族館で開催される子ども向け特別プログラム。タッチプール、スクーバダイビング体験、海の生き物について学べるワークショップが実施されます。",
-      "date": "4月通期",
-      "place": "S.E.A. Aquarium, Sentosa Island, 8 Sentosa Gateway, Singapore 098269",
-      "link": "https://www.seaaquarium.com.sg",
-      "free": false
-    },
-    {
-      "title": "Gardens by the Bay・Children's Garden Open Hours（ガーデンズ・バイ・ザ・ベイ キッズプログラム）",
-      "description": "未就学児向けの遊びながら学べる庭園エリア。エコ関連の親子ワークショップ、Supertree Groveの音と光のショーなど。家族みんなで楽しめます。",
-      "date": "4月通期",
+      "title": "Easter Celebrations at Gardens by the Bay",
+      "description": "イースター期間中、Gardens by the Bayでは子ども向けのイースターエッグハントや工作ワークショップが開催されます。花々に囲まれた園内で春の季節を感じながら家族で楽しめます。",
+      "date": "4月上旬〜中旬",
       "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "Taman Jurong Park & Free Community Events（タマン・ジュロン公園での無料コミュニティイベント）",
-      "description": "地元向けの家族向けイベントが開催される公園。ピクニック、散策、季節の自然観察が無料で楽しめます。シンガポール市民の日常を体験できます。",
-      "date": "4月通期（週末中心）",
-      "place": "Taman Jurong Park, Jurong East Street 31, Singapore 609778",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-gardens/taman-jurong-park",
+      "title": "Chingay Parade（チンゲイパレード）- 春の屋外アクティビティ",
+      "description": "シンガポール最大規模の通り祭り。カラフルな山車やパフォーマンスが見られます。4月は祭りシーズンで、子どもたちも街の活気を体験できます。",
+      "date": "4月（日程は毎年変動）",
+      "place": "Padang Road, Stamford Road, Singapore",
+      "link": "https://www.chingay.com.sg",
       "free": true
+    },
+    {
+      "title": "Singapore Zoo Spring Activities",
+      "description": "シンガポール動物園では春休み期間に子ども向けの教育プログラムやアニマルトークが増加。乳幼児から小学生まで動物とのふれあいが楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.com.sg",
+      "free": false
+    },
+    {
+      "title": "East Coast Park - Family Beach Activities",
+      "description": "4月は天気が良く、ビーチでの家族向けアクティビティに最適。無料で楽しめる砂浜での遊びや、安全な遊泳エリアで子どもたちが水遊びできます。",
+      "date": "4月中旬〜下旬",
+      "place": "East Coast Park, East Coast Parkway, Singapore 1544",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "Science Centre Singapore - School Holiday Programmes",
+      "description": "春休み期間中、サイエンスセンターでは子ども向けの特別ワークショップやインタラクティブ展示プログラムが充実。STEM学習を楽しく体験できます。",
+      "date": "4月上旬〜中旬",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T06:19:25.621Z"
+  "updatedAt": "2026-04-14T12:41:43.710Z"
 }

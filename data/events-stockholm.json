@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立美術館のイースターイベント",
-      "description": "イースター時期の子ども向け特別プログラム。アートワークショップ、イースターエッグハント、家族向け展示ツアーなど、小さな子どもから楽しめる企画が開催されます。",
-      "date": "4月上旬〜中旬",
-      "place": "Nationalmuseum Stockholm, Södra Blasieholmshamnen 2, 111 48 Stockholm",
+      "title": "スウェーデン国立博物館の春季特別展示と家族向けプログラム",
+      "description": "スウェーデン文化や美術を学べる春の特別展示。子ども向けワークショップやガイドツアーが開催され、家族で楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Nationalmuseum Stockholm, Södra Blasieholmen, Stockholm",
       "link": "https://www.nationalmuseum.se/",
       "free": false
     },
     {
-      "title": "スキャンセン野外博物館の春のオープニング",
-      "description": "スウェーデン伝統建築とヨーロッパ動物園。春の開園時期に家族向けプログラムが充実。動物との触れ合い、伝統工芸体験、乗馬など子どもに人気のアクティビティが多数。",
+      "title": "ストックホルムのチューリップと春の花祭り（Kungsträdgården）",
+      "description": "ストックホルムの春を彩るチューリップやさくらが咲き誇ります。無料で散策でき、家族連れに人気の美しい公園です。",
       "date": "4月中旬〜下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/en",
+      "place": "Kungsträdgården, Norrmalm, Stockholm",
+      "link": "https://www.kungstradgarden.se/",
+      "free": true
+    },
+    {
+      "title": "スカンセン野外博物館の春季動物観察と伝統文化体験",
+      "description": "北欧の野外博物館で、春の動物たち（仔鹿やヒナ鳥など）の観察と、伝統的なスウェーデン建築・工芸体験ができます。",
+      "date": "4月全期間",
+      "place": "Skansen, Djurgården, Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ドルトシェルムの宮殿庭園の春景観散策",
-      "description": "王妃の離宮。4月下旬に桜とチューリップが見頃。庭園散策は無料で、アップダウンが少ないため乳幼児連れに優しい。広大な庭園で子どもも安全に遊べます。",
-      "date": "4月下旬",
-      "place": "Drottningholm Palace Gardens, 178 02 Drottningholm",
-      "link": "https://www.royalpalaces.se/en/drottningholm-palace",
+      "title": "ジュルゴーデン島の春の屋外散策と自然遊び",
+      "description": "王妃の庭園がある島で、春の自然を感じながら無料で家族で散策。子ども向けの遊び場やピクニックエリアも充実しています。",
+      "date": "4月全期間",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.stockholm.se/en/djurgarden/",
       "free": true
     },
     {
-      "title": "ユーランダー島のアウトドアアクティビティ",
-      "description": "ストックホルム近郊の離島。春の陽気の中、トレッキング、自転車、ピクニックが人気。家族向けの短いコース多数。フェリーでのアクセスで冒険気分が味わえます。",
-      "date": "4月中旬〜下旬",
-      "place": "Ursholmen or Fjäderholmarna islands, Stockholm Archipelago",
-      "link": "https://www.visitstockholm.com/",
-      "free": true
-    },
-    {
-      "title": "北欧子ども博物館（ノーディスカ博物館）の春企画展",
-      "description": "北欧の子どもに関する文化・歴史を展示。春の特別展示プログラムでは、季節テーマのワークショップや対話型展示が開催され、子どもの発見と学習を促します。",
+      "title": "北欧児童博物館（Junibacken）の春季プログラムと物語の世界",
+      "description": "スウェーデン児童文学の世界を体験できる施設。春季限定のインタラクティブ展示やステージパフォーマンスで、幅広い年齢の子どもが楽しめます。",
       "date": "4月上旬〜下旬",
-      "place": "Nordiska museet, Djurgårdsvägen 6-16, 115 93 Stockholm",
-      "link": "https://www.nordiskamuseet.se/en",
+      "place": "Junibacken, Galärvarvsvägen 14, Djurgården, Stockholm",
+      "link": "https://www.junibacken.se/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T06:19:16.455Z"
+  "updatedAt": "2026-04-14T12:41:36.172Z"
 }

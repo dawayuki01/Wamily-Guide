@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles Times Festival of Books",
-      "description": "南カリフォルニア大学キャンパスで開催される北米最大の書籍フェスティバル。子ども向けの読書ワークショップ、キャラクター会見、インタラクティブゲームが豊富で、家族連れに最適です。",
-      "date": "4月中旬（2026年は4月18-19日予定）",
-      "place": "University of Southern California, Los Angeles, CA 90089",
-      "link": "https://www.latimesfestivalofbooks.com",
-      "free": true
-    },
-    {
-      "title": "Spring Flower Blooms at Descanso Gardens",
-      "description": "160エーカーの美しい庭園で、春の花々（桜、チューリップ、ラッパスイセン）が咲き誇ります。子ども向けのトレイル散策やピクニック、季節の自然学習に最適な屋外スポット。",
+      "title": "ロサンゼルス・フラワー・フェスティバル",
+      "description": "春の花々を楽しむフェスティバル。チューリップやバラの展示、ガーデニング教室、キッズクラフトなどが開催される季節限定イベント。",
       "date": "4月上旬〜中旬",
-      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org",
+      "place": "ロサンゼルス・トラスト・フォー・パブリック・ランド（LA County Arboretum & Botanic Garden）",
+      "link": "https://www.arboretum.org",
       "free": false
     },
     {
-      "title": "Griffith Observatory Spring Programs",
-      "description": "グリフィス天文台の春季子ども向けプログラム。昼間の太陽観察、星空教室、プラネタリウム投影など、天文学を楽しく学べます。無料入場・有料プログラムあり。",
-      "date": "4月通年実施",
-      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "title": "オリーバー・エヴァンス パークの春祭り",
+      "description": "無料で楽しめるコミュニティ春祭り。ライブ音楽、フードベンダー、子ども向けゲーム、面白い乗り物などが開催される。",
+      "date": "4月中旬〜下旬（毎週末）",
+      "place": "Oliver Evans Park, Los Angeles, CA",
+      "link": "",
       "free": true
     },
     {
-      "title": "Santa Monica Pier Spring Carnival & Activities",
-      "description": "サンタモニカピアで開催される春のカーニバル。アミューズメント乗り物、海岸散策、子ども向けゲーム、ビーチアクティビティが楽しめます。屋外海辺での家族向けエンターテイメント。",
-      "date": "4月通年（特にイースター期間に強化）",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
+      "title": "グリフィス・パークのハイキングと野外アクティビティ",
+      "description": "4月は天候が安定し、ハイキングに最適。子ども向けトレイルが複数あり、野生動物観察やピクニックが楽しめる無料スポット。",
+      "date": "4月全期間（通年開放）",
+      "place": "Griffith Park, Los Angeles, CA 90027",
+      "link": "https://www.laparks.org/griffith-park",
       "free": true
     },
     {
-      "title": "Los Angeles Zoo Spring Enrichment Programs",
-      "description": "ロサンゼルス動物園の春季プログラム。子ども向けの動物との相互作用、飼育員ガイドツアー、春生まれの動物たちの観察など、教育的で楽しい体験が充実。",
-      "date": "4月通年実施",
-      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "title": "ロサンゼルス自然史博物館の春特別展示",
+      "description": "期間限定の子ども向け特別展示。恐竜、昆虫、自然科学などのテーマで、インタラクティブなラーニングプログラムを開催。",
+      "date": "4月全期間",
+      "place": "Los Angeles Natural History Museum, 900 W Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org",
       "free": false
+    },
+    {
+      "title": "サンタモニカ・ピアのスプリング・フェスティバル",
+      "description": "海辺でのファミリーフェスティバル。ライブパフォーマンス、フードベンダー、キッズゲーム、メリーゴーラウンド乗車が楽しめる。",
+      "date": "4月中旬〜下旬（週末）",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T06:19:48.713Z"
+  "updatedAt": "2026-04-14T12:42:06.425Z"
 }
