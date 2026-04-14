@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・チューリップ・フェスティバル",
-      "description": "シンガポール植物園で開催される春の花の祭典。色とりどりのチューリップが咲き誇り、家族向けワークショップやガイドツアーが楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road",
-      "link": "https://www.nparks.gov.sg/sbg",
+      "title": "Singapore Flower Festival（シンガポール・フラワー・フェスティバル）",
+      "description": "シンガポール植物園を舞台に開催される春の花祭り。色とりどりの花の展示、ワークショップ、家族向けのアクティビティが充実。子どもも花の美しさを楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "Singapore Botanic Gardens（シンガポール植物園）、1 Cluny Road, Singapore 259569",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-gardens/singapore-botanic-gardens",
       "free": false
     },
     {
-      "title": "セントーサ・イースター・エッグ・ハント",
-      "description": "セントーサ島内の複数施設でイースター期間中に開催。子どもたちがカラフルな卵を探し、景品をゲット。屋外アクティビティで家族向け。",
-      "date": "4月中旬～下旬（イースター時期）",
-      "place": "セントーサ島（Sentosa Island）各施設",
-      "link": "https://www.sentosa.com.sg",
-      "free": false
-    },
-    {
-      "title": "シンガポール動物園・スプリング・ファン・デー",
-      "description": "春限定の特別プログラム。動物ガイドツアーやハンズオンアクティビティで、子どもたちが動物について学べます。教育的で楽しい体験。",
-      "date": "4月全体（時期は園に確認）",
-      "place": "シンガポール動物園（Singapore Zoo）、80 Mandai Lake Road",
-      "link": "https://www.wrs.com.sg",
-      "free": false
-    },
-    {
-      "title": "イースト・コースト・パーク・ファミリー・ピクニック・デー",
-      "description": "イースト・コースト・パークで開催される無料のコミュニティイベント。公園でのピクニックや家族向けアクティビティ、ビーチ遊びが楽しめます。",
-      "date": "4月中旬の週末",
-      "place": "イースト・コースト・パーク（East Coast Park）",
-      "link": "https://www.nparks.gov.sg/ecp",
+      "title": "East Coast Park Family Day & Activities（イーストコースト公園でのファミリーアクティビティ）",
+      "description": "シンガポール最大のビーチパークで開催される家族向けイベント。サイクリング、スケートボード教室、砂遊びなど屋外アクティビティが豊富。海風を感じながら親子で楽しめます。",
+      "date": "4月通期（週末中心）",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-gardens/east-coast-park",
       "free": true
     },
     {
-      "title": "チャイナタウン・ヘリテージ・フェスティバル無料ツアー",
-      "description": "チャイナタウンの文化と歴史を学べる無料のガイドツアー。子ども向けに分かりやすく、シンガポールの多文化を体験できます。",
-      "date": "4月全体（毎月実施）",
-      "place": "チャイナタウン・ヘリテージ・センター、48 Pagoda Street",
-      "link": "https://www.chinatownheritagecentre.com.sg",
+      "title": "S.E.A. Aquarium Kids Program（シーアクアリウム子ども向けプログラム）",
+      "description": "シンガポール最大の水族館で開催される子ども向け特別プログラム。タッチプール、スクーバダイビング体験、海の生き物について学べるワークショップが実施されます。",
+      "date": "4月通期",
+      "place": "S.E.A. Aquarium, Sentosa Island, 8 Sentosa Gateway, Singapore 098269",
+      "link": "https://www.seaaquarium.com.sg",
+      "free": false
+    },
+    {
+      "title": "Gardens by the Bay・Children's Garden Open Hours（ガーデンズ・バイ・ザ・ベイ キッズプログラム）",
+      "description": "未就学児向けの遊びながら学べる庭園エリア。エコ関連の親子ワークショップ、Supertree Groveの音と光のショーなど。家族みんなで楽しめます。",
+      "date": "4月通期",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg",
+      "free": false
+    },
+    {
+      "title": "Taman Jurong Park & Free Community Events（タマン・ジュロン公園での無料コミュニティイベント）",
+      "description": "地元向けの家族向けイベントが開催される公園。ピクニック、散策、季節の自然観察が無料で楽しめます。シンガポール市民の日常を体験できます。",
+      "date": "4月通期（週末中心）",
+      "place": "Taman Jurong Park, Jurong East Street 31, Singapore 609778",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-gardens/taman-jurong-park",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:26:38.591Z"
+  "updatedAt": "2026-04-14T06:19:25.621Z"
 }

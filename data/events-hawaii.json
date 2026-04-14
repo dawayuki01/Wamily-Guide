@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ハワイ・フィルム・フェスティバル",
-      "description": "家族向けの映画上映やワークショップが開催される国際映画祭。子どもも楽しめるコンテンツが多く、ハワイの文化を学べます。",
-      "date": "4月中旬〜下旬",
-      "place": "ホノルル、イーストウエストセンター等複数会場",
-      "link": "https://www.hawaiifilmfestival.org/",
+      "title": "マーチ・オブ・ダイムス・ウォーク・フォー・ベイビーズ（March of Dimes Walk for Babies）",
+      "description": "ハワイ全島で開催される慈善ウォーキングイベント。家族連れで参加でき、子どもたちも楽しめるお祭り雰囲気。軽装で楽しめる屋外活動で、ハワイの美しい景色を堪能できます。",
+      "date": "4月上旬",
+      "place": "オアフ島各所・アラモアナビーチパーク周辺",
+      "link": "https://www.marchofdimes.org",
       "free": false
     },
     {
-      "title": "スプラッシュパッド・ウォータープレイグラウンド",
-      "description": "カカアコ地区の無料水遊び広場。4月の温かい気候で乳幼児〜子どもが安全に水遊びを楽しめ、地元ファミリーに人気です。",
-      "date": "4月通年",
-      "place": "Kakaako Waterfront Park, ホノルル",
-      "link": "",
+      "title": "ハワイ・マーケット・フェスティバル（Hawaii Farmers Market Festivals）",
+      "description": "地元産の野菜、果物、フード、手工芸品を販売するマーケット。週末に複数の場所で開催。子どもたちがハワイの旬の食べ物を体験でき、ローカル文化を知る無料の楽しみ。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "オアフ島各地・ファーマーズマーケット（KCC Farmers Market など）",
+      "link": "https://www.honolulu.gov",
       "free": true
     },
     {
-      "title": "ダイヤモンドヘッド・ハイキング",
-      "description": "オアフ島の象徴的なハイキング。4月は気候が良く、約30分で頂上到達可能。小学生向けの屋外アクティビティに最適です。",
-      "date": "4月通年（早朝推奨）",
-      "place": "Diamond Head State Monument, ホノルル",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "title": "スネイルス・ペイス・ファーム・パーティー（Snails Pace Farm）",
+      "description": "家族向けの農場体験プログラム。動物とのふれあい、季節の野菜や果物の収穫体験ができます。乳幼児から小学生まで楽しめるハンズオン活動です。",
+      "date": "4月上旬〜下旬（要確認）",
+      "place": "オアフ島南東部・農場エリア",
+      "link": "",
       "free": false
     },
     {
-      "title": "ハワイ子どもの博物館の春イベント",
-      "description": "ハンズオン体験で学べる博物館。4月は春の特別プログラムやワークショップが充実。乳幼児〜小学生向けの多彩な展示があります。",
-      "date": "4月通年",
-      "place": "Hawaii Children's Discovery Center, ホノルル",
-      "link": "https://www.discoverycenterhawaii.org/",
+      "title": "ホノルル・ズー・スプリング・コンサート（Honolulu Zoo Spring Programs）",
+      "description": "ホノルル動物園の春の家族向けスペシャルプログラム。動物の教育的な展示や子ども向けワークショップが開催されます。屋外で動物を学べる貴重な経験。",
+      "date": "4月上旬〜中旬",
+      "place": "ワイキキ・ホノルル動物園（151 Kapahulu Ave, Honolulu）",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "カイルア・ビーチでの無料ファミリー・デー",
-      "description": "オアフ島で最も美しいビーチ。4月は温暖で海水浴に最適。浅瀬が広く子連れに人気。無料で家族全員で楽しめます。",
-      "date": "4月通年",
-      "place": "Kailua Beach Park, カイルア",
-      "link": "https://www.honolulu.gov/parks-recreation.html",
+      "title": "アロア・プラザ・フェスティバル（Ala Moana Center Family Events）",
+      "description": "ショッピングセンターで開催される無料の家族向けイベント。ハワイアン文化ショー、キッズ向けワークショップ、音楽パフォーマンスなど。屋内なので天候に左右されません。",
+      "date": "4月中旬〜下旬（週末）",
+      "place": "アラモアナセンター（1450 Ala Moana Blvd, Honolulu）",
+      "link": "https://www.alamoanacenter.com",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:27:10.105Z"
+  "updatedAt": "2026-04-14T06:19:57.254Z"
 }

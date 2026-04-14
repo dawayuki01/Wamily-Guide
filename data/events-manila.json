@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パスクア（イースター）関連イベント",
-      "description": "フィリピンの重要な宗教行事。パーム・サンデーのパレードやホーリー・ウィーク期間中、子ども向けの宗教的アクティビティやパーティが各地で開催されます。",
-      "date": "4月上旬〜中旬（2026年4月5日前後）",
-      "place": "マニラ大聖堂周辺、イントラムロス地区",
-      "link": "https://www.tourism.gov.ph",
+      "title": "SMモール・オブ・アジア（MOA）イースターフェスティバル",
+      "description": "モール内でのイースターエッグハント、キャラクターグリーティング、子ども向けアクティビティが開催。家族で楽しめるショッピングモール内のイベント。",
+      "date": "4月上旬〜中旬",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
       "free": true
     },
     {
-      "title": "フィリピン・バタフライ・サンクチュアリ（蝶の園）",
-      "description": "バタンガス州にあるカラフルな蝶が放飼された施設。子どもが蝶との接触体験ができ、自然学習に最適。乳幼児も楽しめます。",
-      "date": "4月通年営業（但し午前中訪問推奨）",
-      "place": "Enchanted Kingdom nearby, Nasugbu, Batangas",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "マニラ動物園 春の特別プログラム",
-      "description": "フィリピンの伝統的な動物園で、4月に子ども向けの教育プログラムやふれあい体験が増強されます。多くの動物と接触できます。",
-      "date": "4月通期",
-      "place": "Manila Zoo, Padre Faura St., Ermita, Manila",
-      "link": "https://manilazoo.gov.ph",
-      "free": false
-    },
-    {
-      "title": "スター・シティ（遊園地）春キャンペーン",
-      "description": "マニラ最大級の遊園地。4月の夏休みシーズン向けに子ども向けライドやアトラクションの特別割引キャンペーンを実施しています。",
-      "date": "4月通期",
-      "place": "Sarao Road, North Fairview, Quezon City",
-      "link": "https://www.star-city.com.ph",
-      "free": false
-    },
-    {
-      "title": "リサール公園 屋外ピクニック・教育プログラム",
-      "description": "マニラの中心部にある広大な公園。4月は天気が良く、無料でピクニックや散策が楽しめます。フィリピン国立博物館も隣接。",
-      "date": "4月通期（午前中推奨）",
+      "title": "フィリピーノ・ヘリテージ・モンス（Araw ng Kagitingan）パレード",
+      "description": "4月9日はフィリピン独立記念日で、リサール公園周辺でパレード開催。伝統的な衣装や山車が見られ、フィリピン文化を学べます。",
+      "date": "4月9日前後",
       "place": "Rizal Park, Manila",
-      "link": "https://www.tourism.gov.ph",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "バタラン・カルチャラル・センター（BCC）キッズプログラム",
+      "description": "フィリピンの伝統工芸体験、ダンス教室、アート制作など子ども向けワークショップを開催。文化学習とクリエイティブ活動が同時に楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "Bayanihan Cultural Center, Quezon City",
+      "link": "https://bayanihanculturalcenter.org/",
+      "free": false
+    },
+    {
+      "title": "マニラ動物園（Manila Zoo）春シーズン",
+      "description": "4月の乾季は動物園訪問に最適な季節。新しい動物展示、キッズプレイエリア、餌やり体験などが楽しめます。屋外で自然を満喫できます。",
+      "date": "4月上旬〜下旬",
+      "place": "Rizal Park, Manila",
+      "link": "https://manilazooph.com/",
+      "free": false
+    },
+    {
+      "title": "アヤラモール・セントラルのスプリングキッズフェスタ",
+      "description": "子ども向けゲーム、工作ワークショップ、キャラクター撮影会が開催。屋内施設で安全に楽しめるファミリー向けイベント。",
+      "date": "4月中旬〜下旬",
+      "place": "Ayala Malls Central, Makati City",
+      "link": "https://www.ayalamalls.com.ph/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:26:55.190Z"
+  "updatedAt": "2026-04-14T06:19:41.431Z"
 }

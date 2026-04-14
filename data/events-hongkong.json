@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港チューリップフェスティバル",
-      "description": "ビクトリア公園で開催される春の花祭り。色とりどりのチューリップが咲き誇り、家族で散策できます。写真撮影スポットも充実。",
-      "date": "4月上旬〜中旬",
+      "title": "香港花卉展覧会（Hong Kong Flower Show）",
+      "description": "春の花々が満開の大規模な花卉展覧会。色とりどりの花壇、ガーデンディスプレイ、子ども向けワークショップなど。家族で春の香港を楽しめます。",
+      "date": "4月中旬〜下旬",
       "place": "ビクトリア公園（Victoria Park）、銅鑼灣",
-      "link": "https://www.lcsd.gov.hk/",
+      "link": "https://www.hkharbourfest.gov.hk",
+      "free": false
+    },
+    {
+      "title": "香港科学館の春の特別展示・プログラム",
+      "description": "春の特別科学プログラムや企画展。子ども向けハンズオン展示、実験デモンストレーション、家族科学教室など年間を通じ開催。",
+      "date": "4月通年",
+      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀",
+      "link": "https://www.lcsd.gov.hk/sc_chi/museums/science/",
+      "free": false
+    },
+    {
+      "title": "スターフェリーでの海上散歩と下町探索",
+      "description": "100年以上の歴史あるスターフェリーで香港ハーバーを横断。子どもも喜ぶ乗船体験。船上から絶景を楽しみ、歴史的な下町文化を感じられます。",
+      "date": "4月通年",
+      "place": "スターフェリー乗船所（中環・尖沙咀）",
+      "link": "https://www.starferry.com.hk",
+      "free": false
+    },
+    {
+      "title": "ビクトリア公園での無料户外活動と野外マーケット",
+      "description": "広大な公園で子どもも走り回ってリフレッシュ。週末の花卉市場やアート市など季節イベント開催。春の好天で家族ピクニックに最適。無料。",
+      "date": "4月全般（週末マーケット）",
+      "place": "ビクトリア公園（Victoria Park）、銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/sc_chi/parks/vp/",
       "free": true
     },
     {
-      "title": "香港ディズニーランド春のスペシャルイベント",
-      "description": "春限定のパレードやキャラクターグリーティング、子ども向けアトラクションの特別運営。桜の装飾で園内を彩ります。",
-      "date": "4月中旬〜下旬",
-      "place": "香港ディズニーランド、ランタオ島",
-      "link": "https://www.hongkongdisneyland.com/",
+      "title": "香港動物園（香港ズー・アンド・ボタニカル・ガーデン）",
+      "description": "春の過ごしやすい気候で動物園散策に最適。ロープウェイで山上へ、多様な動物と出会える。子ども向けアクティビティやふれあい体験も実施。",
+      "date": "4月全般",
+      "place": "香港動物園・植物園（The Hong Kong Zoological & Botanical Gardens）、セントラル",
+      "link": "https://www.lcsd.gov.hk/sc_chi/parks/hkzbg/",
       "free": false
-    },
-    {
-      "title": "スターフェリー乗車体験＆ハーバークルーズ",
-      "description": "香港を代表する交通手段のスターフェリーで海上散歩。ビクトリアハーバーの景色を楽しめ、子どもも喜ぶアクティビティです。",
-      "date": "4月通年可能",
-      "place": "スターフェリー（中環〜尖沙咀間）",
-      "link": "https://www.starferry.com.hk/",
-      "free": false
-    },
-    {
-      "title": "香港動物園での春季プログラム",
-      "description": "子ども向けの動物ふれあいタイム・教育プログラムが充実。パンダやレッサーパンダなど人気動物との春の特別体験。",
-      "date": "4月中旬〜下旬",
-      "place": "香港動物園（Hong Kong Zoo）、セントラル",
-      "link": "https://www.lcsd.gov.hk/en/healthy/zoo/index.html",
-      "free": false
-    },
-    {
-      "title": "スターアベニュー屋外マーケット",
-      "description": "春限定の手工芸品・子ども向けおもちゃ市。地元の親子連れで賑わい、工作体験コーナーもあります。無料で見学・散策できます。",
-      "date": "4月中旬",
-      "place": "スターアベニュー周辺マーケット、銅鑼灣",
-      "link": "",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:27:24.448Z"
+  "updatedAt": "2026-04-14T06:20:13.687Z"
 }

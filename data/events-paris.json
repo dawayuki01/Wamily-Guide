@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリのチューリップ開花シーズン",
-      "description": "ルクセンブルク公園やジャルダン・デ・プラント（植物園）でカラフルなチューリップが満開。子どもも楽しめる広大な庭園で花を鑑賞できます。",
+      "title": "パリ春の花祭り（Florales de Paris）",
+      "description": "パリ各地の公園で春の花が満開。チューリップ、桜、牡丹など色とりどりの花が咲き誇り、家族で散策できます。写真撮影も最適です。",
       "date": "4月上旬〜中旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ6区",
-      "link": "https://www.paris.fr",
+      "place": "バガテル庭園、モネ庭園など各地の公園",
+      "link": "https://www.parisinfo.com",
       "free": true
     },
     {
-      "title": "Foire du Trône（トローン市場）",
-      "description": "春の大型縁日。観覧車、キャラクター乗り物、お化け屋敷など子ども向けアトラクションが豊富。ポップコーンなどの食べ物も楽しめます。",
-      "date": "4月中旬〜5月下旬",
-      "place": "パリ12区 Bois de Vincennes",
-      "link": "https://www.foiredutrone.com",
+      "title": "ルーヴル美術館『子ども向けワークショップ』",
+      "description": "4月は春の特別プログラムで、子ども向けの美術ワークショップや家族ツアーが開催されます。名画を学びながら創作体験ができます。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "ルーヴル美術館、Rue de Rivoli, 75004 Paris",
+      "link": "https://www.louvre.fr/en/visites-et-activites",
       "free": false
     },
     {
-      "title": "セーヌ川クルーズ",
-      "description": "春のセーヌ川沿いは新緑が美しい季節。子ども向けクルーズ船で、パリの主要な橋や建築物を水からの視点で観賞できます。",
+      "title": "シテ島の散策と春のセーヌ川クルーズ",
+      "description": "ノートルダム大聖堂周辺の春の風景を楽しみ、セーヌ川クルーズで家族で優雅な時間を過ごせます。屋外で新緑を満喫できるアクティビティです。",
+      "date": "4月上旬〜下旬（通年実施）",
+      "place": "シテ島、セーヌ川、Île de la Cité, 75004 Paris",
+      "link": "https://www.vedettesdupont-neuf.com",
+      "free": false
+    },
+    {
+      "title": "パリ子ども博物館（Musée en Herbe）春の展示",
+      "description": "親子向けの美術館で4月は春をテーマにした体験型展示を開催。触って遊びながら学べるため、乳幼児から小学生まで楽しめます。",
       "date": "4月全期間",
-      "place": "ノートルダム地区、セーヌ川（ユネスコ世界遺産）",
-      "link": "https://www.vedettes-du-pont-neuf.com",
+      "place": "Musée en Herbe, 21 Rue Herold, 75001 Paris",
+      "link": "https://www.musee-en-herbe.com",
       "free": false
     },
     {
-      "title": "パリ科学館での春休みスペシャルプログラム",
-      "description": "乳幼児から小学生向けの体験型展示。宇宙、恐竜、物理など子どもが学べるワークショップやプラネタリウムが開催されます。",
-      "date": "4月全期間",
-      "place": "Cité des Sciences et de l'Industrie（パリ19区）",
-      "link": "https://www.cite-sciences.fr",
-      "free": false
-    },
-    {
-      "title": "イースターマーケット・イースターハント",
-      "description": "2026年4月5日がイースター。シャンゼリゼ周辺やデパートで卵型チョコレートを探す宝探しイベント。家族向けパレードも開催されます。",
-      "date": "4月上旬（イースター時期）",
-      "place": "シャンゼリゼ通り、パリ8区及び主要デパート",
-      "link": "",
+      "title": "モンマルトルの散策と春の露店マーケット",
+      "description": "緑が美しくなるモンマルトルで春のフリマやマーケットが開催。アート、雑貨、地元グルメを楽しみながら散策でき、家族で無料で楽しめます。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "モンマルトル地区、Place du Tertre, 75018 Paris",
+      "link": "https://www.parisinfo.com/musees-monuments/montmartre",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:26:23.701Z"
+  "updatedAt": "2026-04-14T06:19:07.070Z"
 }
