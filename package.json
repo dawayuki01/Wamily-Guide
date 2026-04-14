@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
     "@notionhq/client": "^2.2.15",
     "serve": "^14.2.6"
   }

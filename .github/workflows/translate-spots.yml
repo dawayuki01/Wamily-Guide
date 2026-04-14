@@ -1,0 +1,37 @@
+name: Translate Spots
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'ドライラン（Notion更新なし）'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      - name: Run translate-spots
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTION_SPOTS_DB_ID: ${{ secrets.NOTION_SPOTS_DB_ID }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node scripts/translate-spots.js --dry-run
+          else
+            node scripts/translate-spots.js
+          fi
