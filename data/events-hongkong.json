@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フローラル・ディスプレイ・コンテスト",
-      "description": "春の花々で装飾された香港各地。ビクトリア公園で数百万本の花が展示され、色とりどりの庭園を家族で探索できます。写真撮影に最適な季節のイベント。",
-      "date": "4月中旬〜下旬",
-      "place": "ビクトリア公園（Victoria Park）、銅鑼湾（Causeway Bay）",
-      "link": "https://www.discoverhongkong.com",
-      "free": true
-    },
-    {
-      "title": "香港子ども映画祭（Hong Kong International Children's Film Festival）",
-      "description": "世界中の子ども向け映画が上映される専門映画祭。乳幼児から小学生向けの作品が多数選定され、家族で楽しめるプログラムが充実しています。",
+      "title": "香港花卉展覧会（Hong Kong Flower Show）",
+      "description": "春の花々が美しく展示される香港最大級のフラワーショー。子どもも楽しめる花の装飾迷路やフォトスポット、ワークショップなど家族向けプログラムが充実しています。",
       "date": "4月上旬〜中旬",
-      "place": "香港各地の映画館（詳細は公式発表）",
-      "link": "https://www.hkicff.org",
+      "place": "ビクトリア・パーク（Victoria Park）、銅鑼湾",
+      "link": "https://www.lcsd.gov.hk/tc/events/hkflowershow.html",
       "free": false
     },
     {
-      "title": "スターフェリーでのベイクルーズと海沿いウォーキング",
-      "description": "ビクトリア湾を渡る伝統的なスターフェリーは子どもにも人気。2階デッキから香港の象徴的な景観を眺められます。春の快適な気候で家族向けのアクティビティに最適。",
-      "date": "4月通年",
-      "place": "スターフェリー乗車地点、中環〜尖沙咀間（Central - Tsim Sha Tsui）",
-      "link": "https://www.starferry.com.hk",
-      "free": false
-    },
-    {
-      "title": "香港科学館・スペシャルエキシビション",
-      "description": "常設展示に加え、春季の特別展示プログラムが開催。インタラクティブな体験を通じて子どもの科学への興味を引き出せます。屋内で快適に楽しめます。",
-      "date": "4月通年",
-      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀（Tsim Sha Tsui）",
-      "link": "https://www.lcsd.gov.hk/en/scm",
-      "free": false
-    },
-    {
-      "title": "スターライト庭園・春の家族向けガイドツアー",
-      "description": "スターライト庭園は季節ごとに花々が変化。4月の春の花々が満開。無料ガイドツアーで家族向けの自然学習が実施されます。のどかな自然散策スポット。",
+      "title": "イースターイベント（各テーマパーク）",
+      "description": "香港ディズニーランドやオーシャンパークでは、イースター限定の装飾、パレード、キャラクターグリーティング、子ども向けゲームが開催。春の園内で家族で楽しめます。",
       "date": "4月上旬〜下旬",
-      "place": "スターライト庭園（Starlight Garden）、新界・シャティン地区",
-      "link": "",
+      "place": "香港ディズニーランド・オーシャンパーク",
+      "link": "https://www.hongkongdisneyland.com",
+      "free": false
+    },
+    {
+      "title": "スターフェリーでの船上散策＆スターフェリー100周年イベント",
+      "description": "香港の象徴スターフェリーに乗船し、ヴィクトリア湾の海風を感じるアクティビティ。乳幼児も楽しめ、春の陽気で景色も最高。時間制限なく何度でも乗車可能です。",
+      "date": "4月通年可能",
+      "place": "スターフェリー乗り場（セントラル〜尖沙咀間）",
+      "link": "https://www.starferry.com.hk",
       "free": true
+    },
+    {
+      "title": "香港公園での春の野外体験＆子ども向けプレイグラウンド",
+      "description": "広大な香港公園で無料で遊べるプレイエリア。池での野生生物観察、ハイキングコース、春の植物を学べるガイドツアーなど。乳幼児向けの安全な遊具も充実。",
+      "date": "4月通年可能",
+      "place": "香港公園（中環）、Central",
+      "link": "https://www.lcsd.gov.hk/en/parks-and-sports/parks/victoria-park-hongkong-park.html",
+      "free": true
+    },
+    {
+      "title": "香港サイエンスセンターの春季特別展示",
+      "description": "子ども向けの対話型展示や実験プログラムが充実。春の特別展（例：自然科学テーマ）では、年齢別のワークショップが開催。屋内で快適に学べます。",
+      "date": "4月通年開催",
+      "place": "香港サイエンスセンター、尖沙咀",
+      "link": "https://www.scicenorg.hk",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T13:34:33.427Z"
+  "updatedAt": "2026-04-15T06:21:26.001Z"
 }

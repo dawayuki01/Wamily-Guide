@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "レイ・デー（Lei Day）",
-      "description": "ハワイ文化を代表するレイ作りの体験イベント。子どもも参加でき、ハワイアン音楽やフラの実演が楽しめます。花飾りづくりを通じて文化を学べます。",
-      "date": "4月25日前後",
-      "place": "イオラニ宮殿（Iolani Palace）ホノルル",
-      "link": "https://iolanipalace.org/",
+      "title": "Lei Day（レイ・デイ）",
+      "description": "ハワイの伝統文化を祝う5月1日前後のイベント。フラダンス、レイメイキング体験、音楽ステージなど。子どもも参加できるレイ作り体験が豊富です。",
+      "date": "4月下旬〜5月上旬",
+      "place": "カピオラニ公園（オアフ島ホノルル）",
+      "link": "https://www.honolulu.gov/",
       "free": true
     },
     {
-      "title": "カハラ・ファーマーズ・マーケット（Kahala Farmers Market）",
-      "description": "地元の農産物やハンドメイド雑貨が並ぶマーケット。新鮮なフルーツやローカルフード、子ども向けアクティビティも開催される家族向けイベントです。",
-      "date": "4月毎週土曜（通年開催）",
-      "place": "カハラ・モール駐車場 ホノルル",
-      "link": "https://www.kahalamall.com/events",
-      "free": true
-    },
-    {
-      "title": "ジャパニーズ・フェスティバル・ハワイ",
-      "description": "日本の文化を紹介するイベント。太鼓演奏、盆踊り、屋台、子ども向けワークショップなど家族で楽しめるプログラムが豊富です。",
+      "title": "ワイキキ・スプリング・カーニバル",
+      "description": "春の時期に開催される家族向けカーニバル。キッズゲーム、乗り物、フェイスペインティングなどの屋外アクティビティが楽しめます。",
       "date": "4月中旬〜下旬",
-      "place": "ハワイ・コンベンション・センター ホノルル",
-      "link": "https://japanesefestivalhawaii.com/",
+      "place": "ワイキキビーチ周辺（オアフ島）",
+      "link": "",
       "free": false
     },
     {
-      "title": "ホノルル・ズー・サマー・キャンプ",
-      "description": "ホノルル・ズーの子ども向け春季プログラム。動物との触れ合い体験やガイド付きツアー、教育的ワークショップで海外学習に最適です。",
-      "date": "4月中旬〜5月",
-      "place": "ホノルル・ズー カピオラニ公園内",
+      "title": "シュノーケリング体験・ハナウマ湾",
+      "description": "ハワイを代表するシュノーケリングスポット。4月は穏やかで、カラフルな魚と海ガメが見られます。子ども向けツアーも多数あります。",
+      "date": "4月全体（天候による）",
+      "place": "ハナウマ湾（オアフ島ホノルル東部）",
+      "link": "https://www.honolulu.gov/parks-recreation/parks/hanauma-bay.html",
+      "free": false
+    },
+    {
+      "title": "ホノルル動物園のスプリング・プログラム",
+      "description": "春の特別教育プログラム。ハワイ固有の動物観察、キッズワークショップ。屋外で学べる家族向けアクティビティが充実しています。",
+      "date": "4月全体",
+      "place": "ホノルル動物園（ワイキキ）",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "マノア滝ハイキング（Manoa Falls Trail）",
-      "description": "片道約30分の家族向けトレッキングコース。熱帯雨林の中で美しい滝を目指します。子どもも歩きやすく、ハワイの自然を体験できます。",
-      "date": "4月通年（雨季の為朝がおすすめ）",
-      "place": "マノア渓谷 ホノルル",
-      "link": "https://www.hawaiitourism.jp/",
+      "title": "カカアコ・パンプキン・パッチ（春の花畑）",
+      "description": "カラフルな季節の花が咲く屋外スポット。写真撮影、ピクニック、自然観察が楽しめます。入場無料で家族向けです。",
+      "date": "4月全体",
+      "place": "カカアコ・ウォーターフロント・パーク（オアフ島）",
+      "link": "https://www.honolulutourism.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T13:34:17.289Z"
+  "updatedAt": "2026-04-15T06:21:09.219Z"
 }

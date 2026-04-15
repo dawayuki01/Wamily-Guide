@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "チューリップの季節・モネの庭（ジヴェルニー）",
-      "description": "印象派の巨匠モネが愛した庭園。4月は色鮮やかなチューリップが咲き誇り、睡蓮の池も美しい季節。子どもと一緒に自然美を満喫できます。",
-      "date": "4月上旬〜下旬",
-      "place": "Fondation Claude Monet, 84 rue Claude Monet, 27620 Giverny",
-      "link": "https://fondationclaudemonet.fr",
-      "free": false
-    },
-    {
-      "title": "パリ・イースターマーケット（シャンゼリゼ周辺）",
-      "description": "春の訪れを祝うイースターマーケット。カラフルな卵、春の装飾品、キッズ向けゲームやアクティビティが豊富。家族向けの楽しい雰囲気が特徴です。",
+      "description": "モネの睡蓮で有名なジヴェルニーの庭園は春が最高の季節。4月はチューリップが満開で、子どもも喜ぶ色鮮やかな景観が楽しめます。パリから日帰り可能。",
       "date": "4月中旬〜下旬",
-      "place": "Champs-Élysées周辺、パリ市内各地",
-      "link": "https://www.parisinfo.com",
-      "free": true
-    },
-    {
-      "title": "ルクセンブルク公園での子ども向けアクティビティ",
-      "description": "パリの大公園で、春の季節に無料で楽しめるポニー乗馬、木製劇場での子ども向け公演、遊び場などが充実。セーヌ川沿いの散歩も快適な季節です。",
-      "date": "4月上旬〜下旬",
-      "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.senat.fr/visite/index.html",
-      "free": true
-    },
-    {
-      "title": "パリ水族館（シネアクア）の春プログラム",
-      "description": "アンダーシーテーマの大型水族館。春は子ども向けワークショップや特別展示が開催。海の生き物について学びながら、屋内で快適に過ごせます。",
-      "date": "4月通年営業",
-      "place": "Cineaqua, 5 avenue Albert de Mun, 75016 Paris",
-      "link": "https://www.cineaqua.com",
+      "place": "Fondation Claude Monet, 84 rue Claude Monet, 27620 Giverny",
+      "link": "https://fondation-monet.com",
       "free": false
     },
     {
-      "title": "セーヌ川沿いサイクリング・散歩",
-      "description": "4月は気候が穏やか。レンタル自転車やベビーカーでセーヌ川沿いの緑道を散策。ノートルダム、アイル・サン・ルイなど、歴史的スポットを巡れます。",
-      "date": "4月上旬〜下旬",
-      "place": "Seine riverside cycle paths, Paris",
-      "link": "https://www.paris.fr/pages/les-itineraires-a-velo-1999",
+      "title": "パリ・イースターマーケット（シャンゼリゼ）",
+      "description": "シャンゼリゼ通りで開催されるイースターマーケット。子ども向けワークショップ、キャラクターグリーティング、イースターエッグ探しなどが楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "Avenue des Champs-Élysées, Paris 8e",
+      "link": "https://www.paris-info.com",
+      "free": true
+    },
+    {
+      "title": "ルクセンブルク公園の春のアクティビティ",
+      "description": "パリの庭園では桜や花が咲き誇る季節。子どもが遊べる遊具、池でのセーリング体験、ポニーライド（シーズン中）など家族向けアクティビティが豊富。",
+      "date": "4月全期間",
+      "place": "Jardin du Luxembourg, Paris 6e",
+      "link": "https://www.senat.fr/visite/jardin",
+      "free": true
+    },
+    {
+      "title": "キッズナイト・ルーヴル美術館",
+      "description": "ルーヴル美術館の子ども向け特別ナイトツアー。4月は教育的かつ楽しい企画が実施されることが多く、キッズガイド付きで美術館を探検できます。",
+      "date": "4月中旬〜下旬（開催日未定）",
+      "place": "Musée du Louvre, Rue de Rivoli, Paris 1er",
+      "link": "https://www.louvre.fr",
+      "free": false
+    },
+    {
+      "title": "ポール・ベルモン公園のチェリーブロッサム観賞",
+      "description": "パリ北部のこの公園は桜の名所。4月上旬〜中旬が見頃。広大な芝生でピクニック、散歩ができ、子連れ家族に最適な無料スポット。",
+      "date": "4月上旬〜中旬",
+      "place": "Parc Paul Vaillant-Couturier, Villepinte, Seine-Saint-Denis",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T13:33:29.334Z"
+  "updatedAt": "2026-04-15T06:20:21.668Z"
 }

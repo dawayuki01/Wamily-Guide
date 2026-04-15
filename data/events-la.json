@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market）春の花まつり",
-      "description": "カラフルな春の花々が並ぶ花市場。家族で楽しめる無料のマーケット散策で、季節の花の美しさが堪能できます。子どもも楽しめるフォトスポットが豊富です。",
+      "title": "Los Angeles Times Festival of Books",
+      "description": "ロサンゼルス最大級の書籍フェスティバル。子ども向けの読み聞かせ、ワークショップ、キャラクターグリーティングなど、家族向けプログラムが充実。",
+      "date": "4月中旬（毎年4月第2週末開催予定）",
+      "place": "UCLA campus, Los Angeles, CA 90095",
+      "link": "https://latimesfestivalofbooks.com",
+      "free": true
+    },
+    {
+      "title": "Descanso Gardens - Spring Bloom",
+      "description": "広大な庭園で春の花々が満開。チューリップ、桜、牡丹など季節の花を鑑賞できます。子ども向けの探索ゲームやトレイルも楽しめます。",
       "date": "4月上旬〜下旬",
-      "place": "LA Flower Market, 766 Wall Street, Los Angeles, CA 90017",
-      "link": "https://www.laflowermarket.com",
+      "place": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org",
+      "free": false
+    },
+    {
+      "title": "Getty Villa - Family Programs & Spring Activities",
+      "description": "古代ギリシャ・ローマ美術を展示する美術館。家族向けガイドツアーやワークショップ開催。無料で入場でき、庭園散策も楽しめます。",
+      "date": "4月通年開催",
+      "place": "17985 Pacific Coast Hwy, Pacific Palisades, CA 90272",
+      "link": "https://www.getty.edu/visit/villa",
       "free": true
     },
     {
-      "title": "グリフィス天文台のスプリングプログラム",
-      "description": "無料で入場できるグリフィス天文台では、春の星空観察や天体ショーが楽しめます。展示ギャラリーは子ども向けプログラムが充実。ハイキングも可能です。",
-      "date": "4月通期",
-      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "title": "Santa Monica Pier & Aquarium Spring Programs",
+      "description": "動物園水族館で子ども向けの教育プログラムやタッチプール体験。海沿いの散策やアミューズメント施設も。海の生き物について学べます。",
+      "date": "4月通年開催",
+      "place": "1600 Ocean Front Walk, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org",
+      "free": false
+    },
+    {
+      "title": "Elysian Park Spring Hiking & Picnic",
+      "description": "ロサンゼルス最古の公園で春の野外アクティビティ。子どもでも歩きやすいトレイルがあり、自然観察やピクニックが楽しめます。無料で利用可能。",
+      "date": "4月上旬〜下旬",
+      "place": "Elysian Park, 104 N Academy Road, Los Angeles, CA 90012",
+      "link": "https://www.laparks.org/park/elysian-park",
       "free": true
-    },
-    {
-      "title": "ハンティントン・ライブラリーの春の庭園フェスティバル",
-      "description": "100エーカーの庭園で春の花々が満開。日本庭園やローズガーデンが見頃。子ども向けガイドツアーやワークショップがあり、家族で楽しめます。",
-      "date": "4月全期間",
-      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Road, San Marino, CA 91108",
-      "link": "https://www.huntington.org",
-      "free": false
-    },
-    {
-      "title": "Santa Monica Pier スプリング・キッズ・フェスティバル",
-      "description": "太平洋沿いの遊園地で開催される子ども向けイベント。乗り物、屋外ゲーム、パフォーマンスが楽しめます。ビーチ散策や海沿いのアクティビティと組み合わせ可能です。",
-      "date": "4月中旬〜下旬（時期は確認推奨）",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
-      "free": false
-    },
-    {
-      "title": "ロサンゼルス・アーボレータムの春の花フェスティバル",
-      "description": "広大な植物園で春の花々が満開。子ども向けガイドツアーやハイキングプログラムが開催されます。自然の中での屋外アクティビティに最適です。",
-      "date": "4月上旬〜5月中旬",
-      "place": "Los Angeles County Arboretum & Botanic Garden, 301 North Baldwin Avenue, Arcadia, CA 91007",
-      "link": "https://www.arboretum.org",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-14T13:34:09.534Z"
+  "updatedAt": "2026-04-15T06:21:01.895Z"
 }
