@@ -103,8 +103,8 @@
       "category": "play",
       "layer": "play",
       "description": "グリフィス・パーク：ハイキングや乗馬コース、素敵な夜景、ギリシャ劇場とL.A.動物園が楽しめます。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJ9590IY3AwoARquS6ie60MUc",
@@ -151,8 +151,8 @@
       "category": "play",
       "layer": "play",
       "description": "サンタモニカ・ピア：ショップやカフェ、遊園地、水族館がそろった楽しい海辺のスポット。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJm6deTdekwoARTY_RzhoRms0",
@@ -247,8 +247,8 @@
       "category": "food",
       "layer": "play",
       "description": "フィリップス・ザ・オリジナル：懐かしい雰囲気の食堂で、有名なフレンチディップサンドが食べられます。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJd9NcMVvGwoARpVcjtJfZBQo",
@@ -305,5 +305,5 @@
       "lng": -118.3004
     }
   ],
-  "checkedAt": "2026-04-15T09:25:52.297Z"
+  "checkedAt": "2026-04-15T13:13:43.736Z"
 }

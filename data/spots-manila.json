@@ -119,8 +119,8 @@
       "category": "play",
       "layer": "play",
       "description": "フィリピン国立美術館は、美術品から考古学まで、幅広い展示がある素敵な博物館ですよ。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJa5tW0CPKlzMRKuDqk7sMx88",
@@ -151,8 +151,8 @@
       "category": "play",
       "layer": "play",
       "description": "エンチャンテッド・キングダムは、ローラーコースターなどが楽しいファミリー向けのテーマパークです。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJc4aHZRbYlzMRbJ_Oa0wPqP4",
@@ -295,8 +295,8 @@
       "category": "play",
       "layer": "play",
       "description": "リサール公園隣接の水族館・テーマパーク。魚・サメ・海亀などを間近で観察できる。子どもが半日楽しめる。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJDXUM9QPKlzMRDOajr3iHEoQ",
@@ -305,5 +305,5 @@
       "lng": 120.978
     }
   ],
-  "checkedAt": "2026-04-15T09:25:49.143Z"
+  "checkedAt": "2026-04-15T13:13:40.819Z"
 }

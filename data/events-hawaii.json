@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Merrie Monarch Festival（メリーモナークフェスティバル）",
-      "description": "ハワイ文化を祝う伝統的なフラコンペティション。パレード、フラダンス、音楽など家族向けイベントが多数開催されます。",
-      "date": "4月中旬",
-      "place": "ハワイ島ヒロ市一帯",
-      "link": "https://www.merriemonarch.com/",
+      "title": "ワイキキスプリングカーニバル",
+      "description": "4月にワイキキビーチで開催される春の祭典。子ども向けの乗り物、ゲーム、フードベンダーが集結。家族で楽しめる無料エリアもあります。",
+      "date": "4月上旬〜中旬",
+      "place": "ワイキキビーチ、ホノルル",
+      "link": "https://www.honolulu.gov/",
       "free": false
     },
     {
-      "title": "Waikiki Spam Jam（ワイキキスパムジャム）",
-      "description": "スパムを使った食べ物の祭典。各飲食店がスパム料理を提供。子どもも楽しめるストリートフェスティバルです。",
-      "date": "4月下旬",
-      "place": "ワイキキビーチ周辺",
-      "link": "https://www.waikikispamjam.com/",
+      "title": "キラウエア火山国立公園でのハイキング",
+      "description": "ビッグアイランドのハワイ火山国立公園。4月の気候は快適でハイキングに最適。キッズ向けトレイルも豊富で、ダイナミックな自然を体験できます。",
+      "date": "4月全般",
+      "place": "ハワイ火山国立公園、ビッグアイランド",
+      "link": "https://www.nps.gov/havo/",
+      "free": false
+    },
+    {
+      "title": "KCC ファーマーズマーケット",
+      "description": "ホノルルで毎週開催される大型ファーマーズマーケット。新鮮な地元産の果物、野菜、ハワイアンフードが揃い、無料で散策可能。子連れに人気です。",
+      "date": "4月全般（毎週土曜朝）",
+      "place": "カピオラニコミュニティカレッジ、ホノルル",
+      "link": "https://www.kcc.hawaii.edu/community/kcc-farmers-market/",
       "free": true
     },
     {
-      "title": "Duke Kahanamoku Beach Challenge（デュークカハナモク・ビーチチャレンジ）",
-      "description": "サーフィンコンペティション。ビーチで無料観覧でき、ハワイの波乗り文化を体験。家族向けビーチアクティビティも同時開催。",
-      "date": "4月中旬",
-      "place": "ワイキキビーチ",
-      "link": "https://dukekahanamokubeachchallenge.com/",
-      "free": true
-    },
-    {
-      "title": "ホノルル動物園 春のスペシャルプログラム",
-      "description": "園内ガイドツアーやエデュケーショナルプログラムが充実。乳幼児から小学生まで楽しめる動物とのふれあい体験。",
-      "date": "4月通年",
+      "title": "ホノルル動物園の春の特別プログラム",
+      "description": "4月の春シーズンに子ども向けの教育プログラムやアニマルエンカウンター実施。動物との触れ合いを通じた学習体験。屋外施設で自然も満喫できます。",
+      "date": "4月全般",
       "place": "ホノルル動物園、ワイキキ",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "ダイアモンドヘッド登山と周辺公園",
-      "description": "初心者向けハイキングコース。往復2時間程度で完登でき、ワイキキの絶景を楽しめます。自然体験に最適。",
-      "date": "4月通年",
-      "place": "ダイアモンドヘッド（ワイキキ東側）",
-      "link": "https://www.honolulu.gov/parks-and-recreation.html",
-      "free": false
+      "title": "プリンセス・カイウラニ・ホテル無料ビーチアクセス＆キッズプログラム",
+      "description": "ワイキキの砂浜でのビーチプレイ。ホテル施設では春の時期に子ども向けフラダンスレッスンなどの無料体験プログラムを実施。家族で海水浴と文化体験ができます。",
+      "date": "4月全般",
+      "place": "ワイキキビーチ、ホノルル",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T09:24:53.164Z"
+  "updatedAt": "2026-04-15T13:12:44.217Z"
 }

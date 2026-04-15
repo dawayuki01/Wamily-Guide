@@ -311,8 +311,8 @@
       "category": "food",
       "layer": "play",
       "description": "デューク・ワイキキ：ビーチ前で、サーフィンの雰囲気とおいしい食事が楽しめます。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJy0PC1XVyAHwR8cngoeHh_v8",
@@ -401,5 +401,5 @@
       "lng": -157.8057
     }
   ],
-  "checkedAt": "2026-04-15T09:25:56.456Z"
+  "checkedAt": "2026-04-15T13:13:47.790Z"
 }

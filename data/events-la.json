@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（Spring Flower Festival）",
-      "description": "春の花々が咲き誇るロサンゼルス・フラワー・マーケットの季節イベント。子どもたちが色とりどりの花に囲まれて楽しめます。フォトスポットも多数あります。",
-      "date": "4月上旬〜中旬",
-      "place": "Los Angeles Flower Market, 754 Wall Street, Los Angeles, CA 90014",
-      "link": "https://www.laflowermarket.com/",
+      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market Spring Market）",
+      "description": "春の花が満開のLA Flower Marketでは、カラフルな花々の中でお買い物やお散歩が楽しめます。子どもたちが自然の美しさを感じながら過ごせる場所です。",
+      "date": "4月通期（毎日営業）",
+      "place": "LA Flower Market, 741 S San Pedro St, Los Angeles, CA 90014",
+      "link": "https://www.laflowermarket.com",
       "free": true
     },
     {
-      "title": "グリフィス天文台 子どもプログラム＆春の星空観察会",
-      "description": "グリフィス天文台では春シーズンに子ども向けプラネタリウムと天体観察プログラムを開催。無料で参加でき、宇宙の神秘を家族で体験できます。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
-      "free": true
-    },
-    {
-      "title": "ファーマーズマーケット・アット・ザ・グローブ（春のキッズアクティビティ）",
-      "description": "毎週日曜開催のファーマーズマーケット。春野菜や果物、キッズ向けの手工芸ワークショップが充実。家族で新鮮な食材を選びながら楽しめます。",
-      "date": "4月毎週日曜日",
-      "place": "The Grove, 189 The Grove Drive, Los Angeles, CA 90036",
-      "link": "https://www.farmersmarketla.com/",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス自然史博物館 春季特別展示",
-      "description": "恐竜や動物、自然科学をテーマにした春の特別展示。子ども向けの体験プログラムやワークショップが開催され、親子で学んで遊べます。",
-      "date": "4月上旬〜下旬",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org/",
+      "title": "ロサンゼルス動物園 - 春の子ども向けプログラム",
+      "description": "LA Zooでは春季に子ども向けの特別教育プログラムやワークショップを開催。動物とのふれあいを通じて自然学習ができます。",
+      "date": "4月上旬〜下旬（週末中心）",
+      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
       "free": false
     },
     {
-      "title": "サンタモニカビーチ ビーチ遊び＆春のウォーターアクティビティ",
-      "description": "温暖な春のロサンゼルスの海辺で家族連れが集まる季節。ビーチでの砂遊び、シュノーケリング、カイトボーディングなど屋外アクティビティが充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "Santa Monica Beach, Santa Monica, CA 90401",
-      "link": "https://www.santamonica.com/",
+      "title": "パサデナ・チェリー・ブロッサム・フェスティバル（Pasadena Cherry Blossom Festival）",
+      "description": "日本の文化を祝うイベント。桜の装飾、ステージパフォーマンス、キッズエリアなど、家族向けアクティビティが充実しています。",
+      "date": "4月中旬",
+      "place": "パサデナ・シティ・カレッジ, 1570 E Colorado Blvd, Pasadena, CA 91106",
+      "link": "https://www.pasadenachamber.org",
       "free": true
+    },
+    {
+      "title": "グリフィス・オブザーバトリー春のハイキング",
+      "description": "春の気候に恵まれたグリフィス・パークでファミリーハイキング。子ども向け短距離トレイルもあり、ロサンゼルスの街並み絶景が楽しめます。",
+      "date": "4月通期（天候による）",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
+      "free": true
+    },
+    {
+      "title": "ナチュラル・ヒストリー・ミュージアム - 春の特別展示",
+      "description": "子ども向け展示や恐竜コーナーが充実。4月は春の特別プログラムやガイドツアーが開催され、家族で学べます。",
+      "date": "4月通期",
+      "place": "Natural History Museum of Los Angeles, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T09:24:46.087Z"
+  "updatedAt": "2026-04-15T13:12:36.443Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリの桜（サクラ）鑑賞",
-      "description": "パリ各地の公園で日本の桜が咲き誇ります。特にボタニカルガーデンやバガテル公園で美しい桜が楽しめます。ピクニック向けで子どもとのんびり過ごせます。",
-      "date": "4月上旬〜中旬",
-      "place": "バガテル公園（Parc de Bagatelle）、ブローニュの森内",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館の子ども向け特別プログラム",
-      "description": "春期の子ども向けワークショップや家族向けツアーが開催されます。年齢別プログラムで名画を楽しく学べます。要予約で人気が高いです。",
+      "title": "チューリップとスプリングフラワーの季節",
+      "description": "モネの庭園があるジヴェルニーでは4月中旬〜下旬にチューリップや春の花が満開。子どもも喜ぶ色彩豊かな庭園散歩が楽しめます。パリからの日帰り旅行に最適。",
       "date": "4月中旬〜下旬",
-      "place": "ルーヴル美術館（Musée du Louvre）、パレ・ロワイアル地区",
-      "link": "https://www.louvre.fr",
+      "place": "Giverny モネの庭園（パリから車で約80km）",
+      "link": "https://www.fondation-monet.com/",
       "free": false
     },
     {
-      "title": "パリ・イースター・マーケット",
-      "description": "シャンゼリゼやノートルダム周辺でイースターを祝うマーケットが開かれます。子ども向けの工作やチョコレート卵探しゲームが楽しめます。",
-      "date": "4月中旬",
-      "place": "シャンゼリゼ通り周辺",
-      "link": "https://www.paris.fr/evenements",
+      "title": "シテ島・ノートルダム周辺の無料散策",
+      "description": "春の陽気の中、セーヌ河岸やシテ島の公園を家族で散策。ノートルダム大聖堂周辺は整備中ですが、景観は美しく、アイスクリーム片手に散歩できます。完全無料。",
+      "date": "4月全期間",
+      "place": "Île de la Cité、パリ第4区",
+      "link": "",
       "free": true
     },
     {
-      "title": "セーヌ川沿い・バーク・リヴ・ゴーシュでのサイクリング",
-      "description": "春の陽気の中、レンタサイクルでセーヌ川沿いを家族でサイクリング。子乗せ自転車もレンタル可能。景色が最高の季節です。",
-      "date": "4月上旬〜下旬",
-      "place": "バーク・リヴ・ゴーシュ（Rive Gauche）、セーヌ右岸サイクルロード",
-      "link": "https://velib-metropole.com",
-      "free": false
+      "title": "パリ春のマーケット（マルシェ）めぐり",
+      "description": "4月はパリ各地の青空市場が活気満開。新鮮な野菜や花、地元グルメが並びます。オーガニックマーケットもあり、家族で買い物と食べ歩きが楽しめます。無料で楽しめます。",
+      "date": "4月全期間（週末中心）",
+      "place": "パリ各地（マルシェ・バスティーユなど）",
+      "link": "https://www.paris.fr/pages/les-marches-de-paris-9104",
+      "free": true
     },
     {
       "title": "パリ動物園（Ménagerie du Jardin des Plantes）の春イベント",
-      "description": "新しい赤ちゃん動物たちが見られる季節。植物園とセットで家族向けワークショップや自然観察プログラムが充実しています。",
-      "date": "4月中旬〜下旬",
-      "place": "パリ動物園（Ménagerie）、植物園内、5区ラテン地区",
-      "link": "https://www.jardindesplantesdeparis.fr",
+      "description": "春の動物園は子どもたちに人気。4月は若い動物たちが活動開始。特別ガイドツアーや授乳期の動物観察など季節限定プログラムが豊富。",
+      "date": "4月全期間",
+      "place": "Ménagerie du Jardin des Plantes、57 Rue Cuvier, 75005 Paris",
+      "link": "https://www.parczoologiquedeparis.fr/",
       "free": false
+    },
+    {
+      "title": "ルクセンブルク公園でのピクニック・遊び場",
+      "description": "パリ最大級の公園。春の天気が良い4月は家族連れで賑わいます。子ども向け遊び場、ポニー乗馬、セーリング池など無料で楽しめるアクティビティが豊富。",
+      "date": "4月全期間",
+      "place": "Jardin du Luxembourg、Rue de Médicis, 75006 Paris",
+      "link": "https://www.paris.fr/pages/jardin-du-luxembourg-392",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T09:24:05.640Z"
+  "updatedAt": "2026-04-15T13:11:56.636Z"
 }

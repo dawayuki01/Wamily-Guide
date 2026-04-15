@@ -103,8 +103,8 @@
       "category": "play",
       "layer": "play",
       "description": "スアン・ルアン・ラマ9世公園：広い緑地に、遊び場やボート乗船が楽しめます。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJu1mpMZRgHTERRNTicTdIHxg",
@@ -119,8 +119,8 @@
       "category": "play",
       "layer": "play",
       "description": "ロッテワールド：乗り物や水のアトラクション、海の生き物が見られるテーマパークです。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJgf4OJaelfDURmDvA_sHyPUM",
@@ -183,8 +183,8 @@
       "category": "food",
       "layer": "play",
       "description": "Rating: 4.7 (4415 reviews)",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJjYPUa8GZ4jARi9fgigQOiR8",
@@ -305,5 +305,5 @@
       "lng": 100.5347
     }
   ],
-  "checkedAt": "2026-04-15T09:25:46.001Z"
+  "checkedAt": "2026-04-15T13:13:37.892Z"
 }

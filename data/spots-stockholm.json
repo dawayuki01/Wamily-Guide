@@ -279,8 +279,8 @@
       "category": "food",
       "layer": "play",
       "description": "レストラン・トラディション：北欧の素朴でおしゃれな雰囲気の中で、本格的なスウェーデン料理をカジュアルに楽しめます。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJq6qqqW6dX0YR4q_GAMMfhKQ",
@@ -327,8 +327,8 @@
       "category": "food",
       "layer": "play",
       "description": "ストックホルムス・ゲスタブド：心地よい雰囲気の中で、ボリューミーな伝統的なおばあちゃんの味を味わえるレストランです。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJm8qsClidX0YR0H6OcH7SycU",
@@ -481,5 +481,5 @@
       "lng": 18.1036
     }
   ],
-  "checkedAt": "2026-04-15T09:25:39.527Z"
+  "checkedAt": "2026-04-15T13:13:31.703Z"
 }

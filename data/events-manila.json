@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パスクア花市（Easter Flower Market）",
-      "description": "復活祭時期に開催される花市。マニラの教会周辺で色とりどりの花が並び、家族連れで楽しめます。フィリピンの春の風情を感じられる季節イベント。",
-      "date": "4月上旬〜中旬",
-      "place": "マニラ大聖堂周辺、イントラムロス地区",
-      "link": "",
+      "title": "フィリピン・オーキッド・ソサエティ・ショー（Philippine Orchid Society Show）",
+      "description": "4月に開催される蘭の展示会。色とりどりの蘭を鑑賞でき、子どもも楽しめます。フィリピンの国花・蘭について学べる教育的なイベントです。",
+      "date": "4月中旬〜下旬",
+      "place": "San Lazaro Leisure Park, Sta. Cruz, Manila",
+      "link": "https://www.philippineorchidsociety.org",
+      "free": false
+    },
+    {
+      "title": "Manila Bay Sunset Cruise & Waterfront Activities",
+      "description": "マニラ湾でのサンセットクルーズや水辺でのアクティビティ。4月は天候が良好で家族向けの屋外アクティビティに最適。多くのツアーが子ども向けプログラムを用意しています。",
+      "date": "4月上旬〜下旬通年開催",
+      "place": "Manila Baywalk, Manila",
+      "link": "https://www.manilabaywalk.ph",
+      "free": false
+    },
+    {
+      "title": "Rizal Park（リサール公園）での無料アクティビティ",
+      "description": "マニラ最大級の公園。広い芝生、子ども向け遊び場、屋外彫刻展示があります。週末はファミリーで賑わい、ピクニックやジョギングに最適な無料スポット。",
+      "date": "4月上旬〜下旬通年利用可",
+      "place": "Rizal Park, Padre Burgos Avenue, Manila",
+      "link": "https://www.ncca.gov.ph",
       "free": true
     },
     {
-      "title": "フィリピン国立博物館 子ども向けツアー",
-      "description": "国立博物館で開催される子ども向けガイドツアーや教育プログラム。恐竜化石や動物標本を学びながら探検でき、知的好奇心を刺激します。",
-      "date": "4月通期（週末開催）",
-      "place": "フィリピン国立博物館、ルネタ公園、マニラ市",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "Museo Pambata（子ども博物館）の春休み特別展示",
+      "description": "フィリピン唯一の子ども向け博物館。4月の春休み期間に教育的な特別展示やワークショップが開催されます。対話型展示で乳幼児から小学生まで楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "5F Taguig City Library Building, Bonifacio Global City, Taguig",
+      "link": "https://www.museumpambata.org",
       "free": false
     },
     {
-      "title": "リサール公園でのピクニック＆屋外活動",
-      "description": "マニラ最大の公園。広大な芝生でピクニックや凧揚げ、散歩が楽しめます。4月は比較的天気が良く、家族向けの安全な屋外スポット。無料で利用可能。",
-      "date": "4月通期",
-      "place": "リサール公園、マニラ市",
-      "link": "https://www.rizalpark.gov.ph/",
+      "title": "Quezon City Memorial Circle での無料ファミリーイベント",
+      "description": "毎月第1・3日曜日に開催されるコミュニティイベント。地元の食べ物、手工芸、キッズアクティビティが無料で楽しめます。4月は天候も良好で家族連れに人気。",
+      "date": "4月第1・3日曜日",
+      "place": "Quezon City Memorial Circle, Elliptical Road, Quezon City",
+      "link": "https://quezon.gov.ph",
       "free": true
-    },
-    {
-      "title": "SMモール・オブ・アジア キッズゾーンと特別イベント",
-      "description": "東南アジア最大級のショッピングモール内のキッズ向け施設。4月は春休みイベントや子ども向けワークショップが開催。安全でエアコン完備。",
-      "date": "4月通期",
-      "place": "SMモール・オブ・アジア、パサイ市",
-      "link": "https://www.smmalls.com/mall/sm-mall-of-asia",
-      "free": false
-    },
-    {
-      "title": "アキノ水族館（ナショナル・アキノ・パビリオン）での海洋生物観察",
-      "description": "フィリピンの海の生き物を観察できる教育的施設。乳幼児から小学生まで楽しめ、海の生態系を学べます。4月は新学期シーズンで学習プログラムが充実。",
-      "date": "4月通期",
-      "place": "ナショナル・センター・フォー・サイエンス・アンド・テクノロジー、キエサン市",
-      "link": "https://www.ncst.upd.edu.ph/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T09:24:38.391Z"
+  "updatedAt": "2026-04-15T13:12:28.993Z"
 }

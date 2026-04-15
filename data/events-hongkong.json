@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港国際映画祭（Hong Kong International Film Festival）",
-      "description": "4月に開催される映画祭。ファミリー向けセッションもあり、子ども向けのアニメーション作品やキッズムービーが上映されます。",
-      "date": "4月中旬〜下旬",
-      "place": "香港各地の映画館（主催：香港芸術中心）",
-      "link": "https://www.hkiff.org.hk",
-      "free": false
-    },
-    {
-      "title": "スターフェリーでの海上散歩",
-      "description": "ビクトリアハーバーを横切るスターフェリーはアイコニック体験。家族向けのリラックスした時間で、4月の快適な気候で景色を楽しめます。",
-      "date": "4月通年可能",
-      "place": "スターフェリーターミナル（セントラル、ワンチャイ、尖沙咀など）",
-      "link": "https://www.starferry.com.hk",
-      "free": false
-    },
-    {
-      "title": "香港花卉展覧会（Hong Kong Flower Show）",
-      "description": "3月下旬〜4月初旬に開催される春の花々展。色彩豊かな花壇、庭園、植物が展示され、子どもが季節を学べます。",
-      "date": "4月上旬（前年の実績により異なる）",
-      "place": "ビクトリア公園（Causeway Bay）",
-      "link": "https://www.lcsd.gov.hk/en/hkflowershow",
-      "free": true
-    },
-    {
-      "title": "ハイキング＆ピクニック（ドラゴンズバック、ラマ島ハイキング）",
-      "description": "4月の快適な気候でのハイキング体験。ドラゴンズバックなど初心者向けコースから、自然の中での屋外アクティビティが楽しめます。",
-      "date": "4月通年可能",
-      "place": "ドラゴンズバック（Big Wave Bay）、ラマ島など",
+      "title": "香港フローラルイベント2026",
+      "description": "春の花が咲き誇る季節。ビクトリア公園などで色とりどりの花展示やフラワーアレンジメント体験が楽しめます。子ども向けワークショップも開催されます。",
+      "date": "4月上旬〜中旬",
+      "place": "ビクトリア公園（Victoria Park）、香港島アップタウン",
       "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "香港科学館（Hong Kong Science Museum）での春季展示・ワークショップ",
-      "description": "常設展示に加え、春季の特別展示やキッズ向けの科学ワークショップを開催。乳幼児〜小学生が楽しく学べます。",
-      "date": "4月通年開館",
-      "place": "香港科学館（Tsim Sha Tsui East）",
-      "link": "https://www.lcsd.gov.hk/en/sciencemuseum",
+      "title": "スターフェリーでの船上体験と海岸散策",
+      "description": "香港湾を横断するスターフェリーに乗船。ビクトリアハーバーの景色を楽しみ、スターフェリーターミナル周辺の海岸歩道で春の海風を感じる屋外アクティビティ。",
+      "date": "4月全期間",
+      "place": "スターフェリー乗車点（セントラル〜尖沙咀間）",
+      "link": "https://www.starferry.com.hk",
+      "free": false
+    },
+    {
+      "title": "香港キッズアート&クラフトフェスティバル",
+      "description": "子ども向けの美術・工芸ワークショップが集結。絵画、陶芸、手工芸など様々なクリエイティブ体験が小学生中心に楽しめるイベント。",
+      "date": "4月中旬〜下旬",
+      "place": "セントラル・ハーバーフロント（Central Harbourfront）",
+      "link": "https://www.harbourfrontcentre.com",
+      "free": true
+    },
+    {
+      "title": "ウィンザーハウス（Windsor House）キッズプレイグラウンド特別開放",
+      "description": "ショッピングモールの屋内キッズパークで春特別プログラムを展開。乳幼児向けのソフトプレイエリアと小学生向けのアクティビティが充実。",
+      "date": "4月全期間（土日祝日中心）",
+      "place": "ウィンザーハウス（尖沙咀）、九龍半島",
+      "link": "https://www.windsor-house.com.hk",
+      "free": false
+    },
+    {
+      "title": "スターライトシアターチルドレンズシアター",
+      "description": "香港の伝統文化と現代パフォーマンスを融合させた子ども向け舞台作品。4月は家族向けのスペシャルプログラムが上演されます。",
+      "date": "4月中旬〜下旬",
+      "place": "スターライト・シアター（尖沙咀）",
+      "link": "https://www.apm.com.hk",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T09:25:09.058Z"
+  "updatedAt": "2026-04-15T13:13:03.707Z"
 }

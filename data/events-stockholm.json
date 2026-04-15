@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "キューラガルデン（Skansen）の春季オープニング＆動物の赤ちゃん公開",
-      "description": "北欧最大の野外博物館で春がオープン。新生児の動物たちが登場し、子どもたちが直接触れ合える体験ができます。広大な敷地での散策も楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "title": "ストックホルムの春祭り（Stockholm Spring Festival）",
+      "description": "4月のストックホルムで開催される春の祭り。音楽、演劇、子ども向けワークショップなど、家族向けイベントが充実。街全体が春の訪れを祝う雰囲気を感じられます。",
+      "date": "4月中旬〜下旬",
+      "place": "ストックホルム旧市街（Gamla Stan）及び市内各地",
+      "link": "https://www.visitstockholm.com/",
+      "free": true
+    },
+    {
+      "title": "スカンセン野外博物館の春プログラム",
+      "description": "北欧最古の野外博物館で、春の動物園エリアがオープン。動物との触れ合いやスウェーデン伝統文化の体験が可能。子ども向けの特別ガイドツアーも開催されます。",
+      "date": "4月全般",
+      "place": "Skansen, Djurgården, 115 21 Stockholm",
       "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "メーラレン湖での春のボートツアー＆アイスクリーム屋台",
-      "description": "ストックホルムを囲むメーラレン湖でのボートツアーが始まります。島巡りツアーで史跡巡りや自然観察ができ、春の優しい日差しの中での屋外アクティビティ。",
-      "date": "4月中旬〜下旬",
-      "place": "Strömkajen, 111 52 Stockholm（ツアー乗船地点）",
-      "link": "https://www.stromma.se/",
-      "free": false
-    },
-    {
-      "title": "ストックホルム子ども博物館（Junibacken）の春のテーマ展示",
-      "description": "北欧の子どもの文学や文化をテーマにした室内施設。季節に応じた特別展示やワークショップが開催。乳幼児向けのプレイエリアも充実。",
-      "date": "4月上旬〜下旬",
-      "place": "Junibacken, Galärvägen 14, 115 21 Stockholm",
-      "link": "https://www.junibacken.se/",
-      "free": false
-    },
-    {
-      "title": "ローゼンダール宮殿庭園（Drottningholm Palace）の春の花園散策",
-      "description": "ユネスコ世界遺産の宮殿。4月は春の花々が咲き、広大な庭園の散策が最適。家族向けのガイドツアーも用意されています。",
-      "date": "4月中旬〜下旬",
-      "place": "Drottningholm Palace, Drottningholmsvägen, 178 02 Ekerö",
-      "link": "https://www.kungligaslotten.se/english/drottningholm-palace.html",
-      "free": false
-    },
-    {
-      "title": "ユーレスボリ公園（Erikspark）での無料春祭りと子ども向けイベント",
-      "description": "地元の大規模公園で開催される春の無料イベント。子ども向けステージ、ウサギやヤギなどの小動物コーナー、ピクニックエリアで家族向けに最適。",
-      "date": "4月中旬",
-      "place": "Erikspark, Norrmalm, Stockholm",
-      "link": "",
+      "title": "チューリップと春の花見（Tulip Season）",
+      "description": "ストックホルム市内の公園や庭園でチューリップが見頃。ドロットニングホルム宮殿の庭園や公共公園で色とりどりの春の花々が楽しめます。散策に最適な季節です。",
+      "date": "4月上旬〜中旬",
+      "place": "Drottningholm Palace Gardens及びストックホルム市内各公園",
+      "link": "https://www.visitstockholm.com/",
       "free": true
+    },
+    {
+      "title": "ノルディスカ・ムセット美術館の子ども向けイベント",
+      "description": "北欧デザインと芸術を紹介する美術館で、4月は子ども向けクリエイティブワークショップを開催。絵画や工芸制作を通じた学習プログラムが豊富です。",
+      "date": "4月全般（週末中心）",
+      "place": "Nordiska Museet, Djurgårdsvägen 6-16, 115 93 Stockholm",
+      "link": "https://www.nordiskamuseet.se/",
+      "free": false
+    },
+    {
+      "title": "ユーランデン島でのサイクリングと自然散策",
+      "description": "春の陽気の中、ストックホルムの島々を自転車で巡るツアー。子ども乗せ自転車やレンタルが充実。野生動物観察や自然散策が楽しめる屋外アクティビティです。",
+      "date": "4月全般",
+      "place": "Ekoparken（City Bike rental stations throughout Stockholm）",
+      "link": "https://www.visitstockholm.com/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T09:24:14.388Z"
+  "updatedAt": "2026-04-15T13:12:04.549Z"
 }

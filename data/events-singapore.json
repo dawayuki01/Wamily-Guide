@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Tulip Festival（シンガポール・チューリップ・フェスティバル）",
-      "description": "Gardens by the Bayで開催される春の花祭り。カラフルなチューリップが咲き誇り、子どもたちは花の迷路や写真スポットで楽しめます。",
-      "date": "4月上旬～中旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "シンガポール・チューリップ・フェスティバル",
+      "description": "シンガポール植物園で開催される春の花祭り。カラフルなチューリップが咲き誇り、家族向けのワークショップやガイドツアーも実施されます。",
+      "date": "4月上旬〜中旬",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
+      "link": "https://www.sbg.org.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park Family Beach Activities",
-      "description": "シンガポール最大のビーチパークで、子ども向けのウォーターアクティビティやピクニック、自転車レンタルが楽しめます。無料で訪問でき、波が穏やかな家族向けビーチです。",
-      "date": "4月通期（4月は気候が安定）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-gardens/east-coast-park",
-      "free": true
-    },
-    {
-      "title": "Singapore Children's Festival",
-      "description": "子ども向けのパフォーマンス、ワークショップ、インタラクティブな展示が行われるファミリー向けフェスティバル。複数の会場で開催されます。",
-      "date": "4月中旬～下旬",
-      "place": "Various locations (公式サイトで確認)",
-      "link": "https://www.childrensseason.sg",
-      "free": true
-    },
-    {
-      "title": "ArtScience Museum - Family Programs",
-      "description": "Marina Bay Sandsに隣接する美術館で、子ども向けの特別展示やハンズオン・ワークショップが開催。創造性を刺激する体験ができます。",
-      "date": "4月通期",
-      "place": "ArtScience Museum, 6 Bayfront Avenue, Singapore 018974",
-      "link": "https://www.marinabaysands.com/artsciencemuseum.html",
+      "title": "イースター・エッグ・ハント",
+      "description": "シンガポール内のショッピングモールやリゾートで開催されるイースターイベント。子どもたちがカラフルなイースターエッグを探すアクティビティが楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "マリーナ・ベイ・サンズ、セントーサ島など複数会場",
+      "link": "https://www.mbs.com.sg/",
       "free": false
     },
     {
-      "title": "Singapore Zoo - Spring Activities",
-      "description": "シンガポール動物園で春特別プログラムや親子向けの動物餌やりタイムが実施。広い園内で様々な動物を楽しめます。",
-      "date": "4月通期",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.sg",
+      "title": "セントーサ島でのビーチアクティビティ",
+      "description": "4月は天気が安定しており、セントーサ島のビーチでシュノーケリングやサンドアート、ジップラインなど屋外アクティビティを満喫できる最適な季節です。",
+      "date": "4月中旬〜下旬",
+      "place": "セントーサ島（Sentosa Island）、Singapore",
+      "link": "https://www.sentosa.com.sg/",
+      "free": false
+    },
+    {
+      "title": "シンガポール・リバー・ワンダーミ・ナイト・マーケット（無料エリア）",
+      "description": "リバーサイドで開催される夜市。屋台グルメ、手工芸品、ライブ表演が楽しめます。河畔の散歩は無料で、子どもたちも楽しめます。",
+      "date": "4月の週末",
+      "place": "シンガポール・リバー周辺（Clarke Quay）",
+      "link": "https://www.clarkequay.com.sg/",
+      "free": true
+    },
+    {
+      "title": "ガーデンズ・バイ・ザ・ベイ「フラワー・ドーム」特別展示",
+      "description": "季節の花の特別展示やキッズワークショップ、トロピカルガーデンの探検ツアーが開催されます。子ども向けの学習プログラムも充実。",
+      "date": "4月下旬",
+      "place": "ガーデンズ・バイ・ザ・ベイ（Gardens by the Bay）、18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T09:24:21.578Z"
+  "updatedAt": "2026-04-15T13:12:12.041Z"
 }

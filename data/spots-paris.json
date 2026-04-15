@@ -183,8 +183,8 @@
       "category": "food",
       "layer": "local",
       "description": "カジュアルなイタリアン。パスタやピザが美味しい。子ども連れでも気楽に入れる。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJwQEvWqtv5kcRf9oUevMrBAE",
@@ -199,8 +199,8 @@
       "category": "food",
       "layer": "local",
       "description": "築地市場をテーマにした本格ラーメン屋。パリで大人気。子どもも食べやすい。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJme1o5vVv5kcRzuT1Uxyk-Rc",
@@ -215,8 +215,8 @@
       "category": "food",
       "layer": "local",
       "description": "パリで大人気のケバブ屋。安くてボリュームたっぷり。子どもも食べやすいラップスタイル。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJY-1XtRNu5kcR6cJga57p0dg",
@@ -423,8 +423,8 @@
       "category": "food",
       "layer": "play",
       "description": "Rating: 4.9 (17648 reviews)",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年4月",
       "placeId": "ChIJ9SW_2SJv5kcRYZJVfm07LoM",
@@ -513,5 +513,5 @@
       "lng": 2.6114
     }
   ],
-  "checkedAt": "2026-04-15T09:25:33.629Z"
+  "checkedAt": "2026-04-15T13:13:26.292Z"
 }
