@@ -11,10 +11,10 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJxT59GACkU0YRCeuggoqAYOA",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 55.6049011,
+      "lng": 12.9875581
     },
     {
       "id": "334088f5-0b07-814d-aa74-deb2a41d127c",
@@ -75,10 +75,10 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJ0Vi_c16dX0YRMX8vP51eA6Y",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3318726,
+      "lng": 18.064236500000003
     },
     {
       "id": "33a088f5-0b07-8123-bdd8-c8bec07ca426",
@@ -91,10 +91,10 @@
       "statusLabel": "要確認",
       "free": true,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJY8VMC7N5X0YRsUJVhthRmeE",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.276564,
+      "lng": 18.1308987
     },
     {
       "id": "33a088f5-0b07-813a-9804-f5e878ff75c1",
@@ -107,10 +107,10 @@
       "statusLabel": "要確認",
       "free": true,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJfZ3-KP53X0YR-uCyLw258PI",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3285755,
+      "lng": 18.0271893
     },
     {
       "id": "33a088f5-0b07-81e4-bc4c-e15db29e166c",
@@ -123,10 +123,10 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJQ_apfF6dX0YRRZqwo0rgze8",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3321702,
+      "lng": 18.06508
     },
     {
       "id": "334088f5-0b07-814f-9f5f-e65008f3bd98",
@@ -189,8 +189,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJN5Ta_qqCX0YRMYVG1s-2NSw",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3263227,
+      "lng": 18.105858299999998
     },
     {
       "id": "342088f5-0b07-81ef-9e6b-d171723ebe3f",
@@ -205,8 +205,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJgejW6p7zT0YRT0iKc6ej8Bg",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.286610800000005,
+      "lng": 18.0243842
     },
     {
       "id": "342088f5-0b07-8175-b30d-f0d9366aa632",
@@ -221,8 +221,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJAUpMflidX0YRNj52SJZ6-b0",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3268215,
+      "lng": 18.0717194
     },
     {
       "id": "342088f5-0b07-812e-aac6-f90c7bc2ba1c",
@@ -237,8 +237,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJ8-r2gBJTUkYRsCcLtQ0Ltdk",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.37480589999999,
+      "lng": 18.028953899999998
     },
     {
       "id": "342088f5-0b07-81ee-9d72-cb2ee005602c",
@@ -253,8 +253,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJrymDbVSdX0YRQTLBtPGa8M8",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3280233,
+      "lng": 18.0913964
     },
     {
       "id": "342088f5-0b07-81d5-b766-fd64898456cb",
@@ -269,8 +269,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJt-rFEV-dX0YRkfr1r9LtGGk",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3344068,
+      "lng": 18.062324
     },
     {
       "id": "342088f5-0b07-815d-946f-e4c8dda7d018",
@@ -285,8 +285,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJq6qqqW6dX0YR4q_GAMMfhKQ",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.325952699999995,
+      "lng": 18.0738534
     },
     {
       "id": "342088f5-0b07-8164-abde-db755ab2ab00",
@@ -301,8 +301,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJhcH3Ofl3X0YRspJafWpcGM4",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3175886,
+      "lng": 18.0839872
     },
     {
       "id": "342088f5-0b07-8145-b666-dda4b65740c2",
@@ -317,8 +317,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJCSWNMWedX0YR52I_TTl8Pv8",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.334106,
+      "lng": 18.0583098
     },
     {
       "id": "342088f5-0b07-81bd-9244-c5d3aa2d1a4b",
@@ -333,8 +333,8 @@
       "checkedDate": "2026年4月",
       "placeId": "ChIJm8qsClidX0YR0H6OcH7SycU",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.325680000000006,
+      "lng": 18.0739917
     },
     {
       "id": "33a088f5-0b07-8129-ba9d-c962f1e58557",
@@ -347,10 +347,10 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJjS-DFeGjU0YRastkuQMsP1M",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 55.6048706,
+      "lng": 13.0168032
     },
     {
       "id": "33a088f5-0b07-812c-9669-d7b65c6ab94a",
@@ -363,10 +363,10 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJwalUOCh2X0YRh8El0tQRKMU",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.334311199999995,
+      "lng": 18.004151
     },
     {
       "id": "33a088f5-0b07-813e-9713-e99d1dac6829",
@@ -379,10 +379,10 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJy9UWQtR3X0YRNMI7Dr_B_Zk",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 59.3284229,
+      "lng": 18.023772200000003
     },
     {
       "id": "33a088f5-0b07-8142-9682-daae79bef27b",
@@ -395,10 +395,10 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJm7ydyqamU0YRRLvFPPTCDno",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 55.600623399999996,
+      "lng": 12.959513600000001
     },
     {
       "id": "33a088f5-0b07-81dd-9086-f49a37de376f",
@@ -411,10 +411,10 @@
       "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年4月",
-      "placeId": null,
+      "placeId": "ChIJq_ymsl2hU0YR8WlddR08diA",
       "extra": false,
-      "lat": null,
-      "lng": null
+      "lat": 55.593199999999996,
+      "lng": 13.0141
     },
     {
       "id": "334088f5-0b07-811e-bc2b-ee960fc94ce9",
