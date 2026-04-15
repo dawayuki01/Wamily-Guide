@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "id": "335088f5-0b07-81ef-989e-da72019d24ae",
-      "name": "ママはタイ人",
-      "type": "YouTube",
-      "description": "台湾在住の日本人ママが子連れでの食べ歩きや公園遊びをリアルに発信。親目線の安心感がここにあります。",
-      "url": "https://www.youtube.com/@mamaisthaiperson",
-      "addedDate": "2026-04-01"
-    },
-    {
-      "id": "334088f5-0b07-816f-b14f-fc506ececf92",
-      "name": "台湾観光局 公式YouTube",
-      "type": "YouTube",
-      "description": "台湾の食・文化・自然を映像で紹介。子どもが喜びそうなスポットのイメージをつかめる。",
-      "url": "https://www.youtube.com/@TWvisit",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-81b0-b365-fe4b6efb1f57",
       "name": "台湾観光局 日本語公式サイト",
       "type": "ブログ",
@@ -25,5 +9,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-04-15T06:19:58.690Z"
+  "updatedAt": "2026-04-15T09:23:49.595Z"
 }

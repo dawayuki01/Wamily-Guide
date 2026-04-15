@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・デイ（Araw ng Kagitingan/Araw ng Pag-asa）",
-      "description": "4月9日の国民の日。マニラ全域で文化的なパレードやコンサートが開催され、フィリピンの伝統文化を体験できます。家族向けの催しも多く、無料で参加できるエリアもあります。",
-      "date": "4月9日前後",
-      "place": "マニラ市内各所（リサール公園周辺など）",
-      "link": "https://www.tripadvisor.com/Tourism-g317155-Manila_Calabarzon_Region_Calabarzon_Tagalog_Region_Calabarzon_Province_Southern_Tagalog.html",
+      "title": "パスクア花市（Easter Flower Market）",
+      "description": "復活祭時期に開催される花市。マニラの教会周辺で色とりどりの花が並び、家族連れで楽しめます。フィリピンの春の風情を感じられる季節イベント。",
+      "date": "4月上旬〜中旬",
+      "place": "マニラ大聖堂周辺、イントラムロス地区",
+      "link": "",
       "free": true
     },
     {
-      "title": "スター・シティ（Star City）の春季イベント",
-      "description": "マニラの遊園地。4月に家族向けの特別プログラムやキャラクターグリーティングを実施。乳幼児から小学生まで楽しめるアトラクションが豊富です。",
-      "date": "4月全期間（特別プログラムは随時）",
-      "place": "Star City, Esplanade, Mall of Asia Complex, Pasay City",
-      "link": "https://www.star-city.com.ph/",
+      "title": "フィリピン国立博物館 子ども向けツアー",
+      "description": "国立博物館で開催される子ども向けガイドツアーや教育プログラム。恐竜化石や動物標本を学びながら探検でき、知的好奇心を刺激します。",
+      "date": "4月通期（週末開催）",
+      "place": "フィリピン国立博物館、ルネタ公園、マニラ市",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     },
     {
-      "title": "サンチャゴ要塞内の朝市・ウォーキングツアー",
-      "description": "イントラムロス地区のサンチャゴ要塞で朝早く開催される市場と、無料のウォーキングツアー。歴史を学びながら家族で散策でき、地元の文化を体験できます。",
-      "date": "4月全期間（毎朝）",
-      "place": "Fort Santiago, Intramuros, Manila",
-      "link": "https://www.intramuros.gov.ph/",
+      "title": "リサール公園でのピクニック＆屋外活動",
+      "description": "マニラ最大の公園。広大な芝生でピクニックや凧揚げ、散歩が楽しめます。4月は比較的天気が良く、家族向けの安全な屋外スポット。無料で利用可能。",
+      "date": "4月通期",
+      "place": "リサール公園、マニラ市",
+      "link": "https://www.rizalpark.gov.ph/",
       "free": true
     },
     {
-      "title": "タール火山・タール湖でのボートツアー",
-      "description": "マニラから日帰り可能な自然体験。新緑の季節の湖でのボートツアーは子どもが喜ぶアクティビティ。火山と湖のダイナミックな景観を家族で楽しめます。",
-      "date": "4月全期間（乾季で安定した天候）",
-      "place": "Taal Lake, Tagaytay City（マニラから約60km）",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "SMモール・オブ・アジア キッズゾーンと特別イベント",
+      "description": "東南アジア最大級のショッピングモール内のキッズ向け施設。4月は春休みイベントや子ども向けワークショップが開催。安全でエアコン完備。",
+      "date": "4月通期",
+      "place": "SMモール・オブ・アジア、パサイ市",
+      "link": "https://www.smmalls.com/mall/sm-mall-of-asia",
       "free": false
     },
     {
-      "title": "マニラ・オーシャン・パーク（Manila Ocean Park）の春季展示",
-      "description": "水族館とテーマパークの複合施設。4月に季節限定の海生物展示や子ども向けワークショップを開催。乳幼児向けプールエリアも人気です。",
-      "date": "4月全期間",
-      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Pasay City",
-      "link": "https://www.manilaoceanpark.com/",
+      "title": "アキノ水族館（ナショナル・アキノ・パビリオン）での海洋生物観察",
+      "description": "フィリピンの海の生き物を観察できる教育的施設。乳幼児から小学生まで楽しめ、海の生態系を学べます。4月は新学期シーズンで学習プログラムが充実。",
+      "date": "4月通期",
+      "place": "ナショナル・センター・フォー・サイエンス・アンド・テクノロジー、キエサン市",
+      "link": "https://www.ncst.upd.edu.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T06:20:55.120Z"
+  "updatedAt": "2026-04-15T09:24:38.391Z"
 }

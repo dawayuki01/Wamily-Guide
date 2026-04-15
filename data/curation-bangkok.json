@@ -9,14 +9,6 @@
       "addedDate": "2026-03-31"
     },
     {
-      "id": "334088f5-0b07-8196-8fa9-ce49e15c9638",
-      "name": "Amazing Thailand 公式YouTube",
-      "type": "YouTube",
-      "description": "タイ政府観光庁の公式チャンネル。寺院・自然・食文化など、タイの多様な魅力を映像で体感。",
-      "url": "https://www.youtube.com/@AmazingThailand",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-81ce-8705-d8f1c27ec8b2",
       "name": "famitabi（ファミ旅）",
       "type": "Instagram",
@@ -25,5 +17,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-04-15T06:19:58.691Z"
+  "updatedAt": "2026-04-15T09:23:49.595Z"
 }

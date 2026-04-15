@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "春の花祭り（チューリップ・桜）",
-      "description": "ソウル植物園でチューリップと遅咲きの桜が見頃。広い園内を散策でき、子ども向けの花や植物体験プログラムも開催されます。",
+      "title": "春の花祭り（桜・チューリップ）",
+      "description": "ソウル各地で桜とチューリップが咲き誇る季節。南山公園、汝矣島公園、石村湖などで花見が楽しめます。屋外での家族向けピクニックに最適です。",
       "date": "4月上旬〜中旬",
-      "place": "ソウル植物園（서울식물원）、江西区麻浦大路",
-      "link": "https://botanicalgarden.seoul.go.kr",
-      "free": false
-    },
-    {
-      "title": "清溪川春祭り（チョンggye-cheon Spring Festival）",
-      "description": "清溪川沿いで開催される春祭り。フードトラック、子ども向けパフォーマンス、手工芸体験などが無料で楽しめます。家族で散策しながら参加できます。",
-      "date": "4月中旬〜下旬",
-      "place": "清溪川一帯（광화문～종로5가）",
-      "link": "https://cheonggyecheon.seoul.go.kr",
+      "place": "南山公園、汝矣島公園、石村湖など",
+      "link": "https://www.visitseoul.net/",
       "free": true
     },
     {
-      "title": "タイムスクエアキッズフェスティバル",
-      "description": "大型商業施設での子ども向け特別企画。キャラクターグリーティング、ワークショップ、プレイエリアなど、乳幼児から小学生向けの楽しいコンテンツが集中。",
-      "date": "4月中旬〜下旬",
-      "place": "タイムスクエア（강남구 강남대로 932）",
-      "link": "https://www.timesquare.co.kr",
+      "title": "ソウルランドの春シーズンイベント",
+      "description": "テーマパーク・ソウルランドが春の特別プログラムを開催。子ども向けアトラクション、パレード、キャラクターミートが楽しめます。家族連れに人気です。",
+      "date": "4月全体",
+      "place": "ソウルランド（京畿道果川市）",
+      "link": "https://www.seoulland.co.kr/",
       "free": false
     },
     {
-      "title": "南山公園春のハイキング・季節展示",
-      "description": "山頂まで片道30分程度のハイキングコース。4月は新緑が美しく、子どもも無理なく歩けます。南山タワー周辺で春の花展や子ども向けイベントも開催。",
-      "date": "4月全期間",
-      "place": "南山公園（용산구 남산공원길 105）",
-      "link": "https://parks.seoul.go.kr/template/sub/namsan.do",
+      "title": "ソウル国際マンガアニメフェスティバル",
+      "description": "子どもに人気のキャラクター関連グッズ販売、体験ワークショップ、パフォーマンスが行われます。アニメ・マンガファンの家族向けイベント。",
+      "date": "4月中旬",
+      "place": "東大門デザインプラザ（DDP）、周辺会場",
+      "link": "https://www.seoulfestival.or.kr/",
       "free": true
     },
     {
-      "title": "ロッテワールド春の特別プログラム",
-      "description": "テーマパークで春限定アトラクションやキャラクターイベントが開催。屋内外両方のアトラクションで、乳幼児向けの乗り物や親子体験プログラムが充実。",
-      "date": "4月全期間",
-      "place": "ロッテワールド（잠실동 40-1 송파구）",
-      "link": "https://www.lotteworld.com",
+      "title": "子ども大公園での春プログラム",
+      "description": "子ども大公園の児童博物館が春の特別展示や体験プログラムを開催。動物園、遊園地、生態学習施設が一体で楽しめます。乳幼児〜小学生向け。",
+      "date": "4月全体",
+      "place": "子ども大公園（瑞草区）",
+      "link": "https://www.seoulchildrensmuseum.org/",
       "free": false
+    },
+    {
+      "title": "清溪川の春散策・キッズプログラム",
+      "description": "ソウル市街地を流れる清溪川で無料の春散策。定期的にキッズ向けの環境学習プログラムやマーケット開催。ベビーカーでも歩きやすい屋外スポット。",
+      "date": "4月全体",
+      "place": "清溪川（中区）",
+      "link": "https://www.cheonggyecheon.seoul.go.kr/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T06:21:17.311Z"
+  "updatedAt": "2026-04-15T09:25:00.830Z"
 }

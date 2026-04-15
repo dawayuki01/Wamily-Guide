@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの季節・モネの庭（ジヴェルニー）",
-      "description": "モネの睡蓮で有名なジヴェルニーの庭園は春が最高の季節。4月はチューリップが満開で、子どもも喜ぶ色鮮やかな景観が楽しめます。パリから日帰り可能。",
-      "date": "4月中旬〜下旬",
-      "place": "Fondation Claude Monet, 84 rue Claude Monet, 27620 Giverny",
-      "link": "https://fondation-monet.com",
-      "free": false
-    },
-    {
-      "title": "パリ・イースターマーケット（シャンゼリゼ）",
-      "description": "シャンゼリゼ通りで開催されるイースターマーケット。子ども向けワークショップ、キャラクターグリーティング、イースターエッグ探しなどが楽しめます。",
+      "title": "パリの桜（サクラ）鑑賞",
+      "description": "パリ各地の公園で日本の桜が咲き誇ります。特にボタニカルガーデンやバガテル公園で美しい桜が楽しめます。ピクニック向けで子どもとのんびり過ごせます。",
       "date": "4月上旬〜中旬",
-      "place": "Avenue des Champs-Élysées, Paris 8e",
-      "link": "https://www.paris-info.com",
+      "place": "バガテル公園（Parc de Bagatelle）、ブローニュの森内",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園の春のアクティビティ",
-      "description": "パリの庭園では桜や花が咲き誇る季節。子どもが遊べる遊具、池でのセーリング体験、ポニーライド（シーズン中）など家族向けアクティビティが豊富。",
-      "date": "4月全期間",
-      "place": "Jardin du Luxembourg, Paris 6e",
-      "link": "https://www.senat.fr/visite/jardin",
-      "free": true
-    },
-    {
-      "title": "キッズナイト・ルーヴル美術館",
-      "description": "ルーヴル美術館の子ども向け特別ナイトツアー。4月は教育的かつ楽しい企画が実施されることが多く、キッズガイド付きで美術館を探検できます。",
-      "date": "4月中旬〜下旬（開催日未定）",
-      "place": "Musée du Louvre, Rue de Rivoli, Paris 1er",
+      "title": "ルーヴル美術館の子ども向け特別プログラム",
+      "description": "春期の子ども向けワークショップや家族向けツアーが開催されます。年齢別プログラムで名画を楽しく学べます。要予約で人気が高いです。",
+      "date": "4月中旬〜下旬",
+      "place": "ルーヴル美術館（Musée du Louvre）、パレ・ロワイアル地区",
       "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "ポール・ベルモン公園のチェリーブロッサム観賞",
-      "description": "パリ北部のこの公園は桜の名所。4月上旬〜中旬が見頃。広大な芝生でピクニック、散歩ができ、子連れ家族に最適な無料スポット。",
-      "date": "4月上旬〜中旬",
-      "place": "Parc Paul Vaillant-Couturier, Villepinte, Seine-Saint-Denis",
-      "link": "",
+      "title": "パリ・イースター・マーケット",
+      "description": "シャンゼリゼやノートルダム周辺でイースターを祝うマーケットが開かれます。子ども向けの工作やチョコレート卵探しゲームが楽しめます。",
+      "date": "4月中旬",
+      "place": "シャンゼリゼ通り周辺",
+      "link": "https://www.paris.fr/evenements",
       "free": true
+    },
+    {
+      "title": "セーヌ川沿い・バーク・リヴ・ゴーシュでのサイクリング",
+      "description": "春の陽気の中、レンタサイクルでセーヌ川沿いを家族でサイクリング。子乗せ自転車もレンタル可能。景色が最高の季節です。",
+      "date": "4月上旬〜下旬",
+      "place": "バーク・リヴ・ゴーシュ（Rive Gauche）、セーヌ右岸サイクルロード",
+      "link": "https://velib-metropole.com",
+      "free": false
+    },
+    {
+      "title": "パリ動物園（Ménagerie du Jardin des Plantes）の春イベント",
+      "description": "新しい赤ちゃん動物たちが見られる季節。植物園とセットで家族向けワークショップや自然観察プログラムが充実しています。",
+      "date": "4月中旬〜下旬",
+      "place": "パリ動物園（Ménagerie）、植物園内、5区ラテン地区",
+      "link": "https://www.jardindesplantesdeparis.fr",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T06:20:21.668Z"
+  "updatedAt": "2026-04-15T09:24:05.640Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港花卉展覧会（Hong Kong Flower Show）",
-      "description": "春の花々が美しく展示される香港最大級のフラワーショー。子どもも楽しめる花の装飾迷路やフォトスポット、ワークショップなど家族向けプログラムが充実しています。",
-      "date": "4月上旬〜中旬",
-      "place": "ビクトリア・パーク（Victoria Park）、銅鑼湾",
-      "link": "https://www.lcsd.gov.hk/tc/events/hkflowershow.html",
+      "title": "香港国際映画祭（Hong Kong International Film Festival）",
+      "description": "4月に開催される映画祭。ファミリー向けセッションもあり、子ども向けのアニメーション作品やキッズムービーが上映されます。",
+      "date": "4月中旬〜下旬",
+      "place": "香港各地の映画館（主催：香港芸術中心）",
+      "link": "https://www.hkiff.org.hk",
       "free": false
     },
     {
-      "title": "イースターイベント（各テーマパーク）",
-      "description": "香港ディズニーランドやオーシャンパークでは、イースター限定の装飾、パレード、キャラクターグリーティング、子ども向けゲームが開催。春の園内で家族で楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "香港ディズニーランド・オーシャンパーク",
-      "link": "https://www.hongkongdisneyland.com",
-      "free": false
-    },
-    {
-      "title": "スターフェリーでの船上散策＆スターフェリー100周年イベント",
-      "description": "香港の象徴スターフェリーに乗船し、ヴィクトリア湾の海風を感じるアクティビティ。乳幼児も楽しめ、春の陽気で景色も最高。時間制限なく何度でも乗車可能です。",
+      "title": "スターフェリーでの海上散歩",
+      "description": "ビクトリアハーバーを横切るスターフェリーはアイコニック体験。家族向けのリラックスした時間で、4月の快適な気候で景色を楽しめます。",
       "date": "4月通年可能",
-      "place": "スターフェリー乗り場（セントラル〜尖沙咀間）",
+      "place": "スターフェリーターミナル（セントラル、ワンチャイ、尖沙咀など）",
       "link": "https://www.starferry.com.hk",
+      "free": false
+    },
+    {
+      "title": "香港花卉展覧会（Hong Kong Flower Show）",
+      "description": "3月下旬〜4月初旬に開催される春の花々展。色彩豊かな花壇、庭園、植物が展示され、子どもが季節を学べます。",
+      "date": "4月上旬（前年の実績により異なる）",
+      "place": "ビクトリア公園（Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk/en/hkflowershow",
       "free": true
     },
     {
-      "title": "香港公園での春の野外体験＆子ども向けプレイグラウンド",
-      "description": "広大な香港公園で無料で遊べるプレイエリア。池での野生生物観察、ハイキングコース、春の植物を学べるガイドツアーなど。乳幼児向けの安全な遊具も充実。",
+      "title": "ハイキング＆ピクニック（ドラゴンズバック、ラマ島ハイキング）",
+      "description": "4月の快適な気候でのハイキング体験。ドラゴンズバックなど初心者向けコースから、自然の中での屋外アクティビティが楽しめます。",
       "date": "4月通年可能",
-      "place": "香港公園（中環）、Central",
-      "link": "https://www.lcsd.gov.hk/en/parks-and-sports/parks/victoria-park-hongkong-park.html",
+      "place": "ドラゴンズバック（Big Wave Bay）、ラマ島など",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "香港サイエンスセンターの春季特別展示",
-      "description": "子ども向けの対話型展示や実験プログラムが充実。春の特別展（例：自然科学テーマ）では、年齢別のワークショップが開催。屋内で快適に学べます。",
-      "date": "4月通年開催",
-      "place": "香港サイエンスセンター、尖沙咀",
-      "link": "https://www.scicenorg.hk",
+      "title": "香港科学館（Hong Kong Science Museum）での春季展示・ワークショップ",
+      "description": "常設展示に加え、春季の特別展示やキッズ向けの科学ワークショップを開催。乳幼児〜小学生が楽しく学べます。",
+      "date": "4月通年開館",
+      "place": "香港科学館（Tsim Sha Tsui East）",
+      "link": "https://www.lcsd.gov.hk/en/sciencemuseum",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T06:21:26.001Z"
+  "updatedAt": "2026-04-15T09:25:09.058Z"
 }

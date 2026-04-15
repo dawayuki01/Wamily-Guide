@@ -25,14 +25,6 @@
       "addedDate": "2026-03-31"
     },
     {
-      "id": "334088f5-0b07-81a3-a4dc-d8105bfb1c54",
-      "name": "Kids and Family Bucket",
-      "type": "YouTube",
-      "description": "ロンドン在住ファミリーが、子連れで実際に訪れた場所や移動方法をリアルに紹介。同じ目線での情報が親切です。",
-      "url": "https://www.youtube.com/@kidsandfamilybucket",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-81a2-ac9f-da9d948a8c18",
       "name": "@visitlondon",
       "type": "Instagram",
@@ -45,17 +37,9 @@
       "name": "VisitBritain 公式YouTube",
       "type": "YouTube",
       "description": "英国政府観光庁の公式チャンネル。街の雰囲気・観光スポットを映像で確認できる。行く前に見ておきたい。",
-      "url": "https://www.youtube.com/@visitbritain",
-      "addedDate": "2026-03-31"
-    },
-    {
-      "id": "334088f5-0b07-81f4-9aac-e1e4a04f7dc2",
-      "name": "地球の歩き方 イギリス",
-      "type": "ブログ",
-      "description": "旅行者の定番ガイド公式サイト。医療・交通・子連れスポットまで網羅。事前情報収集の第一歩に。",
-      "url": "https://www.arukikata.co.jp/guidebook/area/GB/",
+      "url": "https://www.youtube.com/@LoveGREATBritain",
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-04-15T06:19:58.690Z"
+  "updatedAt": "2026-04-15T09:23:49.593Z"
 }

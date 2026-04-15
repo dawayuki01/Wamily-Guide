@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館の春の特別展示と子ども向けプログラム",
-      "description": "4月はスウェーデンの春を祝うイベント期間。子ども向けの手作りワークショップやインタラクティブ展示が充実。乳幼児から小学生まで楽しめる春のテーマ企画が開催されます。",
-      "date": "4月上旬～下旬",
-      "place": "スウェーデン国立博物館（Nationalmuseum）、Södra Blasieholmen, 111 48 Stockholm",
-      "link": "https://www.nationalmuseum.se/",
-      "free": false
-    },
-    {
-      "title": "スキャンセン野外博物館での春の動物ふれあいタイム",
-      "description": "北欧最大の野外博物館で、4月の春シーズンは子ウサギやヒツジの赤ちゃんなど新生児動物との触れ合いタイムが開催。伝統的なスウェーデン建築も見学できます。",
-      "date": "4月中旬～下旬",
-      "place": "スキャンセン（Skansen）、Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "title": "キューラガルデン（Skansen）の春季オープニング＆動物の赤ちゃん公開",
+      "description": "北欧最大の野外博物館で春がオープン。新生児の動物たちが登場し、子どもたちが直接触れ合える体験ができます。広大な敷地での散策も楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ドロットニングホルム宮殿庭園の春のウォーキング（無料）",
-      "description": "王妃の宮殿の広大な庭園が春色に。4月は花が咲き始め、家族で無料散策が楽しめます。湖の景色も美しく、ピクニックにも最適な季節です。",
-      "date": "4月中旬～下旬",
-      "place": "ドロットニングホルム宮殿（Drottningholm Palace）、 Drottningholm, 171 71 Ekerö",
-      "link": "https://www.kungligaslotten.se/english/drottningholm/",
-      "free": true
-    },
-    {
-      "title": "ユーランデン公園での春のナチュアルプレイグラウンド体験（無料）",
-      "description": "ストックホルム中心部の大型公園。4月は新緑が美しく、子ども向けの自然遊び施設が充実。セーリング体験や公園内の動物エリアも利用可能です。",
-      "date": "4月上旬～下旬",
-      "place": "ユーランデン公園（Ekoparken/Djurgården）、Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/en/ekoparken/",
-      "free": true
-    },
-    {
-      "title": "スウェーデン王立歌劇場のファミリー向け春公演",
-      "description": "4月はファミリー向けの児童劇やダンスパフォーマンスが上演される季節。子どもが初めて生の舞台芸術を体験する絶好の機会です。",
-      "date": "4月中旬～下旬（上演スケジュール確認必須）",
-      "place": "スウェーデン王立歌劇場（Operahuset）、Gustav Adolfs torg 2, 111 52 Stockholm",
-      "link": "https://www.operan.se/",
+      "title": "メーラレン湖での春のボートツアー＆アイスクリーム屋台",
+      "description": "ストックホルムを囲むメーラレン湖でのボートツアーが始まります。島巡りツアーで史跡巡りや自然観察ができ、春の優しい日差しの中での屋外アクティビティ。",
+      "date": "4月中旬〜下旬",
+      "place": "Strömkajen, 111 52 Stockholm（ツアー乗船地点）",
+      "link": "https://www.stromma.se/",
       "free": false
+    },
+    {
+      "title": "ストックホルム子ども博物館（Junibacken）の春のテーマ展示",
+      "description": "北欧の子どもの文学や文化をテーマにした室内施設。季節に応じた特別展示やワークショップが開催。乳幼児向けのプレイエリアも充実。",
+      "date": "4月上旬〜下旬",
+      "place": "Junibacken, Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.junibacken.se/",
+      "free": false
+    },
+    {
+      "title": "ローゼンダール宮殿庭園（Drottningholm Palace）の春の花園散策",
+      "description": "ユネスコ世界遺産の宮殿。4月は春の花々が咲き、広大な庭園の散策が最適。家族向けのガイドツアーも用意されています。",
+      "date": "4月中旬〜下旬",
+      "place": "Drottningholm Palace, Drottningholmsvägen, 178 02 Ekerö",
+      "link": "https://www.kungligaslotten.se/english/drottningholm-palace.html",
+      "free": false
+    },
+    {
+      "title": "ユーレスボリ公園（Erikspark）での無料春祭りと子ども向けイベント",
+      "description": "地元の大規模公園で開催される春の無料イベント。子ども向けステージ、ウサギやヤギなどの小動物コーナー、ピクニックエリアで家族向けに最適。",
+      "date": "4月中旬",
+      "place": "Erikspark, Norrmalm, Stockholm",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T06:20:31.086Z"
+  "updatedAt": "2026-04-15T09:24:14.388Z"
 }
