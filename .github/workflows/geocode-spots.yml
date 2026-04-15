@@ -12,6 +12,9 @@ on:
           - 'true'
           - 'false'
 
+permissions:
+  contents: write
+
 jobs:
   geocode:
     runs-on: ubuntu-latest
