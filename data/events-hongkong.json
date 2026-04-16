@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フローラルイベント2026",
-      "description": "春の花が咲き誇る季節。ビクトリア公園などで色とりどりの花展示やフラワーアレンジメント体験が楽しめます。子ども向けワークショップも開催されます。",
-      "date": "4月上旬〜中旬",
-      "place": "ビクトリア公園（Victoria Park）、香港島アップタウン",
-      "link": "https://www.discoverhongkong.com",
-      "free": true
+      "title": "香港フローラル展示会（Hong Kong Flower Show）",
+      "description": "春の花々が咲き誇る大規模な花の展示会。子どもが楽しめるインタラクティブエリア、花の香りや色彩を楽しむプログラムが充実しています。",
+      "date": "4月上旬〜中旬（通常3月末〜4月開催）",
+      "place": "ビクトリア・パーク（Victoria Park）、香港",
+      "link": "https://www.lcsd.gov.hk",
+      "free": false
     },
     {
-      "title": "スターフェリーでの船上体験と海岸散策",
-      "description": "香港湾を横断するスターフェリーに乗船。ビクトリアハーバーの景色を楽しみ、スターフェリーターミナル周辺の海岸歩道で春の海風を感じる屋外アクティビティ。",
-      "date": "4月全期間",
-      "place": "スターフェリー乗車点（セントラル〜尖沙咀間）",
+      "title": "イースター・イベント（ディズニーランド香港）",
+      "description": "香港ディズニーランドのイースター特別イベント。キャラクターグリーティング、限定パレード、子ども向けワークショップなど春のお祝いを満喫できます。",
+      "date": "4月上旬〜下旬",
+      "place": "香港ディズニーランド（Lantau Island）",
+      "link": "https://www.hongkongdisneyland.com",
+      "free": false
+    },
+    {
+      "title": "スターフェリー乗船体験",
+      "description": "香港を代表する交通機関でアイコニックなスターフェリー乗車。ビクトリアハーバーの景色を楽しみながら、子どもも大人も楽しめる屋外アクティビティです。",
+      "date": "通年（4月の天候も良好）",
+      "place": "スターフェリー乗り場（セントラル〜尖沙咀ルート）",
       "link": "https://www.starferry.com.hk",
       "free": false
     },
     {
-      "title": "香港キッズアート&クラフトフェスティバル",
-      "description": "子ども向けの美術・工芸ワークショップが集結。絵画、陶芸、手工芸など様々なクリエイティブ体験が小学生中心に楽しめるイベント。",
-      "date": "4月中旬〜下旬",
-      "place": "セントラル・ハーバーフロント（Central Harbourfront）",
-      "link": "https://www.harbourfrontcentre.com",
+      "title": "PMQ元創方（春のマーケット）",
+      "description": "香港の若手デザイナーによるクリエイティブマーケット。4月は春の特別展示やキッズワークショップが開催され、家族で楽しめる創作体験ができます。",
+      "date": "4月中旬〜下旬（月ごとイベント異なる）",
+      "place": "PMQ元創方（35 Aberdeen Street, Central）",
+      "link": "https://www.pmq.com.hk",
       "free": true
     },
     {
-      "title": "ウィンザーハウス（Windsor House）キッズプレイグラウンド特別開放",
-      "description": "ショッピングモールの屋内キッズパークで春特別プログラムを展開。乳幼児向けのソフトプレイエリアと小学生向けのアクティビティが充実。",
-      "date": "4月全期間（土日祝日中心）",
-      "place": "ウィンザーハウス（尖沙咀）、九龍半島",
-      "link": "https://www.windsor-house.com.hk",
-      "free": false
-    },
-    {
-      "title": "スターライトシアターチルドレンズシアター",
-      "description": "香港の伝統文化と現代パフォーマンスを融合させた子ども向け舞台作品。4月は家族向けのスペシャルプログラムが上演されます。",
-      "date": "4月中旬〜下旬",
-      "place": "スターライト・シアター（尖沙咀）",
-      "link": "https://www.apm.com.hk",
-      "free": false
+      "title": "香港公園での無料ピクニック＆探検",
+      "description": "美しい庭園、池、野鳥観察ができる公園。4月は春の季節で気候が最適。子どもが自然探検できる遊歩道があり、家族でのんびり過ごせます。",
+      "date": "通年（4月が最適季）",
+      "place": "香港公園（Hong Kong Park, Central）",
+      "link": "https://www.lcsd.gov.hk/en/parks/hkp",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T13:13:03.707Z"
+  "updatedAt": "2026-04-16T06:23:37.198Z"
 }

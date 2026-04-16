@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルムの春祭り（Stockholm Spring Festival）",
-      "description": "4月のストックホルムで開催される春の祭り。音楽、演劇、子ども向けワークショップなど、家族向けイベントが充実。街全体が春の訪れを祝う雰囲気を感じられます。",
+      "title": "王立動物園（Skansen）の春まつり",
+      "description": "北欧最大の野外博物館で、春の動物たちの活動を観察。子どもたちが動物とふれあえる体験エリアや伝統的なスウェーデン文化を学べます。",
+      "date": "4月上旬〜下旬",
+      "place": "Skansen, Djurgården, Stockholm",
+      "link": "https://www.skansen.se",
+      "free": false
+    },
+    {
+      "title": "チューリップの庭園ツアー（春の花々）",
+      "description": "ストックホルム市内の公園や庭園でチューリップやスイセンが満開に。Drottningholm宮殿の庭園など無料で散策できるスポット多数。",
       "date": "4月中旬〜下旬",
-      "place": "ストックホルム旧市街（Gamla Stan）及び市内各地",
-      "link": "https://www.visitstockholm.com/",
+      "place": "Drottningholm Palace Gardens, Stockholm",
+      "link": "https://www.kungligaslotten.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の春プログラム",
-      "description": "北欧最古の野外博物館で、春の動物園エリアがオープン。動物との触れ合いやスウェーデン伝統文化の体験が可能。子ども向けの特別ガイドツアーも開催されます。",
-      "date": "4月全般",
-      "place": "Skansen, Djurgården, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "Junibacken（子どもの本の世界）の春プログラム",
+      "description": "スウェーデンの児童文学をテーマにした屋内施設。4月は春シーズンの特別プログラムで、北欧の昔話や季節のワークショップを開催。",
+      "date": "4月全月",
+      "place": "Junibacken, Djurgården, Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     },
     {
-      "title": "チューリップと春の花見（Tulip Season）",
-      "description": "ストックホルム市内の公園や庭園でチューリップが見頃。ドロットニングホルム宮殿の庭園や公共公園で色とりどりの春の花々が楽しめます。散策に最適な季節です。",
-      "date": "4月上旬〜中旬",
-      "place": "Drottningholm Palace Gardens及びストックホルム市内各公園",
-      "link": "https://www.visitstockholm.com/",
+      "title": "バルティック海の島々へのプチ航海体験",
+      "description": "ストックホルム群島クルーズで、春の島巡り。水路での自然観察やシールライフの探索。多くのツアーは家族向けで、乳幼児も参加可能。",
+      "date": "4月上旬〜下旬",
+      "place": "ストックホルム群島出発地点（中央駅近郊）",
+      "link": "https://www.stockholmsSightseeing.com",
+      "free": false
+    },
+    {
+      "title": "Easter Market（イースターマーケット）",
+      "description": "ストックホルム市内各所でイースターシーズンのマーケット。手工芸品、伝統的なお菓子、子ども向けアクティビティが充実。",
+      "date": "4月上旬〜中旬（イースター周辺）",
+      "place": "Gamla Stan（旧市街）など市内各地",
+      "link": "",
       "free": true
-    },
-    {
-      "title": "ノルディスカ・ムセット美術館の子ども向けイベント",
-      "description": "北欧デザインと芸術を紹介する美術館で、4月は子ども向けクリエイティブワークショップを開催。絵画や工芸制作を通じた学習プログラムが豊富です。",
-      "date": "4月全般（週末中心）",
-      "place": "Nordiska Museet, Djurgårdsvägen 6-16, 115 93 Stockholm",
-      "link": "https://www.nordiskamuseet.se/",
-      "free": false
-    },
-    {
-      "title": "ユーランデン島でのサイクリングと自然散策",
-      "description": "春の陽気の中、ストックホルムの島々を自転車で巡るツアー。子ども乗せ自転車やレンタルが充実。野生動物観察や自然散策が楽しめる屋外アクティビティです。",
-      "date": "4月全般",
-      "place": "Ekoparken（City Bike rental stations throughout Stockholm）",
-      "link": "https://www.visitstockholm.com/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T13:12:04.549Z"
+  "updatedAt": "2026-04-16T06:22:37.019Z"
 }

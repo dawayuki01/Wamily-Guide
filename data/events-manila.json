@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・オーキッド・ソサエティ・ショー（Philippine Orchid Society Show）",
-      "description": "4月に開催される蘭の展示会。色とりどりの蘭を鑑賞でき、子どもも楽しめます。フィリピンの国花・蘭について学べる教育的なイベントです。",
-      "date": "4月中旬〜下旬",
-      "place": "San Lazaro Leisure Park, Sta. Cruz, Manila",
-      "link": "https://www.philippineorchidsociety.org",
-      "free": false
-    },
-    {
-      "title": "Manila Bay Sunset Cruise & Waterfront Activities",
-      "description": "マニラ湾でのサンセットクルーズや水辺でのアクティビティ。4月は天候が良好で家族向けの屋外アクティビティに最適。多くのツアーが子ども向けプログラムを用意しています。",
-      "date": "4月上旬〜下旬通年開催",
-      "place": "Manila Baywalk, Manila",
-      "link": "https://www.manilabaywalk.ph",
-      "free": false
-    },
-    {
-      "title": "Rizal Park（リサール公園）での無料アクティビティ",
-      "description": "マニラ最大級の公園。広い芝生、子ども向け遊び場、屋外彫刻展示があります。週末はファミリーで賑わい、ピクニックやジョギングに最適な無料スポット。",
-      "date": "4月上旬〜下旬通年利用可",
-      "place": "Rizal Park, Padre Burgos Avenue, Manila",
-      "link": "https://www.ncca.gov.ph",
+      "title": "フィリピン・アート・ウィーク（Philippine Art Week）",
+      "description": "マニラ全域で開催される現代美術イベント。子ども向けのワークショップやアートインスタレーション体験が多数。家族で美術文化に触れる機会。",
+      "date": "4月上旬〜中旬",
+      "place": "マニラ市内各所（ホワイト・キューブ・ギャラリーなど複数会場）",
+      "link": "https://www.philippinesartweek.ph",
       "free": true
     },
     {
-      "title": "Museo Pambata（子ども博物館）の春休み特別展示",
-      "description": "フィリピン唯一の子ども向け博物館。4月の春休み期間に教育的な特別展示やワークショップが開催されます。対話型展示で乳幼児から小学生まで楽しめます。",
+      "title": "リサール公園でのアウトドア・ファミリー・アクティビティ",
+      "description": "マニラの広大な公園でピクニック、子ども向けイベント、文化ショーが開催。屋外遊び場やジョギング、野外映画上映など。入園料無料。",
+      "date": "4月通期（毎週末イベント開催）",
+      "place": "リサール公園（Rizal Park）、マニラ市内",
+      "link": "https://www.rizalpark.gov.ph",
+      "free": true
+    },
+    {
+      "title": "グリーン・サマー・キャンプ（子ども向け自然体験）",
+      "description": "マニラ郊外の環境施設で開催。生態系学習、動物との触れ合い、園芸体験など。4月の暑季に適した屋外教育プログラム。",
       "date": "4月中旬〜下旬",
-      "place": "5F Taguig City Library Building, Bonifacio Global City, Taguig",
-      "link": "https://www.museumpambata.org",
+      "place": "マニラ郊外・環境学習センター（モンテンルパ地域）",
+      "link": "",
       "free": false
     },
     {
-      "title": "Quezon City Memorial Circle での無料ファミリーイベント",
-      "description": "毎月第1・3日曜日に開催されるコミュニティイベント。地元の食べ物、手工芸、キッズアクティビティが無料で楽しめます。4月は天候も良好で家族連れに人気。",
-      "date": "4月第1・3日曜日",
-      "place": "Quezon City Memorial Circle, Elliptical Road, Quezon City",
-      "link": "https://quezon.gov.ph",
+      "title": "キッズ・ファッション・フェスタ＆サマー・セール",
+      "description": "マニラのショッピングモールで開催される子ども向けファッションイベント。キッズステージショー、各種ワークショップ、無料体験コーナーあり。",
+      "date": "4月下旬",
+      "place": "SM モール・オブ・アジア（MOA）またはSM シティ・マニラ",
+      "link": "https://www.smmalls.com",
       "free": true
+    },
+    {
+      "title": "パンダスキャン動物園の特別イベント（Summer Fun Week）",
+      "description": "パンダスキャン動物園でのサマーシーズン特別プログラム。動物とのふれあい体験、餌やり体験、教育ショーなどが充実。",
+      "date": "4月中旬〜5月中旬",
+      "place": "パンダスキャン動物園（Parañaque地区）",
+      "link": "https://www.zoosanctuary.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-15T13:12:28.993Z"
+  "updatedAt": "2026-04-16T06:23:03.808Z"
 }
