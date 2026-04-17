@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アート・ウィーク（Philippine Art Week）",
-      "description": "マニラ全域で開催される現代美術イベント。子ども向けのワークショップやアートインスタレーション体験が多数。家族で美術文化に触れる機会。",
-      "date": "4月上旬〜中旬",
-      "place": "マニラ市内各所（ホワイト・キューブ・ギャラリーなど複数会場）",
-      "link": "https://www.philippinesartweek.ph",
+      "title": "Summer Fiesta 2026（サマーフィエスタ）",
+      "description": "4月から始まる夏季イベント。マニラの主要モールでキッズゲーム、ステージショー、ライブエンターテインメントが開催されます。家族向けの無料エリアも充実しています。",
+      "date": "4月上旬〜5月末",
+      "place": "SM モール・オブ・アジア、SM シティマニラなど各地のSMモール",
+      "link": "",
       "free": true
     },
     {
-      "title": "リサール公園でのアウトドア・ファミリー・アクティビティ",
-      "description": "マニラの広大な公園でピクニック、子ども向けイベント、文化ショーが開催。屋外遊び場やジョギング、野外映画上映など。入園料無料。",
-      "date": "4月通期（毎週末イベント開催）",
-      "place": "リサール公園（Rizal Park）、マニラ市内",
-      "link": "https://www.rizalpark.gov.ph",
-      "free": true
-    },
-    {
-      "title": "グリーン・サマー・キャンプ（子ども向け自然体験）",
-      "description": "マニラ郊外の環境施設で開催。生態系学習、動物との触れ合い、園芸体験など。4月の暑季に適した屋外教育プログラム。",
-      "date": "4月中旬〜下旬",
-      "place": "マニラ郊外・環境学習センター（モンテンルパ地域）",
+      "title": "Philippine Flower Festival（フィリピンフラワーフェスティバル）",
+      "description": "4月中旬に開催される花の祭典。フィリピンの美しい花々が展示され、ガーデンショー、キッズアクティビティ、フラワーアレンジメント体験が楽しめます。",
+      "date": "4月中旬",
+      "place": "マニラ植物園、テイフォポ周辺施設",
       "link": "",
       "free": false
     },
     {
-      "title": "キッズ・ファッション・フェスタ＆サマー・セール",
-      "description": "マニラのショッピングモールで開催される子ども向けファッションイベント。キッズステージショー、各種ワークショップ、無料体験コーナーあり。",
-      "date": "4月下旬",
-      "place": "SM モール・オブ・アジア（MOA）またはSM シティ・マニラ",
-      "link": "https://www.smmalls.com",
+      "title": "Dinosaurs Around the World（恐竜展）at DMCI",
+      "description": "モールで開催される期間限定の恐竜テーマ展。インタラクティブな恐竜スケルトン展示、子ども向けの恐竜教室、手作り体験が充実。小学生に人気です。",
+      "date": "4月上旬〜中旬",
+      "place": "DMCI Homes Display Center, Manila",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "Rizal Park Free Events（リサール公園の無料イベント）",
+      "description": "マニラ最大級の都市公園で開催される家族向けイベント。屋外映画上映、キッズスポーツ大会、フェスティバルが4月に複数開催。無料で参加できます。",
+      "date": "4月通期（週末）",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.ncca.gov.ph/",
       "free": true
     },
     {
-      "title": "パンダスキャン動物園の特別イベント（Summer Fun Week）",
-      "description": "パンダスキャン動物園でのサマーシーズン特別プログラム。動物とのふれあい体験、餌やり体験、教育ショーなどが充実。",
-      "date": "4月中旬〜5月中旬",
-      "place": "パンダスキャン動物園（Parañaque地区）",
-      "link": "https://www.zoosanctuary.org",
-      "free": false
+      "title": "Manila Bay Sunset Family Picnic Programs",
+      "description": "マニラベイ沿岸で開催される家族向けピクニックプログラム。屋外レクリエーション、キッズゲーム、夕焼け観賞。安全に配慮した乳幼児向けエリアも用意されています。",
+      "date": "4月通期（毎週末）",
+      "place": "Manila Bay Esplanade, Manila",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-16T06:23:03.808Z"
+  "updatedAt": "2026-04-17T06:23:43.254Z"
 }

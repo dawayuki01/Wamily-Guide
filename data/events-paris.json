@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ春祭りフローラリエ（Floralies Parisiennes）",
-      "description": "パリの庭園や公園で開催される春の花の祭典。色鮮やかなチューリップ、桜、牡丹などが咲き誇り、子どもと一緒に自然美を楽しめるイベント。",
-      "date": "4月上旬〜中旬",
-      "place": "パリ市内各所（メインはジャルダン・デ・プラント、アンドレ・シトロエン公園など）",
-      "link": "https://www.paris.fr",
+      "title": "パリ植物園（Jardin des Plantes）の春の花展示",
+      "description": "4月はチューリップ、桜、牡丹が見頃。広大な庭園で家族でのんびり散策できます。園内には動物園や自然歴史博物館もあり、子どもも楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
+      "link": "https://www.jardindesplantes.mnhn.fr/",
       "free": true
     },
     {
-      "title": "シャルル・ド・ゴール公園での春の屋外アクティビティ",
-      "description": "広大な公園で家族向けの春イベント開催。ピクニック、散策、遊び場で子どもたちが自由に遊べる。季節の花や自然観察が楽しめる。",
-      "date": "4月中旬〜下旬",
-      "place": "Parc Charles de Gaulle, Issy-les-Moulineaux",
-      "link": "https://www.issy.com",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館「キッズ向け特別ガイドツアー」",
-      "description": "4月に開催される子ども向けの特別鑑賞プログラム。有名な美術作品を子どもにもわかりやすく説明。家族で美術館文化を体験できる。",
-      "date": "4月中旬〜下旬",
-      "place": "ルーヴル美術館、Rue de Rivoli, 75004 Paris",
-      "link": "https://www.louvre.fr",
+      "title": "ルーヴル美術館の子ども向け特別プログラム",
+      "description": "春期間中、ファミリーガイドツアーやアートワークショップを開催。子ども向けの作品解説で美術館を楽しく学べます。",
+      "date": "4月上旬〜下旬",
+      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris",
+      "link": "https://www.louvre.fr/",
       "free": false
     },
     {
-      "title": "パリの蚤の市・マーケット（Marché aux Puces de Saint-Ouen）",
-      "description": "パリを代表する大規模蚤の市。おもちゃ、子ども服、アンティークが豊富。家族で掘り出し物探しを楽しめ、迷路のような市場は冒険気分。",
-      "date": "4月毎週末",
-      "place": "Marché aux Puces de Saint-Ouen, 93400 Saint-Ouen",
-      "link": "https://www.marcheauxpuces-saintouen.com",
+      "title": "セーヌ河沿いの散策路とボート体験",
+      "description": "4月は気候が良く、セーヌ河沿いの散策が気持ちいい季節。家族向けリバーボートツアーでパリの景観を楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Seine River, Various departure points (Pont de l'Alma, Pont de Notre-Dame)",
+      "link": "https://www.bateauxparisiens.com/",
+      "free": false
+    },
+    {
+      "title": "パリ市内の定期開催マーケット（Marché Bastille）",
+      "description": "木曜と日曜に開催される青空市場。春野菜、地元の食べ物、工芸品が並び、子どもと一緒に地元文化を体験できます。",
+      "date": "4月毎週木曜・日曜",
+      "place": "Boulevard Richard Lenoir, 75011 Paris",
+      "link": "https://www.paris.fr/",
       "free": true
     },
     {
-      "title": "シテ科学館の春期特別展示・ワークショップ",
-      "description": "乳幼児から小学生向けの体験型展示とワークショップ。科学実験、プラネタリウムなど子どもの学習と遊びを融合させたプログラム。",
-      "date": "4月通年開催",
+      "title": "シテ科学館（Cité des Sciences）のキッズゾーン特別展示",
+      "description": "春期間の常設・特別展示。幼児～小学生向けのインタラクティブな科学体験コーナーで、遊びながら学べます。",
+      "date": "4月上旬〜下旬",
       "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
+      "link": "https://www.cite-sciences.fr/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-16T06:22:27.912Z"
+  "updatedAt": "2026-04-17T06:23:10.695Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フローラル展示会（Hong Kong Flower Show）",
-      "description": "春の花々が咲き誇る大規模な花の展示会。子どもが楽しめるインタラクティブエリア、花の香りや色彩を楽しむプログラムが充実しています。",
-      "date": "4月上旬〜中旬（通常3月末〜4月開催）",
-      "place": "ビクトリア・パーク（Victoria Park）、香港",
-      "link": "https://www.lcsd.gov.hk",
+      "title": "香港フローラルフェスティバル（Hong Kong Flower Show）",
+      "description": "春の花々が美しく展示される大規模なフラワーショー。子ども向けワークショップやガーデン迷路など家族向けアクティビティが充実しています。",
+      "date": "4月上旬〜中旬",
+      "place": "ビクトリア公園（Victoria Park）、銅鑼湾（Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk/en/hkflowershow/",
       "free": false
     },
     {
-      "title": "イースター・イベント（ディズニーランド香港）",
-      "description": "香港ディズニーランドのイースター特別イベント。キャラクターグリーティング、限定パレード、子ども向けワークショップなど春のお祝いを満喫できます。",
+      "title": "チェリーウッド パーク ピクニック＆アウトドアアクティビティ",
+      "description": "香港の野山でハイキングやピクニックが楽しめます。4月は気候が良く、家族向けの初級ルートが最適な季節です。野外で自然を満喫できます。",
+      "date": "4月中旬〜下旬",
+      "place": "スタンレーセクション、南朗山公園など香港各地のハイキングコース",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "香港ディズニーランド「スプリングセレブレーション」特別プログラム",
+      "description": "春をテーマにした特別装飾やパレード、子ども向けキャラクターグリート、季節限定アトラクションが楽しめます。",
       "date": "4月上旬〜下旬",
-      "place": "香港ディズニーランド（Lantau Island）",
-      "link": "https://www.hongkongdisneyland.com",
+      "place": "香港ディズニーランド、ランタオ島",
+      "link": "https://www.hongkongdisneyland.com/",
       "free": false
     },
     {
-      "title": "スターフェリー乗船体験",
-      "description": "香港を代表する交通機関でアイコニックなスターフェリー乗車。ビクトリアハーバーの景色を楽しみながら、子どもも大人も楽しめる屋外アクティビティです。",
-      "date": "通年（4月の天候も良好）",
-      "place": "スターフェリー乗り場（セントラル〜尖沙咀ルート）",
-      "link": "https://www.starferry.com.hk",
+      "title": "スターフェリー乗船＆ビクトリアハーバー散策",
+      "description": "香港湾を横断する歴史あるフェリーで、子どもも楽しい体験ができます。甲板から景色を眺め、ハーバーサイドを散策するのに最適な季節です。",
+      "date": "4月通年可能",
+      "place": "スターフェリー乗り場（セントラル・ワンチャイ）",
+      "link": "https://www.starferry.com.hk/",
+      "free": true
+    },
+    {
+      "title": "ウェットランド パーク「スプリング バードウォッチング」",
+      "description": "野鳥観察スポットとして知られ、春の渡り鳥シーズンに様々な野鳥が観察できます。子ども向けのガイドツアーやワークショップも開催されます。",
+      "date": "4月上旬〜中旬",
+      "place": "ウェットランドパーク（Wetland Park）、元朗（Yuen Long）",
+      "link": "https://www.wetlandpark.gov.hk/",
       "free": false
-    },
-    {
-      "title": "PMQ元創方（春のマーケット）",
-      "description": "香港の若手デザイナーによるクリエイティブマーケット。4月は春の特別展示やキッズワークショップが開催され、家族で楽しめる創作体験ができます。",
-      "date": "4月中旬〜下旬（月ごとイベント異なる）",
-      "place": "PMQ元創方（35 Aberdeen Street, Central）",
-      "link": "https://www.pmq.com.hk",
-      "free": true
-    },
-    {
-      "title": "香港公園での無料ピクニック＆探検",
-      "description": "美しい庭園、池、野鳥観察ができる公園。4月は春の季節で気候が最適。子どもが自然探検できる遊歩道があり、家族でのんびり過ごせます。",
-      "date": "通年（4月が最適季）",
-      "place": "香港公園（Hong Kong Park, Central）",
-      "link": "https://www.lcsd.gov.hk/en/parks/hkp",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-16T06:23:37.198Z"
+  "updatedAt": "2026-04-17T06:24:16.579Z"
 }

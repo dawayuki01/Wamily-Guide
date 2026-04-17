@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles Times Festival of Books",
-      "description": "USC校キャンパスで開催される北米最大級の書籍フェスティバル。子ども向けの読書イベント、ワークショップ、キャラクターグリートが充実。無料入場で家族向けプログラムも豊富です。",
-      "date": "4月中旬（通常第3週末）",
-      "place": "University of Southern California, Los Angeles, CA",
-      "link": "https://www.latimes.com/festival-of-books",
-      "free": true
-    },
-    {
-      "title": "Descanso Gardens - Spring Bloom & Easter Events",
-      "description": "ラ・カナダ・フリントリッジの広大な庭園。春の花々が満開で、イースターシーズンは子ども向けイベントや卵探しが開催されます。屋外での自然鑑賞に最適。",
-      "date": "4月上旬〜下旬",
-      "place": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org",
+      "title": "Los Angeles Times Travel Show",
+      "description": "家族向けの旅行博覧会。世界中の観光地のブースが出展し、子ども向けアクティビティやゲーム、特別割引チケットが楽しめます。",
+      "date": "4月上旬",
+      "place": "Los Angeles Convention Center, 1201 S Figueroa St, Los Angeles, CA 90015",
+      "link": "https://www.latimes.com/travel/",
       "free": false
     },
     {
-      "title": "Long Beach Dockweiler State Beach - Spring Family Programs",
-      "description": "ロングビーチの美しいビーチで、春の海辺アクティビティが充実。家族向けのビーチクリーンアップ、ネイチャーウォーク、水生生物観察などが開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "1200 Pacific Coast Highway, Long Beach, CA 90802",
-      "link": "https://www.longbeachca.gov/government/departments/parks-recreation-and-marine",
-      "free": true
-    },
-    {
-      "title": "Los Angeles Zoo - Spring into Action Program",
-      "description": "グリフィス公園内の動物園。春限定の子ども向けワークショップ、動物とのふれあいタイム、自然教育プログラムが開催されます。4月は新しい動物の赤ちゃんが見られることもあります。",
-      "date": "4月上旬〜下旬",
-      "place": "5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "title": "Descanso Gardens Spring Flower Festival",
+      "description": "春の花が満開のデスカンソガーデンズで、チューリップ、ジャスミン、牡丹などが鑑賞できます。子ども向けガイドツアーも実施。",
+      "date": "4月中旬〜下旬",
+      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org/",
       "free": false
     },
     {
-      "title": "Santa Monica Pier Spring Carnival & Events",
-      "description": "サンタモニカ桟橋で春のカーニバルやファミリー向けイベントが開催。無料で楽しめるエリアも多く、屋外での遊園地アトラクション、ストリートパフォーマンス、海辺での散策が楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.org",
+      "title": "Earth Day Events at Griffith Park",
+      "description": "4月22日前後にグリフィスパークで開催。無料の環境教育ワークショップ、自然観察ツアー、子ども向けゲームなど家族で楽しめます。",
+      "date": "4月下旬",
+      "place": "Griffith Park, 4730 Crystal Springs Drive, Los Angeles, CA 90027",
+      "link": "https://www.laparks.org/griffith-park",
+      "free": true
+    },
+    {
+      "title": "The Broad Museum Spring Programs",
+      "description": "アート美術館の子ども向け特別プログラム。ワークショップやアートツアーなど、子どもが現代美術を学べます。一部無料。",
+      "date": "4月通期",
+      "place": "The Broad, 221 S Grand Ave, Los Angeles, CA 90012",
+      "link": "https://www.thebroad.org/",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier Spring Activities",
+      "description": "春の海辺で家族向けアクティビティが充実。ゲームやアミューズメント、無料の海辺散策など。イルカ目撃の季節でもあります。",
+      "date": "4月通期",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-16T06:23:11.749Z"
+  "updatedAt": "2026-04-17T06:23:49.842Z"
 }

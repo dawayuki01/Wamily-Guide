@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ハワイ・フィルム・フェスティバル（Hawaii Film Festival）",
-      "description": "ハワイの映画祭。子ども向けのファミリー上映会やアニメーション作品の特別スクリーニングが開催される。地元文化と映画の融合を体験できます。",
-      "date": "4月中旬〜下旬",
-      "place": "ホノルル各地の映画館（主催者にご確認ください）",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "ホノルル・ファーマーズマーケット（Honolulu Farmers Market）",
-      "description": "毎週土曜開催の無料マーケット。新鮮なトロピカルフルーツ、地元野菜、ハンドメイド品が並ぶ。家族で歩きながら地元文化を体験できます。",
-      "date": "4月毎週土曜",
-      "place": "KCC ファーマーズマーケット、カピオラニパーク周辺、ホノルル",
-      "link": "https://www.honolulufarmersmarket.com/",
+      "title": "merrie monarch festival（メリーモナークフェスティバル）",
+      "description": "ハワイ最大級のフラ競技会。華やかなハワイアン衣装と伝統フラの美しさが楽しめます。パレードは無料観覧できます。",
+      "date": "4月中旬",
+      "place": "ハワイ島ヒロ市 エディス・カナカオレスタジアム",
+      "link": "https://www.merriemonarch.org",
       "free": true
     },
     {
-      "title": "ダイアモンドヘッド（Diamond Head）トレッキング",
-      "description": "ハワイの象徴的な火山。往復約1.5時間の初心者向けハイキング。頂上からホノルルの絶景が見られ、子どもの年齢に応じて楽しめます。",
-      "date": "4月通年（早朝がおすすめ）",
-      "place": "ダイアモンドヘッド・ステートモニュメント、ホノルル",
-      "link": "https://dlnr.hawaii.gov/dofaw/hiking/oahu/",
-      "free": false
-    },
-    {
-      "title": "イースター・エッグ・ハント（Easter Egg Hunt）各地開催",
-      "description": "4月のイースター時期に、ビーチやパークで開催される卵探しイベント。子どもたちの楽しみ満載で、地元家族との交流機会があります。",
-      "date": "4月上旬〜中旬（イースター時期）",
-      "place": "ワイキキビーチ、カピオラニパーク周辺など複数会場",
+      "title": "イースター・バイ・ザ・シー（Easter by the Sea）",
+      "description": "ワイキキビーチでの無料イースターイベント。イースターエッグハント、音楽、子ども向けゲームなど家族で楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "ワイキキビーチ（オアフ島ホノルル）",
       "link": "",
       "free": true
     },
     {
-      "title": "ハワイ子ども博物館（Hawai'i Children's Museum）特別プログラム",
-      "description": "春季特別展示や季節限定ワークショップ開催。乳幼児から小学生向けの体験型学習。ハワイ文化、科学、アート体験が充実。",
-      "date": "4月通年開館（春季特別展開催）",
-      "place": "ホノルル、カピオラニパーク内",
-      "link": "https://www.hawaiichildrensmuseum.org/",
+      "title": "ハナウマ湾でのシュノーケリング",
+      "description": "透明度の高い海でカラフルな熱帯魚が見られます。4月は水温が温かく、小さなお子さんでも楽しみやすい屋外アクティビティです。",
+      "date": "4月上旬〜下旬",
+      "place": "ハナウマ湾（オアフ島ホノルル）",
+      "link": "https://www.honolulu.gov/parks-and-recreation/facility/hanauma-bay.html",
       "free": false
+    },
+    {
+      "title": "ホノルル動物園の春のイベント",
+      "description": "春季限定の特別プログラムや動物とのふれあいイベント。子ども向けワークショップも開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "ホノルル動物園（オアフ島ワイキキ）",
+      "link": "https://www.honoluluzoo.org",
+      "free": false
+    },
+    {
+      "title": "アロハスタジアム・サンシャイン・マーケット",
+      "description": "地元産の野菜、フルーツ、ハワイアングッズが並ぶ屋外マーケット。新鮮なパパイヤやマンゴーを試食できます。",
+      "date": "4月毎週水曜・日曜",
+      "place": "アロハスタジアム駐車場（オアフ島ホノルル）",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-16T06:23:19.917Z"
+  "updatedAt": "2026-04-17T06:24:01.150Z"
 }

@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "シンガポール・チューリップ・フェスティバル",
-      "description": "Gardens by the Bayで開催される春の花の祭典。100万本を超えるチューリップと季節の花が園内を彩ります。子どもも楽しめる花の迷路やフォトスポットが豊富です。",
+      "description": "シンガポール植物園で開催される春のイベント。色とりどりのチューリップと春の花々が展示され、子どもたちが花の美しさを楽しめます。園内は広く、家族向けの散策に最適です。",
       "date": "4月上旬〜中旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）",
+      "link": "https://www.nparks.gov.sg/sbg",
+      "free": true
+    },
+    {
+      "title": "イースター・ファミリー・フェスティバル",
+      "description": "ガーデンズ・バイ・ザ・ベイやショッピングモールで開催されるイースターイベント。卵狩りや子ども向けワークショップ、キャラクターグリーティングなど家族向けアクティビティが充実しています。",
+      "date": "4月中旬～下旬",
+      "place": "ガーデンズ・バイ・ザ・ベイ（Gardens by the Bay）ほか複数施設",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "シンガポール・バード・パーク・ファミリー・デー",
-      "description": "バードパークで開催される家族向けイベント。鳥との触れ合い、餌やり体験、キッズワークショップが楽しめます。屋外で自然を学べる貴重な機会です。",
-      "date": "4月中旬〜下旬の土日",
-      "place": "Jurong Bird Park, 2 Jurong Hill, Singapore 628925",
-      "link": "https://www.birdpark.sg",
+      "title": "ナイト・サファリ・スプリング・アクティビティ",
+      "description": "ナイト・サファリで春限定の夜間サファリツアーが開催。子どもたちが暗闇の中で動物を観察する特別な体験ができ、非日常の冒険が楽しめます。",
+      "date": "4月上旬～下旬",
+      "place": "ナイト・サファリ（Night Safari）",
+      "link": "https://www.nightsafari.com.sg",
       "free": false
     },
     {
-      "title": "イースター・エッグ・ハント（各ショッピングモール）",
-      "description": "シンガポール各地のショッピングモールで開催されるイースター企画。子どもたちがカラフルな卵を探すゲームやクラフト体験が無料で楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "Orchard Road周辺の主要ショッピングモール（Takashimaya、Paragon、Ngee Ann Cityなど）",
+      "title": "イースター・マーケット・アット・パッカー・セント",
+      "description": "パッカー・セント界隈で開催されるイースターマーケット。手作りクラフト、キッズ向けゲーム、フードスタールが並び、家族で気軽に楽しめる無料イベントです。",
+      "date": "4月中旬～下旬",
+      "place": "パッカー・セント周辺（Packer Street Area）",
       "link": "",
       "free": true
     },
     {
-      "title": "East Coast Park での屋外ファミリー・アクティビティ",
-      "description": "シンガポール最大のビーチパーク。4月は天気が良く、サイクリング、スケート、ビーチ遊びが最適。無料で家族全員が楽しめる広大な自然空間です。",
-      "date": "4月上旬〜下旬（通年）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
-      "free": true
-    },
-    {
-      "title": "シンガポール・サイエンス・センター・スプリング・プログラム",
-      "description": "子ども向けSTEMワークショップや特別展示。屋内施設なので天候を気にせず、乳幼児から小学生まで楽しめる科学体験が充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "Science Centre Singapore, 15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
+      "title": "セントーサ・アイランド・スプリング・ウォーターパーク",
+      "description": "セントーサ島の屋外ウォーターパークで春の期間限定営業。子ども向けプールやスライダー、ビーチでの水遊びなど、家族で一日中楽しめるアクティビティです。",
+      "date": "4月上旬～下旬",
+      "place": "セントーサ・アイランド（Sentosa Island）",
+      "link": "https://www.sentosa.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-16T06:22:47.404Z"
+  "updatedAt": "2026-04-17T06:23:27.140Z"
 }
