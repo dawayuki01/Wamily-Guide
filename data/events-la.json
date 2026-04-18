@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Los Angeles Times Travel Show",
-      "description": "家族向けの旅行博覧会。世界中の観光地のブースが出展し、子ども向けアクティビティやゲーム、特別割引チケットが楽しめます。",
-      "date": "4月上旬",
+      "description": "旅行関連の展示会。子ども向けアクティビティ、家族向け情報ブースが充実。春休みの家族に人気で、チケット購入で入場できます。",
+      "date": "4月上旬〜中旬",
       "place": "Los Angeles Convention Center, 1201 S Figueroa St, Los Angeles, CA 90015",
-      "link": "https://www.latimes.com/travel/",
+      "link": "https://www.latravelshow.com",
       "free": false
     },
     {
-      "title": "Descanso Gardens Spring Flower Festival",
-      "description": "春の花が満開のデスカンソガーデンズで、チューリップ、ジャスミン、牡丹などが鑑賞できます。子ども向けガイドツアーも実施。",
+      "title": "Descanso Gardens Spring Bloom & Cherry Blossom Festival",
+      "description": "4月は春の花が満開。桜、チューリップ、シャクナゲなど季節の花々を楽しめます。子ども向けガイドツアーやワークショップも開催。",
+      "date": "4月全月",
+      "place": "Descanso Gardens, 1418 Descanso Dr, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org",
+      "free": false
+    },
+    {
+      "title": "Echo Park Lake Lotus Festival & Spring Walk",
+      "description": "エコーパーク周辺での春祭り。池の遊歩道散策、ピクニック、地元アーティストの作品展示など。無料で楽しめる屋外アクティビティです。",
       "date": "4月中旬〜下旬",
-      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org/",
-      "free": false
-    },
-    {
-      "title": "Earth Day Events at Griffith Park",
-      "description": "4月22日前後にグリフィスパークで開催。無料の環境教育ワークショップ、自然観察ツアー、子ども向けゲームなど家族で楽しめます。",
-      "date": "4月下旬",
-      "place": "Griffith Park, 4730 Crystal Springs Drive, Los Angeles, CA 90027",
-      "link": "https://www.laparks.org/griffith-park",
+      "place": "Echo Park Lake, 751 Echo Park Ave, Los Angeles, CA 90026",
+      "link": "https://www.laparks.org/park/echo-park",
       "free": true
     },
     {
-      "title": "The Broad Museum Spring Programs",
-      "description": "アート美術館の子ども向け特別プログラム。ワークショップやアートツアーなど、子どもが現代美術を学べます。一部無料。",
-      "date": "4月通期",
-      "place": "The Broad, 221 S Grand Ave, Los Angeles, CA 90012",
-      "link": "https://www.thebroad.org/",
+      "title": "Los Angeles Zoo Spring Break Programs",
+      "description": "4月の春休み期間中、子ども向けの特別教育プログラムやスクール休暇のワークショップを開催。動物とのふれあい体験が充実。",
+      "date": "4月上旬〜中旬（春休み期間）",
+      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Dr, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
       "free": false
     },
     {
-      "title": "Santa Monica Pier Spring Activities",
-      "description": "春の海辺で家族向けアクティビティが充実。ゲームやアミューズメント、無料の海辺散策など。イルカ目撃の季節でもあります。",
-      "date": "4月通期",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com/",
+      "title": "Griffith Park Easter Egg Hunt & Spring Festival",
+      "description": "イースター周辺（4月中旬）にグリフィスパークで開催される家族向けイベント。イースターエッグハント、春の自然散策、無料ピクニックエリア利用可。",
+      "date": "4月中旬（イースター時期）",
+      "place": "Griffith Park, 4730 Crystal Springs Dr, Los Angeles, CA 90027",
+      "link": "https://www.laparks.org/park/griffith-park",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-17T06:23:49.842Z"
+  "updatedAt": "2026-04-18T05:52:21.134Z"
 }

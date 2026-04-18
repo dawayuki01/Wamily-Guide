@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム群島の春クルーズ",
-      "description": "30,000島から成るストックホルム群島で、春の自然を楽しむクルーズ。野生動物観察や新緑の島々を巡ります。乳幼児連れでも乗船可能な便が多くあります。",
-      "date": "4月全月（気象条件により変動）",
-      "place": "ストックホルム中央駅（Norrmalm地区）発着",
-      "link": "https://www.stromkaferistockholm.se",
-      "free": false
-    },
-    {
-      "title": "スカンセン屋外博物館の春祭り",
-      "description": "スウェーデン伝統文化を学べるスカンセンで、春の訪れを祝うイベント。動物との触れ合い、伝統工芸体験、昔ながらの遊びなど家族向けプログラムが豊富です。",
+      "title": "チューリップフェスティバル（Stockholms Tulipfestival）",
+      "description": "ストックホルム市内の公園を彩る約100万本のチューリップが咲き誇る春の風物詩。ユーセスキルドパルケンなど複数の公園で楽しめます。無料で散策可能です。",
       "date": "4月中旬〜下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
-      "free": false
-    },
-    {
-      "title": "ユーセボリ庭園（ユーセボリのチューリップ）",
-      "description": "ストックホルム郊外の歴史的なユーセボリ宮殿庭園で、春のチューリップが満開。広大な庭園散策は子どもも楽しめます。自然に囲まれた無料エリアもあります。",
-      "date": "4月中旬〜5月上旬",
-      "place": "Ekerö, Västra Malmövägen, 17800 Ekerö",
-      "link": "https://www.royalparks.se/drottningholm",
-      "free": false
-    },
-    {
-      "title": "ストックホルムの公園でのピクニック（無料）",
-      "description": "ユングフルホルメン公園やヘリーゴーランデン公園など市内の公園。4月の春の訪れで自然が活動を始めます。遊具も充実で、家族向けの無料アクティビティです。",
-      "date": "4月全月",
-      "place": "Djurgården地区および市内各公園",
-      "link": "",
+      "place": "ユーセスキルドパルケン（ユーセスキルド広場）ほか市内各所",
+      "link": "https://www.stockholm.se/",
       "free": true
     },
     {
-      "title": "アクアリウムストックホルム（Aquaria Watermuseum）",
-      "description": "春の特別展示やタッチプール体験が充実。淡水・海水生物の展示で、子どもの学習と触れ合いを同時に楽しめます。幼児向けプログラムも用意されています。",
-      "date": "4月全月",
-      "place": "Falkplasen, Djurgårdsvägen 136, 115 21 Stockholm",
-      "link": "https://www.aquariastockholm.se",
+      "title": "ヴァーサ号博物館 春の特別プログラム",
+      "description": "17世紀の沈没船を保存展示する博物館で、春限定の子ども向けワークショップやガイドツアーを実施。家族向けインタラクティブプログラムがあります。",
+      "date": "4月上旬〜下旬",
+      "place": "ヴァーサ号博物館、ガリャルペン島（Galärvarvsvägen 14）",
+      "link": "https://www.vasamuseet.se/",
       "free": false
+    },
+    {
+      "title": "スカンセン屋外博物館でのイースターイベント",
+      "description": "北欧最大の屋外博物館で、スウェーデン伝統のイースター行事を体験。卵探し、民族衣装体験など家族向けアクティビティが豊富です。",
+      "date": "4月（イースター時期）",
+      "place": "スカンセン、ユルゴーディン島（Djurgården）",
+      "link": "https://www.skansen.se/",
+      "free": false
+    },
+    {
+      "title": "ストックホルムの島々でのカヤック・ボート体験",
+      "description": "春の穏やかな海でファミリー向けカヤックやボートツアーが本格シーズン開始。色鮮やかなストックホルムの自然と群島を体験できます。",
+      "date": "4月上旬〜下旬",
+      "place": "ストックホルム群島各所（予約制）",
+      "link": "https://www.stockholm.se/",
+      "free": false
+    },
+    {
+      "title": "王立公園（Kungsträdgården）での春マーケット",
+      "description": "春の到来を祝う季節マーケット。地元工芸品、食べ物露店、子ども向けエンターテインメントが揃い、無料で散策・参加可能なイベントも多数。",
+      "date": "4月上旬〜中旬",
+      "place": "王立公園（Kungsträdgården）",
+      "link": "https://www.stockholm.se/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-17T06:23:19.670Z"
+  "updatedAt": "2026-04-18T05:51:51.292Z"
 }

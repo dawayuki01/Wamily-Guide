@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・チューリップ・フェスティバル",
-      "description": "シンガポール植物園で開催される春のイベント。色とりどりのチューリップと春の花々が展示され、子どもたちが花の美しさを楽しめます。園内は広く、家族向けの散策に最適です。",
-      "date": "4月上旬〜中旬",
-      "place": "シンガポール植物園（Singapore Botanic Gardens）",
-      "link": "https://www.nparks.gov.sg/sbg",
-      "free": true
-    },
-    {
-      "title": "イースター・ファミリー・フェスティバル",
-      "description": "ガーデンズ・バイ・ザ・ベイやショッピングモールで開催されるイースターイベント。卵狩りや子ども向けワークショップ、キャラクターグリーティングなど家族向けアクティビティが充実しています。",
-      "date": "4月中旬～下旬",
-      "place": "ガーデンズ・バイ・ザ・ベイ（Gardens by the Bay）ほか複数施設",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
+      "description": "4月中旬に開催される東南アジア最大級のガーデン展。色とりどりの花々、キッズガーデン、ワークショップなど家族向けアクティビティが豊富。",
+      "date": "4月中旬",
+      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
+      "link": "https://www.gardensfestival.com.sg/",
       "free": false
     },
     {
-      "title": "ナイト・サファリ・スプリング・アクティビティ",
-      "description": "ナイト・サファリで春限定の夜間サファリツアーが開催。子どもたちが暗闇の中で動物を観察する特別な体験ができ、非日常の冒険が楽しめます。",
-      "date": "4月上旬～下旬",
-      "place": "ナイト・サファリ（Night Safari）",
-      "link": "https://www.nightsafari.com.sg",
-      "free": false
-    },
-    {
-      "title": "イースター・マーケット・アット・パッカー・セント",
-      "description": "パッカー・セント界隈で開催されるイースターマーケット。手作りクラフト、キッズ向けゲーム、フードスタールが並び、家族で気軽に楽しめる無料イベントです。",
-      "date": "4月中旬～下旬",
-      "place": "パッカー・セント周辺（Packer Street Area）",
-      "link": "",
+      "title": "East Coast Park Family Activities",
+      "description": "シンガポール最大級のビーチリゾート。サイクリング、スケート、水遊びなど屋外アクティビティが充実。多くのエリアは無料で楽しめます。",
+      "date": "4月全期間",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "セントーサ・アイランド・スプリング・ウォーターパーク",
-      "description": "セントーサ島の屋外ウォーターパークで春の期間限定営業。子ども向けプールやスライダー、ビーチでの水遊びなど、家族で一日中楽しめるアクティビティです。",
-      "date": "4月上旬～下旬",
-      "place": "セントーサ・アイランド（Sentosa Island）",
-      "link": "https://www.sentosa.com.sg",
+      "title": "Ramadan Bazaar & Food Markets",
+      "description": "イスラム教の聖月ラマダンに合わせた屋台市場。4月はラマダン期間で、異文化体験とローカルフードを堪能できます。夕方から夜間営業。",
+      "date": "4月初旬〜中旬（年によって変動）",
+      "place": "Geylang Serai, Singapore / Various locations islandwide",
+      "link": "https://www.visitsingapore.com/",
+      "free": true
+    },
+    {
+      "title": "Singapore Zoo Special Children's Programs",
+      "description": "シンガポール動物園での季節限定キッズプログラム。動物との触れ合い、教育的ワークショップ、スプラッシュパッドなど子ども向けアクティビティが充実。",
+      "date": "4月全期間",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.sg/",
+      "free": false
+    },
+    {
+      "title": "Singapore Science Centre Easter & School Holiday Programs",
+      "description": "4月の学校休暇時期に開催される特別プログラム。STEM学習、体験型展示、サイエンスショーで学びながら遊べます。",
+      "date": "4月下旬（学校休暇時期）",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-17T06:23:27.140Z"
+  "updatedAt": "2026-04-18T05:51:58.210Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "merrie monarch festival（メリーモナークフェスティバル）",
-      "description": "ハワイ最大級のフラ競技会。華やかなハワイアン衣装と伝統フラの美しさが楽しめます。パレードは無料観覧できます。",
-      "date": "4月中旬",
-      "place": "ハワイ島ヒロ市 エディス・カナカオレスタジアム",
-      "link": "https://www.merriemonarch.org",
+      "title": "Lei Day（レイデー）",
+      "description": "ハワイの文化を祝う日。5月1日ですが、4月末から各地でレイ作り体験やパレード、文化イベントが開催されます。子どもも参加できるワークショップが豊富。",
+      "date": "4月下旬〜5月1日",
+      "place": "カピオラニ公園ほか各地（ホノルル）",
+      "link": "https://www.gohawaii.com/jp",
       "free": true
     },
     {
-      "title": "イースター・バイ・ザ・シー（Easter by the Sea）",
-      "description": "ワイキキビーチでの無料イースターイベント。イースターエッグハント、音楽、子ども向けゲームなど家族で楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "ワイキキビーチ（オアフ島ホノルル）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "ハナウマ湾でのシュノーケリング",
-      "description": "透明度の高い海でカラフルな熱帯魚が見られます。4月は水温が温かく、小さなお子さんでも楽しみやすい屋外アクティビティです。",
-      "date": "4月上旬〜下旬",
-      "place": "ハナウマ湾（オアフ島ホノルル）",
-      "link": "https://www.honolulu.gov/parks-and-recreation/facility/hanauma-bay.html",
+      "title": "Hawaii Volcanoes National Park（ハワイ火山国立公園）の春プログラム",
+      "description": "4月はハワイ島の火山公園で家族向けレンジャープログラムが充実。火山地形を学べるガイドツアーや子ども向け自然教室が開催されます。",
+      "date": "4月中旬〜下旬（通年開催）",
+      "place": "ハワイ島 Hawaii Volcanoes National Park",
+      "link": "https://www.nps.gov/havo/index.htm",
       "free": false
     },
     {
-      "title": "ホノルル動物園の春のイベント",
-      "description": "春季限定の特別プログラムや動物とのふれあいイベント。子ども向けワークショップも開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "ホノルル動物園（オアフ島ワイキキ）",
+      "title": "Honolulu Zoo（ホノルル動物園）の春イベント",
+      "description": "4月は天気も良く、動物園のキッズプログラムが充実。ベビーパンダやレッサーパンダも人気。朝の涼しい時間帯が快適です。",
+      "date": "4月上旬〜下旬（通年開催）",
+      "place": "ワイキキ、カピオラニ公園内",
       "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "アロハスタジアム・サンシャイン・マーケット",
-      "description": "地元産の野菜、フルーツ、ハワイアングッズが並ぶ屋外マーケット。新鮮なパパイヤやマンゴーを試食できます。",
-      "date": "4月毎週水曜・日曜",
-      "place": "アロハスタジアム駐車場（オアフ島ホノルル）",
-      "link": "",
+      "title": "Hanauma Bay Nature Preserve（ハナウマ湾自然保護区）でのシュノーケリング",
+      "description": "4月は穏やかな海況で浅い湾でのシュノーケリングに最適。熱帯魚との出会いは子どもたちにとって忘れられない思い出。家族向けガイドツアー有。",
+      "date": "4月上旬〜下旬",
+      "place": "オアフ島東側（ホノルル近郊）",
+      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
+      "free": false
+    },
+    {
+      "title": "KCC Farmers Market（KCCファーマーズマーケット）",
+      "description": "毎週土曜朝に開催される地元の農産物市場。新鮮な果物、地元グルメが楽しめ、子ども向けのアクティビティも随時開催。無料で入場できます。",
+      "date": "4月の毎週土曜日",
+      "place": "オアフ島 Kapiolani Community College駐車場",
+      "link": "https://www.kccfarmersmarket.com",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-17T06:24:01.150Z"
+  "updatedAt": "2026-04-18T05:52:29.475Z"
 }

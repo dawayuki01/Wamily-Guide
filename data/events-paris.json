@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ植物園（Jardin des Plantes）の春の花展示",
-      "description": "4月はチューリップ、桜、牡丹が見頃。広大な庭園で家族でのんびり散策できます。園内には動物園や自然歴史博物館もあり、子どもも楽しめます。",
+      "title": "チューリップの季節 - ジヴェルニーのモネの庭",
+      "description": "印象派の巨匠モネの邸宅と庭園が公開されます。4月は色鮮やかなチューリップや桜が咲き誇り、子どもも楽しめる自然豊かな散歩コースです。",
       "date": "4月上旬〜下旬",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.jardindesplantes.mnhn.fr/",
+      "place": "Fondation Claude Monet, 84 rue Claude Monet, 27620 Giverny",
+      "link": "https://fondation-monet.com/",
+      "free": false
+    },
+    {
+      "title": "パリ春の野菜市場 - マルシェ・オルガニック（オーガニック市場）",
+      "description": "パリ市内各地で開催される春の野菜・花の市場。季節の野菜や花を眺めたり購入したり、地元の雰囲気を体験できます。無料で散策可能です。",
+      "date": "4月上旬〜下旬（毎週末）",
+      "place": "Marché Bastille, Place de la Bastille, 75004 Paris（毎木曜・日曜）",
+      "link": "https://www.paris.fr/pages/les-marches-de-paris-3415",
       "free": true
     },
     {
-      "title": "ルーヴル美術館の子ども向け特別プログラム",
-      "description": "春期間中、ファミリーガイドツアーやアートワークショップを開催。子ども向けの作品解説で美術館を楽しく学べます。",
-      "date": "4月上旬〜下旬",
-      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris",
-      "link": "https://www.louvre.fr/",
-      "free": false
-    },
-    {
-      "title": "セーヌ河沿いの散策路とボート体験",
-      "description": "4月は気候が良く、セーヌ河沿いの散策が気持ちいい季節。家族向けリバーボートツアーでパリの景観を楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "Seine River, Various departure points (Pont de l'Alma, Pont de Notre-Dame)",
-      "link": "https://www.bateauxparisiens.com/",
-      "free": false
-    },
-    {
-      "title": "パリ市内の定期開催マーケット（Marché Bastille）",
-      "description": "木曜と日曜に開催される青空市場。春野菜、地元の食べ物、工芸品が並び、子どもと一緒に地元文化を体験できます。",
-      "date": "4月毎週木曜・日曜",
-      "place": "Boulevard Richard Lenoir, 75011 Paris",
-      "link": "https://www.paris.fr/",
+      "title": "ルクセンブルク公園での春の戸外活動",
+      "description": "パリ最大級の公園。4月は新緑が美しく、子ども向けの遊び場、木馬、砂場があります。公園内をのんびり散策したり、ピクニックが楽しめます。",
+      "date": "4月全期間",
+      "place": "Jardin du Luxembourg, Rue de Médicis, 75006 Paris",
+      "link": "https://www.paris.fr/pages/le-jardin-du-luxembourg-3625",
       "free": true
     },
     {
-      "title": "シテ科学館（Cité des Sciences）のキッズゾーン特別展示",
-      "description": "春期間の常設・特別展示。幼児～小学生向けのインタラクティブな科学体験コーナーで、遊びながら学べます。",
+      "title": "パリ水族館（シテ水族館）の春イベント",
+      "description": "カルーセルと合わせた子ども向けの春特別展示やプログラムが開催される施設。海の生き物を近く観察でき、乳幼児から小学生まで楽しめます。",
       "date": "4月上旬〜下旬",
-      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/",
+      "place": "Aquarium de Paris - Cinéaqua, 5 avenue Albert de Mun, 75016 Paris",
+      "link": "https://www.aquariumdeparis.com/",
       "free": false
+    },
+    {
+      "title": "モンマルトルの春祭り（Fête de Montmartre）",
+      "description": "地元の村祭りで、子ども向けのエンターテイメント、ワークショップ、パレードが開催されます。アーティストの雰囲気を感じながら家族で楽しめます。",
+      "date": "4月中旬（日程は毎年異なる）",
+      "place": "Montmartre, Place du Tertre, 75018 Paris",
+      "link": "https://www.fetedemontmartre.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-17T06:23:10.695Z"
+  "updatedAt": "2026-04-18T05:51:43.245Z"
 }
