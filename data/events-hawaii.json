@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイデー）",
-      "description": "ハワイの文化を祝う日。5月1日ですが、4月末から各地でレイ作り体験やパレード、文化イベントが開催されます。子どもも参加できるワークショップが豊富。",
+      "title": "レイ・デー（Lei Day）",
+      "description": "ハワイ文化を祝う5月1日のイベント。花のレイ作り体験、フラダンス表演、伝統工芸品販売など家族向けプログラムが充実。無料エリアもあります。",
       "date": "4月下旬〜5月1日",
-      "place": "カピオラニ公園ほか各地（ホノルル）",
-      "link": "https://www.gohawaii.com/jp",
+      "place": "カピオラニ公園（Kapiolani Park）、ホノルル",
+      "link": "https://www.hawaii.gov/tourism",
       "free": true
     },
     {
-      "title": "Hawaii Volcanoes National Park（ハワイ火山国立公園）の春プログラム",
-      "description": "4月はハワイ島の火山公園で家族向けレンジャープログラムが充実。火山地形を学べるガイドツアーや子ども向け自然教室が開催されます。",
-      "date": "4月中旬〜下旬（通年開催）",
-      "place": "ハワイ島 Hawaii Volcanoes National Park",
-      "link": "https://www.nps.gov/havo/index.htm",
-      "free": false
-    },
-    {
-      "title": "Honolulu Zoo（ホノルル動物園）の春イベント",
-      "description": "4月は天気も良く、動物園のキッズプログラムが充実。ベビーパンダやレッサーパンダも人気。朝の涼しい時間帯が快適です。",
-      "date": "4月上旬〜下旬（通年開催）",
-      "place": "ワイキキ、カピオラニ公園内",
-      "link": "https://www.honoluluzoo.org",
-      "free": false
-    },
-    {
-      "title": "Hanauma Bay Nature Preserve（ハナウマ湾自然保護区）でのシュノーケリング",
-      "description": "4月は穏やかな海況で浅い湾でのシュノーケリングに最適。熱帯魚との出会いは子どもたちにとって忘れられない思い出。家族向けガイドツアー有。",
+      "title": "ハワイ・チルドレンズ・ディスカバリー・センター春の特別プログラム",
+      "description": "乳幼児〜小学生向けの体験型施設で春限定の海の生き物学習プログラムやサイエンス実験が開催。手を動かして学べます。",
       "date": "4月上旬〜下旬",
-      "place": "オアフ島東側（ホノルル近郊）",
-      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
+      "place": "ハワイ・チルドレンズ・ディスカバリー・センター、ホノルル",
+      "link": "https://www.discoverycenterhawaii.org",
       "free": false
     },
     {
-      "title": "KCC Farmers Market（KCCファーマーズマーケット）",
-      "description": "毎週土曜朝に開催される地元の農産物市場。新鮮な果物、地元グルメが楽しめ、子ども向けのアクティビティも随時開催。無料で入場できます。",
-      "date": "4月の毎週土曜日",
-      "place": "オアフ島 Kapiolani Community College駐車場",
-      "link": "https://www.kccfarmersmarket.com",
+      "title": "スノーケリング・アクティビティ（シュノーケル体験）",
+      "description": "4月は水温が適温でスノーケリングに最適な季節。ハナウマ湾やモロキニクレーターで色鮮やかな熱帯魚を観察。子ども向けガイドツアーあり。",
+      "date": "4月全般",
+      "place": "ハナウマ湾（Hanauma Bay）、オアフ島東部",
+      "link": "https://www.honolulu.gov/parks-recreation/beaches-ocean-recreation/hanauma-bay-nature-preserve.html",
+      "free": false
+    },
+    {
+      "title": "KCC ファーマーズマーケット（KCC Farmers Market）",
+      "description": "毎週土曜開催のハワイ最大級ファーマーズマーケット。新鮮な果物、地元フード、工芸品が並び、試食も充実。ファミリーフレンドリーな雰囲気。",
+      "date": "4月全般（毎週土曜7:30〜11:00）",
+      "place": "KCC（カピオラニ・コミュニティ・カレッジ）、ホノルル",
+      "link": "https://www.kkc.hawaii.edu",
       "free": true
+    },
+    {
+      "title": "ダイアモンドヘッド・ハイキング（ファミリー向けコース）",
+      "description": "ハワイを代表する火山コーンへのハイキング。子ども向けの初級ルートがあり、頂上からの絶景でハワイの大自然を体験できます。",
+      "date": "4月全般（早朝6時開園）",
+      "place": "ダイアモンドヘッド（Diamond Head）、ワイキキ",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-18T05:52:29.475Z"
+  "updatedAt": "2026-04-19T06:17:47.821Z"
 }

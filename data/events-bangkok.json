@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ソンクラーン（タイ正月）",
-      "description": "水かけ祭りで有名なタイの正月。子どもたちも参加でき、家族で楽しめるお祭り。街中が水で溢れ、伝統的な雰囲気を体験できます。",
+      "description": "タイの伝統的な水かけ祭り。家族で水遊びを楽しめ、街全体が祝賀ムードに包まれます。子どもたちが安全に楽しめるエリアも多くあります。",
       "date": "4月13日～15日",
-      "place": "バンコク市内全域（特にカオサン通り、シーロム通りが有名）",
+      "place": "バンコク市内全域（特にシーロムやカオサン通り）",
       "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "世界最大級のウィークエンドマーケット。子ども服、おもちゃ、ペット、食べ物など何でも揃う。広大で1日中楽しめます。",
-      "date": "毎週土日（4月は通常営業）",
-      "place": "バンコク ラップラオ区 チャトゥチャック通り",
+      "title": "ルンピニ公園での朝のエクササイズと自然観察",
+      "description": "バンコク最大の公園で、朝の散歩やピクニック、トンボの観察ができます。子連れファミリー向けの穏やかな屋外時間を過ごせます。",
+      "date": "4月上旬～下旬（毎日）",
+      "place": "Lumphini Park, Rama IV Road, Pathum Wan District",
+      "link": "https://www.tourismthailand.org/",
+      "free": true
+    },
+    {
+      "title": "サイアム・パラゴン水族館の春プログラム",
+      "description": "大規模な水族館で、子ども向けの特別ガイドツアーやふれあい体験プログラムが開催されます。涼しい室内で安全に楽しめます。",
+      "date": "4月中旬～下旬（期間限定プログラム）",
+      "place": "Siam Paragon, 991 Rama I Road, Pathum Wan",
+      "link": "https://www.siamparagon.com/",
+      "free": false
+    },
+    {
+      "title": "チャトゥチャック・ウィークエンド・マーケットの子ども向けエリア",
+      "description": "世界最大級のマーケットで、おもちゃ、衣類、お菓子などが揃い、子ども向けの工作ワークショップも開催されます。週末に訪問できます。",
+      "date": "4月の土日祝日",
+      "place": "Chatuchak Weekend Market, Kamphaeng Phet Road, Chatuchak",
       "link": "https://www.chatuchakmarket.org/",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館（Siam Paragon Aquarium）",
-      "description": "東南アジア最大級の水族館。3000種以上の海生生物を展示。子どもから大人まで楽しめ、タッチプール体験もあります。",
-      "date": "4月通年営業（4月は避暑地として人気）",
-      "place": "991 ラマ1世通り、バンコク 10330",
-      "link": "https://www.siamparagon.co.th/",
-      "free": false
-    },
-    {
-      "title": "ルンピニ公園（Lumphini Park）でのピクニック＆朝ヨガ",
-      "description": "バンコク中心部の広大な公園。無料で散策でき、朝の無料ヨガクラスもあります。子どもも走り回れる開放的な空間です。",
-      "date": "4月通年（早朝6時～が快適）",
-      "place": "ラマ4世通り、パトゥムワン区、バンコク",
-      "link": "https://www.bangkok.go.th/",
-      "free": true
-    },
-    {
-      "title": "キッザニア・バンコク（KidZania Bangkok）春イベント",
-      "description": "子どもが90以上の職業体験ができるテーマパーク。4月の春休み期間は特別プログラムやイベントが開催されます。",
-      "date": "4月上旬～下旬（春休み期間）",
-      "place": "999/9 ラマ9世通り、バンコク 10320",
-      "link": "https://www.kidzania.com/th/en",
+      "title": "スアン・ルムピニ動物園のスプリングアクティビティ",
+      "description": "バンコク唯一の動物園。4月は新緑の季節で、キリンやサルなどとの接触プログラムや餌やり体験が充実しています。",
+      "date": "4月上旬～下旬（毎日）",
+      "place": "Dusit Zoo, Rama V Road, Dusit District",
+      "link": "https://www.dusitzoo.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-18T05:52:06.263Z"
+  "updatedAt": "2026-04-19T06:17:24.418Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles Times Travel Show",
-      "description": "旅行関連の展示会。子ども向けアクティビティ、家族向け情報ブースが充実。春休みの家族に人気で、チケット購入で入場できます。",
+      "title": "ロサンゼルス・フラワー・フェスティバル（LA Flower Market Spring Festival）",
+      "description": "南カリフォルニアの春を代表するフラワーマーケット。色とりどりの花々が並び、家族で楽しめる屋外イベント。ワークショップやキッズコーナーも充実。",
       "date": "4月上旬〜中旬",
-      "place": "Los Angeles Convention Center, 1201 S Figueroa St, Los Angeles, CA 90015",
-      "link": "https://www.latravelshow.com",
-      "free": false
-    },
-    {
-      "title": "Descanso Gardens Spring Bloom & Cherry Blossom Festival",
-      "description": "4月は春の花が満開。桜、チューリップ、シャクナゲなど季節の花々を楽しめます。子ども向けガイドツアーやワークショップも開催。",
-      "date": "4月全月",
-      "place": "Descanso Gardens, 1418 Descanso Dr, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org",
-      "free": false
-    },
-    {
-      "title": "Echo Park Lake Lotus Festival & Spring Walk",
-      "description": "エコーパーク周辺での春祭り。池の遊歩道散策、ピクニック、地元アーティストの作品展示など。無料で楽しめる屋外アクティビティです。",
-      "date": "4月中旬〜下旬",
-      "place": "Echo Park Lake, 751 Echo Park Ave, Los Angeles, CA 90026",
-      "link": "https://www.laparks.org/park/echo-park",
+      "place": "LA Flower Market、766 Wall Street, Los Angeles, CA 90017",
+      "link": "https://www.laflowermarket.com",
       "free": true
     },
     {
-      "title": "Los Angeles Zoo Spring Break Programs",
-      "description": "4月の春休み期間中、子ども向けの特別教育プログラムやスクール休暇のワークショップを開催。動物とのふれあい体験が充実。",
-      "date": "4月上旬〜中旬（春休み期間）",
-      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Dr, Los Angeles, CA 90027",
+      "title": "グリフィス天文台（Griffith Observatory）春の特別プログラム",
+      "description": "無料で楽しめる天文台。春は夜間プログラムが充実。屋外ハイキング、プラネタリウムショー、展示エリアで宇宙を学べる家族向け施設。",
+      "date": "4月通期",
+      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
+      "free": true
+    },
+    {
+      "title": "長ビーチ「アースデイ」イベント＆ビーチアクティビティ",
+      "description": "4月22日アースデイに合わせた環境イベント。ビーチクリーンアップ、自然学習、キッズアクティビティ。屋外でビーチを楽しみながら学べる。",
+      "date": "4月中旬〜下旬",
+      "place": "Long Beach Waterfront, Long Beach, CA 90802",
+      "link": "https://www.visitlongbeach.com",
+      "free": true
+    },
+    {
+      "title": "ロサンゼルス動物園（Los Angeles Zoo）春のイベント",
+      "description": "春限定のキッズプログラムや動物との触れ合いアクティビティ。新生児動物の展示も。広大な敷地で屋外散策しながら動物学習できる。",
+      "date": "4月通期",
+      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
       "link": "https://www.lazoo.org",
       "free": false
     },
     {
-      "title": "Griffith Park Easter Egg Hunt & Spring Festival",
-      "description": "イースター周辺（4月中旬）にグリフィスパークで開催される家族向けイベント。イースターエッグハント、春の自然散策、無料ピクニックエリア利用可。",
-      "date": "4月中旬（イースター時期）",
-      "place": "Griffith Park, 4730 Crystal Springs Dr, Los Angeles, CA 90027",
-      "link": "https://www.laparks.org/park/griffith-park",
+      "title": "カリフォルニア・サイエンス・センター（California Science Center）特別展",
+      "description": "入場無料の科学館。春の特別プログラムやアクティビティ。乳幼児〜小学生向けのインタラクティブ展示やワークショップが充実。",
+      "date": "4月通期",
+      "place": "California Science Center, 700 Exposition Park Drive, Los Angeles, CA 90037",
+      "link": "https://www.californiasciencecenter.org",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-18T05:52:21.134Z"
+  "updatedAt": "2026-04-19T06:17:39.067Z"
 }

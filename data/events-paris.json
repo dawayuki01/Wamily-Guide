@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの季節 - ジヴェルニーのモネの庭",
-      "description": "印象派の巨匠モネの邸宅と庭園が公開されます。4月は色鮮やかなチューリップや桜が咲き誇り、子どもも楽しめる自然豊かな散歩コースです。",
+      "title": "パリ春まつり（Paris Spring Festival）",
+      "description": "4月のパリはチューリップやサクラが満開。公園全体が花で彩られ、子ども向けの屋外ワークショップや遊具エリアも充実。春の自然を満喫できます。",
       "date": "4月上旬〜下旬",
-      "place": "Fondation Claude Monet, 84 rue Claude Monet, 27620 Giverny",
-      "link": "https://fondation-monet.com/",
+      "place": "ルクセンブルク公園ほか市内各公園",
+      "link": "https://www.parisinfo.com",
+      "free": true
+    },
+    {
+      "title": "ルーヴル美術館「キッズツアー＆アクティビティ」",
+      "description": "4月は春休みシーズン。子ども向けの特別ガイドツアーやワークショップが充実。有名作品を楽しく学べるプログラムが豊富です。",
+      "date": "4月中旬〜下旬",
+      "place": "ルーヴル美術館、パリ1区",
+      "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "パリ春の野菜市場 - マルシェ・オルガニック（オーガニック市場）",
-      "description": "パリ市内各地で開催される春の野菜・花の市場。季節の野菜や花を眺めたり購入したり、地元の雰囲気を体験できます。無料で散策可能です。",
-      "date": "4月上旬〜下旬（毎週末）",
-      "place": "Marché Bastille, Place de la Bastille, 75004 Paris（毎木曜・日曜）",
-      "link": "https://www.paris.fr/pages/les-marches-de-paris-3415",
-      "free": true
-    },
-    {
-      "title": "ルクセンブルク公園での春の戸外活動",
-      "description": "パリ最大級の公園。4月は新緑が美しく、子ども向けの遊び場、木馬、砂場があります。公園内をのんびり散策したり、ピクニックが楽しめます。",
-      "date": "4月全期間",
-      "place": "Jardin du Luxembourg, Rue de Médicis, 75006 Paris",
-      "link": "https://www.paris.fr/pages/le-jardin-du-luxembourg-3625",
-      "free": true
-    },
-    {
-      "title": "パリ水族館（シテ水族館）の春イベント",
-      "description": "カルーセルと合わせた子ども向けの春特別展示やプログラムが開催される施設。海の生き物を近く観察でき、乳幼児から小学生まで楽しめます。",
+      "title": "フローラルパリ（Floral Paris）花の市場",
+      "description": "イール・シテ島の花市場。色とりどりの花が並ぶ光景は子どもも大喜び。無料で散策でき、春の香りを感じながら歩けます。",
       "date": "4月上旬〜下旬",
-      "place": "Aquarium de Paris - Cinéaqua, 5 avenue Albert de Mun, 75016 Paris",
-      "link": "https://www.aquariumdeparis.com/",
+      "place": "イール・シテ島、パリ4区",
+      "link": "https://www.parisinfo.com",
+      "free": true
+    },
+    {
+      "title": "バスティーユ広場「春の遊園地・子ども向けフェスタ」",
+      "description": "4月に期間限定で開催される屋外フェスティバル。観覧車、メリーゴーラウンドなど子ども向けアトラクションや軽食スタンドが並びます。",
+      "date": "4月上旬〜中旬",
+      "place": "バスティーユ広場、パリ11区",
+      "link": "",
       "free": false
     },
     {
-      "title": "モンマルトルの春祭り（Fête de Montmartre）",
-      "description": "地元の村祭りで、子ども向けのエンターテイメント、ワークショップ、パレードが開催されます。アーティストの雰囲気を感じながら家族で楽しめます。",
-      "date": "4月中旬（日程は毎年異なる）",
-      "place": "Montmartre, Place du Tertre, 75018 Paris",
-      "link": "https://www.fetedemontmartre.com/",
-      "free": true
+      "title": "シテ科学館「春の特別展示プログラム」",
+      "description": "4月は子ども向けの体験型展示やデジタル技術を使ったワークショップが充実。乳幼児〜小学生向けのエリアが豊富です。",
+      "date": "4月中旬〜下旬",
+      "place": "ラ・ヴィレット科学館、パリ19区",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-18T05:51:43.245Z"
+  "updatedAt": "2026-04-19T06:17:00.631Z"
 }

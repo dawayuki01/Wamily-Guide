@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィエスタ・デ・サンタクルス（Santa Cruz Fiesta）",
-      "description": "4月上旬にマニラで開催される大規模な宗教祭り。パレード、音楽、ダンスパフォーマンス、地元の食べ物屋台が楽しめます。家族向けの催し物も多数あります。",
-      "date": "4月上旬",
-      "place": "マニラ市内各所（Quiapo Church周辺など）",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "マニラ湾サンセットドライブ・ピクニック",
-      "description": "マニラ湾沿いの無料開放エリア（Bay City Walk、CCP Complex周辺）で家族向けのピクニックやレクリエーション。4月は乾季で天気が良く、散策に最適です。",
-      "date": "4月中旬〜下旬",
-      "place": "マニラ湾沿い（CCP Complex、Bay City Walk）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "フィリピン国立博物館 子ども向けワークショップ",
-      "description": "フィリピン国立博物館では定期的に子ども向けの教育プログラムや美術ワークショップを開催。4月の特別展示と合わせて体験学習ができます。",
-      "date": "4月中旬〜下旬",
-      "place": "フィリピン国立博物館（National Museum Complex, Rizal Park）",
-      "link": "https://nationalmuseum.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "リサール公園（Rizal Park）での家族向けアクティビティ",
-      "description": "マニラ最大の公園。無料で利用でき、広い芝生で走り回ったり、スケート、乗馬体験など多彩なアクティビティが楽しめます。子ども用遊具も充実。",
+      "title": "サマーフェスティバル（Summer Festival）",
+      "description": "4月はフィリピンの夏シーズン。マニラ周辺のテーマパークやモールで開催される夏祭り。子ども向けゲーム、工作ワークショップ、ステージイベントなど家族向けアクティビティが豊富。",
       "date": "4月上旬〜下旬",
-      "place": "リサール公園（Padre Burgos Ave, Rizal Park, Manila）",
-      "link": "https://www.tourism.gov.ph/destinations/regions/ncr/rizal-park",
+      "place": "SM City Manila、Mall of Asia、Enchanted Kingdom",
+      "link": "https://www.enchantedkingdom.ph",
+      "free": false
+    },
+    {
+      "title": "フィリピン・クレイ・アート・フェスティバル（Pottery/Clay Workshops）",
+      "description": "4月はクラフトイベントが多く開催される時期。セラミック体験や陶芸ワークショップが各地で実施。子どもも参加できる創作体験で、親子での思い出作りに最適。",
+      "date": "4月中旬",
+      "place": "National Museum Complex, Rizal Park（リサール公園）",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "リサール公園（Rizal Park）での屋外活動",
+      "description": "マニラの広大な公園。4月は涼しい朝間が狙い目。ピクニック、散策、親子でのサイクリング、スケートボード練習など自由に楽しめる。無料で終日遊べます。",
+      "date": "4月全期間",
+      "place": "Rizal Park, Padre Burgos Avenue, Manila",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "SM City Manila・モール内キッズプレイグラウンド",
-      "description": "大型ショッピングモール内の子ども向け施設。屋内プレイグラウンド、キッズゾーン、シネマなどの施設が充実。4月の暑さ対策に最適な屋内アクティビティ。",
-      "date": "4月通年",
-      "place": "SM City Manila（Padre Burgos Avenue, Ermita, Manila）",
-      "link": "https://www.smdc.com/malls/sm-city-manila/",
+      "title": "フィリピン国家博物館（National Museum）の子ども向けプログラム",
+      "description": "4月の特別ワークショップやガイドツアーで、子ども向けにフィリピン文化と歴史を学べる。インタラクティブな展示が多く、乳幼児から小学生まで楽しめます。",
+      "date": "4月全期間",
+      "place": "National Museum Complex, Rizal Park, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": false
+    },
+    {
+      "title": "ザ・グリーンベルト（The Greenbelts）での無料イベント",
+      "description": "マカティの商業施設内の開放的な庭園スペース。4月に家族向けのコンサート、ワークショップ、アート展示が無料で開催。涼しい環境で子どもが安全に楽しめます。",
+      "date": "4月随時開催",
+      "place": "The Greenbelts, Makati City",
+      "link": "https://www.greenbelt.com.ph",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-18T05:52:14.244Z"
+  "updatedAt": "2026-04-19T06:17:32.062Z"
 }

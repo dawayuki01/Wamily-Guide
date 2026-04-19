@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
-      "description": "4月中旬に開催される東南アジア最大級のガーデン展。色とりどりの花々、キッズガーデン、ワークショップなど家族向けアクティビティが豊富。",
-      "date": "4月中旬",
-      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
-      "link": "https://www.gardensfestival.com.sg/",
+      "title": "シンガポール・チューリップ・フェスティバル",
+      "description": "ガーデンズ・バイ・ザ・ベイで開催される春の花祭り。色とりどりのチューリップが展示され、家族向けの花のワークショップやフォトスポットが充実しています。",
+      "date": "4月上旬〜中旬",
+      "place": "ガーデンズ・バイ・ザ・ベイ (Gardens by the Bay), 18 Marina Gardens Drive",
+      "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park Family Activities",
-      "description": "シンガポール最大級のビーチリゾート。サイクリング、スケート、水遊びなど屋外アクティビティが充実。多くのエリアは無料で楽しめます。",
-      "date": "4月全期間",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "イースター・セレブレーション（子ども向け）",
+      "description": "シンガポール各地のショッピングモール・ホテルでイースターエッグハント、キャラクターグリーティング、ワークショップなどが開催。無料参加できるイベントも多数あります。",
+      "date": "4月中旬〜下旬",
+      "place": "オーチャード地区の主要ショッピングモールほか各所",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "Ramadan Bazaar & Food Markets",
-      "description": "イスラム教の聖月ラマダンに合わせた屋台市場。4月はラマダン期間で、異文化体験とローカルフードを堪能できます。夕方から夜間営業。",
-      "date": "4月初旬〜中旬（年によって変動）",
-      "place": "Geylang Serai, Singapore / Various locations islandwide",
-      "link": "https://www.visitsingapore.com/",
-      "free": true
-    },
-    {
-      "title": "Singapore Zoo Special Children's Programs",
-      "description": "シンガポール動物園での季節限定キッズプログラム。動物との触れ合い、教育的ワークショップ、スプラッシュパッドなど子ども向けアクティビティが充実。",
-      "date": "4月全期間",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.sg/",
+      "title": "ナイト・サファリ・スプリング・プログラム",
+      "description": "夜間動物園のスプリング特別プログラム。通常ツアーに加え、子ども向けの夜行性動物観察ワークショップやトラムライドが提供されます。",
+      "date": "4月通期",
+      "place": "シンガポール・ナイト・サファリ, 80 Mandai Lake Road",
+      "link": "https://www.nightsafari.com.sg",
       "free": false
     },
     {
-      "title": "Singapore Science Centre Easter & School Holiday Programs",
-      "description": "4月の学校休暇時期に開催される特別プログラム。STEM学習、体験型展示、サイエンスショーで学びながら遊べます。",
-      "date": "4月下旬（学校休暇時期）",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg/",
+      "title": "チャンギ・ビーチの季節イベント",
+      "description": "4月の好天を活かしたビーチアクティビティシーズン。ウォータースポーツ体験、砂浜での無料レクリエーション、ファミリーピクニック対応の環境が整っています。",
+      "date": "4月通期",
+      "place": "チャンギ・ビーチ・パーク, 1200 East Coast Parkway",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park",
+      "free": true
+    },
+    {
+      "title": "シンガポール・サイエンス・センター・スプリング・ワークショップ",
+      "description": "科学館による春季特別ワークショップ。子ども向け実験教室、STEM体験、インタラクティブ展示が特別編成されます。入場料で利用可能。",
+      "date": "4月通期",
+      "place": "シンガポール・サイエンス・センター, 15 Science Centre Road",
+      "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-18T05:51:58.210Z"
+  "updatedAt": "2026-04-19T06:17:16.419Z"
 }
