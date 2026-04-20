@@ -8,7 +8,7 @@
       "status": "public",
       "maturity": "充実",
       "tripDate": null,
-      "spots": 43,
+      "spots": 53,
       "hasHost": true,
       "center": {
         "lat": 51.5074,
@@ -24,7 +24,7 @@
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
-      "spots": 14,
+      "spots": 24,
       "hasHost": false,
       "center": {
         "lat": 25.033,
@@ -40,7 +40,7 @@
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
-      "spots": 22,
+      "spots": 32,
       "hasHost": false,
       "center": {
         "lat": 48.8566,
@@ -56,7 +56,7 @@
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
-      "spots": 20,
+      "spots": 30,
       "hasHost": false,
       "center": {
         "lat": 59.3293,
@@ -72,7 +72,7 @@
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
-      "spots": 10,
+      "spots": 20,
       "hasHost": false,
       "center": {
         "lat": 1.3521,
@@ -88,7 +88,7 @@
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
-      "spots": 9,
+      "spots": 19,
       "hasHost": false,
       "center": {
         "lat": 13.7563,
@@ -104,7 +104,7 @@
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
-      "spots": 9,
+      "spots": 19,
       "hasHost": true,
       "center": {
         "lat": 14.5995,
@@ -120,7 +120,7 @@
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
-      "spots": 9,
+      "spots": 19,
       "hasHost": false,
       "center": {
         "lat": 34.0522,
@@ -136,7 +136,7 @@
       "status": "public",
       "maturity": "充実",
       "tripDate": null,
-      "spots": 15,
+      "spots": 25,
       "hasHost": true,
       "center": {
         "lat": 21.3069,
@@ -152,7 +152,7 @@
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
-      "spots": 9,
+      "spots": 19,
       "hasHost": false,
       "center": {
         "lat": 37.5665,
