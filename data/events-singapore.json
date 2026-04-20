@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "シンガポール・チューリップ・フェスティバル",
-      "description": "ガーデンズ・バイ・ザ・ベイで開催される春の花祭り。色とりどりのチューリップが展示され、家族向けの花のワークショップやフォトスポットが充実しています。",
+      "description": "シンガポール植物園で開催される春の花祭り。カラフルなチューリップ展示と家族向けワークショップが楽しめます。写真スポットも豊富で子どもたちも喜びます。",
       "date": "4月上旬〜中旬",
-      "place": "ガーデンズ・バイ・ザ・ベイ (Gardens by the Bay), 18 Marina Gardens Drive",
-      "link": "https://www.gardensbythebay.com.sg",
+      "place": "Singapore Botanic Gardens, 1 Cluny Road",
+      "link": "https://www.nparks.gov.sg/sbg",
       "free": false
     },
     {
-      "title": "イースター・セレブレーション（子ども向け）",
-      "description": "シンガポール各地のショッピングモール・ホテルでイースターエッグハント、キャラクターグリーティング、ワークショップなどが開催。無料参加できるイベントも多数あります。",
-      "date": "4月中旬〜下旬",
-      "place": "オーチャード地区の主要ショッピングモールほか各所",
-      "link": "https://www.visitsingapore.com",
-      "free": true
-    },
-    {
-      "title": "ナイト・サファリ・スプリング・プログラム",
-      "description": "夜間動物園のスプリング特別プログラム。通常ツアーに加え、子ども向けの夜行性動物観察ワークショップやトラムライドが提供されます。",
-      "date": "4月通期",
-      "place": "シンガポール・ナイト・サファリ, 80 Mandai Lake Road",
-      "link": "https://www.nightsafari.com.sg",
+      "title": "イースター・ホリデー・プログラム（動物園）",
+      "description": "シンガポール動物園の子ども向け特別プログラム。動物の餌やり体験、ウォーターショー、キャラクターグリートなど家族向けアクティビティが満載。",
+      "date": "4月中旬（イースター時期）",
+      "place": "Singapore Zoo, 80 Mandai Lake Road",
+      "link": "https://www.zoo.com.sg",
       "free": false
     },
     {
-      "title": "チャンギ・ビーチの季節イベント",
-      "description": "4月の好天を活かしたビーチアクティビティシーズン。ウォータースポーツ体験、砂浜での無料レクリエーション、ファミリーピクニック対応の環境が整っています。",
-      "date": "4月通期",
-      "place": "チャンギ・ビーチ・パーク, 1200 East Coast Parkway",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park",
+      "title": "East Coast Park での屋外遊び・サイクリング",
+      "description": "シンガポール最大のビーチパーク。無料で楽しめるビーチ、遊び場、サイクリングロード、ピクニック施設が充実。4月は天気が良く家族向け屋外活動に最適。",
+      "date": "4月通年（特に朝夕が涼しい時間帯）",
+      "place": "East Coast Park, East Coast Park Service Road",
+      "link": "https://www.nparks.gov.sg/ecp",
       "free": true
     },
     {
-      "title": "シンガポール・サイエンス・センター・スプリング・ワークショップ",
-      "description": "科学館による春季特別ワークショップ。子ども向け実験教室、STEM体験、インタラクティブ展示が特別編成されます。入場料で利用可能。",
-      "date": "4月通期",
-      "place": "シンガポール・サイエンス・センター, 15 Science Centre Road",
+      "title": "チャイナタウン・ヘリテージ・ウォーク",
+      "description": "チャイナタウンの歴史文化を学ぶ無料ツアー。子ども向けに分かりやすく説明され、伝統建築や文化体験ができます。土日に開催されることが多い。",
+      "date": "4月通年（土日祝日）",
+      "place": "Chinatown Heritage Centre, 48 Pagoda Street",
+      "link": "https://www.chinatownheritagecentre.com.sg",
+      "free": true
+    },
+    {
+      "title": "Science Centre Singapore の春季特別展示",
+      "description": "子ども向けの対話型展示や実験ワークショップ。春季テーマに基づいた新しい展示や家族向けプログラムが開催されます。",
+      "date": "4月通年",
+      "place": "Science Centre Singapore, 15 Science Centre Road",
       "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-19T06:17:16.419Z"
+  "updatedAt": "2026-04-20T07:28:12.182Z"
 }

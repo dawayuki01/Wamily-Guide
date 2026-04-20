@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Vårmarknad（春のマーケット）",
-      "description": "ストックホルムの各地で開催される春の市場。地元の野菜、花、手工芸品が並び、家族で散策しながら春の訪れを感じられます。露店での食べ歩きも楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "Old Town（Gamla Stan）周辺、Stortorget広場など複数会場",
-      "link": "https://www.stockholm.se",
+      "title": "チューリップフェスティバル（Stockholms Tulipfestival）",
+      "description": "ストックホルムの公園が色鮮やかなチューリップで彩られるイベント。約100万本のチューリップが咲き誇り、家族で春の自然を楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "王宮庭園（Kungliga slottet）ほか複数公園",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "Skansen Spring Festival（スカンセン春フェスティバル）",
-      "description": "野外博物館スカンセンの春イベント。北欧の伝統的な春の祝いを体験でき、子ども向けのワークショップや動物との触れ合い、伝統工芸体験などが行われます。",
-      "date": "4月中旬〜下旬",
-      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "title": "スキャンセン春まつり（Skansen Vårfest）",
+      "description": "北欧最大の野外博物館スキャンセンで開催される春祭り。動物との触れ合い、伝統工芸体験、子ども向けアクティビティが充実しています。",
+      "date": "4月上旬〜中旬",
+      "place": "スキャンセン（Djurgårdsvägen 49-51）",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "Drottningholm Palace Gardens Spring Walk（ドロットニングホルム宮殿庭園の春散策）",
-      "description": "王宮の広大な庭園で、チューリップや桜などの春の花が咲き誇ります。無料で散策でき、家族で自然の中をのんびり歩けるアクティビティです。",
+      "title": "王立劇場イースターマーケット（Drottningholm Palace Easter Market）",
+      "description": "王宮ドロットニングホルム宮殿でのイースターマーケット。手工芸品、地元食、子ども向けワークショップなど家族で楽しめます。",
+      "date": "4月初旬（イースター時期）",
+      "place": "ドロットニングホルム宮殿（Drottningholmsvägen）",
+      "link": "https://www.drottningholmsslott.se",
+      "free": true
+    },
+    {
+      "title": "ユーランダ島の春サイクリング＆ピクニック",
+      "description": "ストックホルム群島の美しい島々をサイクリングで巡る季節アクティビティ。乳幼児向けベビーカー対応ルートも充実し、自然の中でリラックスできます。",
       "date": "4月中旬〜下旬",
-      "place": "Drottningholmsvägen, 178 02 Drottningholm, Stockholm",
-      "link": "https://www.drottningholm.se",
+      "place": "ユーランダ島周辺（Värmdö）",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "Junibacken Spring Program（ユニバッケン春プログラム）",
-      "description": "北欧の児童文学をテーマにした子ども向け施設。春特別展示やワークショップ、インタラクティブな展示で、乳幼児から小学生まで楽しめます。",
+      "title": "ストックホルム自然博物館春企画展",
+      "description": "春の生態系や動物をテーマにした特別展示。インタラクティブな子ども向けコーナー、工作ワークショップで学びながら楽しめます。",
       "date": "4月全期間",
-      "place": "Galärvägen 14, 100 24 Stockholm, Djurgården",
-      "link": "https://www.junibacken.se",
+      "place": "ストックホルム自然博物館（Frescativägen 40）",
+      "link": "https://www.nrm.se",
       "free": false
-    },
-    {
-      "title": "Nybrokajen Waterfront Strolling（ニブロカイェン水辺散策とバルティック海での野外活動）",
-      "description": "ストックホルムの美しい港沿いを散策。4月は気温が上がり始め、屋外での家族散策が心地よい季節。カフェでの休憩やシーサイドでの自由時間が楽しめます。",
-      "date": "4月全期間",
-      "place": "Nybrokajen, Norrmalm, Stockholm",
-      "link": "https://www.stockholm.se",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-19T06:17:08.543Z"
+  "updatedAt": "2026-04-20T07:28:05.388Z"
 }

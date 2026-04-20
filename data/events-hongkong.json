@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フローラルカーニバル（Hong Kong Flower Show）",
-      "description": "春の花々を楽しむ大規模な園芸イベント。子どもが花の香りを感じたり、写真スポットで遊んだりできます。毎年3月下旬〜4月上旬開催。",
-      "date": "4月上旬",
-      "place": "ビクトリア公園（Victoria Park）、銅鑼灣（Causeway Bay）",
-      "link": "https://www.lcsd.gov.hk/tc/wd_chi/programme1.html",
+      "title": "香港花卉展覧会（Hong Kong Flower Show）",
+      "description": "春の花々が咲き誇る香港最大級の花の祭典。カラフルな花壇やガーデンディスプレイが展示され、子どもも楽しめる園芸体験コーナーやワークショップがあります。",
+      "date": "4月上旬〜中旬",
+      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
+      "link": "https://www.flowershowhk.hk",
+      "free": false
+    },
+    {
+      "title": "スターフェリーでの海岸景観（Star Ferry Ride）",
+      "description": "ビクトリア湾を渡る名物フェリー。往復乗車で香港の美しい風景を楽しめます。4月の晴天の日は海風が気持ちよく、子どもにとって忘れられない体験になります。",
+      "date": "4月通年（毎日運行）",
+      "place": "スターフェリー乗り場（セントラル〜尖沙咀など）、香港島・九龍",
+      "link": "https://www.starferry.com.hk",
+      "free": false
+    },
+    {
+      "title": "ハイビスカスの季節・香港公園散策",
+      "description": "4月は色鮮やかなハイビスカスが見頃。香港公園内の屋外庭園を無料で散策でき、池での水遊びや子ども向けの自然観察が楽しめます。",
+      "date": "4月通年",
+      "place": "香港公園（Hong Kong Park）、セントラル",
+      "link": "https://www.lcsd.gov.hk/en/parks/hkpark",
       "free": true
     },
     {
-      "title": "ハッピーバレー馬場スプリングミーティング",
-      "description": "ハッピーバレー馬場で開催される競馬イベント。家族向けの楽しいエンターテイメント、食べ物、キッズアクティビティが揃っています。",
+      "title": "スペース・ミュージアム春休み特別プログラム",
+      "description": "宇宙をテーマにした子ども向け体験プログラムやプラネタリウム上映。4月の春休み期間に家族向けの特別イベントやワークショップが開催されます。",
+      "date": "4月（春休み期間）",
+      "place": "スペース・ミュージアム（Space Museum）、尖沙咀",
+      "link": "https://www.lcsd.gov.hk/en/museums/space",
+      "free": false
+    },
+    {
+      "title": "イースター・バニー・ハント（ショッピングモール）",
+      "description": "香港の主要ショッピングモール（IFC、タイムズスクエアなど）でイースターイベントを開催。子ども向けのスカベンジャーハント、キャラクターミート、ゲームなどが無料で楽しめます。",
       "date": "4月中旬〜下旬",
-      "place": "ハッピーバレー馬場（Happy Valley Racecourse）、湾仔（Wan Chai）",
-      "link": "https://www.hkjc.com/",
-      "free": false
-    },
-    {
-      "title": "ディズニーランド香港のスプリングセレブレーション",
-      "description": "春をテーマにしたパレード、デコレーション、限定イベントが開催。乳幼児から小学生まで楽しめるアトラクションや演出があります。",
-      "date": "4月上旬〜中旬",
-      "place": "香港ディズニーランド（Hong Kong Disneyland）、ランタオ島",
-      "link": "https://www.hongkongdisneyland.com/",
-      "free": false
-    },
-    {
-      "title": "スターフェリーに乗って維多利亞湾のクルーズ",
-      "description": "香港の象徴的な屋外アクティビティ。スターフェリーで海を渡りながら、香港島とビクトリア湾の景色を楽しめます。子どもたちにとって忘れられない体験になります。",
-      "date": "4月通年利用可能",
-      "place": "スターフェリー乗り場（中環・尖沙咀間など）",
-      "link": "https://www.starferry.com.hk/",
-      "free": false
-    },
-    {
-      "title": "香港公園の自然散策とキッズプレイエリア",
-      "description": "中環にある広大な公園で、池、滝、緑に囲まれた自然を無料で楽しめます。キッズプレイグラウンドもあり、小学生が元気に遊べます。",
-      "date": "4月通年利用可能",
-      "place": "香港公園（Hong Kong Park）、中環（Central）",
-      "link": "https://www.lcsd.gov.hk/en/parks_and_sports/parks/hkpark.html",
+      "place": "IFC（International Finance Centre）、セントラル",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-19T06:18:05.176Z"
+  "updatedAt": "2026-04-20T07:29:03.922Z"
 }

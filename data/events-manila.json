@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "サマーフェスティバル（Summer Festival）",
-      "description": "4月はフィリピンの夏シーズン。マニラ周辺のテーマパークやモールで開催される夏祭り。子ども向けゲーム、工作ワークショップ、ステージイベントなど家族向けアクティビティが豊富。",
-      "date": "4月上旬〜下旬",
-      "place": "SM City Manila、Mall of Asia、Enchanted Kingdom",
-      "link": "https://www.enchantedkingdom.ph",
+      "title": "フィリピン・アース・デー（Earth Day）関連イベント",
+      "description": "4月22日前後、リサール公園で開催される環境保全イベント。子ども向けのワークショップ、自然観察、ツリープランティングなど家族で参加できるアクティビティが豊富です。",
+      "date": "4月中旬〜下旬",
+      "place": "リサール公園（Rizal Park）、マニラ市",
+      "link": "https://www.manila.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "スマートスクリーンシネマ・キッズムービーフェスティバル",
+      "description": "全国チェーンの映画館で開催される子ども向け映画祭。家族映画の上映、キャラクターグリーティング、アクティビティブースなどが楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "各モール内シネマコンプレックス（SM Mall of Asia、Robinsons Malls等）",
+      "link": "https://www.smcinema.com/",
       "free": false
     },
     {
-      "title": "フィリピン・クレイ・アート・フェスティバル（Pottery/Clay Workshops）",
-      "description": "4月はクラフトイベントが多く開催される時期。セラミック体験や陶芸ワークショップが各地で実施。子どもも参加できる創作体験で、親子での思い出作りに最適。",
-      "date": "4月中旬",
-      "place": "National Museum Complex, Rizal Park（リサール公園）",
+      "title": "ラグナ・ウォーターパーク・キッズプレイデー",
+      "description": "マニラ郊外のウォーターパークで開催される子ども向けイベント。特別な水遊びプログラム、スライダー、キッズプール利用料金割引など。野外で水を使った遊びが楽しめます。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "ラグナ・ウォーターパーク、サンタ・ローザ、ラグナ州",
+      "link": "https://www.lagunawatersports.com/",
+      "free": false
+    },
+    {
+      "title": "フィリピン国家博物館・キッズプログラム",
+      "description": "4月の特別プログラムで、子ども向けガイドツアー、ワークショップ、展示品に関する対話的な学習活動。フィリピンの歴史と文化を楽しく学べます。",
+      "date": "4月通期（週末中心）",
+      "place": "フィリピン国家博物館、マニラ市ルネタ公園",
+      "link": "https://www.nationalmuseum.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "マニラ・ガーデンズ・スプリングフェスティバル",
+      "description": "春の花々が咲き乱れるイベント。屋外ガーデンツアー、花に関するクラフトワークショップ、キッズガーデニング体験。自然に触れ合える家族向けアウトドア活動です。",
+      "date": "4月上旬〜中旬",
+      "place": "マニラ・ガーデンズ・エコ・パーク、アンティポロ市",
       "link": "",
       "free": false
-    },
-    {
-      "title": "リサール公園（Rizal Park）での屋外活動",
-      "description": "マニラの広大な公園。4月は涼しい朝間が狙い目。ピクニック、散策、親子でのサイクリング、スケートボード練習など自由に楽しめる。無料で終日遊べます。",
-      "date": "4月全期間",
-      "place": "Rizal Park, Padre Burgos Avenue, Manila",
-      "link": "https://www.tourism.gov.ph",
-      "free": true
-    },
-    {
-      "title": "フィリピン国家博物館（National Museum）の子ども向けプログラム",
-      "description": "4月の特別ワークショップやガイドツアーで、子ども向けにフィリピン文化と歴史を学べる。インタラクティブな展示が多く、乳幼児から小学生まで楽しめます。",
-      "date": "4月全期間",
-      "place": "National Museum Complex, Rizal Park, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
-      "free": false
-    },
-    {
-      "title": "ザ・グリーンベルト（The Greenbelts）での無料イベント",
-      "description": "マカティの商業施設内の開放的な庭園スペース。4月に家族向けのコンサート、ワークショップ、アート展示が無料で開催。涼しい環境で子どもが安全に楽しめます。",
-      "date": "4月随時開催",
-      "place": "The Greenbelts, Makati City",
-      "link": "https://www.greenbelt.com.ph",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-19T06:17:32.062Z"
+  "updatedAt": "2026-04-20T07:28:32.959Z"
 }
