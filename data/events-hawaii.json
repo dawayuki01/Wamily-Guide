@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイデー）",
-      "description": "ハワイ文化を代表するレイ作りの伝統を祝う日。各地でレイ作りワークショップ、パレード、フラダンスパフォーマンスが開催。子どもも参加でき、ハワイの文化を体験できます。",
-      "date": "4月30日～5月1日",
-      "place": "オアフ島全域（カピオラニ公園など）",
-      "link": "https://www.gohawaii.com/islands/oahu",
+      "title": "Lei Day celebration（レイデー）",
+      "description": "ハワイアンカルチャーを祝う5月1日前後のイベント。レイ作り体験、フラダンス、音楽パフォーマンス。子どもが伝統文化を学べます。",
+      "date": "4月下旬〜5月上旬",
+      "place": "カピオラニ公園、Honolulu",
+      "link": "https://www.honolulu.gov/",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Spring Programs",
-      "description": "ホノルル動物園の春季特別プログラム。子ども向けの動物ふれあい体験、ガイド付きツアー、自然教育プログラムなど。年間を通じて充実した施設です。",
-      "date": "4月上旬～下旬",
-      "place": "Honolulu Zoo, 151 Kapiolani Park, Honolulu, HI 96815",
-      "link": "https://www.honoluluzoo.org",
+      "title": "Merrie Monarch Festival関連イベント",
+      "description": "ハワイアンカルチャー最大級の祭り。フラコンペティション、パレード、子ども向けワークショップ。地元文化を深く体験できます。",
+      "date": "4月中旬〜下旬",
+      "place": "Big Island（ハワイ島）、Hilo",
+      "link": "https://www.merriemonarchfestival.org/",
       "free": false
     },
     {
-      "title": "Makapuu Point Lighthouse Trail ハイキング",
-      "description": "オアフ島でも人気のファミリー向けハイキングコース。片道2マイル、比較的易しい山道。景色が素晴らしく、太平洋やモロカイ島が見渡せます。朝出発がおすすめです。",
-      "date": "4月上旬～下旬（通年可能）",
-      "place": "Makapu'u Point Lighthouse Trail, Waimanalo, Oahu, HI",
-      "link": "https://www.alltrails.com/trails/hawaii/oahu/makapu-u-lighthouse-trail",
+      "title": "Honolulu Zoo Spring Programs",
+      "description": "動物園の春季プログラム。子ども向けガイドツアー、動物とのふれあい体験。小学生向けの教育的アクティビティが充実。",
+      "date": "4月上旬〜下旬",
+      "place": "Honolulu Zoo, Waikiki",
+      "link": "https://www.honoluluzoo.org/",
+      "free": false
+    },
+    {
+      "title": "Ke Aupuni Marketplace（ワイキキ・サンデー・マーケット）",
+      "description": "毎週日曜開催の地元農産物・クラフトマーケット。無料で散策、ハワイアンフードを試食。親子で地元文化を気軽に体験できます。",
+      "date": "4月毎週日曜",
+      "place": "ワイキキ各所",
+      "link": "https://www.honoluluhiddengems.com/",
       "free": true
     },
     {
-      "title": "Ala Moana Center Spring Events",
-      "description": "アラモアナセンターで開催される春のファミリーイベント。キッズアクティビティコーナー、無料ワークショップ、キャラクターグリーティングなど。買い物も楽しめます。",
-      "date": "4月上旬～中旬",
-      "place": "Ala Moana Center, 1450 Ala Moana Blvd, Honolulu, HI 96814",
-      "link": "https://www.alamoanacenter.com",
-      "free": true
-    },
-    {
-      "title": "Waikiki Aquarium スプリングプログラム",
-      "description": "ワイキキ水族館の春の特別プログラム。子ども向けの海の生き物ツアー、タッチプール体験、シュノーケリング教室など。海洋生物学を楽しく学べます。",
-      "date": "4月上旬～下旬",
-      "place": "Waikiki Aquarium, 2777 Kalakaua Ave, Honolulu, HI 96815",
-      "link": "https://www.waikikiaquarium.org",
+      "title": "Snorkeling at Hanauma Bay",
+      "description": "海洋保護区での家族向けシュノーケリング。4月は水温が上昇し、カラフルな魚や海亀観察に最適。子ども専用浅瀬エリアも用意。",
+      "date": "4月上旬〜下旬",
+      "place": "Hanauma Bay Nature Preserve, Oahu",
+      "link": "https://www.honolulu.gov/parks/facility-finder/detail/189",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-20T07:28:47.809Z"
+  "updatedAt": "2026-04-21T06:24:22.713Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・チューリップ・フェスティバル",
-      "description": "シンガポール植物園で開催される春の花祭り。カラフルなチューリップ展示と家族向けワークショップが楽しめます。写真スポットも豊富で子どもたちも喜びます。",
+      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
+      "description": "植物と花のテーマパーク。4月は春の花々が見頃で、色鮮やかなフラワーディスプレイ、子ども向けガーデンワークショップ、家族向けアクティビティが充実しています。",
+      "date": "4月中旬〜下旬",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
+      "link": "https://www.sbg.org.sg/",
+      "free": false
+    },
+    {
+      "title": "East Coast Park Family Day（イーストコースト・パーク・ファミリーデー）",
+      "description": "シンガポール最大級のビーチパークで開催される家族向けイベント。砂浜での水遊び、サイクリング、ピクニック、子ども向けゲーム大会など。屋外での充実した時間が過ごせます。",
+      "date": "4月中旬（2026年予定）",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449855",
+      "link": "https://www.nparks.gov.sg/",
+      "free": true
+    },
+    {
+      "title": "シンガポール子どもアート・フェスティバル",
+      "description": "子ども向けの美術・工芸・パフォーマンス。対話型展示、ワークショップ、舞台パフォーマンス。幼児から小学生まで楽しめるアート体験が充実しています。",
       "date": "4月上旬〜中旬",
-      "place": "Singapore Botanic Gardens, 1 Cluny Road",
-      "link": "https://www.nparks.gov.sg/sbg",
+      "place": "National Museum of Singapore, 93 Stamford Road, Singapore 178897",
+      "link": "https://www.nationalmuseum.sg/",
       "free": false
     },
     {
-      "title": "イースター・ホリデー・プログラム（動物園）",
-      "description": "シンガポール動物園の子ども向け特別プログラム。動物の餌やり体験、ウォーターショー、キャラクターグリートなど家族向けアクティビティが満載。",
-      "date": "4月中旬（イースター時期）",
-      "place": "Singapore Zoo, 80 Mandai Lake Road",
-      "link": "https://www.zoo.com.sg",
+      "title": "S.E.A. Aquarium（シーアクアリウム）春の特別プログラム",
+      "description": "東南アジア最大級の水族館。春季は子ども向けの海洋生物教室やタッチプール体験が拡大。1,000種以上の海洋生物との出会いは幼児〜小学生に最適です。",
+      "date": "4月全期間",
+      "place": "Sentosa Island, 1A Raffles Boulevard, Singapore 039595",
+      "link": "https://www.seaaquarium.com.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park での屋外遊び・サイクリング",
-      "description": "シンガポール最大のビーチパーク。無料で楽しめるビーチ、遊び場、サイクリングロード、ピクニック施設が充実。4月は天気が良く家族向け屋外活動に最適。",
-      "date": "4月通年（特に朝夕が涼しい時間帯）",
-      "place": "East Coast Park, East Coast Park Service Road",
-      "link": "https://www.nparks.gov.sg/ecp",
+      "title": "Chingay Parade（チンゲイ・パレード）ファミリー・ウィークエンド",
+      "description": "シンガポール最大級のストリートパレード文化祭。カラフルなフロート、伝統パフォーマンス、屋台フードの楽しい雰囲気。子どもたちが文化を学べる無料のエリアも多数あります。",
+      "date": "4月中旬（2026年予定）",
+      "place": "Orchard Road, Singapore（メインパレード会場）",
+      "link": "https://www.visitsingapore.com/",
       "free": true
-    },
-    {
-      "title": "チャイナタウン・ヘリテージ・ウォーク",
-      "description": "チャイナタウンの歴史文化を学ぶ無料ツアー。子ども向けに分かりやすく説明され、伝統建築や文化体験ができます。土日に開催されることが多い。",
-      "date": "4月通年（土日祝日）",
-      "place": "Chinatown Heritage Centre, 48 Pagoda Street",
-      "link": "https://www.chinatownheritagecentre.com.sg",
-      "free": true
-    },
-    {
-      "title": "Science Centre Singapore の春季特別展示",
-      "description": "子ども向けの対話型展示や実験ワークショップ。春季テーマに基づいた新しい展示や家族向けプログラムが開催されます。",
-      "date": "4月通年",
-      "place": "Science Centre Singapore, 15 Science Centre Road",
-      "link": "https://www.science.edu.sg",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-20T07:28:12.182Z"
+  "updatedAt": "2026-04-21T06:23:50.854Z"
 }

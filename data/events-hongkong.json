@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "香港花卉展覧会（Hong Kong Flower Show）",
-      "description": "春の花々が咲き誇る香港最大級の花の祭典。カラフルな花壇やガーデンディスプレイが展示され、子どもも楽しめる園芸体験コーナーやワークショップがあります。",
-      "date": "4月上旬〜中旬",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
-      "link": "https://www.flowershowhk.hk",
+      "description": "4月上旬に開催される香港最大級の花の祭典。色とりどりの花壇、造形展示、親子向けワークショップなど。子どもが花の美しさを学べます。",
+      "date": "4月上旬（2026年は4月3日〜12日予定）",
+      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/en/hkflowershow/",
       "free": false
     },
     {
-      "title": "スターフェリーでの海岸景観（Star Ferry Ride）",
-      "description": "ビクトリア湾を渡る名物フェリー。往復乗車で香港の美しい風景を楽しめます。4月の晴天の日は海風が気持ちよく、子どもにとって忘れられない体験になります。",
-      "date": "4月通年（毎日運行）",
-      "place": "スターフェリー乗り場（セントラル〜尖沙咀など）、香港島・九龍",
-      "link": "https://www.starferry.com.hk",
+      "title": "スターフェリー乗船体験と海岸沿いのプロムナード散策",
+      "description": "香港の象徴的な赤いスターフェリーで維多利亚湾を横断。ビクトリア湾の眺望と海風を楽しむ屋外アクティビティ。往復で約30分。",
+      "date": "4月通年（春の気候が快適）",
+      "place": "スターフェリー乗り場、セントラル～尖沙咀",
+      "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "ハイビスカスの季節・香港公園散策",
-      "description": "4月は色鮮やかなハイビスカスが見頃。香港公園内の屋外庭園を無料で散策でき、池での水遊びや子ども向けの自然観察が楽しめます。",
+      "title": "香港公園（Hong Kong Park）での散策と親子遊び",
+      "description": "广大な庭園、池、噴水広場、野鳥観察エリア。段差が少なく、幼児向けの遊具も充実。4月の新緑の季節に最適な無料の屋外スポット。",
       "date": "4月通年",
-      "place": "香港公園（Hong Kong Park）、セントラル",
-      "link": "https://www.lcsd.gov.hk/en/parks/hkpark",
+      "place": "香港公園、セントラル",
+      "link": "https://www.lcsd.gov.hk/en/parks/hkp/",
       "free": true
     },
     {
-      "title": "スペース・ミュージアム春休み特別プログラム",
-      "description": "宇宙をテーマにした子ども向け体験プログラムやプラネタリウム上映。4月の春休み期間に家族向けの特別イベントやワークショップが開催されます。",
-      "date": "4月（春休み期間）",
-      "place": "スペース・ミュージアム（Space Museum）、尖沙咀",
-      "link": "https://www.lcsd.gov.hk/en/museums/space",
+      "title": "ディズニー・イースター・セレブレーション",
+      "description": "香港ディズニーランドで春の祝日イベント。イースターテーマのパレード、キャラクターグリーティング、季節限定のアトラクションなどを開催。",
+      "date": "4月中旬〜下旬（イースター時期）",
+      "place": "香港ディズニーランド、ランタオ島",
+      "link": "https://www.hongkongdisneyland.com/",
       "free": false
     },
     {
-      "title": "イースター・バニー・ハント（ショッピングモール）",
-      "description": "香港の主要ショッピングモール（IFC、タイムズスクエアなど）でイースターイベントを開催。子ども向けのスカベンジャーハント、キャラクターミート、ゲームなどが無料で楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "IFC（International Finance Centre）、セントラル",
+      "title": "月街夜市（Lunar New Year Night Markets）エリア探索",
+      "description": "4月も月街夜市がある月間。屋台フード、民芸品、子ども向けゲームなど。香港の地元文化を体験でき、食べ歩きも楽しめます。",
+      "date": "4月中旬（特定週末）",
+      "place": "ビクトリアパーク、銅鑼灣周辺",
       "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-20T07:29:03.922Z"
+  "updatedAt": "2026-04-21T06:24:39.721Z"
 }

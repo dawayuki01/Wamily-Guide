@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップフェスティバル（Stockholms Tulipfestival）",
-      "description": "ストックホルムの公園が色鮮やかなチューリップで彩られるイベント。約100万本のチューリップが咲き誇り、家族で春の自然を楽しめます。",
+      "title": "王立庭園（Drottningholm Palace Gardens）の春開き",
+      "description": "4月中旬頃、王立庭園が季節ごとに公開されます。チューリップやスイセンが咲く広大な庭園を散策でき、子どもも自然の中で遊べます。屋外アクティビティ最適。",
       "date": "4月中旬〜下旬",
-      "place": "王宮庭園（Kungliga slottet）ほか複数公園",
-      "link": "https://www.visitstockholm.com",
-      "free": true
+      "place": "Drottningholm Palace, 14200 Drottningholm",
+      "link": "https://www.drottningholmsslott.se",
+      "free": false
     },
     {
-      "title": "スキャンセン春まつり（Skansen Vårfest）",
-      "description": "北欧最大の野外博物館スキャンセンで開催される春祭り。動物との触れ合い、伝統工芸体験、子ども向けアクティビティが充実しています。",
-      "date": "4月上旬〜中旬",
-      "place": "スキャンセン（Djurgårdsvägen 49-51）",
+      "title": "スコーセン野外博物館（Skansen）の春祭り",
+      "description": "4月下旬から5月上旬にかけて、春の動物たちの活動が活発化。子ども向けプログラムや動物とのふれあいが充実。スウェーデン伝統文化も体験できます。",
+      "date": "4月下旬",
+      "place": "Djurgården, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "王立劇場イースターマーケット（Drottningholm Palace Easter Market）",
-      "description": "王宮ドロットニングホルム宮殿でのイースターマーケット。手工芸品、地元食、子ども向けワークショップなど家族で楽しめます。",
-      "date": "4月初旬（イースター時期）",
-      "place": "ドロットニングホルム宮殿（Drottningholmsvägen）",
-      "link": "https://www.drottningholmsslott.se",
+      "title": "ストックホルム・ガムラスタン（旧市街）の無料散策と広場",
+      "description": "カラフルな建物が立ち並ぶ旧市街は家族で無料で散策可能。子どもも歴史的雰囲気を楽しめ、カフェや小さなショップも多数。春は歩きやすい季節です。",
+      "date": "4月全体",
+      "place": "Gamla Stan, Stockholm",
+      "link": "https://www.stockholmtown.com/what-to-do/gamla-stan",
       "free": true
     },
     {
-      "title": "ユーランダ島の春サイクリング＆ピクニック",
-      "description": "ストックホルム群島の美しい島々をサイクリングで巡る季節アクティビティ。乳幼児向けベビーカー対応ルートも充実し、自然の中でリラックスできます。",
-      "date": "4月中旬〜下旬",
-      "place": "ユーランダ島周辺（Värmdö）",
-      "link": "https://www.visitstockholm.com",
-      "free": true
-    },
-    {
-      "title": "ストックホルム自然博物館春企画展",
-      "description": "春の生態系や動物をテーマにした特別展示。インタラクティブな子ども向けコーナー、工作ワークショップで学びながら楽しめます。",
-      "date": "4月全期間",
-      "place": "ストックホルム自然博物館（Frescativägen 40）",
+      "title": "スウェーデン自然史博物館（Swedish Museum of Natural History）の春特別展",
+      "description": "恐竜や動物の展示が充実。子ども向けワークショップや対話的な展示で、知的好奇心を刺激。雨の日の室内活動にも最適です。",
+      "date": "4月全体",
+      "place": "Frescativägen 40, 104 05 Stockholm",
       "link": "https://www.nrm.se",
       "free": false
+    },
+    {
+      "title": "ユーランス島（Djurgården）のサイクリングと無料散策",
+      "description": "春の新緑の中でサイクリングやピクニック。子ども向けレンタル自転車も利用可。無料で楽しめる屋外アクティビティで、家族時間に最適です。",
+      "date": "4月上旬〜下旬",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.djurgarden.se",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-20T07:28:05.388Z"
+  "updatedAt": "2026-04-21T06:23:42.651Z"
 }

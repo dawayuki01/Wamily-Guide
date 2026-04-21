@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・フェスティバル（LA Flower Market Spring Festival）",
-      "description": "南カリフォルニアの春を代表するフラワーマーケット。色とりどりの花々が並び、家族で楽しめる屋外イベント。ワークショップやキッズコーナーも充実。",
-      "date": "4月上旬〜中旬",
-      "place": "LA Flower Market、766 Wall Street, Los Angeles, CA 90017",
+      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market Spring Events）",
+      "description": "春の花々が咲き誇る季節。色とりどりの花を眺めたり、家族で花選びを楽しめます。屋外の楽しい雰囲気の中、乳幼児から小学生まで楽しめます。",
+      "date": "4月上旬〜下旬（通年営業）",
+      "place": "LA Flower Market, 755 San Julian St, Los Angeles, CA 90014",
       "link": "https://www.laflowermarket.com",
       "free": true
     },
     {
-      "title": "グリフィス天文台（Griffith Observatory）春の特別プログラム",
-      "description": "無料で楽しめる天文台。春は夜間プログラムが充実。屋外ハイキング、プラネタリウムショー、展示エリアで宇宙を学べる家族向け施設。",
-      "date": "4月通期",
-      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
+      "title": "グリフィス・オブザーバトリー春の特別プログラム",
+      "description": "子ども向け天文学教室やプラネタリウム上映会が開催されます。昼間の展示エリアは無料で楽しめ、家族で宇宙について学べます。",
+      "date": "4月中旬〜下旬",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "長ビーチ「アースデイ」イベント＆ビーチアクティビティ",
-      "description": "4月22日アースデイに合わせた環境イベント。ビーチクリーンアップ、自然学習、キッズアクティビティ。屋外でビーチを楽しみながら学べる。",
-      "date": "4月中旬〜下旬",
-      "place": "Long Beach Waterfront, Long Beach, CA 90802",
-      "link": "https://www.visitlongbeach.com",
+      "title": "ロサンゼルス・ハイキング（Spring Wildflower Trails）",
+      "description": "春の野生花が満開。トレイル・パークで家族向けのハイキングが楽しめます。子どもも歩きやすいコースが多く、自然とふれあえます。",
+      "date": "4月上旬〜中旬",
+      "place": "Runyon Canyon Park, 2000 N Fuller Ave, Los Angeles, CA 90046",
+      "link": "https://www.lamountains.com",
       "free": true
     },
     {
-      "title": "ロサンゼルス動物園（Los Angeles Zoo）春のイベント",
-      "description": "春限定のキッズプログラムや動物との触れ合いアクティビティ。新生児動物の展示も。広大な敷地で屋外散策しながら動物学習できる。",
+      "title": "カリフォルニア・サイエンス・センター春の特別展示",
+      "description": "入館料無料の科学館。春の新展示では、生物や環境について学べます。IMAXシアターも上映中で、子ども向けプログラムが充実しています。",
       "date": "4月通期",
-      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
-      "free": false
-    },
-    {
-      "title": "カリフォルニア・サイエンス・センター（California Science Center）特別展",
-      "description": "入場無料の科学館。春の特別プログラムやアクティビティ。乳幼児〜小学生向けのインタラクティブ展示やワークショップが充実。",
-      "date": "4月通期",
-      "place": "California Science Center, 700 Exposition Park Drive, Los Angeles, CA 90037",
+      "place": "California Science Center, 700 State Dr, Los Angeles, CA 90037",
       "link": "https://www.californiasciencecenter.org",
       "free": true
+    },
+    {
+      "title": "ロサンゼルス動物園の春フェスティバル",
+      "description": "子どもが動物との出会いを楽しめる季節的プログラム。春限定のイベントやワークショップが開催されます。乳幼児から小学生まで楽しめます。",
+      "date": "4月全体",
+      "place": "Los Angeles Zoo, 5333 Zoo Dr, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-19T06:17:39.067Z"
+  "updatedAt": "2026-04-21T06:24:15.116Z"
 }

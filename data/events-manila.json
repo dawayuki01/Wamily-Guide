@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アース・デー（Earth Day）関連イベント",
-      "description": "4月22日前後、リサール公園で開催される環境保全イベント。子ども向けのワークショップ、自然観察、ツリープランティングなど家族で参加できるアクティビティが豊富です。",
+      "title": "フィリピン・アース・デイ（Earth Day Activities）",
+      "description": "4月22日を中心に、マニラの公園やモール内で環境保全をテーマにした子ども向けワークショップが開催されます。リサイクル工作や自然観察など無料プログラムが多数あります。",
       "date": "4月中旬〜下旬",
-      "place": "リサール公園（Rizal Park）、マニラ市",
-      "link": "https://www.manila.gov.ph/",
+      "place": "マニラ各地（Rizal Park、モールなど）",
+      "link": "https://www.denr.gov.ph",
       "free": true
     },
     {
-      "title": "スマートスクリーンシネマ・キッズムービーフェスティバル",
-      "description": "全国チェーンの映画館で開催される子ども向け映画祭。家族映画の上映、キャラクターグリーティング、アクティビティブースなどが楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "各モール内シネマコンプレックス（SM Mall of Asia、Robinsons Malls等）",
-      "link": "https://www.smcinema.com/",
+      "title": "Sinulog Festival（シヌログ関連イベント）/ Summer Festivals",
+      "description": "4月はサマーシーズン到来。マニラ郊外のテーマパークやリゾート、モールで子ども向けサマーキャンプ・プール開放が活発になります。Sky Ranch やEdenlandなどで特別プログラムが企画されます。",
+      "date": "4月上旬〜下旬",
+      "place": "Sky Ranch（Tagaytay近郊）、Edenland（Rizal）、各モール",
+      "link": "https://www.skyranch.com.ph",
       "free": false
     },
     {
-      "title": "ラグナ・ウォーターパーク・キッズプレイデー",
-      "description": "マニラ郊外のウォーターパークで開催される子ども向けイベント。特別な水遊びプログラム、スライダー、キッズプール利用料金割引など。野外で水を使った遊びが楽しめます。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "ラグナ・ウォーターパーク、サンタ・ローザ、ラグナ州",
-      "link": "https://www.lagunawatersports.com/",
-      "free": false
-    },
-    {
-      "title": "フィリピン国家博物館・キッズプログラム",
-      "description": "4月の特別プログラムで、子ども向けガイドツアー、ワークショップ、展示品に関する対話的な学習活動。フィリピンの歴史と文化を楽しく学べます。",
-      "date": "4月通期（週末中心）",
-      "place": "フィリピン国家博物館、マニラ市ルネタ公園",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "National Museum フリーデー / 文化施設の子ども向けプログラム",
+      "description": "フィリピン国立博物館では定期的に子ども向け教育プログラムを実施。第1日曜は入館料無料。自然史、美術、人類学を学べる楽しい展示が充実しています。",
+      "date": "毎月第1日曜（4月は6日、13日、20日、27日）",
+      "place": "National Museum Complex, Padre Burgos Avenue, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": true
     },
     {
-      "title": "マニラ・ガーデンズ・スプリングフェスティバル",
-      "description": "春の花々が咲き乱れるイベント。屋外ガーデンツアー、花に関するクラフトワークショップ、キッズガーデニング体験。自然に触れ合える家族向けアウトドア活動です。",
+      "title": "フィリピン動物園（Philippine Zoo）の特別イベント",
+      "description": "サマーシーズンの4月、子ども向けのアニマルエンカウンタープログラムやフィーディング体験が増設されます。屋外で動物と触れ合える人気のアクティビティです。",
+      "date": "4月上旬〜下旬（毎日営業）",
+      "place": "Philippine Zoo, Quezon Avenue, Diliman, Quezon City",
+      "link": "https://www.manila-zoo.org",
+      "free": false
+    },
+    {
+      "title": "CCP キッズフェスティバル・アート体験プログラム",
+      "description": "文化センター（CCP）では春季に子ども向けアート・ダンス・音楽ワークショップが実施されることが多いです。創造性を伸ばす無料〜低価格プログラムが充実しています。",
       "date": "4月上旬〜中旬",
-      "place": "マニラ・ガーデンズ・エコ・パーク、アンティポロ市",
-      "link": "",
+      "place": "Cultural Center of the Philippines (CCP), Roxas Boulevard, Manila",
+      "link": "https://www.culturalcenter.gov.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-20T07:28:32.959Z"
+  "updatedAt": "2026-04-21T06:24:07.643Z"
 }

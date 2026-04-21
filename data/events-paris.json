@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリのチューリップシーズン＆庭園散策",
-      "description": "ルクセンブルク公園やチュイルリー庭園でチューリップが満開。子どもと一緒に春の花を鑑賞でき、広い庭園での自由な遊びも楽しめます。",
+      "title": "パリ・プランタン春のフラワーディスプレイ",
+      "description": "老舗デパート「プランタン」の春の装飾。窓やショーウィンドウが花で彩られ、家族で楽しめる無料の視覚体験。記念撮影スポットも多数あります。",
       "date": "4月上旬〜中旬",
-      "place": "ルクセンブルク公園、チュイルリー庭園（パリ6区・1区）",
-      "link": "https://www.paris.fr",
+      "place": "Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris",
+      "link": "https://www.printemps.com/",
       "free": true
     },
     {
-      "title": "イースター・キッズプログラム（パリ自然史博物館）",
-      "description": "恐竜や動物についての特別子ども向けツアー・ワークショップ。乳幼児から小学生まで参加できる家族向けプログラムが開催されます。",
-      "date": "4月中旬〜下旬（イースター休暇期間）",
-      "place": "パリ自然史博物館（パリ5区）",
-      "link": "https://www.mnhn.fr",
+      "title": "シャトー・ド・ヴェルサイユの春のチューリップ祭",
+      "description": "広大な庭園に春のチューリップが咲き誇ります。屋外で子どもが走り回れ、王妃の小トリアノン周辺も散策可能。ピクニックにも最適です。",
+      "date": "4月中旬〜下旬",
+      "place": "Château de Versailles, 78000 Versailles",
+      "link": "https://www.chateauversailles.fr/",
       "free": false
     },
     {
-      "title": "パリのオープンエアマーケット散策",
-      "description": "マルシェ・バスティーユなど週末の青空市場。新鮮な春の野菜・果物・花を購入でき、子ども向けの試食や地元の雰囲気を楽しめます。",
-      "date": "4月毎週木曜・日曜（曜日別）",
-      "place": "マルシェ・バスティーユほか各地（パリ各区）",
-      "link": "https://www.paris.fr/pages/les-marches-de-paris-7073",
+      "title": "パリ市庁舎（Hôtel de Ville）のイースター・イベント",
+      "description": "4月はイースターシーズン。市庁舎周辺で卵探しやカラフルなデコレーション、ファミリー向けアクティビティが展開されます。無料で参加可能。",
+      "date": "4月上旬〜中旬",
+      "place": "Hôtel de Ville, 4 rue de Rivoli, 75004 Paris",
+      "link": "https://www.paris.fr/",
       "free": true
     },
     {
-      "title": "セーヌ川クルーズ＆セーヌ沿い自転車道散策",
-      "description": "春の陽気の中、セーヌ沿いを自転車やベロリブ（レンタル自転車）で散策、またはクルーズ船で遊覧。ノートルダム周辺の眺めも春ならではです。",
-      "date": "4月上旬〜下旬",
-      "place": "セーヌ川沿い・ノートルダム島周辺（パリ中心部）",
-      "link": "https://www.vedettesdupont.com",
+      "title": "ルーヴル美術館の子ども向けワークショップ",
+      "description": "春休みシーズンに合わせた「Family Workshops」開催。4〜12歳向けのアート体験や美術館探検ゲーム。親子で文化を楽しめます。",
+      "date": "4月中旬〜下旬（春休み期間）",
+      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris",
+      "link": "https://www.louvre.fr/",
       "free": false
     },
     {
-      "title": "ルーヴル美術館・キッズラウンジ＆ファミリーツアー",
-      "description": "特別な子ども向けガイドツアー、クリエイティブワークショップ。アート体験を通じて乳幼児から小学生まで楽しく美術に親しめます。",
-      "date": "4月通年（毎週末開催）",
-      "place": "ルーヴル美術館（パリ1区）",
-      "link": "https://www.louvre.fr",
-      "free": false
+      "title": "セーヌ川沿いのお散歩ピクニック",
+      "description": "4月のパリは気候が温暖。セーヌ川の遊歩道やノートルダム周辺は絶好のピクニックスポット。公園で自由に遊べます。",
+      "date": "4月全期間",
+      "place": "Seine riverside / Île de la Cité, Paris",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-20T07:27:56.823Z"
+  "updatedAt": "2026-04-21T06:23:33.380Z"
 }
