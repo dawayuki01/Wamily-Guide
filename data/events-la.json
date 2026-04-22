@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market Spring Events）",
-      "description": "春の花々が咲き誇る季節。色とりどりの花を眺めたり、家族で花選びを楽しめます。屋外の楽しい雰囲気の中、乳幼児から小学生まで楽しめます。",
-      "date": "4月上旬〜下旬（通年営業）",
-      "place": "LA Flower Market, 755 San Julian St, Los Angeles, CA 90014",
+      "title": "ロサンゼルス・フラワーマーケット春の花祭り",
+      "description": "地元で人気の花市場で、春の花々が一堂に集う季節限定イベント。カラフルな花々、ガーデニングワークショップ、キッズ向けアクティビティが楽しめます。",
+      "date": "4月上旬〜中旬",
+      "place": "Los Angeles Flower Market、622 S San Pedro St, Los Angeles, CA 90014",
       "link": "https://www.laflowermarket.com",
       "free": true
     },
     {
-      "title": "グリフィス・オブザーバトリー春の特別プログラム",
-      "description": "子ども向け天文学教室やプラネタリウム上映会が開催されます。昼間の展示エリアは無料で楽しめ、家族で宇宙について学べます。",
+      "title": "グリフィス天文台での春の屋外体験プログラム",
+      "description": "昼間は天文台の見学と展示、屋外からロサンゼルス市街地を一望できます。子ども向けサイエンスプログラムも開催。天気の良い4月は最適なシーズンです。",
       "date": "4月中旬〜下旬",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "place": "Griffith Observatory、2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "ロサンゼルス・ハイキング（Spring Wildflower Trails）",
-      "description": "春の野生花が満開。トレイル・パークで家族向けのハイキングが楽しめます。子どもも歩きやすいコースが多く、自然とふれあえます。",
-      "date": "4月上旬〜中旬",
-      "place": "Runyon Canyon Park, 2000 N Fuller Ave, Los Angeles, CA 90046",
-      "link": "https://www.lamountains.com",
+      "title": "ロサンゼルス・チルドレンズ・ミュージアム春の特別展示",
+      "description": "子ども専門の美術館で、春の季節に合わせた対話型展示やワークショップを開催。乳幼児から小学生まで楽しめる創造的なスペースです。",
+      "date": "4月全期間",
+      "place": "Los Angeles Children's Museum、800 S Olive Ave, Los Angeles, CA 90017",
+      "link": "https://www.lacm.org",
+      "free": false
+    },
+    {
+      "title": "サンタモニカビーチの春休みファミリーイベント",
+      "description": "ビーチでのビーチクリーンアップ、砂遊びイベント、子ども向けアクティビティ。暖かい春の季節にピッタリの海辺での家族時間が過ごせます。",
+      "date": "4月上旬〜下旬",
+      "place": "Santa Monica Beach、1550 Pacific Coast Hwy, Santa Monica, CA 90401",
+      "link": "https://www.visitcalifornia.com/experience/santa-monica-beach",
       "free": true
     },
     {
-      "title": "カリフォルニア・サイエンス・センター春の特別展示",
-      "description": "入館料無料の科学館。春の新展示では、生物や環境について学べます。IMAXシアターも上映中で、子ども向けプログラムが充実しています。",
-      "date": "4月通期",
-      "place": "California Science Center, 700 State Dr, Los Angeles, CA 90037",
-      "link": "https://www.californiasciencecenter.org",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス動物園の春フェスティバル",
-      "description": "子どもが動物との出会いを楽しめる季節的プログラム。春限定のイベントやワークショップが開催されます。乳幼児から小学生まで楽しめます。",
-      "date": "4月全体",
-      "place": "Los Angeles Zoo, 5333 Zoo Dr, Los Angeles, CA 90027",
+      "title": "ロサンゼルス動物園のスプリングフェスティバル",
+      "description": "動物の赤ちゃん公開時期で、餌やり体験やアニマルケアプログラムなど特別ワークショップが充実。春の新しい動物たちが見られるシーズンです。",
+      "date": "4月全期間",
+      "place": "Los Angeles Zoo and Botanical Gardens、5333 Zoo Dr, Los Angeles, CA 90027",
       "link": "https://www.lazoo.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-21T06:24:15.116Z"
+  "updatedAt": "2026-04-22T06:24:04.528Z"
 }

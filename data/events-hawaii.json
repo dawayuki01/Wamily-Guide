@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day celebration（レイデー）",
-      "description": "ハワイアンカルチャーを祝う5月1日前後のイベント。レイ作り体験、フラダンス、音楽パフォーマンス。子どもが伝統文化を学べます。",
-      "date": "4月下旬〜5月上旬",
-      "place": "カピオラニ公園、Honolulu",
-      "link": "https://www.honolulu.gov/",
-      "free": true
+      "title": "ホノルル・ファッション・ウィーク",
+      "description": "4月初旬に開催される、ハワイ最大のファッションイベント。子ども向けファッションショーやキッズ体験コーナーもあり、家族で楽しめます。",
+      "date": "4月上旬",
+      "place": "ワイキキ・ショッピング・プラザ他、オアフ島各地",
+      "link": "https://www.honolulufashionweek.com",
+      "free": false
     },
     {
-      "title": "Merrie Monarch Festival関連イベント",
-      "description": "ハワイアンカルチャー最大級の祭り。フラコンペティション、パレード、子ども向けワークショップ。地元文化を深く体験できます。",
+      "title": "フラ・フェスティバル・ハワイ",
+      "description": "ハワイの伝統文化フラダンスの競技大会。子どもも観賞でき、無料セクションもあります。ハワイ文化を家族で学べる貴重な機会です。",
       "date": "4月中旬〜下旬",
-      "place": "Big Island（ハワイ島）、Hilo",
-      "link": "https://www.merriemonarchfestival.org/",
-      "free": false
-    },
-    {
-      "title": "Honolulu Zoo Spring Programs",
-      "description": "動物園の春季プログラム。子ども向けガイドツアー、動物とのふれあい体験。小学生向けの教育的アクティビティが充実。",
-      "date": "4月上旬〜下旬",
-      "place": "Honolulu Zoo, Waikiki",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "Ke Aupuni Marketplace（ワイキキ・サンデー・マーケット）",
-      "description": "毎週日曜開催の地元農産物・クラフトマーケット。無料で散策、ハワイアンフードを試食。親子で地元文化を気軽に体験できます。",
-      "date": "4月毎週日曜",
-      "place": "ワイキキ各所",
-      "link": "https://www.honoluluhiddengems.com/",
+      "place": "ニール・S・ブレイスデル・センター（ホノルル）",
+      "link": "https://www.merriemonarchfestival.org",
       "free": true
     },
     {
-      "title": "Snorkeling at Hanauma Bay",
-      "description": "海洋保護区での家族向けシュノーケリング。4月は水温が上昇し、カラフルな魚や海亀観察に最適。子ども専用浅瀬エリアも用意。",
-      "date": "4月上旬〜下旬",
-      "place": "Hanauma Bay Nature Preserve, Oahu",
-      "link": "https://www.honolulu.gov/parks/facility-finder/detail/189",
+      "title": "オアフ島・ハイキング＆ビーチ・クリーンアップ・イベント",
+      "description": "4月は乾季でハイキングに最適。子ども向けの簡単コースでの自然体験やビーチクリーンアップに無料参加でき、環境学習にもなります。",
+      "date": "4月中旬（各週末開催）",
+      "place": "ダイヤモンドヘッド・トレイル、アラモアナ・ビーチ他",
+      "link": "https://dlnr.hawaii.gov",
+      "free": true
+    },
+    {
+      "title": "KCC（カピオラニ・コミュニティ・カレッジ）ファーマーズ・マーケット",
+      "description": "地元野菜や花、ハワイアン・フードが並ぶ週末マーケット。屋外で無料で散策でき、子ども向けクラフト体験やサンプリングも充実しています。",
+      "date": "4月毎週土曜日",
+      "place": "カピオラニ・コミュニティ・カレッジ駐車場（ホノルル）",
+      "link": "https://kccfarmersmarket.com",
+      "free": true
+    },
+    {
+      "title": "ホノルル動物園・スプリング・キャンプ・プログラム",
+      "description": "春休み期間の4月に開催される子ども向け特別プログラム。動物との触れ合いやワークショップで、自然と動物について学べます。",
+      "date": "4月中旬〜下旬",
+      "place": "ホノルル動物園（ワイキキ）",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-21T06:24:22.713Z"
+  "updatedAt": "2026-04-22T06:24:12.581Z"
 }

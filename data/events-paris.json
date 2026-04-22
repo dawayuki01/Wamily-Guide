@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プランタン春のフラワーディスプレイ",
-      "description": "老舗デパート「プランタン」の春の装飾。窓やショーウィンドウが花で彩られ、家族で楽しめる無料の視覚体験。記念撮影スポットも多数あります。",
+      "title": "パリのチューリップ祭（Tulipes à Paris）",
+      "description": "ルクセンブルク公園やテュイルリー公園など市内各所に色とりどりのチューリップが咲き誇る。春の訪れを感じながら家族で散策できます。",
       "date": "4月上旬〜中旬",
-      "place": "Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris",
-      "link": "https://www.printemps.com/",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、テュイルリー公園（Jardin des Tuileries）ほか",
+      "link": "https://www.paris-tourism.com",
       "free": true
     },
     {
-      "title": "シャトー・ド・ヴェルサイユの春のチューリップ祭",
-      "description": "広大な庭園に春のチューリップが咲き誇ります。屋外で子どもが走り回れ、王妃の小トリアノン周辺も散策可能。ピクニックにも最適です。",
+      "title": "フローラリア（Floralies Internationales Paris）",
+      "description": "春の花と園芸をテーマにした国際花博。子ども向けのワークショップや展示があり、屋外で自然を学べます。",
       "date": "4月中旬〜下旬",
-      "place": "Château de Versailles, 78000 Versailles",
-      "link": "https://www.chateauversailles.fr/",
-      "free": false
-    },
-    {
-      "title": "パリ市庁舎（Hôtel de Ville）のイースター・イベント",
-      "description": "4月はイースターシーズン。市庁舎周辺で卵探しやカラフルなデコレーション、ファミリー向けアクティビティが展開されます。無料で参加可能。",
-      "date": "4月上旬〜中旬",
-      "place": "Hôtel de Ville, 4 rue de Rivoli, 75004 Paris",
-      "link": "https://www.paris.fr/",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館の子ども向けワークショップ",
-      "description": "春休みシーズンに合わせた「Family Workshops」開催。4〜12歳向けのアート体験や美術館探検ゲーム。親子で文化を楽しめます。",
-      "date": "4月中旬〜下旬（春休み期間）",
-      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris",
-      "link": "https://www.louvre.fr/",
-      "free": false
-    },
-    {
-      "title": "セーヌ川沿いのお散歩ピクニック",
-      "description": "4月のパリは気候が温暖。セーヌ川の遊歩道やノートルダム周辺は絶好のピクニックスポット。公園で自由に遊べます。",
-      "date": "4月全期間",
-      "place": "Seine riverside / Île de la Cité, Paris",
+      "place": "ヴェルサイユ宮殿周辺、パリ郊外",
       "link": "",
+      "free": false
+    },
+    {
+      "title": "パリ動物園（Ménagerie du Jardin des Plantes）での春企画",
+      "description": "フランス国立自然史博物館の動物園。春の生き物たちの様子を観察できます。乳幼児〜小学生向けのガイドツアーやクイズラリーも開催。",
+      "date": "4月全期間",
+      "place": "ジャルダン・デ・プラント（Jardin des Plantes, 5区）",
+      "link": "https://www.mnhn.fr",
+      "free": false
+    },
+    {
+      "title": "セーヌ河沿いの屋外マーケットと散策",
+      "description": "ブキニスト（古書店）が並ぶセーヌ河右岸の散策路。春の気候で快適に歩け、ノートルダム周辺の絶景も楽しめます。無料で家族散策できます。",
+      "date": "4月全期間",
+      "place": "セーヌ河左岸・右岸（Left Bank & Right Bank）",
+      "link": "https://www.paris-tourism.com",
       "free": true
+    },
+    {
+      "title": "シテ島子どもミュージアム（Musée en Herbe）の春企画",
+      "description": "子ども向けの美術館。春をテーマにした子ども参加型展示やワークショップで、アート鑑賞を楽しく学べます。",
+      "date": "4月全期間",
+      "place": "シテ島（Île de la Cité, 4区）",
+      "link": "https://www.musee-en-herbe.com",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-21T06:23:33.380Z"
+  "updatedAt": "2026-04-22T06:23:25.785Z"
 }

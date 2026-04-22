@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アース・デイ（Earth Day Activities）",
-      "description": "4月22日を中心に、マニラの公園やモール内で環境保全をテーマにした子ども向けワークショップが開催されます。リサイクル工作や自然観察など無料プログラムが多数あります。",
+      "title": "フィリピン・アース・デー（Earth Day）イベント",
+      "description": "4月22日前後に開催される地球環境保護イベント。マニラの各公園で子どもも参加できる環境教育ワークショップ、植林活動、リサイクル啓発活動が実施されます。",
       "date": "4月中旬〜下旬",
-      "place": "マニラ各地（Rizal Park、モールなど）",
-      "link": "https://www.denr.gov.ph",
+      "place": "マニラ市内各公園（ロハスブルバード周辺など）",
+      "link": "",
       "free": true
     },
     {
-      "title": "Sinulog Festival（シヌログ関連イベント）/ Summer Festivals",
-      "description": "4月はサマーシーズン到来。マニラ郊外のテーマパークやリゾート、モールで子ども向けサマーキャンプ・プール開放が活発になります。Sky Ranch やEdenlandなどで特別プログラムが企画されます。",
-      "date": "4月上旬〜下旬",
-      "place": "Sky Ranch（Tagaytay近郊）、Edenland（Rizal）、各モール",
-      "link": "https://www.skyranch.com.ph",
+      "title": "シャイン・キッズ・フェスティバル（Shine Kids Festival）",
+      "description": "子ども向けの大型フェスティバル。ゲーム、ワークショップ、キャラクターミート、ステージ表演などが行われ、乳幼児から小学生まで楽しめます。",
+      "date": "4月中旬",
+      "place": "SMモール・オブ・アジア（MOA）、マニラ湾沿い",
+      "link": "https://www.smmalls.com/",
       "free": false
     },
     {
-      "title": "National Museum フリーデー / 文化施設の子ども向けプログラム",
-      "description": "フィリピン国立博物館では定期的に子ども向け教育プログラムを実施。第1日曜は入館料無料。自然史、美術、人類学を学べる楽しい展示が充実しています。",
-      "date": "毎月第1日曜（4月は6日、13日、20日、27日）",
-      "place": "National Museum Complex, Padre Burgos Avenue, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "title": "マニラ湾サンセットの無料屋外散歩＆ピクニック",
+      "description": "ロハスブルバード沿いで家族でピクニック。4月は乾季で天候が良く、美しいサンセットを眺められます。売店や屋台も多く、子どもも安全に遊べます。",
+      "date": "4月全期間",
+      "place": "ロハスブルバード（Roxas Boulevard）・マニラ湾沿い",
+      "link": "",
       "free": true
     },
     {
-      "title": "フィリピン動物園（Philippine Zoo）の特別イベント",
-      "description": "サマーシーズンの4月、子ども向けのアニマルエンカウンタープログラムやフィーディング体験が増設されます。屋外で動物と触れ合える人気のアクティビティです。",
-      "date": "4月上旬〜下旬（毎日営業）",
-      "place": "Philippine Zoo, Quezon Avenue, Diliman, Quezon City",
-      "link": "https://www.manila-zoo.org",
+      "title": "フィリピン国立博物館・子ども向けプログラム",
+      "description": "4月に特別展示や子ども向けワークショップを開催。フィリピンの歴史・文化・自然を学べる対話型展示が充実し、小学生向けガイドツアーも用意されています。",
+      "date": "4月全期間",
+      "place": "フィリピン国立博物館、マニラ市ルネタ公園内",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     },
     {
-      "title": "CCP キッズフェスティバル・アート体験プログラム",
-      "description": "文化センター（CCP）では春季に子ども向けアート・ダンス・音楽ワークショップが実施されることが多いです。創造性を伸ばす無料〜低価格プログラムが充実しています。",
-      "date": "4月上旬〜中旬",
-      "place": "Cultural Center of the Philippines (CCP), Roxas Boulevard, Manila",
-      "link": "https://www.culturalcenter.gov.ph",
-      "free": false
+      "title": "ナショナル・パークス・デー・アクティビティ",
+      "description": "4月の公園関連イベントとして、マニラの自然公園で野鳥観察ツアーや自然探検プログラムが開催されます。子どもが生態系を学ぶ良い機会です。",
+      "date": "4月下旬",
+      "place": "ルネタ公園・バクラランマーシュ（ラグナ州内）",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-21T06:24:07.643Z"
+  "updatedAt": "2026-04-22T06:23:57.099Z"
 }
