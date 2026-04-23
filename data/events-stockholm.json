@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップ祭り（Tulip Festival at Drottningholm Palace）",
-      "description": "ドロットニングホルム宮殿の庭園に数千本のチューリップが咲き乱れる春の風物詩。子どもと一緒に色とりどりの花を楽しめます。",
+      "title": "王立公園（Kungsträdgården）の春のフェスティバル",
+      "description": "4月のストックホルムを代表する春祭り。ステージパフォーマンス、フードスタンド、子ども向けアクティビティが充実。家族連れで楽しめる屋外イベント。",
       "date": "4月中旬〜下旬",
-      "place": "ドロットニングホルム宮殿（Drottningholms slott）、Stockholm",
-      "link": "https://www.stockholmsslott.se/",
-      "free": false
-    },
-    {
-      "title": "ヴァーサ号博物館の子ども向けプログラム",
-      "description": "17世紀の戦艦ヴァーサ号を見学できる博物館。子ども向けの体験プログラムやガイドツアーが春休み期間に充実しています。",
-      "date": "4月中旬〜下旬（春休み対応期間）",
-      "place": "ヴァーサ博物館（Vasamuseet）、Galärvarvsvägen 14, Stockholm",
-      "link": "https://www.vasamuseet.se/",
-      "free": false
-    },
-    {
-      "title": "スカンセン屋外博物館での春のアクティビティ",
-      "description": "動物園と伝統的なスウェーデン村が一体の施設。春の動物たちと触れ合い、伝統的な暮らしを学べる屋外アクティビティです。",
-      "date": "4月全期間",
-      "place": "スカンセン（Skansen）、Djurgårdsslätten 49-51, Stockholm",
-      "link": "https://www.skansen.se/",
-      "free": false
-    },
-    {
-      "title": "ユールゴーデン島での春のお散歩（無料）",
-      "description": "ストックホルムの緑あふれるユールゴーデン島。4月は春の花が咲き、子どもと一緒に散策できる無料の屋外アクティビティです。",
-      "date": "4月全期間",
-      "place": "ユールゴーデン島（Djurgården）、Stockholm",
-      "link": "https://www.stockholm.se/en/visiting-stockholm/djurgarden/",
+      "place": "Kungsträdgården, Norrström, Stockholm",
+      "link": "https://www.stockholm.se/en/",
       "free": true
     },
     {
-      "title": "イースターマーケット＆展示会（Stockholm Easter Markets）",
-      "description": "ストックホルム市内各地でイースターをテーマにしたマーケットが開催。工芸品、食べ物、子ども向けアクティビティが豊富です。",
-      "date": "4月上旬〜中旬（イースター時期）",
-      "place": "ストックホルム市内各地（Gamla Stan、Skeppsbron周辺）",
+      "title": "スカンセン野外博物館（Skansen）の春イベント",
+      "description": "北欧の伝統的な暮らしを学べる野外博物館。4月は動物たちの赤ちゃんシーズン。季節限定イベント・教育プログラムで子どもが学びながら楽しめます。",
+      "date": "4月全期間",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/en/",
+      "free": false
+    },
+    {
+      "title": "ヴァーサ博物館（Vasa Museum）の子ども向けプログラム",
+      "description": "17世紀の軍艦を展示する世界的に有名な博物館。子ども用オーディオガイド、探索ゲーム、ワークショップなど。船の歴史を遊びながら学べます。",
+      "date": "4月全期間",
+      "place": "Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se/en/",
+      "free": false
+    },
+    {
+      "title": "ストックホルム群島のイースター休暇アクティビティ",
+      "description": "4月のイースター時期に、群島でボート体験やコテージでの家族向けイベント開催。自然の中で北欧の春を満喫。地元ツアー業者で手配可能。",
+      "date": "4月上旬（イースター時期）",
+      "place": "ストックホルム群島（Stockholm Archipelago）",
+      "link": "https://www.stockholm.se/en/about-stockholm/stockholm-archipelago/",
+      "free": false
+    },
+    {
+      "title": "チューリップとアネモネの春の花畑鑑賞",
+      "description": "4月はストックホルムの公園で春の花が見頃。DjurgårdenやKungsträdgårdenで美しい花を背景に写真撮影。無料で楽しめる季節の風物詩。",
+      "date": "4月中旬〜下旬",
+      "place": "Djurgården, Kungsträdgården, Stockholm",
       "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-22T06:23:33.041Z"
+  "updatedAt": "2026-04-23T01:19:11.033Z"
 }

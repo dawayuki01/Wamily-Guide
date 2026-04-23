@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ホノルル・ファッション・ウィーク",
-      "description": "4月初旬に開催される、ハワイ最大のファッションイベント。子ども向けファッションショーやキッズ体験コーナーもあり、家族で楽しめます。",
+      "title": "Lei Day（レイ・デー）",
+      "description": "ハワイの文化を祝う5月1日の前後に開催。レイ作り体験やハワイアン音楽ライブが楽しめます。子どもも参加できるワークショップが充実。",
+      "date": "4月下旬～5月上旬",
+      "place": "カピオラニ公園（ホノルル）",
+      "link": "https://www.honolulu.gov",
+      "free": true
+    },
+    {
+      "title": "Merrie Monarch Festival（メリーモナークフェスティバル）",
+      "description": "4月上旬に開催される、ハワイアンフラの最高峰の大会。パレードは無料で観覧でき、伝統文化を学べます。カラフルで子どもも喜ぶ迫力あるパフォーマンス。",
       "date": "4月上旬",
-      "place": "ワイキキ・ショッピング・プラザ他、オアフ島各地",
-      "link": "https://www.honolulufashionweek.com",
-      "free": false
-    },
-    {
-      "title": "フラ・フェスティバル・ハワイ",
-      "description": "ハワイの伝統文化フラダンスの競技大会。子どもも観賞でき、無料セクションもあります。ハワイ文化を家族で学べる貴重な機会です。",
-      "date": "4月中旬〜下旬",
-      "place": "ニール・S・ブレイスデル・センター（ホノルル）",
-      "link": "https://www.merriemonarchfestival.org",
+      "place": "ヒロ（ハワイ島）",
+      "link": "https://www.merriemonarch.org",
       "free": true
     },
     {
-      "title": "オアフ島・ハイキング＆ビーチ・クリーンアップ・イベント",
-      "description": "4月は乾季でハイキングに最適。子ども向けの簡単コースでの自然体験やビーチクリーンアップに無料参加でき、環境学習にもなります。",
-      "date": "4月中旬（各週末開催）",
-      "place": "ダイヤモンドヘッド・トレイル、アラモアナ・ビーチ他",
-      "link": "https://dlnr.hawaii.gov",
-      "free": true
-    },
-    {
-      "title": "KCC（カピオラニ・コミュニティ・カレッジ）ファーマーズ・マーケット",
-      "description": "地元野菜や花、ハワイアン・フードが並ぶ週末マーケット。屋外で無料で散策でき、子ども向けクラフト体験やサンプリングも充実しています。",
-      "date": "4月毎週土曜日",
-      "place": "カピオラニ・コミュニティ・カレッジ駐車場（ホノルル）",
-      "link": "https://kccfarmersmarket.com",
-      "free": true
-    },
-    {
-      "title": "ホノルル動物園・スプリング・キャンプ・プログラム",
-      "description": "春休み期間の4月に開催される子ども向け特別プログラム。動物との触れ合いやワークショップで、自然と動物について学べます。",
-      "date": "4月中旬〜下旬",
+      "title": "Honolulu Zoo Spring Programs（ホノルル動物園プログラム）",
+      "description": "春の動物園での子ども向けワークショップやガイドツアーが開催。動物との触れ合いや飼育員による教育プログラムで学べます。",
+      "date": "4月上旬～下旬",
       "place": "ホノルル動物園（ワイキキ）",
       "link": "https://www.honoluluzoo.org",
       "free": false
+    },
+    {
+      "title": "Spring Whale Watching（春のホエールウォッチング）",
+      "description": "4月はザトウクジラがまだハワイ近海にいる季節。船でのホエールウォッチングツアーで、迫力あるクジラの姿を観察。子ども向けツアーもあります。",
+      "date": "4月上旬～中旬",
+      "place": "マウイ島・オアフ島沿岸（複数のツアー会社）",
+      "link": "https://www.visitmaui.com",
+      "free": false
+    },
+    {
+      "title": "KCC Farmers Market（カカアコ・ファーマーズマーケット）",
+      "description": "毎週末開催される地元産野菜や花、ハワイアン料理の露店市。試食やローカルフードが豊富で、子どもも楽しめる活気ある雰囲気。",
+      "date": "4月中の土曜・日曜",
+      "place": "KCCファーマーズマーケット（ホノルル）",
+      "link": "https://www.kccfarmersmarket.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-22T06:24:12.581Z"
+  "updatedAt": "2026-04-23T01:19:51.334Z"
 }

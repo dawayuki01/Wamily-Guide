@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フラワーショー（Hong Kong Flower Show）",
-      "description": "春の香港を彩る大規模な花卉展。色とりどりの花々、ガーデンディスプレイ、子ども向けの園芸体験コーナーが楽しめます。家族向けに設計されたスペースもあります。",
-      "date": "3月下旬〜4月上旬",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣",
-      "link": "https://www.lcsd.gov.hk/en/flagship-programmes/hong-kong-flower-show",
-      "free": false
+      "title": "香港フローラル・エキスポ（香港花卉展覽會）",
+      "description": "春の花々が咲き誇る大規模な花の展示会。色彩豊かな花壇やガーデンデザイン、子どもが楽しめるインタラクティブ展示もあります。",
+      "date": "4月上旬〜中旬",
+      "place": "ビクトリア公園、銅鑼灣（Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk/",
+      "free": true
     },
     {
-      "title": "スターフェリー乗船体験（Star Ferry Harbour Cruise）",
-      "description": "香港名物のスターフェリーで維多利亚湾をクルーズ。絶景の夜景や昼間の港の風景を楽しめます。乳幼児から乗船でき、子どもも興奮間違いなし。",
-      "date": "4月通年",
-      "place": "中環・尖沙咀フェリー乗り場",
+      "title": "スターフェリー体験＆スターピアナイト",
+      "description": "香港の象徴的なスターフェリーでの乗船体験。ビクトリア湾をクルーズしながら、香港島とビル群の絶景を楽しめます。子どもも喜ぶ屋外アクティビティです。",
+      "date": "4月通年（毎日運航）",
+      "place": "スターフェリー乗り場、セントラル・ワンチャイ間",
       "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "オープンエア・マーケット巡り（Temple Street & Ladies Market）",
-      "description": "地元の活気あふれるナイトマーケット。食べ歩き、おもちゃ、衣類など多彩な店舗。子どもと一緒に香港の日常文化を体験でき、夜市の雰囲気を満喫できます。",
-      "date": "4月通年（毎夕方〜夜間営業）",
-      "place": "廟街夜市（Temple Street）、女人街（Ladies Market）",
+      "title": "香港サイエンス・ミュージアムの春の企画展",
+      "description": "子ども向けの実験教室やSTEM関連の特別プログラムが開催されます。手を動かして学べる展示が豊富で、幅広い年齢層が楽しめます。",
+      "date": "4月通年",
+      "place": "香港サイエンス・ミュージアム、尖沙咀（Tsim Sha Tsui）",
+      "link": "https://www.lcsd.gov.hk/sc/hkscience/",
+      "free": false
+    },
+    {
+      "title": "スタンレー・ビーチでの春の海辺遊び",
+      "description": "香港の人気ビーチで、春の穏やかな海での遊泳やビーチピクニック。カラフルな漁船が景観を彩り、周辺にカフェやレストランも豊富です。",
+      "date": "4月上旬〜下旬",
+      "place": "スタンレー・ビーチ、スタンレー地区",
       "link": "",
       "free": true
     },
     {
-      "title": "ハイキング・自然ウォーク体験（Hong Kong Trail Sections）",
-      "description": "初級向けのハイキングコース。4月の気候は涼しく歩きやすい。ビクトリアピークやスターリングサドルなどの初心者向けコースで、家族で自然を楽しめます。",
-      "date": "4月通年（初旬〜中旬がおすすめ）",
-      "place": "香港トレイル各区間（ビクトリアピーク周辺など）",
-      "link": "https://www.discoverhongkong.com/",
-      "free": true
-    },
-    {
-      "title": "香港キッズEXPO（Hong Kong Kids Expo）",
-      "description": "子ども向けの大規模イベント。教育ブース、アクティビティコーナー、ワークショップ、ゲーム、ショーなど。乳幼児から小学生まで楽しめる体験型プログラムが豊富。",
-      "date": "4月中旬〜下旬（日程は年により異なる）",
-      "place": "香港コンベンション・エキシビション・センター（HKCEC）",
-      "link": "https://www.hktdc.com/",
+      "title": "香港文化博物館の子どもクラフトワークショップ",
+      "description": "春をテーマにした子ども向けのアート・クラフト体験。香港文化に触れながら、創意性を発揮できるプログラムが定期開催されます。",
+      "date": "4月中旬〜下旬",
+      "place": "香港文化博物館、沙田（Sha Tin）",
+      "link": "https://www.heritagemuseum.gov.hk/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-22T06:24:29.113Z"
+  "updatedAt": "2026-04-23T01:20:07.764Z"
 }

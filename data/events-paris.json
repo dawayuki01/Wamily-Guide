@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリのチューリップ祭（Tulipes à Paris）",
-      "description": "ルクセンブルク公園やテュイルリー公園など市内各所に色とりどりのチューリップが咲き誇る。春の訪れを感じながら家族で散策できます。",
-      "date": "4月上旬〜中旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）、テュイルリー公園（Jardin des Tuileries）ほか",
-      "link": "https://www.paris-tourism.com",
-      "free": true
-    },
-    {
-      "title": "フローラリア（Floralies Internationales Paris）",
-      "description": "春の花と園芸をテーマにした国際花博。子ども向けのワークショップや展示があり、屋外で自然を学べます。",
+      "title": "パリ・オープン・ガーデン（Paris Open Gardens）",
+      "description": "パリの個人宅やプライベートガーデンが期間限定で一般公開。春の花々が咲く庭園を巡るイベント。子どもと一緒に美しい庭を散策できます。",
       "date": "4月中旬〜下旬",
-      "place": "ヴェルサイユ宮殿周辺、パリ郊外",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "パリ動物園（Ménagerie du Jardin des Plantes）での春企画",
-      "description": "フランス国立自然史博物館の動物園。春の生き物たちの様子を観察できます。乳幼児〜小学生向けのガイドツアーやクイズラリーも開催。",
-      "date": "4月全期間",
-      "place": "ジャルダン・デ・プラント（Jardin des Plantes, 5区）",
-      "link": "https://www.mnhn.fr",
-      "free": false
-    },
-    {
-      "title": "セーヌ河沿いの屋外マーケットと散策",
-      "description": "ブキニスト（古書店）が並ぶセーヌ河右岸の散策路。春の気候で快適に歩け、ノートルダム周辺の絶景も楽しめます。無料で家族散策できます。",
-      "date": "4月全期間",
-      "place": "セーヌ河左岸・右岸（Left Bank & Right Bank）",
-      "link": "https://www.paris-tourism.com",
+      "place": "パリ市内各地（複数箇所）",
+      "link": "https://www.parsopengardens.com",
       "free": true
     },
     {
-      "title": "シテ島子どもミュージアム（Musée en Herbe）の春企画",
-      "description": "子ども向けの美術館。春をテーマにした子ども参加型展示やワークショップで、アート鑑賞を楽しく学べます。",
-      "date": "4月全期間",
-      "place": "シテ島（Île de la Cité, 4区）",
-      "link": "https://www.musee-en-herbe.com",
+      "title": "モンマルトル地区のチューリップ・フェスティバル",
+      "description": "サクレ・クール寺院周辺やルーラン広場でチューリップが満開。春の花々を楽しむ屋外散策、写真撮影に最適な季節です。",
+      "date": "4月上旬〜中旬",
+      "place": "モンマルトル地区（Montmartre）、ルーラン広場周辺",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "セーヌ河畔の子ども向けアクティビティ・フェスタ",
+      "description": "4月の週末にセーヌ河沿いで開催。子ども向けの工作教室、読み聞かせ、ミニアトラクション等が無料で楽しめます。",
+      "date": "4月の土日（各週末）",
+      "place": "セーヌ河畔（Right Bank）、アイル・サン・ルイ周辺",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "シテ科学館（Cité des Sciences）の春休みスペシャルプログラム",
+      "description": "子どもたちのための対話型展示、実験ワークショップ、プラネタリウム上映。春休み期間の特別プログラムで、異なる年齢層向けの活動が充実。",
+      "date": "4月上旬〜中旬（春休み期間）",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
       "free": false
+    },
+    {
+      "title": "ルクセンブルク公園での春の外遊び・木登り体験",
+      "description": "パリ最大級の公園で、子ども向けの遊び場、砂場、木登り設備が充実。春の温暖な気候で、家族で終日楽しめるスポットです。",
+      "date": "4月全期間",
+      "place": "Rue de Médicis, 75006 Paris（ルクセンブルク公園）",
+      "link": "https://www.senat.fr/visite/jardin/index.html",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-22T06:23:25.785Z"
+  "updatedAt": "2026-04-23T01:19:03.666Z"
 }

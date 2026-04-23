@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Tulip Festival",
-      "description": "シンガポール植物園での春の花祭り。カラフルなチューリップが咲き誇り、子ども向けの花に関連したワークショップや迷路遊びが楽しめます。",
+      "title": "Singapore Garden Festival 2026",
+      "description": "シンガポール最大級のガーデンフェスティバル。カラフルな花の展示、ガーデンデザイン、キッズワークショップなどが開催されます。家族で楽しめる屋外アクティビティです。",
       "date": "4月上旬〜中旬",
       "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
-      "link": "https://www.sbg.org.sg/",
+      "link": "https://www.singaporegardenfestival.com/",
       "free": false
     },
     {
-      "title": "Chingay Parade関連イベント",
-      "description": "中華正月の伝統的なパレード。カラフルな山車や獅子舞、獅子踊りなどが見られ、子どもたちが楽しめる路上パフォーマンスや屋台が多数出店します。",
-      "date": "4月中旬（※毎年日付変動）",
-      "place": "Singapore River周辺・Charles Street Park一帯",
-      "link": "https://www.visitsingapore.com/",
+      "title": "Vesak Day Celebrations",
+      "description": "仏教の重要な祝日。シンガポール各地の寺院でデコレーション、提灯、宗教的行事が見られます。文化体験ができ、多くの場所で無料で楽しめます。",
+      "date": "4月中旬頃（毎年日付変動）",
+      "place": "Thean Hou Temple, 30 Lor Chwee Road, Singapore 679933 他各寺院",
+      "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "Universal Studios Singapore 春休みスペシャル",
-      "description": "期間限定の子ども向けショーやキャラクターグリーティング、スペシャルワークショップが開催。春休みの家族向けプログラムが充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "Sentosa Island, 8 Sentosa Gateway, Singapore 098269",
-      "link": "https://www.universalstudiosingapore.com/",
+      "title": "Easter at Wildlife Reserves Singapore",
+      "description": "イースターイベント。エッグハント、キャラクターグリーティング、動物ふれあいプログラムなど、乳幼児〜小学生向けのアクティビティが充実。",
+      "date": "4月上旬〜中旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.wrs.com.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park ファミリーアクティビティ",
-      "description": "シンガポール最大のビーチパーク。水遊び、サイクリング、ピクニックエリアが無料で利用でき、季節の潮干狩りや砂浜遊びが楽しめます。",
-      "date": "4月下旬（天候が安定する時期）",
-      "place": "East Coast Park, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/regional-parks/east-coast-park",
+      "title": "East Coast Park Family Cycling & Picnic",
+      "description": "シンガポール最長のビーチパーク。無料で利用でき、レンタル自転車、海辺でのピクニック、子ども向けプレイグラウンドが完備。屋外で過ごすのに最適です。",
+      "date": "4月通年",
+      "place": "East Coast Park, East Coast Parkway, Singapore 449876",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "National Museum Singapore 子ども向け特別展示",
-      "description": "シンガポール建国記念期に合わせた子ども向けインタラクティブ展示やワークショップ。歴史学習を遊びながら体験できます。",
+      "title": "Chingay Parade (April version) & Festival Markets",
+      "description": "シンガポールの文化祭。カラフルなパレード、屋台フード、手工芸品市場、子ども向けゲームコーナーが開催。地元文化を体験できる賑やかなお祭りです。",
       "date": "4月中旬〜下旬",
-      "place": "93 Stamford Road, Singapore 178897",
-      "link": "https://www.nationalmuseum.sg/",
-      "free": false
+      "place": "Various locations in Singapore (Civic District)",
+      "link": "https://www.stb.gov.sg/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-22T06:23:40.633Z"
+  "updatedAt": "2026-04-23T01:19:19.364Z"
 }
