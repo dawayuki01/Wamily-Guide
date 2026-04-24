@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソンクラーン（タイ正月祭）",
-      "description": "タイの正月を祝う水かけ祭り。4月中旬、街中で子どもも大人も参加でき、水鉄砲や水かけで楽しめます。文化体験と涼しさが両立できる家族向けイベントです。",
-      "date": "4月13日〜15日（ソンクラーン期間中）",
-      "place": "バンコク市内全域（特にカオサン通り、ラチャダムヌン通り）",
+      "title": "ソンクラーン（タイ正月）",
+      "description": "タイの伝統的な正月祭。水かけが特徴で、子どもたちも楽しめます。バンコク各地で水遊びイベントが開催されます。",
+      "date": "4月13日～15日",
+      "place": "バンコク全域（特にスクンビット通り、ラーチャダムヌン通り）",
       "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン・キッズ・サマー・キャンプ",
-      "description": "高級ショッピングモール内で開催される子ども向けプログラム。ワークショップ、キャラクターショー、体験学習など、冷房完備の環境で楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "サイアム・パラゴン（Siam Paragon）、バンコク",
-      "link": "https://www.siamparagon.com/",
-      "free": false
-    },
-    {
-      "title": "ルンピニー公園での屋外アクティビティ・朝運動",
-      "description": "バンコク最大級の公園で朝涼しい時間帯に散策。広場での家族向けヨガ教室や運動イベント、子ども用遊具も充実。地元の生活文化を体験できます。",
-      "date": "4月全期間（早朝6時〜8時推奨）",
-      "place": "ルンピニー公園（Lumphini Park）、バンコク",
-      "link": "https://www.tatnews.org/",
+      "title": "シーナカリン・ウィロット公園の水遊びエリア",
+      "description": "広大な公園内の池や水路で安全に水遊びできます。ピクニックエリアも充実し、家族連れに最適な屋外スポット。",
+      "date": "4月上旬～下旬（常時営業、ソンクラーン時期は特に混雑）",
+      "place": "Srinakarin-Wirot Park, Soi Srinakarin 47, Srinakarin Rd., Bangkok",
+      "link": "https://bangkok.go.th/",
       "free": true
     },
     {
-      "title": "キッザニア・バンコク営業時間・春休みスペシャル",
-      "description": "子どもが様々な職業を体験できるテーマパーク。4月は入園者が比較的少なく、多くのアクティビティに短時間で参加できるおすすめ時期です。",
-      "date": "4月全期間",
-      "place": "キッザニア・バンコク（The Mall Bangkhae）、バンコク",
-      "link": "https://www.kidzania.com/th/en",
+      "title": "サイアムパラゴン水族館の春休みプログラム",
+      "description": "子ども向けの海洋生物学習ワークショップやタッチプール体験。毎年春休み期間に特別プログラムを開催。",
+      "date": "4月上旬～中旬",
+      "place": "Siam Paragon, 991 Rama 1 Rd., Pathumwan, Bangkok",
+      "link": "https://www.siamparagon.co.th/",
       "free": false
     },
     {
-      "title": "ウィークエンド・マーケット（チャットチャック市場）での子ども向けワークショップ",
-      "description": "バンコク最大規模のマーケットで開催される子ども向けクラフトワークショップ。タイ文化体験、工芸品作り、地元フードコート体験ができます。",
-      "date": "4月の土日祝日",
-      "place": "チャットチャック・ウィークエンド・マーケット、バンコク",
+      "title": "チャトゥチャック・ウィークエンド・マーケット",
+      "description": "毎週末開催の世界最大級の屋外市場。子ども向けのおもちゃ、衣類、食べ物が豊富。早朝は混雑が少なく家族向け。",
+      "date": "4月の毎週土日",
+      "place": "Chatuchak Weekend Market, Phahon Yothin Rd., Chatuchak, Bangkok",
       "link": "https://www.chatuchakmarket.org/",
+      "free": true
+    },
+    {
+      "title": "キッザニア・バンコクの春キャンペーン",
+      "description": "職業体験型テーマパーク。春休み期間に特別ワークショップやキャンペーンを実施。小学生向けに特に人気。",
+      "date": "4月上旬～下旬",
+      "place": "KidZania Bangkok, Siam Square, Rama 1 Rd., Pathumwan, Bangkok",
+      "link": "https://www.kidzania.co.th/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-23T01:19:28.348Z"
+  "updatedAt": "2026-04-24T01:18:52.722Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "SMモール・オブ・アジア（MOA）春の子どもフェスティバル",
-      "description": "複数のショッピングモールで開催される子ども向けの春祭り。ゲーム、ワークショップ、キャラクターショーなど家族向けアクティビティが充実しています。",
-      "date": "4月上旬〜中旬",
-      "place": "SM Mall of Asia, Pasay City",
-      "link": "https://www.smdc.com",
-      "free": false
-    },
-    {
-      "title": "ナヤヤ・プラザ・フローティング・マーケット",
-      "description": "フィリピンの伝統的な浮き市場。ボートで移動しながら地元の食べ物や手工芸品を楽しめます。独特の水上体験が子どもたちにとって貴重な経験になります。",
-      "date": "4月通年営業（土日がおすすめ）",
-      "place": "Kawit, Navotas",
+      "title": "フィエスタ・デ・サン・フェルナンド（Fiesta de San Fernando）",
+      "description": "4月25日前後に開催される聖人祭。パレード、露店、地元グルメが楽しめるお祭り。子どもが喜ぶ出店や伝統文化体験ができます。",
+      "date": "4月24日～26日頃",
+      "place": "マニラ市内各所（主にサンフェルナンド・ド・ディロスバレジョ広場周辺）",
       "link": "",
-      "free": false
-    },
-    {
-      "title": "リサール公園（Rizal Park）での屋外活動",
-      "description": "マニラ最大の公園。広大な芝生、遊び場、池での足漕ぎボート体験ができます。4月は乾季で天気が良く、家族ピクニックに最適な無料スポットです。",
-      "date": "4月通年（早朝がおすすめ）",
-      "place": "Rizal Park, Manila",
-      "link": "https://www.npu.gov.ph",
       "free": true
     },
     {
-      "title": "フィリピン国立博物館の子ども向けワークショップ",
-      "description": "自然史、美術、人類学に関する体験型ワークショップ。4月は春の特別プログラムで、動物や自然をテーマにした教育的アクティビティが開催されます。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "National Museum of the Philippines, Manila",
-      "link": "https://nationalmuseum.gov.ph",
-      "free": true
-    },
-    {
-      "title": "スターシティ（Star City）アミューズメントパーク",
-      "description": "パスティレス地区の老舗テーマパーク。観覧車、コースター、キッズエリアなど様々なアトラクションがあります。4月のイベント期間中は家族向けの特別企画があります。",
-      "date": "4月上旬〜下旬",
-      "place": "Star City, Pasay City",
+      "title": "スター・シティ・テーマパーク（Star City）の春休みスペシャルプログラム",
+      "description": "フィリピン最大級の遊園地。乗り物、ゲーム、イベントが充実。子ども向けの安全で楽しいアトラクションが豊富です。",
+      "date": "4月上旬～下旬",
+      "place": "Parañaque, Metro Manila",
       "link": "https://www.star-city.com.ph",
       "free": false
+    },
+    {
+      "title": "ナショナル・ミュージアム・コレクション（National Museum）の子ども向けワークショップ",
+      "description": "フィリピン文化・自然史を学べる博物館。4月に子ども向けの特別展示やワークショップを開催。教育的で楽しい体験ができます。",
+      "date": "4月中旬～下旬",
+      "place": "Rizal Park, Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
+      "free": true
+    },
+    {
+      "title": "ザ・ブーツ・アンド・ビガス・フェスティバル（boots and bigas festival）",
+      "description": "地元の食文化と農産物を祝うフェスティバル。フィリピン料理、工芸品、ファーマーズマーケットが楽しめ、家族向けの食育体験ができます。",
+      "date": "4月中旬～下旬",
+      "place": "マニラ近郊の公園・コミュニティ施設",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "メトロポリタン・パーク（Rizal Park）での屋外アクティビティ",
+      "description": "マニラ最大級の公園。サイクリング、遊び場、家族向けの屋外レクリエーション。4月は天気が良く、春休みシーズンに混雑します。",
+      "date": "4月上旬～下旬（毎日）",
+      "place": "Rizal Park, Ermita, Manila",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-23T01:19:35.977Z"
+  "updatedAt": "2026-04-24T01:19:00.442Z"
 }

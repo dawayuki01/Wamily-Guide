@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（春の花市）",
-      "description": "4月は春の花が最盛期。色とりどりの花々が並び、家族で季節の花を楽しめます。子どもも花選びや園芸体験ができ、新鮮な花を購入できます。",
-      "date": "4月上旬～下旬（毎日営業）",
-      "place": "Los Angeles Flower Market, 766 Wall St, Los Angeles, CA 90017",
-      "link": "https://www.laflowermarket.com/",
+      "title": "Los Angeles Times Festival of Books",
+      "description": "USC校舎で開催される北米最大級の書籍イベント。キッズゾーンでは子ども向けの読書プログラム、ワークショップ、キャラクターグリーティングが楽しめます。",
+      "date": "4月中旬の週末（土日）",
+      "place": "University of Southern California（USC）、Los Angeles, CA 90089",
+      "link": "https://www.latimesfestivalofbooks.com/",
       "free": true
     },
     {
-      "title": "アーバイン公園での春のアウトドア・アクティビティ",
-      "description": "4月の温暖な気候の中、広大な公園でピクニック、凧揚げ、散歩が楽しめます。遊具も充実しており、乳幼児から小学生まで存分に遊べる屋外スポット。",
-      "date": "4月上旬～下旬（通年営業）",
-      "place": "Irvine Park, 1 Irvine Park Road, Orange, CA 92869",
-      "link": "https://www.ocparks.com/parks/irvine-park",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス自然史博物館の春特別展示",
-      "description": "子ども向けの恐竜展示やインタラクティブな学習プログラムが充実。4月は春の特別ワークショップが開催され、家族で楽しく学べます。",
-      "date": "4月上旬～下旬（季節ごとに異なる）",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org/",
+      "title": "Descanso Gardens - Spring Bloom",
+      "description": "桜、チューリップ、ネモフィラなど春の花々が満開。広大な庭園を散策でき、ファミリー向けのガイドツアーやピクニックスポットも充実しています。",
+      "date": "4月上旬〜中旬",
+      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org/",
       "free": false
     },
     {
-      "title": "サンタモニカ・ピアのイースター・セレブレーション",
-      "description": "4月のイースター時期に、遊園地エリアで家族向けイベントが開催。キャラクターとの写真撮影、子ども向けゲーム、装飾が楽しめます。",
-      "date": "4月上旬～中旬（イースターの日程による）",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com/",
-      "free": false
-    },
-    {
-      "title": "グリフィス・オブザーバトリーでの春の自然散策",
-      "description": "ロサンゼルスの眺望が素晴らしい公園。4月の爽やかな気候で家族ハイキングに最適。展望台からの眺望も無料で楽しめ、子どもと共に自然とロサンゼルスを満喫。",
-      "date": "4月上旬～下旬（毎日営業）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "title": "Griffith Observatory春のプログラム",
+      "description": "天文台入場と展示は無料。春休みシーズンは子ども向けの天文学講座やプラネタリウム投影を開催。天気の良い日は昼間の太陽観測も可能です。",
+      "date": "4月通年",
+      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org/",
       "free": true
+    },
+    {
+      "title": "Santa Monica Pier Spring Activities",
+      "description": "桟橋での遊園地、ビーチでの水遊び、露店フードなど。子ども向けのアニマルショーやストリートパフォーマンスも充実。海岸線の散策も楽しめます。",
+      "date": "4月通年",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
+      "free": true
+    },
+    {
+      "title": "LA County Arboretum & Botanic Garden - Spring Festival",
+      "description": "春の花々が見頃。子ども向けガイドツアー、自然体験ワークショップ、ピクニックエリアなどファミリー向け施設が充実しています。",
+      "date": "4月上旬〜中旬",
+      "place": "Los Angeles County Arboretum & Botanic Garden, 301 N Baldwin Avenue, Arcadia, CA 91007",
+      "link": "https://www.arboretum.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-23T01:19:44.058Z"
+  "updatedAt": "2026-04-24T01:19:07.642Z"
 }

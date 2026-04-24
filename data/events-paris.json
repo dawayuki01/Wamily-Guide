@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・オープン・ガーデン（Paris Open Gardens）",
-      "description": "パリの個人宅やプライベートガーデンが期間限定で一般公開。春の花々が咲く庭園を巡るイベント。子どもと一緒に美しい庭を散策できます。",
-      "date": "4月中旬〜下旬",
-      "place": "パリ市内各地（複数箇所）",
-      "link": "https://www.parsopengardens.com",
-      "free": true
-    },
-    {
-      "title": "モンマルトル地区のチューリップ・フェスティバル",
-      "description": "サクレ・クール寺院周辺やルーラン広場でチューリップが満開。春の花々を楽しむ屋外散策、写真撮影に最適な季節です。",
-      "date": "4月上旬〜中旬",
-      "place": "モンマルトル地区（Montmartre）、ルーラン広場周辺",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "セーヌ河畔の子ども向けアクティビティ・フェスタ",
-      "description": "4月の週末にセーヌ河沿いで開催。子ども向けの工作教室、読み聞かせ、ミニアトラクション等が無料で楽しめます。",
-      "date": "4月の土日（各週末）",
-      "place": "セーヌ河畔（Right Bank）、アイル・サン・ルイ周辺",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "シテ科学館（Cité des Sciences）の春休みスペシャルプログラム",
-      "description": "子どもたちのための対話型展示、実験ワークショップ、プラネタリウム上映。春休み期間の特別プログラムで、異なる年齢層向けの活動が充実。",
-      "date": "4月上旬〜中旬（春休み期間）",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
+      "title": "パリ春のチューリップ祭り（Tulipes à Giverny）",
+      "description": "モネの庭園で色とりどりのチューリップが咲き誇る季節。親子で印象派の世界を体験できます。乳幼児向けのベビーカーも対応。",
+      "date": "4月上旬～下旬",
+      "place": "ジヴェルニー モネの庭園（Fondation Claude Monet, 84 Rue Claude Monet, 27620 Giverny）",
+      "link": "https://fondation-monet.com",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園での春の外遊び・木登り体験",
-      "description": "パリ最大級の公園で、子ども向けの遊び場、砂場、木登り設備が充実。春の温暖な気候で、家族で終日楽しめるスポットです。",
-      "date": "4月全期間",
-      "place": "Rue de Médicis, 75006 Paris（ルクセンブルク公園）",
-      "link": "https://www.senat.fr/visite/jardin/index.html",
+      "title": "パリ動物園の春特別プログラム",
+      "description": "新生児動物の展示や子ども向けワークショップが充実。屋外で動物との触れ合いを楽しめます。春らしい野外展示もあります。",
+      "date": "4月中旬～下旬",
+      "place": "パリ動物園（Zoo de Paris, Bois de Vincennes, 75012 Paris）",
+      "link": "https://www.parczoologiquedeparis.fr",
+      "free": false
+    },
+    {
+      "title": "ルクセンブルグ公園の屋外遊び場と春散策",
+      "description": "広大な公園で子どもが遊べるエリア、遊具、砂場が充実。春の花々を見ながら無料で家族時間を満喫できます。",
+      "date": "4月全体",
+      "place": "ルクセンブルグ公園（Jardin du Luxembourg, 75006 Paris）",
+      "link": "https://www.paris.fr/pages/le-jardin-du-luxembourg-4008",
+      "free": true
+    },
+    {
+      "title": "パリ水族館の子ども向けツアー",
+      "description": "タッチプール体験やベビー向けの静かな鑑賞スペースあり。海の生き物を近距離で観察できます。",
+      "date": "4月全体",
+      "place": "パリ水族館（Aquarium de Paris, 5 avenue Albert de Mun, 75016 Paris）",
+      "link": "https://www.aquariumdeparis.com",
+      "free": false
+    },
+    {
+      "title": "イースターマーケット（Marché de Pâques）",
+      "description": "シャンゼリゼ周辺で春の装飾品、チョコレート卵、手作り工芸品が並ぶマーケット。子ども向けワークショップも開催。",
+      "date": "4月上旬～中旬",
+      "place": "シャンゼリゼ及び周辺広場（Champs-Élysées, 75008 Paris）",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-23T01:19:03.666Z"
+  "updatedAt": "2026-04-24T01:18:29.920Z"
 }

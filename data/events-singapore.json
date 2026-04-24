@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival 2026",
-      "description": "シンガポール最大級のガーデンフェスティバル。カラフルな花の展示、ガーデンデザイン、キッズワークショップなどが開催されます。家族で楽しめる屋外アクティビティです。",
-      "date": "4月上旬〜中旬",
-      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
-      "link": "https://www.singaporegardenfestival.com/",
+      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
+      "description": "シンガポール最大級のガーデンイベント。花の展示、園芸ワークショップ、子ども向けガーデンアクティビティが充実。家族で楽しめる屋外施設での祭典。",
+      "date": "4月中旬〜下旬（毎年開催時期変動）",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road",
+      "link": "https://www.singaporebotanicgardens.com",
       "free": false
     },
     {
-      "title": "Vesak Day Celebrations",
-      "description": "仏教の重要な祝日。シンガポール各地の寺院でデコレーション、提灯、宗教的行事が見られます。文化体験ができ、多くの場所で無料で楽しめます。",
-      "date": "4月中旬頃（毎年日付変動）",
-      "place": "Thean Hou Temple, 30 Lor Chwee Road, Singapore 679933 他各寺院",
-      "link": "https://www.stb.gov.sg/",
+      "title": "Changi Beach Park での無料ビーチアクティビティ",
+      "description": "シンガポール東部の家族向けビーチ。砂遊び、水遊び、ビーチスポーツが無料で楽しめます。ファミリーに優しい施設とレストラン完備。",
+      "date": "4月上旬〜下旬（通年営業）",
+      "place": "Changi Beach Park, 2 Netheravon Road",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park",
       "free": true
     },
     {
-      "title": "Easter at Wildlife Reserves Singapore",
-      "description": "イースターイベント。エッグハント、キャラクターグリーティング、動物ふれあいプログラムなど、乳幼児〜小学生向けのアクティビティが充実。",
-      "date": "4月上旬〜中旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.wrs.com.sg/",
+      "title": "シンガポール動物園の春特別プログラム",
+      "description": "動物たちの春の活動時期を記念した子ども向けプログラム。動物との触れ合いやエデュケーショナルショーが実施されます。乳幼児から楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road",
+      "link": "https://www.mandai.sg/singapore-zoo",
       "free": false
     },
     {
-      "title": "East Coast Park Family Cycling & Picnic",
-      "description": "シンガポール最長のビーチパーク。無料で利用でき、レンタル自転車、海辺でのピクニック、子ども向けプレイグラウンドが完備。屋外で過ごすのに最適です。",
-      "date": "4月通年",
-      "place": "East Coast Park, East Coast Parkway, Singapore 449876",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "Sentosa Island のビーチクリーンアップと親子プログラム",
+      "description": "セントーサ島で開催される親子向け環境教育プログラム。ビーチクリーンアップと水辺の生き物観察が組み合わされた無料アクティビティ。",
+      "date": "4月中旬（開催時期は変動）",
+      "place": "Sentosa Island, Siloso Beach",
+      "link": "https://www.sentosa.com.sg",
       "free": true
     },
     {
-      "title": "Chingay Parade (April version) & Festival Markets",
-      "description": "シンガポールの文化祭。カラフルなパレード、屋台フード、手工芸品市場、子ども向けゲームコーナーが開催。地元文化を体験できる賑やかなお祭りです。",
-      "date": "4月中旬〜下旬",
-      "place": "Various locations in Singapore (Civic District)",
-      "link": "https://www.stb.gov.sg/",
-      "free": true
+      "title": "Science Centre Singapore のスプリングワークショップ",
+      "description": "季節限定の子ども向けSTEMワークショップ。実験や工作を通じて科学を学べます。乳幼児から小学生まで対象の多数プログラム開催。",
+      "date": "4月上旬〜下旬",
+      "place": "Science Centre Singapore, 15 Science Centre Road",
+      "link": "https://www.science.edu.sg",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-23T01:19:19.364Z"
+  "updatedAt": "2026-04-24T01:18:44.512Z"
 }

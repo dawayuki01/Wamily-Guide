@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フローラル・エキスポ（香港花卉展覽會）",
-      "description": "春の花々が咲き誇る大規模な花の展示会。色彩豊かな花壇やガーデンデザイン、子どもが楽しめるインタラクティブ展示もあります。",
-      "date": "4月上旬〜中旬",
-      "place": "ビクトリア公園、銅鑼灣（Causeway Bay）",
-      "link": "https://www.lcsd.gov.hk/",
+      "title": "香港フラワーショー（Hong Kong Flower Show）",
+      "description": "春の花々が咲き誇る香港最大級のフラワーショー。色彩豊かな花の展示、庭園デザイン、親子向けワークショップなど家族で楽しめます。",
+      "date": "4月上旬〜中旬（2026年は未確定）",
+      "place": "ビクトリアパーク（Victoria Park）、香港",
+      "link": "https://www.lcsd.gov.hk",
+      "free": false
+    },
+    {
+      "title": "スターフェリー乗船体験＆スターフェリー・フェスティバル",
+      "description": "100年以上の歴史あるスターフェリーの乗船は香港の定番。4月はスターフェリー周辺でファミリー向けイベントが開催され、無料で楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "スターフェリー乗り場（中環・尖沙咀）",
+      "link": "https://www.starferry.com.hk",
       "free": true
     },
     {
-      "title": "スターフェリー体験＆スターピアナイト",
-      "description": "香港の象徴的なスターフェリーでの乗船体験。ビクトリア湾をクルーズしながら、香港島とビル群の絶景を楽しめます。子どもも喜ぶ屋外アクティビティです。",
-      "date": "4月通年（毎日運航）",
-      "place": "スターフェリー乗り場、セントラル・ワンチャイ間",
-      "link": "https://www.starferry.com.hk/",
-      "free": false
-    },
-    {
-      "title": "香港サイエンス・ミュージアムの春の企画展",
-      "description": "子ども向けの実験教室やSTEM関連の特別プログラムが開催されます。手を動かして学べる展示が豊富で、幅広い年齢層が楽しめます。",
+      "title": "香港科学館の春季特別展示プログラム",
+      "description": "子ども向けの体験型展示やSTEMワークショップ。乳幼児から小学生まで楽しめる季節限定プログラムが実施されます。",
       "date": "4月通年",
-      "place": "香港サイエンス・ミュージアム、尖沙咀（Tsim Sha Tsui）",
-      "link": "https://www.lcsd.gov.hk/sc/hkscience/",
+      "place": "香港科学館（Science Museum Hong Kong）、尖沙咀",
+      "link": "https://www.lcsd.gov.hk/sc/sciencemuseum",
       "free": false
     },
     {
-      "title": "スタンレー・ビーチでの春の海辺遊び",
-      "description": "香港の人気ビーチで、春の穏やかな海での遊泳やビーチピクニック。カラフルな漁船が景観を彩り、周辺にカフェやレストランも豊富です。",
-      "date": "4月上旬〜下旬",
-      "place": "スタンレー・ビーチ、スタンレー地区",
+      "title": "スターフェリー春のハイキング＆海岸美化キャンペーン",
+      "description": "家族で参加できるハイキングコース。新界の花見スポット、春の野外での自然観察が楽しめます。無料で親子でアクティブに過ごせます。",
+      "date": "4月上旬〜中旬",
+      "place": "新界地区（各ハイキングコース）",
       "link": "",
       "free": true
     },
     {
-      "title": "香港文化博物館の子どもクラフトワークショップ",
-      "description": "春をテーマにした子ども向けのアート・クラフト体験。香港文化に触れながら、創意性を発揮できるプログラムが定期開催されます。",
-      "date": "4月中旬〜下旬",
-      "place": "香港文化博物館、沙田（Sha Tin）",
-      "link": "https://www.heritagemuseum.gov.hk/",
+      "title": "香港ディズニーランドのスプリング・セレブレーション",
+      "description": "春限定のパレードやキャラクターグリーティング、期間限定アトラクション。乳幼児向けエリアから小学生まで家族全員で楽しめます。",
+      "date": "4月通年",
+      "place": "香港ディズニーランド（Lantau Island）",
+      "link": "https://www.hongkongdisneyland.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-23T01:20:07.764Z"
+  "updatedAt": "2026-04-24T01:19:30.570Z"
 }

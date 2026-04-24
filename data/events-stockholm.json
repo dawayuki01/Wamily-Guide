@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "王立公園（Kungsträdgården）の春のフェスティバル",
-      "description": "4月のストックホルムを代表する春祭り。ステージパフォーマンス、フードスタンド、子ども向けアクティビティが充実。家族連れで楽しめる屋外イベント。",
-      "date": "4月中旬〜下旬",
-      "place": "Kungsträdgården, Norrström, Stockholm",
-      "link": "https://www.stockholm.se/en/",
+      "title": "王立公園（Kungsträdgården）の春フェスティバル",
+      "description": "ストックホルムの中心部にある公園で、4月は春の花が咲き、ファミリー向けアクティビティが多数開催。イースターイベントや子ども向けワークショップが楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Kungsträdgården, Norrmalm, Stockholm",
+      "link": "https://www.kungstradgarden.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館（Skansen）の春イベント",
-      "description": "北欧の伝統的な暮らしを学べる野外博物館。4月は動物たちの赤ちゃんシーズン。季節限定イベント・教育プログラムで子どもが学びながら楽しめます。",
-      "date": "4月全期間",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/en/",
-      "free": false
-    },
-    {
-      "title": "ヴァーサ博物館（Vasa Museum）の子ども向けプログラム",
-      "description": "17世紀の軍艦を展示する世界的に有名な博物館。子ども用オーディオガイド、探索ゲーム、ワークショップなど。船の歴史を遊びながら学べます。",
-      "date": "4月全期間",
-      "place": "Galärvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se/en/",
-      "free": false
-    },
-    {
-      "title": "ストックホルム群島のイースター休暇アクティビティ",
-      "description": "4月のイースター時期に、群島でボート体験やコテージでの家族向けイベント開催。自然の中で北欧の春を満喫。地元ツアー業者で手配可能。",
-      "date": "4月上旬（イースター時期）",
-      "place": "ストックホルム群島（Stockholm Archipelago）",
-      "link": "https://www.stockholm.se/en/about-stockholm/stockholm-archipelago/",
-      "free": false
-    },
-    {
-      "title": "チューリップとアネモネの春の花畑鑑賞",
-      "description": "4月はストックホルムの公園で春の花が見頃。DjurgårdenやKungsträdgårdenで美しい花を背景に写真撮影。無料で楽しめる季節の風物詩。",
+      "title": "スカンセン野外博物館の春イベント",
+      "description": "北欧の伝統文化を体験できる博物館。4月は動物たちの赤ちゃんシーズンで、ウサギやヒツジなどの子どもが見られます。乳幼児向けプログラムも充実。",
       "date": "4月中旬〜下旬",
-      "place": "Djurgården, Kungsträdgården, Stockholm",
+      "place": "Skansen, Djurgården, Stockholm",
+      "link": "https://www.skansen.se",
+      "free": false
+    },
+    {
+      "title": "ユーランダ島（Djurgården）でのサイクリング・散策",
+      "description": "ストックホルムの大きな公園島。4月は春の花が咲き始め、湖沿いのサイクリングロードや遊び場が楽しめます。屋外での家族向けアクティビティに最適。",
+      "date": "4月中旬〜下旬",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.stockholm.se/en/culture-and-recreation/parks-and-green-spaces/djurgarden",
+      "free": true
+    },
+    {
+      "title": "ストックホルム子ども博物館（Junibacken）の春プログラム",
+      "description": "スウェーデンの児童文学をテーマにした博物館。4月は季節特別展示やイースターイベント、子ども向けワークショップが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "Junibacken, Djurgården, Stockholm",
+      "link": "https://www.junibacken.se",
+      "free": false
+    },
+    {
+      "title": "イースター市場（Påskmarknader）",
+      "description": "4月中旬はスウェーデンのイースターシーズン。ストックホルム各地でイースター関連の市場やフェスティバルが開催。手作り工芸品や季節の食べ物が楽しめます。",
+      "date": "4月中旬",
+      "place": "ストックホルム市内各所（Gamla Stan周辺など）",
       "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-23T01:19:11.033Z"
+  "updatedAt": "2026-04-24T01:18:36.962Z"
 }
