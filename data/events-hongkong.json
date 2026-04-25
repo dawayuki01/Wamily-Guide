@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フラワーショー（Hong Kong Flower Show）",
-      "description": "春の花々が咲き誇る香港最大級のフラワーショー。色彩豊かな花の展示、庭園デザイン、親子向けワークショップなど家族で楽しめます。",
-      "date": "4月上旬〜中旬（2026年は未確定）",
-      "place": "ビクトリアパーク（Victoria Park）、香港",
-      "link": "https://www.lcsd.gov.hk",
-      "free": false
-    },
-    {
-      "title": "スターフェリー乗船体験＆スターフェリー・フェスティバル",
-      "description": "100年以上の歴史あるスターフェリーの乗船は香港の定番。4月はスターフェリー周辺でファミリー向けイベントが開催され、無料で楽しめます。",
-      "date": "4月中旬〜下旬",
-      "place": "スターフェリー乗り場（中環・尖沙咀）",
-      "link": "https://www.starferry.com.hk",
-      "free": true
-    },
-    {
-      "title": "香港科学館の春季特別展示プログラム",
-      "description": "子ども向けの体験型展示やSTEMワークショップ。乳幼児から小学生まで楽しめる季節限定プログラムが実施されます。",
-      "date": "4月通年",
-      "place": "香港科学館（Science Museum Hong Kong）、尖沙咀",
-      "link": "https://www.lcsd.gov.hk/sc/sciencemuseum",
-      "free": false
-    },
-    {
-      "title": "スターフェリー春のハイキング＆海岸美化キャンペーン",
-      "description": "家族で参加できるハイキングコース。新界の花見スポット、春の野外での自然観察が楽しめます。無料で親子でアクティブに過ごせます。",
+      "title": "香港花卉展覧会（Hong Kong Flower Show）",
+      "description": "春の花々が楽しめる大規模な花の展示会。色彩豊かなガーデンディスプレイや植物販売があり、家族向けの体験コーナーも充実しています。",
       "date": "4月上旬〜中旬",
-      "place": "新界地区（各ハイキングコース）",
-      "link": "",
+      "place": "ビクトリアパーク（Victoria Park）、香港島銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/en/pabour/fflower.html",
+      "free": false
+    },
+    {
+      "title": "スターフェリーでの海上遊覧",
+      "description": "香港を代表する交通機関スターフェリーで、ビクトリア湾の美しい景色を楽しめます。乳幼児向けのリーズナブルな運賃設定で、家族で手軽に楽しめます。",
+      "date": "4月通年",
+      "place": "スターフェリー（中環〜尖沙咀など複数ルート）",
+      "link": "https://www.starferry.com.hk/",
+      "free": false
+    },
+    {
+      "title": "香港公園での春の散策（無料）",
+      "description": "市街地の緑溢れる公園で、季節の花々を観察。噴水広場や遊び場があり、子どもたちが自然に親しめます。展示温室も訪問できます。",
+      "date": "4月通年",
+      "place": "香港公園（Hong Kong Park）、中環紅棉路",
+      "link": "https://www.lcsd.gov.hk/en/parks/hkpark/",
       "free": true
     },
     {
-      "title": "香港ディズニーランドのスプリング・セレブレーション",
-      "description": "春限定のパレードやキャラクターグリーティング、期間限定アトラクション。乳幼児向けエリアから小学生まで家族全員で楽しめます。",
+      "title": "香港海洋公園の春休みスペシャルプログラム",
+      "description": "子ども向けの教育的ワークショップや特別展示が開催。動物との触れ合いや海の生き物についての学習が充実し、小学生向けのアクティビティが豊富です。",
+      "date": "4月上旬〜中旬",
+      "place": "香港海洋公園（Ocean Park Hong Kong）、香港島南区",
+      "link": "https://www.oceanpark.com.hk/en",
+      "free": false
+    },
+    {
+      "title": "トラムでのピークディストリクト散策（無料体験含む）",
+      "description": "香港の象徴的なダブルデッカートラムに乗車し、街の景色を楽しむアクティビティ。運賃も安く、子どもたちは乗り物体験を満喫できます。",
       "date": "4月通年",
-      "place": "香港ディズニーランド（Lantau Island）",
-      "link": "https://www.hongkongdisneyland.com",
+      "place": "香港トラム運行路線（北角〜ザ・ピーク間など）",
+      "link": "https://www.hktramways.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-24T01:19:30.570Z"
+  "updatedAt": "2026-04-25T01:13:00.416Z"
 }
