@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・ホーリー・ウィーク（Semana Santa）",
-      "description": "復活祭の時期に行われるフィリピン最大級の宗教行事。パレード、宗教儀式、家族向けの文化イベントが各地で開催。子どもたちも参加できる伝統的なお祭り雰囲気を体験できます。",
-      "date": "4月13日〜20日",
-      "place": "マニラ市内各所（キアポ教会、マラテ地区など）",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "リサール公園での親子向けアウトドア活動",
-      "description": "マニラ市内の広大な公園で、子連れ向けのピクニック、遊び場、レンタル自転車を楽しめます。4月は乾季で天気が良く、屋外アクティビティに最適な季節です。",
+      "title": "フィリピン・アース・デイ（Earth Day）イベント",
+      "description": "4月22日前後に開催される環境保全啓発イベント。マニラ湾周辺で海岸清掃やエコ教育ブース、子ども向けワークショップが実施されます。",
       "date": "4月中旬〜下旬",
-      "place": "リサール公園（Rizal Park）、マニラ市内",
-      "link": "https://www.tourism.gov.ph/",
+      "place": "マニラ湾エリア・バイ・ザ・ベイ（Mall of Asia一帯）",
+      "link": "https://www.denr.gov.ph/",
       "free": true
     },
     {
-      "title": "スターシティでのキッズイベント",
-      "description": "大型テーマパークで季節限定の子ども向けプログラムが開催されます。乗り物、キャラクターショー、ゲームなど家族向けのアトラクションが楽しめます。",
-      "date": "4月上旬〜下旬（通年営業）",
-      "place": "スターシティ（Star City）、マニラ市内",
-      "link": "https://www.star-city.com.ph/",
+      "title": "サマー・フェスティバル＆キッズアクティビティ",
+      "description": "大型ショッピングモールで開催される夏季イベント。子ども向けゲーム、エンターテイメント、キャラクターグリーティング、屋内遊技施設の特別開放が行われます。",
+      "date": "4月上旬〜中旬",
+      "place": "SM Mall of Asia, BGC、Robinsons Place Manila等主要モール",
+      "link": "https://www.smmallofasia.com/",
       "free": false
     },
     {
-      "title": "マニラ動物園での春のイベント",
-      "description": "フィリピンの野生動物を見学できる動物園。春季の動物たちの活動は活発です。子どもたちの動物教育プログラムや餌やり体験が開催されます。",
-      "date": "4月中旬〜下旬",
-      "place": "マニラ動物園（Manila Zoo）、リサール公園内",
+      "title": "ナショナル・ボタニカル・ガーデンでの自然散策",
+      "description": "マニラ郊外の広大な植物園。4月は乾季で散策に最適。子どもと一緒に自然観察、トレッキング、ピクニック、野鳥観察が楽しめます。",
+      "date": "4月通年（乾季）",
+      "place": "National Botanical Garden, 9 Miles, Rizal Province",
+      "link": "https://www.nbs.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "フィリピン・サイエンス・ミュージアムの特別展示＆ワークショップ",
+      "description": "子ども向けの対話的科学展示とSTEMワークショップ。季節ごとの特別プログラムで、実験体験や工作教室が充実しています。",
+      "date": "4月通年（定期開催）",
+      "place": "Philippine Science Heritage Center, Makati City",
+      "link": "https://www.psm.org.ph/",
+      "free": false
+    },
+    {
+      "title": "フェスティバル・マーケット＆コミュニティイベント",
+      "description": "地域のストリートマーケット、子どもの遊び場コーナー、ライブミュージック、フード露店が並びます。フィリピンの日常文化を体験できます。",
+      "date": "4月の週末（毎週土日）",
+      "place": "Makati Avenue、BGC Bonifacio Global City、Quezon City周辺各地",
       "link": "",
-      "free": false
-    },
-    {
-      "title": "フィリピン国立博物館での子ども向けワークショップ",
-      "description": "フィリピンの歴史と文化を学べる博物館で、子ども向けの教育プログラムやワークショップが開催されます。インタラクティブな展示で家族で楽しく学べます。",
-      "date": "4月中旬〜下旬（通年営業）",
-      "place": "フィリピン国立博物館（National Museum）、マニラ市内",
-      "link": "https://www.nationalmuseum.gov.ph/",
-      "free": false
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-25T01:12:27.220Z"
+  "updatedAt": "2026-04-26T01:20:59.649Z"
 }

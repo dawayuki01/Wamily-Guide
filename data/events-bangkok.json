@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ソンクラーン（タイ正月）",
-      "description": "4月13～15日のタイの伝統的な正月祭。水かけの儀式が中心で、子どもたちも楽しめます。市内各地でパレードや水掛けイベントが開催されます。",
-      "date": "4月13日～15日",
-      "place": "バンコク市内全域（シーロム通り、カオサン通りなど）",
-      "link": "https://www.tatnews.org",
+      "description": "水かけ祭りの名で知られるタイの旧正月。家族で水遊びを楽しめ、街全体が祝賀ムードに。子どもも大人も水鉄砲で楽しめる。",
+      "date": "4月13日〜15日",
+      "place": "バンコク全域（特にカオサンロード、シーロム、ラチャダムリ通り）",
+      "link": "https://www.tourismthailand.org/",
       "free": true
     },
     {
-      "title": "ルンピニー公園での朝のエクササイズと市場散策",
-      "description": "バンコク最大級の都市公園で、朝日の中でジョギングや散歩を楽しめます。周辺には屋台市場があり、地元の朝食を体験できます。親子で自然と文化を満喫できます。",
-      "date": "4月通年（特に朝6～8時）",
-      "place": "Lumphini Park, Rama IV Road, Bangkok",
-      "link": "https://www.bangkok.go.th",
+      "title": "ルンピニ公園での朝ラン・ヨガプログラム",
+      "description": "バンコク最大の公園で毎朝開催される無料のコミュニティプログラム。子どもと一緒に運動でき、地元の人々との交流も楽しめる。",
+      "date": "4月通年（毎日開催）",
+      "place": "ルンピニ公園（Lumphini Park）、バンコク",
+      "link": "https://www.bangkok.go.th/",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館の春休み特別プログラム",
-      "description": "東南アジア最大規模の水族館。4月は春休みシーズンで、子ども向けの教育プログラムやタッチプール体験が充実します。海の生き物とのふれあいが人気。",
-      "date": "4月上旬～下旬",
-      "place": "Siam Paragon, 991 Rama I Road, Bangkok",
-      "link": "https://www.siamparagon.com/en",
+      "title": "サイアム・パラゴン水族館（Sea Life Bangkok）の春休みスペシャルプログラム",
+      "description": "タッチプール、フィーディング体験など子ども向けプログラムが充実。4月の春休みシーズンは特別企画も開催予定。",
+      "date": "4月上旬〜下旬",
+      "place": "サイアム・パラゴン、バンコク",
+      "link": "https://www.sealifebangkok.com/",
       "free": false
     },
     {
       "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "世界最大級の週末市場。4月は比較的過ごしやすく、子ども向けおもちゃ、衣類、グルメが豊富です。広大な敷地で散策を楽しめます。",
-      "date": "毎週土日（4月通年）",
-      "place": "Chatuchak Weekend Market, Phahon Yothin Road, Bangkok",
-      "link": "https://www.chatuchakmarket.com",
+      "description": "毎週末開催の世界最大級のマーケット。子ども服、おもちゃ、食べ物など多彩な品揃え。家族向けの屋台も充実で楽しく散策できる。",
+      "date": "4月の毎週土日",
+      "place": "チャトゥチャック・ウィークエンド・マーケット、バンコク",
+      "link": "https://www.chatuchakmarket.com/",
       "free": true
     },
     {
-      "title": "ドリームワールド・スプリングフェスティバル",
-      "description": "バンコク郊外のテーマパークで、春シーズンの特別イベントを開催。子ども向けアトラクション、キャラクターショー、季節装飾が楽しめます。家族向けアクティビティが充実。",
-      "date": "4月上旬～中旬",
-      "place": "Dream World, 62 Rangsit-Nakhon Nayok Road, Bangkok",
-      "link": "https://www.dreamworld.co.th/en",
+      "title": "バンコク国立博物館の子ども向けツアープログラム",
+      "description": "タイの歴史・文化を学べる。4月は学校休暇期間の特別子ども向けガイドツアーを開催。英語ガイド付きで分かりやすい。",
+      "date": "4月上旬〜下旬",
+      "place": "バンコク国立博物館、バンコク",
+      "link": "https://www.thaimuseum.go.th/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-25T01:12:20.099Z"
+  "updatedAt": "2026-04-26T01:20:51.649Z"
 }

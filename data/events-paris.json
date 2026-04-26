@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "春の花まつり - チューリップとキンポウゲの庭園展示",
-      "description": "モネの庭園で知られるジヴェルニーの春の花々が見頃。チューリップやキンポウゲが咲き誇り、子どもも楽しめる自然散策スポット。",
-      "date": "4月上旬〜下旬",
-      "place": "Giverny, Vernon（パリから車で1時間）",
-      "link": "https://www.fondationmonet.fr",
-      "free": false
-    },
-    {
-      "title": "ルクセンブルク公園の屋外遊び場と春の散策",
-      "description": "パリ最大級の公園で無料利用可。砂場、すべり台、木製遊具が充実。春の緑と噴水を楽しみながら家族で思いっきり遊べる。",
-      "date": "4月全期間",
-      "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardins",
+      "title": "パリ・チューリップ・フェスティバル＆春の花々",
+      "description": "ルクセンブルク公園やチューイルリー庭園で、色鮮やかなチューリップや春の花々が満開。子どもが自然を楽しみながら散策できる屋外アクティビティです。",
+      "date": "4月上旬〜中旬",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）/ チューイルリー庭園（Jardin des Tuileries）",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "フレ・ド・ロー（Foire du Trône）春の遊園地",
-      "description": "パリの春の風物詩。キッズ向けメリーゴーランド、小型ジェットコースター、射的など約60のアトラクションがある移動遊園地。",
-      "date": "4月中旬〜5月下旬",
-      "place": "Pelouse de Reuilly, 75012 Paris",
-      "link": "https://www.foiredutrone.com",
+      "title": "フォンテーヌブロー宮殿の春イベント",
+      "description": "パリ郊外の世界遺産・フォンテーヌブロー宮殿で春の特別イベントが開催。子ども向けのワークショップや庭園散策が楽しめます。",
+      "date": "4月中旬〜下旬",
+      "place": "フォンテーヌブロー宮殿（Château de Fontainebleau）",
+      "link": "https://www.chateaudefontainebleau.fr",
       "free": false
     },
     {
-      "title": "パリ市立自然史博物館 - 春の恐竜展示ツアー",
-      "description": "子ども向けの恐竜骨格展示や化石コーナー。ガイド付きツアーがあり、乳幼児から小学生まで楽しめる。",
-      "date": "4月全期間",
-      "place": "Muséum National d'Histoire Naturelle, 75005 Paris",
-      "link": "https://www.mnhn.fr",
+      "title": "ポンピドゥー・センター子ども向けワークショップ",
+      "description": "近代美術館で春の特別展示と連動した子ども向けアートワークショップ。創造性を育む体験ができます。",
+      "date": "4月通期",
+      "place": "ポンピドゥー・センター（Centre Pompidou）Rue Saint-Martin, 75004 Paris",
+      "link": "https://www.centrepompidou.fr",
       "free": false
     },
     {
-      "title": "セーヌ河畔と橋での無料散策＆ピクニック",
-      "description": "春の陽気に包まれたセーヌ河畔は屋外アクティビティの最適地。ポン・デ・ザルトパークやノートルダム周辺で家族ピクニックが楽しめる。",
-      "date": "4月全期間",
-      "place": "Seine Riverside, Central Paris",
+      "title": "パリ・イースター・マーケット＆地元市場の春野菜",
+      "description": "シャンゼリゼやマレ地区でイースター関連のマーケットが開催。春の旬の野菜や花を見つけることができる屋外マーケット。",
+      "date": "4月上旬〜中旬",
+      "place": "シャンゼリゼ大通り周辺 / マレ地区（Le Marais）",
       "link": "",
       "free": true
+    },
+    {
+      "title": "ヴェルサイユ宮殿の春庭園ツアー＆子ども向けガイド",
+      "description": "春の美しい庭園が見頃。親子向けの特別ガイドツアーで、王妃の庭園や泉を探検できます。",
+      "date": "4月上旬〜下旬",
+      "place": "ヴェルサイユ宮殿（Château de Versailles）",
+      "link": "https://www.chateauversailles.fr",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-25T01:11:57.098Z"
+  "updatedAt": "2026-04-26T01:20:28.248Z"
 }
