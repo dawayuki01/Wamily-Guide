@@ -18,6 +18,7 @@ const Anthropic = require('@anthropic-ai/sdk');
 const { Client: NotionClient } = require('@notionhq/client');
 const { fetchAllArticles } = require('./newsletter/rss-fetcher');
 const { buildCurationPrompt } = require('./newsletter/curate-prompt');
+const { buildSubjectPrompt } = require('./newsletter/subject-prompt');
 const { buildCuratedHtml } = require('./newsletter/email-template');
 const { notifySlack } = require('./lib/slack-notify');
 
@@ -144,7 +145,28 @@ async function main() {
     year: 'numeric', month: 'long', day: 'numeric',
   });
 
-  const subject = `🌱 今週の「旅と家族」の種 — ${curatedItems.length}本のキュレーション`;
+  // 件名を Claude に生成させる（失敗時は従来テンプレにフォールバック）
+  const fallbackSubject = `🌱 今週の「旅と家族」の種 — ${curatedItems.length}本のキュレーション`;
+  let subject = fallbackSubject;
+  try {
+    const subjectRes = await anthropic.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 100,
+      messages: [{ role: 'user', content: buildSubjectPrompt(curatedItems) }],
+    });
+    const raw = (subjectRes.content[0]?.text || '').trim();
+    // 改行・引用符・余分な装飾を除去
+    const cleaned = raw.split('\n')[0].replace(/^["'「『]+|["'」』]+$/g, '').trim();
+    // バリデーション：🌱で始まり、1〜30文字
+    if (cleaned && cleaned.length >= 6 && cleaned.length <= 30 && cleaned.startsWith('🌱')) {
+      subject = cleaned;
+      console.log(`  → Claude生成件名: ${subject}`);
+    } else {
+      console.warn(`  ⚠️ 件名バリデーション失敗（"${cleaned}"）→ フォールバック使用`);
+    }
+  } catch (err) {
+    console.warn(`  ⚠️ 件名生成失敗: ${err.message} → フォールバック使用`);
+  }
 
   // GAS 配信停止URL のベース
   const gasUrl = process.env.NEWSLETTER_GAS_URL || '';
