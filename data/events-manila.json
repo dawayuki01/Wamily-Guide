@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アース・デイ（Earth Day）イベント",
-      "description": "4月22日前後に開催される環境保全啓発イベント。マニラ湾周辺で海岸清掃やエコ教育ブース、子ども向けワークショップが実施されます。",
+      "title": "Summer Fiesta 2026",
+      "description": "マニラの各地で開催される夏祭り。子ども向けのゲーム、フード屋台、ライブパフォーマンスが楽しめ、家族連れで賑わいます。",
       "date": "4月中旬〜下旬",
-      "place": "マニラ湾エリア・バイ・ザ・ベイ（Mall of Asia一帯）",
-      "link": "https://www.denr.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "サマー・フェスティバル＆キッズアクティビティ",
-      "description": "大型ショッピングモールで開催される夏季イベント。子ども向けゲーム、エンターテイメント、キャラクターグリーティング、屋内遊技施設の特別開放が行われます。",
-      "date": "4月上旬〜中旬",
-      "place": "SM Mall of Asia, BGC、Robinsons Place Manila等主要モール",
-      "link": "https://www.smmallofasia.com/",
-      "free": false
-    },
-    {
-      "title": "ナショナル・ボタニカル・ガーデンでの自然散策",
-      "description": "マニラ郊外の広大な植物園。4月は乾季で散策に最適。子どもと一緒に自然観察、トレッキング、ピクニック、野鳥観察が楽しめます。",
-      "date": "4月通年（乾季）",
-      "place": "National Botanical Garden, 9 Miles, Rizal Province",
-      "link": "https://www.nbs.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "フィリピン・サイエンス・ミュージアムの特別展示＆ワークショップ",
-      "description": "子ども向けの対話的科学展示とSTEMワークショップ。季節ごとの特別プログラムで、実験体験や工作教室が充実しています。",
-      "date": "4月通年（定期開催）",
-      "place": "Philippine Science Heritage Center, Makati City",
-      "link": "https://www.psm.org.ph/",
-      "free": false
-    },
-    {
-      "title": "フェスティバル・マーケット＆コミュニティイベント",
-      "description": "地域のストリートマーケット、子どもの遊び場コーナー、ライブミュージック、フード露店が並びます。フィリピンの日常文化を体験できます。",
-      "date": "4月の週末（毎週土日）",
-      "place": "Makati Avenue、BGC Bonifacio Global City、Quezon City周辺各地",
+      "place": "マニラ各地（Luneta Park周辺など）",
       "link": "",
       "free": true
+    },
+    {
+      "title": "Manila Ocean Park",
+      "description": "海洋生物園で、イルカショーやシーライオンパフォーマンス、タッチプール体験など、子どもたちが海の生き物を学べるアクティビティが充実。",
+      "date": "4月通年営業",
+      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
+      "link": "https://www.manillaoceanpark.com",
+      "free": false
+    },
+    {
+      "title": "Luneta Park（リサール公園）散策",
+      "description": "マニラの緑地公園で、広場でのピクニック、子ども向け遊具、池での景観楽しめます。4月は乾季で天気良好。入園無料で家族向けの屋外活動に最適です。",
+      "date": "4月通年営業",
+      "place": "Luneta Park, Roxas Boulevard, Manila",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
+    },
+    {
+      "title": "SMモール・オブ・アジア キッズイベント",
+      "description": "大型ショッピングモールで開催される子ども向けのワークショップ、キャラクターミートアンドグリート、工作教室などの季節プログラムが実施されます。",
+      "date": "4月中旬〜下旬",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com.ph",
+      "free": true
+    },
+    {
+      "title": "Enchanted Kingdom",
+      "description": "テーマパークの春キャンペーンで、子ども向けの乗り物、キャラクターショー、特別アトラクションが企画されます。家族向けアクティビティが盛りだくさん。",
+      "date": "4月通年営業",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.ph",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-26T01:20:59.649Z"
+  "updatedAt": "2026-04-27T01:22:08.198Z"
 }

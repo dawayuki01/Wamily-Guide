@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・チューリップ・フェスティバル＆春の花々",
-      "description": "ルクセンブルク公園やチューイルリー庭園で、色鮮やかなチューリップや春の花々が満開。子どもが自然を楽しみながら散策できる屋外アクティビティです。",
+      "title": "チューリップの季節・バガテル庭園",
+      "description": "パリ西部の美しい庭園で、4月は色とりどりのチューリップが満開。子どもも楽しめる広大な庭園散策で、春の自然を満喫できます。",
       "date": "4月上旬〜中旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）/ チューイルリー庭園（Jardin des Tuileries）",
-      "link": "https://www.paris.fr",
-      "free": true
+      "place": "Parc de Bagatelle, 75016 Paris",
+      "link": "https://www.paris.fr/pages/le-parc-de-bagatelle-2141",
+      "free": false
     },
     {
-      "title": "フォンテーヌブロー宮殿の春イベント",
-      "description": "パリ郊外の世界遺産・フォンテーヌブロー宮殿で春の特別イベントが開催。子ども向けのワークショップや庭園散策が楽しめます。",
+      "title": "イースターマーケット・シャンゼリゼ通り周辺",
+      "description": "4月中旬、シャンゼリゼ周辺でイースターをテーマとしたマーケットが開催。キッズアクティビティ、卵探しゲーム、工作体験など家族向けの催しが盛りだくさんです。",
       "date": "4月中旬〜下旬",
-      "place": "フォンテーヌブロー宮殿（Château de Fontainebleau）",
-      "link": "https://www.chateaudefontainebleau.fr",
-      "free": false
-    },
-    {
-      "title": "ポンピドゥー・センター子ども向けワークショップ",
-      "description": "近代美術館で春の特別展示と連動した子ども向けアートワークショップ。創造性を育む体験ができます。",
-      "date": "4月通期",
-      "place": "ポンピドゥー・センター（Centre Pompidou）Rue Saint-Martin, 75004 Paris",
-      "link": "https://www.centrepompidou.fr",
-      "free": false
-    },
-    {
-      "title": "パリ・イースター・マーケット＆地元市場の春野菜",
-      "description": "シャンゼリゼやマレ地区でイースター関連のマーケットが開催。春の旬の野菜や花を見つけることができる屋外マーケット。",
-      "date": "4月上旬〜中旬",
-      "place": "シャンゼリゼ大通り周辺 / マレ地区（Le Marais）",
+      "place": "Avenue des Champs-Élysées et environs, 75008 Paris",
       "link": "",
       "free": true
     },
     {
-      "title": "ヴェルサイユ宮殿の春庭園ツアー＆子ども向けガイド",
-      "description": "春の美しい庭園が見頃。親子向けの特別ガイドツアーで、王妃の庭園や泉を探検できます。",
-      "date": "4月上旬〜下旬",
-      "place": "ヴェルサイユ宮殿（Château de Versailles）",
-      "link": "https://www.chateauversailles.fr",
+      "title": "ノートルダム大聖堂周辺・イル・ド・ラ・シテの春散策",
+      "description": "4月は気候も良く、セーヌ川沿いの散策に最適。ノートルダム周辺、サント・シャペル、古書店など家族で自由に探索できます。無料で楽しめる屋外アクティビティです。",
+      "date": "4月全般",
+      "place": "Île de la Cité, 75004 Paris",
+      "link": "https://www.paris.fr",
+      "free": true
+    },
+    {
+      "title": "ルーヴル美術館の子ども向けワークショップ",
+      "description": "春休みシーズンに合わせた子ども向けの美術ワークショップが開催。アート体験や創作活動を通じて、美術館を楽しく学べるプログラムです。",
+      "date": "4月上旬〜中旬",
+      "place": "Musée du Louvre, 75001 Paris",
+      "link": "https://www.louvre.fr",
       "free": false
+    },
+    {
+      "title": "モンマルトル・サクレ・クール周辺の春の散策",
+      "description": "4月は草花が美しく咲くモンマルトル。アーティストスクエア、階段散策、地元マーケットなど、のんびりした雰囲気の中で家族で春を感じられます。",
+      "date": "4月全般",
+      "place": "Montmartre, 75018 Paris",
+      "link": "https://www.paris.fr/pages/montmartre-2038",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-26T01:20:28.248Z"
+  "updatedAt": "2026-04-27T01:21:37.394Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（Spring Festival）",
-      "description": "春の花々が咲き誇るLA Flower Marketの季節イベント。色鮮やかな花、植物、春の装飾品が並び、家族で楽しめます。屋外エリアも多く、子どもも歩きやすい雰囲気です。",
-      "date": "4月上旬〜中旬",
-      "place": "LA Flower Market, 766 Wall Street, Los Angeles, CA 90014",
-      "link": "https://www.laflowermarket.com/",
+      "title": "ロサンゼルス・フラワー・マーケット（春の花祭り）",
+      "description": "春の季節限定で、カラフルな花々や植物が販売される市場。親子で花を選んだり、ガーデニング体験ができます。屋外で季節の香りを感じられます。",
+      "date": "4月上旬〜下旬（通年営業、春は特に開花が美しい時期）",
+      "place": "Los Angeles Flower Market, 766 Wall Street, Los Angeles, CA 90014",
+      "link": "https://www.laflowermarket.com",
       "free": true
     },
     {
-      "title": "グリフィス天文台の春イベント",
-      "description": "グリフィス天文台では4月に子ども向けの天体観測会や春のプラネタリウムプログラムを開催。展示室の入場は無料で、家族で楽しめます。",
-      "date": "4月中旬〜下旬",
+      "title": "グリフィス天文台イースター・エッグ・ハント",
+      "description": "グリフィス天文台周辺で開催されるイースター関連のイベント。子どもたちが卵を探すアクティビティや、天文台の展示見学も楽しめます。",
+      "date": "4月上旬〜中旬（イースター時期）",
       "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "アメージング・エーシーズ・パークでのイースター・イベント",
-      "description": "子ども向けテーマパーク。イースター時期に卵探しやキャラクターイベントが開催されます。乳幼児から小学生向けのアトラクションが充実。",
-      "date": "4月上旬〜中旬",
-      "place": "Amazeum (The Genius Plaza), 200 S. Lake Ave, Pasadena, CA 91101",
-      "link": "https://www.amazeumpassadena.org/",
+      "title": "LA Zoo春のアクティビティプログラム",
+      "description": "ロサンゼルス動物園で春限定の子ども向けプログラムが開催されます。動物との触れ合いやエデュケーショナルガイドツアーで、親子で楽しく学べます。",
+      "date": "4月上旬〜下旬",
+      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
       "free": false
     },
     {
-      "title": "エルドラド・パーク（Eldorado Regional Park）のハイキングと自然観察",
-      "description": "ロングビーチ近くの広大な公園。春の野花が咲き、ハイキングトレイルが充実。ピクニック施設も完備で、子連れにぴったりの屋外アクティビティです。",
+      "title": "ハンティントン・ライブラリーの春イベント",
+      "description": "庭園美術館で春花が見ごろ。子ども向けワークショップや自然観察プログラムが開催されます。美しい春の庭園を散策できます。",
       "date": "4月上旬〜下旬",
-      "place": "Eldorado Regional Park, 7550 E Spring Street, Long Beach, CA 90815",
-      "link": "https://www.longbeachca.gov/government/departments/parks-recreation-and-marine/parks/eldorado-regional-park",
+      "place": "The Huntington Library, 1151 Oxford Road, San Marino, CA 91108",
+      "link": "https://www.huntington.org",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier春祭り・ハイキング",
+      "description": "サンタモニカペアでの屋外アクティビティと春祭りイベント。海沿いのハイキング、ビーチでの遊び、アミューズメント施設を家族で楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
       "free": true
-    },
-    {
-      "title": "ロサンゼルス・ナチュラル・ヒストリー・ミュージアムの春展示",
-      "description": "自然史博物館では春に子ども向けの特別展示やワークショップを開催。恐竜、生物、鉱物など子どもの興味を引く展示が豊富です。",
-      "date": "4月上旬〜下旬",
-      "place": "LA Natural History Museum, 900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-26T01:21:07.711Z"
+  "updatedAt": "2026-04-27T01:22:15.651Z"
 }

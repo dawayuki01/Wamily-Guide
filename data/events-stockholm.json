@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの春（Vårblomsterfestivalen）",
-      "description": "ストックホルムの公園やガーデンに色とりどりのチューリップが咲き誇ります。特にDjurgårdenとKungsholmenの公園は家族で散策するのに最適です。春の自然を楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "Djurgården, Norrmalm, Kungsholmen周辺",
-      "link": "https://www.stockholm.se/",
+      "title": "春の花まつり（Stockholms Blommor）",
+      "description": "ストックホルム各地でチューリップ、桜、水仙が咲き誇る季節。キングス庭園やスキャンセン周辺で春の花々が楽しめ、子どもたちが自然を学べます。",
+      "date": "4月上旬〜下旬",
+      "place": "キングス庭園（Kungsträdgården）、スキャンセン周辺",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "スウェーデン自然史博物館の春季展示プログラム",
-      "description": "春をテーマにした子ども向けワークショップや展示が開催されます。恐竜化石から動物の冬眠について学べる対話型プログラムがあります。4歳〜小学生向け。",
-      "date": "4月中旬〜下旬",
-      "place": "Naturhistoriska riksmuseet, Frescativägen 40, 114 18 Stockholm",
-      "link": "https://www.nrm.se/",
+      "title": "スキャンセン春季イベント・動物園",
+      "description": "北欧最大の野外博物館・動物園。春生まれの子動物たちが見られ、伝統的な農場体験や子ども向けワークショップが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "スキャンセン（Skansen）、Djurgårdsvägen 49-51",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "Skansen野外博物館での春の動物活動観察",
-      "description": "スウェーデン最大の屋外博物館。春は動物たちの活動が活発になります。子ども向けのガイドツアーや教育プログラムがあり、北欧の野生動物と伝統文化を学べます。",
-      "date": "4月全期間",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "ヴァーサ博物館の子ども向けプログラム",
+      "description": "17世紀の戦艦ヴァーサを見学。春季に特別な子ども向けガイドツアーやクイズラリーが実施され、楽しく海洋史が学べます。",
+      "date": "4月通年",
+      "place": "ヴァーサ博物館（Vasamuseet）、Galärvägen 14",
+      "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ストックホルム群島の島巡りクルーズシーズン開始",
-      "description": "春の温かくなった時期にボートで群島を巡るツアーが始まります。子ども向けの短時間コースもあり、海の景色と島の文化を楽しめます。4月下旬本格開始。",
-      "date": "4月下旬〜5月",
-      "place": "Strandvägen 8, 114 51 Stockholm（出発地）",
-      "link": "https://www.stockholmskargard.se/",
-      "free": false
+      "title": "ジュルゴーデン島のサイクリング・ハイキング",
+      "description": "緑豊かなジュルゴーデン島で、春の季節風を感じながら家族でサイクリングやハイキング。遊び場も多く、子どもも楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "ジュルゴーデン島（Djurgården）",
+      "link": "https://www.visitstockholm.com",
+      "free": true
     },
     {
-      "title": "Tekniska museet（技術博物館）のキッズラボ＆春休みプログラム",
-      "description": "ロボット、プログラミング、科学実験の子ども向けワークショップが毎日開催。4〜12歳が楽しめるハンズオン体験で、STEM学習ができます。",
-      "date": "4月中旬〜下旬（春休みシーズン）",
-      "place": "Museivägen 7, 102 64 Stockholm",
-      "link": "https://www.tekniskamuseet.se/",
+      "title": "ストックホルム子ども博物館（Junibacken）の春企画",
+      "description": "児童文学を題材にした体験型博物館。春の特別展示や、スウェーデン文化を子ども向けに紹介するワークショップが開催されます。",
+      "date": "4月通年",
+      "place": "ユーニバッケン（Junibacken）、Galärvägen 14",
+      "link": "https://www.junibacken.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-26T01:20:36.180Z"
+  "updatedAt": "2026-04-27T01:21:45.146Z"
 }

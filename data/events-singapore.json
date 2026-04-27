@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
-      "description": "シンガポール随一の園芸イベント。花の展示、造園コンテスト、子ども向けワークショップ、花の販売などで、家族で花と緑を楽しめます。",
+      "description": "アジア最大級のガーデンフェスティバル。色鮮やかな花々の展示、ガーデンショー、子ども向けワークショップが開催される屋外イベント。家族で楽しめます。",
       "date": "4月中旬〜下旬",
-      "place": "Singapore Botanic Gardens（シンガポール植物園）, 1 Cluny Road, Singapore 259569",
-      "link": "https://www.singaporegardenfestival.com",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
+      "link": "https://www.gardensfestival.com.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park Beach Activities（イースト・コースト・パーク）",
-      "description": "シンガポール最大のビーチパーク。4月は天候も良く、砂浜遊び、サイクリング、ピクニック、アクアスポーツが楽しめます。子ども向けの安全な遊泳エリアもあります。",
+      "title": "East Coast Park ビーチアクティビティ",
+      "description": "シンガポール最大のビーチ公園。4月は乾季で晴天が多く、子ども向け水遊びゾーン、自転車レンタル、砂浜での遊びが楽しめます。",
       "date": "4月全期間",
-      "place": "East Coast Park, East Coast Park Road, Singapore",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Chingay Parade（チンゲイ・パレード）- 延期の場合4月開催",
-      "description": "シンガポール最大のストリートパレード。巨大な張子人形、音楽、ダンスが街を彩ります。4月に延期開催される場合、家族向けの楽しいお祭りの雰囲気が味わえます。",
-      "date": "2月または4月上旬（その年による）",
-      "place": "Orchard Road, Singapore",
-      "link": "https://www.chingay.com.sg",
-      "free": true
-    },
-    {
-      "title": "Jurong Bird Park - Spring Programs（ジュロン・バードパーク）",
-      "description": "東南アジア最大級の鳥類園。4月の春の時期、子ども向けの餌やり体験やバード・トークなどの特別プログラムが開催され、野鳥や飛行ショーを楽しめます。",
-      "date": "4月全期間（毎日開園）",
-      "place": "2 Jurong Hill, Singapore 628925",
-      "link": "https://www.birdpark.sg",
+      "title": "Singapore Zoo春のキーパー・トーク＆子ども向けプログラム",
+      "description": "シンガポール動物園の季節プログラム。飼育員による動物の解説、触れ合い体験、子ども向けの特別教育ワークショップが開催されます。",
+      "date": "4月全期間",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.singaporezoo.com/",
       "free": false
     },
     {
-      "title": "National Museum Singapore - Family Activities（ナショナル・ミュージアム）",
-      "description": "シンガポール国立博物館。4月に子ども向けの特別ワークショップや対話型展示で、シンガポールの歴史と文化を楽しく学べます。",
-      "date": "4月全期間（毎日開館）",
-      "place": "93 Stamford Road, Singapore 178897",
-      "link": "https://www.nationalmuseum.sg",
+      "title": "Chingay Parade（チンゲイ・パレード）関連イベント",
+      "description": "シンガポール最大級の多文化パレード。4月中旬に本パレードが開催。カラフルな山車、パフォーマンス、家族向けのプレイベントで賑わいます。",
+      "date": "4月中旬",
+      "place": "Orchard Road周辺、シンガポール市街地",
+      "link": "https://www.chingay.com.sg/",
+      "free": true
+    },
+    {
+      "title": "National Museum Singapore 子ども向け特別展示・ワークショップ",
+      "description": "シンガポール国立博物館の季節プログラム。子ども向けの対話型展示、クリエイティブワークショップ、家族ツアーが開催される文化施設。",
+      "date": "4月全期間",
+      "place": "National Museum Singapore, 93 Stamford Road, Singapore 178897",
+      "link": "https://www.nationalmuseum.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-26T01:20:44.076Z"
+  "updatedAt": "2026-04-27T01:21:52.575Z"
 }
