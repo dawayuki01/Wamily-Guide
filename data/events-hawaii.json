@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ハワイ・フィルム・フェスティバル",
-      "description": "家族向けの映画上映やワークショップが開催される国際映画祭。子どもも楽しめるコンテンツが多く、ハワイの文化を学べます。",
-      "date": "4月中旬〜下旬",
-      "place": "ホノルル、イーストウエストセンター等複数会場",
-      "link": "https://www.hawaiifilmfestival.org/",
+      "title": "メリーモナークフェスティバル",
+      "description": "ハワイアン文化を祝う国際的なフラ・フェスティバル。コンペティション、パレード、展示があり、子どもたちも伝統文化を学べます。",
+      "date": "4月上旬（毎年3月末〜4月上旬）",
+      "place": "エディス・カナカオレ・スタジアム、ハイロ（ハワイ島）",
+      "link": "https://www.merriemonarchfestival.org",
       "free": false
     },
     {
-      "title": "スプラッシュパッド・ウォータープレイグラウンド",
-      "description": "カカアコ地区の無料水遊び広場。4月の温かい気候で乳幼児〜子どもが安全に水遊びを楽しめ、地元ファミリーに人気です。",
+      "title": "ハワイ火山国立公園の無料開園日＆ハイキング",
+      "description": "キラウエア火山の迫力ある景観を家族で体験。4月は降雨量も比較的少なく、屋外活動に最適。子ども向けトレイルコースもあります。",
       "date": "4月通年",
-      "place": "Kakaako Waterfront Park, ホノルル",
-      "link": "",
+      "place": "ハワイ火山国立公園（ハワイ島）",
+      "link": "https://www.nps.gov/havo",
       "free": true
     },
     {
-      "title": "ダイヤモンドヘッド・ハイキング",
-      "description": "オアフ島の象徴的なハイキング。4月は気候が良く、約30分で頂上到達可能。小学生向けの屋外アクティビティに最適です。",
-      "date": "4月通年（早朝推奨）",
-      "place": "Diamond Head State Monument, ホノルル",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "title": "オアフ島・キャンプ・フェア・ファンタジー",
+      "description": "ホノルル動物園で開催。親子向けの教育的でインタラクティブな動物体験プログラムと屋外アクティビティが豊富です。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "ホノルル動物園（オアフ島）",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "ハワイ子どもの博物館の春イベント",
-      "description": "ハンズオン体験で学べる博物館。4月は春の特別プログラムやワークショップが充実。乳幼児〜小学生向けの多彩な展示があります。",
-      "date": "4月通年",
-      "place": "Hawaii Children's Discovery Center, ホノルル",
-      "link": "https://www.discoverycenterhawaii.org/",
-      "free": false
-    },
-    {
-      "title": "カイルア・ビーチでの無料ファミリー・デー",
-      "description": "オアフ島で最も美しいビーチ。4月は温暖で海水浴に最適。浅瀬が広く子連れに人気。無料で家族全員で楽しめます。",
-      "date": "4月通年",
-      "place": "Kailua Beach Park, カイルア",
-      "link": "https://www.honolulu.gov/parks-recreation.html",
+      "title": "キプー・ホイ・マーケット（フリマ・ファーマーズマーケット）",
+      "description": "ローカル野菜、工芸品、キッズ向けアクティビティが充実。家族向けの雰囲気で、ハワイの生活文化を体験できます。",
+      "date": "4月中の毎週土日",
+      "place": "カカアコ・パークほか複数会場（オアフ島）",
+      "link": "https://www.honolulugov.org",
       "free": true
+    },
+    {
+      "title": "ハナウマ湾でのシュノーケリング＆ビーチアクティビティ",
+      "description": "海洋生物保護区での安全なシュノーケリング。4月は温かく穏やかで、初心者向けのビーチプログラムも開催されます。",
+      "date": "4月通年（毎日）",
+      "place": "ハナウマ湾（オアフ島、ホノルル）",
+      "link": "https://www.honolulu.gov/parks/facility-profiles/373-hanauma-bay-nature-preserve.html",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:27:10.105Z"
+  "updatedAt": "2026-04-27T01:22:23.911Z"
 }

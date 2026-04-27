@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム国際児童映画祭（Stockholm International Film Festival for Children）",
-      "description": "4月に開催される北欧最大級の子ども向け映画祭。世界中から選りすぐりの子ども映画が上映され、家族で楽しめるコンテンツが豊富です。",
-      "date": "4月中旬～下旬",
-      "place": "ストックホルム市内複数映画館",
-      "link": "https://www.stockholmfilmfestival.se/",
+      "title": "春の花まつり（Stockholms Blommor）",
+      "description": "ストックホルム各地でチューリップ、桜、水仙が咲き誇る季節。キングス庭園やスキャンセン周辺で春の花々が楽しめ、子どもたちが自然を学べます。",
+      "date": "4月上旬〜下旬",
+      "place": "キングス庭園（Kungsträdgården）、スキャンセン周辺",
+      "link": "https://www.visitstockholm.com",
+      "free": true
+    },
+    {
+      "title": "スキャンセン春季イベント・動物園",
+      "description": "北欧最大の野外博物館・動物園。春生まれの子動物たちが見られ、伝統的な農場体験や子ども向けワークショップが開催されます。",
+      "date": "4月上旬〜下旬",
+      "place": "スキャンセン（Skansen）、Djurgårdsvägen 49-51",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "春の花見（桜・チューリップ）- スキンナヴィケン公園",
-      "description": "4月下旬～5月上旬、スキンナヴィケン公園で桜とチューリップが咲き誇ります。ピクニックに最適で、屋外での春の自然を家族で満喫できます。",
-      "date": "4月下旬～5月上旬",
-      "place": "Skinnarviken Park, Södermalm, Stockholm",
-      "link": "https://www.visitstockholm.com/",
-      "free": true
-    },
-    {
-      "title": "ユーランデルスパーケン公園での春まつり（Easter activities）",
-      "description": "4月上旬のイースター時期に、ユーランデルスパーケン公園でイースターエッグハント、動物ふれあいコーナーなど子ども向けプログラムが開催されます。",
-      "date": "4月上旬（イースター前後）",
-      "place": "Urilandsparken, Järvafältet, Stockholm",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "スカンセン野外博物館の春イベント",
-      "description": "スウェーデン伝統文化を学べる屋外博物館で、春の動物たちの活動、昔ながらの手工芸ワークショップなど子ども向けプログラムが充実しています。",
-      "date": "4月全期間",
-      "place": "Skansen, Djurgården, Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "ヴァーサ博物館の子ども向けプログラム",
+      "description": "17世紀の戦艦ヴァーサを見学。春季に特別な子ども向けガイドツアーやクイズラリーが実施され、楽しく海洋史が学べます。",
+      "date": "4月通年",
+      "place": "ヴァーサ博物館（Vasamuseet）、Galärvägen 14",
+      "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ノルマルム地区の春マーケット（Stortorget Spring Fair）",
-      "description": "ストックホルム旧市街で開催される春マーケット。地元の手作り品、おもちゃ、グルメ屋台があり、家族連れで歩いて楽しめます。",
-      "date": "4月中旬～下旬（週末開催）",
-      "place": "Stortorget, Gamla Stan, Stockholm",
-      "link": "https://www.visitstockholm.com/",
+      "title": "ジュルゴーデン島のサイクリング・ハイキング",
+      "description": "緑豊かなジュルゴーデン島で、春の季節風を感じながら家族でサイクリングやハイキング。遊び場も多く、子どもも楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "ジュルゴーデン島（Djurgården）",
+      "link": "https://www.visitstockholm.com",
       "free": true
+    },
+    {
+      "title": "ストックホルム子ども博物館（Junibacken）の春企画",
+      "description": "児童文学を題材にした体験型博物館。春の特別展示や、スウェーデン文化を子ども向けに紹介するワークショップが開催されます。",
+      "date": "4月通年",
+      "place": "ユーニバッケン（Junibacken）、Galärvägen 14",
+      "link": "https://www.junibacken.se",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:26:31.470Z"
+  "updatedAt": "2026-04-27T01:21:45.146Z"
 }

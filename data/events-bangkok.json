@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソンクラーン（タイ正月）",
-      "description": "タイの伝統的な水かけ祭り。子どもたちが楽しめる水遊びイベントが市内各所で開催。路上での水かけ遊びやパレードなどで家族で楽しめます。",
-      "date": "4月13日～15日",
-      "place": "バンコク市内全域（シーロム通り、ラチャダムヌーン通りなど）",
-      "link": "https://www.tatler.com/article/songkran-festival-bangkok",
+      "title": "ソンクラン（タイ正月）",
+      "description": "水かけ祭りとして知られるタイの正月。街中での水かけ遊びや寺院での儀式など、子どもたちが楽しめる伝統行事。家族向けの安全なエリアが多く設置されます。",
+      "date": "4月13日〜15日（毎年同日）",
+      "place": "バンコク全域（シーロム通り、カオサン通り、ルンピニ公園など）",
+      "link": "https://www.tatnews.org/en/",
       "free": true
     },
     {
-      "title": "ルンピニ公園での野外活動と自然観察",
-      "description": "バンコク最大級の公園。4月は朝夕涼しく、子どもたちが走り回ったり、池の水鳥観察ができます。屋外運動施設も充実。",
-      "date": "4月上旬～下旬",
-      "place": "ルンピニ公園（Lumphini Park）、Rama IV Rd, Pathum Wan District",
-      "link": "https://www.bangkok.go.th/en/web/guest/lumphini-park",
-      "free": true
-    },
-    {
-      "title": "キッザニア・バンコク特別プログラム",
-      "description": "子ども向け職業体験施設。4月の学校休暇期間に特別プログラムが実施されます。80以上の仕事体験で子どもたちが学びながら遊べます。",
-      "date": "4月上旬～下旬（学校休暇期間）",
-      "place": "キッザニア・バンコク、The Emporium Bangkok 6階、622 Sukhumvit Rd, Phra Khanong District",
-      "link": "https://www.kidzania.com/thailand",
-      "free": false
-    },
-    {
-      "title": "サイアム・オーシャン・ワールド春季特別展示",
-      "description": "東南アジア最大級の水族館。春季の特別企画展や子ども向けトークショーが開催。熱帯魚や海洋生物の学習が楽しめます。",
-      "date": "4月上旬～下旬",
-      "place": "サイアム・オーシャン・ワールド、Siam Paragon B1, 991 Rama I Rd, Pathumwan District",
-      "link": "https://www.siamoceanworld.com",
-      "free": false
-    },
-    {
-      "title": "チャトゥチャック・ウィークエンド・マーケット子ども向けエリア",
-      "description": "世界最大級の週末市場。子ども向けのおもちゃ、衣類、食べ物が豊富。家族で買い物を楽しみながら市場文化を体験できます。",
+      "title": "チャトゥチャック・ウィークエンド・マーケット（特別プログラム期間）",
+      "description": "東南アジア最大級のマーケット。4月の週末は子ども向けの工作教室やゲームイベントが開催。ペット広場やキッズコーナーも充実しており、家族で丸一日楽しめます。",
       "date": "4月の毎週土日",
-      "place": "チャトゥチャック・ウィークエンド・マーケット、Chatuchak, Bangkok 10900",
-      "link": "https://www.chatuchakmarket.org",
+      "place": "チャトゥチャック・ウィークエンド・マーケット、モーチット地区",
+      "link": "https://www.chatuchakmarket.com/",
       "free": true
+    },
+    {
+      "title": "サイアム・パラゴン（AquariumスペシャルKidsプログラム）",
+      "description": "バンコク最大級の水族館。4月はKidsウィークとして教育プログラムや餌やり体験が開催。海の生き物について学べるワークショップが充実しています。",
+      "date": "4月下旬（期間限定）",
+      "place": "サイアム・パラゴン・水族館、フロアB（BTSサイアム駅直結）",
+      "link": "https://www.siamaquarium.com/",
+      "free": false
+    },
+    {
+      "title": "ルンピニ公園でのジョギング・サイクリング・ピクニック",
+      "description": "バンコク最大級の公園。4月の早朝は比較的涼しく、家族でのピクニックやサイクリングに最適。遊具広場も整備されており、子どもたちが安全に遊べます。",
+      "date": "4月上旬〜下旬（毎日、早朝推奨）",
+      "place": "ルンピニ公園（BTSサラデーン駅またはMRTシーロム駅近く）",
+      "link": "https://www.bangkok.go.th/",
+      "free": true
+    },
+    {
+      "title": "キッザニア・バンコク（シーズンイベント）",
+      "description": "子どもが様々な職業体験できる施設。4月は春休みシーズンの特別プログラムが展開。新しい職業体験コーナーが追加される場合もあります。",
+      "date": "4月通年（春休みシーズン特別営業）",
+      "place": "キッザニア・バンコク、エンポリウムビル（BTSプルンチット駅近く）",
+      "link": "https://www.kidzania.com/th",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:26:47.228Z"
+  "updatedAt": "2026-04-27T01:22:01.316Z"
 }

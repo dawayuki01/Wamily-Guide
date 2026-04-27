@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Poppy Super Bloom（ポピーの花見）",
-      "description": "南カリフォルニアの野生のオレンジ色のケシが咲き誇る季節。lancaster近郊やAntelope Valley Poppy Reserve で自然の中でハイキングや写真撮影が楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "Antelope Valley California Poppy Reserve, 15101 West Lancaster Road, Lancaster, CA 93536",
-      "link": "https://www.parks.ca.gov/?page_id=627",
+      "title": "ロサンゼルス・フラワー・マーケット（春の花祭り）",
+      "description": "春の季節限定で、カラフルな花々や植物が販売される市場。親子で花を選んだり、ガーデニング体験ができます。屋外で季節の香りを感じられます。",
+      "date": "4月上旬〜下旬（通年営業、春は特に開花が美しい時期）",
+      "place": "Los Angeles Flower Market, 766 Wall Street, Los Angeles, CA 90014",
+      "link": "https://www.laflowermarket.com",
       "free": true
     },
     {
-      "title": "Los Angeles Times Festival of Books",
-      "description": "南カリフォルニア最大の書籍フェスティバル。USC キャンパスで開催。子ども向けのワークショップ、読み聞かせ、アクティビティ多数。家族連れで楽しめます。",
-      "date": "4月中旬",
-      "place": "University of Southern California Campus, Los Angeles, CA",
-      "link": "https://events.latimes.com/los-angeles-times-festival-of-books/",
+      "title": "グリフィス天文台イースター・エッグ・ハント",
+      "description": "グリフィス天文台周辺で開催されるイースター関連のイベント。子どもたちが卵を探すアクティビティや、天文台の展示見学も楽しめます。",
+      "date": "4月上旬〜中旬（イースター時期）",
+      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "San Fernando Valley Wildflower Festival",
-      "description": "春の野生花が咲き誇る季節を祝うイベント。ガイド付きネイチャーハイク、教育プログラム、子ども向けアクティビティが充実。自然学習に最適です。",
-      "date": "4月上旬〜中旬",
-      "place": "Sepulveda Basin Wildlife Reserve, Los Angeles, CA",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "Griffith Observatory Spring Programs",
-      "description": "グリフィス天文台の春の特別プログラム。プラネタリウムショーや展示、子ども向けの宇宙教育ワークショップ。見晴らしの良い公園でも遊べます。",
-      "date": "4月全期間",
-      "place": "Griffith Observatory, 2800 East Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
+      "title": "LA Zoo春のアクティビティプログラム",
+      "description": "ロサンゼルス動物園で春限定の子ども向けプログラムが開催されます。動物との触れ合いやエデュケーショナルガイドツアーで、親子で楽しく学べます。",
+      "date": "4月上旬〜下旬",
+      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
       "free": false
     },
     {
-      "title": "Descanso Gardens Spring Blooms & Kids Programs",
-      "description": "美しい庭園で春の花々が満開。チューリップ、藤、桜などが咲き誇ります。子ども向けガイドツアーや家族プログラムも実施中。",
-      "date": "4月全期間",
-      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org/",
+      "title": "ハンティントン・ライブラリーの春イベント",
+      "description": "庭園美術館で春花が見ごろ。子ども向けワークショップや自然観察プログラムが開催されます。美しい春の庭園を散策できます。",
+      "date": "4月上旬〜下旬",
+      "place": "The Huntington Library, 1151 Oxford Road, San Marino, CA 91108",
+      "link": "https://www.huntington.org",
       "free": false
+    },
+    {
+      "title": "Santa Monica Pier春祭り・ハイキング",
+      "description": "サンタモニカペアでの屋外アクティビティと春祭りイベント。海沿いのハイキング、ビーチでの遊び、アミューズメント施設を家族で楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-13T07:27:02.489Z"
+  "updatedAt": "2026-04-27T01:22:15.651Z"
 }
