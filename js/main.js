@@ -33,13 +33,21 @@ function initTabs() {
       const target = document.getElementById(btn.dataset.tab);
       if (target) target.classList.add('active');
 
-      // Google Maps は非表示タブから表示されると崩れるため resize を発火
-      if (btn.dataset.tab === 'tab-enjoy' && window.google && window.google.maps) {
-        const mapEl = document.getElementById('spots-map');
-        if (mapEl && mapEl._googleMap) {
-          setTimeout(() => {
-            window.google.maps.event.trigger(mapEl._googleMap, 'resize');
-          }, 50);
+      // 「現地で楽しむ」タブの処理：初回は Maps API を遅延ロード、2回目以降は resize 発火
+      if (btn.dataset.tab === 'tab-enjoy') {
+        const mapData = window._wamilyMapData;
+        if (mapData && !window._wamilyMapInitialized && typeof window.initSpotsMap === 'function') {
+          // 初回：ここで初めて Google Maps API + 地図描画
+          window._wamilyMapInitialized = true;
+          window.initSpotsMap(mapData.spots, mapData.slug);
+        } else if (window.google && window.google.maps) {
+          // 2回目以降：非表示タブから表示されると崩れるため resize を発火
+          const mapEl = document.getElementById('spots-map');
+          if (mapEl && mapEl._googleMap) {
+            setTimeout(() => {
+              window.google.maps.event.trigger(mapEl._googleMap, 'resize');
+            }, 50);
+          }
         }
       }
     });

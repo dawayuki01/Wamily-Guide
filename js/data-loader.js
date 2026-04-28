@@ -272,8 +272,14 @@
         }
       }
 
-      // Google Maps スポット地図を初期化
-      if (typeof window.initSpotsMap === 'function') {
+      // Google Maps スポット地図は「現地で楽しむ」タブが開かれた時に遅延ロード
+      // （main.js の initTabs() で _wamilyMapData を読んで初期化）
+      window._wamilyMapData = { spots: spots, slug: slug };
+
+      // 既にスポットタブが開かれている場合（URL ハッシュ等）はすぐ初期化
+      var enjoyTab = document.getElementById('tab-enjoy');
+      if (enjoyTab && enjoyTab.classList.contains('active') && typeof window.initSpotsMap === 'function') {
+        window._wamilyMapInitialized = true;
         window.initSpotsMap(spots, slug);
       }
     } catch (e) {
