@@ -3,3 +3,4 @@ node_modules/
 .claude/worktrees/
 *.log
 assets/images/owner.jpg*
+assets/images/concept_image_original/
