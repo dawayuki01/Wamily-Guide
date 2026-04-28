@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（春の花祭り）",
-      "description": "春の季節限定で、カラフルな花々や植物が販売される市場。親子で花を選んだり、ガーデニング体験ができます。屋外で季節の香りを感じられます。",
-      "date": "4月上旬〜下旬（通年営業、春は特に開花が美しい時期）",
-      "place": "Los Angeles Flower Market, 766 Wall Street, Los Angeles, CA 90014",
-      "link": "https://www.laflowermarket.com",
+      "title": "ロサンゼルス・フラワー・フェスティバル",
+      "description": "春の花々が咲き誇る季節に開催される花の祭典。カラフルな花の展示やワークショップ、フォトスポットなど子ども向けアクティビティが豊富です。",
+      "date": "4月上旬～中旬",
+      "place": "ダウンタウン・ロサンゼルス（Grand Park周辺）",
+      "link": "https://www.visitla.com/",
       "free": true
     },
     {
-      "title": "グリフィス天文台イースター・エッグ・ハント",
-      "description": "グリフィス天文台周辺で開催されるイースター関連のイベント。子どもたちが卵を探すアクティビティや、天文台の展示見学も楽しめます。",
-      "date": "4月上旬〜中旬（イースター時期）",
-      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "title": "グリフィス天文台 春の特別プログラム",
+      "description": "天体観測と科学教育プログラム。子ども向けプラネタリウムショーや春の星座解説が開催されます。無料入園で屋外の展望台からロサンゼルスの景色も堪能できます。",
+      "date": "4月上旬～下旬",
+      "place": "Griffith Observatory, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "LA Zoo春のアクティビティプログラム",
-      "description": "ロサンゼルス動物園で春限定の子ども向けプログラムが開催されます。動物との触れ合いやエデュケーショナルガイドツアーで、親子で楽しく学べます。",
-      "date": "4月上旬〜下旬",
-      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "title": "サンタモニカ・ピアのスプリング・フェスティバル",
+      "description": "遊園地乗り物、ゲーム、グルメが楽しめる春のフェスティバル。太平洋の景色を楽しみながら家族で1日過ごせるアクティビティが充実しています。",
+      "date": "4月中旬～下旬",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
       "free": false
     },
     {
-      "title": "ハンティントン・ライブラリーの春イベント",
-      "description": "庭園美術館で春花が見ごろ。子ども向けワークショップや自然観察プログラムが開催されます。美しい春の庭園を散策できます。",
-      "date": "4月上旬〜下旬",
-      "place": "The Huntington Library, 1151 Oxford Road, San Marino, CA 91108",
-      "link": "https://www.huntington.org",
+      "title": "パサデナ・チューリップ・タイム",
+      "description": "春の花々が満開になるパサデナ地域での野外鑑賞。ボタニカルガーデンや公園でのフォトウォーク、ピクニックに最適な季節です。",
+      "date": "4月中旬～下旬",
+      "place": "Descanso Gardens, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org/",
       "free": false
     },
     {
-      "title": "Santa Monica Pier春祭り・ハイキング",
-      "description": "サンタモニカペアでの屋外アクティビティと春祭りイベント。海沿いのハイキング、ビーチでの遊び、アミューズメント施設を家族で楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
-      "free": true
+      "title": "ロサンゼルス自然史博物館 春の特別展示",
+      "description": "恐竜展示やインタラクティブ展示など子ども向けプログラムが充実。春限定のワークショップやスクリーン・シアターで科学への興味を引き出します。",
+      "date": "4月上旬～下旬",
+      "place": "Natural History Museum of Los Angeles County, 900 Exposition Boulevard, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-27T01:22:15.651Z"
+  "updatedAt": "2026-04-28T01:28:53.992Z"
 }

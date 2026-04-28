@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "春の花まつり（Stockholms Blommor）",
-      "description": "ストックホルム各地でチューリップ、桜、水仙が咲き誇る季節。キングス庭園やスキャンセン周辺で春の花々が楽しめ、子どもたちが自然を学べます。",
-      "date": "4月上旬〜下旬",
-      "place": "キングス庭園（Kungsträdgården）、スキャンセン周辺",
-      "link": "https://www.visitstockholm.com",
+      "title": "春の桜祭り（Körsbärsblomningen）",
+      "description": "ストックホルムの公園で桜が満開になる季節。DjurgårdenやKungsholmenの桜の並木道を散策でき、ピクニックに最適。地元の春の訪れを感じられます。",
+      "date": "4月中旬〜下旬",
+      "place": "Djurgården、Kungsholmen周辺",
+      "link": "https://www.stockholm.se",
       "free": true
     },
     {
-      "title": "スキャンセン春季イベント・動物園",
-      "description": "北欧最大の野外博物館・動物園。春生まれの子動物たちが見られ、伝統的な農場体験や子ども向けワークショップが開催されます。",
+      "title": "スカンセン動物園の春イベント",
+      "description": "北欧の動物園で子どもたちが動物との触れ合いを楽しめます。春特別プログラムで子ども向けワークショップやガイドツアーが開催されます。",
       "date": "4月上旬〜下旬",
-      "place": "スキャンセン（Skansen）、Djurgårdsvägen 49-51",
+      "place": "Djurgården, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
       "title": "ヴァーサ博物館の子ども向けプログラム",
-      "description": "17世紀の戦艦ヴァーサを見学。春季に特別な子ども向けガイドツアーやクイズラリーが実施され、楽しく海洋史が学べます。",
-      "date": "4月通年",
-      "place": "ヴァーサ博物館（Vasamuseet）、Galärvägen 14",
+      "description": "17世紀の軍艦ヴァーサを展示。春期間に家族向けワークショップやスカベンジャーハントが開催され、子どもたちが楽しく学べます。",
+      "date": "4月全般",
+      "place": "Galärvarvsvägen 14, 115 21 Stockholm",
       "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ジュルゴーデン島のサイクリング・ハイキング",
-      "description": "緑豊かなジュルゴーデン島で、春の季節風を感じながら家族でサイクリングやハイキング。遊び場も多く、子どもも楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "ジュルゴーデン島（Djurgården）",
-      "link": "https://www.visitstockholm.com",
+      "title": "オストマルム屋外マーケット（Ostermalmstorg）",
+      "description": "春らしい地元野菜や花、食べ物が並ぶマーケット。子どもと一緒に散策しながら地元の春の恵みを体験でき、カフェでリラックスも。",
+      "date": "4月全般（週末中心）",
+      "place": "Östermalm torg, Stockholm",
+      "link": "",
       "free": true
     },
     {
-      "title": "ストックホルム子ども博物館（Junibacken）の春企画",
-      "description": "児童文学を題材にした体験型博物館。春の特別展示や、スウェーデン文化を子ども向けに紹介するワークショップが開催されます。",
-      "date": "4月通年",
-      "place": "ユーニバッケン（Junibacken）、Galärvägen 14",
-      "link": "https://www.junibacken.se",
-      "free": false
+      "title": "ユーランの島での自然散策と遊び場",
+      "description": "ストックホルム郊外の森の島。春の新緑の中でハイキングや自然遊びが楽しめ、子ども向けの遊具やピクニックエリアも充実しています。",
+      "date": "4月中旬〜下旬",
+      "place": "Ekoparken nature reserve, Stockholm vicinity",
+      "link": "https://www.ekoparken.se",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-27T01:21:45.146Z"
+  "updatedAt": "2026-04-28T01:28:23.401Z"
 }

@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
-      "description": "アジア最大級のガーデンフェスティバル。色鮮やかな花々の展示、ガーデンショー、子ども向けワークショップが開催される屋外イベント。家族で楽しめます。",
+      "description": "4月にシンガポール植物園で開催される花と園芸の祭典。色彩豊かな花壇展示、ガーデンショー、子ども向けワークショップなどが楽しめます。",
       "date": "4月中旬〜下旬",
-      "place": "シンガポール植物園（Singapore Botanic Gardens）、1 Cluny Road, Singapore 259569",
-      "link": "https://www.gardensfestival.com.sg/",
+      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
+      "link": "https://www.gardensfestival.sg",
       "free": false
     },
     {
-      "title": "East Coast Park ビーチアクティビティ",
-      "description": "シンガポール最大のビーチ公園。4月は乾季で晴天が多く、子ども向け水遊びゾーン、自転車レンタル、砂浜での遊びが楽しめます。",
-      "date": "4月全期間",
+      "title": "East Coast Park ビーチ・アクティビティ",
+      "description": "シンガポール最大のビーチパーク。砂浜での水遊び、自転車レンタル、ピクニック。4月は温暖で屋外活動に最適な季節。無料で楽しめます。",
+      "date": "4月上旬〜下旬通年",
       "place": "East Coast Park, East Coast Parkway, Singapore",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Singapore Zoo春のキーパー・トーク＆子ども向けプログラム",
-      "description": "シンガポール動物園の季節プログラム。飼育員による動物の解説、触れ合い体験、子ども向けの特別教育ワークショップが開催されます。",
-      "date": "4月全期間",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.singaporezoo.com/",
+      "title": "S.E.A. Aquarium キッズプログラム",
+      "description": "セントーサ島の巨大水族館。4月は春休みプログラムで子ども向けの教育ワークショップやタッチプール体験が充実。海洋生物の学習ツアーも開催。",
+      "date": "4月上旬〜下旬",
+      "place": "S.E.A. Aquarium, 8 Sentosa Gateway, Sentosa Island, Singapore 098269",
+      "link": "https://www.seaaquarium.sg",
       "free": false
     },
     {
-      "title": "Chingay Parade（チンゲイ・パレード）関連イベント",
-      "description": "シンガポール最大級の多文化パレード。4月中旬に本パレードが開催。カラフルな山車、パフォーマンス、家族向けのプレイベントで賑わいます。",
-      "date": "4月中旬",
-      "place": "Orchard Road周辺、シンガポール市街地",
-      "link": "https://www.chingay.com.sg/",
+      "title": "Chingay Parade（チンゲイパレード）",
+      "description": "中国旧正月を祝う大規模パレード。3月下旬〜4月初旬開催。子どもが楽しめるカラフルな山車、パフォーマンス、ストリート屋台など。無料で観覧可能。",
+      "date": "4月初旬（2026年は3月29日予定）",
+      "place": "Orchard Road / Marina Bay エリア",
+      "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "National Museum Singapore 子ども向け特別展示・ワークショップ",
-      "description": "シンガポール国立博物館の季節プログラム。子ども向けの対話型展示、クリエイティブワークショップ、家族ツアーが開催される文化施設。",
-      "date": "4月全期間",
-      "place": "National Museum Singapore, 93 Stamford Road, Singapore 178897",
-      "link": "https://www.nationalmuseum.sg/",
+      "title": "Singapore Zoo キッズフィーディングプログラム",
+      "description": "動物園での餌やり体験や、キーパーと一緒に動物を学ぶプログラム。4月は動物が活発に活動する季節で、特に朝の訪問がおすすめ。",
+      "date": "4月上旬〜下旬通年",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.singaporezoo.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-27T01:21:52.575Z"
+  "updatedAt": "2026-04-28T01:28:31.108Z"
 }

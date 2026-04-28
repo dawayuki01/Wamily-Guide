@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フローラルカーニバル（Hong Kong Flower Show）",
-      "description": "春の香港を彩る花の祭典。色彩豊かな花壇展示、家族向けワークショップ、キッズゾーンでの遊び場があり、乳幼児から小学生まで楽しめます。",
-      "date": "4月上旬～中旬",
-      "place": "香港公園（Hong Kong Park）、Admiralty",
-      "link": "https://www.lcsd.gov.hk/",
-      "free": false
+      "title": "チューリップフェスティバル＆春の花展",
+      "description": "香港植物園でチューリップやバラなど春の花々が見頃。色鮮やかな花園を散策でき、子どもも楽しめます。無料で入園できます。",
+      "date": "4月上旬〜中旬",
+      "place": "香港植物園（Hong Kong Botanical Garden）、香港島セントラル",
+      "link": "https://www.lcsd.gov.hk/en/parks/hkbg/index.php",
+      "free": true
     },
     {
-      "title": "ビクトリアハーバー無料散策・パークランド遊び",
-      "description": "春の気候に恵まれた4月、ビクトリアハーバーの景観を無料で楽しめます。スターフェリー乗船体験や沿岸の公園で子どもたちが安全に遊べます。",
+      "title": "ハイキング・郊野公園探検",
+      "description": "ビクトリアピークハイキングやスターフェリー周辺のトレイルで自然を満喫。4月は気候が良く、子ども向けの短いコース多数。無料。",
       "date": "4月全期間",
-      "place": "ビクトリアハーバー沿岸（Central, Tsim Sha Tsui）",
+      "place": "ビクトリアピーク、郊野公園各地（香港全域）",
       "link": "https://www.discoverhongkong.com/",
       "free": true
     },
     {
-      "title": "スターフェリー乗船体験＆シンフォニー・オブ・ライツ",
-      "description": "香港を代表する星渡輪での移動は子ども向けアドベンチャー。夜間の光と音のショーは家族で楽しめる無料のスペクタクル体験です。",
-      "date": "4月全期間（毎晩開催）",
-      "place": "スターフェリー乗り場（Central Pier 7など）",
-      "link": "https://www.starferry.com.hk/",
-      "free": false
-    },
-    {
-      "title": "香港ディズニーランド春のスペシャルイベント",
-      "description": "4月の香港ディズニーランドでは春のテーマパークイベントが開催。キャラクターグリーティング、季節限定ショー、子ども向けアトラクションが充実しています。",
+      "title": "香港迪士尼樂園 春季スペシャルイベント",
+      "description": "春をテーマにしたパレードやキャラクターグリーティング。子ども向けアトラクション、乗り物多数。家族向けの特別プログラムあり。",
       "date": "4月全期間",
-      "place": "香港ディズニーランド（Lantau Island）",
+      "place": "香港ディズニーランド、ランタオ島",
       "link": "https://www.hongkongdisneyland.com/",
       "free": false
     },
     {
-      "title": "スターハウス周辺マーケット・ローカル体験",
-      "description": "春の香港の地元マーケットで季節の食材やおもちゃを購入。子どもがローカル文化を体験できる無料の散策スポット。家族向けのカジュアルな雰囲気です。",
-      "date": "4月全期間（毎日営業）",
-      "place": "香港各地のウェットマーケット（旺角、銅鑼湾など）",
-      "link": "",
-      "free": true
+      "title": "イースターフェスティバル＆イベント",
+      "description": "各ショッピングモールやテーマパークでイースター関連イベント開催。エッグハント、キャラクターグリーティング、特別プログラムが子どもに人気。",
+      "date": "4月（イースター時期、2026年4月5日前後）",
+      "place": "各商業施設・テーマパーク（IFC、タイムズスクエアなど）",
+      "link": "https://www.discoverhongkong.com/en/whats-on.html",
+      "free": false
+    },
+    {
+      "title": "スターフェリー乗船体験＆ビクトリアハーバー観光",
+      "description": "100年以上の歴史を持つスターフェリーで香港島と九龍を移動。海上からの眺望、スターフェリー博物館見学も。子どもにも人気。安価。",
+      "date": "4月全期間",
+      "place": "スターフェリー乗り場（セントラル、ツィムシャツイ）",
+      "link": "https://www.starferry.com.hk/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-27T01:22:39.924Z"
+  "updatedAt": "2026-04-28T01:29:17.737Z"
 }

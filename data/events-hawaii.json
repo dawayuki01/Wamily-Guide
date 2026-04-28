@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "メリーモナークフェスティバル",
-      "description": "ハワイアン文化を祝う国際的なフラ・フェスティバル。コンペティション、パレード、展示があり、子どもたちも伝統文化を学べます。",
-      "date": "4月上旬（毎年3月末〜4月上旬）",
-      "place": "エディス・カナカオレ・スタジアム、ハイロ（ハワイ島）",
-      "link": "https://www.merriemonarchfestival.org",
+      "title": "メリーモナーク・フェスティバル（Merrie Monarch Festival）",
+      "description": "ハワイ文化を代表するフラの祭典。パレードやフラコンペティションがあり、子どもも楽しめるハワイアンカルチャーを体験できます。",
+      "date": "4月中旬",
+      "place": "ハワイ島 ヒロ",
+      "link": "https://www.merriemonarch.org/",
       "free": false
     },
     {
-      "title": "ハワイ火山国立公園の無料開園日＆ハイキング",
-      "description": "キラウエア火山の迫力ある景観を家族で体験。4月は降雨量も比較的少なく、屋外活動に最適。子ども向けトレイルコースもあります。",
-      "date": "4月通年",
-      "place": "ハワイ火山国立公園（ハワイ島）",
-      "link": "https://www.nps.gov/havo",
+      "title": "ホノルル・フェスティバル・パレード（Honolulu Festival Parade）",
+      "description": "毎年4月開催。色鮮やかなフロート、和太鼓パフォーマンス、ダンスが楽しめる大規模パレード。沿道での観覧は無料です。",
+      "date": "4月第2週末",
+      "place": "オアフ島 ワイキキ〜ダウンタウン",
+      "link": "https://www.honolulufestival.com/",
       "free": true
     },
     {
-      "title": "オアフ島・キャンプ・フェア・ファンタジー",
-      "description": "ホノルル動物園で開催。親子向けの教育的でインタラクティブな動物体験プログラムと屋外アクティビティが豊富です。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "ホノルル動物園（オアフ島）",
-      "link": "https://www.honoluluzoo.org",
+      "title": "ワイキキ水族館（Waikiki Aquarium）春休み特別プログラム",
+      "description": "乳幼児から小学生向けのタッチプール体験やスタッフによる海洋生物の解説など、春休み限定のキッズプログラムが充実しています。",
+      "date": "4月上旬〜下旬",
+      "place": "オアフ島 ワイキキ（2777 Kalakaua Ave）",
+      "link": "https://www.waikikiaquarium.org/",
       "free": false
     },
     {
-      "title": "キプー・ホイ・マーケット（フリマ・ファーマーズマーケット）",
-      "description": "ローカル野菜、工芸品、キッズ向けアクティビティが充実。家族向けの雰囲気で、ハワイの生活文化を体験できます。",
-      "date": "4月中の毎週土日",
-      "place": "カカアコ・パークほか複数会場（オアフ島）",
-      "link": "https://www.honolulugov.org",
+      "title": "KCC ファーマーズ・マーケット（KCC Farmers Market）",
+      "description": "毎週土曜朝開催の地元農産物・フードマーケット。新鮮なフルーツやローカルフード、子ども向けの食べ物が豊富。無料で楽しめます。",
+      "date": "4月毎週土曜",
+      "place": "オアフ島 カピオラニ公園周辺（2731 Woodlawn Dr）",
+      "link": "https://www.honolulufarmersmarkets.com/",
       "free": true
     },
     {
-      "title": "ハナウマ湾でのシュノーケリング＆ビーチアクティビティ",
-      "description": "海洋生物保護区での安全なシュノーケリング。4月は温かく穏やかで、初心者向けのビーチプログラムも開催されます。",
-      "date": "4月通年（毎日）",
-      "place": "ハナウマ湾（オアフ島、ホノルル）",
-      "link": "https://www.honolulu.gov/parks/facility-profiles/373-hanauma-bay-nature-preserve.html",
+      "title": "ダイヤモンドヘッド・ハイキング（Diamond Head State Monument）",
+      "description": "子連れ向けの適度な難易度。4月は天気が良く気温も快適。頂上からの眺望は素晴らしく、家族で絶景を楽しめます。",
+      "date": "4月上旬〜下旬（毎日）",
+      "place": "オアフ島 ワイキキ（3908 Diamond Head Rd）",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-27T01:22:23.911Z"
+  "updatedAt": "2026-04-28T01:29:02.110Z"
 }

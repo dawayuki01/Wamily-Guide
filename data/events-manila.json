@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Summer Fiesta 2026",
-      "description": "マニラの各地で開催される夏祭り。子ども向けのゲーム、フード屋台、ライブパフォーマンスが楽しめ、家族連れで賑わいます。",
-      "date": "4月中旬〜下旬",
-      "place": "マニラ各地（Luneta Park周辺など）",
+      "title": "Summer Festival at Manila Bay",
+      "description": "4月はマニラの夏季開幕。マニラベイ周辺で開催される水遊びイベントやファミリー向けフェスティバル。カラフルな装飾、キッズゲーム、地元フード。",
+      "date": "4月上旬〜下旬",
+      "place": "Manila Bay Area, Manila",
       "link": "",
       "free": true
     },
     {
-      "title": "Manila Ocean Park",
-      "description": "海洋生物園で、イルカショーやシーライオンパフォーマンス、タッチプール体験など、子どもたちが海の生き物を学べるアクティビティが充実。",
-      "date": "4月通年営業",
-      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
-      "link": "https://www.manillaoceanpark.com",
+      "title": "Philippine Children's Museum Special Programs",
+      "description": "子どもたちのための専門施設。4月は季節特別プログラム（科学体験、アート工作、手遊びコーナー）を展開。乳幼児から小学生向けの対話型展示。",
+      "date": "4月通年",
+      "place": "3rd Floor, Museo Pambata Building, East Avenue, Quezon City",
+      "link": "https://www.museobata.org.ph/",
       "free": false
     },
     {
-      "title": "Luneta Park（リサール公園）散策",
-      "description": "マニラの緑地公園で、広場でのピクニック、子ども向け遊具、池での景観楽しめます。4月は乾季で天気良好。入園無料で家族向けの屋外活動に最適です。",
-      "date": "4月通年営業",
-      "place": "Luneta Park, Roxas Boulevard, Manila",
-      "link": "https://www.tourism.gov.ph",
+      "title": "Picnic at Rizal Park",
+      "description": "フィリピン最大の都市公園。4月の晴天時に家族でピクニック。広い芝生、遊具、バイシクル貸出、博物館。無料で自然を楽しめます。",
+      "date": "4月上旬〜下旬",
+      "place": "Rizal Park, Magsaysay Avenue, Manila",
+      "link": "https://www.nps.gov.ph/",
       "free": true
     },
     {
-      "title": "SMモール・オブ・アジア キッズイベント",
-      "description": "大型ショッピングモールで開催される子ども向けのワークショップ、キャラクターミートアンドグリート、工作教室などの季節プログラムが実施されます。",
-      "date": "4月中旬〜下旬",
-      "place": "SM Mall of Asia, Pasay City",
-      "link": "https://www.smmallofasia.com.ph",
+      "title": "Easter Celebration at Intramuros",
+      "description": "マニラ旧市街での復活祭イベント。4月の時期に宗教行列、ファミリー向けパレード、地元工芸品マーケット、キッズ体験コーナーが開催。",
+      "date": "4月上旬（イースター時期）",
+      "place": "Intramuros, Manila",
+      "link": "https://www.intramuros.gov.ph/",
       "free": true
     },
     {
-      "title": "Enchanted Kingdom",
-      "description": "テーマパークの春キャンペーンで、子ども向けの乗り物、キャラクターショー、特別アトラクションが企画されます。家族向けアクティビティが盛りだくさん。",
-      "date": "4月通年営業",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
-      "link": "https://www.enchantedkingdom.ph",
+      "title": "Star City Theme Park - Summer Programs",
+      "description": "フィリピン最大級の遊園地。4月は子ども向け割引キャンペーン、新アトラクション体験が開催。ジェットコースターから幼児向けライドまで。",
+      "date": "4月通年",
+      "place": "EDSA, cor. Araneta Avenue, Cubao, Quezon City",
+      "link": "https://www.star-city.com.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-27T01:22:08.198Z"
+  "updatedAt": "2026-04-28T01:28:46.741Z"
 }
