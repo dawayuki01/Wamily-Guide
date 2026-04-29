@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
-      "description": "4月にシンガポール植物園で開催される花と園芸の祭典。色彩豊かな花壇展示、ガーデンショー、子ども向けワークショップなどが楽しめます。",
+      "title": "Singapore Gardens Festival 2026",
+      "description": "シンガポールの主要ガーデンを舞台にした花と緑の祭典。子ども向けワークショップ、フラワーアレンジメント体験、ガーデンツアーなどが開催されます。",
       "date": "4月中旬〜下旬",
-      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
-      "link": "https://www.gardensfestival.sg",
+      "place": "Singapore Botanic Gardens及びメリライオン公園周辺",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/singapore-botanic-gardens",
       "free": false
     },
     {
-      "title": "East Coast Park ビーチ・アクティビティ",
-      "description": "シンガポール最大のビーチパーク。砂浜での水遊び、自転車レンタル、ピクニック。4月は温暖で屋外活動に最適な季節。無料で楽しめます。",
-      "date": "4月上旬〜下旬通年",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
+      "title": "East Coast Park Family Cycling & Water Sports Day",
+      "description": "イースト・コースト・パークでのファミリー向けサイクリング、スキンボード体験、ビーチアクティビティ。乳幼児から参加でき、無料で楽しめるエリアが多数あります。",
+      "date": "4月初旬〜下旬の週末",
+      "place": "East Coast Park, East Coast Parkway, Singapore 449855",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "S.E.A. Aquarium キッズプログラム",
-      "description": "セントーサ島の巨大水族館。4月は春休みプログラムで子ども向けの教育ワークショップやタッチプール体験が充実。海洋生物の学習ツアーも開催。",
-      "date": "4月上旬〜下旬",
-      "place": "S.E.A. Aquarium, 8 Sentosa Gateway, Sentosa Island, Singapore 098269",
-      "link": "https://www.seaaquarium.sg",
-      "free": false
-    },
-    {
-      "title": "Chingay Parade（チンゲイパレード）",
-      "description": "中国旧正月を祝う大規模パレード。3月下旬〜4月初旬開催。子どもが楽しめるカラフルな山車、パフォーマンス、ストリート屋台など。無料で観覧可能。",
-      "date": "4月初旬（2026年は3月29日予定）",
-      "place": "Orchard Road / Marina Bay エリア",
-      "link": "https://www.stb.gov.sg",
+      "title": "Chinese New Year Celebrations (遅れ開催イベント)",
+      "description": "春節関連イベント。チャイナタウンでのパレード、ライトアップ、子ども向けゲーム、伝統工芸体験が開催。4月はポストニューイヤーイベントが実施されます。",
+      "date": "4月初旬〜中旬",
+      "place": "Chinatown, Singapore",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "Singapore Zoo キッズフィーディングプログラム",
-      "description": "動物園での餌やり体験や、キーパーと一緒に動物を学ぶプログラム。4月は動物が活発に活動する季節で、特に朝の訪問がおすすめ。",
-      "date": "4月上旬〜下旬通年",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.singaporezoo.com.sg",
+      "title": "S.E.A. Aquarium Kids Discovery Program",
+      "description": "シンガポール国立水族館のキッズプログラム。タッチプール体験、フィーディングデモ、海洋生物学習ワークショップが4月特別開催されます。",
+      "date": "4月全期間",
+      "place": "Sentosa Island, 1A Sentosa Gateway, Singapore 098269",
+      "link": "https://www.rwsentosa.com/en/attractions/sea-aquarium",
+      "free": false
+    },
+    {
+      "title": "Jurong Bird Park - April Education Programs",
+      "description": "ジュロン野鳥公園でのバードフィーディング体験、キッズバードウォッチング、インタラクティブトークショー。乳幼児も楽しめる屋外自然学習プログラム。",
+      "date": "4月全期間（毎日開催）",
+      "place": "2 Jurong Hill, Singapore 628925",
+      "link": "https://www.birdpark.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-28T01:28:31.108Z"
+  "updatedAt": "2026-04-29T01:31:21.422Z"
 }

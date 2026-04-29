@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "メリーモナーク・フェスティバル（Merrie Monarch Festival）",
-      "description": "ハワイ文化を代表するフラの祭典。パレードやフラコンペティションがあり、子どもも楽しめるハワイアンカルチャーを体験できます。",
-      "date": "4月中旬",
-      "place": "ハワイ島 ヒロ",
-      "link": "https://www.merriemonarch.org/",
-      "free": false
+      "title": "ワイキキビーチでの春のビーチクリーンアップと海洋生物観察",
+      "description": "毎月第2土曜に開催される家族向けビーチクリーンアップ。参加後は海洋生物について学べます。乳幼児も保護者同伴で参加可能な屋外アクティビティです。",
+      "date": "4月第2土曜（4月12日前後）",
+      "place": "ワイキキビーチ（Waikiki Beach）、ホノルル",
+      "link": "",
+      "free": true
     },
     {
-      "title": "ホノルル・フェスティバル・パレード（Honolulu Festival Parade）",
-      "description": "毎年4月開催。色鮮やかなフロート、和太鼓パフォーマンス、ダンスが楽しめる大規模パレード。沿道での観覧は無料です。",
-      "date": "4月第2週末",
-      "place": "オアフ島 ワイキキ〜ダウンタウン",
+      "title": "ホノルル・フェスティバル（Honolulu Festival）",
+      "description": "国際文化交流イベント。春の4月に開催され、パレード、各国の文化パフォーマンス、キッズワークショップなどで家族で楽しめます。",
+      "date": "4月中旬（通常第3週末）",
+      "place": "ホノルル市内各所（ワイキキ周辺）",
       "link": "https://www.honolulufestival.com/",
       "free": true
     },
     {
-      "title": "ワイキキ水族館（Waikiki Aquarium）春休み特別プログラム",
-      "description": "乳幼児から小学生向けのタッチプール体験やスタッフによる海洋生物の解説など、春休み限定のキッズプログラムが充実しています。",
-      "date": "4月上旬〜下旬",
-      "place": "オアフ島 ワイキキ（2777 Kalakaua Ave）",
-      "link": "https://www.waikikiaquarium.org/",
+      "title": "ハワイアンフローラルデイズ（Lei Day関連イベント）",
+      "description": "5月1日のレイデーに向けた4月下旬のイベント。ハワイアンレイ作り体験ワークショップ、伝統的なハワイ文化を学べます。",
+      "date": "4月下旬〜5月初旬",
+      "place": "イオラニ宮殿（Iolani Palace）周辺、ホノルル",
+      "link": "",
       "free": false
     },
     {
-      "title": "KCC ファーマーズ・マーケット（KCC Farmers Market）",
-      "description": "毎週土曜朝開催の地元農産物・フードマーケット。新鮮なフルーツやローカルフード、子ども向けの食べ物が豊富。無料で楽しめます。",
-      "date": "4月毎週土曜",
-      "place": "オアフ島 カピオラニ公園周辺（2731 Woodlawn Dr）",
-      "link": "https://www.honolulufarmersmarkets.com/",
-      "free": true
+      "title": "ホノルル動物園春のファミリーデー",
+      "description": "春シーズンの特別プログラム。子ども向けワークショップ、餌やり体験、動物解説員による教室が充実。小学生に人気です。",
+      "date": "4月上旬〜下旬（毎週末）",
+      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ",
+      "link": "https://www.honoluluzoo.org/",
+      "free": false
     },
     {
-      "title": "ダイヤモンドヘッド・ハイキング（Diamond Head State Monument）",
-      "description": "子連れ向けの適度な難易度。4月は天気が良く気温も快適。頂上からの眺望は素晴らしく、家族で絶景を楽しめます。",
-      "date": "4月上旬〜下旬（毎日）",
-      "place": "オアフ島 ワイキキ（3908 Diamond Head Rd）",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "title": "カイラアイスクリーム＆フルーツスタンド周辺でのフルーツ狩り体験",
+      "description": "4月はハワイの旬の果実（マンゴー、ライチ）シーズン。現地の観光農園でファミリー向け収穫体験が人気。乳幼児も同伴可能です。",
+      "date": "4月全体",
+      "place": "ワイアナエ地区やモアナルア周辺農園",
+      "link": "",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-28T01:29:02.110Z"
+  "updatedAt": "2026-04-29T01:31:55.206Z"
 }

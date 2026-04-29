@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "タイ・ニューイヤー（ソンクラーン）",
-      "description": "水かけ祭りとして知られるタイの正月。子どもたちが水鉄砲や水風船で遊び、家族で楽しめる伝統行事。バンコク市内各所で催され、文化体験ができます。",
-      "date": "4月13日〜15日",
-      "place": "バンコク市内全域（ラーチャダムリ通り、カオサン通りなど）",
+      "title": "ソンクラーン（タイ正月・水かけ祭り）",
+      "description": "タイの正月を祝う水かけ祭り。家族や友人と水をかけ合い、新年を祝います。子どもたちも楽しめる伝統的なお祭りで、バンコク市内各地で開催されます。",
+      "date": "4月上旬〜中旬（4月13日前後）",
+      "place": "バンコク市内全域（Silom地区、Khao San Road、Lumphini Parkなど）",
       "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン・キッズ・ウィークエンド",
-      "description": "大型ショッピングモールで開催される子ども向け特別プログラム。ワークショップ、キャラクターグリーティング、アスレチックなどで楽しめます。",
-      "date": "4月上旬〜中旬（週末）",
-      "place": "サイアム・パラゴン（Siam Paragon）、バンコク",
+      "title": "チャトゥチャック・ウィークエンド・マーケット 春の開催",
+      "description": "東南アジア最大級の週末市場。約15,000店舗が出店し、衣類、雑貨、ペット、食べ物など様々なものが売られています。子ども向け商品も豊富で家族連れに人気。",
+      "date": "4月毎週土日",
+      "place": "Chatuchak Market, Phahon Yothin Road, Bangkok 10900",
+      "link": "https://www.chatuchakmarket.com/",
+      "free": true
+    },
+    {
+      "title": "シアム・パラゴン水族館 春の特別展示",
+      "description": "バンコク最大級の水族館。海の生き物との触れ合いコーナーや、子ども向けの教育プログラムを開催。季節特別展示もあり、家族で一日楽しめます。",
+      "date": "4月上旬〜下旬（通年営業）",
+      "place": "Siam Paragon, Rama 1 Road, Bangkok 10330",
       "link": "https://www.siamparagon.co.th/",
       "free": false
     },
     {
-      "title": "チャトチャック・ウィークエンド・マーケット",
-      "description": "東南アジア最大級の週末マーケット。子ども服、おもちゃ、ペット、グルメなど多彩な露店があり、家族で散策・食べ歩きが楽しめます。",
-      "date": "毎週土日（4月全週末）",
-      "place": "チャトチャック・ウィークエンド・マーケット、バンコク",
-      "link": "https://www.chatuchakmarket.org/",
+      "title": "ラマ4世公園（Lumphini Park）での朝のアクティビティ",
+      "description": "バンコク中心部の広大な公園。朝は地元家族でいっぱい。子ども向けの遊び場、人工湖でのボート乗車、野鳥観察など自然を楽しめます。涼しい早朝がおすすめ。",
+      "date": "4月毎日（朝6時〜）",
+      "place": "Lumphini Park, Rama IV Road, Bangkok 10330",
+      "link": "https://www.bangkok.go.th/",
       "free": true
     },
     {
-      "title": "キング・パワー・マハナコン・アクティビティ",
-      "description": "超高層ビルの屋外展望台「ガラスの床」や室内アトラクション。高所からの眺めや最新型スライダーなど、子どもも楽しめる施設。",
-      "date": "4月通年営業",
-      "place": "キング・パワー・マハナコン（MahaNakhon）、バンコク",
-      "link": "https://www.mahanakhon.com/",
+      "title": "キッザニア・バンコク 春の特別プログラム",
+      "description": "職業体験型テーマパーク。子どもたちが約100種類の職業を体験できます。4月は春休み対応の特別プログラムが充実し、子どもの興味や適性発見に最適。",
+      "date": "4月上旬〜下旬（通年営業、春休みプログラムあり）",
+      "place": "KidZania Bangkok, EmQuartier, Sukhumvit 42, Bangkok",
+      "link": "https://www.kidzania.co.th/",
       "free": false
-    },
-    {
-      "title": "ルンピニ公園での朝の散歩とトカゲ・野鳥観察",
-      "description": "バンコク中心部の大公園。朝涼しい時間に散歩でき、オオトカゲ、水鳥など野生動物が見られます。子どもの自然学習に最適な屋外アクティビティ。",
-      "date": "4月通年（早朝6時〜8時推奨）",
-      "place": "ルンピニ公園（Lumphini Park）、バンコク",
-      "link": "https://www.bangkokparks.com/",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-28T01:28:39.929Z"
+  "updatedAt": "2026-04-29T01:31:30.122Z"
 }

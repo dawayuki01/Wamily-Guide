@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "春の桜祭り（Körsbärsblomningen）",
-      "description": "ストックホルムの公園で桜が満開になる季節。DjurgårdenやKungsholmenの桜の並木道を散策でき、ピクニックに最適。地元の春の訪れを感じられます。",
+      "title": "スウェーデン国立博物館の春の特別展示と子ども向けワークショップ",
+      "description": "北欧美術と工芸品を展示。4月は春をテーマにした子ども向け創作ワークショップが毎週開催。絵画や彫刻の鑑賞後、子どもたちが自由に制作できるプログラムです。",
+      "date": "4月通期（土日祝日主催）",
+      "place": "Nationalmuseum Stockholm, Södra Blasieholmen, 111 48 Stockholm",
+      "link": "https://www.nationalmuseum.se/",
+      "free": false
+    },
+    {
+      "title": "王立公園（Kungsträdgården）の春フェスティバル・チューリップ鑑賞",
+      "description": "ストックホルムの中心部の公園で数千株のチューリップが開花。子ども向けアクティビティコーナー、ポニー乗馬体験、屋外音楽イベントなど家族向け企画が豊富です。",
       "date": "4月中旬〜下旬",
-      "place": "Djurgården、Kungsholmen周辺",
-      "link": "https://www.stockholm.se",
+      "place": "Kungsträdgården, Norrmalm, 111 47 Stockholm",
+      "link": "https://www.stockholm.se/besoka-stockholm/parker-och-friluftsliv/kungstradgarden/",
       "free": true
     },
     {
-      "title": "スカンセン動物園の春イベント",
-      "description": "北欧の動物園で子どもたちが動物との触れ合いを楽しめます。春特別プログラムで子ども向けワークショップやガイドツアーが開催されます。",
-      "date": "4月上旬〜下旬",
-      "place": "Djurgården, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
+      "title": "スキャンセン屋外博物館の春季動物体験プログラム",
+      "description": "北欧の伝統建造物と動物が集まる施設。4月は動物たちの出産シーズンで、子ウサギやヒツジなどとの触れ合い体験、農場体験ワークショップが開催されます。",
+      "date": "4月通期（土日祝日中心）",
+      "place": "Skansen, Djurgården, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ヴァーサ博物館の子ども向けプログラム",
-      "description": "17世紀の軍艦ヴァーサを展示。春期間に家族向けワークショップやスカベンジャーハントが開催され、子どもたちが楽しく学べます。",
-      "date": "4月全般",
-      "place": "Galärvarvsvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se",
+      "title": "ユーランデル城（Drottningholms slott）の春庭園ツアーと子ども向けガイド",
+      "description": "ストックホルム郊外の王宮。4月は庭園の花々が見頃。子ども向けの宝探しゲームを兼ねたガイドツアーが週末に開催。王様の暮らしについて学べます。",
+      "date": "4月上旬〜下旬の週末",
+      "place": "Drottningholms slott, 178 02 Drottningholm",
+      "link": "https://www.royalpalaces.se/en/drottningholm-palace/",
       "free": false
     },
     {
-      "title": "オストマルム屋外マーケット（Ostermalmstorg）",
-      "description": "春らしい地元野菜や花、食べ物が並ぶマーケット。子どもと一緒に散策しながら地元の春の恵みを体験でき、カフェでリラックスも。",
-      "date": "4月全般（週末中心）",
-      "place": "Östermalm torg, Stockholm",
+      "title": "ストックホルムの埠頭・プロムナード沿いの無料春イベント",
+      "description": "ガムラスタン周辺の埠頭で露店、キッズエリア、路上パフォーマンスが開催。チューリップフェスティバルに合わせた屋外マーケット。家族連れの散策に最適で無料です。",
+      "date": "4月中旬〜下旬の週末",
+      "place": "Gamla Stan och kays, Stadsholmen, Stockholm",
       "link": "",
-      "free": true
-    },
-    {
-      "title": "ユーランの島での自然散策と遊び場",
-      "description": "ストックホルム郊外の森の島。春の新緑の中でハイキングや自然遊びが楽しめ、子ども向けの遊具やピクニックエリアも充実しています。",
-      "date": "4月中旬〜下旬",
-      "place": "Ekoparken nature reserve, Stockholm vicinity",
-      "link": "https://www.ekoparken.se",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-28T01:28:23.401Z"
+  "updatedAt": "2026-04-29T01:31:13.570Z"
 }

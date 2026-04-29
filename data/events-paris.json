@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ春のフラワーマーケット（Marché aux Fleurs）",
-      "description": "イル・ド・ラ・シテ島の伝統的な花市場。春の色鮮やかな花々が並び、子どもたちも楽しめます。無料で散策できます。",
-      "date": "4月上旬〜下旬",
-      "place": "Île de la Cité, 75004 Paris（Métro Cité）",
+      "title": "パリの春の花祭り・チューリップ展",
+      "description": "モネの庭園インスピレーション。パリ各地の公園で色とりどりのチューリップが咲き誇り、春の訪れを祝う季節イベント。子どもも楽しめる景観美です。",
+      "date": "4月上旬〜中旬",
+      "place": "ルクセンブルク公園ほか市内各公園",
       "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園での春の庭園散策と子ども向けアクティビティ",
-      "description": "パリ最大級の公園。春の花が満開で、ポニー乗馬、木製帆船レンタル、遊び場があり、家族で一日楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "Rue de Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardin",
-      "free": false
+      "title": "イースターマーケット（Marché de Pâques）",
+      "description": "シャンゼリゼ周辺やノートルダム広場でイースター関連の工芸品、チョコレート卵、おもちゃが並ぶ季節マーケット。子どもの卵探しゲームも開催。",
+      "date": "4月上旬〜中旬",
+      "place": "シャンゼリゼ通り周辺・ノートルダム広場",
+      "link": "https://www.paris.fr/pages/les-marches-de-noel-et-autres-marches-festifs-5309",
+      "free": true
     },
     {
-      "title": "パリ科学博物館（Cité des Sciences）春の特別展示",
-      "description": "子ども向けの展示や体験コーナーが充実。春には季節テーマの特別プログラムが開催されることがあります。",
-      "date": "4月通期",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "title": "シテ科学館の春の特別展示・ワークショップ",
+      "description": "Cité des Sciences et de l'Industrie。子ども向けの対話型科学展示と季節限定ワークショップ。手を動かして学ぶ体験が豊富。",
+      "date": "4月通年",
+      "place": "19 Avenue Corentin Cariou, 75019 Paris",
       "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "セーヌ川クルーズ（春景観コース）",
-      "description": "ノートルダム周辺、左岸の春景色を船上から観賞。子ども向けの解説付きクルーズもあり、乳幼児も楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "Port de la Bourdonnais, 75007 Paris（Pont d'Iéna）",
-      "link": "https://www.bateaux-mouches.com",
-      "free": false
+      "title": "セーヌ河畔の春散歩・ピクニック",
+      "description": "4月の温かい季節。セーヌ河沿いの遊歩道（アイル・サン・ルイなど）で家族ピクニック。地元の市場で食材を調達し、川辺で過ごす最高のアウトドア体験。",
+      "date": "4月全体",
+      "place": "セーヌ川左岸・右岸遊歩道（Île Saint-Louis周辺）",
+      "link": "https://www.paris.fr",
+      "free": true
     },
     {
-      "title": "ブローニュの森でのスプリング・ファミリーピクニック（無料アクティビティ）",
-      "description": "パリ西部の広大な緑地。春の芝生で自由にピクニック、散歩、乗馬施設も利用可。無料で家族時間が過ごせます。",
-      "date": "4月上旬〜下旬",
-      "place": "Bois de Boulogne, 75016 Paris",
-      "link": "https://www.paris.fr/pages/le-bois-de-boulogne-7623",
-      "free": true
+      "title": "動物園（ヴァンセンヌの森の動物園）春の動物出産シーズン",
+      "description": "春生まれの動物たちが活発に遊ぶ季節。新生児の動物たちが公開される時期で、子どもたちの興奮間違いなし。屋外パークで自然を感じながら楽しめます。",
+      "date": "4月全体",
+      "place": "53 Avenue de Saint-Maurice, 75012 Paris（ヴァンセンヌの森内）",
+      "link": "https://www.zoo.Paris",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-28T01:28:15.561Z"
+  "updatedAt": "2026-04-29T01:31:04.469Z"
 }
