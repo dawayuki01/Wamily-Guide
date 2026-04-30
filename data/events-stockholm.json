@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館の春の特別展示と子ども向けワークショップ",
-      "description": "北欧美術と工芸品を展示。4月は春をテーマにした子ども向け創作ワークショップが毎週開催。絵画や彫刻の鑑賞後、子どもたちが自由に制作できるプログラムです。",
-      "date": "4月通期（土日祝日主催）",
-      "place": "Nationalmuseum Stockholm, Södra Blasieholmen, 111 48 Stockholm",
-      "link": "https://www.nationalmuseum.se/",
-      "free": false
-    },
-    {
-      "title": "王立公園（Kungsträdgården）の春フェスティバル・チューリップ鑑賞",
-      "description": "ストックホルムの中心部の公園で数千株のチューリップが開花。子ども向けアクティビティコーナー、ポニー乗馬体験、屋外音楽イベントなど家族向け企画が豊富です。",
+      "title": "ストックホルム桜祭り（春の花見）",
+      "description": "ストックホルムの公園や島々で桜が満開に。特にDjurgårdenやKungsträdgårdenで家族向けの花見が楽しめる季節です。",
       "date": "4月中旬〜下旬",
-      "place": "Kungsträdgården, Norrmalm, 111 47 Stockholm",
-      "link": "https://www.stockholm.se/besoka-stockholm/parker-och-friluftsliv/kungstradgarden/",
+      "place": "Djurgården, Kungsträdgården, Stockholm",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "スキャンセン屋外博物館の春季動物体験プログラム",
-      "description": "北欧の伝統建造物と動物が集まる施設。4月は動物たちの出産シーズンで、子ウサギやヒツジなどとの触れ合い体験、農場体験ワークショップが開催されます。",
-      "date": "4月通期（土日祝日中心）",
-      "place": "Skansen, Djurgården, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "Skansen春のオープニングイベント",
+      "description": "スウェーデン民族博物館兼動物園の春の営業開始。動物たちの活動が活発になる季節で、子ども向けの教育プログラムも充実しています。",
+      "date": "4月初旬（営業開始時期）",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーランデル城（Drottningholms slott）の春庭園ツアーと子ども向けガイド",
-      "description": "ストックホルム郊外の王宮。4月は庭園の花々が見頃。子ども向けの宝探しゲームを兼ねたガイドツアーが週末に開催。王様の暮らしについて学べます。",
-      "date": "4月上旬〜下旬の週末",
-      "place": "Drottningholms slott, 178 02 Drottningholm",
-      "link": "https://www.royalpalaces.se/en/drottningholm-palace/",
+      "title": "Vasa Museum（ヴァーサ号博物館）春の子ども向けワークショップ",
+      "description": "17世紀の沈没船を保存展示する博物館で、春期に子ども向けの船や海洋関連のワークショップやガイドツアーを開催しています。",
+      "date": "4月中旬〜下旬（週末）",
+      "place": "Galärvägen 14, Stockholm",
+      "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ストックホルムの埠頭・プロムナード沿いの無料春イベント",
-      "description": "ガムラスタン周辺の埠頭で露店、キッズエリア、路上パフォーマンスが開催。チューリップフェスティバルに合わせた屋外マーケット。家族連れの散策に最適で無料です。",
-      "date": "4月中旬〜下旬の週末",
-      "place": "Gamla Stan och kays, Stadsholmen, Stockholm",
-      "link": "",
+      "title": "Gamla Stan（ガムラ・スタン）春のイースターマーケット",
+      "description": "ストックホルム旧市街でイースター時期に開催される伝統的なマーケット。ハンドメイド工芸品、イースター装飾、子ども向けの移動遊園地などが出展されます。",
+      "date": "4月上旬〜中旬（イースター時期）",
+      "place": "Gamla Stan, Stortorget, Stockholm",
+      "link": "https://www.visitstockholm.com",
       "free": true
+    },
+    {
+      "title": "Gröna Lundの春シーズンオープン",
+      "description": "Djurgårdenにある遊園地が春に営業開始。子ども向けアトラクション、メリーゴーラウンド、ファミリーライドが楽しめます。",
+      "date": "4月中旬〜下旬（営業開始時期）",
+      "place": "Gröna Lund, Allmänna gränden 9, Stockholm",
+      "link": "https://www.gronalund.com",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-29T01:31:13.570Z"
+  "updatedAt": "2026-04-30T01:29:31.779Z"
 }

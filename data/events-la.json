@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ロサンゼルス・フラワー・フェスティバル",
-      "description": "春の花々を楽しむフェスティバル。家族向けの植物ワークショップ、フェイスペイント、キッズアクティビティなど。自然の中で季節を感じられます。",
+      "description": "春の花々が咲き誇る季節に、ダウンタウンLAやグリフィス公園周辺で開催される花のお祭り。子ども向けのワークショップやガーデンツアーが楽しめます。",
       "date": "4月上旬〜中旬",
-      "place": "ボタニカルガーデン・エクスポセンター（Exposition Park）",
-      "link": "https://www.laconservancy.org/",
-      "free": false
-    },
-    {
-      "title": "グリフィス・パーク・イースターエッグハント",
-      "description": "広大な公園でのイースターエッグハント。子ども向けアクティビティ、キャラクターグリーティング、ライブパフォーマンスも開催。家族で楽しめる季節イベント。",
-      "date": "4月上旬（イースター前後）",
-      "place": "グリフィス・パーク（Griffith Park, 4730 Crystal Springs Drive）",
-      "link": "https://www.laparks.org/griffith-park",
-      "free": false
-    },
-    {
-      "title": "サンタモニカ・ビーチでのビーチクリーンアップ & 海辺遊び",
-      "description": "海辺でのアクティビティが本格化する季節。ビーチでの貝殻探し、砂遊び、波遊びを無料で楽しめます。家族向けビーチクリーンアップイベントも開催。",
-      "date": "4月中旬〜下旬",
-      "place": "サンタモニカ・ビーチ（Santa Monica Beach, 1642 Promenade North）",
-      "link": "https://www.smgov.net/departments/beach/",
+      "place": "グリフィス公園及びダウンタウンLA周辺",
+      "link": "https://www.discoverlosangeles.com/",
       "free": true
     },
     {
-      "title": "LA動物園「春の生き物ナチュラリスト・プログラム」",
-      "description": "春生まれの動物たちの展示、親子向けのアニマルトークショー、スカベンジャーハント。子どもが自然を学べる特別プログラム。",
-      "date": "4月全期間",
-      "place": "ロサンゼルス動物園（Los Angeles Zoo, 5333 Zoo Drive）",
-      "link": "https://www.lazoo.org/",
+      "title": "ハンティントン・ライブラリー・チルドレンズ・ガーデン",
+      "description": "4月は春の花が満開。子ども専用の屋外庭園で遊びながら自然を学べます。家族向けのナチュアルアクティビティやスクリーンフリーの遊び場が充実しています。",
+      "date": "4月通年",
+      "place": "1151 Oxford Road, San Marino, CA 91108",
+      "link": "https://www.huntingtonlibrary.org/",
       "free": false
     },
     {
-      "title": "ラ・ブレア・タールピット「ファミリー・ディスカバリー・デー」",
-      "description": "化石発掘体験、古代生物展示、子ども向けワークショップなど。教育的で家族向けの無料イベント日が月1回程度開催されます。",
-      "date": "4月中の指定日",
-      "place": "ラ・ブレア・タールピット（La Brea Tar Pits, 5801 Wilshire Boulevard）",
-      "link": "https://www.lacm.org/tar-pits",
+      "title": "サンタモニカ・ピアの春イベント",
+      "description": "観覧車やアミューズメント施設が揃う海辺のピア。4月は天気が良く、ビーチで砂遊びや海風を感じながら家族で楽しめます。遊園地の乗り物は有料です。",
+      "date": "4月通年",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
+      "free": true
+    },
+    {
+      "title": "ロサンゼルス自然史博物館のファミリープログラム",
+      "description": "恐竜展示やスペースラボなど子ども向けコンテンツが充実。4月は春休みシーズンの特別ワークショップやインタラクティブ展示を実施しています。",
+      "date": "4月上旬〜中旬",
+      "place": "900 Exposition Boulevard, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
+      "free": false
+    },
+    {
+      "title": "グリフィス公園でのハイキング＆ピクニック",
+      "description": "LA最大の都市公園。4月は気候が快適で、初心者向けハイキングコース、子ども用遊具、広々としたピクニックエリアが利用できます。無料で1日中楽しめます。",
+      "date": "4月通年",
+      "place": "4730 Crystal Springs Drive, Los Angeles, CA 90027",
+      "link": "https://www.laparks.org/griffith",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-29T01:31:47.225Z"
+  "updatedAt": "2026-04-30T01:30:03.725Z"
 }

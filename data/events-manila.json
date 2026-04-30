@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "サマーフェスティバル（Summer Festival）",
-      "description": "4月はフィリピンの夏シーズン。マニラ首都圏の各ショッピングモールでサマーフェスティバルが開催され、子ども向けゲーム、ワークショップ、キャラクターグリーティングが楽しめます。",
-      "date": "4月上旬〜下旬",
-      "place": "SM モール・オブ・アジア（MOA）、SM シティ・マニラ他各ショッピングモール",
+      "title": "フィリピン観光週間（Philippine Tourism Week）",
+      "description": "4月中旬にマニラで開催される観光イベント。子ども向けの文化体験ブース、工芸品展示、伝統舞踊パフォーマンスなどが楽しめます。",
+      "date": "4月中旬",
+      "place": "マニラ市内各所（CCP、リサール公園など）",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
+    },
+    {
+      "title": "ネイチャー・ハイキング・アット・タナイ（Tanay Rizal Nature Hike）",
+      "description": "マニラから車で約2時間。涼しい山の環境で家族向けハイキングコース。滝や渓流、野生動物観察が楽しめる季節アクティビティです。",
+      "date": "4月全月（乾季）",
+      "place": "タナイ、リサール州",
       "link": "",
       "free": true
     },
     {
-      "title": "フィリピン・トロピカル植物園での花見",
-      "description": "マニラ郊外の熱帯植物園で、4月に咲くフィリピン原生のトロピカルフラワーやバナナの花などを観賞できます。屋外の自然散策で、子どもも楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "Philippine Tropical Botanical Garden、マニラ郊外（ラグーナ州タイガス町）",
-      "link": "https://www.ptbg.org.ph/",
+      "title": "SM モール・オブ・アジア子ども向け特別プログラム",
+      "description": "大型ショッピングモール内のキッズゾーン・遊び場で開催される季節ワークショップ。工作教室、キャラクターグリーティング、ゲームコーナーなどが充実。",
+      "date": "4月全月",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com.ph",
       "free": false
     },
     {
-      "title": "マニラ・オーシャン・パークの春休みプログラム",
-      "description": "国内外の春休みシーズンに合わせ、子ども向けの海生生物教育プログラムやアクアリウムツアー、タッチプールが特別開催されます。",
-      "date": "4月全般",
-      "place": "Manila Ocean Park、CCP Complex, Roxas Boulevard",
-      "link": "https://www.manillaoceanpark.com/",
+      "title": "フィリピン国立博物館 キッズデー・特別展示",
+      "description": "4月開催の子ども向け特別プログラム。対話型展示、ガイドツアー、文化教室で、フィリピンの歴史と自然を学べます。",
+      "date": "4月中旬〜下旬",
+      "place": "Philippine National Museum, Rizal Park, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     },
     {
-      "title": "ナショナル・ミュージアムの子ども向けワークショップ",
-      "description": "フィリピン国立博物館では4月に春のワークショップを開催。フィリピン文化や自然史を学べる対話型プログラムが子ども向けに実施されます。",
-      "date": "4月中旬〜下旬（週末）",
-      "place": "National Museum of the Philippines、Padre Burgos Street, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "リサール公園でのピクニック・アウトドア活動",
-      "description": "マニラの中心部にある広大なリサール公園は4月に緑が美しい季節。屋外での家族向けピクニック、遊具エリア、動物園（フィリピン国立動物園）での自然体験が無料で楽しめます。",
-      "date": "4月全般（平日よりも週末推奨）",
-      "place": "Rizal Park（Luneta Park）、Manila",
-      "link": "https://www.nptc.gov.ph/",
+      "title": "リサール公園（Rizal Park）での家族向けアウトドア活動",
+      "description": "マニラの広大な公園で、散歩、ピクニック、子ども向け遊具、庭園散策が無料で楽しめます。4月の乾季は最適な季節です。",
+      "date": "4月全月",
+      "place": "Luneta Park / Rizal Park, Manila",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-29T01:31:38.285Z"
+  "updatedAt": "2026-04-30T01:29:56.010Z"
 }
