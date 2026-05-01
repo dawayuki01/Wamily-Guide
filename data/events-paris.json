@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "チューリップの季節 - ジヴェルニーのモネの庭園",
-      "description": "印象派の大画家モネが愛した庭園。4月は色とりどりのチューリップが咲き乱れ、子どもたちも楽しめる自然美。パリから日帰りで訪問可能な春の風物詩。",
-      "date": "4月中旬〜下旬",
-      "place": "Fondation Claude Monet, 84 Rue Claude Monet, 27620 Giverny",
-      "link": "https://fondation-monet.com/",
+      "title": "パリの春の花々（チューリップ・バラの見頃）",
+      "description": "ルクセンブルク公園やモネ庭園で、チューリップやバラが満開の季節。広大な庭園で子どもが自由に走り回れる屋外アクティビティです。",
+      "date": "5月上旬〜中旬",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ市内各所",
+      "link": "https://www.paris.fr/pages/les-jardins-de-paris-1734",
+      "free": true
+    },
+    {
+      "title": "アルテ・パリ美術館の子ども向け特別プログラム",
+      "description": "5月に開催される子ども向けワークショップやガイドツアー。アート体験を通じて、親子で美術を学べるプログラムです。",
+      "date": "5月中旬〜下旬（開催日は変動）",
+      "place": "ポンピドゥ・センター（Centre Pompidou）、75004 Paris",
+      "link": "https://www.centrepompidou.fr",
       "free": false
     },
     {
-      "title": "シャンゼリゼ通りの春まつり・マーケット",
-      "description": "パリを代表する大通りで春の屋外マーケットが開催。地元の農産物、雑貨、キッズワークショップなど。無料で楽しめ、家族連れで賑わう。散策も兼ねて。",
-      "date": "4月上旬〜中旬（週末）",
-      "place": "Avenue des Champs-Élysées, 75008 Paris",
+      "title": "フェスティバル・シネマ・パリ（春の映画祭）",
+      "description": "5月に開催される子ども向け上映会やアニメーション映画の特集上映。家族で楽しめる映画イベントです。",
+      "date": "5月中旬〜下旬",
+      "place": "パリ市内の映画館各所",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "モンマルトレの街角マーケット・フェスタ",
+      "description": "モンマルトレ地区で開催される春の定期マーケット。手工芸品、食べ物、子ども向けアクティビティが集まり、親子で散策できます。",
+      "date": "5月中旬の週末",
+      "place": "モンマルトレ地区（Montmartre）、18区",
+      "link": "https://www.paris.fr/pages/les-marches-a-paris-1732",
+      "free": true
+    },
+    {
+      "title": "セーヌ川沿いのファミリーフェスティバル",
+      "description": "5月の天候の良い時期に、セーヌ川河畔で開催される家族向けイベント。屋外ゲーム、音楽、飲食などが楽しめます。",
+      "date": "5月下旬の週末",
+      "place": "セーヌ川河畔（ポンヌフ周辺など）",
       "link": "",
       "free": true
-    },
-    {
-      "title": "パリ科学産業博物館の春休み特別プログラム",
-      "description": "Cite des Sciencesの大型プラネタリウムや体験型展示。乳幼児向けの『イマジナリウム』や子ども向けワークショップが充実。天候に左右されない屋内施設。",
-      "date": "4月全期間",
-      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/",
-      "free": false
-    },
-    {
-      "title": "セーヌ川沿いのサイクリングと桜の散策",
-      "description": "パリ郊外ではソメイヨシノが咲き始める季節。セーヌ川沿いのサイクリングロードを自転車でツーリング。レンタル自転車で子ども連れでも楽しめる屋外アクティビティ。",
-      "date": "4月上旬〜中旬",
-      "place": "Seine River paths, Paris and surroundings",
-      "link": "https://en.parisinfo.com/",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館キッズツアー・ワークショップ",
-      "description": "春休みの期間、子ども向けのガイドツアーやアート教室が開催。有名美術作品を子どもたちにわかりやすく解説。家族向けのプログラムが充実する季節。",
-      "date": "4月全期間（要予約）",
-      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris",
-      "link": "https://www.louvre.fr/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-30T01:29:24.687Z"
+  "updatedAt": "2026-05-01T01:45:22.774Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム桜祭り（春の花見）",
-      "description": "ストックホルムの公園や島々で桜が満開に。特にDjurgårdenやKungsträdgårdenで家族向けの花見が楽しめる季節です。",
-      "date": "4月中旬〜下旬",
-      "place": "Djurgården, Kungsträdgården, Stockholm",
-      "link": "https://www.visitstockholm.com",
+      "title": "スウェーデン庭園祭（Swedish Garden Festival）",
+      "description": "ストックホルム周辺の庭園が公開される春の祭典。子ども向けの庭園ツアーやワークショップ、花畑の散策が楽しめます。5月の美しい北欧の春を満喫できます。",
+      "date": "5月中旬〜下旬",
+      "place": "ストックホルム市内及び周辺地域複数箇所",
+      "link": "https://www.stockholmturistbyra.se",
       "free": true
     },
     {
-      "title": "Skansen春のオープニングイベント",
-      "description": "スウェーデン民族博物館兼動物園の春の営業開始。動物たちの活動が活発になる季節で、子ども向けの教育プログラムも充実しています。",
-      "date": "4月初旬（営業開始時期）",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
+      "title": "スカンセン野外博物館の春イベント",
+      "description": "北欧の伝統的な家屋や動物園がある屋外博物館。5月は子羊やひよこなど春の動物たちが見られ、伝統工芸体験やスウェーディッシュフィーカが楽しめます。",
+      "date": "5月上旬〜下旬",
+      "place": "Junibacken, Djurgården, Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "Vasa Museum（ヴァーサ号博物館）春の子ども向けワークショップ",
-      "description": "17世紀の沈没船を保存展示する博物館で、春期に子ども向けの船や海洋関連のワークショップやガイドツアーを開催しています。",
-      "date": "4月中旬〜下旬（週末）",
-      "place": "Galärvägen 14, Stockholm",
-      "link": "https://www.vasamuseet.se",
+      "title": "ユニバッケン（Junibacken）の春プログラム",
+      "description": "スウェーデンの児童文学をテーマとした子ども向け施設。5月は春の特別展示やピッピ・ロングストッキングのキャラクター体験イベントなど、室内外で子どもたちが楽しめます。",
+      "date": "5月上旬〜下旬",
+      "place": "Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     },
     {
-      "title": "Gamla Stan（ガムラ・スタン）春のイースターマーケット",
-      "description": "ストックホルム旧市街でイースター時期に開催される伝統的なマーケット。ハンドメイド工芸品、イースター装飾、子ども向けの移動遊園地などが出展されます。",
-      "date": "4月上旬〜中旬（イースター時期）",
-      "place": "Gamla Stan, Stortorget, Stockholm",
-      "link": "https://www.visitstockholm.com",
+      "title": "ジャージックス公園（Gärdet）での屋外アクティビティ",
+      "description": "広大な芝生公園で、5月は家族向けのピクニックやスポーツイベント、公園散策が無料で楽しめます。自転車や遊具も充実し、春の北欧の自然を感じられます。",
+      "date": "5月上旬〜下旬",
+      "place": "Gärdet, Stockholm",
+      "link": "",
       "free": true
     },
     {
-      "title": "Gröna Lundの春シーズンオープン",
-      "description": "Djurgårdenにある遊園地が春に営業開始。子ども向けアトラクション、メリーゴーラウンド、ファミリーライドが楽しめます。",
-      "date": "4月中旬〜下旬（営業開始時期）",
-      "place": "Gröna Lund, Allmänna gränden 9, Stockholm",
-      "link": "https://www.gronalund.com",
+      "title": "ヴァーサ号博物館のキッズプログラム",
+      "description": "17世紀の戦艦が展示される博物館。5月は子ども向けのガイドツアーやインタラクティブ展示、船舶の歴史を学ぶワークショップが開催されます。",
+      "date": "5月上旬〜下旬",
+      "place": "Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-30T01:29:31.779Z"
+  "updatedAt": "2026-05-01T01:45:30.496Z"
 }

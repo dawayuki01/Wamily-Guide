@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Garden Festival（シンガポール・ガーデン・フェスティバル）",
-      "description": "毎年4月にシンガポール植物園で開催される東南アジア最大級の園芸祭。花の展示、ワークショップ、キッズ向けガーデン体験など家族向けコンテンツが充実。",
-      "date": "4月中旬〜下旬",
-      "place": "Singapore Botanic Gardens（シンガポール植物園）1 Cluny Road, Singapore 259569",
-      "link": "https://www.singaporebotanicgardens.sg/",
-      "free": false
-    },
-    {
-      "title": "East Coast Park でのビーチアクティビティ",
-      "description": "シンガポール最大のビーチパーク。4月は天候が良く海水浴やサイクリング、ピクニックに最適。キッズ向けのウォータースポーツ体験や砂浜遊びが無料で楽しめます。",
-      "date": "4月通年",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
-      "free": true
-    },
-    {
-      "title": "Chingay Parade（チンゲイパレード）＆チャイニーズ・ニューイヤー関連イベント",
-      "description": "4月はチャイニーズ・ニューイヤーのアフターイベントが開催。カラフルなパレード、文化交流、キッズ向けゲームやパフォーマンスを楽しめます。無料で街中で観覧できます。",
-      "date": "4月上旬",
-      "place": "Orchard Road, Chinatown、Marina Bay周辺（毎年開催地が異なります）",
+      "title": "シンガポール・ドラゴンボート・フェスティバル",
+      "description": "端午節を祝うドラゴンボートレース。カラフルなボートや文化パフォーマンスが楽しめ、子どもも参加型のアクティビティが多数あります。",
+      "date": "5月中旬",
+      "place": "Marina Bay, Singapore",
       "link": "https://www.visitsingapore.com/",
       "free": true
     },
     {
-      "title": "Singapore Zoo のキッズサマープログラム",
-      "description": "シンガポール動物園で開催される子ども向けの特別プログラム。動物への給餌体験、教育ワークショップ、トロピカルジャングルの探検など参加型アクティビティが豊富。",
-      "date": "4月中旬〜下旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.singaporezoo.com/",
+      "title": "シンガポール国立蘭園（National Orchid Garden）の季節展示",
+      "description": "1000種以上の蘭が咲く東南アジア最大級の蘭園。5月は見どころが多く、屋外散策に最適です。子ども向けガイドツアーもあります。",
+      "date": "5月通期",
+      "place": "1 Orchid Club Road, Singapore 257884",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/gardens/singapore-botanic-gardens",
       "free": false
     },
     {
-      "title": "National Day Preparation イベント＆コミュニティ祭り",
-      "description": "8月の建国記念日に向けた準備イベントが4月から各地で開催。キッズコーナー、地域文化体験、ステージパフォーマンスなど地元文化を学べるプログラム。",
-      "date": "4月通年（随時）",
-      "place": "各地域コミュニティセンター・イベント会場（Singapore Tourism Board参照）",
+      "title": "シンガポール・サイエンス・センター「子ども向けワークショップ」",
+      "description": "STEM教育に基づくインタラクティブな実験教室。5月は夏休み企画として特別プログラムが開催され、乳幼児から小学生まで楽しめます。",
+      "date": "5月下旬～6月",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg/",
+      "free": false
+    },
+    {
+      "title": "イースト・コースト・パーク「ファミリー・バイク・イベント」",
+      "description": "子連れ向けの自転車イベントやレンタサイクル。15km以上の海沿いサイクリング道が整備され、家族で屋外を楽しめます。",
+      "date": "5月上旬～下旬（週末開催）",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "チャイナタウン・ヘリテージ・フェスティバル（端午節マーケット）",
+      "description": "伝統的な月餅やおもちゃ、工芸品が並ぶマーケット。屋台グルメも充実し、文化体験と食べ歩きが同時に楽しめます。",
+      "date": "5月中旬",
+      "place": "Chinatown Heritage Centre & surroundings, Singapore",
       "link": "https://www.visitsingapore.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-30T01:29:40.117Z"
+  "updatedAt": "2026-05-01T01:45:38.099Z"
 }

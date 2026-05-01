@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Lei Day（レイデー）",
-      "description": "ハワイの伝統文化を祝う5月1日のイベント。レイ作りワークショップ、パレード、ハワイアン音楽・フラダンスなど家族向けプログラムが充実。子どもも参加できる体験が多数。",
-      "date": "4月下旬～5月1日",
-      "place": "カピオラニ公園（Kapiolani Park）、ホノルル市街地各所",
-      "link": "https://www.gohawaii.com/",
+      "description": "ハワイの伝統的なレイ文化を祝う日。公園での無料イベント、レイ作り体験、パレードなど、子どもも楽しめるプログラムが充実しています。",
+      "date": "5月1日前後",
+      "place": "カピオラニ公園（Kapiolani Park）、ホノルル市内各所",
+      "link": "https://www.honolulu.gov/parks-and-recreation.html",
       "free": true
     },
     {
-      "title": "ホノルル動物園 春の特別プログラム",
-      "description": "4月の春シーズンに子ども向けの動物解説ツアーやワークショップを開催。乳幼児～小学生対象の楽しい学習プログラムと動物との触れ合い体験が充実。",
-      "date": "4月上旬～下旬（開園中随時）",
+      "title": "Maui Whale Festival（マウイ・ホエール・フェスティバル）",
+      "description": "マウイ島でのクジラ関連イベント。クジラ教育プログラムや家族向けアクティビティが開催され、海の生き物について学べます。",
+      "date": "5月中旬",
+      "place": "マウイ島・ラハイナ地区",
+      "link": "https://www.visitmaui.com",
+      "free": true
+    },
+    {
+      "title": "スノーケリング・ツアー（ハナウマ湾など）",
+      "description": "5月はハワイの乾季で天気が安定。家族向けのスノーケリングツアーで、カラフルな魚を観察。子ども向けプログラムも充実しています。",
+      "date": "5月上旬〜下旬",
+      "place": "ハナウマ湾（オアフ島）、モロキニ・クレーター（マウイ島）",
+      "link": "https://www.honolulu.gov/parks-and-recreation/parks-facilities/hanuma-bay.html",
+      "free": false
+    },
+    {
+      "title": "Honolulu Zoo Free Night（ホノルル動物園・フリーナイト）",
+      "description": "月に1回開催される無料入園イベント。夕方から夜間の動物園を家族で楽しめます。子ども向けの教育プログラムも開催。",
+      "date": "5月の特定火曜日（要確認）",
       "place": "ホノルル動物園（Honolulu Zoo）、カピオラニ公園内",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "ワイキキビーチでの海遊び・シュノーケリング",
-      "description": "4月は海が穏やかで気温も快適。子ども向けシュノーケリングツアーやビーチでの水遊びに最適。浅瀬での魚観察やビーチアクティビティが充実した季節。",
-      "date": "4月上旬～下旬（通年）",
-      "place": "ワイキキビーチ（Waikiki Beach）、ホノルル",
-      "link": "https://www.gohawaii.com/islands/oahu/beaches/waikiki-beach",
+      "link": "https://www.honoluluzoo.org",
       "free": true
     },
     {
-      "title": "ハワイ火山国立公園（キラウエア）のハイキング",
-      "description": "4月は気温が心地よく、火山景観の探索に最適。子ども向けの短距離トレイルが多く、自然学習と冒険が同時に楽しめる。溶岩台地や火口を間近で体験。",
-      "date": "4月上旬～下旬（通年）",
-      "place": "ハワイ火山国立公園（Hawaii Volcanoes National Park）、ハワイ島",
-      "link": "https://www.nps.gov/havo/",
+      "title": "ハイキング・トレイル探索",
+      "description": "5月は雨季から乾季への変わり目で、滝の水量が豊富。ダイアモンドヘッドやマノア滝など家族向けハイキングで、自然を満喫できます。",
+      "date": "5月上旬〜下旬",
+      "place": "ダイアモンドヘッド、マノア滝（オアフ島）、イアオ渓谷（マウイ島）",
+      "link": "https://dlnr.hawaii.gov/dofaw/hiking/",
       "free": false
-    },
-    {
-      "title": "ホノルル・ファーマーズマーケット",
-      "description": "毎週末にカカアコ地区で開催される地元の市場。新鮮なハワイ産フルーツ・野菜、ローカルフード、クラフト販売。子どもが地産地消を学べ、家族で気軽に楽しめる。",
-      "date": "4月全体（毎週土日）",
-      "place": "カカアコ・パークレット（Kakaako Parklets）、ホノルル",
-      "link": "https://www.honolulufarmersmarket.org/",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-30T01:30:12.278Z"
+  "updatedAt": "2026-05-01T01:46:09.783Z"
 }

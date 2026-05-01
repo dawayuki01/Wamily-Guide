@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・フェスティバル",
-      "description": "春の花々が咲き誇る季節に、ダウンタウンLAやグリフィス公園周辺で開催される花のお祭り。子ども向けのワークショップやガーデンツアーが楽しめます。",
-      "date": "4月上旬〜中旬",
-      "place": "グリフィス公園及びダウンタウンLA周辺",
-      "link": "https://www.discoverlosangeles.com/",
-      "free": true
-    },
-    {
-      "title": "ハンティントン・ライブラリー・チルドレンズ・ガーデン",
-      "description": "4月は春の花が満開。子ども専用の屋外庭園で遊びながら自然を学べます。家族向けのナチュアルアクティビティやスクリーンフリーの遊び場が充実しています。",
-      "date": "4月通年",
-      "place": "1151 Oxford Road, San Marino, CA 91108",
-      "link": "https://www.huntingtonlibrary.org/",
+      "title": "Los Angeles County Fair Spring Events",
+      "description": "春のロサンゼルス郡フェア。子ども向けの乗り物、ゲーム、ライブエンターテインメント、グルメが楽しめます。家族向けの特別イベントやワークショップも開催されます。",
+      "date": "5月中旬〜下旬",
+      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://www.fairplex.com",
       "free": false
     },
     {
-      "title": "サンタモニカ・ピアの春イベント",
-      "description": "観覧車やアミューズメント施設が揃う海辺のピア。4月は天気が良く、ビーチで砂遊びや海風を感じながら家族で楽しめます。遊園地の乗り物は有料です。",
-      "date": "4月通年",
-      "place": "Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com/",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス自然史博物館のファミリープログラム",
-      "description": "恐竜展示やスペースラボなど子ども向けコンテンツが充実。4月は春休みシーズンの特別ワークショップやインタラクティブ展示を実施しています。",
-      "date": "4月上旬〜中旬",
-      "place": "900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org/",
+      "title": "Santa Monica Pier Spring Activities & Beach Day",
+      "description": "サンタモニカピアのアミューズメントパーク、遊園地での乗り物体験。パシフィックパークの観覧車やジェットコースターが子どもに人気。ビーチでの砂遊びも無料で楽しめます。",
+      "date": "5月通年",
+      "place": "Santa Monica Pier & Pacific Park, 380 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
       "free": false
     },
     {
-      "title": "グリフィス公園でのハイキング＆ピクニック",
-      "description": "LA最大の都市公園。4月は気候が快適で、初心者向けハイキングコース、子ども用遊具、広々としたピクニックエリアが利用できます。無料で1日中楽しめます。",
-      "date": "4月通年",
-      "place": "4730 Crystal Springs Drive, Los Angeles, CA 90027",
-      "link": "https://www.laparks.org/griffith",
+      "title": "LA Zoo Spring Program & Wild Animal Encounters",
+      "description": "ロサンゼルス動物園の春の特別プログラム。新緑の季節に様々な動物を観察。子ども向けの教育プログラムや動物との触れ合いイベントが開催されます。",
+      "date": "5月通年",
+      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
+      "free": false
+    },
+    {
+      "title": "Griffith Park Free Hiking & Nature Exploration",
+      "description": "グリフィス公園での無料ハイキングと自然散策。子ども向けの歩きやすいトレイルがあり、パノラマビュー、博物館、遊び場など家族で楽しめます。",
+      "date": "5月通年",
+      "place": "Griffith Park, 4730 Crystal Springs Drive, Los Angeles, CA 90027",
+      "link": "https://www.laparks.org/griffith-park",
+      "free": true
+    },
+    {
+      "title": "Natural History Museum of LA County - Free Programming",
+      "description": "ロサンゼルス郡立自然史博物館の春の特別展示・子ども向けワークショップ。恐竜展示、動物展示など学びながら楽しめます。毎月第2日曜日は無料入館日。",
+      "date": "5月通年（第2日曜日が無料）",
+      "place": "Natural History Museum of LA County, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://nhm.org",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-04-30T01:30:03.725Z"
+  "updatedAt": "2026-05-01T01:46:01.489Z"
 }
