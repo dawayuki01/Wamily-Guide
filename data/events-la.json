@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles County Fair Spring Events",
-      "description": "春のロサンゼルス郡フェア。子ども向けの乗り物、ゲーム、ライブエンターテインメント、グルメが楽しめます。家族向けの特別イベントやワークショップも開催されます。",
-      "date": "5月中旬〜下旬",
-      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://www.fairplex.com",
-      "free": false
+      "title": "ロサンゼルス・フラワーマーケット（LA Flower Market）",
+      "description": "毎週木曜～日曜に開催される屋外フラワーマーケット。色とりどりの花が並び、子どもも楽しめる。朝が特におすすめ。家族連れ向けに優しい雰囲気。",
+      "date": "5月中旬～下旬（毎週開催）",
+      "place": "700 San Julian St, Los Angeles, CA 90014",
+      "link": "https://www.laflowermarket.com",
+      "free": true
     },
     {
-      "title": "Santa Monica Pier Spring Activities & Beach Day",
-      "description": "サンタモニカピアのアミューズメントパーク、遊園地での乗り物体験。パシフィックパークの観覧車やジェットコースターが子どもに人気。ビーチでの砂遊びも無料で楽しめます。",
-      "date": "5月通年",
-      "place": "Santa Monica Pier & Pacific Park, 380 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
-      "free": false
+      "title": "グリフィス天文台での春の特別プログラム",
+      "description": "グリフィス天文台では5月に子ども向けの天体観測プログラムやワークショップが開催。展示エリアは無料で楽しめ、市街地全体とハリウッドの眺めも最高。",
+      "date": "5月上旬～下旬（通年開催）",
+      "place": "2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
+      "free": true
     },
     {
-      "title": "LA Zoo Spring Program & Wild Animal Encounters",
-      "description": "ロサンゼルス動物園の春の特別プログラム。新緑の季節に様々な動物を観察。子ども向けの教育プログラムや動物との触れ合いイベントが開催されます。",
-      "date": "5月通年",
-      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "title": "ロサンゼルス動物園の春イベント（Spring at the Zoo）",
+      "description": "5月はベビーアニマルシーズン。新生児の動物たちが展示され、子どもたちのワークショップやタッチング体験などの特別プログラムが充実している。",
+      "date": "5月中旬～下旬",
+      "place": "5333 Zoo Drive, Los Angeles, CA 90027",
       "link": "https://www.lazoo.org",
       "free": false
     },
     {
-      "title": "Griffith Park Free Hiking & Nature Exploration",
-      "description": "グリフィス公園での無料ハイキングと自然散策。子ども向けの歩きやすいトレイルがあり、パノラマビュー、博物館、遊び場など家族で楽しめます。",
-      "date": "5月通年",
-      "place": "Griffith Park, 4730 Crystal Springs Drive, Los Angeles, CA 90027",
-      "link": "https://www.laparks.org/griffith-park",
+      "title": "ビーチクリーンアップ&ビーチデー（Santa Monica Beach）",
+      "description": "サンタモニカビーチでの屋外アクティビティ。5月は天気良く、家族向けビーチプログラムやマリンスポーツ体験が多数。波が穏やかで子どもに最適。",
+      "date": "5月上旬～下旬",
+      "place": "1550 Pacific Coast Hwy, Santa Monica, CA 90401",
+      "link": "https://www.smgov.net/departments/park/divisions/beaches/",
       "free": true
     },
     {
-      "title": "Natural History Museum of LA County - Free Programming",
-      "description": "ロサンゼルス郡立自然史博物館の春の特別展示・子ども向けワークショップ。恐竜展示、動物展示など学びながら楽しめます。毎月第2日曜日は無料入館日。",
-      "date": "5月通年（第2日曜日が無料）",
-      "place": "Natural History Museum of LA County, 900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://nhm.org",
-      "free": true
+      "title": "ロサンゼルス子ども博物館（LA Children's Museum）の特別展示",
+      "description": "5月は春のテーマで手作り体験や屋内の対話型展示が充実。乳幼児エリアから小学生向けまで多彩なワークショップ。室内で快適に楽しめる。",
+      "date": "5月中旬～下旬",
+      "place": "800 N Alameda St, Los Angeles, CA 90012",
+      "link": "https://www.lachildrensmuseum.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-01T01:46:01.489Z"
+  "updatedAt": "2026-05-02T01:24:08.440Z"
 }

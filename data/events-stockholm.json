@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン庭園祭（Swedish Garden Festival）",
-      "description": "ストックホルム周辺の庭園が公開される春の祭典。子ども向けの庭園ツアーやワークショップ、花畑の散策が楽しめます。5月の美しい北欧の春を満喫できます。",
+      "title": "スウェーデン・フローラ・フェスティバル（Stockholms Blomsterfestival）",
+      "description": "5月のストックホルムで開催される花の祭典。庭園や公園が色とりどりの花で彩られ、子ども向けのワークショップや花関連のアクティビティが展開されます。",
       "date": "5月中旬〜下旬",
-      "place": "ストックホルム市内及び周辺地域複数箇所",
-      "link": "https://www.stockholmturistbyra.se",
-      "free": true
-    },
-    {
-      "title": "スカンセン野外博物館の春イベント",
-      "description": "北欧の伝統的な家屋や動物園がある屋外博物館。5月は子羊やひよこなど春の動物たちが見られ、伝統工芸体験やスウェーディッシュフィーカが楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "Junibacken, Djurgården, Stockholm",
-      "link": "https://www.skansen.se",
+      "place": "ストックホルム市内各所（主にDrottningholmやスクーグスキルケゴーデン）",
+      "link": "",
       "free": false
     },
     {
-      "title": "ユニバッケン（Junibacken）の春プログラム",
-      "description": "スウェーデンの児童文学をテーマとした子ども向け施設。5月は春の特別展示やピッピ・ロングストッキングのキャラクター体験イベントなど、室内外で子どもたちが楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "Galärvägen 14, 115 21 Stockholm",
+      "title": "スウェーデン・シンフォニエッタ美術館の子ども向けプログラム",
+      "description": "Moderna Museetでは5月に子ども向けの特別展示やワークショップを開催。アート体験を通じて創造性を育むプログラムです。",
+      "date": "5月通期",
+      "place": "Moderna Museet, Skeppsholmen, 111 49 Stockholm",
+      "link": "https://www.modernamuseet.se",
+      "free": false
+    },
+    {
+      "title": "ユールゴーデン島での無料散策・遊び",
+      "description": "子連れに最適な公園島。Gröna Lundテーマパーク周辺やビーチで無料で遊べます。初夏の日差しの中、家族でのんびり過ごせます。",
+      "date": "5月通期",
+      "place": "Djurgårdsvägen, Junibacken周辺, Stockholm",
+      "link": "https://www.djurgarden.se",
+      "free": true
+    },
+    {
+      "title": "Junibacken（子どもの本のテーマランド）での春イベント",
+      "description": "スウェーデン児童文学がテーマの施設。5月は新年度プログラムで、北欧の童話を題材にしたインタラクティブな展示が充実しています。",
+      "date": "5月通期",
+      "place": "Nordiska museivägen 7, Djurgården, 115 93 Stockholm",
       "link": "https://www.junibacken.se",
       "free": false
     },
     {
-      "title": "ジャージックス公園（Gärdet）での屋外アクティビティ",
-      "description": "広大な芝生公園で、5月は家族向けのピクニックやスポーツイベント、公園散策が無料で楽しめます。自転車や遊具も充実し、春の北欧の自然を感じられます。",
-      "date": "5月上旬〜下旬",
-      "place": "Gärdet, Stockholm",
-      "link": "",
+      "title": "ストックホルム群島での無料島巡りツアー・散策",
+      "description": "5月の好天を活かして、水上バスで群島の島々を巡る。多くの小島は入場無料で、ハイキングやビーチで自然を楽しめます。",
+      "date": "5月通期",
+      "place": "Strandvägen terminal及びNorrmalm地区の船乗り場",
+      "link": "https://www.visitstockholm.com",
       "free": true
-    },
-    {
-      "title": "ヴァーサ号博物館のキッズプログラム",
-      "description": "17世紀の戦艦が展示される博物館。5月は子ども向けのガイドツアーやインタラクティブ展示、船舶の歴史を学ぶワークショップが開催されます。",
-      "date": "5月上旬〜下旬",
-      "place": "Galärvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-01T01:45:30.496Z"
+  "updatedAt": "2026-05-02T01:23:38.064Z"
 }

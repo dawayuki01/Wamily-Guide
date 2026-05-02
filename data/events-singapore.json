@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・ドラゴンボート・フェスティバル",
-      "description": "端午節を祝うドラゴンボートレース。カラフルなボートや文化パフォーマンスが楽しめ、子どもも参加型のアクティビティが多数あります。",
+      "title": "シンガポール・セーリング・フェスティバル",
+      "description": "5月に開催される帆船イベント。子どもも参加できるセーリング体験や海辺でのファミリーアクティビティが充実。海上での冒険体験が楽しめます。",
       "date": "5月中旬",
-      "place": "Marina Bay, Singapore",
-      "link": "https://www.visitsingapore.com/",
-      "free": true
-    },
-    {
-      "title": "シンガポール国立蘭園（National Orchid Garden）の季節展示",
-      "description": "1000種以上の蘭が咲く東南アジア最大級の蘭園。5月は見どころが多く、屋外散策に最適です。子ども向けガイドツアーもあります。",
-      "date": "5月通期",
-      "place": "1 Orchid Club Road, Singapore 257884",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/gardens/singapore-botanic-gardens",
+      "place": "Marina Bay, シンガポール",
+      "link": "",
       "free": false
     },
     {
-      "title": "シンガポール・サイエンス・センター「子ども向けワークショップ」",
-      "description": "STEM教育に基づくインタラクティブな実験教室。5月は夏休み企画として特別プログラムが開催され、乳幼児から小学生まで楽しめます。",
-      "date": "5月下旬～6月",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg/",
+      "title": "ガーデンズ・バイ・ザ・ベイ ドラゴンボート・フェスティバル",
+      "description": "ドラゴンボート選手権の開催時期。無料で観賞できるエリアもあり、カラフルなボートレースと祭りの雰囲気を家族で楽しめます。",
+      "date": "5月下旬",
+      "place": "Gardens by the Bay, East Coast Park, シンガポール",
+      "link": "https://www.gardensbythebay.com.sg",
+      "free": true
+    },
+    {
+      "title": "シンガポール動物園 ファミリーサマーキャンプ",
+      "description": "乳幼児から小学生向けの特別プログラム。動物との触れ合いや教育的なワークショップが開催されます。夏休み前の特別企画です。",
+      "date": "5月下旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, シンガポール",
+      "link": "https://www.zoo.com.sg",
       "free": false
     },
     {
-      "title": "イースト・コースト・パーク「ファミリー・バイク・イベント」",
-      "description": "子連れ向けの自転車イベントやレンタサイクル。15km以上の海沿いサイクリング道が整備され、家族で屋外を楽しめます。",
-      "date": "5月上旬～下旬（週末開催）",
-      "place": "East Coast Park, 1210 East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "イースト・コースト・パーク サイクリング・フェスティバル",
+      "description": "家族向けの自転車体験イベント。子ども用自転車レンタルや初心者向けスクールがあり、シンガポール最大のパークで屋外アクティビティを満喫。",
+      "date": "5月上旬",
+      "place": "East Coast Park, シンガポール",
+      "link": "https://www.nparks.gov.sg",
       "free": true
     },
     {
-      "title": "チャイナタウン・ヘリテージ・フェスティバル（端午節マーケット）",
-      "description": "伝統的な月餅やおもちゃ、工芸品が並ぶマーケット。屋台グルメも充実し、文化体験と食べ歩きが同時に楽しめます。",
-      "date": "5月中旬",
-      "place": "Chinatown Heritage Centre & surroundings, Singapore",
-      "link": "https://www.visitsingapore.com/",
-      "free": true
+      "title": "シンガポール・ユニバーサル・スタジオ キッズ・サマー・プログラム",
+      "description": "乳幼児〜小学生向けの特別ショーやワークショップ。キャラクター・グリーティングや年齢別アクティビティで家族全員が楽しめます。",
+      "date": "5月中旬〜下旬",
+      "place": "Universal Studios Singapore, 8 Sentosa Gateway, Sentosa Island",
+      "link": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-01T01:45:38.099Z"
+  "updatedAt": "2026-05-02T01:23:45.182Z"
 }

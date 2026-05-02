@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・フラワー・フェスティバル（サンタ・ルチア・フェスティバル）",
-      "description": "5月中旬、マニラの花市場やショッピングモールで開催される花のフェスティバル。色とりどりの花の装飾や子ども向けの花のクラフト体験が楽しめます。",
-      "date": "5月中旬",
-      "place": "マニラ市内各地（Quirino Grandstand周辺など）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "スター・シティ遊園地での家族向けイベント",
-      "description": "マニラ郊外の大型テーマパーク。5月は夏休みに向けた子ども向け特別イベントやキャラクター出演が多数。ジェットコースターから乗り物まで家族で楽しめます。",
-      "date": "5月全期間",
-      "place": "Star City, R10, Las Piñas, メトロ・マニラ",
-      "link": "https://www.starcity.com.ph/",
+      "title": "SMモール・オブ・アジア（MOA）サマーフェスティバル",
+      "description": "5月はフィリピンの夏シーズン。MOAでは子ども向けイベント、ゲーム、エンターテインメントが充実。家族向けの屋内型アクティビティが豊富です。",
+      "date": "5月上旬〜中旬",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
       "free": false
     },
     {
-      "title": "リサール公園（Rizal Park）での家族向けアウトドア活動",
-      "description": "マニラ中心部の広大な公園。無料で楽しめ、芝生でのピクニック、子ども向けの遊具、アイススケートリンク、動物園が併設。5月は天候が良く家族向けアクティビティに最適です。",
+      "title": "タマラウ博物館（The Tamawiwi Children's Interactive Museum）での特別展示",
+      "description": "フィリピンの文化や自然をテーマにした子ども向けインタラクティブ展示。乳幼児〜小学生向けの体験型学習プログラムが開催されます。",
+      "date": "5月中旬〜下旬",
+      "place": "Bonifacio Global City, Taguig",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "リサル公園（Rizal Park）でのアウトドア活動",
+      "description": "マニラの広大な公園。5月は晴天が多く、ピクニック、サイクリング、子ども向け遊具エリアでの遊びが楽しめます。入園無料で家族向け。",
       "date": "5月全期間",
-      "place": "Rizal Park, P. Burgos St., Ermita, Manila",
-      "link": "https://www.ncrpd.gov.ph/",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.nha.gov.ph/",
       "free": true
     },
     {
-      "title": "フィリピン国立博物館の子ども向けプログラム",
-      "description": "館内ガイドツアーや子ども向けワークショップを実施。5月は夏休み対応の特別プログラムがあり、フィリピンの自然・歴史・文化を学べます。",
-      "date": "5月全期間（土日祝中心）",
-      "place": "Padre Burgos Ave., Ermita, Manila",
+      "title": "フィリピン国立博物館の子ども向けワークショップ",
+      "description": "フィリピンの歴史と文化を学べる無料入館日あり。子ども向けのガイドツアーやワークショップがあり、家族連れに人気です。",
+      "date": "5月中旬（無料日）",
+      "place": "National Museum, Manila",
       "link": "https://www.nationalmuseum.gov.ph/",
-      "free": false
+      "free": true
     },
     {
-      "title": "マニラ湾沿いのサイクリング・ウォーキングアクティビティ",
-      "description": "Bay City Walk など湾沿いのプロムナード整備地帯。5月は朝方が快適。自転車レンタルやファミリー向けアスレチック施設で、無料で子どもと一緒に運動できます。",
-      "date": "5月全期間（早朝がおすすめ）",
-      "place": "Manila Bay Promenade, Baywalk, マニラ市",
-      "link": "",
-      "free": true
+      "title": "アキノ水族館（Aquarium of Manila Bay）の夏プログラム",
+      "description": "海の生き物との対話体験や特別展示。5月の夏休み前シーズンに子ども向けの教育プログラムやフィーディングショーが開催されます。",
+      "date": "5月中旬〜下旬",
+      "place": "1200 Roxas Boulevard, Manila",
+      "link": "https://www.manilaaquarium.com/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-01T01:45:54.580Z"
+  "updatedAt": "2026-05-02T01:24:00.354Z"
 }

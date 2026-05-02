@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリの春の花々（チューリップ・バラの見頃）",
-      "description": "ルクセンブルク公園やモネ庭園で、チューリップやバラが満開の季節。広大な庭園で子どもが自由に走り回れる屋外アクティビティです。",
-      "date": "5月上旬〜中旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ市内各所",
-      "link": "https://www.paris.fr/pages/les-jardins-de-paris-1734",
-      "free": true
-    },
-    {
-      "title": "アルテ・パリ美術館の子ども向け特別プログラム",
-      "description": "5月に開催される子ども向けワークショップやガイドツアー。アート体験を通じて、親子で美術を学べるプログラムです。",
-      "date": "5月中旬〜下旬（開催日は変動）",
-      "place": "ポンピドゥ・センター（Centre Pompidou）、75004 Paris",
-      "link": "https://www.centrepompidou.fr",
+      "title": "パリ・フローラル（Paris Floral）",
+      "description": "パリ植物園で開催される春の花の祭典。チューリップ、バラ、アイリスなど色とりどりの花が咲き誇り、子どもも楽しめる自然散策スポット。季節ならではの美しい景観が魅力です。",
+      "date": "5月上旬〜下旬",
+      "place": "パリ植物園（Jardin des Plantes）、5 Rue Cuvier, 75005 Paris",
+      "link": "https://www.jardindesplantes.net",
       "free": false
     },
     {
-      "title": "フェスティバル・シネマ・パリ（春の映画祭）",
-      "description": "5月に開催される子ども向け上映会やアニメーション映画の特集上映。家族で楽しめる映画イベントです。",
-      "date": "5月中旬〜下旬",
-      "place": "パリ市内の映画館各所",
+      "title": "セーヌ河沿いの屋外マーケットとピクニック",
+      "description": "5月は天気が良く、セーヌ河畔の定期市場（アメリ市場など）で地元の野菜や花を購入してピクニック。無料で楽しめる屋外活動で、家族向けの最適な季節です。",
+      "date": "5月通年（週末）",
+      "place": "セーヌ河沿い各地（例：Marché Raspail, Boulevard Raspail, 75006 Paris）",
       "link": "",
+      "free": true
+    },
+    {
+      "title": "ルクセンブルク公園での無料屋外レクリエーション",
+      "description": "パリ最大級の公園で、遊具、馬乗り、人形劇、セーリング池など子ども向けアクティビティが充実。5月の晴天時は家族で1日楽しめる無料の屋外スポット。",
+      "date": "5月通年",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、Rue de Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardin",
+      "free": true
+    },
+    {
+      "title": "パリ科学産業博物館のキッズプログラム",
+      "description": "Cité des Sciences et de l'Industrieの子ども向け常設展示「Cité des Enfants」。5月の春休み時期に特別プログラムが展開。科学実験や技術体験が学べます。",
+      "date": "5月通年（春休み期間に特別催行）",
+      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "モンマルトレの街角マーケット・フェスタ",
-      "description": "モンマルトレ地区で開催される春の定期マーケット。手工芸品、食べ物、子ども向けアクティビティが集まり、親子で散策できます。",
-      "date": "5月中旬の週末",
-      "place": "モンマルトレ地区（Montmartre）、18区",
-      "link": "https://www.paris.fr/pages/les-marches-a-paris-1732",
-      "free": true
-    },
-    {
-      "title": "セーヌ川沿いのファミリーフェスティバル",
-      "description": "5月の天候の良い時期に、セーヌ川河畔で開催される家族向けイベント。屋外ゲーム、音楽、飲食などが楽しめます。",
-      "date": "5月下旬の週末",
-      "place": "セーヌ川河畔（ポンヌフ周辺など）",
-      "link": "",
-      "free": true
+      "title": "セーヌ川クルーズと船上アクティビティ",
+      "description": "5月の天候が良い時期、家族向けセーヌ川クルーズが運行。低年齢の子どもでも楽しめる観光船で、パリの主要建造物を水上から鑑賞。屋外活動としておすすめです。",
+      "date": "5月通年",
+      "place": "バトー・ムーシュ乗船地（Pont de l'Alma, 75008 Paris）",
+      "link": "https://www.bateau-mouche.paris",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-01T01:45:22.774Z"
+  "updatedAt": "2026-05-02T01:23:29.131Z"
 }
