@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン（水灯祭）の準備期間・早期イベント",
-      "description": "5月はロイクラトン（11月）に向けた準備期間。一部商業施設で早期イベントや工作ワークショップが開催。子どもが灯籠作りを学べます。",
+      "title": "ロイクラトン（水灯籠祭）の準備市場・物販イベント",
+      "description": "5月はロイクラトン（11月）に向けた準備商品が市場に並び始める季節。子どもと一緒に伝統工芸品や灯籠作りの体験ができる屋外マーケットイベントが各地で開催されます。",
       "date": "5月中旬〜下旬",
-      "place": "バンコク市内の商業施設（サイアムパラゴン、エムボリウムなど）",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "サファリワールド（Safari World）- 季節キャンペーン",
-      "description": "バンコク郊外の野生動物テーマパーク。乳幼児から楽しめるドライブスルーサファリと動物ショーが人気。5月は雨季前で比較的快適。",
-      "date": "5月通年営業",
-      "place": "99 Ramindra Rd, Sai Mai, Bangkok 10220, Thailand",
-      "link": "https://www.safariworld.com/",
-      "free": false
-    },
-    {
-      "title": "ベンジャキティ公園でのピクニック・無料水遊び",
-      "description": "広大な公園で遊具や池があり、子ども向けの施設が充実。5月は雨季ですが午前中の訪問がおすすめ。無料で楽しめる屋外スポット。",
-      "date": "5月通年（午前中推奨）",
-      "place": "Benjakitti Park, Sukhumvit Road, Bangkok 10110",
-      "link": "https://www.bangkok.gov.th/",
+      "place": "チャトゥチャック・ウィークエンド・マーケット周辺、バンコク全域",
+      "link": "https://www.bangkoktourist.com",
       "free": true
     },
     {
-      "title": "シルク博物館（Jim Thompson House）- 子ども向けツアー",
-      "description": "バンコクの文化を学べる博物館。英語ツアーで子ども向けプログラムも。タイの伝統工芸への理解が深まります。",
-      "date": "5月通年営業",
-      "place": "6 Soi Kasemsan 2, Rama I Road, Pathum Wan, Bangkok 10330",
-      "link": "https://www.jimthompsonhouse.com/",
+      "title": "サファリワールド（Safari World）の特別子ども向けプログラム",
+      "description": "バンコク郊外のサファリワールドでは5月に親子向けの動物との触れ合いプログラムや乗車体験が実施されます。乳幼児から参加でき、屋外で野生動物を間近に観察できます。",
+      "date": "5月上旬〜下旬",
+      "place": "Safari World, 99 Soi Ram Intra 3, Ramkamhaeng Rd., Bangkok 10240",
+      "link": "https://www.safariworld.com",
       "free": false
     },
     {
-      "title": "アクアマリン（Aquamarine）での無料イベント・涼しい環境",
-      "description": "バンコク中心部の水族館。5月は暑く雨の季節のため、涼しい室内で海の生き物を観察できます。定期的に無料イベント開催。",
-      "date": "5月通年営業",
-      "place": "11/1 Soi Sukhumvit 49, Sukhumvit Road, Prakanong, Wattana, Bangkok 10110",
-      "link": "https://www.aquariumthailand.com/",
+      "title": "ルンピニ公園での無料屋外アクティビティ・キッズプログラム",
+      "description": "バンコク中心部のルンピニ公園では、5月に無料の子ども向け運動教室やヨガクラス、動物観察ツアーが週末に開催されます。緑豊かな環境で家族でリラックスできます。",
+      "date": "5月全期間（週末開催）",
+      "place": "Lumphini Park, Rama IV Rd., Pathum Wan, Bangkok 10330",
+      "link": "https://www.bangkoktourist.com/lumphini-park",
+      "free": true
+    },
+    {
+      "title": "シーナカリン博物館・キッズ夏休みプリ・プログラム",
+      "description": "5月はタイの学校休暇時期に合わせ、子ども向けの特別展示や体験ワークショップが開催されます。タイ文化や自然科学をテーマにした対話型の展示が楽しめます。",
+      "date": "5月全期間",
+      "place": "Siam Niramit, 19 Sirinart Rd., Huay Kwang, Bangkok 10310",
+      "link": "https://www.siamniramit.com",
       "free": false
+    },
+    {
+      "title": "アジアティーク・ザ・リバーフロントの無料ファミリーイベント",
+      "description": "チャオプラヤ川沿いのアジアティークでは5月にキッズ向けの文化体験ワークショップ（タイ工芸、ダンス）や無料ステージパフォーマンスが週末開催されます。",
+      "date": "5月週末開催",
+      "place": "Asiatique the Riverfront, 2194 Charoen Krung Rd., Bangkok 10120",
+      "link": "https://www.asiatiqueriverfrontbkk.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-02T01:23:53.158Z"
+  "updatedAt": "2026-05-03T01:27:28.843Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・セーリング・フェスティバル",
-      "description": "5月に開催される帆船イベント。子どもも参加できるセーリング体験や海辺でのファミリーアクティビティが充実。海上での冒険体験が楽しめます。",
-      "date": "5月中旬",
-      "place": "Marina Bay, シンガポール",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "ガーデンズ・バイ・ザ・ベイ ドラゴンボート・フェスティバル",
-      "description": "ドラゴンボート選手権の開催時期。無料で観賞できるエリアもあり、カラフルなボートレースと祭りの雰囲気を家族で楽しめます。",
-      "date": "5月下旬",
-      "place": "Gardens by the Bay, East Coast Park, シンガポール",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
+      "description": "Museumエリアでの大規模な夜間文化祭。光と音のインスタレーション、パフォーマンス、ワークショップが開催。子ども向けの体験ブースや家族向けイベントが充実。",
+      "date": "5月中旬〜下旬（2025年実績に基づく）",
+      "place": "Stamford Road周辺・Museum District、シンガポール",
+      "link": "https://www.singaporenightfestival.com",
       "free": true
     },
     {
-      "title": "シンガポール動物園 ファミリーサマーキャンプ",
-      "description": "乳幼児から小学生向けの特別プログラム。動物との触れ合いや教育的なワークショップが開催されます。夏休み前の特別企画です。",
-      "date": "5月下旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, シンガポール",
+      "title": "Singapore Zoo の春期スペシャルプログラム",
+      "description": "動物園の屋外体験型プログラム。乳幼児向けの動物触れ合いコーナー、ショーやワークショップが毎日開催。5月の天気が安定した時期の利用に最適。",
+      "date": "5月通期",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
       "link": "https://www.zoo.com.sg",
       "free": false
     },
     {
-      "title": "イースト・コースト・パーク サイクリング・フェスティバル",
-      "description": "家族向けの自転車体験イベント。子ども用自転車レンタルや初心者向けスクールがあり、シンガポール最大のパークで屋外アクティビティを満喫。",
-      "date": "5月上旬",
-      "place": "East Coast Park, シンガポール",
-      "link": "https://www.nparks.gov.sg",
+      "title": "Vesak Day（ウェサック・デー）セレブレーション",
+      "description": "仏教の重要な祭日。各寺院でのセレモニー、ランタン飾り、屋台、家族向けの文化体験コーナーが開催。シンガポール文化を学べるイベント。",
+      "date": "5月中旬（毎年変動）",
+      "place": "Thean Hou Temple及び各地の寺院、シンガポール",
+      "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "シンガポール・ユニバーサル・スタジオ キッズ・サマー・プログラム",
-      "description": "乳幼児〜小学生向けの特別ショーやワークショップ。キャラクター・グリーティングや年齢別アクティビティで家族全員が楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "Universal Studios Singapore, 8 Sentosa Gateway, Sentosa Island",
-      "link": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore",
+      "title": "East Coast Park での家族向け屋外アクティビティ",
+      "description": "広大なビーチパークでサイクリング、凧揚げ、砂遊びが楽しめます。家族向けレンタル施設やプレイグラウンドも充実。5月は気候が安定した季節。",
+      "date": "5月通期",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449876",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "ArtScience Museum のファミリー向けワークショップ",
+      "description": "マリーナベイサンズ内の博物館。乳幼児向けアートワークショップ、インタラクティブ展示、デジタル体験が充実。家族向けの特別プログラムが開催されます。",
+      "date": "5月通期",
+      "place": "Marina Bay Sands, 6 Bayfront Avenue, Singapore 018974",
+      "link": "https://www.marinabaysands.com/en/museum.html",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-02T01:23:45.182Z"
+  "updatedAt": "2026-05-03T01:27:19.248Z"
 }

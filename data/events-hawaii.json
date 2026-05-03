@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デイ）",
-      "description": "5月1日はハワイの伝統的な花飾り「レイ」を祝う日。公園でレイ作りのワークショップや伝統文化の展示が行われ、子どもも参加できるプログラムが豊富です。",
+      "title": "Lei Day（レイ・デー）",
+      "description": "ハワイの伝統文化を祝う5月1日のイベント。レイの製作体験、フラダンス、伝統音楽など家族で楽しめるプログラムが各地で開催されます。",
       "date": "5月1日周辺",
-      "place": "カピオラニ公園（Kapiolani Park）、ホノルル",
+      "place": "カピオラニ公園（ホノルル）、各ショッピングモール",
       "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "ホノルル・フェスティバル（Honolulu Festival）",
-      "description": "太平洋周辺地域の文化を祝う大規模フェスティバル。ステージパフォーマンス、フードベンダー、文化体験ブースなど、子連れで楽しめるアクティビティが充実しています。",
-      "date": "5月上旬（毎年3月開催だが5月にも関連イベントあり）",
-      "place": "ホノルル市内各地",
-      "link": "https://www.honolulufestival.com/",
+      "title": "ホノルル・シティ・ライツ・フェスティバル周辺のファミリーイベント",
+      "description": "春から初夏の週末に開催されるファーマーズマーケットやハンドクラフトフェア。新鮮なトロピカルフルーツ、手作り工芸品、キッズワークショップなど家族向けのアクティビティが豊富です。",
+      "date": "5月の週末",
+      "place": "KCC ファーマーズマーケット（ホノルル）",
+      "link": "https://www.kkccfarmersmarket.com/",
       "free": true
     },
     {
-      "title": "ハイキング・ダイヤモンドヘッド",
-      "description": "ワイキキの象徴的なハイキング。往復約1時間半で、頂上からの絶景は必見。子どもの体力に応じて部分的に楽しめます。朝早い時間がおすすめ。",
-      "date": "5月中旬〜下旬（天候の良い時期）",
-      "place": "ダイヤモンドヘッド州立公園、ホノルル",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "title": "ホアキング・トレイル・ハイキング＆ビーチアクティビティ",
+      "description": "5月は気候が安定し、子どもとのハイキングに最適な季節。ダイヤモンドヘッドやマノア滝など、家族向けの初級コースでハワイの自然を満喫できます。",
+      "date": "5月上旬〜下旬",
+      "place": "ダイヤモンドヘッド、マノア滝トレイル（ホノルル）",
+      "link": "https://www.gohawaii.com/",
+      "free": true
+    },
+    {
+      "title": "ホノルル水族館（Waikiki Aquarium）のスプリングプログラム",
+      "description": "海洋生物について学べるキッズ向けワークショップやガイドツアーが充実。タッチプール体験など乳幼児から楽しめるプログラムが展開されます。",
+      "date": "5月通年開催",
+      "place": "ワイキキ水族館（ホノルル、ワイキキビーチ近く）",
+      "link": "https://www.waikikiaquarium.org/",
       "free": false
     },
     {
-      "title": "ホノルル・ズー・サマーコンサート",
-      "description": "ホノルル・ズー主催の家族向けコンサートシリーズ。芝生でピクニックしながら音楽を楽しめ、子どもの入園も割引。夜間の涼しい時間での開催です。",
-      "date": "5月中旬〜下旬の週末",
-      "place": "ホノルル・ズー（Honolulu Zoo）、カピオラニ公園内",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "シュノーケリング・ハナウマ湾",
-      "description": "ハワイ州立水中公園。多くの魚や海の生き物が見られ、浅瀬で子どもも安全にシュノーケリング体験できます。5月は水温も温かく最適シーズン。",
-      "date": "5月中旬〜下旬（通年可能）",
-      "place": "ハナウマ湾（Hanauma Bay）、東オアフ",
-      "link": "https://www.honolulu.gov/parks-recreation/facility-permits/hanauma-bay.html",
+      "title": "ハワイアン・ビレッジ・ルアウ・ナイト",
+      "description": "ハワイ文化を体験できるルアウディナーショー。フラダンス、ファイアーダンス、バイキング料理など子どもも大人も楽しめるエンターテイメントです。",
+      "date": "5月通年開催",
+      "place": "ヒルトン・ハワイアン・ビレッジ（ワイキキ）",
+      "link": "https://www.hiltonhawaiianvillage.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-02T01:24:16.536Z"
+  "updatedAt": "2026-05-03T01:27:53.856Z"
 }
