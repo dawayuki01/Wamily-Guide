@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館の春季子ども向け企画展",
-      "description": "5月はスウェーデン文化や自然をテーマにした子ども向けの対話型展示やワークショップが開催されます。乳幼児から小学生まで楽しめる体験型の展示が特徴です。",
-      "date": "5月上旬〜下旬",
-      "place": "Nationalmuseum Stockholm、Södra Blasieholmen、103 27 Stockholm",
-      "link": "https://www.nationalmuseum.se/",
-      "free": false
-    },
-    {
-      "title": "スキンスカン島（Skansen）の春の動物園散歩と伝統家屋見学",
-      "description": "屋外博物館スキンスカンでは5月に春の新緑が美しく、北欧動物たちが活発になります。伝統的なスウェーデン家屋と動物の両方が楽しめる家族向けスポット。",
-      "date": "5月上旬〜下旬",
-      "place": "Skansen、Djurgårdsvägen 49-51、100 82 Stockholm",
-      "link": "https://www.skansen.se/",
-      "free": false
-    },
-    {
-      "title": "ジェッドマルクトゥスパーク（Gamla Stan）での春の屋外散策と無料イベント",
-      "description": "ストックホルムの歴史地区ガムラスタンは5月に花が咲き、石畳の通りは家族向けの雰囲気。週末には無料の伝統音楽やストリートパフォーマンスが開催されることがあります。",
-      "date": "5月上旬〜下旬",
-      "place": "Gamla Stan、Stockholm",
-      "link": "https://www.stockholm.se/",
+      "title": "スウェーデン文化祭（Kulturama Festival）",
+      "description": "5月に開催される北欧最大級の多文化フェスティバル。子ども向けワークショップ、音楽パフォーマンス、食べ物の屋台が充実。家族連れで楽しめるイベント。",
+      "date": "5月中旬",
+      "place": "Raoul Wallenbergs torg, Stockholm",
+      "link": "https://www.kulturama.se",
       "free": true
     },
     {
-      "title": "グレーナ・ルンド遊園地（Gröna Lund）の春のオープニング期間",
-      "description": "スウェーデン最古の遊園地が5月に春シーズンをオープン。子ども向けのアトラクションやファミリー向けライドが多く、北欧の季節を感じながら遊べます。",
-      "date": "5月上旬〜下旬",
-      "place": "Gröna Lund、Allmänna vägen 9、100 82 Stockholm",
-      "link": "https://www.gronalund.com/",
+      "title": "スカンセン野外博物館の春季特別展示",
+      "description": "北欧動物園と伝統建築が融合した施設。春は子動物たちの誕生ラッシュ。動物とのふれあい体験や昔ながらの職人技を体験できます。",
+      "date": "5月全期間",
+      "place": "Djurgården, Skansen, Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーランドスハゲン公園（Djurgården）での自転車ツアーと自然散策",
-      "description": "ジューガーデン島は5月に春の花が満開。公園内のレンタル自転車で家族で散策でき、子ども向けアクティビティも充実。自然の中で北欧の春を体験できます。",
-      "date": "5月上旬〜下旬",
-      "place": "Djurgården、Stockholm",
-      "link": "https://www.stockholm.se/besok-stockholm/attraktioner/djurgarden/",
+      "title": "ユーランダー公園での桜ウォーキング",
+      "description": "ストックホルムの桜の名所。5月は遅咲きの桜が満開で、美しい並木道を散策できます。ピクニックスポット完備で家族向け。",
+      "date": "5月上旬〜中旬",
+      "place": "Djurgården, Eulandervägen, Stockholm",
+      "link": "",
       "free": true
+    },
+    {
+      "title": "スウェーデン王立自然史博物館の子ども向けプログラム",
+      "description": "恐竜展示やインタラクティブな化石体験。5月は特別な子ども向けワークショップを開催。手作業で学べるプログラム充実。",
+      "date": "5月全期間",
+      "place": "Frescativägen 40, Stockholm",
+      "link": "https://www.nrm.se",
+      "free": false
+    },
+    {
+      "title": "ヴァサ号博物館のファミリーツアー",
+      "description": "17世紀の戦艦ヴァサ号を展示。5月はファミリー向けガイドツアーやキッズプログラムが充実。子どもも大人も熱中できます。",
+      "date": "5月全期間",
+      "place": "Galärvägen 14, Stockholm",
+      "link": "https://www.vasamuseet.se",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-03T01:27:11.131Z"
+  "updatedAt": "2026-05-04T01:25:52.676Z"
 }

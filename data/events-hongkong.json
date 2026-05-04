@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フローラル・エキスポ 2026（予定）",
-      "description": "春の花々が咲き誇る大規模な花のイベント。子どもと一緒に色彩豊かな庭園を散策でき、植物に関する教育プログラムも開催されます。",
-      "date": "5月上旬〜中旬",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣",
-      "link": "https://www.lcsd.gov.hk",
+      "title": "香港花卉展覧会（Hong Kong Flower Show）",
+      "description": "春の花々が咲き誇る香港最大級の花の展覧会。色鮮やかなディスプレイと家族向けワークショップで、子どもたちが自然を学べます。",
+      "date": "5月中旬",
+      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk/en/eventscalendar/event_detail.html",
       "free": false
     },
     {
-      "title": "スターフェリーの船上体験＆スターフェリー博物館見学",
-      "description": "100年以上の歴史を持つスターフェリーで、ビクトリア湾を横断。小学生向けの教育プログラムや、博物館で香港の歴史を学べます。屋外で海風を感じられるアクティビティ。",
-      "date": "通年（5月は天候良好）",
-      "place": "スターフェリー乗車点・中環〜尖沙咀、スターフェリー博物館",
-      "link": "https://www.starferry.com.hk",
+      "title": "スターフェリー乗車体験＆スターフェリーミュージアム",
+      "description": "香港のアイコン「スターフェリー」で、ビクトリアハーバーのクルーズを楽しめます。子どもも大人も喜ぶ屋外アクティビティで、香港の歴史も学べます。",
+      "date": "通年（5月は気候良好）",
+      "place": "スターフェリー乗船所・中環（Central）及び尖沙咀（Tsim Sha Tsui）",
+      "link": "https://www.starferry.com.hk/en",
       "free": false
     },
     {
-      "title": "香港サイエンス・ミュージアム子ども向けプログラム",
-      "description": "夏休み前の5月、子ども向けの特別ワークショップやSTEM体験が充実。乳幼児から小学生まで対応した展示が多数。館内で半日〜1日楽しめます。",
+      "title": "香港科学館・特別展示プログラム",
+      "description": "子ども向けの体験型展示やワークショップが充実。5月の期間限定プログラムで、科学を楽しく学べます。乳幼児〜小学生向けコンテンツが豊富です。",
       "date": "5月通期",
-      "place": "香港サイエンス・ミュージアム、尖沙咀",
-      "link": "https://www.hk.science.museum",
+      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀（Tsim Sha Tsui East）",
+      "link": "https://www.scm.gov.hk/en/index.html",
       "free": false
     },
     {
-      "title": "ビクトリアピーク・トラムウェイと野外散策",
-      "description": "ビクトリアピークへのトラムで絶景を楽しみ、ピークトラムウェイ駅周辺の無料散策エリアで香港の街並みを一望。子どもも安全に楽しめる屋外アクティビティ。",
-      "date": "通年（5月は気温適度）",
-      "place": "ビクトリアピーク・トラムウェイ、中環スターション",
-      "link": "https://www.thepeak.com.hk",
-      "free": false
+      "title": "ビクトリアパーク・無料ファミリーデー",
+      "description": "香港最大の公園で、子ども向けの無料ゲームイベントやピクニックを楽しめます。広場での凧揚げや遊具など、家族で過ごすのに最適です。",
+      "date": "5月の週末",
+      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk/en/parks/victoria_park.html",
+      "free": true
     },
     {
-      "title": "香港公園の無料オープンエリア散策＆水遊び",
-      "description": "広大な香港公園内の無料エリアで、池、橋、庭園を自由に散策。5月は天候も良く、子ども向けの水遊びエリアもあり、家族で丸一日過ごせます。",
+      "title": "スター・ピアス（Star Piers）周辺・無料ウォーターフロント散策",
+      "description": "中環のスター・ピアース周辺の無料のウォーターフロントプロムナードで、ハーバービューを楽しみながら散策。子どもも歩きやすく、屋外アクティビティに最適です。",
       "date": "5月通期",
-      "place": "香港公園（Hong Kong Park）、中環",
-      "link": "https://www.lcsd.gov.hk/en/parks",
+      "place": "スター・ピアーズ（Star Piers）、中環（Central）",
+      "link": "https://www.tourism.gov.hk/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-03T01:28:09.614Z"
+  "updatedAt": "2026-05-04T01:26:48.905Z"
 }

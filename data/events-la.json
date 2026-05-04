@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フェスティバル・オブ・ブックス",
-      "description": "毎年4月開催の北米最大級の書籍イベント。子ども向けの読書ワークショップ、キャラクターミートアンドグリート、ストーリータイムステージなど家族向けプログラム充実。",
-      "date": "4月下旬～5月上旬",
-      "place": "セントラルパーク（Downtown LA）",
-      "link": "https://www.lasbookfestival.org",
+      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market）",
+      "description": "5月は春の花が最盛期。カラフルな花々が並ぶ市場を散策できます。無料で楽しめ、子どもと一緒に季節の花を探索できます。",
+      "date": "5月通年（月〜土曜営業）",
+      "place": "LA Flower Market, 742 Maple Ave, Los Angeles, CA 90015",
+      "link": "https://www.laflowermarket.com/",
       "free": true
     },
     {
-      "title": "グリフィス天文台でのプラネタリウム＆春の星空観察",
-      "description": "ロサンゼルス最高の観光スポット。5月は晴天が多く星が綺麗。子ども向けプラネタリウムショー、天文台の望遠鏡見学、展示施設が充実。屋外のハイキングトレイルも家族向け。",
-      "date": "5月通年",
-      "place": "グリフィス天文台、4730 Crystal Springs Drive, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
-      "free": true
-    },
-    {
-      "title": "サンタモニカ・ビーチ・スプリング・フェスティバル",
-      "description": "サンタモニカ・ビーチでの春のファミリーフェスティバル。ビーチクリーンアップ、キッズアクティビティ、ライブパフォーマンス、地元工芸品展示。親子で楽しめるビーチデイ。",
+      "title": "ハンティントン・ビーチ・ビーチ・フェスティバル（Huntington Beach Surfing Walk of Fame）",
+      "description": "5月中旬にサーフ関連イベントが開催。ビーチでのアクティビティ、キッズ向けプログラム、屋台など家族向けの催し物が充実しています。",
       "date": "5月中旬",
-      "place": "サンタモニカ・ビーチ、Santa Monica Beach, CA",
+      "place": "Huntington Beach Pier, Huntington Beach, CA 92648",
       "link": "",
       "free": true
     },
     {
-      "title": "LA動物園のSpring Wild Days",
-      "description": "動物園の春季スペシャルイベント。新しい動物の展示、子ども向けのワークショップ、エデュケーショナルショー、スプリングテーマのアクティビティが開催される。",
-      "date": "5月上旬～中旬",
-      "place": "ロサンゼルス動物園、5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "title": "グリフィス天文台（Griffith Observatory）特別プログラム",
+      "description": "5月は天体観測に最適な時期。キッズ向けの天体ショーや特別展示が開催されます。無料での施設見学も可能です。",
+      "date": "5月通年",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
+      "free": true
+    },
+    {
+      "title": "ロサンゼルス自然史博物館（Natural History Museum of Los Angeles）イベント",
+      "description": "5月は恐竜展やキッズ向けワークショップが充実。屋外ガーデンも整備され、家族で知的に楽しめます。",
+      "date": "5月通年",
+      "place": "Natural History Museum, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://nhm.org/",
       "free": false
     },
     {
-      "title": "ハンティントン・ライブラリーの春の庭園散策＆子ども向けプログラム",
-      "description": "広大な庭園で咲き誇る春の花。子ども向けのアート教室、庭園ツアー、自然学習プログラムが開催。芝生での家族ピクニックも可。建築と芸術を楽しめる。",
-      "date": "5月上旬～下旬",
-      "place": "ハンティントン・ライブラリー、1151 Oxford Road, San Marino, CA 91108",
-      "link": "https://www.huntingtonlibrary.org",
-      "free": false
+      "title": "サンタモニカ・ビーチ・アクティビティ（Santa Monica Beach & Pier）",
+      "description": "5月は気候が最適。ビーチでの海水浴、ピアの遊園地施設、屋台を楽しめます。家族向けの屋外アクティビティに最適です。",
+      "date": "5月通年",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-03T01:27:45.317Z"
+  "updatedAt": "2026-05-04T01:26:25.092Z"
 }

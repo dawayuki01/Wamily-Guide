@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリの庭園での春の花祭り",
-      "description": "モネの庭園の睡蓮、チューリップ、バラが見頃を迎える季節。ルクセンブルク公園やベルサイユ宮殿の庭園で色鮮やかな花々を楽しめます。子どもの走り回るスペースも豊富。",
+      "title": "パリ・プランタン百貨店 春のフラワーディスプレイ",
+      "description": "5月はパリの百貨店が春の花で装飾されるシーズン。プランタン・オスマンの豪華な花の装飾は子どもたちにも人気。無料で楽しめます。",
       "date": "5月上旬〜下旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）、75006 Paris",
-      "link": "https://www.senat.fr/visite/index.html",
+      "place": "Galeries Lafayette Haussmann, 40 Boulevard Haussmann, 75009 Paris",
+      "link": "https://www.galerieslafayette.com/",
       "free": true
     },
     {
-      "title": "ベルサイユ宮殿・子ども向けガイドツアー",
-      "description": "5月は気候が良く、宮殿や庭園の見学に最適。多くの子ども向けアクティビティガイドやファミリープログラムが開催され、歴史を楽しく学べます。",
-      "date": "5月通期",
-      "place": "ベルサイユ宮殿（Château de Versailles）, 78000 Versailles",
-      "link": "https://www.chateauversailles.fr/",
-      "free": false
-    },
-    {
-      "title": "パリのエアトリップ・トランポリンパーク",
-      "description": "屋内のトランポリンパークで、子どもが思いっきり遊べるアクティビティ。5月の変わりやすい天気でも楽しめる屋内施設。乳幼児向けエリアも完備。",
-      "date": "5月通期",
-      "place": "Parc Aéro'Tramp, 95200 Sarcelles",
-      "link": "https://www.aerotramp.fr/",
-      "free": false
-    },
-    {
-      "title": "セーヌ川のオープンエア・スクリーン映画祭",
-      "description": "5月中旬から夏にかけて、セーヌ河畔で無料または低価格の映画上映。子ども向け作品も多く、パリの夜景を楽しみながら映画鑑賞できます。",
-      "date": "5月中旬〜下旬",
-      "place": "セーヌ河畔（Parc Rives de Seine）, 75001 Paris",
-      "link": "https://www.paris.fr/",
+      "title": "パリ・プラージュ（Paris-Plage）の準備期間・オープニング",
+      "description": "セーヌ河岸がビーチに変身するイベント。5月下旬から始まり、砂浜、レジャーエリア、キッズゾーンで無料で楽しめます。屋外アクティビティに最適。",
+      "date": "5月下旬〜",
+      "place": "Seine Riverbanks, Central Paris (Right Bank and Left Bank)",
+      "link": "https://www.paris.fr/pages/paris-plage-7998",
       "free": true
     },
     {
-      "title": "シテ島・水族館＆ノートルダム周辺の散策",
-      "description": "パリ水族館（Aquarium de Paris）で海の生き物を観察。5月の気候で島内の散策も快適。子どもにとって人気の施設で、屋内外両方で楽しめます。",
-      "date": "5月通期",
-      "place": "パリ水族館（Aquarium de Paris Cinéaqua）, 5 Avenue Albert de Mun, 75016 Paris",
-      "link": "https://www.aquariumdeparis.com/",
+      "title": "ルクセンブルク公園のポニーライドと子ども向けアクティビティ",
+      "description": "パリで最も美しい公園。5月は天候が良く、子ども向けのポニーライド、人形劇、砂場などが楽しめます。ピクニックスポットとしても最適。",
+      "date": "5月全期間",
+      "place": "Jardin du Luxembourg, 75006 Paris",
+      "link": "https://www.senatsgarten.de/",
       "free": false
+    },
+    {
+      "title": "パリ市立科学産業博物館（Cité des Sciences et de l'Industrie）の春の特別展示",
+      "description": "子ども向けの対話型展示が豊富。5月は春の特別プログラムで、幼児向けから小学生向けのワークショップが充実しています。",
+      "date": "5月全期間",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr/",
+      "free": false
+    },
+    {
+      "title": "モンマルトルのアーティスト・フェスティバル＆花市場",
+      "description": "5月下旬、モンマルトルではアーティストの作品展示や地元アーティストによるペイント実演が行われます。伝統的なフランス文化を体験できます。",
+      "date": "5月下旬",
+      "place": "Place du Tertre, 75018 Paris",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-03T01:27:02.739Z"
+  "updatedAt": "2026-05-04T01:25:45.869Z"
 }
