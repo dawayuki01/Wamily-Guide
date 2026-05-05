@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market）",
-      "description": "5月は春の花が最盛期。カラフルな花々が並ぶ市場を散策できます。無料で楽しめ、子どもと一緒に季節の花を探索できます。",
-      "date": "5月通年（月〜土曜営業）",
-      "place": "LA Flower Market, 742 Maple Ave, Los Angeles, CA 90015",
-      "link": "https://www.laflowermarket.com/",
-      "free": true
-    },
-    {
-      "title": "ハンティントン・ビーチ・ビーチ・フェスティバル（Huntington Beach Surfing Walk of Fame）",
-      "description": "5月中旬にサーフ関連イベントが開催。ビーチでのアクティビティ、キッズ向けプログラム、屋台など家族向けの催し物が充実しています。",
-      "date": "5月中旬",
-      "place": "Huntington Beach Pier, Huntington Beach, CA 92648",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "グリフィス天文台（Griffith Observatory）特別プログラム",
-      "description": "5月は天体観測に最適な時期。キッズ向けの天体ショーや特別展示が開催されます。無料での施設見学も可能です。",
+      "title": "ロサンゼルス子ども美術館 春の特別展示",
+      "description": "対話型アート展示と工作ワークショップ。乳幼児から小学生まで楽しめるハンズオン体験型の展示が5月も継続予定。創造性を刺激する多数のプログラムあり。",
       "date": "5月通年",
+      "place": "Los Angeles Children's Museum, 800 S Olive Ave, Los Angeles, CA 90017",
+      "link": "https://www.lacm.org/",
+      "free": false
+    },
+    {
+      "title": "グリフィス天文台 家族向け科学イベント",
+      "description": "春の夜空観察イベントと昼間のプラネタリウムショー。子ども向けに分かりやすい天文学プログラムが充実。晴天時は望遠鏡での観察も可能。",
+      "date": "5月全期間",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "ロサンゼルス自然史博物館（Natural History Museum of Los Angeles）イベント",
-      "description": "5月は恐竜展やキッズ向けワークショップが充実。屋外ガーデンも整備され、家族で知的に楽しめます。",
-      "date": "5月通年",
+      "title": "サンタモニカビーチ5月シーズン",
+      "description": "気候が穏やかな5月、家族向けビーチアクティビティのベストシーズン。桟橋のアミューズメントパーク、砂浜遊び、自転車道での散策など屋外活動が充実。",
+      "date": "5月全期間",
+      "place": "Santa Monica Beach & Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonica.com/",
+      "free": true
+    },
+    {
+      "title": "ロサンゼルス郡立自然史博物館 春企画展",
+      "description": "恐竜展示や自然科学の体験コーナー。子どもが触って学べるインタラクティブ展示が多数。5月は虫や自然に関する特別プログラムを実施予定。",
+      "date": "5月全期間",
       "place": "Natural History Museum, 900 Exposition Blvd, Los Angeles, CA 90007",
       "link": "https://nhm.org/",
       "free": false
     },
     {
-      "title": "サンタモニカ・ビーチ・アクティビティ（Santa Monica Beach & Pier）",
-      "description": "5月は気候が最適。ビーチでの海水浴、ピアの遊園地施設、屋台を楽しめます。家族向けの屋外アクティビティに最適です。",
-      "date": "5月通年",
-      "place": "Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com/",
+      "title": "グレンデール・ファーマーズマーケット 家族向けイベント",
+      "description": "毎週日曜開催の地元産新鮮野菜・果物・工芸品マーケット。ライブ音楽、子ども向けワークショップ、地元グルメがある家族向けスポット。",
+      "date": "5月毎週日曜",
+      "place": "Glendale Farmers Market, 217 S Brand Blvd, Glendale, CA 91204",
+      "link": "https://www.glendaleaz.com/farmers-market",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-04T01:26:25.092Z"
+  "updatedAt": "2026-05-05T01:26:28.775Z"
 }

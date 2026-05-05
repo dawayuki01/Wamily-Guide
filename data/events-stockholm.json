@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン文化祭（Kulturama Festival）",
-      "description": "5月に開催される北欧最大級の多文化フェスティバル。子ども向けワークショップ、音楽パフォーマンス、食べ物の屋台が充実。家族連れで楽しめるイベント。",
-      "date": "5月中旬",
-      "place": "Raoul Wallenbergs torg, Stockholm",
-      "link": "https://www.kulturama.se",
+      "title": "スウェーデン国立美術館の子ども向け春の特別プログラム",
+      "description": "5月の春シーズンに合わせた子ども向けワークショップや家族鑑賞プログラムが開催されます。美術館での創作体験を通じて、スウェーデン文化を学べます。",
+      "date": "5月上旬～下旬",
+      "place": "Nationalmuseum Stockholm, Södra Blasieholmen, 111 48 Stockholm",
+      "link": "https://www.nationalmuseum.se",
+      "free": false
+    },
+    {
+      "title": "ガムラ・スタン（旧市街）の春の広場散策と無料探検",
+      "description": "中世の風情が残る旧市街を家族で散策。5月の爽やかな季節に、石畳の通りや隠れた広場を探検。子どもが楽しむ無料のアクティビティです。",
+      "date": "5月上旬～下旬",
+      "place": "Gamla Stan, Stockholm",
+      "link": "https://www.stockholmtown.com",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の春季特別展示",
-      "description": "北欧動物園と伝統建築が融合した施設。春は子動物たちの誕生ラッシュ。動物とのふれあい体験や昔ながらの職人技を体験できます。",
-      "date": "5月全期間",
-      "place": "Djurgården, Skansen, Stockholm",
+      "title": "スカンセン野外博物館の春の動物園・庭園体験",
+      "description": "北欧最大級の野外博物館。5月は新緑が美しく、動物たちも活発になる季節。スウェーデンの伝統建築と自然を家族で学べます。",
+      "date": "5月上旬～下旬",
+      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーランダー公園での桜ウォーキング",
-      "description": "ストックホルムの桜の名所。5月は遅咲きの桜が満開で、美しい並木道を散策できます。ピクニックスポット完備で家族向け。",
-      "date": "5月上旬〜中旬",
-      "place": "Djurgården, Eulandervägen, Stockholm",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "スウェーデン王立自然史博物館の子ども向けプログラム",
-      "description": "恐竜展示やインタラクティブな化石体験。5月は特別な子ども向けワークショップを開催。手作業で学べるプログラム充実。",
-      "date": "5月全期間",
-      "place": "Frescativägen 40, Stockholm",
-      "link": "https://www.nrm.se",
+      "title": "ユーゴータ運河でのボートツアーと桜・春の花見",
+      "description": "ストックホルムの水路を船で巡るファミリーボートツアー。5月の春の花が咲く季節に、運河沿いの景観を子どもと楽しめる屋外アクティビティです。",
+      "date": "5月上旬～下旬",
+      "place": "Gothenburg Canal Tour starting points, Stockholm",
+      "link": "https://www.stromkaanalbolaget.se",
       "free": false
     },
     {
-      "title": "ヴァサ号博物館のファミリーツアー",
-      "description": "17世紀の戦艦ヴァサ号を展示。5月はファミリー向けガイドツアーやキッズプログラムが充実。子どもも大人も熱中できます。",
-      "date": "5月全期間",
-      "place": "Galärvägen 14, Stockholm",
+      "title": "ヴァーサ博物館の家族向け特別ガイドツアー",
+      "description": "世界で唯一の17世紀の戦艦を見学。5月は春の特別ファミリーツアーが実施され、子どもにも分かりやすく海の歴史を学べます。",
+      "date": "5月上旬～下旬",
+      "place": "Vasa Museum, Galärvägen 14, 115 21 Stockholm",
       "link": "https://www.vasamuseet.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-04T01:25:52.676Z"
+  "updatedAt": "2026-05-05T01:25:57.176Z"
 }

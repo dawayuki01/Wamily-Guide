@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day Celebration（レイ・デー）",
-      "description": "ハワイの伝統文化を祝う祭り。5月1日を中心にレイ製作体験、音楽、ダンスパフォーマンスが開催。子ども向けワークショップも充実しており、ハワイアンカルチャーを学べます。",
+      "title": "Lei Day（レイ・デイ）",
+      "description": "5月1日はハワイの伝統的な花輪「レイ」を祝う日。公園でレイ作り体験、フラダンス、ハワイアン音楽の無料イベントが開催されます。",
       "date": "5月1日前後",
-      "place": "イオラニ宮殿（Iolani Palace）およびホノルル各地",
-      "link": "https://www.iolanipalace.org",
+      "place": "カピオラニ公園（Kapiolani Park）、ホノルル",
+      "link": "https://www.honolulu.gov",
       "free": true
     },
     {
-      "title": "ホノルル・フェスティバル・オブ・アーツ・アンド・カルチャー",
-      "description": "太平洋地域の文化を祝う大規模フェスティバル。パレード、ステージパフォーマンス、キッズゾーン、ワークショップなど家族向けコンテンツが豊富です。無料エリアも多くあります。",
-      "date": "5月下旬の週末（予定）",
-      "place": "ホノルル（ダウンタウン、ハイブロー周辺）",
-      "link": "https://www.honolulufestival.com",
-      "free": true
-    },
-    {
-      "title": "キキア・トレイル・ハイキング体験",
-      "description": "初心者向けハイキングコース。5月は気候が過ごしやすく、緑に囲まれたハワイの自然を満喫できます。幼児連れはベビーキャリア推奨。眺望抜群で家族の思い出作りに最適です。",
-      "date": "5月中旬〜下旬",
-      "place": "キキア・トレイル（オアフ島中部、カイルア近郊）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "ワイキキ水族館（Waikiki Aquarium）スペシャルプログラム",
-      "description": "子ども向けの海洋生物学習プログラムやタッチプール体験が開催。インタラクティブな展示で海の生き物について学べます。5月の雨が少ない時期は屋外エリアも快適です。",
-      "date": "5月通年",
-      "place": "ワイキキ水族館（2777 Kalakaua Avenue, Honolulu）",
-      "link": "https://www.waikikiaquarium.org",
+      "title": "Honolulu Zoo & Aquarium ファミリープログラム",
+      "description": "ホノルル動物園では5月にファミリー向けの教育プログラムやワークショップを開催。動物との距離が近く、乳幼児から楽しめます。",
+      "date": "5月通期（週末開催）",
+      "place": "ホノルル動物園（Honolulu Zoo）、カピオラニ公園内",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "ホノルル・ハーバー・キッズ・フェスティバル",
-      "description": "水辺での屋外イベント。子ども向けのウォータースポーツ体験、エンターテイメント、フードコートが充実。家族連れに人気で、ハワイらしい海の文化を体験できます。",
-      "date": "5月中旬の週末（予定）",
-      "place": "ホノルル・ハーバー（ダウンタウン）",
-      "link": "",
+      "title": "Hawaii Volcanoes National Park ハイキング＆火山体験",
+      "description": "5月は天気が安定し、ハイキングに最適な季節。火山地形の探索、キラウエア火山の観景、キッズ向けレンジャープログラムが楽しめます。",
+      "date": "5月通期",
+      "place": "ハワイ火山国立公園（Hawaii Volcanoes National Park）、ビッグアイランド",
+      "link": "https://www.nps.gov/havo",
+      "free": false
+    },
+    {
+      "title": "Farmers Market（ファーマーズマーケット）",
+      "description": "ホノルルの複数の場所で毎週開催。新鮮な地元野菜、トロピカルフルーツ、ハワイアン工芸品が並びます。試食やローカルグルメも無料で楽しめます。",
+      "date": "5月通期（週末）",
+      "place": "KCC Farmers Market（カカアコ地区）ほか",
+      "link": "https://www.kccfarmersmarket.com",
       "free": true
+    },
+    {
+      "title": "Waikiki Aquarium（ワイキキ水族館）スペシャルプログラム",
+      "description": "5月はタッチプール体験、ウミガメ観察、キッズ向けマリンサイエンス教室など季節プログラムを実施。乳幼児向けのプレイエリアもあります。",
+      "date": "5月通期",
+      "place": "ワイキキ水族館（Waikiki Aquarium）、ホノルル",
+      "link": "https://www.waikikiaquarium.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-04T01:26:33.291Z"
+  "updatedAt": "2026-05-05T01:26:36.076Z"
 }

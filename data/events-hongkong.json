@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港花卉展覧会（Hong Kong Flower Show）",
-      "description": "春の花々が咲き誇る香港最大級の花の展覧会。色鮮やかなディスプレイと家族向けワークショップで、子どもたちが自然を学べます。",
-      "date": "5月中旬",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
-      "link": "https://www.lcsd.gov.hk/en/eventscalendar/event_detail.html",
-      "free": false
-    },
-    {
-      "title": "スターフェリー乗車体験＆スターフェリーミュージアム",
-      "description": "香港のアイコン「スターフェリー」で、ビクトリアハーバーのクルーズを楽しめます。子どもも大人も喜ぶ屋外アクティビティで、香港の歴史も学べます。",
-      "date": "通年（5月は気候良好）",
-      "place": "スターフェリー乗船所・中環（Central）及び尖沙咀（Tsim Sha Tsui）",
-      "link": "https://www.starferry.com.hk/en",
-      "free": false
-    },
-    {
-      "title": "香港科学館・特別展示プログラム",
-      "description": "子ども向けの体験型展示やワークショップが充実。5月の期間限定プログラムで、科学を楽しく学べます。乳幼児〜小学生向けコンテンツが豊富です。",
-      "date": "5月通期",
-      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀（Tsim Sha Tsui East）",
-      "link": "https://www.scm.gov.hk/en/index.html",
-      "free": false
-    },
-    {
-      "title": "ビクトリアパーク・無料ファミリーデー",
-      "description": "香港最大の公園で、子ども向けの無料ゲームイベントやピクニックを楽しめます。広場での凧揚げや遊具など、家族で過ごすのに最適です。",
-      "date": "5月の週末",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
-      "link": "https://www.lcsd.gov.hk/en/parks/victoria_park.html",
+      "title": "香港フローラルフェスティバル（香港花卉展覽會）",
+      "description": "春の花々が咲き誇る季節。ビクトリア公園で色彩豊かな花壇や造景展示が楽しめます。子どもも喜ぶ花の迷路やフォトスポットが多数あります。",
+      "date": "5月上旬〜中旬",
+      "place": "ビクトリア公園（Victoria Park）、銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/en/arts/events.html",
       "free": true
     },
     {
-      "title": "スター・ピアス（Star Piers）周辺・無料ウォーターフロント散策",
-      "description": "中環のスター・ピアース周辺の無料のウォーターフロントプロムナードで、ハーバービューを楽しみながら散策。子どもも歩きやすく、屋外アクティビティに最適です。",
+      "title": "スターフェリーでの海上クルーズ体験",
+      "description": "香港の伝統的な交通手段。ビクトリアハーバーの景色を楽しみながら、実際に船で移動します。5月の天気が良い時期には爽快感が味わえます。子どもにとって忘れられない体験になります。",
       "date": "5月通期",
-      "place": "スター・ピアーズ（Star Piers）、中環（Central）",
-      "link": "https://www.tourism.gov.hk/",
+      "place": "スターフェリー乗り場、セントラル〜尖沙咀",
+      "link": "https://www.starferry.com.hk/",
+      "free": false
+    },
+    {
+      "title": "香港科学館の特別展示・子ども向けプログラム",
+      "description": "季節ごとに特別展示が開催されます。インタラクティブな展示で、子どもたちが科学を学びながら遊べます。5月は屋内で快適に過ごせる選択肢として最適です。",
+      "date": "5月通期",
+      "place": "香港科学館、尖沙咀",
+      "link": "https://www.lcsd.gov.hk/sc_chi/museums/science/index.html",
+      "free": false
+    },
+    {
+      "title": "ハイキング・ネイチャーウォーク（新界・郊外コース）",
+      "description": "スターフェリーハイキングやタイモシーハイキングなど、家族向けの短距離コースが豊富。初夏の爽やかな気候で、香港の自然を満喫できます。子ども向けコースもあります。",
+      "date": "5月通期",
+      "place": "新界各地（スターフェリー、タイモシーなど）",
+      "link": "https://www.discoverhongkong.com/jp/see-do/outdoor-activities/hiking.html",
       "free": true
+    },
+    {
+      "title": "香港ディズニーランド・スプリングセレブレーション",
+      "description": "春のテーマパークイベント。キャラクターグリーティング、パレード、特別装飾が楽しめます。子どもたちが大好きなディズニーの世界を存分に楽しめます。",
+      "date": "5月中旬〜下旬",
+      "place": "香港ディズニーランド、ランタオ島",
+      "link": "https://www.hongkongdisneyland.com/ja-jp/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-04T01:26:48.905Z"
+  "updatedAt": "2026-05-05T01:26:53.002Z"
 }

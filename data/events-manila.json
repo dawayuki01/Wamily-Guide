@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィエスタ・デ・サンタ・クルス（Santa Cruz Fiesta）",
-      "description": "5月初旬に行われるマニラの伝統的なお祭り。パレード、音楽、ダンスなど家族向けのイベントが多く、フィリピン文化を体験できます。屋台や露店も充実しています。",
-      "date": "5月1日〜5日頃",
-      "place": "キアポ教会周辺・マニラ市内各所（Quiapo Church, Manila）",
-      "link": "https://www.philippinestravelassociation.com",
+      "title": "SM Mall of Asia サマー キッズ フェスティバル",
+      "description": "フィリピン最大級のショッピングモールで開催される子ども向けイベント。ゲーム、ワークショップ、キャラクターグリーティングなど家族向けの催しが多数。",
+      "date": "5月上旬〜中旬",
+      "place": "SM Mall of Asia, Bay Boulevard, Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
       "free": true
     },
     {
-      "title": "フィリピン国立博物館・子どもミュージアムプログラム",
-      "description": "恐竜展示やインタラクティブな科学展示が充実。5月の特別プログラムでは自然史や生物多様性をテーマにした体験型イベントが実施されます。",
-      "date": "5月通年（変更あり要確認）",
-      "place": "フィリピン国立博物館（National Museum of the Philippines, Rizal Park, Manila）",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "title": "マニラ湾サンセット・アウトドア活動",
+      "description": "マニラ湾沿いの公園でのサイクリング、散歩、公園での無料遊び。5月は乾季で過ごしやすく、家族でのアウトドアに最適。バイシクル・レンタルサービスも利用可能。",
+      "date": "5月中旬〜下旬",
+      "place": "Manila Bay Dolomite Beach / Rizal Park 付近, Manila",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "フィリピン国立博物館 キッズプログラム",
+      "description": "子ども向けの特別ガイドツアーやインタラクティブ展示。恐竜、自然史、芸術を学べます。毎週末にワークショップやアクティビティを開催。",
+      "date": "5月毎週末",
+      "place": "National Museum Complex, Padre Burgos Ave, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     },
     {
-      "title": "リサール公園でのアウトドアアクティビティ",
-      "description": "マニラ最大の公園。5月は乾季で散歩やピクニックに最適。子ども向けの遊具エリアや美術館、水族館施設があります。広大な緑地で家族向けの運動が楽しめます。",
+      "title": "アキノ公園（Rizal Park）でのアウトドア体験",
+      "description": "マニラ最大の公園でのピクニック、遊具での遊び、湖でのボート体験。乾季の5月は天候が安定しており家族向けアクティビティに最適。",
       "date": "5月通年",
-      "place": "リサール公園（Rizal Park, Manila）",
-      "link": "https://www.tourism.gov.ph",
+      "place": "Rizal Park, Padre Burgos Ave, Manila",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "スターシティ・ファミリーフェスティバル",
-      "description": "テーマパークで実施される5月の家族向けイベント。乗り物割引やキャラクター出演、子ども向けゲームなどが楽しめます。乳幼児から楽しめるアトラクションが豊富です。",
-      "date": "5月中旬〜下旬（日程要確認）",
-      "place": "スターシティ（Star City, Amusement Park, Pasay City）",
-      "link": "https://www.starcityph.com",
-      "free": false
-    },
-    {
-      "title": "マニラ湾サンセット・アイランドホッピング体験",
-      "description": "5月の乾季は海上での屋外アクティビティに最適。近郊の島へのツアーが多数運行。シュノーケリングやビーチ遊びで子どもも楽しめます。",
-      "date": "5月通年（天候による）",
-      "place": "マニラ湾・コレヒドール島周辺（Manila Bay Cruises）",
-      "link": "",
+      "title": "Star City テーマパーク 家族向けキャンペーン",
+      "description": "フィリピンの遊園地。5月はサマーシーズンで子ども向けイベントやプロモーションが実施。アトラクション、ゲーム、キャラクターショーが楽しめます。",
+      "date": "5月中旬〜下旬",
+      "place": "Star City, Corner of EDSA and Taft Avenue, Pasay City",
+      "link": "https://www.star-city.com.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-04T01:26:17.790Z"
+  "updatedAt": "2026-05-05T01:26:21.217Z"
 }

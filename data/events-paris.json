@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プランタン百貨店 春のフラワーディスプレイ",
-      "description": "5月はパリの百貨店が春の花で装飾されるシーズン。プランタン・オスマンの豪華な花の装飾は子どもたちにも人気。無料で楽しめます。",
+      "title": "モネの庭園 ジヴェルニー（睡蓮の庭園見頃）",
+      "description": "5月はモネの睡蓮やアイリスが最盛期。色彩豊かな庭園は子どもたちの感性を刺激します。屋外での散策は家族向けの最高のアクティビティです。",
       "date": "5月上旬〜下旬",
-      "place": "Galeries Lafayette Haussmann, 40 Boulevard Haussmann, 75009 Paris",
-      "link": "https://www.galerieslafayette.com/",
-      "free": true
-    },
-    {
-      "title": "パリ・プラージュ（Paris-Plage）の準備期間・オープニング",
-      "description": "セーヌ河岸がビーチに変身するイベント。5月下旬から始まり、砂浜、レジャーエリア、キッズゾーンで無料で楽しめます。屋外アクティビティに最適。",
-      "date": "5月下旬〜",
-      "place": "Seine Riverbanks, Central Paris (Right Bank and Left Bank)",
-      "link": "https://www.paris.fr/pages/paris-plage-7998",
-      "free": true
-    },
-    {
-      "title": "ルクセンブルク公園のポニーライドと子ども向けアクティビティ",
-      "description": "パリで最も美しい公園。5月は天候が良く、子ども向けのポニーライド、人形劇、砂場などが楽しめます。ピクニックスポットとしても最適。",
-      "date": "5月全期間",
-      "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.senatsgarten.de/",
+      "place": "84 rue Claude Monet, 27620 Giverny",
+      "link": "https://fondation-monet.com/en",
       "free": false
     },
     {
-      "title": "パリ市立科学産業博物館（Cité des Sciences et de l'Industrie）の春の特別展示",
-      "description": "子ども向けの対話型展示が豊富。5月は春の特別プログラムで、幼児向けから小学生向けのワークショップが充実しています。",
-      "date": "5月全期間",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/",
+      "title": "パリ市立公園の5月祭（Fêtes de Mai）",
+      "description": "パリの公園で開催される季節の祭典。キッズワークショップ、ストリートパフォーマンス、屋台など家族向けの無料イベントが多数開催されます。",
+      "date": "5月中旬〜下旬",
+      "place": "パリ市内各公園（ルクセンブルク公園、ビュット・オー・カイユ公園など）",
+      "link": "https://www.paris.fr",
+      "free": true
+    },
+    {
+      "title": "ルーヴル美術館 ファミリーデー",
+      "description": "毎月第1日曜日に開催される親子向けプログラム。託児サービス、子ども向けガイドツアー、ワークショップで美術館を楽しく学べます。",
+      "date": "5月第1日曜日と毎月第1日曜日",
+      "place": "Rue de Rivoli, 75004 Paris",
+      "link": "https://www.louvre.fr/en",
       "free": false
     },
     {
-      "title": "モンマルトルのアーティスト・フェスティバル＆花市場",
-      "description": "5月下旬、モンマルトルではアーティストの作品展示や地元アーティストによるペイント実演が行われます。伝統的なフランス文化を体験できます。",
-      "date": "5月下旬",
-      "place": "Place du Tertre, 75018 Paris",
+      "title": "セーヌ川沿い野外マーケット＆ピクニックスポット",
+      "description": "5月は天気が良く、セーヌ川沿いのマーケットで地元野菜や花を購入してピクニック。アイル・サン・ルイやポン・デ・ザールなど無料で楽しめます。",
+      "date": "5月通年（特に週末）",
+      "place": "セーヌ川沿い、アイル・サン・ルイ周辺",
       "link": "",
       "free": true
+    },
+    {
+      "title": "シテ科学館（Cité des Sciences）子ども向けスペシャルプログラム",
+      "description": "春季プログラムとして、5歳以上向けのSTEAM体験ワークショップ、プラネタリウムなど。双眼鏡実験など手動型アクティビティで学習できます。",
+      "date": "5月通年（週末・祝日中心）",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-04T01:25:45.869Z"
+  "updatedAt": "2026-05-05T01:25:49.529Z"
 }

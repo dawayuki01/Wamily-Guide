@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Dragon Boat Festival（ドラゴンボートフェスティバル）",
-      "description": "旧暦5月5日に開催される中華文化の伝統行事。カラフルなドラゴンボートのレース、屋台、文化パフォーマンスが楽しめます。子どもも参加可能なアクティビティがあります。",
-      "date": "5月中旬～下旬（旧暦による）",
-      "place": "Marina Bay, シンガポール",
-      "link": "https://www.visitsingapore.com",
+      "description": "中国の伝統行事。カラフルなドラゴンボートレース、屋台、文化パフォーマンスが楽しめます。子ども向けの体験コーナーやワークショップも開催されます。",
+      "date": "5月中旬〜下旬（旧暦5月5日前後）",
+      "place": "Marina Bay、East Coast Park周辺",
+      "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "Singapore Science Centre - School Holiday Programme",
-      "description": "科学館の子ども向け特別プログラム。5月の学校休暇期間にSTEM関連のワークショップ、実験体験、プラネタリウムなどの特別展示が開催されます。",
-      "date": "5月（学校休暇期間）",
-      "place": "15 Science Centre Road, シンガポール 609081",
-      "link": "https://www.science.edu.sg",
+      "title": "Singapore Zoo - Asian Animals Night Safari",
+      "description": "夜間営業特別プログラム。普段見られない夜行動物の行動が観察でき、子ども向けのガイドツアーやインタラクティブ体験が充実しています。",
+      "date": "5月通年開催（毎晩営業）",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.nightsafari.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park - Outdoor Family Activities",
-      "description": "シンガポール最大の海浜公園。5月の好天の中、サイクリング、ローラーブレード、ビーチでの水遊びなど家族で楽しめるアウトドアアクティビティが無料で楽しめます。",
-      "date": "5月通年",
-      "place": "East Coast Parkway, シンガポール",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "Vesak Day Celebration（ウェサク祭）",
+      "description": "仏教の祝日。寺院ではランタン飾り、パレード、フェスティバルが開催。子どもも参加できるお祈りや文化体験が多くあります。",
+      "date": "5月下旬（旧暦4月15日）",
+      "place": "Thean Hou Temple、Sakya Muni Buddha Gaya Templeほか各寺院",
+      "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "Singapore Zoo & River Safari - May School Holiday Events",
-      "description": "動物園と川のサファリの5月限定イベント。子ども向けの動物エンカウンター、教育的なショー、季節の生き物展示など特別プログラムが充実しています。",
-      "date": "5月（学校休暇期間）",
-      "place": "80 Mandai Lake Road, シンガポール 729826",
-      "link": "https://www.singaporezoo.com",
-      "free": false
+      "title": "East Coast Park Cycling & Water Activities",
+      "description": "広大な公園で自転車、インラインスケート、ウォーターアクティビティが楽しめます。子ども向けのレンタル設備やビーチアクティビティが充実。",
+      "date": "5月通年開催（天候による）",
+      "place": "East Coast Park, 440 East Coast Road",
+      "link": "https://www.nparks.gov.sg",
+      "free": true
     },
     {
-      "title": "Sentosa Island - Family Beach Activities",
-      "description": "リゾートアイランドのセントーサ島。5月の温暖な気候で、ビーチでの砂遊び、ウォーターパーク、家族向けアトラクションが集中。島内は比較的安全で子連れに最適です。",
-      "date": "5月通年",
-      "place": "Sentosa Island, シンガポール",
-      "link": "https://www.sentosa.com.sg",
+      "title": "ArtScience Museum - Family Programs",
+      "description": "マリーナベイサンズ内の美術館。5月は子ども向けのアートワークショップと特別展示が開催。インタラクティブな体験で創造力を育みます。",
+      "date": "5月通年開催（毎日営業）",
+      "place": "6 Bayfront Avenue, Marina Bay Sands, Singapore 018974",
+      "link": "https://www.artscience.museum",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-04T01:26:00.614Z"
+  "updatedAt": "2026-05-05T01:26:04.698Z"
 }
