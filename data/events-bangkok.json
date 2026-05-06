@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン水灯祭（準備期間・イベント）",
-      "description": "5月はロイクラトン準備シーズン。子どもたちが灯籠作りワークショップに参加でき、タイ文化を体験できます。水上での灯籠流しは11月ですが、5月から準備イベントが各地で開催されます。",
+      "title": "ロイクラトン水灯祭の準備期間・工芸体験",
+      "description": "11月のロイクラトン祭に向けた準備期間。バンコク市内の寺院やコミュニティセンターで灯籠作り体験が開催。子どもと一緒にタイ文化を学べます。",
       "date": "5月中旬〜下旬",
-      "place": "バンコク各地の寺院・コミュニティセンター",
+      "place": "バンコク市内の各寺院・コミュニティセンター",
       "link": "",
       "free": true
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット（Kids Zone）",
-      "description": "東南アジア最大級のマーケット。毎週末開催で、キッズ向けエリアでは玩具・衣類・アート体験があり、子どもたちが楽しめます。屋外で広大な敷地を散策できます。",
-      "date": "毎週土日（5月中）",
-      "place": "チャトゥチャック・ウィークエンド・マーケット、バンコク",
+      "title": "チャトゥチャック・ウィークエンド・マーケット",
+      "description": "東南アジア最大級の週末マーケット。15,000以上の露店があり、おもちゃ、衣類、食べ物など多数。家族向けエリアも充実。毎週末営業。",
+      "date": "5月毎週土日",
+      "place": "Chatuchak Weekend Market, 587/10 Kamphaengphet Road, Sena Nikhom, Chatuchak, Bangkok",
       "link": "https://www.chatuchakmarket.com",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館（Siam Ocean World）のキッズプログラム",
-      "description": "Southeast Asia's largest aquarium。5月は夏休み前のキッズ向け特別プログラム実施期間。タッチングプール、飼育員解説ツアーなど学習体験が充実しています。",
-      "date": "5月全期間",
-      "place": "Siam Paragon, 991 Rama 1 Road, Pathumwan, Bangkok",
-      "link": "https://www.siamoceanworld.com",
+      "title": "サイアム・パラゴン水族館（Siam Paragon Aquarium）での特別教育プログラム",
+      "description": "東南アジア最大級の水族館。子ども向けの海の生き物学習プログラムやタッチプール体験が開催。5月は涼しい屋内施設で最適。",
+      "date": "5月通年開催",
+      "place": "Siam Paragon, 991 Rama I Road, Pathumwan, Bangkok",
+      "link": "https://www.siamparagon.com/en/attractions/aquarium",
       "free": false
     },
     {
-      "title": "ルンピニ公園でのアウトドア体験・キッズ自転車教室",
-      "description": "バンコク中心部の大規模公園。5月の早朝はまだ過ごしやすく、子ども向けの自転車教室やスポーツ教室が開催されます。無料で散策・ピクニックも可能です。",
-      "date": "5月全期間（特に早朝）",
-      "place": "Lumphini Park, Rama IV Road, Pathum Wan, Bangkok",
-      "link": "https://bangkok.gov.th",
+      "title": "ルンピニ公園での家族向けサイクリング・ピクニック",
+      "description": "バンコク中心部の広大な緑地公園。朝日の時間帯に自転車レンタル、散歩、ピクニックが楽しめます。早朝は比較的涼しく家族連れに最適。",
+      "date": "5月毎日（早朝〜午前中推奨）",
+      "place": "Lumpini Park, Rama IV Road, Lumphini, Pathum Wan, Bangkok",
+      "link": "https://www.bangkokcityguide.com/lumphini-park-bangkok",
       "free": true
     },
     {
-      "title": "キッザニア・バンコク（KidZania Bangkok）サマーキャンプ",
-      "description": "職業体験テーマパーク。5月は夏休みに向けたスペシャルキャンプ・プログラム開催。乳幼児から小学生まで、安全な環境で様々な職業体験ができます。",
-      "date": "5月中旬〜下旬",
-      "place": "EmQuartier, 689 Sukhumvit Road, Prakanong, Wattana, Bangkok",
-      "link": "https://www.kidzania.com/th/en",
+      "title": "キッザニア・バンコク（KidZania Bangkok）での職業体験プログラム",
+      "description": "子ども向けのテーマパーク。医者、パイロット、ケーキ職人など約100種類の職業体験ができます。5月の学校休暇時期に特別プログラム開催。",
+      "date": "5月通年・特別プログラムあり",
+      "place": "siam Square, Building A, 2110 New Petchburi Road, Makkasan, Ratchathewi, Bangkok",
+      "link": "https://www.kidzania.com/en/bangkok",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-05T01:26:13.726Z"
+  "updatedAt": "2026-05-06T01:24:37.360Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デイ）",
-      "description": "5月1日はハワイの伝統的な花輪「レイ」を祝う日。公園でレイ作り体験、フラダンス、ハワイアン音楽の無料イベントが開催されます。",
+      "title": "Lei Day（レイデー）",
+      "description": "ハワイの伝統文化を祝う5月1日のイベント。レイ作りワークショップ、パレード、フラダンスパフォーマンスなど家族向けプログラムが満載です。",
       "date": "5月1日前後",
-      "place": "カピオラニ公園（Kapiolani Park）、ホノルル",
-      "link": "https://www.honolulu.gov",
+      "place": "カピオラニ公園（ホノルル）",
+      "link": "https://www.honolulu.gov/",
       "free": true
     },
     {
-      "title": "Honolulu Zoo & Aquarium ファミリープログラム",
-      "description": "ホノルル動物園では5月にファミリー向けの教育プログラムやワークショップを開催。動物との距離が近く、乳幼児から楽しめます。",
-      "date": "5月通期（週末開催）",
-      "place": "ホノルル動物園（Honolulu Zoo）、カピオラニ公園内",
-      "link": "https://www.honoluluzoo.org",
-      "free": false
-    },
-    {
-      "title": "Hawaii Volcanoes National Park ハイキング＆火山体験",
-      "description": "5月は天気が安定し、ハイキングに最適な季節。火山地形の探索、キラウエア火山の観景、キッズ向けレンジャープログラムが楽しめます。",
-      "date": "5月通期",
-      "place": "ハワイ火山国立公園（Hawaii Volcanoes National Park）、ビッグアイランド",
-      "link": "https://www.nps.gov/havo",
-      "free": false
-    },
-    {
-      "title": "Farmers Market（ファーマーズマーケット）",
-      "description": "ホノルルの複数の場所で毎週開催。新鮮な地元野菜、トロピカルフルーツ、ハワイアン工芸品が並びます。試食やローカルグルメも無料で楽しめます。",
-      "date": "5月通期（週末）",
-      "place": "KCC Farmers Market（カカアコ地区）ほか",
-      "link": "https://www.kccfarmersmarket.com",
+      "title": "ハワイ子どもの日フェスティバル",
+      "description": "子ども向けの工作、ハイキング、文化体験など様々なアクティビティ。地元家族と交流でき、ハワイ文化を学べます。",
+      "date": "5月上旬",
+      "place": "イオラニ宮殿周辺（ホノルル）",
+      "link": "https://iolanipalace.org/",
       "free": true
     },
     {
-      "title": "Waikiki Aquarium（ワイキキ水族館）スペシャルプログラム",
-      "description": "5月はタッチプール体験、ウミガメ観察、キッズ向けマリンサイエンス教室など季節プログラムを実施。乳幼児向けのプレイエリアもあります。",
-      "date": "5月通期",
-      "place": "ワイキキ水族館（Waikiki Aquarium）、ホノルル",
-      "link": "https://www.waikikiaquarium.org",
+      "title": "Honolulu Zoo子どもプログラム",
+      "description": "5月は「動物園フレンドスプリング」開催時期。乳幼児向けのふれあい体験やガイドツアーなど特別プログラムが充実しています。",
+      "date": "5月中旬〜下旬",
+      "place": "ホノルル動物園（ワイキキ）",
+      "link": "https://www.honoluluzoo.org/",
+      "free": false
+    },
+    {
+      "title": "ダイヤモンドヘッド・ハイキング",
+      "description": "5月は気候が良好でハイキングに最適。往復約2時間で360度のパノラマビューが楽しめます。小学生以上の子どもにおすすめ。",
+      "date": "5月中旬〜下旬",
+      "place": "ダイヤモンドヘッド州立記念碑（ワイキキ）",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/",
+      "free": false
+    },
+    {
+      "title": "Waikiki Shell キッズコンサート",
+      "description": "夏に向けたファミリー向けコンサートシリーズ。音楽と文化の体験ができ、屋外での家族向けエンターテインメント。",
+      "date": "5月下旬〜6月",
+      "place": "ワイキキシェル（ホノルル）",
+      "link": "https://www.honoluluhawaii.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-05T01:26:36.076Z"
+  "updatedAt": "2026-05-06T01:25:00.426Z"
 }

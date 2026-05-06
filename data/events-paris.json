@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "モネの庭園 ジヴェルニー（睡蓮の庭園見頃）",
-      "description": "5月はモネの睡蓮やアイリスが最盛期。色彩豊かな庭園は子どもたちの感性を刺激します。屋外での散策は家族向けの最高のアクティビティです。",
+      "title": "パリ・プランタン百貨店の春のイルミネーション＆キッズイベント",
+      "description": "春のウィンドウディスプレイと館内のキッズワークショップ。工作やペイント体験が随時開催。家族向けのショッピング体験が楽しめます。",
       "date": "5月上旬〜下旬",
-      "place": "84 rue Claude Monet, 27620 Giverny",
-      "link": "https://fondation-monet.com/en",
+      "place": "Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris",
+      "link": "https://www.printemps.com/",
       "free": false
     },
     {
-      "title": "パリ市立公園の5月祭（Fêtes de Mai）",
-      "description": "パリの公園で開催される季節の祭典。キッズワークショップ、ストリートパフォーマンス、屋台など家族向けの無料イベントが多数開催されます。",
-      "date": "5月中旬〜下旬",
-      "place": "パリ市内各公園（ルクセンブルク公園、ビュット・オー・カイユ公園など）",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館 ファミリーデー",
-      "description": "毎月第1日曜日に開催される親子向けプログラム。託児サービス、子ども向けガイドツアー、ワークショップで美術館を楽しく学べます。",
-      "date": "5月第1日曜日と毎月第1日曜日",
-      "place": "Rue de Rivoli, 75004 Paris",
-      "link": "https://www.louvre.fr/en",
+      "title": "パリ・ルーヴル美術館の子ども向けガイドツアー",
+      "description": "5月に実施される子ども対象の美術館ツアー。年齢別プログラムで名作を分かりやすく解説。親子で文化体験できます。",
+      "date": "5月中旬〜下旬（要予約）",
+      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris",
+      "link": "https://www.louvre.fr/",
       "free": false
     },
     {
-      "title": "セーヌ川沿い野外マーケット＆ピクニックスポット",
-      "description": "5月は天気が良く、セーヌ川沿いのマーケットで地元野菜や花を購入してピクニック。アイル・サン・ルイやポン・デ・ザールなど無料で楽しめます。",
-      "date": "5月通年（特に週末）",
-      "place": "セーヌ川沿い、アイル・サン・ルイ周辺",
+      "title": "セーヌ川沿いの春の散歩路＆無料屋外イベント",
+      "description": "5月のパリは新緑が美しく、セーヌ川沿いは無料で散策可能。各地で無料の路上パフォーマンスやピクニックスポット多数。家族で自然を満喫できます。",
+      "date": "5月全期間",
+      "place": "Seine Riverbanks, Central Paris (Multiple access points)",
       "link": "",
       "free": true
     },
     {
-      "title": "シテ科学館（Cité des Sciences）子ども向けスペシャルプログラム",
-      "description": "春季プログラムとして、5歳以上向けのSTEAM体験ワークショップ、プラネタリウムなど。双眼鏡実験など手動型アクティビティで学習できます。",
-      "date": "5月通年（週末・祝日中心）",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
+      "title": "パリ・ジャルダン・デ・プランテス（植物園）の春の花咲く季節",
+      "description": "5月は春花が満開。チューリップ、バラ、牡丹など色とりどり。無料の散策路で自然観察ができ、子どもも楽しめる屋外スポット。",
+      "date": "5月全期間",
+      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
+      "link": "https://www.mnhn.fr/fr/visitez/jardins",
+      "free": true
+    },
+    {
+      "title": "パリ・シテ科学産業博物館の子ども向けワークショップ",
+      "description": "5月開催のSTEM体験プログラム。科学実験や技術遊びが充実。年齢別クラスで、子どもが主体的に学べる専門施設。",
+      "date": "5月中旬〜下旬（要予約）",
+      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-05T01:25:49.529Z"
+  "updatedAt": "2026-05-06T01:24:12.441Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス子ども美術館 春の特別展示",
-      "description": "対話型アート展示と工作ワークショップ。乳幼児から小学生まで楽しめるハンズオン体験型の展示が5月も継続予定。創造性を刺激する多数のプログラムあり。",
-      "date": "5月通年",
-      "place": "Los Angeles Children's Museum, 800 S Olive Ave, Los Angeles, CA 90017",
-      "link": "https://www.lacm.org/",
+      "title": "LA County Fair（ロサンゼルス郡フェア）",
+      "description": "乗り物、ゲーム、ライブパフォーマンス、グルメが楽しめる大規模フェア。子ども向けの乗り物やアクティビティが充実。",
+      "date": "5月中旬〜下旬（2026年開催時期は確認推奨）",
+      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://www.lacountyfair.com",
       "free": false
     },
     {
-      "title": "グリフィス天文台 家族向け科学イベント",
-      "description": "春の夜空観察イベントと昼間のプラネタリウムショー。子ども向けに分かりやすい天文学プログラムが充実。晴天時は望遠鏡での観察も可能。",
-      "date": "5月全期間",
+      "title": "ディズニー・カリフォルニア・アドベンチャー特別プログラム",
+      "description": "春シーズンの限定デコレーション、キャラクターグリーティング、子ども向けワークショップなど季節プログラムが開催。",
+      "date": "5月中旬〜下旬（春シーズン）",
+      "place": "Disney California Adventure Park, 1313 Disneyland Dr, Anaheim, CA 92802",
+      "link": "https://www.disneyland.com",
+      "free": false
+    },
+    {
+      "title": "Griffith Observatory春の天体観測会＆公園散策",
+      "description": "無料の天文台見学、望遠鏡での観測、広大な公園での家族ハイキング。5月の晴天日が最適。子ども向けプラネタリウム上映も。",
+      "date": "5月通年（金土日など開放日は確認）",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "サンタモニカビーチ5月シーズン",
-      "description": "気候が穏やかな5月、家族向けビーチアクティビティのベストシーズン。桟橋のアミューズメントパーク、砂浜遊び、自転車道での散策など屋外活動が充実。",
-      "date": "5月全期間",
-      "place": "Santa Monica Beach & Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonica.com/",
+      "title": "Santa Monica Pier Spring Events＆Beach Day",
+      "description": "ピア内の遊園地乗り物、ビーチでの水遊び、週末マーケット。5月は気候が良く、家族向けビーチアクティビティに最適。",
+      "date": "5月通年",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
       "free": true
     },
     {
-      "title": "ロサンゼルス郡立自然史博物館 春企画展",
-      "description": "恐竜展示や自然科学の体験コーナー。子どもが触って学べるインタラクティブ展示が多数。5月は虫や自然に関する特別プログラムを実施予定。",
-      "date": "5月全期間",
-      "place": "Natural History Museum, 900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://nhm.org/",
+      "title": "LA Zoo春のサファリプログラム",
+      "description": "野生動物の春の行動観察、ガイドツアー、子ども向けの対話型教育プログラム。新生児動物たちが活動的な季節。",
+      "date": "5月通年",
+      "place": "Los Angeles Zoo, 5333 Zoo Dr, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
       "free": false
-    },
-    {
-      "title": "グレンデール・ファーマーズマーケット 家族向けイベント",
-      "description": "毎週日曜開催の地元産新鮮野菜・果物・工芸品マーケット。ライブ音楽、子ども向けワークショップ、地元グルメがある家族向けスポット。",
-      "date": "5月毎週日曜",
-      "place": "Glendale Farmers Market, 217 S Brand Blvd, Glendale, CA 91204",
-      "link": "https://www.glendaleaz.com/farmers-market",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-05T01:26:28.775Z"
+  "updatedAt": "2026-05-06T01:24:53.558Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "SM Mall of Asia サマー キッズ フェスティバル",
-      "description": "フィリピン最大級のショッピングモールで開催される子ども向けイベント。ゲーム、ワークショップ、キャラクターグリーティングなど家族向けの催しが多数。",
+      "title": "フィリピン・アキノ大統領記念日（Araw ng Kagitingan）",
+      "description": "8月21日の追悼式典に向けた5月のプレイベント。マニラ市内で愛国心をテーマにした子ども向けワークショップやパレードが開催されます。フィリピンの歴史と文化を学べます。",
+      "date": "5月中旬",
+      "place": "リサール公園（Rizal Park）、マニラ市",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
+    },
+    {
+      "title": "スター・シティ夏休みスペシャル",
+      "description": "フィリピン最大級の遊園地で、5月の子ども向け特別プログラムが開催。キャラクターショー、割引チケット、乗り物体験など、乳幼児から小学生まで楽しめる企画が充実しています。",
+      "date": "5月上旬〜下旬",
+      "place": "スター・シティ（Star City）、マニラ市サンフェルナンド地区",
+      "link": "https://www.star-city.com.ph",
+      "free": false
+    },
+    {
+      "title": "フィリピン・ナショナル・ミュージアム 特別展示",
+      "description": "5月は世界博物館の日（5月18日）を中心に、子ども向けの対話型展示やワークショップが開催。自然史から文化財まで、家族で楽しく学べるプログラムが企画されます。",
+      "date": "5月中旬〜下旬",
+      "place": "フィリピン・ナショナル・ミュージアム、ルネタ公園、マニラ市",
+      "link": "https://www.nationalmuseum.gov.ph",
+      "free": true
+    },
+    {
+      "title": "パグ・アサ・パーク（希望の公園）のビーチアクティビティ",
+      "description": "マニラ湾沿いの親子向けビーチエリア。5月は乾季で天候が良好。砂浜での安全な水遊び、シュノーケリング体験、ビーチピクニックが楽しめます。屋外での家族向けレジャーに最適です。",
+      "date": "5月上旬〜下旬",
+      "place": "パグ・アサ・パーク、マニラ市パコ地区",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "キッズアート・フェスティバル in モール・オブ・アジア",
+      "description": "5月に大型ショッピングモール内で開催される子ども向けアート・クラフト・イベント。絵画教室、工作ワークショップ、ステージパフォーマンスなど、乳幼児から参加できる無料プログラムが豊富です。",
       "date": "5月上旬〜中旬",
-      "place": "SM Mall of Asia, Bay Boulevard, Pasay City",
-      "link": "https://www.smmallofasia.com.ph/",
+      "place": "モール・オブ・アジア（Mall of Asia）、パサイ市",
+      "link": "https://www.mallofasia.com.ph",
       "free": true
-    },
-    {
-      "title": "マニラ湾サンセット・アウトドア活動",
-      "description": "マニラ湾沿いの公園でのサイクリング、散歩、公園での無料遊び。5月は乾季で過ごしやすく、家族でのアウトドアに最適。バイシクル・レンタルサービスも利用可能。",
-      "date": "5月中旬〜下旬",
-      "place": "Manila Bay Dolomite Beach / Rizal Park 付近, Manila",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "フィリピン国立博物館 キッズプログラム",
-      "description": "子ども向けの特別ガイドツアーやインタラクティブ展示。恐竜、自然史、芸術を学べます。毎週末にワークショップやアクティビティを開催。",
-      "date": "5月毎週末",
-      "place": "National Museum Complex, Padre Burgos Ave, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "アキノ公園（Rizal Park）でのアウトドア体験",
-      "description": "マニラ最大の公園でのピクニック、遊具での遊び、湖でのボート体験。乾季の5月は天候が安定しており家族向けアクティビティに最適。",
-      "date": "5月通年",
-      "place": "Rizal Park, Padre Burgos Ave, Manila",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "Star City テーマパーク 家族向けキャンペーン",
-      "description": "フィリピンの遊園地。5月はサマーシーズンで子ども向けイベントやプロモーションが実施。アトラクション、ゲーム、キャラクターショーが楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "Star City, Corner of EDSA and Taft Avenue, Pasay City",
-      "link": "https://www.star-city.com.ph/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-05T01:26:21.217Z"
+  "updatedAt": "2026-05-06T01:24:46.233Z"
 }

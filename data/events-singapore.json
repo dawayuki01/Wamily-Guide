@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Dragon Boat Festival（ドラゴンボートフェスティバル）",
-      "description": "中国の伝統行事。カラフルなドラゴンボートレース、屋台、文化パフォーマンスが楽しめます。子ども向けの体験コーナーやワークショップも開催されます。",
-      "date": "5月中旬〜下旬（旧暦5月5日前後）",
+      "title": "ドラゴンボート・フェスティバル（端午節）関連イベント",
+      "description": "中華文化の伝統的なドラゴンボートレースや屋台、文化体験が楽しめるフェスティバル。家族向けの民族衣装体験やワークショップも開催されます。",
+      "date": "5月中旬～下旬（旧暦5月5日前後）",
       "place": "Marina Bay、East Coast Park周辺",
       "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "Singapore Zoo - Asian Animals Night Safari",
-      "description": "夜間営業特別プログラム。普段見られない夜行動物の行動が観察でき、子ども向けのガイドツアーやインタラクティブ体験が充実しています。",
-      "date": "5月通年開催（毎晩営業）",
+      "title": "シンガポール動物園の子ども向け特別プログラム",
+      "description": "季節限定の教育プログラムやワークショップ。動物への餌やりやガイドツアーなど、子どもたちが自然保護を学べる体験型アクティビティです。",
+      "date": "5月通期（週末特別プログラム）",
       "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.nightsafari.com.sg",
+      "link": "https://www.zoo.com.sg",
       "free": false
     },
     {
-      "title": "Vesak Day Celebration（ウェサク祭）",
-      "description": "仏教の祝日。寺院ではランタン飾り、パレード、フェスティバルが開催。子どもも参加できるお祈りや文化体験が多くあります。",
-      "date": "5月下旬（旧暦4月15日）",
-      "place": "Thean Hou Temple、Sakya Muni Buddha Gaya Templeほか各寺院",
-      "link": "https://www.stb.gov.sg",
-      "free": true
-    },
-    {
-      "title": "East Coast Park Cycling & Water Activities",
-      "description": "広大な公園で自転車、インラインスケート、ウォーターアクティビティが楽しめます。子ども向けのレンタル設備やビーチアクティビティが充実。",
-      "date": "5月通年開催（天候による）",
-      "place": "East Coast Park, 440 East Coast Road",
+      "title": "East Coast Park でのビーチアクティビティ",
+      "description": "砂浜での建設遊び、シャボン玉、ピクニック。無料で楽しめるファミリービーチで、遊具エリアや貸し自転車サービスもあります。",
+      "date": "5月通期（晴天の日）",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
       "link": "https://www.nparks.gov.sg",
       "free": true
     },
     {
-      "title": "ArtScience Museum - Family Programs",
-      "description": "マリーナベイサンズ内の美術館。5月は子ども向けのアートワークショップと特別展示が開催。インタラクティブな体験で創造力を育みます。",
-      "date": "5月通年開催（毎日営業）",
-      "place": "6 Bayfront Avenue, Marina Bay Sands, Singapore 018974",
-      "link": "https://www.artscience.museum",
+      "title": "チルドレンズ・フェスティバル（各施設）",
+      "description": "ユニバーサル・スタジオ・シンガポールやその他テーマパークで開催される子ども向けの季節イベント。キャラクターグリーティングやショーを実施。",
+      "date": "5月通期",
+      "place": "Universal Studios Singapore, 8 Sentosa Gateway, Sentosa Island",
+      "link": "https://www.universalstudiosingapore.com",
+      "free": false
+    },
+    {
+      "title": "Gardens by the Bay の子ども向けワークショップ",
+      "description": "植物学習プログラムや園芸体験。Supertree観賞も含め、自然と科学を学べるインタラクティブなプログラムが開催されます。",
+      "date": "5月通期（週末開催）",
+      "place": "18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-05T01:26:04.698Z"
+  "updatedAt": "2026-05-06T01:24:28.015Z"
 }
