@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プランタン百貨店の春のイルミネーション＆キッズイベント",
-      "description": "春のウィンドウディスプレイと館内のキッズワークショップ。工作やペイント体験が随時開催。家族向けのショッピング体験が楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris",
-      "link": "https://www.printemps.com/",
-      "free": false
+      "title": "パリ・ジャルダン・フェスティバル（庭園の花々）",
+      "description": "5月はパリの公園・庭園が最も美しい季節。ルクセンブルク公園やチュイルリー庭園で色彩豊かな花々が咲き誇り、子どもと一緒に自然散策が楽しめます。",
+      "date": "5月上旬〜5月下旬",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、チュイルリー庭園（Jardin des Tuileries）",
+      "link": "https://www.paris.fr",
+      "free": true
     },
     {
-      "title": "パリ・ルーヴル美術館の子ども向けガイドツアー",
-      "description": "5月に実施される子ども対象の美術館ツアー。年齢別プログラムで名作を分かりやすく解説。親子で文化体験できます。",
-      "date": "5月中旬〜下旬（要予約）",
-      "place": "Musée du Louvre, Rue de Rivoli, 75001 Paris",
-      "link": "https://www.louvre.fr/",
-      "free": false
-    },
-    {
-      "title": "セーヌ川沿いの春の散歩路＆無料屋外イベント",
-      "description": "5月のパリは新緑が美しく、セーヌ川沿いは無料で散策可能。各地で無料の路上パフォーマンスやピクニックスポット多数。家族で自然を満喫できます。",
-      "date": "5月全期間",
-      "place": "Seine Riverbanks, Central Paris (Multiple access points)",
+      "title": "モンマルトル・ストリートアート・フェスティバル",
+      "description": "モンマルトルの街角でアーティストによるライブペイント、ストリートパフォーマンス、子ども向けワークショップが開催。家族で芸術・文化を体験できます。",
+      "date": "5月中旬〜下旬",
+      "place": "モンマルトル地区（サクレ・クール周辺）、パリ18区",
       "link": "",
       "free": true
     },
     {
-      "title": "パリ・ジャルダン・デ・プランテス（植物園）の春の花咲く季節",
-      "description": "5月は春花が満開。チューリップ、バラ、牡丹など色とりどり。無料の散策路で自然観察ができ、子どもも楽しめる屋外スポット。",
-      "date": "5月全期間",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.mnhn.fr/fr/visitez/jardins",
+      "title": "シテ科学産業ミュージアム・子ども向け特別展示",
+      "description": "Cité des Sciences et de l'Industrieでは5月に乳幼児～小学生向けの特別展示やワークショップを開催。科学実験、プラネタリウム、インタラクティブ展示が魅力です。",
+      "date": "5月通期",
+      "place": "ラ・ヴィレット公園内 Cité des Sciences et de l'Industrie、パリ19区",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "パリ・マラソン（Paris Marathon）",
+      "description": "毎年4月中旬開催の国際マラソン大会。子どもと沿道で応援しながら、世界中のランナーと国際的な雰囲気を楽しめるスポーツイベント。",
+      "date": "5月上旬（実際は4月開催のため参考情報）",
+      "place": "パリ市街地全域（主にシャンゼリゼ通り、ルーヴル周辺など）",
+      "link": "https://www.marathonparis.com",
       "free": true
     },
     {
-      "title": "パリ・シテ科学産業博物館の子ども向けワークショップ",
-      "description": "5月開催のSTEM体験プログラム。科学実験や技術遊びが充実。年齢別クラスで、子どもが主体的に学べる専門施設。",
-      "date": "5月中旬〜下旬（要予約）",
-      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/",
+      "title": "セーヌ川リバークルーズ・子ども向けツアー",
+      "description": "5月の穏やかな季節にセーヌ川でファミリー向けクルーズを実施。ノートル・ダム、エッフェル塔などを船上から鑑賞。子ども向けガイド付きツアーも開催。",
+      "date": "5月通期（毎日運行）",
+      "place": "セーヌ川（乗船地点：アルマ橋、トロカデロなど各所）",
+      "link": "https://www.vedettesdeparis.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-06T01:24:12.441Z"
+  "updatedAt": "2026-05-07T01:29:10.680Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA County Fair（ロサンゼルス郡フェア）",
-      "description": "乗り物、ゲーム、ライブパフォーマンス、グルメが楽しめる大規模フェア。子ども向けの乗り物やアクティビティが充実。",
-      "date": "5月中旬〜下旬（2026年開催時期は確認推奨）",
-      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://www.lacountyfair.com",
+      "title": "LA County Fair at The Fairplex（ロサンゼルス郡フェア）",
+      "description": "5月中旬に開催される大規模フェア。子ども向けの乗り物、動物とのふれあい、ライブパフォーマンス、グルメが充実。家族で丸一日楽しめる季節ならではのイベントです。",
+      "date": "5月中旬〜下旬",
+      "place": "The Fairplex, Pomona（ポモナ）",
+      "link": "https://www.lacountyfair.com/",
       "free": false
     },
     {
-      "title": "ディズニー・カリフォルニア・アドベンチャー特別プログラム",
-      "description": "春シーズンの限定デコレーション、キャラクターグリーティング、子ども向けワークショップなど季節プログラムが開催。",
-      "date": "5月中旬〜下旬（春シーズン）",
-      "place": "Disney California Adventure Park, 1313 Disneyland Dr, Anaheim, CA 92802",
-      "link": "https://www.disneyland.com",
+      "title": "Santa Monica Pier アミューズメント施設と太平洋の景色",
+      "description": "太平洋を見ながら楽しめる屋外スポット。ウッドローラーコースター、メリーゴーラウンド、ゲームなど子ども向けアトラクション充実。5月の心地よい天候で海風を感じながら遊べます。",
+      "date": "5月通年",
+      "place": "Santa Monica Pier, Santa Monica",
+      "link": "https://www.santamonicapier.com/",
       "free": false
     },
     {
-      "title": "Griffith Observatory春の天体観測会＆公園散策",
-      "description": "無料の天文台見学、望遠鏡での観測、広大な公園での家族ハイキング。5月の晴天日が最適。子ども向けプラネタリウム上映も。",
-      "date": "5月通年（金土日など開放日は確認）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "title": "Griffith Observatory 無料入館と天文学体験",
+      "description": "グリフィス天文台は入館無料。プラネタリウム上映や天文展示で子どもの学習に最適。5月の晴天時は屋外から市街地の眺望も楽しめ、家族向けの教育的アクティビティです。",
+      "date": "5月通年",
+      "place": "Griffith Observatory, Los Angeles",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "Santa Monica Pier Spring Events＆Beach Day",
-      "description": "ピア内の遊園地乗り物、ビーチでの水遊び、週末マーケット。5月は気候が良く、家族向けビーチアクティビティに最適。",
-      "date": "5月通年",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
+      "title": "Exposition Park Museums & Rose Garden 無料開園日と花見",
+      "description": "自然史博物館やカリフォルニア科学センターなど複数施設がある。5月はバラ園が満開。毎月第1日曜日は多くの博物館が無料開館。子どもが自然と文化を学べます。",
+      "date": "5月上旬（バラ見頃）、毎月第1日曜日",
+      "place": "Exposition Park, Los Angeles",
+      "link": "https://www.expositionpark.org/",
       "free": true
     },
     {
-      "title": "LA Zoo春のサファリプログラム",
-      "description": "野生動物の春の行動観察、ガイドツアー、子ども向けの対話型教育プログラム。新生児動物たちが活動的な季節。",
+      "title": "LA Zoo での春の動物観察と特別プログラム",
+      "description": "ロサンゼルス動物園は5月の心地よい気候で来園に最適。乳幼児向けのふれあい体験コーナーやキッズジャングルジム、季節限定の子ども向けワークショップが開催されます。",
       "date": "5月通年",
-      "place": "Los Angeles Zoo, 5333 Zoo Dr, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "place": "Los Angeles Zoo, Griffith Park",
+      "link": "https://www.lazoo.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-06T01:24:53.558Z"
+  "updatedAt": "2026-05-07T01:29:51.638Z"
 }

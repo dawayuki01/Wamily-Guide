@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ドラゴンボート・フェスティバル（端午節）関連イベント",
-      "description": "中華文化の伝統的なドラゴンボートレースや屋台、文化体験が楽しめるフェスティバル。家族向けの民族衣装体験やワークショップも開催されます。",
-      "date": "5月中旬～下旬（旧暦5月5日前後）",
-      "place": "Marina Bay、East Coast Park周辺",
-      "link": "https://www.stb.gov.sg",
+      "title": "シンガポール・ドラゴン・ボート・フェスティバル",
+      "description": "5月の端午節に合わせた龍舟レース。カラフルなドラゴンボートが競い合う迫力のイベント。屋台やパフォーマンスも楽しめます。",
+      "date": "5月上旬〜中旬（旧暦5月5日前後）",
+      "place": "マリーナ・バーラージ（Marina Barrage）",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "シンガポール動物園の子ども向け特別プログラム",
-      "description": "季節限定の教育プログラムやワークショップ。動物への餌やりやガイドツアーなど、子どもたちが自然保護を学べる体験型アクティビティです。",
-      "date": "5月通期（週末特別プログラム）",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.com.sg",
+      "title": "バターフライ・パーク展示・フラワー・フェスティバル",
+      "description": "シンガポール・ボタニック・ガーデンで開催される季節の花祭り。5月は蘭や熱帯花が見頃。子ども向けワークショップも開催。",
+      "date": "5月中旬〜下旬",
+      "place": "シンガポール・ボタニック・ガーデン（Singapore Botanic Gardens）",
+      "link": "https://www.sbg.org.sg",
       "free": false
     },
     {
-      "title": "East Coast Park でのビーチアクティビティ",
-      "description": "砂浜での建設遊び、シャボン玉、ピクニック。無料で楽しめるファミリービーチで、遊具エリアや貸し自転車サービスもあります。",
-      "date": "5月通期（晴天の日）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
+      "title": "ナイト・サファリ・スペシャル・イベント",
+      "description": "シンガポール動物園の夜間営業。夜行性動物の生態観察や子ども向け教育プログラム。トラムツアーで安全に鑑賞できます。",
+      "date": "5月通年営業",
+      "place": "ナイト・サファリ（Night Safari）、80 Mandai Lake Road",
+      "link": "https://www.nightsafari.com.sg",
+      "free": false
+    },
+    {
+      "title": "イースト・コースト・パーク サイクリング・ファミリーデー",
+      "description": "5月の週末に開催されるファミリー向けサイクリング・イベント。自転車レンタル、無料ガイドツアー、子ども向けゲームが楽しめます。",
+      "date": "5月中旬の週末",
+      "place": "イースト・コースト・パーク（East Coast Park）",
       "link": "https://www.nparks.gov.sg",
       "free": true
     },
     {
-      "title": "チルドレンズ・フェスティバル（各施設）",
-      "description": "ユニバーサル・スタジオ・シンガポールやその他テーマパークで開催される子ども向けの季節イベント。キャラクターグリーティングやショーを実施。",
-      "date": "5月通期",
-      "place": "Universal Studios Singapore, 8 Sentosa Gateway, Sentosa Island",
-      "link": "https://www.universalstudiosingapore.com",
-      "free": false
-    },
-    {
-      "title": "Gardens by the Bay の子ども向けワークショップ",
-      "description": "植物学習プログラムや園芸体験。Supertree観賞も含め、自然と科学を学べるインタラクティブなプログラムが開催されます。",
-      "date": "5月通期（週末開催）",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "S.E.A.水族館・キッズ・ワークショップ",
+      "description": "シンガポール最大級の水族館で開催される子ども向け特別プログラム。海の生き物について学び、触れ合い体験ができます。",
+      "date": "5月通年（毎週末）",
+      "place": "S.E.A.水族館（Sentosa Island）",
+      "link": "https://www.seaaquarium.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-06T01:24:28.015Z"
+  "updatedAt": "2026-05-07T01:29:26.867Z"
 }

@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Lei Day（レイデー）",
-      "description": "ハワイの伝統文化を祝う5月1日のイベント。レイ作りワークショップ、パレード、フラダンスパフォーマンスなど家族向けプログラムが満載です。",
-      "date": "5月1日前後",
-      "place": "カピオラニ公園（ホノルル）",
-      "link": "https://www.honolulu.gov/",
+      "description": "ハワイアン文化を祝う5月1日のお祭り。花のレイ作り体験やハワイアンミュージック、フラダンスパフォーマンスが楽しめます。子どもも参加できる工作ワークショップが豊富。",
+      "date": "5月1日（前後の週末に各地でイベント開催）",
+      "place": "ハワイ州内各地（カピオラニ公園など）",
+      "link": "https://www.gohawaii.com/ja",
       "free": true
     },
     {
-      "title": "ハワイ子どもの日フェスティバル",
-      "description": "子ども向けの工作、ハイキング、文化体験など様々なアクティビティ。地元家族と交流でき、ハワイ文化を学べます。",
-      "date": "5月上旬",
-      "place": "イオラニ宮殿周辺（ホノルル）",
-      "link": "https://iolanipalace.org/",
+      "title": "Honolulu Museum of Art Spalding House（ホノルル美術館分館）のファミリープログラム",
+      "description": "美術館の子ども向け特別プログラムやワークショップ。5月はハワイアンアート関連の企画展示が開催され、子ども向けの創作活動が楽しめます。",
+      "date": "5月上旬〜下旬（土日祝日中心）",
+      "place": "2411 Makiki Heights Drive, Honolulu, HI 96822",
+      "link": "https://honolulumuseum.org/",
+      "free": false
+    },
+    {
+      "title": "ワイキキビーチでのシュノーケリング・ビーチアクティビティ",
+      "description": "5月は水温が高く、子どもにとって快適なビーチシーズン。ウミガメやトロピカルフィッシュが見られるシュノーケリングツアーが多数催行。浅瀬でも十分楽しめます。",
+      "date": "5月上旬〜下旬（通年）",
+      "place": "ワイキキビーチ、Oahu, Hawaii",
+      "link": "https://www.gohawaii.com/ja/oahu/waikiki",
       "free": true
     },
     {
-      "title": "Honolulu Zoo子どもプログラム",
-      "description": "5月は「動物園フレンドスプリング」開催時期。乳幼児向けのふれあい体験やガイドツアーなど特別プログラムが充実しています。",
-      "date": "5月中旬〜下旬",
-      "place": "ホノルル動物園（ワイキキ）",
+      "title": "Honolulu Zoo（ホノルル動物園）のキッズプログラム",
+      "description": "アメリカ最古の無料動物園。5月は春の特別プログラムやガイド付きツアーが充実。トロピカル動物との触れ合い体験が人気で、乳幼児から小学生まで楽しめます。",
+      "date": "5月上旬〜下旬（毎日開園）",
+      "place": "151 Kapahulu Ave, Honolulu, HI 96815",
       "link": "https://www.honoluluzoo.org/",
-      "free": false
+      "free": true
     },
     {
-      "title": "ダイヤモンドヘッド・ハイキング",
-      "description": "5月は気候が良好でハイキングに最適。往復約2時間で360度のパノラマビューが楽しめます。小学生以上の子どもにおすすめ。",
-      "date": "5月中旬〜下旬",
-      "place": "ダイヤモンドヘッド州立記念碑（ワイキキ）",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/",
-      "free": false
-    },
-    {
-      "title": "Waikiki Shell キッズコンサート",
-      "description": "夏に向けたファミリー向けコンサートシリーズ。音楽と文化の体験ができ、屋外での家族向けエンターテインメント。",
-      "date": "5月下旬〜6月",
-      "place": "ワイキキシェル（ホノルル）",
-      "link": "https://www.honoluluhawaii.com/",
+      "title": "Diamond Head Crater Hike（ダイヤモンドヘッドハイキング）",
+      "description": "初級者向けの往復約40分のハイキング。5月は新緑が美しく、山頂からのオアフ島の景色は絶景。年上の子ども向けの家族向けアウトドアアクティビティです。",
+      "date": "5月上旬〜下旬（毎日開放）",
+      "place": "Diamond Head State Monument, 3908 Diamond Head Road, Honolulu, HI 96816",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-06T01:25:00.426Z"
+  "updatedAt": "2026-05-07T01:30:00.514Z"
 }

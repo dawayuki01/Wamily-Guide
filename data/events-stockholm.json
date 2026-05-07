@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館 子ども向け春の特別展示",
-      "description": "5月のスウェーデンの自然と文化をテーマにした子ども向けインタラクティブ展示。乳幼児から小学生まで楽しめる体験型プログラムが開催されます。",
+      "title": "スウェーデン国立博物館の子ども向け特別展示とワークショップ",
+      "description": "5月はスウェーデンの春をテーマにした子ども向けワークショップが開催。絵画や工芸体験を通じて北欧文化を学べます。乳幼児向けの親子プログラムも充実しています。",
       "date": "5月上旬〜下旬",
-      "place": "Nationalmuseum Stockholm, Södra Blasieholmen, 111 48 Stockholm",
+      "place": "Nationalmuseum, Blasieholmen, Stockholm",
       "link": "https://www.nationalmuseum.se",
       "free": false
     },
     {
-      "title": "スキャンセン野外博物館の春祭り",
-      "description": "スウェーデンの伝統的な春の祭りをテーマにした屋外イベント。動物とのふれあい、伝統工芸体験、子ども向けワークショップなど。家族向けアクティビティが豊富。",
-      "date": "5月中旬〜下旬",
-      "place": "Skansen, Djurgården, 115 21 Stockholm",
+      "title": "スキャンセン（Skansen）の子どもプログラムと春の動物観察",
+      "description": "北欧最大の野外博物館。5月は子羊やウサギなど春生まれの動物たちが見られ、子ども向けのふれあいプログラムやスカンディナヴィア伝統文化体験が豊富です。",
+      "date": "5月通期",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーグォーデン島の無料自然散策とピクニック",
-      "description": "ストックホルム随一の公園島。春の花が咲き、遊び場も多数。家族向けハイキングコースがあり、湖畔でのピクニックが無料で楽しめます。乳幼児向けベビーカーコースも完備。",
-      "date": "5月全般",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.skansen.se/sv/besok-djurgarden",
+      "title": "ストックホルムの春の公園散策（無料）",
+      "description": "ユールゴーデン島やドロットニングホルム宮殿周辺は5月に見事な桜やチューリップが開花。公園散策やピクニックは完全無料で、子どもたちも自然を思いっきり楽しめます。",
+      "date": "5月上旬〜中旬",
+      "place": "Djurgården & Drottningholm Palace Gardens, Stockholm",
+      "link": "",
       "free": true
     },
     {
-      "title": "グローナ・ルンド遊園地 春の営業開始",
-      "description": "北欧最大級の遊園地が5月に春営業開始。ファミリー向けジェットコースター、メリーゴーラウンド、子ども向けアトラクションが充実。新アトラクションも期待。",
-      "date": "5月上旬〜",
-      "place": "Gröna Lund, Djurgården, 102 52 Stockholm",
-      "link": "https://www.gronalund.com",
+      "title": "ストックホルム水族館（Aquariums）のキッズプログラム",
+      "description": "5月の春シーズンに子ども向けの海の生き物学習プログラムを開催。タッチプール体験や動物への給餌を見学でき、乳幼児から小学生まで楽しめます。",
+      "date": "5月通期",
+      "place": "Fiskartorget 20, 111 52 Stockholm",
+      "link": "https://www.aquarieblocket.se",
       "free": false
     },
     {
-      "title": "ストックホルム市立図書館 子ども向けスプリングプログラム",
-      "description": "ストックホルム中央図書書で開催される春の読書会、ストーリータイム、工作ワークショップ。多言語対応で無料。乳幼児から小学生向けプログラム充実。",
-      "date": "5月全般（週末中心）",
-      "place": "Stadsbiblioteket, Sveavägen 73, 104 25 Stockholm",
-      "link": "https://www.stockholm.se/kultur-och-fritid/bibliotek",
-      "free": true
+      "title": "パッピランド（Parppilandet）の春の家族向けイベント",
+      "description": "ストックホルム郊外のファミリーパーク。5月は春祭りやアクティビティイベントが開催。乗馬体験、工芸ワークショップ、屋外ゲームなどで家族皆で楽しめます。",
+      "date": "5月中旬〜下旬",
+      "place": "Parppilandet, Västerhaninge, Stockholm region",
+      "link": "https://parppilandet.se",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-06T01:24:20.155Z"
+  "updatedAt": "2026-05-07T01:29:18.643Z"
 }
