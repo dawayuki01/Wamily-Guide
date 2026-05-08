@@ -1,0 +1,78 @@
+name: Generate Spot Descriptions
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'ドライラン（Notion更新なし）'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      slug:
+        description: '対象国の slug（任意・空なら全国）例: hongkong, london'
+        required: false
+        default: ''
+        type: string
+      limit:
+        description: '上限件数（任意・空なら全件）例: 5, 10'
+        required: false
+        default: ''
+        type: string
+      force:
+        description: '処理済みフラグを無視して再生成'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      - name: Run generate-spot-descriptions
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTION_SPOTS_DB_ID: ${{ secrets.NOTION_SPOTS_DB_ID }}
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          SLACK_WEBHOOK_CONTENT: ${{ secrets.SLACK_WEBHOOK_CONTENT }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ inputs.slug }}" ]; then
+            ARGS="$ARGS --slug ${{ inputs.slug }}"
+          fi
+          if [ -n "${{ inputs.limit }}" ]; then
+            ARGS="$ARGS --limit ${{ inputs.limit }}"
+          fi
+          if [ "${{ inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          echo "実行: node scripts/generate-spot-descriptions.js $ARGS"
+          node scripts/generate-spot-descriptions.js $ARGS
+
+      - name: Commit processed state
+        if: ${{ inputs.dry_run != 'true' }}
+        run: |
+          if [ -f data/.spot-descriptions-processed.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/.spot-descriptions-processed.json
+            git diff --cached --quiet || git commit -m "chore: スポット説明文 AI 拡張の処理済みフラグ更新 [skip ci]"
+            git push || true
+          fi
