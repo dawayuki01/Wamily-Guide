@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・ドラゴン・ボート・フェスティバル",
-      "description": "5月の端午節に合わせた龍舟レース。カラフルなドラゴンボートが競い合う迫力のイベント。屋台やパフォーマンスも楽しめます。",
-      "date": "5月上旬〜中旬（旧暦5月5日前後）",
-      "place": "マリーナ・バーラージ（Marina Barrage）",
-      "link": "https://www.visitsingapore.com",
-      "free": true
-    },
-    {
-      "title": "バターフライ・パーク展示・フラワー・フェスティバル",
-      "description": "シンガポール・ボタニック・ガーデンで開催される季節の花祭り。5月は蘭や熱帯花が見頃。子ども向けワークショップも開催。",
+      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
+      "description": "シンガポール国立博物館周辺で開催される光と音のアート祭。子ども向けのインタラクティブ展示やワークショップ、プロジェクションマッピングが楽しめます。",
       "date": "5月中旬〜下旬",
-      "place": "シンガポール・ボタニック・ガーデン（Singapore Botanic Gardens）",
-      "link": "https://www.sbg.org.sg",
-      "free": false
-    },
-    {
-      "title": "ナイト・サファリ・スペシャル・イベント",
-      "description": "シンガポール動物園の夜間営業。夜行性動物の生態観察や子ども向け教育プログラム。トラムツアーで安全に鑑賞できます。",
-      "date": "5月通年営業",
-      "place": "ナイト・サファリ（Night Safari）、80 Mandai Lake Road",
-      "link": "https://www.nightsafari.com.sg",
-      "free": false
-    },
-    {
-      "title": "イースト・コースト・パーク サイクリング・ファミリーデー",
-      "description": "5月の週末に開催されるファミリー向けサイクリング・イベント。自転車レンタル、無料ガイドツアー、子ども向けゲームが楽しめます。",
-      "date": "5月中旬の週末",
-      "place": "イースト・コースト・パーク（East Coast Park）",
-      "link": "https://www.nparks.gov.sg",
+      "place": "National Museum of Singapore & Stamford Road周辺、シンガポール",
+      "link": "https://www.nightfestival.sg",
       "free": true
     },
     {
-      "title": "S.E.A.水族館・キッズ・ワークショップ",
-      "description": "シンガポール最大級の水族館で開催される子ども向け特別プログラム。海の生き物について学び、触れ合い体験ができます。",
-      "date": "5月通年（毎週末）",
-      "place": "S.E.A.水族館（Sentosa Island）",
-      "link": "https://www.seaaquarium.com.sg",
+      "title": "Gardens by the Bay - Flower Dome特別展示",
+      "description": "熱帯花園の室内ドーム施設で、季節ごとの特別植物展示が開催。乳幼児も快適に楽しめ、スカイウォークなどのアクティビティも充実。",
+      "date": "5月上旬〜下旬",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg",
       "free": false
+    },
+    {
+      "title": "Sentosa Island - Family Beach Activities",
+      "description": "セントーサ島のビーチで水遊びやシュノーケリング、キッズ向けビーチスポーツなど屋外アクティビティ充実。プール施設やウォータースライダーも利用可。",
+      "date": "5月上旬〜下旬",
+      "place": "Sentosa Island, Singapore",
+      "link": "https://www.sentosa.com.sg",
+      "free": false
+    },
+    {
+      "title": "Singapore Zoo - Explorer Trail",
+      "description": "世界的に有名なシンガポール動物園の専用キッズプログラム。インタラクティブな動物エンカウンターや給餌体験が可能。乳幼児向けベビーカーも充実。",
+      "date": "5月上旬〜下旬",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.com.sg",
+      "free": false
+    },
+    {
+      "title": "Tiong Bahru Market - Free Kids Exploration",
+      "description": "伝統的な朝市で、地元文化を体験。子どもと一緒に色とりどりの野菜や果物、プレイグラウンドなどを無料で楽しめる。朝6時〜11時が最適。",
+      "date": "5月上旬〜下旬（毎日）",
+      "place": "Tiong Bahru Market, 1 Seng Poh Road, Singapore 160001",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-07T01:29:26.867Z"
+  "updatedAt": "2026-05-08T01:45:37.735Z"
 }

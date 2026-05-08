@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港龍舟祭（Dragon Boat Festival）",
-      "description": "旧暦5月5日（2026年6月9日）前後に開催。色鮮やかな龍舟レースが維多利亜港で繰り広げられ、太鼓の音と歓声が響き渡ります。子どもたちも迫力のあるレース観戦を楽しめます。",
-      "date": "5月下旬〜6月上旬",
-      "place": "ビクトリア・ハーバー（Victoria Harbour）、中環〜湾仔付近",
-      "link": "https://www.discoverhongkong.com",
+      "title": "香港花卉展覧会（香港フラワーショー）",
+      "description": "5月初旬に開催される香港最大級の花卉展。色彩豊かな花々や庭園デザインが展示され、家族で春の花を楽しめます。子ども向けワークショップもあります。",
+      "date": "5月上旬",
+      "place": "ビクトリア・パーク（Victoria Park）、香港島銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/en/home.html",
       "free": true
     },
     {
-      "title": "香港公園（Hong Kong Park）での家族向けアウトドア散歩",
-      "description": "中心部にある広大な公園で、遊び場、野生動物エリア、滝、噴水池などが充実。5月の気候は暖かく、家族で散策やピクニック、野鳥観察に最適な季節です。",
-      "date": "5月全般",
-      "place": "香港公園（中環、18 Cotton Tree Drive）",
-      "link": "https://www.lcsd.gov.hk/en/parks/tnp",
+      "title": "香港ディズニーランド「スプリングセレブレーション」",
+      "description": "春の季節限定イベント。春らしい装飾、キャラクターグリーティング、特別パレードなど家族向けエンターテイメントが充実。小さな子どもも楽しめます。",
+      "date": "5月中旬〜下旬",
+      "place": "香港ディズニーランド、ランタオ島",
+      "link": "https://www.hongkongdisneyland.com/",
+      "free": false
+    },
+    {
+      "title": "スターフェリー乗船体験＆ビクトリアハーバー散策",
+      "description": "香港の象徴的な赤いスターフェリーに乗船。ビクトリアハーバーの爽やかな海風を感じながら、子どもにとって忘れられない思い出に。5月は天気が良く最適な季節です。",
+      "date": "5月通年（毎日運行）",
+      "place": "スターフェリー乗り場（セントラル〜尖沙咀間）、ビクトリアハーバー",
+      "link": "https://www.starferry.com.hk/",
+      "free": false
+    },
+    {
+      "title": "香港科学館の特別展示・子ども向けプログラム",
+      "description": "恐竜展や宇宙科学など季節ごとの特別展示が開催。インタラクティブな展示やワークショップは乳幼児から小学生まで楽しめます。クーラーで快適に過ごせます。",
+      "date": "5月通年",
+      "place": "香港科学館（Hong Kong Science Museum）、九龍尖沙咀",
+      "link": "https://www.lcsd.gov.hk/en/hkpm/facilities/museums.html",
+      "free": false
+    },
+    {
+      "title": "スターフェスティバル関連イベント・地域マーケット",
+      "description": "5月末の端午節（ドラゴンボートフェスティバル）に向けた準備期間。各地域でマーケットやフェア開催。伝統菓子を試食でき、香港文化を子どもが体験できます。",
+      "date": "5月下旬",
+      "place": "ビクトリア・パーク、香港各地域",
+      "link": "",
       "free": true
-    },
-    {
-      "title": "海洋公園（Ocean Park）の春季特別プログラム",
-      "description": "アジア有数のテーマパーク。5月は家族向けの特別イベントやキャラクターグリーティングが開催されることが多く、アトラクション、海の生き物観察、乗馬体験など子ども向けコンテンツが豊富です。",
-      "date": "5月全般",
-      "place": "海洋公園（香港島南部、Aberdeen）",
-      "link": "https://www.oceanpark.com.hk",
-      "free": false
-    },
-    {
-      "title": "スターフェリー乗船体験",
-      "description": "香港の象徴的な交通機関。ビクトリア・ハーバーを横断する約10分間の乗船は、スカイラインとハーバービューを楽しむ屋外アクティビティ。子どもにとって思い出深い体験になります。",
-      "date": "5月全般",
-      "place": "スターフェリー乗船所（中環〜尖沙咀など複数ルート）",
-      "link": "https://www.starferry.com.hk",
-      "free": false
-    },
-    {
-      "title": "M+ ビジュアル・カルチャー博物館の子ども向け展示・ワークショップ",
-      "description": "西九龍文化地区内の現代美術館。常時、子ども向けの対話型展示やアート体験ワークショップを開催しており、創意工夫を育む良い機会です。冷房完備で5月の暑さも快適。",
-      "date": "5月全般",
-      "place": "M+（West Kowloon Cultural District）",
-      "link": "https://www.mplus.org.hk",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-07T01:30:17.227Z"
+  "updatedAt": "2026-05-08T01:46:23.641Z"
 }

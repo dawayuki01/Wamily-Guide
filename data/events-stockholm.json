@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館の子ども向け特別展示とワークショップ",
-      "description": "5月はスウェーデンの春をテーマにした子ども向けワークショップが開催。絵画や工芸体験を通じて北欧文化を学べます。乳幼児向けの親子プログラムも充実しています。",
-      "date": "5月上旬〜下旬",
-      "place": "Nationalmuseum, Blasieholmen, Stockholm",
+      "title": "スウェーデン国立博物館（Nationalmuseum）の子ども向けプログラム",
+      "description": "5月の春季特別展示と連動した子ども向けワークショップ。美術館探検ツアーやクリエイティブ工作で、北欧美術を楽しく学べます。乳幼児向け設備も充実。",
+      "date": "5月上旬〜下旬（通年）",
+      "place": "Blasieholmen, Norrmalm, Stockholm",
       "link": "https://www.nationalmuseum.se",
       "free": false
     },
     {
-      "title": "スキャンセン（Skansen）の子どもプログラムと春の動物観察",
-      "description": "北欧最大の野外博物館。5月は子羊やウサギなど春生まれの動物たちが見られ、子ども向けのふれあいプログラムやスカンディナヴィア伝統文化体験が豊富です。",
-      "date": "5月通期",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "title": "スカンセン屋外博物館（Skansen）の春のアニマルエンカウンター",
+      "description": "北欧の動物たちと子どもが交流できる季節プログラム。5月は子動物シーズンで新生児が見学可能。屋外散歩で北欧の自然も体験できます。",
+      "date": "5月全期間",
+      "place": "Djurgården, Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ストックホルムの春の公園散策（無料）",
-      "description": "ユールゴーデン島やドロットニングホルム宮殿周辺は5月に見事な桜やチューリップが開花。公園散策やピクニックは完全無料で、子どもたちも自然を思いっきり楽しめます。",
-      "date": "5月上旬〜中旬",
-      "place": "Djurgården & Drottningholm Palace Gardens, Stockholm",
+      "title": "ストックホルムの春フェスティバル（Stockholms Vårfestival）",
+      "description": "5月に開催される音楽・文化・食の祭典。屋外ステージでの子ども向けパフォーマンスや家族向けフードコート、無料ステージプログラムが充実しています。",
+      "date": "5月中旬（日程確認推奨）",
+      "place": "Gamla Stan・Norrmalm周辺",
       "link": "",
       "free": true
     },
     {
-      "title": "ストックホルム水族館（Aquariums）のキッズプログラム",
-      "description": "5月の春シーズンに子ども向けの海の生き物学習プログラムを開催。タッチプール体験や動物への給餌を見学でき、乳幼児から小学生まで楽しめます。",
-      "date": "5月通期",
-      "place": "Fiskartorget 20, 111 52 Stockholm",
-      "link": "https://www.aquarieblocket.se",
+      "title": "ユーユーベパーケン（Junibacken）の春特別展示",
+      "description": "スウェーデンの児童文学キャラクターを題材とした子ども向けテーマパーク。春特別プログラムや屋外遊園地エリアで、乳幼児〜小学生が終日楽しめます。",
+      "date": "5月全期間",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     },
     {
-      "title": "パッピランド（Parppilandet）の春の家族向けイベント",
-      "description": "ストックホルム郊外のファミリーパーク。5月は春祭りやアクティビティイベントが開催。乗馬体験、工芸ワークショップ、屋外ゲームなどで家族皆で楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "Parppilandet, Västerhaninge, Stockholm region",
-      "link": "https://parppilandet.se",
-      "free": false
+      "title": "王宮（Stockholm Palace）周辺の春の無料散策・衛兵交代式",
+      "description": "ガムラスタン（旧市街）の王宮周辺は5月の新緑が美しい無料エリア。衛兵交代式（正午）を見学。歴史的建造物を眺めながらの家族向けお散歩コースに最適。",
+      "date": "5月全期間（衛兵交代式は日程確認）",
+      "place": "Gamla Stan, Stockholms Slott, Stockholm",
+      "link": "https://www.stockholmsslott.se",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-07T01:29:18.643Z"
+  "updatedAt": "2026-05-08T01:45:30.824Z"
 }

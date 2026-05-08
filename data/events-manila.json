@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・フラワー・フェスティバル",
-      "description": "5月のマニラで開催される花の祭典。色とりどりの花の展示、パレード、ワークショップなど。子どもたちが花の飾り付けや工作を楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "リサール公園（Rizal Park）、マニラ市",
-      "link": "https://www.tripadvisor.com/Tourism-g317155-Manila_Calabarzon_Region_Calabarzon_CALABARZON_Region_Mimaropa.html",
-      "free": true
-    },
-    {
-      "title": "スターシティ・キッズフェスティバル",
-      "description": "遊園地スターシティで開催される子ども向けイベント。乗り物の割引、キャラクター撮影会、ゲーム大会など家族向けアトラクションが充実。",
+      "title": "フィリピン・インターナショナル・ブック・フェア",
+      "description": "マニラで毎年開催される大規模な書籍フェア。子ども向けの読み聞かせや工作体験が多数開催され、親子で楽しめます。",
       "date": "5月上旬〜中旬",
-      "place": "スターシティ（Star City）、パサイ市",
-      "link": "https://www.starcityph.com",
+      "place": "セナド・ホール（Senado Hall）、マニラ",
+      "link": "https://www.philippinebookfair.com/",
       "free": false
     },
     {
-      "title": "フィリピン国立博物館・子どもミュージアムプログラム",
-      "description": "5月期間中の特別プログラム。化石発掘体験、恐竜展示、インタラクティブ展示で学びながら遊べます。乳幼児向け施設も充実。",
-      "date": "5月全期間",
-      "place": "フィリピン国立博物館（National Museum）、マニラ市",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "title": "サンティアゴ・フォートレス（Intramuros Walk）の無料散策",
+      "description": "スペイン統治時代の歴史的城塞跡での家族向けガイド付き散策。緑豊かで子どもが安全に探検できる屋外スポットです。",
+      "date": "5月通年",
+      "place": "Intramuros、マニラ",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "ラグーナ・プール・パーティ&スプラッシュ・フェスティバル",
-      "description": "リサール公園内の屋外プールで開催される水の祭り。スライダー、波のプール、子ども向け水遊び施設。季節らしい涼しさを楽しめます。",
-      "date": "5月全期間（土日中心）",
-      "place": "リサール公園内アクアティックセンター、マニラ市",
-      "link": "https://www.nptc.gov.ph",
+      "title": "スターシティ（Star City）のテーマパークオープン",
+      "description": "マニラの人気遊園地。メリーゴーラウンド、キッズライド、ショーなど家族向けアトラクションが充実。5月は乾季で快適です。",
+      "date": "5月通年",
+      "place": "Star City、Philippines Ave、Pasay City",
+      "link": "https://www.starcitiyphil.com/",
       "free": false
     },
     {
-      "title": "マニラ・ウィークエンド・ファーマーズマーケット",
-      "description": "毎週末開催の農産物・手作り品市。子ども向けワークショップ、試食、地元文化体験。親子で地域の食文化を学べます。",
-      "date": "5月毎週末",
-      "place": "グリーンベルト（Greenbelt）、マカティ市",
-      "link": "https://www.greenbelt.com.ph",
+      "title": "フィリピン国立博物館（子ども向けワークショップ）",
+      "description": "毎月特別な子ども対象のワークショップを開催。美術、自然科学、文化など多様な体験プログラムで学習と遊びを両立。",
+      "date": "5月上旬〜下旬",
+      "place": "フィリピン国立博物館、マニラ",
+      "link": "https://www.nationalmuseum.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "マニラ湾岸パサイ地区でのビーチ活動",
+      "description": "リサール公園近くの開放的な水辺エリアで、ピクニックや軽いウォーターアクティビティが楽しめます。5月は雨季前の最後の快晴期。",
+      "date": "5月上旬〜中旬",
+      "place": "Rizal Park周辺、Manila Bay Waterfront",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-07T01:29:43.436Z"
+  "updatedAt": "2026-05-08T01:45:53.979Z"
 }
