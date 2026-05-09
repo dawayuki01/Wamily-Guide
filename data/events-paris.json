@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・オープン・ハウス（Paris Open House）",
-      "description": "普段は入れない建築物の内部を公開。子ども向けワークショップも開催され、パリの建築文化を楽しく学べます。",
-      "date": "5月中旬",
-      "place": "パリ市内全域",
-      "link": "https://www.parisopenhousefestival.com",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館の子ども向けプログラム「ファミリー・ツアー」",
-      "description": "子ども対象の特別鑑賞プログラム。年代別に楽しめるストーリーテリング付きで、美術館初心者の子どもでも楽しめます。",
-      "date": "5月通期（毎週開催）",
-      "place": "ルーヴル美術館、パリ1区",
-      "link": "https://www.louvre.fr",
+      "title": "パリ・フローラル（Paris Floral）",
+      "description": "ブローニュの森で開催される春の花の祭典。色鮮やかな花卉展示、キッズ向けワークショップ、庭園散策が楽しめます。家族連れに人気のイベントです。",
+      "date": "5月中旬〜下旬",
+      "place": "Bois de Boulogne, Paris 16e",
+      "link": "https://www.parcfloral.com",
       "free": false
     },
     {
-      "title": "セーヌ河岸の屋外イベント「パリ・プラージュ」（準備期間）",
-      "description": "初夏に向けてセーヌ河岸がビーチ化。砂浜、船上カフェ、キッズイベントが設営され、家族で川沿いの散歩を楽しめます。",
-      "date": "5月下旬〜6月開始",
-      "place": "セーヌ河岸（4区・7区・15区など複数地点）",
-      "link": "https://www.paris.fr/pages/paris-plages-34",
+      "title": "ルクサンブルク公園の春の庭園散策",
+      "description": "パリで最も美しい公園。5月は新緑と花々が満開。子ども向け遊び場、木馬、池での散歩が無料で楽しめます。ピクニックにも最適な季節です。",
+      "date": "5月全体",
+      "place": "Jardin du Luxembourg, Paris 6e",
+      "link": "https://www.senat.fr/visite/index.html",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園の春の花畑・子ども遊園地",
-      "description": "パリを代表する公園で牡丹やバラが満開。ポニー乗馬、人形劇舞台、砂場など子ども向け施設も豊富に楽しめます。",
-      "date": "5月通期（最盛期：中旬〜下旬）",
-      "place": "ルクセンブルク公園、パリ6区",
-      "link": "https://www.senatsgarten.paris/en",
-      "free": true
+      "title": "ポンピドゥー・センター キッズ向け特別展・ワークショップ",
+      "description": "現代美術館で春期開催の子ども向けアート展やハンズオンワークショップ。年齢別プログラムで、家族で芸術を学べます。",
+      "date": "5月（具体的な日程は公式確認推奨）",
+      "place": "Place Georges-Pompidou, Paris 4e",
+      "link": "https://www.centrepompidou.fr",
+      "free": false
     },
     {
-      "title": "テレコム博物館（Musée des Télécommunications）の子ども向けワークショップ",
-      "description": "通信技術を学ぶインタラクティブ展示。5月の特別月間は子ども向けSTEM教育プログラムが充実しており、実験体験ができます。",
-      "date": "5月中旬〜下旬",
-      "place": "パリ科学産業博物館など関連施設",
+      "title": "マレ地区のオープンエアマーケット（ストリートマーケット）",
+      "description": "毎週木曜・日曜開催。地元産の野菜、果物、チーズ、パンが並ぶ。子どもが楽しく買い物体験でき、フレッシュなグルメを味わえます。",
+      "date": "5月全体（毎週木日）",
+      "place": "Rue des Francs-Bourgeois, Paris 3e-4e",
       "link": "",
+      "free": true
+    },
+    {
+      "title": "パリ自然史博物館の春季特別展・子ども向けプログラム",
+      "description": "恐竜展示やタッチ型展示で、子どもが自然科学を学べます。5月は屋外庭園も活用した特別体験プログラムが増える時期です。",
+      "date": "5月全体",
+      "place": "57 Rue Cuvier, Paris 5e",
+      "link": "https://www.mnhn.fr",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T01:29:09.503Z"
+  "updatedAt": "2026-05-09T02:06:08.633Z"
 }

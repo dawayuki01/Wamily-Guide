@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA County Fair（ロサンゼルス郡フェア）",
-      "description": "春から初夏にかけて開催される大型フェア。乗り物、ゲーム、フードベンダー、ライブエンターテインメントが充実。家族向けアトラクションが豊富で、子どもたちが楽しめる多彩なプログラムがあります。",
-      "date": "5月上旬〜下旬（毎年開催時期は異なる）",
-      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://www.lacountyfair.com",
+      "title": "ロサンゼルス郡立自然史博物館のファミリープログラム",
+      "description": "恐竜展示やインタラクティブな展示が充実。5月は春休み後のファミリー向け特別プログラムが開催され、子ども向けのワークショップやガイドツアーが楽しめます。",
+      "date": "5月中旬〜下旬",
+      "place": "ロサンゼルス郡立自然史博物館（Natural History Museum of Los Angeles County）、900 Exposition Boulevard, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
       "free": false
     },
     {
-      "title": "Griffith Observatory 春の特別プログラム",
-      "description": "無料で入場できる天文台。5月は夜間の星観測プログラムや、子ども向けの天文学ワークショップを開催。昼間は展示室見学も可能。壮大なロサンゼルスの眺望も楽しめます。",
-      "date": "5月通年（毎日開放）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "title": "グリフィスパークの野外アクティビティ＆オブザーバトリー",
+      "description": "1,200エーカーの広大なパークで、ハイキング、動物園訪問、グリフィス天文台の見学が無料。初夏の快適な気候で家族向けアウトドア活動に最適です。",
+      "date": "5月全月",
+      "place": "グリフィスパーク（Griffith Park）、4730 Crystal Springs Drive, Los Angeles, CA 90027",
+      "link": "https://griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "Descanso Gardens 春の庭園散策",
-      "description": "広大な植物園で、5月は春から初夏への季節の花々が見頃。バラ園、日本庭園、湖畔の散歩道など家族向けの散策コースが充実。子どもも楽しめるトレイルアクティビティです。",
-      "date": "5月上旬〜中旬",
-      "place": "Descanso Gardens, 1418 Descanso Dr, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org",
+      "title": "ロサンゼルス子ども博物館の季節プログラム",
+      "description": "4〜12歳向けの対話型展示が充実。5月はアウトドアテーマの特別展示や、水遊びコーナーなど季節プログラムが開催されます。",
+      "date": "5月上旬〜下旬",
+      "place": "ロサンゼルス子ども博物館（Los Angeles Children's Museum）、800 North Main Street, Los Angeles, CA 90012",
+      "link": "https://www.lacm.org/",
       "free": false
     },
     {
-      "title": "Santa Monica Pier Happenings & Beach Activities",
-      "description": "サンタモニカ桟橋での無料イベントや、近くのビーチでの屋外アクティビティ。5月は夏シーズン前で気候が良く、ファミリー向けのビーチプログラムやマーケットが開催される時期です。",
-      "date": "5月通年（週末中心）",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
+      "title": "サンタモニカピアの無料ファミリーイベント",
+      "description": "名物の観覧車やビーチアクセスが無料で楽しめる。5月はサマーシーズン開始に向けたファミリーイベント、ストリートパフォーマンスが充実している時期です。",
+      "date": "5月全月（週末特に賑わう）",
+      "place": "サンタモニカピア（Santa Monica Pier）、Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
       "free": true
     },
     {
-      "title": "Natural History Museum の春の子ども向けワークショップ",
-      "description": "恐竜展示やインタラクティブな科学プログラムが充実。5月は春シーズンの特別展や子ども向けのハンズオンアクティビティを開催。家族で一日楽しめる施設です。",
-      "date": "5月通年",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org",
+      "title": "アカデミーサイエンスセンターの特別展示",
+      "description": "実験コーナーやプラネタリウムが充実。5月は「スペースエクスペリエンス」など季節テーマの子ども向け特別プログラムが開催されます。",
+      "date": "5月中旬〜下旬",
+      "place": "アカデミーサイエンスセンター（Academy of Science and Nature Learning Center）、700 State Drive, Los Angeles, CA 90037",
+      "link": "https://www.nhm.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T01:29:48.175Z"
+  "updatedAt": "2026-05-09T02:06:49.003Z"
 }

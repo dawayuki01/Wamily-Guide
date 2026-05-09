@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
-      "description": "ミュージアム・プラニングエリアを舞台にした光と音の祭典。子ども向けのインタラクティブ展示やライトアップされた公園散策が楽しめます。",
-      "date": "5月中旬〜下旬（2026年は日程確認が必要）",
-      "place": "National Museum of Singapore周辺、Stamford Road, Singapore 178882",
-      "link": "https://www.nightfestival.sg",
-      "free": true
+      "title": "シンガポール・バレエ・フェスティバル",
+      "description": "5月に開催される国際バレエイベント。子ども向けの公演やワークショップが企画されることが多く、初めてバレエに触れる子どもに最適です。",
+      "date": "5月中旬〜下旬",
+      "place": "シンガポール国立劇場（Victoria Theatre）、Kallang Theatre",
+      "link": "https://www.nac.gov.sg",
+      "free": false
     },
     {
-      "title": "Gardens by the Bay - Flower Dome特別展示",
-      "description": "東南アジアの多彩な花々が咲く時期。子ども向けのガイドツアーやワークショップも開催。温室内で快適に過ごせます。",
-      "date": "5月上旬〜下旬",
+      "title": "ガーデンズ・バイ・ザ・ベイの季節展示＆ワークショップ",
+      "description": "5月の季節展示と子ども向けガーデニングワークショップ。動く木のような大型オブジェ「スーパーツリー・グローブ」で遊びながら学べます。",
+      "date": "5月通期",
       "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park Coastal Cleanup & Family Fun Day",
-      "description": "シンガポール最大のビーチパークで開催される家族向けイベント。砂浜での遊び、水遊び、地元グルメが楽しめる屋外アクティビティ。",
-      "date": "5月中旬（日程は年によって異なる）",
-      "place": "East Coast Park, East Coast Parkway, Singapore 449892",
-      "link": "",
+      "title": "シンガポール・リバー・フェスティバル（無料区間）",
+      "description": "毎年5月開催。リバーボートレース、音楽パフォーマンス、キッズエリアなど家族向けアクティビティが充実。一部イベントは無料で楽しめます。",
+      "date": "5月中旬",
+      "place": "シンガポール・リバー沿い（Boat Quay, Clarke Quay周辺）",
+      "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "Singapore Zoo - Breakfast with Orangutans & Special Programs",
-      "description": "シンガポール動物園での子ども向け特別プログラム。朝食時にオランウータンを観察できるユニークな体験。5月は乾季で訪問に最適。",
-      "date": "5月上旬〜下旬（通年開催）",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.singaporezoo.com",
+      "title": "シンガポール・サイエンス・センター特別展示",
+      "description": "子ども向けのSTEM教育プログラムと対話型展示。5月は夏休み向け特別ワークショップが開始される時期で、乳幼児から小学生まで楽しめます。",
+      "date": "5月通期",
+      "place": "Singapore Science Centre, 15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg",
       "free": false
     },
     {
-      "title": "Sentosa Island Summer Camp Programs",
-      "description": "セントーサ島の各施設（S.E.A. Aquarium、Universal Studios等）で開催される子ども向けサマーキャンプ。多様なアクティビティが揃っています。",
-      "date": "5月中旬〜下旬",
-      "place": "Sentosa Island, Singapore 098269",
-      "link": "https://www.sentosa.com.sg",
-      "free": false
+      "title": "イースト・コーストパーク・ビーチ・アクティビティ",
+      "description": "5月は天気が良く、ビーチでの水遊びに最適。パドリング、サンドアート、家族向けスポーツプログラムなど無料で参加できるアクティビティが豊富です。",
+      "date": "5月通期",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449855",
+      "link": "https://www.nparks.gov.sg",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T01:29:23.498Z"
+  "updatedAt": "2026-05-09T02:06:25.311Z"
 }

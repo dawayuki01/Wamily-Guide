@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アキノ公園（Luneta Park）での家族向けアウトドア活動",
-      "description": "マニラ最大の公園で、子どもたちが安全に遊べるプレイグラウンド、池、広場があります。5月は晴天の日が増え、屋外活動に最適。露店やカフェも充実しています。",
-      "date": "5月通期",
-      "place": "Luneta Park, Rizal Park, Manila",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "フィリピン・アキノ博物館 子ども向けスペシャルプログラム",
+      "description": "5月の子どもの日に合わせた特別プログラム。インタラクティブな展示で、フィリピンの歴史と文化を親子で学べます。ワークショップや体験コーナーも充実。",
+      "date": "5月上旬〜中旬",
+      "place": "Ayala Museum, Makati Avenue, Makati City, Manila",
+      "link": "https://www.ayalamuseum.org",
+      "free": false
+    },
+    {
+      "title": "リサール公園での家族向け屋外アクティビティ",
+      "description": "マニラで最大級の公園。5月は比較的雨も少なく、遊具エリア、庭園散策、露店など家族向けアクティビティが充実。ピクニックにも最適な季節です。",
+      "date": "5月上旬〜下旬",
+      "place": "Rizal Park (Luneta Park), Manila City",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "マニラ科学館（Manila Science Museum）の子ども向け展示・ワークショップ",
-      "description": "恐竜展示、インタラクティブな科学実験コーナー、プラネタリウムなど。5月には夏休みイベントや特別ワークショップが開催されることがあります。",
+      "title": "フィリピン国立動物園での子ども向けプログラム",
+      "description": "5月は暑い季節向けの特別営業時間やガイド付きツアーが充実。動物とのふれあい体験やフィーディング体験で、子どもたちの学習興味を引き出します。",
+      "date": "5月全体",
+      "place": "Philippine National Zoo, Quezon City, Metro Manila",
+      "link": "https://www.pnzoo.gov.ph",
+      "free": false
+    },
+    {
+      "title": "マーケット・マーケット（Market! Market!）キッズフェスティバル",
+      "description": "ショッピングモール内で開催される5月の子ども向けフェスティバル。ゲーム、ワークショップ、子ども向けパフォーマンス、キャラクターグリーティングが無料で楽しめます。",
+      "date": "5月上旬〜中旬",
+      "place": "Market! Market!, Taguig City, Metro Manila",
+      "link": "https://www.marketmarket.com.ph",
+      "free": true
+    },
+    {
+      "title": "オーシャンパーク セマーナサンタ特別プログラム",
+      "description": "5月の子ども向け特別イベント。ウォーターパークでの安全な水遊び、キッズショー、スライダー体験など。夏のシーズンに向けたプロモーション期間です。",
       "date": "5月中旬〜下旬",
-      "place": "Padre Burgos Avenue, Manila",
-      "link": "https://www.manilamuseum.org/",
-      "free": false
-    },
-    {
-      "title": "タグアイタイ（Tagaytay）への日帰り家族ツアー・アウトドア体験",
-      "description": "マニラから車で1時間。フィリピンの涼しい高地で、果物狩りやフルーツマーケット見学、乗馬体験など家族向けアクティビティが豊富。5月は晴天が多く最適シーズン。",
-      "date": "5月上旬〜下旬",
-      "place": "Tagaytay, Cavite Province",
-      "link": "https://www.tourism.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "SMモール・オブ・アジア（SM Mall of Asia）の無料キッズイベント・展示",
-      "description": "フィリピン最大のショッピングモール。5月に無料の子ども向けキャラクターイベント、科学展示、アニメーション上映などが随時開催されています。",
-      "date": "5月通期（週末中心）",
-      "place": "SM Mall of Asia, Mall Drive Bay Area, Manila Bay",
-      "link": "https://www.smmallofasia.com/",
-      "free": true
-    },
-    {
-      "title": "メトロマニラ動物園（Manila Zoo）の春季ファミリープログラム",
-      "description": "東南アジアの動物たちを見学。5月は春のファミリーイベント、ふれあい体験、教育プログラムが充実。乳幼児から小学生まで楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "Quirino Avenue, Manila",
-      "link": "https://manilazooph.com/",
+      "place": "Ocean Park, Santa Rosa, Laguna",
+      "link": "https://www.oceanpark.com.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T01:29:40.201Z"
+  "updatedAt": "2026-05-09T02:06:41.290Z"
 }
