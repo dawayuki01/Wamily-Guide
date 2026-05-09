@@ -82,6 +82,9 @@ jobs:
         id: fetch_mymaps
         run: node scripts/fetch-mymaps.js
         env:
+          # 複数マップ対応：カンマ区切りで Wamily Spots / Wamily Spots 2 を指定可能
+          # 例: "1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM,XXXXXX2nd-map-id"
+          GOOGLE_MYMAPS_IDS: ${{ secrets.GOOGLE_MYMAPS_IDS }}
           SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
         continue-on-error: true
 
