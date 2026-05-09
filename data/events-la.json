@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA County Arboretum & Botanic Garden - Spring Bloom",
-      "description": "5月は色とりどりの花が見頃。広大な庭園で家族で散策でき、子ども向けプレイエリアもあります。季節の花の教育プログラムも開催。",
-      "date": "5月上旬〜下旬",
-      "place": "LA County Arboretum & Botanic Garden, 301 N Baldwin Ave, Arcadia, CA 91007",
-      "link": "https://www.arboretum.org",
+      "title": "LA County Fair（ロサンゼルス郡フェア）",
+      "description": "春から初夏にかけて開催される大型フェア。乗り物、ゲーム、フードベンダー、ライブエンターテインメントが充実。家族向けアトラクションが豊富で、子どもたちが楽しめる多彩なプログラムがあります。",
+      "date": "5月上旬〜下旬（毎年開催時期は異なる）",
+      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://www.lacountyfair.com",
       "free": false
     },
     {
-      "title": "The Original Los Angeles Farmers Market - Spring Season",
-      "description": "毎週日曜を含む営業。春の地元野菜・果物が豊富。家族向けの食べ歩きやワークショップが無料で楽しめます。",
-      "date": "5月通年開催",
-      "place": "The Original Los Angeles Farmers Market, 3rd St & Fairfax Ave, Los Angeles, CA 90036",
-      "link": "https://www.lfm.com",
-      "free": true
-    },
-    {
-      "title": "Santa Monica Pier & Beach - Summer Season Start",
-      "description": "5月からサマーシーズン開始。ビーチでの海水浴、ピアの遊園地アトラクション、屋外ライブミュージックなどが楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
-      "free": true
-    },
-    {
-      "title": "Griffith Observatory - Special Family Programs",
-      "description": "5月の夜間プログラムで天体観測。子ども向けの天文教室やプラネタリウム上映があり、夕焼けも美しい季節です。",
-      "date": "5月上旬〜下旬",
+      "title": "Griffith Observatory 春の特別プログラム",
+      "description": "無料で入場できる天文台。5月は夜間の星観測プログラムや、子ども向けの天文学ワークショップを開催。昼間は展示室見学も可能。壮大なロサンゼルスの眺望も楽しめます。",
+      "date": "5月通年（毎日開放）",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "Los Angeles Zoo - Spring Education Programs",
-      "description": "5月は春の動物たちの活動が活発。子ども向けの触れ合いプログラムや教育イベント、キャンプなど豊富に開催されます。",
-      "date": "5月上旬〜下旬",
-      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "title": "Descanso Gardens 春の庭園散策",
+      "description": "広大な植物園で、5月は春から初夏への季節の花々が見頃。バラ園、日本庭園、湖畔の散歩道など家族向けの散策コースが充実。子どもも楽しめるトレイルアクティビティです。",
+      "date": "5月上旬〜中旬",
+      "place": "Descanso Gardens, 1418 Descanso Dr, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier Happenings & Beach Activities",
+      "description": "サンタモニカ桟橋での無料イベントや、近くのビーチでの屋外アクティビティ。5月は夏シーズン前で気候が良く、ファミリー向けのビーチプログラムやマーケットが開催される時期です。",
+      "date": "5月通年（週末中心）",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
+      "free": true
+    },
+    {
+      "title": "Natural History Museum の春の子ども向けワークショップ",
+      "description": "恐竜展示やインタラクティブな科学プログラムが充実。5月は春シーズンの特別展や子ども向けのハンズオンアクティビティを開催。家族で一日楽しめる施設です。",
+      "date": "5月通年",
+      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-08T01:46:00.458Z"
+  "updatedAt": "2026-05-09T01:29:48.175Z"
 }

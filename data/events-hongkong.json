@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港花卉展覧会（香港フラワーショー）",
-      "description": "5月初旬に開催される香港最大級の花卉展。色彩豊かな花々や庭園デザインが展示され、家族で春の花を楽しめます。子ども向けワークショップもあります。",
-      "date": "5月上旬",
-      "place": "ビクトリア・パーク（Victoria Park）、香港島銅鑼灣",
-      "link": "https://www.lcsd.gov.hk/en/home.html",
+      "title": "香港ドラゴンボートフェスティバル",
+      "description": "端午節を祝う伝統的なドラゴンボートレース。カラフルなボートが競い合い、無料で観覧できるエリアもあります。子どもたちが伝統文化を体験できる貴重な機会です。",
+      "date": "5月中旬（旧暦5月5日）",
+      "place": "香港・維多利亚港（Victoria Harbour）、尖沙咀、沙田などの複数会場",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "香港ディズニーランド「スプリングセレブレーション」",
-      "description": "春の季節限定イベント。春らしい装飾、キャラクターグリーティング、特別パレードなど家族向けエンターテイメントが充実。小さな子どもも楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "香港ディズニーランド、ランタオ島",
-      "link": "https://www.hongkongdisneyland.com/",
-      "free": false
-    },
-    {
-      "title": "スターフェリー乗船体験＆ビクトリアハーバー散策",
-      "description": "香港の象徴的な赤いスターフェリーに乗船。ビクトリアハーバーの爽やかな海風を感じながら、子どもにとって忘れられない思い出に。5月は天気が良く最適な季節です。",
-      "date": "5月通年（毎日運行）",
-      "place": "スターフェリー乗り場（セントラル〜尖沙咀間）、ビクトリアハーバー",
-      "link": "https://www.starferry.com.hk/",
-      "free": false
-    },
-    {
-      "title": "香港科学館の特別展示・子ども向けプログラム",
-      "description": "恐竜展や宇宙科学など季節ごとの特別展示が開催。インタラクティブな展示やワークショップは乳幼児から小学生まで楽しめます。クーラーで快適に過ごせます。",
+      "title": "香港ウェットランドパーク春季プログラム",
+      "description": "自然保護区での観鳥やネイチャーウォーク。5月は野鳥観察に最適な季節。子ども向けのガイドツアーや教育プログラムが充実しており、家族で自然を学べます。",
       "date": "5月通年",
-      "place": "香港科学館（Hong Kong Science Museum）、九龍尖沙咀",
-      "link": "https://www.lcsd.gov.hk/en/hkpm/facilities/museums.html",
+      "place": "Hong Kong Wetland Park, Tin Shui Wai, New Territories",
+      "link": "https://www.wetlandpark.gov.hk",
       "free": false
     },
     {
-      "title": "スターフェスティバル関連イベント・地域マーケット",
-      "description": "5月末の端午節（ドラゴンボートフェスティバル）に向けた準備期間。各地域でマーケットやフェア開催。伝統菓子を試食でき、香港文化を子どもが体験できます。",
-      "date": "5月下旬",
-      "place": "ビクトリア・パーク、香港各地域",
-      "link": "",
+      "title": "スターフェリー乗船体験＆海沿いピクニック",
+      "description": "香港湾を横断するスターフェリーは、子どもも大人も楽しめるアクティビティ。運行本数が多く、手軽に乗船でき、ビクトリア湾の景色を楽しめます。スターフェリー乗船後、海沿い公園でピクニックも。",
+      "date": "5月通年",
+      "place": "Star Ferry Piers (Central, Tsim Sha Tsui)",
+      "link": "https://www.starferry.com.hk",
+      "free": false
+    },
+    {
+      "title": "香港文化博物館・子ども向けワークショップ",
+      "description": "武術、書道、民芸など、香港の文化を学ぶ手作りワークショップ。5月は特別子ども向けプログラムが開催されることが多く、参加型で楽しく学べます。",
+      "date": "5月中旬〜下旬",
+      "place": "Hong Kong Heritage Museum, Sha Tin, New Territories",
+      "link": "https://www.heritagemuseum.gov.hk",
+      "free": false
+    },
+    {
+      "title": "スターライト・フェスティバル＆ビクトリア・パーク無料イベント",
+      "description": "香港各地で開催される春季祭り。ビクトリア・パーク周辺では無料で楽しめるマーケット、パフォーマンス、子ども向けアクティビティが充実。家族連れに優しいスポットです。",
+      "date": "5月上旬〜中旬",
+      "place": "Victoria Park, Causeway Bay, Hong Kong",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-08T01:46:23.641Z"
+  "updatedAt": "2026-05-09T01:30:12.776Z"
 }

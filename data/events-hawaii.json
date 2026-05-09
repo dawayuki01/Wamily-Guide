@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デー）",
-      "description": "ハワイの伝統的な花輪レイを祝う日。5月1日に各地でパレード、フラダンス、レイ作り体験などが開催されます。子どもも参加できるワークショップが多数あります。",
-      "date": "5月1日前後",
-      "place": "カピオラニ公園（ホノルル）ほか島内各地",
-      "link": "https://www.gohawaii.com/ja",
+      "title": "Lei Day（レイデー）",
+      "description": "ハワイの伝統文化を祝うレイデー。5月1日にはハワイ各地でパレード、音楽、ダンスが開催。子どもたちもレイ作りワークショップに参加でき、ハワイ文化を学べます。",
+      "date": "5月1日周辺",
+      "place": "オアフ島全域（メインイベントはカピオラニ公園など）",
+      "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "ホノルル動物園 キッズプログラム",
-      "description": "ホノルル動物園では5月の春シーズンに子ども向けの特別教育プログラムやガイドツアーを実施。トロピカルな野生動物を学びながら楽しめます。",
-      "date": "5月通年",
-      "place": "ホノルル動物園（151 Kapahulu Ave, Honolulu）",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "KCC Farmers Market（カカアコ・ファーマーズマーケット）",
+      "description": "毎週土曜朝開催の大規模農産物市場。新鮮な地元産フルーツ、野菜、ローカルフードが集結。家族で地元文化を体験し、ハワイ産フルーツを食べ歩き可能です。",
+      "date": "5月毎週土曜",
+      "place": "カピオラニ・コミュニティカレッジ駐車場、ホノルル、オアフ島",
+      "link": "https://www.honolulu.gov/parks-recreation/programs-services/farmers-markets.html",
+      "free": true
+    },
+    {
+      "title": "Waikiki Aquarium（ワイキキ水族館）の春プログラム",
+      "description": "ハワイ固有の海の生き物を学べる水族館。5月は子ども向けの特別教育プログラムやタッチプール体験が充実。インタラクティブな学習で乳幼児から楽しめます。",
+      "date": "5月通年開催",
+      "place": "2777 Kalakaua Avenue, Honolulu, Oahu 96815",
+      "link": "https://www.waikikiaquarium.org/",
       "free": false
     },
     {
-      "title": "シュノーケリング・ビーチ体験（ハナウマ湾）",
-      "description": "5月は天候が良く海が穏やか。子どもにも優しい遠浅のビーチでシュノーケリングを体験。カラフルな魚や海の生き物を観察できます。",
-      "date": "5月上旬〜下旬",
-      "place": "ハナウマ湾（7455 Kalanianaole Hwy, Honolulu）",
-      "link": "https://www.honolulu.gov/parks-recreation/beaches/hanauma-bay.html",
-      "free": true
-    },
-    {
-      "title": "KCC ファーマーズマーケット",
-      "description": "毎週土曜朝開催のローカル農産物・フードマーケット。ハワイの新鮮なフルーツ、地元グルメを子どもと一緒に楽しめます。地域の雰囲気を体験できます。",
-      "date": "5月毎週土曜",
-      "place": "KCCファーマーズマーケット（2271 Kuhio Ave, Honolulu）",
-      "link": "https://www.honoluluhub.com/",
-      "free": true
-    },
-    {
-      "title": "ホノルル子ども博物館 特別展",
-      "description": "春から初夏にかけて子ども向けの体験型展示が充実。年齢別のプログラムやハンズオンアクティビティで、子どもたちが楽しく学べます。",
+      "title": "Snorkeling at Hanauma Bay（ハナウマ湾でのシュノーケリング）",
+      "description": "ハワイを代表するシュノーケリングスポット。5月は水温も温かく、カラフルな熱帯魚や海の生き物が豊富。子ども向けのガイドツアーも利用できます。",
       "date": "5月通年",
-      "place": "ホノルル子ども博物館（2255 Kalakaua Ave, Honolulu）",
-      "link": "https://www.honoluluchildrensmuseum.org/",
+      "place": "Hanauma Bay Nature Preserve, Honolulu, Oahu",
+      "link": "https://www.honolulu.gov/parks-recreation/programs-services/hanauma-bay-nature-preserve.html",
+      "free": false
+    },
+    {
+      "title": "Hawaiian Tropical Botanical Garden（ハワイアントロピカルボタニカルガーデン）",
+      "description": "ビッグアイランドの美しい庭園。5月はトロピカルフラワーが満開。歩きやすいトレイルがあり、自然散策を通じて子どもがハワイの植物を学べます。",
+      "date": "5月通年",
+      "place": "27-717 Old Mamalahoa Hwy, Papaikou, Big Island 96781",
+      "link": "https://www.hawaiigarden.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-08T01:46:07.948Z"
+  "updatedAt": "2026-05-09T01:29:56.578Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プランタン百貨店の春のイルミネーション・ウィンドウ",
-      "description": "世界的に有名なショーウィンドウが春をテーマに装飾される時期。子どもたちが色鮮やかなディスプレイを楽しめる無料の屋外観光スポット。",
-      "date": "5月上旬〜中旬",
-      "place": "Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris",
-      "link": "https://www.printemps.com",
+      "title": "パリ・オープン・ハウス（Paris Open House）",
+      "description": "普段は入れない建築物の内部を公開。子ども向けワークショップも開催され、パリの建築文化を楽しく学べます。",
+      "date": "5月中旬",
+      "place": "パリ市内全域",
+      "link": "https://www.parisopenhousefestival.com",
       "free": true
     },
     {
-      "title": "パリ・ルーブル美術館『子ども向けワークショップ』",
-      "description": "5月中の週末に開催される子ども向けアート教室。美術館の作品をテーマに、親子で創作活動ができるプログラム。",
-      "date": "5月全体（週末開催）",
-      "place": "Louvre Museum, Rue de Rivoli, 75004 Paris",
-      "link": "https://www.louvre.fr/en/visites-et-activites",
+      "title": "ルーヴル美術館の子ども向けプログラム「ファミリー・ツアー」",
+      "description": "子ども対象の特別鑑賞プログラム。年代別に楽しめるストーリーテリング付きで、美術館初心者の子どもでも楽しめます。",
+      "date": "5月通期（毎週開催）",
+      "place": "ルーヴル美術館、パリ1区",
+      "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "セーヌ川 ピクニック・スポット（無料）",
-      "description": "パリの初夏は屋外ピクニックシーズン。セーヌ川沿い（アイル・サン・ルイ周辺）で家族でくつろげる。子ども向け公園も多数。",
-      "date": "5月中旬〜下旬",
-      "place": "Seine Riverbanks, Île Saint-Louis, Paris",
-      "link": "https://www.paris-je-t-aime.com",
+      "title": "セーヌ河岸の屋外イベント「パリ・プラージュ」（準備期間）",
+      "description": "初夏に向けてセーヌ河岸がビーチ化。砂浜、船上カフェ、キッズイベントが設営され、家族で川沿いの散歩を楽しめます。",
+      "date": "5月下旬〜6月開始",
+      "place": "セーヌ河岸（4区・7区・15区など複数地点）",
+      "link": "https://www.paris.fr/pages/paris-plages-34",
       "free": true
     },
     {
-      "title": "パリ・ラテン地区『ナチュラル・ヒストリー・ミュージアム』の春企画展",
-      "description": "自然史博物館が5月に開催する子ども向けの恐竜・動物展示イベント。対話的な展示で子どもたちが探索学習できる。",
-      "date": "5月全体",
-      "place": "Muséum national d'histoire naturelle, 36 Rue Geoffroy Saint-Hilaire, 75005 Paris",
-      "link": "https://www.mnhn.fr",
-      "free": false
+      "title": "ルクセンブルク公園の春の花畑・子ども遊園地",
+      "description": "パリを代表する公園で牡丹やバラが満開。ポニー乗馬、人形劇舞台、砂場など子ども向け施設も豊富に楽しめます。",
+      "date": "5月通期（最盛期：中旬〜下旬）",
+      "place": "ルクセンブルク公園、パリ6区",
+      "link": "https://www.senatsgarten.paris/en",
+      "free": true
     },
     {
-      "title": "ヴェルサイユ宮殿 庭園の春フェスティバル『春の音楽と花』",
-      "description": "5月にヴェルサイユ庭園で開催される音楽イベント。チューリップやバラが満開で、屋外でのコンサートと花を同時に楽しめる家族向け企画。",
+      "title": "テレコム博物館（Musée des Télécommunications）の子ども向けワークショップ",
+      "description": "通信技術を学ぶインタラクティブ展示。5月の特別月間は子ども向けSTEM教育プログラムが充実しており、実験体験ができます。",
       "date": "5月中旬〜下旬",
-      "place": "Palace of Versailles Gardens, Versailles",
-      "link": "https://www.chateauversailles.fr",
+      "place": "パリ科学産業博物館など関連施設",
+      "link": "",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-08T01:45:22.720Z"
+  "updatedAt": "2026-05-09T01:29:09.503Z"
 }

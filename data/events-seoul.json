@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "春の花祭り（ソウル植物園）",
-      "description": "5月のソウル植物園では、バラやラベンダーなどの春花が満開。子ども向けワークショップや花摘み体験も開催されます。",
-      "date": "5月上旬〜下旬",
-      "place": "ソウル植物園（江南区江南大路932）",
-      "link": "https://www.seoulbotanicpark.com",
-      "free": false
-    },
-    {
-      "title": "清溪川（チョンggェ川）での水遊び無料イベント",
-      "description": "初夏の清溪川では、子どもの水遊び広場がオープン。安全な浅水エリアで水に親しめ、夕涼みも気持ち良い屋外アクティビティです。",
+      "title": "ソウル薫衣草祭り（Seoul Lavender Festival）",
+      "description": "5月中旬、南山公園周辺で開催される薫衣草の花を愛でるイベント。子ども向けの花摘み体験やフォトゾーン、家族向けの工作教室が楽しめます。",
       "date": "5月中旬〜下旬",
-      "place": "清溪川（中区清溪川路）",
-      "link": "https://www.cheonggyecheon.seoul.go.kr",
+      "place": "南山公園（Namsan Park）、ソウル市中区",
+      "link": "https://www.visitseoul.net/",
       "free": true
     },
     {
-      "title": "儒城区こどもの日イベント",
-      "description": "5月5日こどもの日に、儒城区内の公園や文化施設で無料の子ども向けプログラムを開催。工作体験や実演イベントが充実しています。",
-      "date": "5月5日前後",
-      "place": "儒城区内各所（江北区、城北区など参加施設あり）",
-      "link": "",
+      "title": "チャムシル（蚕室）湖公園 春の家族フェスティバル",
+      "description": "ロッテワールド隣接の公園で開催。子ども向けの野外イベント、自転車レンタル、ピクニックエリアがあり、家族連れ向けの各種プログラムが用意されます。",
+      "date": "5月全体",
+      "place": "チャムシル湖公園（Chamshil Lake Park）、ソウル市松坡区",
+      "link": "https://parks.seoul.go.kr/",
       "free": true
     },
     {
-      "title": "国立children's Museum特別展示",
-      "description": "5月のプログラムでは季節の生物や自然科学をテーマにした対話形体験展示。乳幼児から小学生まで年齢別コーナーで楽しめます。",
-      "date": "5月通年",
-      "place": "国立children's Museum（龍山区二村路61）",
-      "link": "https://www.childrenmuseum.go.kr",
+      "title": "ロッテワールド「春の子ども向けスペシャルイベント」",
+      "description": "大型テーマパーク。5月は子ども向けの季節限定ショー、キャラクターグリーティング、体験プログラムが充実。乳幼児向けの施設も完備。",
+      "date": "5月全体",
+      "place": "ロッテワールド、ソウル市松坡区奥村路300",
+      "link": "https://www.lotteworld.com/",
       "free": false
     },
     {
-      "title": "南山（ナムサン）ハイキング・ピクニック",
-      "description": "5月の南山は新緑が美しく、子どもと一緒に軽ハイキングが快適。タルトギ（崖）トレッキング、テジャスピック広場でのベビーカー散歩も人気です。",
-      "date": "5月上旬〜下旬",
-      "place": "南山公園（中区南山公園路105）",
-      "link": "https://parks.seoul.go.kr",
+      "title": "ソウル植物園「春の花展示会」",
+      "description": "薫衣草、コスモス、チューリップなど春の花々が展示。温室ツアー、植物ワークショップ、家族向けの自然体験プログラムが開催されます。",
+      "date": "5月上旬〜中旬",
+      "place": "ソウル植物園、ソウル市江東区",
+      "link": "https://botanicalgarden.seoul.go.kr/",
+      "free": false
+    },
+    {
+      "title": "清溪川（チョンgyecheon）春の家族ウォーキングイベント",
+      "description": "ソウル中心部を流れる川沿いのアクティビティ。無料の家族向けウォーキングツアー、季節の花鑑賞、屋外スナック販売。乳幼児向けベビーカー対応。",
+      "date": "5月全体（週末イベント）",
+      "place": "清溪川（Cheonggyecheon）、ソウル市中区",
+      "link": "https://www.visitseoul.net/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-08T01:46:15.280Z"
+  "updatedAt": "2026-05-09T01:30:04.564Z"
 }

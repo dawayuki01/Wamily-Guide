@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・インターナショナル・ブック・フェア",
-      "description": "マニラで毎年開催される大規模な書籍フェア。子ども向けの読み聞かせや工作体験が多数開催され、親子で楽しめます。",
-      "date": "5月上旬〜中旬",
-      "place": "セナド・ホール（Senado Hall）、マニラ",
-      "link": "https://www.philippinebookfair.com/",
-      "free": false
-    },
-    {
-      "title": "サンティアゴ・フォートレス（Intramuros Walk）の無料散策",
-      "description": "スペイン統治時代の歴史的城塞跡での家族向けガイド付き散策。緑豊かで子どもが安全に探検できる屋外スポットです。",
-      "date": "5月通年",
-      "place": "Intramuros、マニラ",
+      "title": "フィリピン・アキノ公園（Luneta Park）での家族向けアウトドア活動",
+      "description": "マニラ最大の公園で、子どもたちが安全に遊べるプレイグラウンド、池、広場があります。5月は晴天の日が増え、屋外活動に最適。露店やカフェも充実しています。",
+      "date": "5月通期",
+      "place": "Luneta Park, Rizal Park, Manila",
       "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "スターシティ（Star City）のテーマパークオープン",
-      "description": "マニラの人気遊園地。メリーゴーラウンド、キッズライド、ショーなど家族向けアトラクションが充実。5月は乾季で快適です。",
-      "date": "5月通年",
-      "place": "Star City、Philippines Ave、Pasay City",
-      "link": "https://www.starcitiyphil.com/",
+      "title": "マニラ科学館（Manila Science Museum）の子ども向け展示・ワークショップ",
+      "description": "恐竜展示、インタラクティブな科学実験コーナー、プラネタリウムなど。5月には夏休みイベントや特別ワークショップが開催されることがあります。",
+      "date": "5月中旬〜下旬",
+      "place": "Padre Burgos Avenue, Manila",
+      "link": "https://www.manilamuseum.org/",
       "free": false
     },
     {
-      "title": "フィリピン国立博物館（子ども向けワークショップ）",
-      "description": "毎月特別な子ども対象のワークショップを開催。美術、自然科学、文化など多様な体験プログラムで学習と遊びを両立。",
+      "title": "タグアイタイ（Tagaytay）への日帰り家族ツアー・アウトドア体験",
+      "description": "マニラから車で1時間。フィリピンの涼しい高地で、果物狩りやフルーツマーケット見学、乗馬体験など家族向けアクティビティが豊富。5月は晴天が多く最適シーズン。",
       "date": "5月上旬〜下旬",
-      "place": "フィリピン国立博物館、マニラ",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "place": "Tagaytay, Cavite Province",
+      "link": "https://www.tourism.gov.ph/",
+      "free": false
+    },
+    {
+      "title": "SMモール・オブ・アジア（SM Mall of Asia）の無料キッズイベント・展示",
+      "description": "フィリピン最大のショッピングモール。5月に無料の子ども向けキャラクターイベント、科学展示、アニメーション上映などが随時開催されています。",
+      "date": "5月通期（週末中心）",
+      "place": "SM Mall of Asia, Mall Drive Bay Area, Manila Bay",
+      "link": "https://www.smmallofasia.com/",
       "free": true
     },
     {
-      "title": "マニラ湾岸パサイ地区でのビーチ活動",
-      "description": "リサール公園近くの開放的な水辺エリアで、ピクニックや軽いウォーターアクティビティが楽しめます。5月は雨季前の最後の快晴期。",
-      "date": "5月上旬〜中旬",
-      "place": "Rizal Park周辺、Manila Bay Waterfront",
-      "link": "",
-      "free": true
+      "title": "メトロマニラ動物園（Manila Zoo）の春季ファミリープログラム",
+      "description": "東南アジアの動物たちを見学。5月は春のファミリーイベント、ふれあい体験、教育プログラムが充実。乳幼児から小学生まで楽しめます。",
+      "date": "5月上旬〜下旬",
+      "place": "Quirino Avenue, Manila",
+      "link": "https://manilazooph.com/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-08T01:45:53.979Z"
+  "updatedAt": "2026-05-09T01:29:40.201Z"
 }
