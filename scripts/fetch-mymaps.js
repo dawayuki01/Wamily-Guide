@@ -17,8 +17,18 @@ const path = require('path');
 const { notifySlack } = require('./lib/slack-notify');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
-const DEFAULT_MAP_ID = '1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM';
-const MAP_ID = process.env.GOOGLE_MYMAPS_ID || DEFAULT_MAP_ID;
+const DEFAULT_MAP_IDS = ['1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM'];
+
+// 複数マップ対応:
+//   - GOOGLE_MYMAPS_IDS（推奨）: カンマ区切りで複数指定可
+//   - GOOGLE_MYMAPS_ID（後方互換）: 単数指定
+//   - どちらも未指定なら DEFAULT_MAP_IDS を使用
+// レイヤー上限（10/地図）対策で、Wamily Spots 2 等を追加可能
+const MAP_IDS = (
+  process.env.GOOGLE_MYMAPS_IDS ||
+  process.env.GOOGLE_MYMAPS_ID ||
+  DEFAULT_MAP_IDS.join(',')
+).split(',').map(s => s.trim()).filter(Boolean);
 
 // フォルダ名（国名） → ファイルスラグ
 const FOLDER_TO_SLUG = {
@@ -153,21 +163,38 @@ function extractCoordinates(xml) {
 // ──────────────────────────────────────────────────────────
 
 async function main() {
-  const kmlUrl = `https://www.google.com/maps/d/kml?mid=${MAP_ID}&forcekml=1`;
-  console.log(`📥 Google My Maps KML を取得中...`);
-  console.log(`   ${kmlUrl}\n`);
+  console.log(`📥 Google My Maps から ${MAP_IDS.length} 個の地図を取得中...`);
 
-  const res = await fetch(kmlUrl);
-  if (!res.ok) {
-    console.error(`❌ KML取得失敗: ${res.status} ${res.statusText}`);
-    console.error('   My Maps が「リンクを知っている人なら誰でも表示できる」設定か確認してください');
+  // すべての地図のフォルダを集める
+  const folders = [];
+  let fetchErrors = 0;
+
+  for (let i = 0; i < MAP_IDS.length; i++) {
+    const mapId = MAP_IDS[i];
+    const kmlUrl = `https://www.google.com/maps/d/kml?mid=${mapId}&forcekml=1`;
+    console.log(`\n[${i + 1}/${MAP_IDS.length}] ${mapId.slice(0, 8)}...`);
+
+    const res = await fetch(kmlUrl);
+    if (!res.ok) {
+      console.error(`   ❌ KML取得失敗: ${res.status} ${res.statusText}`);
+      console.error('      共有設定を「リンクを知っている人なら誰でも表示できる」に確認してください');
+      fetchErrors++;
+      continue;  // 1つの地図が失敗しても他を処理
+    }
+
+    const kmlText = await res.text();
+    const mapFolders = parseKML(kmlText);
+    console.log(`   → ${mapFolders.length} フォルダ検出`);
+    folders.push(...mapFolders);
+  }
+
+  // すべての地図が失敗した場合だけ中止
+  if (folders.length === 0 && fetchErrors === MAP_IDS.length) {
+    console.error('\n❌ すべての地図でKML取得に失敗しました');
     process.exit(1);
   }
 
-  const kmlText = await res.text();
-  const folders = parseKML(kmlText);
-
-  console.log(`📊 ${folders.length} フォルダ（国）を検出\n`);
+  console.log(`\n📊 合計 ${folders.length} フォルダ（国）を検出\n`);
 
   let totalNew = 0;
 
