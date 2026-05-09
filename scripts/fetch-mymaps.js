@@ -89,8 +89,11 @@ function parseKML(kmlText) {
       const rawName = extractTag(pm, 'name') || '';
       const description = extractCDATA(pm) || extractTag(pm, 'description') || '';
       const coords = extractCoordinates(pm);
+      const address = extractTag(pm, 'address');
 
-      if (!rawName || !coords) continue;
+      if (!rawName) continue;
+      // 座標 or 住所のどちらかが必要（住所だけの場合は後で Places API でジオコーディング）
+      if (!coords && !address) continue;
 
       // 絵文字とスポット名を分離（先頭の絵文字を取得）
       const emojiMatch = rawName.match(/^([\p{Emoji_Presentation}\p{Extended_Pictographic}]+)\s*/u);
@@ -119,8 +122,9 @@ function parseKML(kmlText) {
         category,
         layer: category === 'vital' ? 'vital' : (category === 'local' || category === 'food') ? 'local' : 'play',
         description: cleanDesc,
-        lat: coords.lat,
-        lng: coords.lng,
+        lat: coords ? coords.lat : null,
+        lng: coords ? coords.lng : null,
+        address: address || null,  // 座標なしのピンは後で Places API でジオコーディング
         status: 'check',
         statusLabel: '要確認',
         free: false,
@@ -156,6 +160,48 @@ function extractCoordinates(xml) {
   const match = xml.match(/<coordinates>\s*([-\d.]+),([-\d.]+)/);
   if (!match) return null;
   return { lng: parseFloat(match[1]), lat: parseFloat(match[2]) };
+}
+
+// ──────────────────────────────────────────────────────────
+// Places API で住所＋名前から座標と placeId を解決
+// （CSVインポートで作られた住所のみのピン用）
+// ──────────────────────────────────────────────────────────
+
+async function geocodePlacemark(placemark) {
+  const apiKey = process.env.GOOGLE_PLACES_API_KEY;
+  if (!apiKey) {
+    console.warn(`   ⚠️ GOOGLE_PLACES_API_KEY 未設定: ${placemark.name} をスキップ`);
+    return null;
+  }
+
+  // 名前 + 住所を検索クエリに（住所だけより精度高い）
+  const query = `${placemark.name} ${placemark.address || ''}`.trim();
+
+  const url = new URL('https://maps.googleapis.com/maps/api/place/findplacefromtext/json');
+  url.searchParams.set('input', query);
+  url.searchParams.set('inputtype', 'textquery');
+  url.searchParams.set('fields', 'place_id,geometry,name,formatted_address');
+  url.searchParams.set('language', 'ja');
+  url.searchParams.set('key', apiKey);
+
+  try {
+    const res = await fetch(url.toString());
+    const data = await res.json();
+    if (data.status !== 'OK' || !data.candidates || data.candidates.length === 0) {
+      console.warn(`   ⚠️ Places API で見つからず: "${query}" (status=${data.status})`);
+      return null;
+    }
+    const c = data.candidates[0];
+    return {
+      lat: c.geometry?.location?.lat ?? null,
+      lng: c.geometry?.location?.lng ?? null,
+      placeId: c.place_id || null,
+      formattedAddress: c.formatted_address || null,
+    };
+  } catch (err) {
+    console.warn(`   ⚠️ Places API 呼び出し失敗: ${err.message}`);
+    return null;
+  }
 }
 
 // ──────────────────────────────────────────────────────────
@@ -227,10 +273,30 @@ async function main() {
     for (const pm of folder.placemarks) {
       if (existingNamesNorm.has(normalizeName(pm.name))) continue; // 既存スポットはスキップ
 
+      // 座標が空（CSVインポートで作られた住所のみのピン）なら Places API で解決
+      if (pm.lat === null || pm.lng === null) {
+        process.stdout.write(`  🌐 [${slug}] ${pm.name} をジオコーディング中... `);
+        const geo = await geocodePlacemark(pm);
+        if (geo && geo.lat && geo.lng) {
+          pm.lat = geo.lat;
+          pm.lng = geo.lng;
+          pm.placeId = geo.placeId;
+          console.log('✅ 解決');
+          // レート制限対策
+          await new Promise(r => setTimeout(r, 200));
+        } else {
+          console.log('❌ スキップ');
+          continue;  // 座標が解決できなければ追加しない
+        }
+      }
+
+      // 一時用の address フィールドは保存しない
+      const { address: _addr, ...spotData } = pm;
+
       // 新規スポットを追加
       existingData.spots.push({
         id: 'mymaps-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8),
-        ...pm,
+        ...spotData,
       });
       newCount++;
       console.log(`  ✨ [${slug}] 新規追加: ${pm.emoji} ${pm.name}`);
