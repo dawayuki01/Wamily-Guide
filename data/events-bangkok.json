@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン（水灯祭）の準備期間・プリ・フェスティバル",
-      "description": "5月はロイクラトン向けの工芸品市場が活況。子どもと一緒に灯籠作りワークショップに参加できます。伝統文化を学べる貴重な機会です。",
-      "date": "5月中旬～下旬",
-      "place": "バンコク各地の工芸マーケット・コミュニティセンター",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "サイアムパラゴン水族館の春休みスペシャルプログラム",
-      "description": "子ども向けの海洋生物教室やタッチプール体験が開催。年間通して人気ですが5月は特別プログラムが充実しています。",
-      "date": "5月通期",
-      "place": "Siam Paragon Aquarium, 991 Rama I Rd, Bangkok 10330",
-      "link": "https://www.siamparagon.co.th/",
-      "free": false
-    },
-    {
-      "title": "ルンピニ公園での無料朝の太極拳・ヨガ体験",
-      "description": "毎朝地元の人々が集まる公園で無料の太極拳やストレッチに参加。家族で一緒に地元文化を体験できます。涼しい早朝がおすすめ。",
-      "date": "5月通期（毎日朝6:00～）",
-      "place": "Lumphini Park, Rama IV Rd, Bangkok 10330",
-      "link": "https://www.bkkparks.com/lumphini-park/",
+      "title": "ルンピニ公園での凧揚げ祭り",
+      "description": "5月はタイの凧揚げシーズン。ルンピニ公園では子どもたちが色鮮やかな凧を揚げる光景が見られます。広大な芝生で家族一緒に楽しめます。",
+      "date": "5月上旬〜中旬",
+      "place": "ルンピニ公園（Lumphini Park）、バンコク中央",
+      "link": "https://www.tourismthailand.org/",
       "free": true
     },
     {
-      "title": "ダムヌン・サドゥアック水上マーケット早朝ツアー",
-      "description": "ボートで水上マーケットを巡る体験。カラフルな果物や伝統スナック。子どもは異文化体験が可能。早朝出発で涼しく楽しめます。",
-      "date": "5月通期（早朝4:00～8:00推奨）",
-      "place": "Damnoen Saduak Floating Market, Ratchaburi Province",
+      "title": "サイアム・パラゴン水族館の夏休みプログラム",
+      "description": "サイアム・オーシャン・ワールド水族館では子ども向けの体験プログラムが実施されます。海の生物とのふれあいや教育的なワークショップが楽しめます。",
+      "date": "5月中旬〜下旬",
+      "place": "サイアム・パラゴン B1階（Siam Paragon, Rama I Road）",
+      "link": "https://www.siamoceanworld.com/",
+      "free": false
+    },
+    {
+      "title": "チャオプラヤ川でのボート体験ツアー",
+      "description": "川のほとりの寺院巡りやローカルな水上集落を見学。子どもたちにとってバンコク独特の水上文化を学べる貴重な屋外アクティビティです。",
+      "date": "5月中旬〜下旬",
+      "place": "チャオプラヤ川各地発着（バンコク全域）",
       "link": "https://www.tourismthailand.org/",
       "free": false
     },
     {
-      "title": "バンコク国立博物館の子ども向けガイドツアー",
-      "description": "タイの歴史や文化を学べる博物館。予約制の子ども向けツアーがあり、分かりやすく説明してくれます。5月は比較的空いています。",
-      "date": "5月通期（火～日）",
-      "place": "Bangkok National Museum, 4 Na Phra That Rd, Bangkok 10200",
-      "link": "https://www.bnmuseum.com/",
+      "title": "チャトゥチャック・ウィークエンド・マーケット",
+      "description": "東南アジア最大規模の週末市場。子ども向けの玩具、衣類、食べ物が豊富。家族での買い物と探検を兼ねた文化体験ができます。",
+      "date": "毎週土日（5月全週末）",
+      "place": "チャトゥチャック・マーケット（Chatuchak Weekend Market）",
+      "link": "https://www.chatuchakmarket.org/",
+      "free": true
+    },
+    {
+      "title": "スツーデム科学館での特別展示",
+      "description": "インタラクティブな展示やプラネタリウムで科学を学ぶ。5月は夏休み向けの特別プログラムが多く、子どもたちの好奇心を引き出します。",
+      "date": "5月中旬〜下旬",
+      "place": "スツーデム科学館（Science Museum, Sukhothai Rd）",
+      "link": "https://www.sciencemuseumbkk.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T02:06:33.564Z"
+  "updatedAt": "2026-05-09T10:01:03.943Z"
 }

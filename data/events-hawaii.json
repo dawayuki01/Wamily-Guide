@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイデー）",
-      "description": "ハワイの文化を祝う5月1日のイベント。子どもたちがレイ作りワークショップに参加でき、伝統的なハワイ文化を学べます。無料で楽しめるイベント多数。",
+      "title": "Lei Day（レイ・デー）",
+      "description": "ハワイの伝統文化を祝う日。5月1日を中心に、レイの製作体験、フラダンス、ハワイアンミュージックなどが各地で開催されます。無料のイベントも多く、子どもも参加できます。",
       "date": "5月1日前後",
-      "place": "カピオラニ公園（Kapiolani Park）、ホノルル",
-      "link": "https://www.honolulu.gov",
+      "place": "オアフ島各地（カピオラニ公園など）",
+      "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "Merrie Monarch Festival（メリーモナーク・フェスティバル）関連イベント",
-      "description": "ハワイアンカルチャーを祝うフェスティバル。フラダンスパレード、手工芸品展示など家族向けプログラムが充実。子ども向けワークショップも開催。",
-      "date": "5月上旬",
-      "place": "ヒロ（ハワイ島）とホノルル各地",
-      "link": "https://www.merriemonarch.org",
-      "free": false
-    },
-    {
-      "title": "ホノルル動物園 キッズプログラム",
-      "description": "5月の春シーズンに動物たちの活動が活発。子ども向けガイドツアーやアニマルトークが毎日開催。双眼鏡を持って野生動物観察ができます。",
+      "title": "Honolulu Zoo の子ども向けプログラム",
+      "description": "5月はハワイアンハイビスカスが見頃。動物園では季節限定の子ども向けキープログラムやナイトズーなどが開催。家族で楽しめる教育的プログラムが豊富です。",
       "date": "5月通年",
-      "place": "ホノルル動物園（Honolulu Zoo）、カピオラニ公園",
-      "link": "https://www.honoluluzoo.org",
+      "place": "Honolulu Zoo, Waikiki, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "ハナウマ湾（Hanauma Bay）シュノーケリング",
-      "description": "5月は海水温が適温で、熱帯魚やウミガメが見られるベストシーズン。子どもでも安全にシュノーケリングが楽しめる屋外アクティビティ。入場料は少額。",
+      "title": "ハイキングと自然体験（ダイアモンドヘッド等）",
+      "description": "5月は気候が温暖で乾燥していてハイキングに最適。ダイアモンドヘッドやマノア滝など、子ども向けコースも豊富。ハワイの自然を直接体験できます。",
       "date": "5月通年",
-      "place": "ハナウマ湾（Hanauma Bay Nature Preserve）、ホノルル",
-      "link": "https://www.honolulu.gov/parks/hanauma-bay-nature-preserve",
-      "free": false
-    },
-    {
-      "title": "KCC ファーマーズマーケット（Kapiolani Community College Farmers Market）",
-      "description": "毎週土曜朝開催。新鮮なフルーツ、ハワイアン土産、フードトラックがあり、家族で散策・食べ歩きが楽しめます。無料で立ち寄れる。",
-      "date": "5月毎週土曜日",
-      "place": "カピオラニ・コミュニティ・カレッジ、ホノルル",
-      "link": "https://kcc.hawaii.edu/programs-services/farmers-market/",
+      "place": "ダイアモンドヘッド（ワイキキ）、マノア滝トレイル等、オアフ島各地",
+      "link": "https://dlnr.hawaii.gov/",
       "free": true
+    },
+    {
+      "title": "KCC Farmers Market（カカアコ ファーマーズマーケット）",
+      "description": "毎週末開催される地元農産物・手作り品のマーケット。5月はパパイヤやマンゴーなど季節の果物が充実。子どもも試食でき、ハワイの食文化を学べます。",
+      "date": "5月中の毎週土日",
+      "place": "KCC Farmers Market, 2651 Correa Road, Honolulu, HI 96816",
+      "link": "https://www.honolulufarmers.com/",
+      "free": true
+    },
+    {
+      "title": "Waikiki Aquarium の季節プログラム",
+      "description": "5月は春休み後のファミリー向けプログラムが充実。触れるタッチプール、海洋生物の解説など、乳幼児から小学生まで楽しめる対話型の体験ができます。",
+      "date": "5月通年",
+      "place": "Waikiki Aquarium, 2777 Kalakaua Avenue, Honolulu, HI 96815",
+      "link": "https://www.waikikiaquarium.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T02:06:56.733Z"
+  "updatedAt": "2026-05-09T10:01:25.976Z"
 }

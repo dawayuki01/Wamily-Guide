@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・バレエ・フェスティバル",
-      "description": "5月に開催される国際バレエイベント。子ども向けの公演やワークショップが企画されることが多く、初めてバレエに触れる子どもに最適です。",
+      "title": "シンガポール・セーリング・フェスティバル",
+      "description": "5月に開催される帆船イベント。子どもも参加できるセーリング体験やウォータースポーツが楽しめます。マリーナベイエリアが舞台で、家族向けアクティビティが充実しています。",
       "date": "5月中旬〜下旬",
-      "place": "シンガポール国立劇場（Victoria Theatre）、Kallang Theatre",
-      "link": "https://www.nac.gov.sg",
+      "place": "Marina Bay, Singapore",
+      "link": "",
       "free": false
     },
     {
-      "title": "ガーデンズ・バイ・ザ・ベイの季節展示＆ワークショップ",
-      "description": "5月の季節展示と子ども向けガーデニングワークショップ。動く木のような大型オブジェ「スーパーツリー・グローブ」で遊びながら学べます。",
-      "date": "5月通期",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
-      "free": false
-    },
-    {
-      "title": "シンガポール・リバー・フェスティバル（無料区間）",
-      "description": "毎年5月開催。リバーボートレース、音楽パフォーマンス、キッズエリアなど家族向けアクティビティが充実。一部イベントは無料で楽しめます。",
-      "date": "5月中旬",
-      "place": "シンガポール・リバー沿い（Boat Quay, Clarke Quay周辺）",
-      "link": "https://www.stb.gov.sg",
+      "title": "シンガポール・ボタニック・ガーデンの季節展示",
+      "description": "ユネスコ世界遺産のボタニック・ガーデンで、5月の季節花が咲く中での散策が楽しめます。広大な庭園で子どもも自然を満喫でき、園内にはプレイグラウンドもあります。",
+      "date": "5月通年",
+      "place": "1 Cluny Road, Singapore 259569",
+      "link": "https://www.sbg.org.sg/",
       "free": true
     },
     {
-      "title": "シンガポール・サイエンス・センター特別展示",
-      "description": "子ども向けのSTEM教育プログラムと対話型展示。5月は夏休み向け特別ワークショップが開始される時期で、乳幼児から小学生まで楽しめます。",
-      "date": "5月通期",
-      "place": "Singapore Science Centre, 15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
+      "title": "シンガポール・サイエンス・センターの特別展示",
+      "description": "インタラクティブな科学展示で、子ども向けワークショップやSTEM体験が充実しています。5月は夏休み前の特別プログラムが開催される場合があります。",
+      "date": "5月通年",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg/",
       "free": false
     },
     {
-      "title": "イースト・コーストパーク・ビーチ・アクティビティ",
-      "description": "5月は天気が良く、ビーチでの水遊びに最適。パドリング、サンドアート、家族向けスポーツプログラムなど無料で参加できるアクティビティが豊富です。",
-      "date": "5月通期",
-      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449855",
-      "link": "https://www.nparks.gov.sg",
+      "title": "ベサラック・フェスティバル（Vesak Day イベント）",
+      "description": "5月中旬のウェサック祝日周辺で、シンガポールの主要寺院で行われる仏教の祭典。ライトアップ、フェスティバル、屋台で家族で文化体験ができます。無料のものも多いです。",
+      "date": "5月中旬（変動あり）",
+      "place": "Thean Hou Temple, 30 Lorong 29 Geylang, Singapore 388243",
+      "link": "https://www.theanhoutemple.org.sg/",
+      "free": true
+    },
+    {
+      "title": "ナチュラル・アドベンチャー・パーク（マクリッチ水道橋）での屋外アクティビティ",
+      "description": "シンガポール北部の自然保護区。トレッキング、バードウォッチング、カヌーなどが楽しめます。5月は雨季で新緑が美しく、家族向けのハイキングコースが多数あります。",
+      "date": "5月通年",
+      "place": "MacRitchie Reservoir, Singapore 574325",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/macritchie-reservoir-park",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T02:06:25.311Z"
+  "updatedAt": "2026-05-09T10:00:55.978Z"
 }

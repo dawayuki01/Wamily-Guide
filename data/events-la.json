@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス郡立自然史博物館のファミリープログラム",
-      "description": "恐竜展示やインタラクティブな展示が充実。5月は春休み後のファミリー向け特別プログラムが開催され、子ども向けのワークショップやガイドツアーが楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "ロサンゼルス郡立自然史博物館（Natural History Museum of Los Angeles County）、900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org/",
-      "free": false
-    },
-    {
-      "title": "グリフィスパークの野外アクティビティ＆オブザーバトリー",
-      "description": "1,200エーカーの広大なパークで、ハイキング、動物園訪問、グリフィス天文台の見学が無料。初夏の快適な気候で家族向けアウトドア活動に最適です。",
-      "date": "5月全月",
-      "place": "グリフィスパーク（Griffith Park）、4730 Crystal Springs Drive, Los Angeles, CA 90027",
-      "link": "https://griffithobservatory.org/",
+      "title": "LA Fermentation Festival",
+      "description": "ロサンゼルス発酵食品祭。子ども向けワークショップ、サンプリング、ライブエンターテインメント。家族で発酵食品文化を学べます。",
+      "date": "5月中旬",
+      "place": "Grand Park, 200 N Spring St, Los Angeles, CA 90012",
+      "link": "https://www.grand-park.org/",
       "free": true
     },
     {
-      "title": "ロサンゼルス子ども博物館の季節プログラム",
-      "description": "4〜12歳向けの対話型展示が充実。5月はアウトドアテーマの特別展示や、水遊びコーナーなど季節プログラムが開催されます。",
-      "date": "5月上旬〜下旬",
-      "place": "ロサンゼルス子ども博物館（Los Angeles Children's Museum）、800 North Main Street, Los Angeles, CA 90012",
-      "link": "https://www.lacm.org/",
+      "title": "Getty Villa Family Program",
+      "description": "Getty Villa美術館の家族向け特別プログラム。古代美術、インタラクティブ展示、子ども向けガイドツアーで文化体験できます。",
+      "date": "5月通期（週末プログラム）",
+      "place": "Getty Villa, 17985 Pacific Coast Hwy, Malibu, CA 90265",
+      "link": "https://www.getty.edu/visit/villa/",
       "free": false
     },
     {
-      "title": "サンタモニカピアの無料ファミリーイベント",
-      "description": "名物の観覧車やビーチアクセスが無料で楽しめる。5月はサマーシーズン開始に向けたファミリーイベント、ストリートパフォーマンスが充実している時期です。",
-      "date": "5月全月（週末特に賑わう）",
-      "place": "サンタモニカピア（Santa Monica Pier）、Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com/",
+      "title": "Descanso Gardens Spring Bloom",
+      "description": "デスカンソガーデンズの春の花々が見頃。バラ園、牡丹展示、ファミリーフレンドリーな庭園散策でリフレッシュできます。",
+      "date": "5月上旬〜中旬",
+      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org/",
+      "free": false
+    },
+    {
+      "title": "LA Street Food Fest",
+      "description": "ロサンゼルス屋台フェスティバル。多様な食べ物、キッズエリア、ライブミュージック。家族で世界の食べ物を楽しめます。",
+      "date": "5月下旬",
+      "place": "Various LA Locations（2026年日程未定）",
+      "link": "",
       "free": true
     },
     {
-      "title": "アカデミーサイエンスセンターの特別展示",
-      "description": "実験コーナーやプラネタリウムが充実。5月は「スペースエクスペリエンス」など季節テーマの子ども向け特別プログラムが開催されます。",
-      "date": "5月中旬〜下旬",
-      "place": "アカデミーサイエンスセンター（Academy of Science and Nature Learning Center）、700 State Drive, Los Angeles, CA 90037",
-      "link": "https://www.nhm.org/",
-      "free": false
+      "title": "Santa Monica Pier Spring Activities & Beach Day",
+      "description": "サンタモニカピアでの春の海辺アクティビティ。木製遊園地、ビーチプレイ、パフォーマー鑑賞。子どもと屋外で一日楽しめます。",
+      "date": "5月通期",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T02:06:49.003Z"
+  "updatedAt": "2026-05-09T10:01:18.152Z"
 }

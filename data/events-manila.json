@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アキノ博物館 子ども向けスペシャルプログラム",
-      "description": "5月の子どもの日に合わせた特別プログラム。インタラクティブな展示で、フィリピンの歴史と文化を親子で学べます。ワークショップや体験コーナーも充実。",
-      "date": "5月上旬〜中旬",
-      "place": "Ayala Museum, Makati Avenue, Makati City, Manila",
-      "link": "https://www.ayalamuseum.org",
-      "free": false
-    },
-    {
-      "title": "リサール公園での家族向け屋外アクティビティ",
-      "description": "マニラで最大級の公園。5月は比較的雨も少なく、遊具エリア、庭園散策、露店など家族向けアクティビティが充実。ピクニックにも最適な季節です。",
-      "date": "5月上旬〜下旬",
-      "place": "Rizal Park (Luneta Park), Manila City",
-      "link": "https://www.tourism.gov.ph",
-      "free": true
-    },
-    {
-      "title": "フィリピン国立動物園での子ども向けプログラム",
-      "description": "5月は暑い季節向けの特別営業時間やガイド付きツアーが充実。動物とのふれあい体験やフィーディング体験で、子どもたちの学習興味を引き出します。",
-      "date": "5月全体",
-      "place": "Philippine National Zoo, Quezon City, Metro Manila",
-      "link": "https://www.pnzoo.gov.ph",
-      "free": false
-    },
-    {
-      "title": "マーケット・マーケット（Market! Market!）キッズフェスティバル",
-      "description": "ショッピングモール内で開催される5月の子ども向けフェスティバル。ゲーム、ワークショップ、子ども向けパフォーマンス、キャラクターグリーティングが無料で楽しめます。",
-      "date": "5月上旬〜中旬",
-      "place": "Market! Market!, Taguig City, Metro Manila",
-      "link": "https://www.marketmarket.com.ph",
-      "free": true
-    },
-    {
-      "title": "オーシャンパーク セマーナサンタ特別プログラム",
-      "description": "5月の子ども向け特別イベント。ウォーターパークでの安全な水遊び、キッズショー、スライダー体験など。夏のシーズンに向けたプロモーション期間です。",
+      "title": "フィリピン・アニメーション・フェスティバル（Philippine Animation Festival）",
+      "description": "子ども向けアニメーション作品の上映やワークショップが開催される。地元クリエイターによるインタラクティブな体験ができ、家族で楽しめます。",
       "date": "5月中旬〜下旬",
-      "place": "Ocean Park, Santa Rosa, Laguna",
-      "link": "https://www.oceanpark.com.ph",
+      "place": "Cultural Center of the Philippines、Roxas Boulevard, Manila",
+      "link": "https://www.culturalcenter.gov.ph/",
+      "free": false
+    },
+    {
+      "title": "マニラ湾サンセット散策＆屋台市場（Baywalk Manila）",
+      "description": "夕涼しい時間帯にマニラ湾沿いを散策できます。無料で楽しめ、屋台で地元スナックが食べられ、子どもも大人もリラックスできます。",
+      "date": "5月通年（特に夕方）",
+      "place": "Roxas Boulevard, Manila Bay Area",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "スター・シティ（Star City）- アミューズメント・パーク・イベント",
+      "description": "遊園地内でキッズ向けライドやゲーム、季節ショーが開催。子ども向けアトラクションが充実し、家族で一日楽しめます。",
+      "date": "5月連休期間中を中心に",
+      "place": "EDSA Corner Quirino Avenue, Manila",
+      "link": "https://www.starcitymanila.com/",
+      "free": false
+    },
+    {
+      "title": "フィリピン国立博物館（National Museum）- キッズプログラム",
+      "description": "子ども向けの展示説明やワークショップが無料で実施。フィリピンの歴史や自然を学べ、家族連れに人気です。",
+      "date": "5月通年（休館日除く）",
+      "place": "Padre Burgos Street, Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "ナヤ・マニラ・キッズ・フェスティバル（New Manila Kids Festival）",
+      "description": "子ども向けゲーム、クラフト、パフォーマンスが集結。家族向けの屋外アクティビティが豊富で、地元ファミリーとも交流できます。",
+      "date": "5月中旬〜下旬",
+      "place": "Bonifacio Global City（BGC）公園エリア",
+      "link": "",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T02:06:41.290Z"
+  "updatedAt": "2026-05-09T10:01:11.642Z"
 }

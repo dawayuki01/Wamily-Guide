@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・フローラル（Paris Floral）",
-      "description": "ブローニュの森で開催される春の花の祭典。色鮮やかな花卉展示、キッズ向けワークショップ、庭園散策が楽しめます。家族連れに人気のイベントです。",
-      "date": "5月中旬〜下旬",
-      "place": "Bois de Boulogne, Paris 16e",
-      "link": "https://www.parcfloral.com",
-      "free": false
-    },
-    {
-      "title": "ルクサンブルク公園の春の庭園散策",
-      "description": "パリで最も美しい公園。5月は新緑と花々が満開。子ども向け遊び場、木馬、池での散歩が無料で楽しめます。ピクニックにも最適な季節です。",
-      "date": "5月全体",
-      "place": "Jardin du Luxembourg, Paris 6e",
-      "link": "https://www.senat.fr/visite/index.html",
+      "title": "パリ・プランタン百貨店の春のフラワーディスプレイ",
+      "description": "5月は春のピークシーズン。パリ・プランタン百貨店のファサードが色鮮やかな花で装飾され、店内でも季節の装飾が楽しめます。子どもも大人も楽しめるビジュアルスペクタクルです。",
+      "date": "5月上旬〜中旬",
+      "place": "Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris",
+      "link": "https://www.printemps.com",
       "free": true
     },
     {
-      "title": "ポンピドゥー・センター キッズ向け特別展・ワークショップ",
-      "description": "現代美術館で春期開催の子ども向けアート展やハンズオンワークショップ。年齢別プログラムで、家族で芸術を学べます。",
-      "date": "5月（具体的な日程は公式確認推奨）",
-      "place": "Place Georges-Pompidou, Paris 4e",
-      "link": "https://www.centrepompidou.fr",
-      "free": false
-    },
-    {
-      "title": "マレ地区のオープンエアマーケット（ストリートマーケット）",
-      "description": "毎週木曜・日曜開催。地元産の野菜、果物、チーズ、パンが並ぶ。子どもが楽しく買い物体験でき、フレッシュなグルメを味わえます。",
-      "date": "5月全体（毎週木日）",
-      "place": "Rue des Francs-Bourgeois, Paris 3e-4e",
-      "link": "",
+      "title": "セーヌ河畔のマルシェ・オーガニック（Marché Biologique）",
+      "description": "パリの各地で開催されるオーガニック市場。新鮮な野菜・果物・チーズが並び、子どもも楽しめます。セーヌ沿いのマルシェは雰囲気も良く、家族向けです。",
+      "date": "5月通年（水・土日開催が多い）",
+      "place": "Marché Biologique Raspail, Boulevard Raspail, 75006 Paris",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "パリ自然史博物館の春季特別展・子ども向けプログラム",
-      "description": "恐竜展示やタッチ型展示で、子どもが自然科学を学べます。5月は屋外庭園も活用した特別体験プログラムが増える時期です。",
-      "date": "5月全体",
-      "place": "57 Rue Cuvier, Paris 5e",
-      "link": "https://www.mnhn.fr",
+      "title": "ルクセンブルク公園のぼうと遊び（Sailboats）",
+      "description": "パリで最も美しい公園で、子どもたちが池でミニ帆船を浮かべられます。5月の天気の良い日は家族連れで賑わい、ピクニックにも最適な季節です。",
+      "date": "5月通年（天候により開催）",
+      "place": "Jardin du Luxembourg, Rue de Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardin",
       "free": false
+    },
+    {
+      "title": "パリ市立科学産業博物館の子ども向け特別展示",
+      "description": "Cité des Sciences et de l'Industrieでは5月に子ども向け特別プログラムが充実。インタラクティブな展示で科学を学べ、乳幼児向けエリアもあります。",
+      "date": "5月通年",
+      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "モンマルトルの春のガーデンツアー＆アート市",
+      "description": "モンマルトルの丘では5月に地元アーティストによるアート市が開催され、春の花を眺めながら散策できます。子ども向けのアート体験ワークショップも実施されます。",
+      "date": "5月中旬〜下旬（日曜開催が多い）",
+      "place": "Place du Tertre, 75018 Paris",
+      "link": "https://www.paris.fr",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T02:06:08.633Z"
+  "updatedAt": "2026-05-09T10:00:39.151Z"
 }
