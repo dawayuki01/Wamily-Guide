@@ -62,6 +62,7 @@ docs/archive/ の古い版は無視してください。
 | geocode-spots.yml | 手動実行 | スポット座標自動取得（Google Places API → data/*.json） |
 | add-curation.yml | 手動実行 | キュレーション補充（実在確認済みコンテンツをNotionに投入） |
 | fix-curation.yml | 手動実行 | キュレーションURL精査（URL空→非公開、実在→URL更新） |
+| check-curation-urls.yml | 手動実行 | キュレーションURL死活チェック（死亡URL→非公開化） |
 
 ### sync.yml ステップ
 | # | スクリプト | 内容 | 頻度 |
