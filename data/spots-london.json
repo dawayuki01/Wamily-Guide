@@ -119,8 +119,8 @@
       "category": "food",
       "layer": "local",
       "description": "キッズチェアあり、店も広い、子連れ客多い。料理も本格的で上海に住む友人も絶賛。4歳以上だと食べやすい。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": true,
       "checkedDate": "2026年5月",
       "placeId": "ChIJTS_v57sbdkgRZRcodYbEOmk",
@@ -183,8 +183,8 @@
       "category": "food",
       "layer": "local",
       "description": "テラスも広く、子連れも多い。フィッシュandチップスは絶品。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": true,
       "checkedDate": "2026年5月",
       "placeId": "ChIJD7PHdYoadkgRk9GCF5iTGIs",
@@ -487,8 +487,8 @@
       "category": "food",
       "layer": "play",
       "description": "Rating: 4.8 (13959 reviews)",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJefT-hWIbdkgRAGGu1AuI0qg",
@@ -519,8 +519,8 @@
       "category": "food",
       "layer": "play",
       "description": "アヴェマリオ：イタリアンレストラン。ピザやパスタ、お肉料理が美味しくておすすめ♪",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJoaTWHMsFdkgREy3QGecEo6c",
@@ -849,5 +849,5 @@
       "lng": -0.1302
     }
   ],
-  "checkedAt": "2026-05-09T10:02:17.458Z"
+  "checkedAt": "2026-05-09T11:23:49.686Z"
 }

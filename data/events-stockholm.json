@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館のチルドレンプログラム",
-      "description": "5月の春期企画展示と連動した子ども向けワークショップ。美術館内での創作活動や体験型展示を通じて、スウェーデン文化を学べます。乳幼児から小学生まで対応。",
-      "date": "5月全月",
-      "place": "Nationalmuseum、Södra Blasieholmen、Stockholm",
-      "link": "https://www.nationalmuseum.se/",
+      "title": "スカンセン野外博物館の春イベント",
+      "description": "北欧最大級の野外博物館で、5月は新緑の季節。動物園エリア、民族建築展示、子ども向けアクティビティが充実。季節ごとの伝統行事体験も開催されます。",
+      "date": "5月全期間",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "シェップスホルメン島の春の屋外散策と無料公開施設",
-      "description": "ストックホルムの自然公園で、春の花々や野鳥観察が楽しめます。複数の無料アクセス可能な島々があり、ファミリーハイキング、ピクニックに最適。5月は天気が良く散策に最高のシーズン。",
-      "date": "5月上旬〜下旬",
-      "place": "Djurgården Island、Stockholm",
-      "link": "https://www.stockholmskallan.se/djurgarden",
+      "title": "ストックホルム諸島での無料ビーチ・ウォーキング",
+      "description": "フェリーで気軽にアクセスできるストックホルム諸島の島々。5月は天気が良く、無料で楽しめる美しいビーチやハイキングコースが多数。子連れに最適な屋外アクティビティです。",
+      "date": "5月全期間",
+      "place": "Stockholm Archipelago（複数の島：Vaxholm, Grinda等）",
+      "link": "https://www.visitstockholm.com/en/archipelago",
       "free": true
     },
     {
-      "title": "スウェーデン民族博物館（スカンセン）の春季プログラム",
-      "description": "動物園と屋外博物館が一体となった施設。5月は新生動物の赤ちゃん公開時期。伝統工芸体験やガイドツアーで、子どもたちが親しみやすく学べる環境です。",
+      "title": "ユーランダー国立公園のバードウォッチング・春祭り",
+      "description": "5月はスウェーデンの野鳥の季節。家族向けのネイチャーツアーやワークショップが開催されます。新緑が美しい時期で、子どもの学習に最適な自然体験が得られます。",
       "date": "5月上旬〜下旬",
-      "place": "Skansen、Djurgårdsvägen 49-51、Stockholm",
-      "link": "https://www.skansen.se/",
+      "place": "Ekoparken / Ulriksdal National City Park, Stockholm",
+      "link": "https://www.visitstockholm.com/en/ekoparken",
       "free": false
     },
     {
-      "title": "ヴァサ号博物館のファミリーツアーと体験プログラム",
-      "description": "17世紀の沈没船を展示する世界的博物館。5月の春季プログラムでは、子ども向けの船乗り体験やスカベンジャーハント形式のツアーが開催され、歴史を楽しく学べます。",
-      "date": "5月全月",
-      "place": "Vasamuseet、Galärvarvsvägen 14、Stockholm",
-      "link": "https://www.vasamuseet.se/",
+      "title": "ストックホルム子ども博物館（Junibacken）の春プログラム",
+      "description": "スウェーデンの児童文学をテーマにした館内施設。5月は春の特別展示やインタラクティブワークショップが実施。乳幼児から小学生まで楽しめる子ども専門施設です。",
+      "date": "5月全期間",
+      "place": "Junibacken, Djurgårdsvägen 6, Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     },
     {
-      "title": "スターティオンガーデンの春のフラワーフェスティバル",
-      "description": "ストックホルムの美しい庭園で5月に開催される春の花祭り。チューリップ、ライラック、牡丹が満開。屋外散策、ピクニックエリア、子ども向けアクティビティが無料で楽しめます。",
-      "date": "5月上旬〜中旬",
-      "place": "Stationsgården Garden、Solna、Stockholm area",
-      "link": "",
+      "title": "ストックホルム旧市街（ガムラスタン）の無料散策と春マーケット",
+      "description": "5月の旧市街は花々で装飾され、街角で小規模なマーケットが開催。カラフルな建物、路地の探検、無料で楽しめる雰囲気が子どもたちを魅了。家族写真スポットも豊富です。",
+      "date": "5月全期間（特にマーケットは週末）",
+      "place": "Gamla Stan, Stockholm",
+      "link": "https://www.visitstockholm.com/en/gamla-stan",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T10:00:47.911Z"
+  "updatedAt": "2026-05-09T11:22:25.580Z"
 }

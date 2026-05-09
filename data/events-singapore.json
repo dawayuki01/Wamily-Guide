@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・セーリング・フェスティバル",
-      "description": "5月に開催される帆船イベント。子どもも参加できるセーリング体験やウォータースポーツが楽しめます。マリーナベイエリアが舞台で、家族向けアクティビティが充実しています。",
-      "date": "5月中旬〜下旬",
-      "place": "Marina Bay, Singapore",
-      "link": "",
+      "title": "ドラゴンボート・フェスティバル（Dragon Boat Festival）",
+      "description": "端午節を祝うドラゴンボート競技。カラフルなボートレースを観覧でき、屋台や文化体験も。子どもも楽しめる迫力のイベントです。",
+      "date": "5月下旬（旧暦5月5日）",
+      "place": "マリーナ・バーラージ（Marina Barrage）",
+      "link": "https://www.visitsingapore.com",
+      "free": true
+    },
+    {
+      "title": "シンガポール・サイエンス・センター 特別展示",
+      "description": "季節ごとの企画展示やSTEAM関連プログラム。子ども向けワークショップやインタラクティブ展示で科学を学べます。",
+      "date": "5月上旬〜下旬",
+      "place": "Singapore Science Centre, 15 Science Centre Road",
+      "link": "https://www.science.edu.sg",
       "free": false
     },
     {
-      "title": "シンガポール・ボタニック・ガーデンの季節展示",
-      "description": "ユネスコ世界遺産のボタニック・ガーデンで、5月の季節花が咲く中での散策が楽しめます。広大な庭園で子どもも自然を満喫でき、園内にはプレイグラウンドもあります。",
-      "date": "5月通年",
-      "place": "1 Cluny Road, Singapore 259569",
-      "link": "https://www.sbg.org.sg/",
-      "free": true
-    },
-    {
-      "title": "シンガポール・サイエンス・センターの特別展示",
-      "description": "インタラクティブな科学展示で、子ども向けワークショップやSTEM体験が充実しています。5月は夏休み前の特別プログラムが開催される場合があります。",
-      "date": "5月通年",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg/",
+      "title": "ナショナル・オーキッド・ガーデン（National Orchid Garden）",
+      "description": "1,000種以上のランが咲く。5月の雨季で色鮮やかに。散策路が整備され、小学生でも歩きやすい自然体験ができます。",
+      "date": "5月上旬〜下旬",
+      "place": "Singapore Botanic Gardens, 1A Cluny Road",
+      "link": "https://www.sbg.org.sg",
       "free": false
     },
     {
-      "title": "ベサラック・フェスティバル（Vesak Day イベント）",
-      "description": "5月中旬のウェサック祝日周辺で、シンガポールの主要寺院で行われる仏教の祭典。ライトアップ、フェスティバル、屋台で家族で文化体験ができます。無料のものも多いです。",
-      "date": "5月中旬（変動あり）",
-      "place": "Thean Hou Temple, 30 Lorong 29 Geylang, Singapore 388243",
-      "link": "https://www.theanhoutemple.org.sg/",
+      "title": "イースト・コースト・パーク（East Coast Park）",
+      "description": "シンガポール最大の公園。ビーチ、サイクリングロード、水上スポーツ施設完備。家族で1日楽しめる無料の屋外レジャースポット。",
+      "date": "5月上旬〜下旬",
+      "place": "East Coast Park, East Coast Parkway",
+      "link": "https://www.nparks.gov.sg/parks-and-gardens/east-coast-park",
       "free": true
     },
     {
-      "title": "ナチュラル・アドベンチャー・パーク（マクリッチ水道橋）での屋外アクティビティ",
-      "description": "シンガポール北部の自然保護区。トレッキング、バードウォッチング、カヌーなどが楽しめます。5月は雨季で新緑が美しく、家族向けのハイキングコースが多数あります。",
-      "date": "5月通年",
-      "place": "MacRitchie Reservoir, Singapore 574325",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/macritchie-reservoir-park",
-      "free": true
+      "title": "チャイナタウン・ヘリテージ・センター 子ども向けプログラム",
+      "description": "シンガポールの文化や歴史を学べる施設。ガイド付きツアーやインタラクティブ展示で、子どもも興味深く学習できます。",
+      "date": "5月上旬〜下旬",
+      "place": "Chinatown Heritage Centre, 48 Pagoda Street",
+      "link": "https://www.chinatownheritagecentre.com.sg",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T10:00:55.978Z"
+  "updatedAt": "2026-05-09T11:22:32.751Z"
 }

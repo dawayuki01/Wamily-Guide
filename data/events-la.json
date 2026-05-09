@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA Fermentation Festival",
-      "description": "ロサンゼルス発酵食品祭。子ども向けワークショップ、サンプリング、ライブエンターテインメント。家族で発酵食品文化を学べます。",
-      "date": "5月中旬",
-      "place": "Grand Park, 200 N Spring St, Los Angeles, CA 90012",
-      "link": "https://www.grand-park.org/",
+      "title": "The Original Farmers Market at The Grove",
+      "description": "5月は春から初夏への季節の変わり目。新鮮な地元産の野菜・果物・花が豊富に並ぶ。子ども向けのサンプリングやワークショップも開催されることが多い。",
+      "date": "5月毎週火木土日（通年営業）",
+      "place": "The Original Farmers Market, 6333 W 3rd St, Los Angeles, CA 90036",
+      "link": "https://www.farmersmarketla.com/",
       "free": true
     },
     {
-      "title": "Getty Villa Family Program",
-      "description": "Getty Villa美術館の家族向け特別プログラム。古代美術、インタラクティブ展示、子ども向けガイドツアーで文化体験できます。",
-      "date": "5月通期（週末プログラム）",
-      "place": "Getty Villa, 17985 Pacific Coast Hwy, Malibu, CA 90265",
-      "link": "https://www.getty.edu/visit/villa/",
+      "title": "Los Angeles County Arboretum & Botanic Garden - Spring Events",
+      "description": "5月は薔薇やアイリスが見頃。子ども向けガイドツアーやネイチャープログラムが充実。広大な庭園で屋外散策が楽しめる季節。",
+      "date": "5月上旬〜下旬",
+      "place": "Los Angeles County Arboretum & Botanic Garden, 301 N Baldwin Ave, Arcadia, CA 91007",
+      "link": "https://www.arboretum.org/",
       "free": false
     },
     {
-      "title": "Descanso Gardens Spring Bloom",
-      "description": "デスカンソガーデンズの春の花々が見頃。バラ園、牡丹展示、ファミリーフレンドリーな庭園散策でリフレッシュできます。",
-      "date": "5月上旬〜中旬",
-      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org/",
-      "free": false
-    },
-    {
-      "title": "LA Street Food Fest",
-      "description": "ロサンゼルス屋台フェスティバル。多様な食べ物、キッズエリア、ライブミュージック。家族で世界の食べ物を楽しめます。",
-      "date": "5月下旬",
-      "place": "Various LA Locations（2026年日程未定）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "Santa Monica Pier Spring Activities & Beach Day",
-      "description": "サンタモニカピアでの春の海辺アクティビティ。木製遊園地、ビーチプレイ、パフォーマー鑑賞。子どもと屋外で一日楽しめます。",
-      "date": "5月通期",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "title": "Santa Monica Pier Twilight Concert Series Preparation Season",
+      "description": "5月はサンタモニカピアーのサマーイベント準備期間。週末のオープンエアマーケットが開催され、駅舎エリアは賑やかに。海辺での無料の屋外アクティビティが楽しめる。",
+      "date": "5月毎週末",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
       "link": "https://www.santamonicapier.org/",
       "free": true
+    },
+    {
+      "title": "Griffith Observatory & Griffith Park - Spring Nature Programs",
+      "description": "5月の天候の良さを活かしたハイキングやピクニックに最適。子ども向けの天文学プログラムや自然探索ツアーが開催される。",
+      "date": "5月上旬〜下旬",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
+      "free": false
+    },
+    {
+      "title": "La Brea Tar Pits & Museum - Summer Programs Preview",
+      "description": "5月は恐竜・先史時代学習の季節。子ども向けの化石発掘体験ワークショップやガイドプログラムが増加。屋外での発掘体験が可能。",
+      "date": "5月上旬〜下旬",
+      "place": "La Brea Tar Pits & Museum, 5801 Wilshire Blvd, Los Angeles, CA 90036",
+      "link": "https://www.lamnh.org/tar-pits",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T10:01:18.152Z"
+  "updatedAt": "2026-05-09T11:23:00.593Z"
 }

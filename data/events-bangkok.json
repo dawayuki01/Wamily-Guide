@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ルンピニ公園での凧揚げ祭り",
-      "description": "5月はタイの凧揚げシーズン。ルンピニ公園では子どもたちが色鮮やかな凧を揚げる光景が見られます。広大な芝生で家族一緒に楽しめます。",
-      "date": "5月上旬〜中旬",
-      "place": "ルンピニ公園（Lumphini Park）、バンコク中央",
-      "link": "https://www.tourismthailand.org/",
-      "free": true
-    },
-    {
-      "title": "サイアム・パラゴン水族館の夏休みプログラム",
-      "description": "サイアム・オーシャン・ワールド水族館では子ども向けの体験プログラムが実施されます。海の生物とのふれあいや教育的なワークショップが楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "サイアム・パラゴン B1階（Siam Paragon, Rama I Road）",
-      "link": "https://www.siamoceanworld.com/",
+      "title": "ロイクラトン（灯篭流し）の準備期間・工芸体験",
+      "description": "11月の本祭に向けた準備期間。子どもが灯篭作りを体験できるワークショップがバンコク市内の寺院やコミュニティセンターで開催。タイ文化を学べます。",
+      "date": "5月中旬〜下旬（準備開始時期）",
+      "place": "ワットサケット、バンコク市内の寺院",
+      "link": "",
       "free": false
     },
     {
-      "title": "チャオプラヤ川でのボート体験ツアー",
-      "description": "川のほとりの寺院巡りやローカルな水上集落を見学。子どもたちにとってバンコク独特の水上文化を学べる貴重な屋外アクティビティです。",
-      "date": "5月中旬〜下旬",
-      "place": "チャオプラヤ川各地発着（バンコク全域）",
-      "link": "https://www.tourismthailand.org/",
-      "free": false
-    },
-    {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "東南アジア最大規模の週末市場。子ども向けの玩具、衣類、食べ物が豊富。家族での買い物と探検を兼ねた文化体験ができます。",
-      "date": "毎週土日（5月全週末）",
-      "place": "チャトゥチャック・マーケット（Chatuchak Weekend Market）",
-      "link": "https://www.chatuchakmarket.org/",
+      "title": "シャム・スクエア（Siam Square）キッズフェスティバル",
+      "description": "大型ショッピング施設でのファミリー向けイベント。子ども向けゲーム、工作教室、ダンスパフォーマンス、アート体験などが楽しめます。",
+      "date": "5月中旬〜下旬（開催予定時期）",
+      "place": "シャム・スクエア、バンコク中心部",
+      "link": "",
       "free": true
     },
     {
-      "title": "スツーデム科学館での特別展示",
-      "description": "インタラクティブな展示やプラネタリウムで科学を学ぶ。5月は夏休み向けの特別プログラムが多く、子どもたちの好奇心を引き出します。",
+      "title": "サファリワールド（Safari World）春イベント",
+      "description": "バンコク郊外の動物園テーマパーク。5月は暑季終盤で動物観察に最適。ドライブスルーサファリや屋内アトラクションで家族向けプログラムを開催。",
+      "date": "5月上旬〜下旬",
+      "place": "99 Soi Ram Intra 3, Minburi, Bangkok",
+      "link": "https://www.safariworld.com/",
+      "free": false
+    },
+    {
+      "title": "ベンチャシリ公園（Benjakitti Park）での無料アウトドア体験",
+      "description": "バンコク市内の大型公園。湖畔での散策、ピクニック、子ども向けプレイグラウンド利用が無料。朝方の涼しい時間帯がおすすめ。",
+      "date": "5月上旬（暑季）",
+      "place": "Benjakitti Park, Sukhumvit Road, Bangkok",
+      "link": "https://bangkok.go.th/",
+      "free": true
+    },
+    {
+      "title": "サイアム水族館（Siam Aquarium）夏休みスペシャルプログラム",
+      "description": "タイの夏休み時期に合わせたキッズプログラム。海洋生物学習ワークショップ、タッチプール体験、ガイド付きツアーなど教育的なアクティビティが充実。",
       "date": "5月中旬〜下旬",
-      "place": "スツーデム科学館（Science Museum, Sukhothai Rd）",
-      "link": "https://www.sciencemuseumbkk.org/",
+      "place": "6 Rama I Road, Pathumwan, Bangkok",
+      "link": "https://www.siamaquarium.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T10:01:03.943Z"
+  "updatedAt": "2026-05-09T11:22:40.910Z"
 }

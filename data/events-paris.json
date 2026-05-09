@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プランタン百貨店の春のフラワーディスプレイ",
-      "description": "5月は春のピークシーズン。パリ・プランタン百貨店のファサードが色鮮やかな花で装飾され、店内でも季節の装飾が楽しめます。子どもも大人も楽しめるビジュアルスペクタクルです。",
+      "title": "パリ・プランタン百貨店のスプリングフェスティバル",
+      "description": "春のウィンドウディスプレイと店内イベント。子ども向けのワークショップやアニメーション、春の装飾が楽しめます。家族連れに人気のショッピングイベントです。",
       "date": "5月上旬〜中旬",
       "place": "Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris",
-      "link": "https://www.printemps.com",
+      "link": "https://www.printemps.com/",
       "free": true
     },
     {
-      "title": "セーヌ河畔のマルシェ・オーガニック（Marché Biologique）",
-      "description": "パリの各地で開催されるオーガニック市場。新鮮な野菜・果物・チーズが並び、子どもも楽しめます。セーヌ沿いのマルシェは雰囲気も良く、家族向けです。",
-      "date": "5月通年（水・土日開催が多い）",
-      "place": "Marché Biologique Raspail, Boulevard Raspail, 75006 Paris",
-      "link": "https://www.paris.fr",
+      "title": "チュイルリー庭園のメリーゴーラウンドと春の庭園散歩",
+      "description": "パリ最大級の庭園で楽しむ春。クラシカルなメリーゴーラウンド、遊び場、ポニー乗馬など子ども向け施設が充実。5月は気候も最高です。",
+      "date": "5月全期間",
+      "place": "Jardin des Tuileries, 75001 Paris",
+      "link": "https://www.louvre.fr/en/jardin-des-tuileries",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園のぼうと遊び（Sailboats）",
-      "description": "パリで最も美しい公園で、子どもたちが池でミニ帆船を浮かべられます。5月の天気の良い日は家族連れで賑わい、ピクニックにも最適な季節です。",
-      "date": "5月通年（天候により開催）",
-      "place": "Jardin du Luxembourg, Rue de Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardin",
+      "title": "パリ動物園（ジャルダン・デ・プラント）の春の特別展示",
+      "description": "パリ東部のウッドパーク動物園で、春の動物たちの活動をテーマにした展示やガイド付きツアーが開催されます。子どもたちが自然を学べます。",
+      "date": "5月全期間",
+      "place": "Parc Zoologique de Paris, 53 Avenue de Saint-Maurice, 75012 Paris",
+      "link": "https://www.parczoologiquedeparis.fr/",
       "free": false
     },
     {
-      "title": "パリ市立科学産業博物館の子ども向け特別展示",
-      "description": "Cité des Sciences et de l'Industrieでは5月に子ども向け特別プログラムが充実。インタラクティブな展示で科学を学べ、乳幼児向けエリアもあります。",
-      "date": "5月通年",
-      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
-      "free": false
+      "title": "パリ運河でのアルテザン・マーケット（春版）",
+      "description": "カナル・サン・マルタン沿いで行われるクラフトマーケット。地元アーティストの手作り品、美食グルメが集結。家族で散策しながら買い物できます。",
+      "date": "5月中旬〜下旬の週末",
+      "place": "Canal Saint-Martin, 75010 Paris",
+      "link": "https://www.en.parisinfo.com/",
+      "free": true
     },
     {
-      "title": "モンマルトルの春のガーデンツアー＆アート市",
-      "description": "モンマルトルの丘では5月に地元アーティストによるアート市が開催され、春の花を眺めながら散策できます。子ども向けのアート体験ワークショップも実施されます。",
-      "date": "5月中旬〜下旬（日曜開催が多い）",
-      "place": "Place du Tertre, 75018 Paris",
-      "link": "https://www.paris.fr",
-      "free": true
+      "title": "キッズミュージアム「キドパリ」の春イベント",
+      "description": "2〜12才向けの体験型博物館。5月は自然・環境をテーマにしたワークショップが充実。実験や工作を通じて子どもが学べます。",
+      "date": "5月全期間（要確認）",
+      "place": "Kidkraft, Paris（複数施設あり）",
+      "link": "https://www.kidparismuseum.com/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T10:00:39.151Z"
+  "updatedAt": "2026-05-09T11:22:17.306Z"
 }
