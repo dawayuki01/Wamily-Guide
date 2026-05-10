@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プランタン百貨店のスプリングフェスティバル",
-      "description": "春のウィンドウディスプレイと店内イベント。子ども向けのワークショップやアニメーション、春の装飾が楽しめます。家族連れに人気のショッピングイベントです。",
-      "date": "5月上旬〜中旬",
+      "title": "パリ・プランタン百貨店の春のイルミネーション＆キッズイベント",
+      "description": "5月はまだ春の装飾が残る時期。子ども向けワークショップやアトラクション、プリンセステーマのイベントなど家族向けプログラムが充実しています。ショッピングと同時に楽しめます。",
+      "date": "5月上旬～中旬",
       "place": "Printemps Haussmann, 64 Boulevard Haussmann, 75009 Paris",
       "link": "https://www.printemps.com/",
-      "free": true
-    },
-    {
-      "title": "チュイルリー庭園のメリーゴーラウンドと春の庭園散歩",
-      "description": "パリ最大級の庭園で楽しむ春。クラシカルなメリーゴーラウンド、遊び場、ポニー乗馬など子ども向け施設が充実。5月は気候も最高です。",
-      "date": "5月全期間",
-      "place": "Jardin des Tuileries, 75001 Paris",
-      "link": "https://www.louvre.fr/en/jardin-des-tuileries",
-      "free": true
-    },
-    {
-      "title": "パリ動物園（ジャルダン・デ・プラント）の春の特別展示",
-      "description": "パリ東部のウッドパーク動物園で、春の動物たちの活動をテーマにした展示やガイド付きツアーが開催されます。子どもたちが自然を学べます。",
-      "date": "5月全期間",
-      "place": "Parc Zoologique de Paris, 53 Avenue de Saint-Maurice, 75012 Paris",
-      "link": "https://www.parczoologiquedeparis.fr/",
       "free": false
     },
     {
-      "title": "パリ運河でのアルテザン・マーケット（春版）",
-      "description": "カナル・サン・マルタン沿いで行われるクラフトマーケット。地元アーティストの手作り品、美食グルメが集結。家族で散策しながら買い物できます。",
-      "date": "5月中旬〜下旬の週末",
-      "place": "Canal Saint-Martin, 75010 Paris",
-      "link": "https://www.en.parisinfo.com/",
+      "title": "セーヌ川沿いの屋外公園でのピクニック・ガーデンフェスタ",
+      "description": "5月のパリは気候が最高。セーヌ川沿いのスクエア・デ・プラントやルクセンブルク公園で季節の花が咲き誇ります。無料で家族でピクニックしながら春を満喫できます。",
+      "date": "5月全期間",
+      "place": "Jardin des Plantes / Luxembourg Garden, Paris 5e/6e",
+      "link": "https://www.paris.fr/pages/les-jardins-de-paris-6",
       "free": true
     },
     {
-      "title": "キッズミュージアム「キドパリ」の春イベント",
-      "description": "2〜12才向けの体験型博物館。5月は自然・環境をテーマにしたワークショップが充実。実験や工作を通じて子どもが学べます。",
-      "date": "5月全期間（要確認）",
-      "place": "Kidkraft, Paris（複数施設あり）",
-      "link": "https://www.kidparismuseum.com/",
+      "title": "Musée de Montmartre（モンマルトル美術館）の子ども向け春企画展",
+      "description": "5月の春シーズンに家族向けワークショップや子ども美術教室を開催。モンマルトルの庭園も美しく、子どもが学びながら楽しめるプログラムが豊富です。",
+      "date": "5月中旬～下旬",
+      "place": "Musée de Montmartre, 12 Rue Cortot, 75018 Paris",
+      "link": "https://www.museedemontmartre.fr/",
+      "free": false
+    },
+    {
+      "title": "パリ・モーニング・マーケット巡り（無料観光）",
+      "description": "5月の朝市は地元野菜や花が豊富。特にMarché Bastille（日曜）やMarché Aligre（毎日）は子どもも興味深く、地元文化を体験できます。新鮮な果物も子どもと一緒に選べます。",
+      "date": "5月全期間（特に土日朝）",
+      "place": "Marché Bastille (Sunday) / Marché Aligre, 75012 Paris",
+      "link": "https://www.paris.fr/pages/les-marches-de-paris-3995",
+      "free": true
+    },
+    {
+      "title": "Parc Astérix（アステリックス公園）の新シーズン・ファミリーイベント",
+      "description": "5月はヨーロッパ最大級のテーマパークが新シーズン開園。子ども向けライドやキャラクター・グリーティングが充実。乳幼児向けエリアもあり、家族全員で楽しめます。",
+      "date": "5月上旬～下旬（営業確認要）",
+      "place": "Parc Astérix, 60128 Plailly, France",
+      "link": "https://www.parcasterix.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T11:22:17.306Z"
+  "updatedAt": "2026-05-10T01:30:50.524Z"
 }

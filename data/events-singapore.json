@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ドラゴンボート・フェスティバル（Dragon Boat Festival）",
-      "description": "端午節を祝うドラゴンボート競技。カラフルなボートレースを観覧でき、屋台や文化体験も。子どもも楽しめる迫力のイベントです。",
-      "date": "5月下旬（旧暦5月5日）",
-      "place": "マリーナ・バーラージ（Marina Barrage）",
-      "link": "https://www.visitsingapore.com",
+      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
+      "description": "5月下旬開催。ミュージアムエリアを中心に、光と芸術の祭典。子どもも楽しめるインタラクティブ展示やパフォーマンスが充実。家族向けアクティビティも多数。",
+      "date": "5月下旬（通常5月末）",
+      "place": "Museum Planning Area（National Museum Singapore周辺）、シンガポール",
+      "link": "https://www.singaporenight.gov.sg",
       "free": true
     },
     {
-      "title": "シンガポール・サイエンス・センター 特別展示",
-      "description": "季節ごとの企画展示やSTEAM関連プログラム。子ども向けワークショップやインタラクティブ展示で科学を学べます。",
-      "date": "5月上旬〜下旬",
-      "place": "Singapore Science Centre, 15 Science Centre Road",
-      "link": "https://www.science.edu.sg",
+      "title": "Gardens by the Bay - Flower Dome季節展示",
+      "description": "5月の庭園は色鮮やかな季節の花々で彩られる。子ども向けガイドツアーや体験プログラム。温室内で涼しく楽しめる家族向けスポット。",
+      "date": "5月全期間",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, シンガポール",
+      "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "ナショナル・オーキッド・ガーデン（National Orchid Garden）",
-      "description": "1,000種以上のランが咲く。5月の雨季で色鮮やかに。散策路が整備され、小学生でも歩きやすい自然体験ができます。",
-      "date": "5月上旬〜下旬",
-      "place": "Singapore Botanic Gardens, 1A Cluny Road",
-      "link": "https://www.sbg.org.sg",
-      "free": false
-    },
-    {
-      "title": "イースト・コースト・パーク（East Coast Park）",
-      "description": "シンガポール最大の公園。ビーチ、サイクリングロード、水上スポーツ施設完備。家族で1日楽しめる無料の屋外レジャースポット。",
-      "date": "5月上旬〜下旬",
-      "place": "East Coast Park, East Coast Parkway",
-      "link": "https://www.nparks.gov.sg/parks-and-gardens/east-coast-park",
+      "title": "East Coast Park Family Cycling & Water Activities",
+      "description": "5月の屋外アクティビティに最適。自転車レンタル、キッズプレイエリア、ビーチでの水遊びなど。家族向けの安全なレクリエーション施設。季節イベントも随時開催。",
+      "date": "5月全期間（晴天の日がおすすめ）",
+      "place": "East Coast Park, 440 East Coast Parkway, シンガポール",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "チャイナタウン・ヘリテージ・センター 子ども向けプログラム",
-      "description": "シンガポールの文化や歴史を学べる施設。ガイド付きツアーやインタラクティブ展示で、子どもも興味深く学習できます。",
-      "date": "5月上旬〜下旬",
-      "place": "Chinatown Heritage Centre, 48 Pagoda Street",
-      "link": "https://www.chinatownheritagecentre.com.sg",
+      "title": "Singapore Children's Festival（シンガポール・チルドレンズ・フェスティバル）",
+      "description": "5月開催。子ども向けのワークショップ、劇場公演、音楽イベント。乳幼児から小学生までが楽しめる多彩なアクティビティと教育プログラム。",
+      "date": "5月中旬〜下旬",
+      "place": "Various venues, シンガポール",
+      "link": "https://www.childrenfestival.sg",
+      "free": false
+    },
+    {
+      "title": "Singapore Zoo - Keeper's Talk & Feeding Sessions",
+      "description": "通年開催の飼育員によるプログラム。5月の動物たちの様子を観察。子どもが動物について学べるインタラクティブセッション。トロピカル環境での屋外学習体験。",
+      "date": "5月全期間（毎日開催）",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, シンガポール",
+      "link": "https://www.singaporezoo.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T11:22:32.751Z"
+  "updatedAt": "2026-05-10T01:31:08.107Z"
 }

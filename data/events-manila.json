@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Manila Bay Sunset Strolling & Beach Activities",
-      "description": "マニラ湾の夕焼けを眺めながら家族で散歩。5月は乾季で天気が良く、ビーチでの砂遊びやアイスクリーム屋台など、子どもたちが楽しめるアクティビティが豊富です。",
-      "date": "5月上旬〜下旬",
-      "place": "Manila Bay Promenade（マニラ湾沿い）",
-      "link": "",
+      "title": "フィリピン子どもの月（Children's Month）",
+      "description": "5月はフィリピン全国で子ども向けイベント・セール・特別プログラムが開催される月。多くのショッピングモールやテーマパークで子ども向けアクティビティや割引が実施されます。",
+      "date": "5月全月",
+      "place": "マニラ全域（SM、Ayala等主要ショッピングモール）",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "Philippine National Museum - Kids' Educational Programs",
-      "description": "フィリピン国立博物館では子ども向けの特別展示ツアーや教育プログラムを実施。恐竜化石や地元の歴史を学べます。5月の学期中は学校団体向けプログラムも開催。",
+      "title": "スター シティ（Star City）- 子ども向け特別プログラム",
+      "description": "フィリピン最大級のテーマパーク。5月は子どもの月特別イベントで割引やキャラクターグリーティング等が実施。乳幼児〜小学生向けアトラクションが豊富。",
       "date": "5月上旬〜下旬",
-      "place": "Padre Burgos Avenue, Rizal Park, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "place": "Star City, Corner J. Laya St and E. Rodriguez Sr. Ave, Quezon City",
+      "link": "https://www.starcity.com.ph/",
       "free": false
     },
     {
-      "title": "Luneta Park (Rizal Park) - Family Recreation & Play",
-      "description": "リサール公園内の広大な緑地で、遊具エリアや芝生での自由な遊びが可能。5月は天気が良く、家族でのピクニックに最適。乳幼児から小学生まで楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "Rizal Park, Manila City",
-      "link": "https://www.tourism.gov.ph",
-      "free": true
-    },
-    {
-      "title": "Manila Ocean Park - Summer Activities",
-      "description": "水族館と遊園地が一体になった施設。5月の夏休み前に特別プログラムやキャラクターグリーティング、子ども向けワークショップを開催。海の生物について学べます。",
-      "date": "5月上旬〜下旬",
-      "place": "CCP Complex, Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceanpark.com",
+      "title": "ラグーナ ウォーターパーク（Laguna Waterpark）",
+      "description": "マニラ郊外の大型ウォーターパーク。5月の夏シーズンに家族向けプールやスライダーで楽しめる。子ども向けプール施設も充実。屋外でのリフレッシュに最適。",
+      "date": "5月（営業期間確認推奨）",
+      "place": "Binan, Laguna Province（マニラから車で約1時間）",
+      "link": "https://www.lagunahotels.com/",
       "free": false
     },
     {
-      "title": "Star City Theme Park - Summer Family Packages",
-      "description": "遊園地の乗り物やアトラクションで家族向けのサマーパッケージを実施。5月は学期終了前で特別割引やファミリーセット券が利用可能。小学生〜未就学児向けのアトラクション豊富。",
+      "title": "フィリピン国家博物館（National Museum） - 子ども向けワークショップ",
+      "description": "フィリピン国家博物館では5月に子ども向けの特別展示やワークショップを開催。マニラ歴史や自然について学べます。無料入館日もあり。",
       "date": "5月中旬〜下旬",
-      "place": "Seaside Boulevard, CCP Complex, Manila",
-      "link": "https://www.star-city.com.ph",
-      "free": false
+      "place": "P. Burgos St, Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "ロハス公園（Luneta Park/Rizal Park） - 家族向けアウトドア活動",
+      "description": "マニラ中心部の広大な公園。5月は屋外での散歩、ピクニック、自転車レンタルが楽しめます。遊具広場や教育施設も完備。家族向けの無料アクティビティが豊富。",
+      "date": "5月通年（特に朝方・夕方）",
+      "place": "Roxas Blvd, Ermita, Manila",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T11:22:49.333Z"
+  "updatedAt": "2026-05-10T01:31:24.253Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day Celebration（レイデー）",
-      "description": "5月1日はハワイの文化的な重要な日。フラ、音楽、ハワイアン工芸が各地で祝われます。子どもはレイ作りワークショップに参加でき、ハワイ文化を体験できます。",
+      "title": "Lei Day（レイ・デー）",
+      "description": "5月1日はハワイの伝統的な花飾り「レイ」を祝う日。各地でパレード、フラダンス、レイ作り体験など家族向けのイベントが開催されます。",
       "date": "5月1日前後",
-      "place": "ワイキキビーチ、カピオラニパーク（オアフ島）",
-      "link": "https://www.gohawaii.com/",
+      "place": "ホノルル市街地（カピオラニ公園周辺）、ハワイ各島",
+      "link": "https://www.gohawaii.com",
       "free": true
     },
     {
-      "title": "KCC Farmers Market（ファーマーズマーケット）",
-      "description": "毎週土曜日開催。地元の新鮮な野菜、フルーツ、ハワイアンフード。子どもと一緒に買い物を楽しみ、多くの屋台で無料試食もあります。ローカル体験に最適。",
-      "date": "毎週土曜日（5月全般）",
-      "place": "Kapiolani Community College、Honolulu, HI 96816",
-      "link": "https://www.kccfarmersmarket.com/",
+      "title": "Honolulu Zoo（ホノルル動物園）のファミリープログラム",
+      "description": "乳幼児向けの動物教育プログラムやキッズアクティビティが充実。広い敷地で様々な動物を観察でき、小学生まで楽しめます。",
+      "date": "5月通年",
+      "place": "ホノルル動物園、2000 Kalakaua Ave, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org",
+      "free": false
+    },
+    {
+      "title": "Waikiki Aquarium（ワイキキ水族館）",
+      "description": "ハワイの海洋生物を学べる水族館。子ども向けの解説やタッチプール、シーガラス採集など対話型の展示で乳幼児から楽しめます。",
+      "date": "5月通年",
+      "place": "ワイキキ水族館、2777 Kalakaua Ave, Honolulu, HI 96815",
+      "link": "https://www.waikikiaquarium.org",
+      "free": false
+    },
+    {
+      "title": "Manoa Falls Hiking Trail（マノアの滝トレッキング）",
+      "description": "ハワイを代表するトレッキングコース。往復約1時間の比較的容易なコースで、熱帯雨林と滝を体験。小学生以上向け屋外アクティビティ。",
+      "date": "5月通年",
+      "place": "マノア渓谷、3860 Manoa Rd, Honolulu, HI 96822",
+      "link": "https://hawaiitrails.org",
       "free": true
     },
     {
-      "title": "Waikiki Aquarium Kids Programs",
-      "description": "5月は気候が良く、海洋生物学の特別プログラムが充実。幼児向けの触れ合い体験や小学生向けの実験教室など、年代別のワークショップが開催されます。",
-      "date": "5月上旬〜下旬",
-      "place": "2777 Kalakaua Avenue, Honolulu, HI 96815",
-      "link": "https://www.waikikiaquarium.org/",
-      "free": false
-    },
-    {
-      "title": "Snorkeling at Hanauma Bay Nature Preserve",
-      "description": "5月は水温が上がり、最適なシュノーケリングシーズン。熱帯魚が豊富で、子どもも安全に楽しめます。ビーチは遠浅で家族向け。海洋生物観察の貴重な体験。",
-      "date": "5月全般",
-      "place": "100 Hanauma Bay Road, Honolulu, HI 96825",
-      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
-      "free": false
-    },
-    {
-      "title": "Hawaii Nature Center Programs",
-      "description": "ハイキング、滝つぼ遊び、ネイチャーガイドツアーなど、子ども向けのアウトドア教育プログラム。5月は雨も少なく、自然探索に最適な季節です。",
-      "date": "5月全般",
-      "place": "2131 Makiki Heights Drive, Honolulu, HI 96822",
-      "link": "https://www.hawaiinaturecenter.org/",
-      "free": false
+      "title": "Kakaako Farmers Market（カカアコ・ファーマーズマーケット）",
+      "description": "毎週末開催される地元野菜・果物・クラフト品のマーケット。子どもと一緒に地元文化を体験でき、新鮮なアサイーボウルなど食べ歩きも楽しめます。",
+      "date": "5月通年（土日）",
+      "place": "カカアコ地区、近辺（ホノルル）",
+      "link": "https://www.kakaakomarket.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-09T11:23:08.327Z"
+  "updatedAt": "2026-05-10T01:31:39.449Z"
 }
