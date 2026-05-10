@@ -1,0 +1,38 @@
+name: Check Image URLs
+
+on:
+  schedule:
+    # 毎週月曜 10:30 JST (= 01:30 UTC)
+    - cron: '30 1 * * 1'
+  workflow_dispatch:
+    inputs:
+      verbose:
+        description: '全URLの結果を表示する'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      - name: Run check-image-urls
+        env:
+          SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.verbose }}" = "true" ]; then
+            ARGS="--verbose"
+          fi
+          node scripts/check-image-urls.js $ARGS
