@@ -9,14 +9,6 @@
       "addedDate": "2026-04-07"
     },
     {
-      "id": "334088f5-0b07-812d-9588-f6b12adef567",
-      "name": "@gohawaiijapan",
-      "type": "Instagram",
-      "description": "ハワイ州観光局の日本語Instagram。青い海・虹・家族写真。ハワイへの気持ちが高まる一枚ばかり。",
-      "url": "https://www.instagram.com/gohawaiijapan/",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-81c9-88a0-dabef61a6a6d",
       "name": "Go Hawaii 公式YouTube",
       "type": "YouTube",
@@ -25,5 +17,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-10T01:30:30.699Z"
+  "updatedAt": "2026-05-10T02:12:15.874Z"
 }

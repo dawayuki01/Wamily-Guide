@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン準備期間・水かけ祭りの余韻",
-      "description": "5月はソンクラーン後の季節。バンコク市内の寺院では水祭り関連の文化体験やワークショップが開催されます。子どもたちが仏教文化を学べます。",
-      "date": "5月上旬〜中旬",
-      "place": "ワット・ベンチャマボピット（大理石寺院）、バンコク都内各寺院",
-      "link": "https://www.tourismthailand.org/",
-      "free": true
-    },
-    {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "東南アジア最大級の週末市場。子ども向けおもちゃ、衣類、フードコート、動物コーナーなど家族で1日楽しめます。毎週土日開催。",
-      "date": "5月毎週土日",
-      "place": "チャトゥチャック公園、バンコク北部（BTS Mochit駅近く）",
-      "link": "https://www.chatuchakmarket.com/",
-      "free": true
-    },
-    {
-      "title": "サイアム・パラゴン水族館の特別子ども向けプログラム",
-      "description": "5月の夏休み準備期間に子ども向け教育プログラムやタッチプール体験が充実。海の生き物について学べるワークショップも開催。",
+      "title": "ロイクラトン（水灯祭）準備期間の子ども向けワークショップ",
+      "description": "5月はロイクラトン本番（11月）に向けた準備期間。バンコクの寺院やコミュニティセンターで、灯籠作りなどの子ども向けワークショップが開催されます。タイ文化を学べます。",
       "date": "5月中旬〜下旬",
-      "place": "サイアム・パラゴン（Siam Paragon）3階、バンコク都心",
-      "link": "https://www.siamparagon.com/",
+      "place": "バンコク市内の主要寺院・コミュニティセンター（開催地は変動）",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "サイアムパラゴン水族館 キッズプログラム",
+      "description": "東南アジア最大級の水族館。5月は雨季の始まりで屋内施設が重宝されます。餌やりタイムやタッチプール等、子ども向け特別プログラムが充実。涼しく過ごせます。",
+      "date": "5月通年開催",
+      "place": "Siam Paragon, 991 Rama 1 Rd., Bangkok 10330, Thailand",
+      "link": "https://www.siamparagon.co.th",
       "free": false
     },
     {
-      "title": "ルンピニ公園での朝のエクササイズと自然体験",
-      "description": "バンコクの大型公園。朝は地元民が運動する様子が見られ、子ども向けの遊具やジョギングコース、野鳥観察ができます。涼しい時間帯がおすすめ。",
-      "date": "5月毎日（早朝がおすすめ）",
-      "place": "ルンピニ公園（Lumphini Park）、バンコク都心",
-      "link": "https://www.tourismthailand.org/",
+      "title": "ルンピニ公園での早朝アクティビティ",
+      "description": "バンコク中心部の広大な公園。5月早朝は比較的涼しく、散策や野鳥観察、自転車レンタルが人気。トンボ池や広場で子どもが安全に遊べます。朝食市場も併設。",
+      "date": "5月全期間（早朝6時〜8時推奨）",
+      "place": "Lumphini Park, Rama IV Rd., Bangkok 10330, Thailand",
+      "link": "https://www.bangkok.go.th",
       "free": true
     },
     {
-      "title": "キッザニア・バンコクの夏シーズン特別プログラム",
-      "description": "職業体験テーマパーク。5月は夏休み期間に向けて子ども向けの限定プログラムやキャンペーンが展開。安全で楽しい社会体験ができます。",
-      "date": "5月中旬〜下旬",
-      "place": "キッザニア・バンコク（EM Sphere）、バンコク東部",
-      "link": "https://www.kidzania.com/en/bangkok/",
+      "title": "ジム・トンプソン・ハウス キッズツアー",
+      "description": "タイの絹業の父が住んだ邸宅。5月期間中、子ども向けガイドツアーが実施。建築やタイ文化を楽しく学べます。涼しい館内環境で、乳幼児連れでも快適です。",
+      "date": "5月全期間（要事前確認）",
+      "place": "Jim Thompson House, 6 Soi Kasemsan 2, Rama I Rd., Bangkok 10330",
+      "link": "https://www.jimthompsonhouse.com",
       "free": false
+    },
+    {
+      "title": "チャトゥチャック・ウィークエンドマーケット 朝市散策",
+      "description": "世界最大級のマーケット。日曜朝7時〜9時は空いており、子連れに最適。ペット売場、玩具、食べ歩きが充実。雨季開始前の涼しい早朝がおすすめ。",
+      "date": "5月の日曜朝（7時〜9時）",
+      "place": "Chatuchak Weekend Market, Bangkok, Thailand",
+      "link": "https://www.chatuchakmarket.org",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T01:31:16.245Z"
+  "updatedAt": "2026-05-10T02:12:57.929Z"
 }

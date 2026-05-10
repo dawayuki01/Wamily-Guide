@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立美術館の子ども向けアート教室",
-      "description": "5月の春シーズンに開催される子ども向けのワークショップ。アート制作を通じた創造性の育成が目的。乳幼児から小学生までの異なるプログラムが用意されています。",
-      "date": "5月上旬〜下旬（週末開催）",
-      "place": "スウェーデン国立美術館（Nationalmuseum Stockholm）、Södra Blasieholmen, 111 48 Stockholm",
-      "link": "https://www.nationalmuseum.se/",
+      "title": "Skansen（スカンセン）の春の動物たち",
+      "description": "北欧最古の野外博物館。5月は子ども向け教育プログラムが充実。動物との触れ合いや伝統文化体験が可能な季節です。",
+      "date": "5月上旬〜下旬",
+      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーランデルパーク（Skansen Open Air Museum）の春祭り",
-      "description": "北欧最大級の野外博物館で開催される春のイベント。スウェーデンの伝統文化を体験でき、子ども向けの民族工芸体験やアニマルコーナーが人気。",
-      "date": "5月中旬〜下旬",
-      "place": "スカンセン野外博物館（Skansen）、Djurgårdsslätten 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
-      "free": false
-    },
-    {
-      "title": "ストックホルム群島でのボートツアーと自然散策",
-      "description": "5月は北欧の短い春シーズン。30,000以上の島々から成る群島でのボートツアーは、家族向けの定番アクティビティ。野生動物観察や島での散策が楽しめます。",
-      "date": "5月中旬〜下旬（天候による）",
-      "place": "ストックホルム群島（Stockholm Archipelago）、Norrmalm地区の複数の乗船場",
-      "link": "https://www.stockholmskargarden.se/",
-      "free": false
-    },
-    {
-      "title": "キューラパーク（Kulturhuset Stadsteatern）の子ども向けプログラム",
-      "description": "文化施設の子ども専用エリアで、演劇ワークショップ、アート制作、楽器体験などが無料または低価格で提供されます。雨の日の室内遊びに最適です。",
-      "date": "5月中旬〜下旬（通年開催）",
-      "place": "キューラパーク（Kulturhuset Stadsteatern）、Sergels Torg, 111 57 Stockholm",
-      "link": "https://www.kulturhusetstadsteatern.se/",
+      "title": "Drottningholm Palace Gardens（ドロットニングホルム宮殿庭園）",
+      "description": "王妃の離宮の広大な庭園が5月に開放。チューリップやライラックが咲き、無料で散策可能。子どもの走り回れるスペース充実。",
+      "date": "5月上旬〜下旬",
+      "place": "Drottningholm Palace, 178 02 Drottningholm",
+      "link": "https://www.royalpalaces.se",
       "free": true
     },
     {
-      "title": "ユングフルボルデット公園（Djurgården）での自由散策",
-      "description": "ストックホルム最大級の緑地で、5月の新緑と花々が美しい季節。遊び場、美術館、童話の街など子ども向け施設が充実。無料で終日楽しめます。",
-      "date": "5月上旬〜下旬（通年）",
-      "place": "ジュルガーデン島（Djurgården）、Stockholm",
-      "link": "https://www.stockholmsturistbyra.se/",
+      "title": "Vasa Museum（ヴァーサ博物館）の子ども向けワークショップ",
+      "description": "17世紀の軍艦展示で有名な博物館。5月は子ども向けの体験型ワークショップやガイドツアーが開催される季節です。",
+      "date": "5月上旬〜下旬",
+      "place": "Galärvägen 14, 115 20 Stockholm",
+      "link": "https://www.vasamuseet.se",
+      "free": false
+    },
+    {
+      "title": "Gröna Lund（グローナ・ルンド）の春オープン",
+      "description": "北欧で最も古いテーマパーク。5月は新シーズンオープン。子ども向けライドやアトラクションが豊富で家族向けイベントも多数開催。",
+      "date": "5月上旬〜下旬",
+      "place": "Allmänna gränd 9, 102 52 Stockholm",
+      "link": "https://www.gronalund.com",
+      "free": false
+    },
+    {
+      "title": "Djurgården（ジュールガーデン）の散策・無料公園利用",
+      "description": "ストックホルムの大型公園島。5月は草花が咲き乱れ、自転車レンタルやピクニック、野外遊び場が利用可能。完全無料で終日楽しめます。",
+      "date": "5月上旬〜下旬",
+      "place": "Djurgården, 115 21 Stockholm",
+      "link": "https://www.djurgarden.se",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T01:31:00.010Z"
+  "updatedAt": "2026-05-10T02:12:41.260Z"
 }

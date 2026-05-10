@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
-      "description": "5月下旬開催。ミュージアムエリアを中心に、光と芸術の祭典。子どもも楽しめるインタラクティブ展示やパフォーマンスが充実。家族向けアクティビティも多数。",
-      "date": "5月下旬（通常5月末）",
-      "place": "Museum Planning Area（National Museum Singapore周辺）、シンガポール",
-      "link": "https://www.singaporenight.gov.sg",
+      "title": "Dragon Boat Festival（ドラゴンボートフェスティバル）",
+      "description": "旧暦5月5日の端午節を祝うお祭り。カラフルなドラゴンボートのレース、屋台での食べ物、伝統文化体験が楽しめます。家族向けの参加型イベントも多数。",
+      "date": "5月下旬（2026年は5月30日頃）",
+      "place": "Marina Bay、East Coast Park周辺",
+      "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "Gardens by the Bay - Flower Dome季節展示",
-      "description": "5月の庭園は色鮮やかな季節の花々で彩られる。子ども向けガイドツアーや体験プログラム。温室内で涼しく楽しめる家族向けスポット。",
-      "date": "5月全期間",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, シンガポール",
+      "title": "Singapore Science Centre - Special Exhibitions",
+      "description": "子ども向けの季節限定展示や特別プログラム。インタラクティブな科学体験が豊富で、乳幼児向けのプレイエリアもあります。雨の日も安心。",
+      "date": "5月通期",
+      "place": "15 Science Centre Rd, Singapore 609081",
+      "link": "https://www.science.edu.sg",
+      "free": false
+    },
+    {
+      "title": "Vesak Day Celebrations（ウェサック・デイ）",
+      "description": "仏教の重要な祭典。寺院でのランタン点灯、パレード、文化体験が楽しめます。カラフルな装飾と家族向けの活動が充実。子どもも参加可能な儀式や食べ物の配布も。",
+      "date": "5月中旬（2026年は5月24日）",
+      "place": "Thean Hou Temple、Wat Bovoranives Thai Buddhist Temple",
+      "link": "https://www.stb.gov.sg",
+      "free": true
+    },
+    {
+      "title": "Gardens by the Bay - Flower Dome & Cloud Forest",
+      "description": "季節ごとの花展示と冷房完備の建築体験。Cloud Forestでは大滝探検、Flower Domeではテーマ展示が楽しめます。涼しく快適な屋内施設。",
+      "date": "5月通期",
+      "place": "18 Marina Gardens Drive, Singapore 018953",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park Family Cycling & Water Activities",
-      "description": "5月の屋外アクティビティに最適。自転車レンタル、キッズプレイエリア、ビーチでの水遊びなど。家族向けの安全なレクリエーション施設。季節イベントも随時開催。",
-      "date": "5月全期間（晴天の日がおすすめ）",
-      "place": "East Coast Park, 440 East Coast Parkway, シンガポール",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "East Coast Park Beach & Water Activities",
+      "description": "シンガポール最大のビーチでの無料レクリーション。子ども向けの安全な浜辺エリア、自転車レンタル、ピクニック施設が充実。5月は夏のシーズン始まり。",
+      "date": "5月通期",
+      "place": "East Coast Park, Singapore 449269",
+      "link": "https://www.nparks.gov.sg",
       "free": true
-    },
-    {
-      "title": "Singapore Children's Festival（シンガポール・チルドレンズ・フェスティバル）",
-      "description": "5月開催。子ども向けのワークショップ、劇場公演、音楽イベント。乳幼児から小学生までが楽しめる多彩なアクティビティと教育プログラム。",
-      "date": "5月中旬〜下旬",
-      "place": "Various venues, シンガポール",
-      "link": "https://www.childrenfestival.sg",
-      "free": false
-    },
-    {
-      "title": "Singapore Zoo - Keeper's Talk & Feeding Sessions",
-      "description": "通年開催の飼育員によるプログラム。5月の動物たちの様子を観察。子どもが動物について学べるインタラクティブセッション。トロピカル環境での屋外学習体験。",
-      "date": "5月全期間（毎日開催）",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, シンガポール",
-      "link": "https://www.singaporezoo.com.sg",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T01:31:08.107Z"
+  "updatedAt": "2026-05-10T02:12:48.656Z"
 }

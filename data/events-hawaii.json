@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デー）",
-      "description": "5月1日はハワイの伝統的な花飾り「レイ」を祝う日。各地でパレード、フラダンス、レイ作り体験など家族向けのイベントが開催されます。",
+      "title": "Lei Day（レイ・デイ）",
+      "description": "5月1日はハワイの伝統的なレイ（花輪）を祝う日。フェスティバル、パレード、ワークショップなど各地で開催。子どもも参加できるレイ作り体験が充実しています。",
       "date": "5月1日前後",
-      "place": "ホノルル市街地（カピオラニ公園周辺）、ハワイ各島",
-      "link": "https://www.gohawaii.com",
+      "place": "ホノルル各地（イオラニ・パレス周辺など）",
+      "link": "https://www.gohawaii.com/ja",
       "free": true
     },
     {
-      "title": "Honolulu Zoo（ホノルル動物園）のファミリープログラム",
-      "description": "乳幼児向けの動物教育プログラムやキッズアクティビティが充実。広い敷地で様々な動物を観察でき、小学生まで楽しめます。",
-      "date": "5月通年",
-      "place": "ホノルル動物園、2000 Kalakaua Ave, Honolulu, HI 96815",
+      "title": "Honolulu Zoo Free Admission Day",
+      "description": "ホノルル動物園の無料入園日。普段は有料ですが、指定日は入園無料。熱帯動物との距離が近く、小さな子どもも楽しめる施設です。",
+      "date": "5月中旬（不定期）",
+      "place": "Honolulu Zoo, Waikiki, Honolulu",
       "link": "https://www.honoluluzoo.org",
-      "free": false
-    },
-    {
-      "title": "Waikiki Aquarium（ワイキキ水族館）",
-      "description": "ハワイの海洋生物を学べる水族館。子ども向けの解説やタッチプール、シーガラス採集など対話型の展示で乳幼児から楽しめます。",
-      "date": "5月通年",
-      "place": "ワイキキ水族館、2777 Kalakaua Ave, Honolulu, HI 96815",
-      "link": "https://www.waikikiaquarium.org",
-      "free": false
-    },
-    {
-      "title": "Manoa Falls Hiking Trail（マノアの滝トレッキング）",
-      "description": "ハワイを代表するトレッキングコース。往復約1時間の比較的容易なコースで、熱帯雨林と滝を体験。小学生以上向け屋外アクティビティ。",
-      "date": "5月通年",
-      "place": "マノア渓谷、3860 Manoa Rd, Honolulu, HI 96822",
-      "link": "https://hawaiitrails.org",
       "free": true
     },
     {
-      "title": "Kakaako Farmers Market（カカアコ・ファーマーズマーケット）",
-      "description": "毎週末開催される地元野菜・果物・クラフト品のマーケット。子どもと一緒に地元文化を体験でき、新鮮なアサイーボウルなど食べ歩きも楽しめます。",
-      "date": "5月通年（土日）",
-      "place": "カカアコ地区、近辺（ホノルル）",
-      "link": "https://www.kakaakomarket.com",
+      "title": "Snorkel at Hanauma Bay Nature Preserve",
+      "description": "透明度の高い湾でシュノーケリング。初心者向けプログラムあり。5月は水温も心地よく、カラフルな魚が見られます。子ども向けシュノーケルレンタルも充実。",
+      "date": "5月通年（晴天の日がおすすめ）",
+      "place": "Hanauma Bay, Honolulu, Oahu",
+      "link": "https://www.honolulu.gov/parks/programs/hanaumabaynaturepreserve.html",
+      "free": false
+    },
+    {
+      "title": "Ala Moana Center Free Keiki Events",
+      "description": "アラモアナセンターで開催される子ども向け無料イベント。5月はハワイアン文化体験やエンターテイメントが定期開催。買い物ついでに家族で楽しめます。",
+      "date": "5月の週末（毎月異なる）",
+      "place": "Ala Moana Center, Honolulu",
+      "link": "https://www.alamoanacenter.com",
       "free": true
+    },
+    {
+      "title": "Bishop Museum Spring Programs",
+      "description": "ビショップ・ミュージアムの春季プログラム。ハワイの歴史・文化を学べる子ども向けワークショップやプラネタリウム上映。対話型展示で学習しながら楽しめます。",
+      "date": "5月通年（プログラム随時開催）",
+      "place": "Bishop Museum, 1525 Bernice Street, Honolulu",
+      "link": "https://www.bishopmuseum.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T01:31:39.449Z"
+  "updatedAt": "2026-05-10T02:13:21.073Z"
 }

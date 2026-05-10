@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス子ども美術館 春の特別展示",
-      "description": "5月は子ども向けの対話型アート展示やワークショップが開催される時期。絵の具遊びやクラフト制作など、乳幼児から小学生まで楽しめるプログラムが充実しています。",
-      "date": "5月上旬〜下旬",
-      "place": "Los Angeles Children's Museum, 800 S Olive Ave, Los Angeles, CA 90017",
-      "link": "https://www.lacm.org/",
+      "title": "ロサンゼルス子ども博物館（LA Children's Museum）の春の特別プログラム",
+      "description": "乳幼児から小学生向けの対話型展示やSTEAM教育プログラムが充実。5月は春季特別展示やワークショップが開催されています。",
+      "date": "5月通年",
+      "place": "Los Angeles Children's Museum, 800 N Alameda St, Los Angeles, CA 90012",
+      "link": "https://www.lachildrensmuseum.org/",
       "free": false
     },
     {
-      "title": "グリフィス天文台での春のワークショップ",
-      "description": "グリフィス天文台では5月に子ども向けプラネタリウムショーや天文科学ワークショップを開催。昼間はハイキングも楽しめる屋外施設です。",
-      "date": "5月上旬〜下旬",
+      "title": "ビーチでの無料ファミリーイベント（サンタモニカビーチ）",
+      "description": "5月の週末にはサンタモニカビーチで無料のビーチクリーンアップイベントや家族向けスポーツアクティビティが開催。砂浜で安全に遊べます。",
+      "date": "5月の週末",
+      "place": "Santa Monica Beach, Santa Monica, CA 90401",
+      "link": "https://www.smgov.net/departments/parks/content.aspx?id=24",
+      "free": true
+    },
+    {
+      "title": "グリフィス天文台（Griffith Observatory）の無料入場と春の天文イベント",
+      "description": "入場無料の天文台。5月は毎週火～日にプラネタリウムショーと天体観測会を開催。子ども向けの解説プログラムもあります。",
+      "date": "5月通年（火～日）",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "サンタモニカ・ビーチでのビーチプログラム",
-      "description": "5月の温暖な季節、サンタモニカビーチではビーチクリーン活動やサンディアート教室など無料の家族向けアクティビティが週末に開催されます。",
-      "date": "5月上旬〜下旬",
-      "place": "Santa Monica Beach, 1642 Promenade, Santa Monica, CA 90401",
-      "link": "https://www.santamonica.gov/things-to-do",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス自然史博物館の春季特別展",
-      "description": "恐竜展やインタラクティブな自然科学展示で、子どもが楽しく学べる企画展が開催される時期。5月は屋外ガーデンも見頃で家族向けプログラムが充実します。",
-      "date": "5月上旬〜下旬",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://nhm.org/",
+      "title": "ハンティントン図書館の春の庭園と子ども向けプログラム",
+      "description": "世界的な庭園での散策が楽しめる。5月は春花が見ごろで、子ども向けガイドツアーやワークショップが開催されています。",
+      "date": "5月上旬～下旬",
+      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Rd, San Marino, CA 91108",
+      "link": "https://www.huntington.org/",
       "free": false
     },
     {
-      "title": "グレンデール・ファーマーズマーケット",
-      "description": "毎週土曜日開催される地元農産物やキッズ向けスナックが並ぶマーケット。生演奏や子どもワークショップも開催され、家族で楽しめる雰囲気です。",
-      "date": "5月上旬〜下旬（毎週土曜）",
-      "place": "Glendale Farmers Market, 210 S Brand Blvd, Glendale, CA 91205",
-      "link": "https://www.glendaleca.com/",
+      "title": "パサデナ・ピークス公園でのハイキング（屋外アクティビティ）",
+      "description": "家族向けの初級～中級ハイキングコース。5月は天候が良く、パサデナの街並みを眺める絶景が楽しめます。子どもも歩きやすい距離のトレイルあり。",
+      "date": "5月通年",
+      "place": "Pasadena Peaks Park & Trails, Pasadena, CA 91107",
+      "link": "https://www.cityofpasadena.net/parksandrecreation/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T01:31:31.584Z"
+  "updatedAt": "2026-05-10T02:13:13.518Z"
 }

@@ -9,14 +9,6 @@
       "addedDate": "2026-03-31"
     },
     {
-      "id": "334088f5-0b07-812b-9f94-d54c83dfc577",
-      "name": "@france.fr",
-      "type": "Instagram",
-      "description": "フランス政府観光局の公式Instagram。パリの美しい景色・カフェ・アート。旅心をくすぐる写真が並ぶ。",
-      "url": "https://www.instagram.com/france.fr/",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-8173-a70a-c20afb918281",
       "name": "Atout France 公式YouTube",
       "type": "YouTube",
@@ -25,5 +17,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-10T01:30:30.700Z"
+  "updatedAt": "2026-05-10T02:12:15.874Z"
 }

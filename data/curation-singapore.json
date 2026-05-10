@@ -9,14 +9,6 @@
       "addedDate": "2026-03-31"
     },
     {
-      "id": "334088f5-0b07-81c0-ae2f-e12a63fcd3ec",
-      "name": "@visitsingaporejp",
-      "type": "Instagram",
-      "description": "シンガポール観光局の日本語Instagram。夜景・動物園・美食など、子連れが喜ぶ情報を発信。",
-      "url": "https://www.instagram.com/visitsingaporejp/",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-81ff-a866-ccc124dfa2f0",
       "name": "Visit Singapore 公式YouTube",
       "type": "YouTube",
@@ -25,5 +17,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-10T01:30:30.700Z"
+  "updatedAt": "2026-05-10T02:12:15.874Z"
 }

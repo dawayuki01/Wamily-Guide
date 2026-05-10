@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "id": "334088f5-0b07-8195-9f2f-eb171a232086",
-      "name": "@discoverlosangeles",
-      "type": "Instagram",
-      "description": "LA観光局の公式Instagram。太陽・ビーチ・アート。西海岸の開放感が子どもも大人もワクワクさせる。",
-      "url": "https://www.instagram.com/discoverlosangeles/",
-      "addedDate": "2026-03-31"
-    },
-    {
       "id": "334088f5-0b07-81f5-98af-de36c19eff3c",
       "name": "Discover Los Angeles 公式YouTube",
       "type": "YouTube",
@@ -17,5 +9,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-10T01:30:30.700Z"
+  "updatedAt": "2026-05-10T02:12:15.875Z"
 }
