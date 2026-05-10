@@ -56,6 +56,7 @@ docs/archive/ の古い版は無視してください。
 | newsletter-sequence.yml | 毎日 7:30 JST | シーケンスメール（ウェルカムメールのフォールバック） |
 | community.yml（日次） | 毎日 9:30 JST | バトン通知 + マイルストーン + ホストリマインダー |
 | community.yml（週次） | 毎週月曜 10:00 JST | GA4レポート + Notionダッシュボード更新 + SNS分析 + 編集レポート |
+| check-image-urls.yml | 毎週月曜 10:30 JST | HTML内Unsplash画像URLの死活チェック（404→Slack通知） |
 | strategy.yml | 毎月1日 10:00 JST | 参謀室 月次業界レポート |
 | add-spots.yml | 手動実行 | スポット自動追加（Google Places API → Notion） |
 | translate-spots.yml | 手動実行 | スポット説明文の日本語化（Claude API） |
@@ -154,7 +155,8 @@ docs/archive/ の古い版は無視してください。
 ## サイト構成
 
 ### 対応国（11カ国）
-ロンドン / 台湾 / パリ / ストックホルム / シンガポール / バンコク / マニラ / LA / ハワイ / ソウル / 香港（draft）
+ソウル / 台湾 / 香港 / マニラ / バンコク / シンガポール / ハワイ / LA / ストックホルム / パリ / ロンドン
+（並び順：日本からの距離が近い → 遠い順。サイト表示と一致）
 
 ### 国の公開管理
 - `data/countries.json` の `status` フィールドで管理（`public` / `draft` / `archived`）
@@ -278,6 +280,7 @@ Notion sync時に以下のフィールドは既存JSONファイルから引き�
 | サイトが更新されない | `sync.yml` の手動実行（workflow_dispatch） |
 | Slack に通知が来ない | GitHub Secrets の `SLACK_WEBHOOK_*` を確認 |
 | キュレーションが表示されない | Notion で「公開」ステータスか確認 → `fetch-notion.js` 再実行 |
+| サイトの画像が表示されない | Slack `#patrol` の画像URL死活チェック通知を確認 → 該当HTMLの画像URLを差し替え（`node scripts/check-image-urls.js` でローカル再確認可能） |
 | Instagram分析が動かない | Slack `#sns` 確認 → トークン期限チェック |
 | 壁打ちログを保存したい | `node scripts/save-strategy-note.js --type "壁打ちメモ" --title "..." --content "..."` |
 | 過去の壁打ちを参照したい | Notion 参謀室DB の直近5件を確認 |
