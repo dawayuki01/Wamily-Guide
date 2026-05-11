@@ -1,13 +1,45 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-8187-9fd5-ef8a839ea8fd",
+      "name": "Seoul Walker",
+      "type": "YouTube",
+      "description": "ソウルの街を無言で歩く街歩き映像チャンネル。今のソウルの空気感が、編集なしの時間で伝わってきそう。",
+      "url": "https://www.youtube.com/@SeoulWalker",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8104-a5c9-ee0fde2078ca",
+      "name": "Creatrip Japan",
+      "type": "Instagram",
+      "description": "日本人旅行者向けに、ソウルの最新スポット・グルメ・カフェ情報を発信。実用度の高さで頼りやすい印象。",
+      "url": "https://www.instagram.com/creatrip.jp/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8117-bdf9-c6e4cd4affac",
+      "name": "VISIT SEOUL（公式）",
+      "type": "Instagram",
+      "description": "ソウル市の観光公式アカウント。公式ながら感度が高く、今のソウルのカルチャーがフィードからにじむ。",
+      "url": "https://www.instagram.com/visitseoul_official/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "334088f5-0b07-8151-9571-cc10efa9861f",
+      "name": "韓国観光公社 日本語公式サイト",
+      "type": "Media",
+      "description": "韓国政府の観光公社が運営。子連れ旅行プラン・テーマ別観光情報が日本語で充実。",
+      "url": "https://japanese.visitkorea.or.kr/",
+      "addedDate": "2026-03-31"
+    },
+    {
       "id": "334088f5-0b07-816e-a580-c43b27830ddd",
       "name": "ソウルナビ",
-      "type": "Blog",
+      "type": "Media",
       "description": "韓国の最新情報を日本語で発信。子ども向け施設やファミリー向けレストランのクーポンも充実していて助かります。",
       "url": "https://www.seoulnavi.com/",
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.091Z"
+  "updatedAt": "2026-05-11T14:05:49.940Z"
 }

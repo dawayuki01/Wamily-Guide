@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デー）",
-      "description": "ハワイの伝統文化を祝う日。レイ作りワークショップ、パレード、伝統的なフラパフォーマンスが各地で開催。家族で楽しめるハンズオン体験が豊富です。",
+      "title": "Lei Day Celebration（レイデー）",
+      "description": "ハワイの伝統的な花飾り「レイ」を祝うイベント。5月1日前後にホノルル各地で行われ、パレード、フラ、音楽、レイ作り体験などが楽しめます。",
       "date": "5月1日前後",
-      "place": "オアフ島全域（カピオラニ公園など）",
-      "link": "https://www.gohawaii.com/",
+      "place": "ホノルル（カピオラニ公園など複数会場）",
+      "link": "https://www.gohawaii.com",
       "free": true
     },
     {
-      "title": "Maui Ocean Center（マウイ・オーシャン・センター）の季節プログラム",
-      "description": "水族館での海洋生物とのふれあい体験。5月はシュノーケリング体験や子ども向けマリンサイエンスプログラムが充実。乳幼児から参加できるコンテンツも。",
-      "date": "5月通年",
-      "place": "マウイ島マアレア（192 Maalaea Rd, Wailuku, HI 96793）",
-      "link": "https://www.mauioceancenter.com/",
+      "title": "Honolulu Zoo Summer Program（ホノルル動物園サマープログラム）",
+      "description": "5月から始まる子ども向けの特別プログラム。動物との触れ合い、教育ワークショップ、ガイドツアーなど。乳幼児〜小学生向けのアクティビティが充実。",
+      "date": "5月〜8月（通年開園、プログラムは5月から）",
+      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "KCC Farmers Market（KCCファーマーズマーケット）",
-      "description": "ハワイの新鮮な野菜、果物、ローカルフードが並ぶマーケット。家族向けのグルメ体験で、地元の食文化を学べます。毎週土曜朝開催。",
-      "date": "5月毎週土曜",
-      "place": "オアフ島ホノルル（2755 Woodlawn Dr, Honolulu, HI 96822）",
-      "link": "https://www.honolulufarmersmarkets.org/",
+      "title": "シュノーケリング（ハナウマ湾自然保護区）",
+      "description": "ハワイを代表する家族向けシュノーケルスポット。5月は水温も暖かく、カラフルな魚が見られます。自然保護区の入場料で楽しめます。",
+      "date": "5月通年（おすすめ）",
+      "place": "Hanauma Bay Nature Preserve, Honolulu, HI 96825",
+      "link": "https://www.honolulu.gov/parks-recreation/beaches/hanauma-bay.html",
+      "free": false
+    },
+    {
+      "title": "KCC Farmers Market（カカアコファーマーズマーケット）",
+      "description": "毎週土曜朝に開催される地元農産物とハワイアングルメの市場。無料で散策でき、子どもも楽しめる食べ歩きやローカルフードが豊富。",
+      "date": "毎週土曜朝（5月通年）",
+      "place": "KCC Farmers Market, 2100 S. King St, Honolulu, HI 96814",
+      "link": "https://www.honolulufarmers.com",
       "free": true
     },
     {
-      "title": "ハイキング：Diamond Head（ダイヤモンドヘッド）",
-      "description": "初心者向けの人気トレイル。約30分で山頂到達可能。子ども向けのペースで歩けます。ワイキキと海の景色が素晴らしく、家族の思い出作りに最適。",
-      "date": "5月通年（早朝推奨）",
-      "place": "オアフ島ホノルル（3908 Diamond Head Rd, Honolulu, HI 96816）",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
-      "free": false
-    },
-    {
-      "title": "Honolulu Zoo（ホノルル動物園）のファミリープログラム",
-      "description": "ワイキキビーチ近くの動物園。5月は親子向けの餌やり体験やナイトズー等の季節プログラムが実施。乳幼児から楽しめます。",
+      "title": "Waikiki Beach での家族向けビーチアクティビティ",
+      "description": "5月は天気が安定し、波も穏やか。浅瀬での水遊び、サンゴ礁でのシュノーケリング体験、ビーチパークでの無料アクティビティ。家族向けレッスンも多数利用可能。",
       "date": "5月通年",
-      "place": "オアフ島ホノルル（151 Kapahulu Ave, Honolulu, HI 96815）",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
+      "place": "Waikiki Beach, Honolulu, HI 96815",
+      "link": "https://www.gohawaii.com/islands/oahu/regions/honolulu/waikiki",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T01:50:19.737Z"
+  "updatedAt": "2026-05-11T14:06:57.437Z"
 }

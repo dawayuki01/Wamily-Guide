@@ -1,13 +1,45 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-8186-9f5c-d5d280eaef44",
+      "name": "Shopping Design",
+      "type": "Instagram",
+      "description": "台湾のブランド・編集・空間感覚を発信するメディアアカウント。台湾のクリエイティブの今が見えてくる。",
+      "url": "https://www.instagram.com/shoppingdesign_official/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8199-948d-d32ce5f16d27",
+      "name": "Taiwan Scene",
+      "type": "Media",
+      "description": "台湾のカフェ・アート・地方・文化を扱うトラベルマガジン。\"台湾aesthetic\"の感度が高め。雰囲気から味わいたい人に。",
+      "url": "https://taiwan-scene.com/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-819d-a830-d76bcae79307",
+      "name": "ajiji4329｜台湾インスタグラマー",
+      "type": "Instagram",
+      "description": "台湾の日常と空気感を発信するインスタグラマー。観光ガイドにはない街の手触りが見えてきそう。",
+      "url": "https://www.instagram.com/ajiji4329",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35c088f5-0b07-81f4-a12f-ef90c0df204f",
+      "name": "台湾大好き！",
+      "type": "YouTube",
+      "description": "子連れ目線で台湾の食べ歩きや観光地を紹介。子どもの反応がリアルで参考になります。",
+      "url": "https://www.youtube.com/@台湾大好き",
+      "addedDate": "2026-05-10"
+    },
+    {
       "id": "334088f5-0b07-81b0-b365-fe4b6efb1f57",
       "name": "台湾観光局 日本語公式サイト",
-      "type": "Blog",
+      "type": "Media",
       "description": "台湾政府観光局の日本語公式サイト。子連れ旅行の基本情報・モデルコースが充実。",
       "url": "https://www.taiwan.net.tw/",
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.090Z"
+  "updatedAt": "2026-05-11T14:05:49.941Z"
 }

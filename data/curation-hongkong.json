@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-81f6-901d-e32e735d138e",
+      "name": "Little Steps Asia",
+      "type": "Instagram",
+      "description": "アジア各地の子連れ家族向け情報メディア。香港の公園・遊び場・雨の日の過ごし方など、子連れ目線のヒントが集まる。",
+      "url": "https://www.instagram.com/littlestepsasia/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8102-989d-cf3151950c65",
+      "name": "meliluu__｜香港インスタグラマー",
+      "type": "Instagram",
+      "description": "香港の街と暮らしを切り取るインスタグラマー。日常の一コマに、香港の空気感がにじむ印象。",
+      "url": "https://www.instagram.com/meliluu__",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81cd-af78-f13ae802f603",
+      "name": "香港の歴史と地政学（書名要確認）",
+      "type": "Book",
+      "description": "香港の歴史と地政学を一冊でまとめた書籍。旅をもっと深く楽しむための背景知識に。※書名はNotionで確認・修正してください。",
+      "url": "https://amzn.asia/d/0h8Rce2X",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8153-bcb9-ddd40092f4ce",
+      "name": "地球の歩き方 aruco 香港 2025〜2026",
+      "type": "Book",
+      "description": "定番ガイド「aruco」シリーズの香港編。最新の見どころと旅情報を網羅した1冊。",
+      "url": "https://amzn.asia/d/0ijHA5nf",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8115-b017-f2ed88113167",
+      "name": "M｜香港アカウント（要確認）",
+      "type": "Instagram",
+      "description": "日本人視点で香港の日常を発信するアカウント。※プロフィール詳細はNotionで確認・調整してください。",
+      "url": "https://www.instagram.com/m_fromjapan",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81f5-aaac-fd1d45461a5b",
+      "name": "えり｜香港在住 食べ歩きブロガー",
+      "type": "Instagram",
+      "description": "香港在住の食べ歩きブロガー。地元の点心からカフェまで、生活者目線の食情報を発信。",
+      "url": "https://www.instagram.com/petitfeilee",
+      "addedDate": "2026-05-11"
+    },
+    {
       "id": "35c088f5-0b07-81a3-9f8b-f16042f67d3b",
       "name": "@jazziesillona",
       "type": "Instagram",
@@ -12,10 +60,10 @@
       "id": "35c088f5-0b07-81f1-98a5-d490fd95650c",
       "name": "@hitomickey_2",
       "type": "Instagram",
-      "description": "香港在住の暮らしと家族の日常を綴るInstagram。",
+      "description": "香港ディズニーランド情報満載。",
       "url": "https://www.instagram.com/hitomickey_2",
       "addedDate": ""
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.091Z"
+  "updatedAt": "2026-05-11T14:05:49.941Z"
 }

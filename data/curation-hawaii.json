@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-81f4-acc1-d39194778718",
+      "name": "allhawaii（ハワイ州観光局公式）",
+      "type": "Media",
+      "description": "ハワイ州観光局の日本語公式サイト。公式ながら実用的で、旅の準備から現地情報まで参考になる。",
+      "url": "https://www.allhawaii.jp/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-811d-8f30-e3feddd046bb",
+      "name": "Aloha Street（アロハストリート）",
+      "type": "Instagram",
+      "description": "ハワイの日本語情報メディア。初めての人から子連れまで使いやすく、定番から穴場まで幅広い。",
+      "url": "https://www.instagram.com/alohastreetcom_hawaii",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81ca-8ff1-df450c5ac2c1",
+      "name": "KAUKAU Hawaii",
+      "type": "Instagram",
+      "description": "ハワイの日本人旅行者向けに、グルメ・スーパー・お土産情報を発信。実用度が高い印象。",
+      "url": "https://www.instagram.com/kaukau_hawaii",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8135-8f3f-e2ee7a432e43",
+      "name": "LeaLeaハワイ",
+      "type": "Instagram",
+      "description": "ワイキキの最新情報を発信する日本語メディア（HIS運営）。子連れOKのレストランや施設情報も多め。",
+      "url": "https://www.instagram.com/lealeahawaii",
+      "addedDate": "2026-05-11"
+    },
+    {
       "id": "33b088f5-0b07-80bd-bd62-dbcf0daf8d54",
       "name": "Nobby Araki",
       "type": "Instagram",
@@ -15,7 +47,15 @@
       "description": "ハワイ州観光局の公式チャンネル。各島の魅力・家族向けアクティビティを映像で紹介。",
       "url": "https://www.youtube.com/@GoHawaii",
       "addedDate": "2026-03-31"
+    },
+    {
+      "id": "334088f5-0b07-81dc-9b8e-e42a303539b7",
+      "name": "Aloha Street",
+      "type": "Media",
+      "description": "ハワイ在住者による子連れ向けスポット情報が充実。プール・ビーチ・レストランなど家族で楽しめる場所が詳しく紹介されています。",
+      "url": "https://www.aloha-street.com/",
+      "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.089Z"
+  "updatedAt": "2026-05-11T14:05:49.940Z"
 }

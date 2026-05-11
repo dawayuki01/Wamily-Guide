@@ -1,9 +1,33 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-8113-8a82-d7018b5fc540",
+      "name": "el BLANCO",
+      "type": "Blog",
+      "description": "\"暮らすような旅\"の魅力を、写真と臨場感で綴るパリ・南仏・スペインの旅ブログ。",
+      "url": "https://www.encanta-europa10.com/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81de-b6ff-c36e7a8e3dd3",
+      "name": "Paris Magazine",
+      "type": "Media",
+      "description": "パリ在住者が運営する観光マガジン。アート・食・買い物・季節イベントまで網羅的に紹介。",
+      "url": "https://paris-mag.com/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8105-a23f-f2cfd7beb0aa",
+      "name": "Eiko Shigeta 食いしん坊コーディネーター",
+      "type": "Instagram",
+      "description": "甘いもの大好きパリ食コーディネーター。パン・スイーツ・カフェの最前線を発信。",
+      "url": "https://www.instagram.com/eico0614",
+      "addedDate": "2026-05-11"
+    },
+    {
       "id": "334088f5-0b07-810b-9479-e4e3cf09ca5e",
       "name": "フランス政府観光局 日本語サイト",
-      "type": "Blog",
+      "type": "Media",
       "description": "フランス政府観光局の公式日本語サイト。パリの子連れスポット・美術館・グルメ情報が充実。",
       "url": "https://jp.france.fr/ja",
       "addedDate": "2026-03-31"
@@ -17,5 +41,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.089Z"
+  "updatedAt": "2026-05-11T14:05:49.941Z"
 }

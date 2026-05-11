@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-814d-aed6-f7e09ea92003",
+      "name": "BANGKOK GIRLS NOTE",
+      "type": "Media",
+      "description": "タイ・バンコク専門メディア。観光・グルメ・暮らし・子育てまで、ぷくこさんが現地のリアルを発信。",
+      "url": "https://www.bangkok-pukuko.com/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8189-9f45-fcd451be94e2",
+      "name": "kana｜タイおすすめスポット",
+      "type": "Instagram",
+      "description": "バンコクのおすすめスポットを日本人目線でセレクト発信。穴場とトレンドの両面が見える。",
+      "url": "https://www.instagram.com/kana.days_",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81fe-a260-d50ac72b5503",
+      "name": "タイ人ガイドのター",
+      "type": "Instagram",
+      "description": "タイ人ガイドが現地目線でバンコクを案内。観光ガイドにはない地元の温度感が伝わる。",
+      "url": "https://www.instagram.com/tasan_tai_trip",
+      "addedDate": "2026-05-11"
+    },
+    {
       "id": "334088f5-0b07-8150-9b13-cf591af39377",
       "name": "@amazingthailand",
       "type": "Instagram",
@@ -9,5 +33,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.090Z"
+  "updatedAt": "2026-05-11T14:05:49.941Z"
 }

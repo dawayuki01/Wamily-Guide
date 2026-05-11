@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・ビーチ（Plages de Paris）",
-      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊び、砂遊びを楽しめます。ビーチバレー、映画上映など。5月中旬から夏期間開催。",
-      "date": "5月中旬〜9月上旬",
-      "place": "セーヌ川沿い（ポン・ドゥ・ラルマ～ジャルダン・デ・プラント周辺）",
+      "title": "パリ・フローラル（Paris Floral）",
+      "description": "パリ東部のボワ・ド・ヴァンセンヌ公園で開催される国際園芸祭。春の花々が満開で、子ども向けワークショップや庭園散策が楽しめます。",
+      "date": "5月上旬〜中旬",
+      "place": "Bois de Vincennes, Paris 12e",
+      "link": "https://www.paris.fr",
+      "free": false
+    },
+    {
+      "title": "セーヌ河沿いのピクニック・ガーデン",
+      "description": "5月のパリは各公園でピクニック適期。イール・サン・ルイやルクセンブルク公園で自然を満喫。無料で利用でき、子どもたちが遊べます。",
+      "date": "5月全期間",
+      "place": "Luxembourg Gardens, Paris 6e / Île Saint-Louis, Paris 4e",
       "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園 - 子ども向けプログラム",
-      "description": "広大な公園で遊具、池でのセーリング遊び、児童劇場。5月は新緑が美しく、子ども向けワークショップが開催される季節。",
-      "date": "5月全期間",
-      "place": "Jardin du Luxembourg, Paris 6e",
-      "link": "https://www.paris.fr/pages/le-jardin-du-luxembourg-6",
-      "free": true
-    },
-    {
-      "title": "ヴェルサイユ宮殿 - 子ども向け特別ツアー",
-      "description": "5月は庭園が満開。子ども向けガイド付きツアーやスタンプラリーが実施される。ファミリー対応のアトラクション充実。",
-      "date": "5月全期間",
-      "place": "Place d'Armes, 78000 Versailles",
-      "link": "https://www.chateauversailles.fr",
-      "free": false
-    },
-    {
-      "title": "モンマルトル - 春の花祭り（Fêtes des Fleurs）",
-      "description": "モンマルトルの路地に花が飾られ、アーティストマーケット、キッズワークショップ開催。春らしい雰囲気を満喫できます。",
-      "date": "5月上旬〜中旬",
-      "place": "Montmartre, Paris 18e",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "パリ自然史博物館 - 子ども向け特別展示・ワークショップ",
-      "description": "恐竜、動物、植物の展示。5月は季節特別プログラムやスカベンジャーハント、インタラクティブ体験が充実。",
+      "title": "フランス国立自然史博物館の春季プログラム",
+      "description": "ジャルダン・デ・プラント内にある博物館。5月は子ども向けの自然観察ツアーや化石体験ワークショップが充実。屋外での学習プログラムもあります。",
       "date": "5月全期間",
       "place": "Muséum National d'Histoire Naturelle, 57 Rue Cuvier, Paris 5e",
       "link": "https://www.mnhn.fr",
       "free": false
+    },
+    {
+      "title": "キドラッポリス（Citéoparc）のスプリング・フェスティバル",
+      "description": "パリ郊外のファミリーパークで開催される春のフェスティバル。乗り物、ゲーム、ワークショップ、キャラクターグリーティング。子ども向けの楽しい企画が満載。",
+      "date": "5月中旬〜下旬",
+      "place": "Citéoparc, Île-de-France region",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "パリの街角オープンエアマーケット散策",
+      "description": "5月のパリは各地で春野菜やフルーツの市場が活気づきます。アリーナマルシェなど露店散策は無料。子どもたちがローカル文化を学べます。",
+      "date": "5月全期間",
+      "place": "Marché Bastille, Paris 11e / Various markets throughout Paris",
+      "link": "https://www.paris.fr",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T01:49:31.636Z"
+  "updatedAt": "2026-05-11T14:06:09.636Z"
 }

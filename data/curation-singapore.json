@@ -1,9 +1,49 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-8128-a585-f45cbe771e98",
+      "name": "SingaLife",
+      "type": "Media",
+      "description": "在シンガポールの日本人向けメディア。生活者目線の情報が日々更新され、現地のリアルが届きやすい。",
+      "url": "https://singalife.com",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81a3-b4b6-ce44d950b2dd",
+      "name": "HoneyKids Asia",
+      "type": "Instagram",
+      "description": "アジアの子連れ家族向けメディア。シンガポールの公園・水遊び・雨の日の過ごし方など、子連れ目線の情報が集まる。",
+      "url": "https://www.instagram.com/honeykidsasia/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81c7-9991-cfb7edad08f7",
+      "name": "Daniel Food Diary",
+      "type": "Instagram",
+      "description": "シンガポールのカフェ・ベーカリー・最新店を発信。\"今っぽいシンガポール\"を感じたいときに。",
+      "url": "https://www.instagram.com/danielfooddiary/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81ec-8f99-f6dcea9afe2a",
+      "name": "sethluicious｜シンガポールフード",
+      "type": "Instagram",
+      "description": "シンガポールのローカルB級グルメに特化したフードアカウント。観光客向けじゃないシンガポールの食が見えてくる。",
+      "url": "https://www.instagram.com/sethluicious/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81aa-9202-f0f26286c0d7",
+      "name": "The Smart Local Singapore",
+      "type": "Media",
+      "description": "シンガポールのローカルが見るメディア。カフェ・公園・モール・新スポットなど、\"今シンガポール人がどこに行っているか\"が見えてきそう。",
+      "url": "https://thesmartlocal.com/",
+      "addedDate": "2026-05-11"
+    },
+    {
       "id": "334088f5-0b07-8110-829d-ef50707a6c9d",
       "name": "シンガポール政府観光局 日本語サイト",
-      "type": "Blog",
+      "type": "Media",
       "description": "シンガポール政府観光局の公式日本語サイト。ファミリー向けのモデルコースや最新情報が充実。",
       "url": "https://www.visitsingapore.com/ja_jp/",
       "addedDate": "2026-03-31"
@@ -17,5 +57,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.090Z"
+  "updatedAt": "2026-05-11T14:05:49.940Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港アート月間（Art Month）",
-      "description": "5月は香港のアート月間。美術館やギャラリーで子ども向けワークショップやファミリープログラムが開催されます。M+やHKMoAなど主要施設で特別展示も。",
-      "date": "5月全月",
-      "place": "M+ Museum、Hong Kong Museum of Art、各地域のギャラリー",
-      "link": "https://www.discoverhongkong.com/",
-      "free": false
+      "title": "香港フローラルエキスポ（春季展示）",
+      "description": "ビクトリアパークで開催される花卉展示。様々な春の花が展示され、家族で季節の花を楽しめます。無料で散策可能なエリアもあります。",
+      "date": "5月上旬〜中旬",
+      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/tc/events/",
+      "free": true
     },
     {
-      "title": "スターフェリー乗車体験（Star Ferry Cruise）",
-      "description": "香港の絶景を楽しむスターフェリー。ビクトリアハーバーの船上から香港島とカオルーンの景観が見られます。子どもも楽しめる短時間のアクティビティで、海風の気持ちよさが最高。",
-      "date": "5月上旬〜下旬",
-      "place": "セントラル〜チムサーチョイ間（ビクトリアハーバー）",
+      "title": "スターフェリー乗船体験（スターフェリーアドベンチャー）",
+      "description": "香港の象徴的な赤いスターフェリーで、ビクトリア湾をクルージング。子どもも楽しめるアイコニックな海上アクティビティです。",
+      "date": "5月通年催行",
+      "place": "スターフェリー乗り場（セントラル〜尖沙咀間など）",
       "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "ビクトリアパーク散策・屋外プレイエリア",
-      "description": "香港最大級の公園。遊具が充実しており、広い芝生でピクニックできます。5月の香港の気候は暖かく、朝夕の散策に最適。地元ファミリーが多数訪れます。",
-      "date": "5月上旬〜下旬",
-      "place": "ビクトリアパーク、銅鑼灣（Causeway Bay）",
-      "link": "https://www.discoverhongkong.com/",
+      "title": "スタンレービーチファミリーデー",
+      "description": "南部香島のスタンレービーチで開催される家族向けビーチアクティビティ。海水浴、砂浜での遊びなど屋外での楽しい時間。",
+      "date": "5月中旬〜下旬",
+      "place": "スタンレービーチ（Stanley Beach）、南区",
+      "link": "",
       "free": true
     },
     {
-      "title": "香港海洋公園の春季イベント",
-      "description": "子ども向けの乗り物やアトラクション、動物との触れ合いプログラムが充実。5月は気候も良好で、园内の各エリアでファミリー向けの特別アクティビティが開催されます。",
+      "title": "香港科学館 こども実験室スペシャル",
+      "description": "香港科学館で開催される春季子ども向け特別展示。対話型展示で科学の楽しさを学べます。乳幼児から小学生まで対応。",
       "date": "5月上旬〜下旬",
-      "place": "香港海洋公園、香港島南部",
-      "link": "https://www.oceanpark.com.hk/",
+      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀",
+      "link": "https://www.lcsd.gov.hk/sc_chi/museums/hksm/",
       "free": false
     },
     {
-      "title": "スターライト広場でのスターフェリーライトショー観賞（無料）",
-      "description": "チムサーチョイのスターライト広場からビクトリアハーバーの夜景が無料で楽しめます。毎晩開催される光のショーは子どもたちも喜ぶ。5月の夜は涼しく散策に最適。",
-      "date": "5月上旬〜下旬",
-      "place": "スターライト広場、チムサーチョイ",
+      "title": "泳ぐドラゴン祭り（Dragon Boat Races関連イベント）",
+      "description": "端午節（ドラゴンボートフェスティバル）の時期に各地で開催される家族向けイベント。伝統的な龍舟レースや文化体験が楽しめます。",
+      "date": "5月下旬〜6月初旬（農暦5月5日）",
+      "place": "ジャービス湾（Jarvus Bay）、フォーショア湾など複数会場",
       "link": "https://www.discoverhongkong.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T01:50:35.376Z"
+  "updatedAt": "2026-05-11T14:07:12.413Z"
 }

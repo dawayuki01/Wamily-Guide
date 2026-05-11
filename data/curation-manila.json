@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-81e9-8c9d-f63fc57872c6",
+      "name": "GRID Magazine Philippines",
+      "type": "Instagram",
+      "description": "フィリピンの文化・暮らし・地域を扱うマガジン。観光より\"国そのもの\"を知りたい人に。",
+      "url": "https://www.instagram.com/gridmagazineph/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-81bb-bfa8-f4a6e911e190",
+      "name": "Becoming Filipino",
+      "type": "YouTube",
+      "description": "フィリピンのローカル文化を深掘りするYouTubeチャンネル。観光情報というより、文化理解のための一本。",
+      "url": "https://www.youtube.com/@BecomingFilipino",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8195-adec-cd61356dd266",
+      "name": "Our Awesome Planet",
+      "type": "Instagram",
+      "description": "フィリピンのフードカルチャーを軸に、家族で楽しむ食シーンを発信。\"家族文化\"の温度感も伝わりやすい。",
+      "url": "https://www.instagram.com/ourawesomeplanet/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-816f-8e34-d58ad996a6bb",
+      "name": "When in Manila",
+      "type": "Instagram",
+      "description": "マニラのイベント・グルメ・週末情報を発信。ローカルの若者カルチャーが見えてきそう。",
+      "url": "https://www.instagram.com/wheninmanila",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8172-9562-cb85bed69516",
+      "name": "Yuko_ih_bkk.ph",
+      "type": "Blog",
+      "description": "タイ6年・フィリピン1年の駐在妻が発信する、海外子育て・旅行・駐在生活のリアルなnote。",
+      "url": "https://note.com/yuko_ih_bkk",
+      "addedDate": "2026-05-11"
+    },
+    {
       "id": "334088f5-0b07-8111-96be-cfe6fba057d5",
       "name": "It's More Fun in the Philippines 公式YouTube",
       "type": "YouTube",
@@ -9,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.090Z"
+  "updatedAt": "2026-05-11T14:05:49.940Z"
 }

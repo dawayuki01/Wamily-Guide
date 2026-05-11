@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "35d088f5-0b07-8175-8cf8-fcbef62af8c4",
+      "name": "Charlie｜イギリス旅案内人",
+      "type": "Blog",
+      "description": "ロンドン在住14年の旅案内人。観光客が知らない\"通の旅\"を、穴場・無料スポット・スイーツの切り口で発信。",
+      "url": "https://note.com/cute_london",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8153-93f4-c1439394d098",
+      "name": "地球の歩き方 aruco ロンドン 2024〜2025",
+      "type": "Book",
+      "description": "定番ガイド「aruco」シリーズのロンドン編。最新の見どころと旅情報を網羅した1冊。",
+      "url": "https://amzn.asia/d/056Hhtii",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8128-9546-d7dfe2a6ac60",
+      "name": "ひまり｜イギリス大学院生",
+      "type": "Instagram",
+      "description": "イギリス大学院生がヨーロッパ全域を旅して発信。在英目線のリアルが詰まる。",
+      "url": "https://www.instagram.com/himari_europe",
+      "addedDate": "2026-05-11"
+    },
+    {
       "id": "33b088f5-0b07-8092-9860-c0872f9e59c9",
       "name": "ロンドン みゆき旅",
       "type": "Instagram",
@@ -17,5 +41,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T01:49:14.089Z"
+  "updatedAt": "2026-05-11T14:05:49.941Z"
 }
