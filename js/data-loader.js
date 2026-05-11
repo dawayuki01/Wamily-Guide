@@ -346,6 +346,7 @@
     'Instagram': '📸',
     'ブログ':    '📝',
     '書籍':      '📚',
+    'メディア':  '📰',
   };
 
   function renderCurationCard(item) {
