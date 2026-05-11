@@ -5,7 +5,7 @@
  *
  * 処理内容：
  *   1. 「最近の動き」に各国の季節・旅行ヒントを自動投稿（週1回）
- *   2. 「キュレーション」に YouTube/Instagram/ブログ提案を追加（月1回）
+ *   2. 「キュレーション」に YouTube/Instagram/Blog/Book/Media 提案を追加（月1回）
  *
  * 必要な環境変数：
  *   ANTHROPIC_API_KEY
@@ -161,10 +161,10 @@ async function generateCurationEntries(claude, country, ctx) {
       content: `子連れで${country.curationName}を旅行する日本人ファミリー向けに役立つコンテンツを5件提案してください。
 
 条件：
-- YouTube / Instagram / ブログ の中からバランスよく
+- YouTube / Instagram / Blog / Book / Media の中からバランスよく
 - 日本語コンテンツ優先（英語でも有名なものはOK）
-- 必ず実在するアカウント・チャンネル・ブログのみ（架空は絶対不可）
-- URLは必ず記入すること。YouTubeは https://www.youtube.com/@ハンドル名、Instagramは https://www.instagram.com/ユーザー名/、ブログはトップページURL
+- 必ず実在するアカウント・チャンネル・ブログ・書籍のみ（架空は絶対不可）
+- URLは必ず記入すること。YouTubeは https://www.youtube.com/@ハンドル名、Instagramは https://www.instagram.com/ユーザー名/、Blog/Mediaはトップページ/記事URL、BookはAmazon等の商品URL
 - 説明は「おすすめの理由」を体温のある一言で（30〜50文字）
 - 政府観光局の公式アカウントは除外（すでに登録済み）
 - 個人の体験ベースのコンテンツを優先

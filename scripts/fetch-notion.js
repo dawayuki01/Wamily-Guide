@@ -229,7 +229,7 @@ async function fetchCuration(notion) {
     byCountry[slug].push({
       id: page.id,
       name: titleText(page.properties['名前']),
-      type: selectName(page.properties['タイプ']),   // YouTube / Instagram / ブログ
+      type: selectName(page.properties['タイプ']),   // YouTube / Instagram / Blog / Book / Media
       description: richText(page.properties['説明']),
       url: urlProp(page.properties['URL']),
       addedDate: dateStr(page.properties['追加日']),
