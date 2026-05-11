@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン（水灯祭）準備期間の子ども向けワークショップ",
-      "description": "5月はロイクラトン本番（11月）に向けた準備期間。バンコクの寺院やコミュニティセンターで、灯籠作りなどの子ども向けワークショップが開催されます。タイ文化を学べます。",
-      "date": "5月中旬〜下旬",
-      "place": "バンコク市内の主要寺院・コミュニティセンター（開催地は変動）",
-      "link": "",
+      "title": "ロイクラトン（水灯籠祭）準備期間・関連イベント",
+      "description": "11月のロイクラトン本番に向けた準備イベントやワークショップ。子どもたちが灯籠作りを体験でき、タイ文化を学べます。バンコク市内各所で開催。",
+      "date": "5月中旬～下旬（本番前の告知・予告イベント）",
+      "place": "バンコク市内各所（CentralWorld等）",
+      "link": "https://www.amazingthailand.org/events",
       "free": true
     },
     {
-      "title": "サイアムパラゴン水族館 キッズプログラム",
-      "description": "東南アジア最大級の水族館。5月は雨季の始まりで屋内施設が重宝されます。餌やりタイムやタッチプール等、子ども向け特別プログラムが充実。涼しく過ごせます。",
-      "date": "5月通年開催",
-      "place": "Siam Paragon, 991 Rama 1 Rd., Bangkok 10330, Thailand",
-      "link": "https://www.siamparagon.co.th",
-      "free": false
-    },
-    {
-      "title": "ルンピニ公園での早朝アクティビティ",
-      "description": "バンコク中心部の広大な公園。5月早朝は比較的涼しく、散策や野鳥観察、自転車レンタルが人気。トンボ池や広場で子どもが安全に遊べます。朝食市場も併設。",
-      "date": "5月全期間（早朝6時〜8時推奨）",
-      "place": "Lumphini Park, Rama IV Rd., Bangkok 10330, Thailand",
-      "link": "https://www.bangkok.go.th",
+      "title": "ルンピニ公園での屋外アクティビティ・キッズプログラム",
+      "description": "バンコク最大級の公園。5月は早朝が快適。自転車レンタル、遊具、池での散策が楽しめます。週末の子ども向けエクササイズクラスも開催されます。",
+      "date": "5月全般（特に早朝）",
+      "place": "ルンピニ公園（Lumphini Park）、ラマ4世通り、パトゥムワン区",
+      "link": "https://www.bangkok.go.th/en/web/guest/lumphini-park",
       "free": true
     },
     {
-      "title": "ジム・トンプソン・ハウス キッズツアー",
-      "description": "タイの絹業の父が住んだ邸宅。5月期間中、子ども向けガイドツアーが実施。建築やタイ文化を楽しく学べます。涼しい館内環境で、乳幼児連れでも快適です。",
-      "date": "5月全期間（要事前確認）",
-      "place": "Jim Thompson House, 6 Soi Kasemsan 2, Rama I Rd., Bangkok 10330",
-      "link": "https://www.jimthompsonhouse.com",
+      "title": "セッキタイ水族館（Sea Life Bangkok Ocean World）特別プログラム",
+      "description": "東南アジア最大級の水族館。5月はタイ学期中のため子ども向けスペシャルプログラムが充実。海の生き物との触れ合いやエデュケーショナルツアーが開催。",
+      "date": "5月全般",
+      "place": "セントラルワールド地下 B1-B2F、ラチャダムリ通り",
+      "link": "https://www.sealifebangkok.com",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウィークエンドマーケット 朝市散策",
-      "description": "世界最大級のマーケット。日曜朝7時〜9時は空いており、子連れに最適。ペット売場、玩具、食べ歩きが充実。雨季開始前の涼しい早朝がおすすめ。",
-      "date": "5月の日曜朝（7時〜9時）",
-      "place": "Chatuchak Weekend Market, Bangkok, Thailand",
+      "title": "チャトゥチャック週末マーケット（子ども向けゾーン）",
+      "description": "世界最大級のマーケット。子ども服、玩具、屋台グルメが豊富。5月は比較的空いており、親子でショッピングと食べ歩きが楽しめます。早朝訪問推奨。",
+      "date": "5月の毎週土日",
+      "place": "チャトゥチャック公園、ラヨーン通り14号線",
       "link": "https://www.chatuchakmarket.org",
       "free": true
+    },
+    {
+      "title": "キッザニア・バンコク（子ども職業体験テーマパーク）",
+      "description": "子どもが80以上の職業体験ができる施設。5月は学校休暇シーズンで特別プログラム充実。タイ文化を学べる職業体験も多数。",
+      "date": "5月全般（特に学校休暇期間）",
+      "place": "エンポリアム・ショッピングモール, スクムビット通り24号線",
+      "link": "https://www.kidzania.com/th/en",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T02:12:57.929Z"
+  "updatedAt": "2026-05-11T01:49:55.686Z"
 }

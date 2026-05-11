@@ -623,7 +623,23 @@
       "checkedDate": "2026年5月",
       "placeId": "ChIJjU-eWJEBBDQR69MXfQN9zq4",
       "extra": false
+    },
+    {
+      "id": "mymaps-1778464237315-sxdsyn",
+      "name": "️ 一点心",
+      "emoji": "🍽",
+      "category": "food",
+      "layer": "local",
+      "description": "Address: 一点心 Hong Kong\nDescription: カジュアル飲茶・$50〜100",
+      "lat": 22.3254818,
+      "lng": 114.1691477,
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年5月",
+      "placeId": "ChIJZTOZi8kABDQR6mCupQnajEI",
+      "extra": false
     }
   ],
-  "checkedAt": "2026-05-10T02:14:32.081Z"
+  "checkedAt": "2026-05-11T01:50:37.315Z"
 }

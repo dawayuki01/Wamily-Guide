@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パナボ祭り（Sinulog Festival関連イベント）",
-      "description": "5月はマニラ近郊でも宗教行事が多い季節。子ども向けのパレードやコンサート、伝統的なダンスパフォーマンスが開催される。カラフルな衣装と音楽で子どもも楽しめます。",
+      "title": "フィリピン・アキノ公園（Rizal Park）- 無料家族イベント",
+      "description": "マニラ最大の公園で、子ども向けの遊び場、博物館見学、ピクニックが楽しめます。5月の晴れた日に家族連れで賑わい、様々な無料イベントが開催されます。",
+      "date": "5月通年",
+      "place": "Rizal Park, Padre Faura, Ermita, Manila",
+      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d317156-Reviews-Rizal_Park-Manila_Calabarzon_Region_Calabarzon_Mimaropa.html",
+      "free": true
+    },
+    {
+      "title": "スターシティ（Star City）- キッズスペシャルデー",
+      "description": "マニラの遊園地で、5月に子ども向けの特別割引やイベントを開催。乗り物やゲームで家族で終日楽しめる屋外アクティビティスポットです。",
       "date": "5月中旬〜下旬",
-      "place": "マニラ市内・周辺地域（会場は毎年異なる）",
-      "link": "",
+      "place": "Seaside Boulevard, Barangay Tamis, Las Piñas, Manila",
+      "link": "https://www.starcityphilippines.com",
+      "free": false
+    },
+    {
+      "title": "マニラ動物園（Manila Zoo）- 季節特別プログラム",
+      "description": "フィリピンの歴史ある動物園で、5月に子ども向けの教育プログラムや餌やり体験が開催。乳幼児から小学生まで楽しめる屋外施設です。",
+      "date": "5月全体",
+      "place": "Adriatico Street, Malate, Manila",
+      "link": "https://manilazo.com",
+      "free": false
+    },
+    {
+      "title": "ナショナルミュージアム・キッズゾーン（National Museum）",
+      "description": "フィリピンの国立博物館の子ども向けコーナーで、インタラクティブな展示やワークショップを開催。涼しい屋内で、文化・自然について学べます。",
+      "date": "5月通年（月曜休館）",
+      "place": "P. Burgos Street, Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": true
     },
     {
-      "title": "ザ・ダティ・パレス（Datu Pailah Museum）での子ども向けワークショップ",
-      "description": "フィリピン文化を学べるワークショップが開催。伝統工芸や民族楽器体験など、乳幼児から小学生向けのプログラムあり。事前予約でグループ割引あり。",
-      "date": "5月通年開催",
-      "place": "Intramuros, Manila",
+      "title": "マニラウォーターフロント・キッズフェスタ",
+      "description": "5月に開催される家族向けイベント。屋外ステージでの子ども向けパフォーマンス、工作ワークショップ、フードコート併設で、充実した1日が過ごせます。",
+      "date": "5月中旬",
+      "place": "Manila Waterfront Promenade, Barangay 645, Manila",
       "link": "",
-      "free": false
-    },
-    {
-      "title": "リサール公園（Rizal Park）での野外アクティビティ",
-      "description": "広大な公園で自由に遊べます。子ども向けの遊具エリア、サイクリング、緑地での家族ピクニック。5月は晴天が多く屋外活動に最適。入園無料で一日過ごせます。",
-      "date": "5月通年",
-      "place": "Rizal Park, P. Burgos St, Manila",
-      "link": "https://www.manila.gov.ph/",
       "free": true
-    },
-    {
-      "title": "モール・オブ・アジア（SM Mall of Asia）キッズゾーン特別イベント",
-      "description": "夏休み前の5月に、子ども向けの特別アクティビティが開催。プレイグラウンド、映画上映、工作ワークショップなど。冷房完備で暑い日も快適。",
-      "date": "5月通年",
-      "place": "SM Mall of Asia, Pasay City",
-      "link": "https://www.smmallofasia.com.ph/",
-      "free": false
-    },
-    {
-      "title": "フィリピン国立博物館（National Museum）の子ども向けツアー",
-      "description": "恐竜化石、民族衣装、自然史など子どもが興味を持つコレクション。ガイド付きツアーで楽しく学べます。毎週日曜に子ども向けのスペシャルプログラム実施。",
-      "date": "5月通年（日曜日推奨）",
-      "place": "Padre Burgos Ave, Ermita, Manila",
-      "link": "https://nationalmuseum.gov.ph/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T02:13:06.131Z"
+  "updatedAt": "2026-05-11T01:50:03.277Z"
 }

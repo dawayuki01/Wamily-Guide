@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス子ども博物館（LA Children's Museum）の春の特別プログラム",
-      "description": "乳幼児から小学生向けの対話型展示やSTEAM教育プログラムが充実。5月は春季特別展示やワークショップが開催されています。",
-      "date": "5月通年",
-      "place": "Los Angeles Children's Museum, 800 N Alameda St, Los Angeles, CA 90012",
-      "link": "https://www.lachildrensmuseum.org/",
-      "free": false
-    },
-    {
-      "title": "ビーチでの無料ファミリーイベント（サンタモニカビーチ）",
-      "description": "5月の週末にはサンタモニカビーチで無料のビーチクリーンアップイベントや家族向けスポーツアクティビティが開催。砂浜で安全に遊べます。",
-      "date": "5月の週末",
-      "place": "Santa Monica Beach, Santa Monica, CA 90401",
-      "link": "https://www.smgov.net/departments/parks/content.aspx?id=24",
+      "title": "ロサンゼルス・フラワー・マーケット（LA Flower Market Spring Events）",
+      "description": "春の花々が満開のロサンゼルス・フラワー・マーケット。子どもが色とりどりの花を見て歩け、家族で写真撮影に最適。季節ごとの花の展示や販売が行われています。",
+      "date": "5月中旬〜下旬",
+      "place": "LA Flower Market, 766 S Los Angeles St, Los Angeles, CA 90014",
+      "link": "https://www.laflowermarket.com/",
       "free": true
     },
     {
-      "title": "グリフィス天文台（Griffith Observatory）の無料入場と春の天文イベント",
-      "description": "入場無料の天文台。5月は毎週火～日にプラネタリウムショーと天体観測会を開催。子ども向けの解説プログラムもあります。",
-      "date": "5月通年（火～日）",
+      "title": "グリフィス天文台でのスプリング・プログラム",
+      "description": "グリフィス天文台の春季特別プログラムでは、プラネタリウムショーと昼間の望遠鏡観測が楽しめます。子ども向けの教育的なプログラムも用意されています。",
+      "date": "5月通期",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "ハンティントン図書館の春の庭園と子ども向けプログラム",
-      "description": "世界的な庭園での散策が楽しめる。5月は春花が見ごろで、子ども向けガイドツアーやワークショップが開催されています。",
-      "date": "5月上旬～下旬",
-      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Rd, San Marino, CA 91108",
-      "link": "https://www.huntington.org/",
+      "title": "ロサンゼルス・カウンティ・ミュージアム・オブ・アート（LACMA Kids Programs）",
+      "description": "LACMAの子ども向けアート教室やワークショップが5月に開催。美しいラグーンの周辺を散策しながら、子どもがアート体験を楽しめます。",
+      "date": "5月通期（週末中心）",
+      "place": "LACMA, 5905 Wilshire Blvd, Los Angeles, CA 90036",
+      "link": "https://www.lacma.org/",
       "free": false
     },
     {
-      "title": "パサデナ・ピークス公園でのハイキング（屋外アクティビティ）",
-      "description": "家族向けの初級～中級ハイキングコース。5月は天候が良く、パサデナの街並みを眺める絶景が楽しめます。子どもも歩きやすい距離のトレイルあり。",
-      "date": "5月通年",
-      "place": "Pasadena Peaks Park & Trails, Pasadena, CA 91107",
-      "link": "https://www.cityofpasadena.net/parksandrecreation/",
+      "title": "サンタモニカ・ビーチでの春季ビーチ・クリーンアップと遊び",
+      "description": "温暖な5月のサンタモニカビーチは、子連れに最適。波も穏やかで、砂浜での遊びや浅瀬での水遊びが楽しめます。ビーチ近くのアミューズメント施設も利用可能。",
+      "date": "5月通期",
+      "place": "Santa Monica Beach, Santa Monica, CA 90401",
+      "link": "https://www.smgov.net/departments/parks/divisions/beaches/",
+      "free": true
+    },
+    {
+      "title": "カリフォルニア科学センター（California Science Center Spring Exhibit）",
+      "description": "常設展示に加え、春季の特別展示が開催。インタラクティブな展示で子どもたちが科学を学べます。入館料無料で家族で一日楽しめます。",
+      "date": "5月通期",
+      "place": "California Science Center, 700 Exposition Park Dr, Los Angeles, CA 90037",
+      "link": "https://www.californiasciencecenter.org/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T02:13:13.518Z"
+  "updatedAt": "2026-05-11T01:50:11.377Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デイ）",
-      "description": "5月1日はハワイの伝統的なレイ（花輪）を祝う日。フェスティバル、パレード、ワークショップなど各地で開催。子どもも参加できるレイ作り体験が充実しています。",
+      "title": "Lei Day（レイ・デー）",
+      "description": "ハワイの伝統文化を祝う日。レイ作りワークショップ、パレード、伝統的なフラパフォーマンスが各地で開催。家族で楽しめるハンズオン体験が豊富です。",
       "date": "5月1日前後",
-      "place": "ホノルル各地（イオラニ・パレス周辺など）",
-      "link": "https://www.gohawaii.com/ja",
+      "place": "オアフ島全域（カピオラニ公園など）",
+      "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Free Admission Day",
-      "description": "ホノルル動物園の無料入園日。普段は有料ですが、指定日は入園無料。熱帯動物との距離が近く、小さな子どもも楽しめる施設です。",
-      "date": "5月中旬（不定期）",
-      "place": "Honolulu Zoo, Waikiki, Honolulu",
-      "link": "https://www.honoluluzoo.org",
-      "free": true
-    },
-    {
-      "title": "Snorkel at Hanauma Bay Nature Preserve",
-      "description": "透明度の高い湾でシュノーケリング。初心者向けプログラムあり。5月は水温も心地よく、カラフルな魚が見られます。子ども向けシュノーケルレンタルも充実。",
-      "date": "5月通年（晴天の日がおすすめ）",
-      "place": "Hanauma Bay, Honolulu, Oahu",
-      "link": "https://www.honolulu.gov/parks/programs/hanaumabaynaturepreserve.html",
+      "title": "Maui Ocean Center（マウイ・オーシャン・センター）の季節プログラム",
+      "description": "水族館での海洋生物とのふれあい体験。5月はシュノーケリング体験や子ども向けマリンサイエンスプログラムが充実。乳幼児から参加できるコンテンツも。",
+      "date": "5月通年",
+      "place": "マウイ島マアレア（192 Maalaea Rd, Wailuku, HI 96793）",
+      "link": "https://www.mauioceancenter.com/",
       "free": false
     },
     {
-      "title": "Ala Moana Center Free Keiki Events",
-      "description": "アラモアナセンターで開催される子ども向け無料イベント。5月はハワイアン文化体験やエンターテイメントが定期開催。買い物ついでに家族で楽しめます。",
-      "date": "5月の週末（毎月異なる）",
-      "place": "Ala Moana Center, Honolulu",
-      "link": "https://www.alamoanacenter.com",
+      "title": "KCC Farmers Market（KCCファーマーズマーケット）",
+      "description": "ハワイの新鮮な野菜、果物、ローカルフードが並ぶマーケット。家族向けのグルメ体験で、地元の食文化を学べます。毎週土曜朝開催。",
+      "date": "5月毎週土曜",
+      "place": "オアフ島ホノルル（2755 Woodlawn Dr, Honolulu, HI 96822）",
+      "link": "https://www.honolulufarmersmarkets.org/",
       "free": true
     },
     {
-      "title": "Bishop Museum Spring Programs",
-      "description": "ビショップ・ミュージアムの春季プログラム。ハワイの歴史・文化を学べる子ども向けワークショップやプラネタリウム上映。対話型展示で学習しながら楽しめます。",
-      "date": "5月通年（プログラム随時開催）",
-      "place": "Bishop Museum, 1525 Bernice Street, Honolulu",
-      "link": "https://www.bishopmuseum.org",
+      "title": "ハイキング：Diamond Head（ダイヤモンドヘッド）",
+      "description": "初心者向けの人気トレイル。約30分で山頂到達可能。子ども向けのペースで歩けます。ワイキキと海の景色が素晴らしく、家族の思い出作りに最適。",
+      "date": "5月通年（早朝推奨）",
+      "place": "オアフ島ホノルル（3908 Diamond Head Rd, Honolulu, HI 96816）",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "free": false
+    },
+    {
+      "title": "Honolulu Zoo（ホノルル動物園）のファミリープログラム",
+      "description": "ワイキキビーチ近くの動物園。5月は親子向けの餌やり体験やナイトズー等の季節プログラムが実施。乳幼児から楽しめます。",
+      "date": "5月通年",
+      "place": "オアフ島ホノルル（151 Kapahulu Ave, Honolulu, HI 96815）",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T02:13:21.073Z"
+  "updatedAt": "2026-05-11T01:50:19.737Z"
 }

@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Dragon Boat Festival（ドラゴンボートフェスティバル）",
-      "description": "旧暦5月5日の端午節を祝うお祭り。カラフルなドラゴンボートのレース、屋台での食べ物、伝統文化体験が楽しめます。家族向けの参加型イベントも多数。",
-      "date": "5月下旬（2026年は5月30日頃）",
-      "place": "Marina Bay、East Coast Park周辺",
-      "link": "https://www.stb.gov.sg",
+      "description": "旧暦5月5日前後に開催。カラフルなドラゴンボートレースが見られる。子どもも参加体験できるワークショップやフェイスペイントコーナーがあります。",
+      "date": "5月中旬〜下旬",
+      "place": "Marina Bay, Singapore",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "Singapore Science Centre - Special Exhibitions",
-      "description": "子ども向けの季節限定展示や特別プログラム。インタラクティブな科学体験が豊富で、乳幼児向けのプレイエリアもあります。雨の日も安心。",
-      "date": "5月通期",
-      "place": "15 Science Centre Rd, Singapore 609081",
+      "title": "Singapore Zoo特別プログラム",
+      "description": "乾季の5月は動物が最も活発な時期。キッズ向け給餌体験やガイド付きツアーなど特別プログラムが充実。象や猿との触れ合い体験も人気です。",
+      "date": "5月通年",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.sg",
+      "free": false
+    },
+    {
+      "title": "East Coast Park でのアウトドアアクティビティ",
+      "description": "15km以上のビーチと公園。5月は気候が良く、サイクリング、ピクニック、水遊び、凧揚げが楽しめます。無料で利用でき、家族向けスポットが豊富です。",
+      "date": "5月通年",
+      "place": "East Coast Park, Singapore",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "Science Centre Singapore 季節特別展示",
+      "description": "常設展示に加え、5月は子ども向けの季節限定ワークショップやSTEM学習プログラムが開催。実験体験やロボット教室が人気。",
+      "date": "5月通年",
+      "place": "15 Science Centre Road, Singapore 609081",
       "link": "https://www.science.edu.sg",
       "free": false
     },
     {
-      "title": "Vesak Day Celebrations（ウェサック・デイ）",
-      "description": "仏教の重要な祭典。寺院でのランタン点灯、パレード、文化体験が楽しめます。カラフルな装飾と家族向けの活動が充実。子どもも参加可能な儀式や食べ物の配布も。",
-      "date": "5月中旬（2026年は5月24日）",
-      "place": "Thean Hou Temple、Wat Bovoranives Thai Buddhist Temple",
-      "link": "https://www.stb.gov.sg",
-      "free": true
-    },
-    {
-      "title": "Gardens by the Bay - Flower Dome & Cloud Forest",
-      "description": "季節ごとの花展示と冷房完備の建築体験。Cloud Forestでは大滝探検、Flower Domeではテーマ展示が楽しめます。涼しく快適な屋内施設。",
-      "date": "5月通期",
+      "title": "Gardens by the Bay でのファミリーイベント",
+      "description": "5月は花と緑が美しい季節。キッズ向けガイドツアーやプラントクラフト体験が開催。Supertree Lightshow は夜間無料で楽しめます。",
+      "date": "5月通年",
       "place": "18 Marina Gardens Drive, Singapore 018953",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
-    },
-    {
-      "title": "East Coast Park Beach & Water Activities",
-      "description": "シンガポール最大のビーチでの無料レクリーション。子ども向けの安全な浜辺エリア、自転車レンタル、ピクニック施設が充実。5月は夏のシーズン始まり。",
-      "date": "5月通期",
-      "place": "East Coast Park, Singapore 449269",
-      "link": "https://www.nparks.gov.sg",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T02:12:48.656Z"
+  "updatedAt": "2026-05-11T01:49:46.440Z"
 }

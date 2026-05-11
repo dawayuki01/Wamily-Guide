@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ルーヴル美術館・キッズプログラム「ファミリーツアー」",
-      "description": "5月は美術館の来館者が多い季節。子ども向けガイドツアーで古代エジプトやルネサンス美術を分かりやすく解説。家族で楽しめる特別プログラムが開催されます。",
-      "date": "5月上旬〜下旬（通年開催）",
-      "place": "ルーヴル美術館、パリ1区",
-      "link": "https://www.louvre.fr/",
-      "free": false
-    },
-    {
-      "title": "セーヌ川沿いの春祭り＆オープンエア・マーケット",
-      "description": "5月はパリの春祭りシーズン。アイル・サン・ルイやノートルダム周辺でアンティーク市、フリマ、手工芸品市が開催。家族で散歩しながら買い物を楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "セーヌ川左岸沿い、アイル・サン・ルイ周辺",
-      "link": "",
+      "title": "パリ・ビーチ（Plages de Paris）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊び、砂遊びを楽しめます。ビーチバレー、映画上映など。5月中旬から夏期間開催。",
+      "date": "5月中旬〜9月上旬",
+      "place": "セーヌ川沿い（ポン・ドゥ・ラルマ～ジャルダン・デ・プラント周辺）",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "パリ・ハー・ハー・フェスティバル（Fête du Bois de Vincennes）",
-      "description": "ヴァンセンヌの森で開催される春祭り。子ども向けアトラクション、馬車乗車、動物園（パリ動物園）との併設で、家族向けアクティビティが豊富です。屋外で自然を満喫。",
-      "date": "5月上旬〜中旬",
-      "place": "ヴァンセンヌの森、パリ12区",
-      "link": "https://www.mnhn.fr/fr/zoo-parc-de-thoiry",
-      "free": false
-    },
-    {
-      "title": "ジャルダン・デ・プランテ（パリ植物園）・子ども向けワークショップ",
-      "description": "5月の春爛漫の季節、植物園では子ども向けの植物教室やネイチャーウォークが開催。花々が満開で、自然学習と遊びが融合した特別プログラムです。",
+      "title": "ルクセンブルク公園 - 子ども向けプログラム",
+      "description": "広大な公園で遊具、池でのセーリング遊び、児童劇場。5月は新緑が美しく、子ども向けワークショップが開催される季節。",
       "date": "5月全期間",
-      "place": "パリ植物園、パリ5区",
-      "link": "https://www.jardindesplantes.net/",
+      "place": "Jardin du Luxembourg, Paris 6e",
+      "link": "https://www.paris.fr/pages/le-jardin-du-luxembourg-6",
+      "free": true
+    },
+    {
+      "title": "ヴェルサイユ宮殿 - 子ども向け特別ツアー",
+      "description": "5月は庭園が満開。子ども向けガイド付きツアーやスタンプラリーが実施される。ファミリー対応のアトラクション充実。",
+      "date": "5月全期間",
+      "place": "Place d'Armes, 78000 Versailles",
+      "link": "https://www.chateauversailles.fr",
       "free": false
     },
     {
-      "title": "シャンゼリゼ通り・キッズフェスティバル＆アウトドア遊び場",
-      "description": "5月は気候が快適でシャンゼリゼ通りでファミリーイベントが増加。キッズエリア、移動遊園地、カフェテラスで家族向けアクティビティが豊富。無料で散歩・鑑賞できます。",
-      "date": "5月全期間（イベント随時開催）",
-      "place": "シャンゼリゼ通り、パリ8区",
+      "title": "モンマルトル - 春の花祭り（Fêtes des Fleurs）",
+      "description": "モンマルトルの路地に花が飾られ、アーティストマーケット、キッズワークショップ開催。春らしい雰囲気を満喫できます。",
+      "date": "5月上旬〜中旬",
+      "place": "Montmartre, Paris 18e",
       "link": "",
       "free": true
+    },
+    {
+      "title": "パリ自然史博物館 - 子ども向け特別展示・ワークショップ",
+      "description": "恐竜、動物、植物の展示。5月は季節特別プログラムやスカベンジャーハント、インタラクティブ体験が充実。",
+      "date": "5月全期間",
+      "place": "Muséum National d'Histoire Naturelle, 57 Rue Cuvier, Paris 5e",
+      "link": "https://www.mnhn.fr",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-10T02:12:34.260Z"
+  "updatedAt": "2026-05-11T01:49:31.636Z"
 }
