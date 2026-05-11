@@ -437,7 +437,7 @@
     la:        'photo-1534190239940-9ba8944ea261',
     hawaii:    'photo-1507876466758-bc54f384809c',
     seoul:     'photo-1534274988757-a28bf1a57c17',
-    hongkong:  'photo-1506970845246-98f69a01127c',
+    hongkong:  'photo-1621609582945-7769dbd34277',
   };
 
   // カルーセル用の表示名マッピング
@@ -460,7 +460,8 @@
   let COUNTRIES_DATA = [];
 
   // デフォルトの国リスト（フォールバック用）
-  const DEFAULT_SLUGS = ['london','taipei','paris','stockholm','singapore','bangkok','manila','la','hawaii','seoul','hongkong'];
+  // 並び順：日本からの距離が近い順（countries.json と一致）
+  const DEFAULT_SLUGS = ['seoul','taipei','hongkong','manila','bangkok','singapore','hawaii','la','stockholm','paris','london'];
 
   async function loadCountriesConfig() {
     try {
