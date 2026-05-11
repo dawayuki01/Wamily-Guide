@@ -1,18 +1,18 @@
 {
   "countries": [
     {
-      "slug": "london",
-      "nameJa": "ロンドン",
-      "nameEn": "London",
-      "flag": "🇬🇧",
+      "slug": "seoul",
+      "nameJa": "ソウル",
+      "nameEn": "Seoul",
+      "flag": "🇰🇷",
       "status": "public",
-      "maturity": "充実",
+      "maturity": "基本",
       "tripDate": null,
-      "spots": 53,
-      "hasHost": true,
+      "spots": 19,
+      "hasHost": false,
       "center": {
-        "lat": 51.5074,
-        "lng": -0.1278
+        "lat": 37.5665,
+        "lng": 126.978
       },
       "zoom": 12
     },
@@ -33,66 +33,18 @@
       "zoom": 13
     },
     {
-      "slug": "paris",
-      "nameJa": "パリ",
-      "nameEn": "Paris",
-      "flag": "🇫🇷",
+      "slug": "hongkong",
+      "nameJa": "香港",
+      "nameEn": "Hong Kong",
+      "flag": "🇭🇰",
       "status": "public",
       "maturity": "基本",
-      "tripDate": null,
-      "spots": 32,
-      "hasHost": false,
-      "center": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      },
-      "zoom": 12
-    },
-    {
-      "slug": "stockholm",
-      "nameJa": "ストックホルム",
-      "nameEn": "Stockholm",
-      "flag": "🇸🇪",
-      "status": "public",
-      "maturity": "基本",
-      "tripDate": null,
-      "spots": 30,
-      "hasHost": false,
-      "center": {
-        "lat": 59.3293,
-        "lng": 18.0686
-      },
-      "zoom": 12
-    },
-    {
-      "slug": "singapore",
-      "nameJa": "シンガポール",
-      "nameEn": "Singapore",
-      "flag": "🇸🇬",
-      "status": "public",
-      "maturity": "基本",
-      "tripDate": null,
+      "tripDate": "2026-04-30",
       "spots": 20,
       "hasHost": false,
       "center": {
-        "lat": 1.3521,
-        "lng": 103.8198
-      },
-      "zoom": 12
-    },
-    {
-      "slug": "bangkok",
-      "nameJa": "バンコク",
-      "nameEn": "Bangkok",
-      "flag": "🇹🇭",
-      "status": "public",
-      "maturity": "基本",
-      "tripDate": null,
-      "spots": 19,
-      "hasHost": false,
-      "center": {
-        "lat": 13.7563,
-        "lng": 100.5018
+        "lat": 22.3193,
+        "lng": 114.1694
       },
       "zoom": 12
     },
@@ -113,20 +65,36 @@
       "zoom": 13
     },
     {
-      "slug": "la",
-      "nameJa": "LA",
-      "nameEn": "Los Angeles",
-      "flag": "🇺🇸",
+      "slug": "bangkok",
+      "nameJa": "バンコク",
+      "nameEn": "Bangkok",
+      "flag": "🇹🇭",
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
       "spots": 19,
       "hasHost": false,
       "center": {
-        "lat": 34.0522,
-        "lng": -118.2437
+        "lat": 13.7563,
+        "lng": 100.5018
       },
-      "zoom": 11
+      "zoom": 12
+    },
+    {
+      "slug": "singapore",
+      "nameJa": "シンガポール",
+      "nameEn": "Singapore",
+      "flag": "🇸🇬",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 20,
+      "hasHost": false,
+      "center": {
+        "lat": 1.3521,
+        "lng": 103.8198
+      },
+      "zoom": 12
     },
     {
       "slug": "hawaii",
@@ -145,34 +113,66 @@
       "zoom": 11
     },
     {
-      "slug": "seoul",
-      "nameJa": "ソウル",
-      "nameEn": "Seoul",
-      "flag": "🇰🇷",
+      "slug": "la",
+      "nameJa": "LA",
+      "nameEn": "Los Angeles",
+      "flag": "🇺🇸",
       "status": "public",
       "maturity": "基本",
       "tripDate": null,
       "spots": 19,
       "hasHost": false,
       "center": {
-        "lat": 37.5665,
-        "lng": 126.978
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "zoom": 11
+    },
+    {
+      "slug": "stockholm",
+      "nameJa": "ストックホルム",
+      "nameEn": "Stockholm",
+      "flag": "🇸🇪",
+      "status": "public",
+      "maturity": "基本",
+      "tripDate": null,
+      "spots": 30,
+      "hasHost": false,
+      "center": {
+        "lat": 59.3293,
+        "lng": 18.0686
       },
       "zoom": 12
     },
     {
-      "slug": "hongkong",
-      "nameJa": "香港",
-      "nameEn": "Hong Kong",
-      "flag": "🇭🇰",
+      "slug": "paris",
+      "nameJa": "パリ",
+      "nameEn": "Paris",
+      "flag": "🇫🇷",
       "status": "public",
       "maturity": "基本",
-      "tripDate": "2026-04-30",
-      "spots": 20,
+      "tripDate": null,
+      "spots": 32,
       "hasHost": false,
       "center": {
-        "lat": 22.3193,
-        "lng": 114.1694
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "zoom": 12
+    },
+    {
+      "slug": "london",
+      "nameJa": "ロンドン",
+      "nameEn": "London",
+      "flag": "🇬🇧",
+      "status": "public",
+      "maturity": "充実",
+      "tripDate": null,
+      "spots": 53,
+      "hasHost": true,
+      "center": {
+        "lat": 51.5074,
+        "lng": -0.1278
       },
       "zoom": 12
     }
