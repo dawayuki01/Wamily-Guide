@@ -345,6 +345,7 @@
     'YouTube':   '▶️',
     'Instagram': '📸',
     'ブログ':    '📝',
+    '書籍':      '📚',
   };
 
   function renderCurationCard(item) {

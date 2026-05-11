@@ -17,7 +17,7 @@ const NEW_CURATIONS = [
 
   // ロンドン
   { name: 'ひまり｜イギリス大学院生', type: 'Instagram', country: 'ロンドン', url: 'https://www.instagram.com/himari_europe', desc: 'イギリス大学院生がヨーロッパ全域を旅して発信。在英目線のリアルが詰まる。' },
-  { name: '地球の歩き方 aruco ロンドン 2024〜2025', type: 'ブログ', country: 'ロンドン', url: 'https://amzn.asia/d/056Hhtii', desc: '定番ガイド「aruco」シリーズのロンドン編。最新の見どころと旅情報を網羅した1冊。' },
+  { name: '地球の歩き方 aruco ロンドン 2024〜2025', type: '書籍', country: 'ロンドン', url: 'https://amzn.asia/d/056Hhtii', desc: '定番ガイド「aruco」シリーズのロンドン編。最新の見どころと旅情報を網羅した1冊。' },
   { name: 'Charlie｜イギリス旅案内人', type: 'ブログ', country: 'ロンドン', url: 'https://note.com/cute_london', desc: 'ロンドン在住14年の旅案内人。観光客が知らない"通の旅"を、穴場・無料スポット・スイーツの切り口で発信。' },
 
   // パリ
@@ -33,8 +33,8 @@ const NEW_CURATIONS = [
   // 香港
   { name: 'えり｜香港在住 食べ歩きブロガー', type: 'Instagram', country: '香港', url: 'https://www.instagram.com/petitfeilee', desc: '香港在住の食べ歩きブロガー。地元の点心からカフェまで、生活者目線の食情報を発信。' },
   { name: 'M｜香港アカウント（要確認）', type: 'Instagram', country: '香港', url: 'https://www.instagram.com/m_fromjapan', desc: '日本人視点で香港の日常を発信するアカウント。※プロフィール詳細はNotionで確認・調整してください。' },
-  { name: '地球の歩き方 aruco 香港 2025〜2026', type: 'ブログ', country: '香港', url: 'https://amzn.asia/d/0ijHA5nf', desc: '定番ガイド「aruco」シリーズの香港編。最新の見どころと旅情報を網羅した1冊。' },
-  { name: '香港の歴史と地政学（書名要確認）', type: 'ブログ', country: '香港', url: 'https://amzn.asia/d/0h8Rce2X', desc: '香港の歴史と地政学を一冊でまとめた書籍。旅をもっと深く楽しむための背景知識に。※書名はNotionで確認・修正してください。' },
+  { name: '地球の歩き方 aruco 香港 2025〜2026', type: '書籍', country: '香港', url: 'https://amzn.asia/d/0ijHA5nf', desc: '定番ガイド「aruco」シリーズの香港編。最新の見どころと旅情報を網羅した1冊。' },
+  { name: '香港の歴史と地政学（書名要確認）', type: '書籍', country: '香港', url: 'https://amzn.asia/d/0h8Rce2X', desc: '香港の歴史と地政学を一冊でまとめた書籍。旅をもっと深く楽しむための背景知識に。※書名はNotionで確認・修正してください。' },
 
   // マニラ
   { name: 'Yuko_ih_bkk.ph', type: 'ブログ', country: 'マニラ', url: 'https://note.com/yuko_ih_bkk', desc: 'タイ6年・フィリピン1年の駐在妻が発信する、海外子育て・旅行・駐在生活のリアルなnote。' },
