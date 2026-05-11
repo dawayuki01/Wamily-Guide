@@ -359,9 +359,8 @@
       <div class="curation-card">
         <span class="curation-icon">${icon}</span>
         <div>
-          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+          <div style="margin-bottom:4px">
             ${nameLink}
-            <span class="badge badge-owner">サワディーおすすめ</span>
           </div>
           <p class="curation-desc">${item.description}</p>
         </div>
