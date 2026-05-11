@@ -344,8 +344,9 @@
   const CURATION_TYPE_ICON = {
     'YouTube':   '▶️',
     'Instagram': '📸',
-    'ブログ':    '📝',
-    '書籍':      '📚',
+    'Blog':      '📝',
+    'Book':      '📚',
+    'Media':     '📰',
   };
 
   function renderCurationCard(item) {
