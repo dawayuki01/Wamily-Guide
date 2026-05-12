@@ -341,7 +341,8 @@ img{max-width:100%;display:block}
   margin-bottom:6px;
 }
 .cn-baton-form .cn-field input,
-.cn-baton-form .cn-field textarea{
+.cn-baton-form .cn-field textarea,
+.cn-baton-form .cn-field select{
   width:100%;
   border:1.5px solid var(--border);border-radius:8px;
   padding:10px 14px;
@@ -349,8 +350,15 @@ img{max-width:100%;display:block}
   background:var(--cream);
   transition:border-color .2s;resize:vertical;
 }
+.cn-baton-form .cn-field select{
+  appearance:none;-webkit-appearance:none;-moz-appearance:none;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'><path fill='none' stroke='%237a6c4a' stroke-width='1.6' d='M1 1l5 5 5-5'/></svg>");
+  background-repeat:no-repeat;background-position:right 14px center;
+  padding-right:36px;cursor:pointer;
+}
 .cn-baton-form .cn-field input:focus,
-.cn-baton-form .cn-field textarea:focus{
+.cn-baton-form .cn-field textarea:focus,
+.cn-baton-form .cn-field select:focus{
   outline:none;border-color:var(--teal);
 }
 .cn-baton-form .cn-field input::placeholder,
