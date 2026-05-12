@@ -181,12 +181,8 @@
           </select>
         </div>
         <div class="cn-field">
-          <label for="spot-url">Google Maps の URL（複数なら改行区切りで何個でも）</label>
-          <textarea id="spot-url" rows="4" placeholder="https://maps.app.goo.gl/...&#10;https://maps.app.goo.gl/...&#10;https://maps.app.goo.gl/..."></textarea>
-        </div>
-        <div class="cn-field">
-          <label for="spot-comment">一言コメント（任意・全スポット共通）</label>
-          <textarea id="spot-comment" rows="3" placeholder="例：どれも子連れOK。"></textarea>
+          <label for="spot-info">スポット情報</label>
+          <textarea id="spot-info" rows="6" placeholder="例：渋谷の◯◯がめっちゃ良かった&#10;https://maps.app.goo.gl/...&#10;&#10;近くの△△も同じ流れで&#10;https://maps.app.goo.gl/...&#10;&#10;ベビーカーOKでした"></textarea>
         </div>
         <div class="cn-field">
           <label for="spot-name">お名前（任意・ニックネームOK）</label>
@@ -380,20 +376,16 @@
       var country = countrySelect.value;
       var countryOther = document.getElementById('spot-country-other').value.trim();
       var genre = document.getElementById('spot-genre').value;
-      var urlsRaw = document.getElementById('spot-url').value;
-      var comment = document.getElementById('spot-comment').value.trim();
+      var spotInfo = document.getElementById('spot-info').value.trim();
       var name = document.getElementById('spot-name').value.trim();
-
-      // URL を改行で分割 → 空行除去 → URL形式チェック
-      var urls = urlsRaw.split(/\r?\n/).map(function(s){ return s.trim(); }).filter(function(s){ return s.length > 0; });
 
       if (!country) { alert('国・エリアを選んでください。'); return; }
       if (country === 'その他' && !countryOther) { alert('国・エリアを入力してください。'); return; }
       if (!genre) { alert('ジャンルを選んでください。'); return; }
-      if (urls.length === 0) { alert('Google Maps の URL を入力してください。'); return; }
+      if (!spotInfo) { alert('スポット情報を入力してください。'); return; }
 
       btn.disabled = true;
-      btn.textContent = urls.length > 1 ? urls.length + '件 送信中…' : '送信中…';
+      btn.textContent = '送信中…';
 
       fetch(SPOT_GAS_URL, {
         method: 'POST',
@@ -402,8 +394,7 @@
           country: country,
           countryOther: countryOther,
           genre: genre,
-          urls: urls,
-          comment: comment,
+          spotInfo: spotInfo,
           name: name || '（匿名）'
         })
       })
@@ -414,8 +405,7 @@
           document.getElementById('spot-country-other').value = '';
           countryOtherWrap.style.display = 'none';
           document.getElementById('spot-genre').value = '';
-          document.getElementById('spot-url').value = '';
-          document.getElementById('spot-comment').value = '';
+          document.getElementById('spot-info').value = '';
           document.getElementById('spot-name').value = '';
           btn.style.display = 'none';
           done.style.display = 'block';

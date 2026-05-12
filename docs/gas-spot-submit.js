@@ -49,13 +49,9 @@ function doPost(e) {
     // フォームから JSON が text/plain で届く想定
     const data = JSON.parse(e.postData.contents);
 
-    // urls は配列で来る前提（旧版互換: data.url が来たら配列化）
-    let urls = Array.isArray(data.urls) ? data.urls : (data.url ? [data.url] : []);
-    urls = urls.map(s => String(s || '').trim()).filter(s => s.length > 0);
-
-    // 必須チェック
-    if (urls.length === 0 || !data.country || !data.genre) {
-      return jsonResponse({ status: 'error', error: 'URL・国・ジャンルは必須です' });
+    // 必須チェック（spotInfo は自由テキスト：URL/コメント/メモ何でもOK）
+    if (!data.spotInfo || !data.country || !data.genre) {
+      return jsonResponse({ status: 'error', error: '国・ジャンル・スポット情報は必須です' });
     }
 
     const today = new Date().toISOString().split('T')[0];
@@ -63,86 +59,62 @@ function doPost(e) {
       ? (data.countryOther || '（その他）')
       : data.country;
 
-    // 各 URL ごとに Notion ページを作成
-    let added = 0;
-    let errors = [];
-    for (let i = 0; i < urls.length; i++) {
-      const url = urls[i];
+    // タイトル: 「[国] / [ジャンル] / [スポット情報先頭30字]」
+    const title = countryDisplay + ' / ' + data.genre + ' / ' + trimTitle(data.spotInfo, 30);
 
-      // タイトル: 「[国] / [ジャンル] / [コメント先頭 or URL末尾]」
-      let titleSuffix;
-      if (data.comment) {
-        titleSuffix = trimTitle(data.comment, 30);
-      } else {
-        // URL の末尾（パス末尾）を抜き出して短く
-        titleSuffix = url.split('/').filter(Boolean).pop() || url;
-        titleSuffix = trimTitle(titleSuffix, 30);
-      }
-      const title = countryDisplay + ' / ' + data.genre + ' / ' + titleSuffix;
+    const properties = {
+      '名前': { title: [{ text: { content: trimTitle(title, 100) } }] },
+      // URL列はサワディーがレビュー時に主要URLを抽出して入れる用に空のまま
+      'ジャンル': { select: { name: data.genre } },
+      'コメント': { rich_text: [{ text: { content: data.spotInfo } }] },
+      '投稿者名': { rich_text: [{ text: { content: data.name || '（匿名）' } }] },
+      '投稿日': { date: { start: today } },
+      'ステータス': { select: { name: '候補' } }
+    };
 
-      const properties = {
-        '名前': { title: [{ text: { content: trimTitle(title, 100) } }] },
-        'URL': { url: url },
-        'ジャンル': { select: { name: data.genre } },
-        'コメント': { rich_text: [{ text: { content: data.comment || '' } }] },
-        '投稿者名': { rich_text: [{ text: { content: data.name || '（匿名）' } }] },
-        '投稿日': { date: { start: today } },
-        'ステータス': { select: { name: '候補' } }
+    if (data.country === 'その他') {
+      properties['国名（その他）'] = {
+        rich_text: [{ text: { content: data.countryOther || '（未指定）' } }]
       };
-
-      if (data.country === 'その他') {
-        properties['国名（その他）'] = {
-          rich_text: [{ text: { content: data.countryOther || '（未指定）' } }]
-        };
-      } else {
-        properties['国名'] = { select: { name: data.country } };
-      }
-
-      const res = UrlFetchApp.fetch('https://api.notion.com/v1/pages', {
-        method: 'post',
-        contentType: 'application/json',
-        headers: {
-          'Authorization': 'Bearer ' + NOTION_API_KEY,
-          'Notion-Version': NOTION_VERSION
-        },
-        payload: JSON.stringify({
-          parent: { database_id: NOTION_SPOT_DB_ID },
-          properties: properties
-        }),
-        muteHttpExceptions: true
-      });
-
-      const code = res.getResponseCode();
-      if (code >= 200 && code < 300) {
-        added++;
-      } else {
-        console.error('Notion API error:', code, res.getContentText());
-        errors.push({ url: url, code: code });
-      }
+    } else {
+      properties['国名'] = { select: { name: data.country } };
     }
 
-    if (added === 0) {
-      throw new Error('全件 Notion 登録失敗（最初のエラー HTTP ' + (errors[0] && errors[0].code) + '）');
+    const res = UrlFetchApp.fetch('https://api.notion.com/v1/pages', {
+      method: 'post',
+      contentType: 'application/json',
+      headers: {
+        'Authorization': 'Bearer ' + NOTION_API_KEY,
+        'Notion-Version': NOTION_VERSION
+      },
+      payload: JSON.stringify({
+        parent: { database_id: NOTION_SPOT_DB_ID },
+        properties: properties
+      }),
+      muteHttpExceptions: true
+    });
+
+    const code = res.getResponseCode();
+    if (code < 200 || code >= 300) {
+      console.error('Notion API error:', code, res.getContentText());
+      throw new Error('Notion 登録に失敗しました（HTTP ' + code + '）');
     }
 
     // Slack 通知（任意）
     if (SLACK_WEBHOOK) {
-      const fields = [
-        { title: '投稿者', value: data.name || '（匿名）', short: true },
-        { title: '国・エリア', value: countryDisplay, short: true },
-        { title: 'ジャンル', value: data.genre, short: true },
-        { title: '件数', value: added + ' 件' + (errors.length > 0 ? '（失敗 ' + errors.length + '）' : ''), short: true },
-        { title: 'URL', value: urls.join('\n'), short: false },
-        { title: 'コメント', value: data.comment || '（なし）', short: false }
-      ];
       notifySlack({
-        text: '📍 おすすめスポットが届きました（' + added + '件）',
+        text: '📍 おすすめスポットが届きました',
         color: '#2a9d8f',
-        fields: fields
+        fields: [
+          { title: '投稿者', value: data.name || '（匿名）', short: true },
+          { title: '国・エリア', value: countryDisplay, short: true },
+          { title: 'ジャンル', value: data.genre, short: true },
+          { title: 'スポット情報', value: data.spotInfo, short: false }
+        ]
       });
     }
 
-    return jsonResponse({ status: 'ok', added: added, failed: errors.length });
+    return jsonResponse({ status: 'ok' });
 
   } catch (err) {
     console.error('doPost error:', err);
