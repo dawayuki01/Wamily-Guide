@@ -80,7 +80,8 @@ docs/archive/ の古い版は無視してください。
 |---|---|---|
 | 最近の動きDB | NOTION_LIVEFEED_DB_ID（GitHub Secrets） | フィード投稿管理 |
 | スポットDB | 61864001-cf96-4afb-b7f2-94b07cd445a1 | 全10カ国スポット管理 |
-| キュレーションDB | 4f146e35-f680-46e1-acf2-8e4cc86851fb | YouTube/Instagram/ブログ管理 |
+| キュレーションDB | 4f146e35-f680-46e1-acf2-8e4cc86851fb | YouTube/Instagram/Blog/Book/Media 管理 |
+| おすすめスポット候補DB | 81a00d30-659e-4ca4-856f-3de605507eea | サイト「📍 おすすめスポットを置く」フォームから投稿された My Maps 追加候補 |
 | メルマガ購読者DB | 4cb8342e-d95d-44bb-894d-0b882eba6e99 | 購読者管理 |
 | メルマガお知らせDB | 8735e684-62ce-47b1-8fb4-fd99e9a0725e | お知らせ管理 |
 | 旅のバトンDB | 0d873caad48d4cf7aa841312ee9d5a3b | バトン投稿管理 |
@@ -146,7 +147,8 @@ docs/archive/ の古い版は無視してください。
 | プロジェクト名 | アカウント | 用途 |
 |---|---|---|
 | Wamily お問い合わせ自動返信 | pr@tomoyukisawada.com | Google Form 自動返信 |
-| Wamily 旅のバトン | pr@tomoyukisawada.com | バトンフォーム → Notion |
+| Wamily 旅のバトン | pr@tomoyukisawada.com | バトンフォーム → Notion + メール通知 |
+| Wamily おすすめスポット送信 | pr@tomoyukisawada.com | /connect/「📍 おすすめスポットを置く」フォーム → おすすめスポット候補DB + メール通知（参考コード: `docs/gas-spot-submit.js`） |
 | Wamily メルマガ | pr@tomoyukisawada.com | 登録・配信停止 → Notion |
 | Wamily ホスト応募 | pr@tomoyukisawada.com | ホスト応募フォーム → Notion + Slack |
 
@@ -211,10 +213,29 @@ Notion sync時に以下のフィールドは既存JSONファイルから引き�
 | いざという時 | 病院・大使館 |
 
 ### キュレーション運用
+- タイプ：YouTube / Instagram / Blog / Book / Media（英語表記で統一）
+  - アイコン対応: ▶️ / 📸 / 📝 / 📚 / 📰（`js/data-loader.js` の `CURATION_TYPE_ICON`）
 - Notion ステータス管理：候補🟡 / 公開🟢 / 非公開⚫
 - `fetch-notion.js` は「公開」ステータスのみサイトに反映
 - 半年に1回程度 Claude が見直し・入れ替え候補を提案
 - 自動生成は月1回程度（sync.yml で制御）
+
+### おすすめスポット投稿運用
+サイト `/connect/` の「📍 おすすめスポットを置く」フォームから誰でも投稿可。
+
+**投稿フロー：**
+1. ユーザー：4項目（国・ジャンル・スポット情報・お名前）を送信
+2. GAS（Wamily おすすめスポット送信）：おすすめスポット候補DBに「候補🟡」で登録
+3. メール通知：pr@tomoyukisawada.com に新規投稿のお知らせ
+4. サワディーレビュー：Notion で内容確認
+5. 手動で Wamily Spots（My Maps）にピン追加
+6. Notion ステータスを「My Maps追加済み✅」に更新（or 不採用なら「却下⚫」）
+
+**項目：**
+- 国・エリア（11カ国 select + 「その他」手入力）
+- ジャンル（親子で食べる / 遊びに行く / 現地の日常へ / その他）
+- スポット情報（textarea・自由テキスト：URL・コメント・複数スポット説明 何でも可）
+- お名前（任意）
 
 ### メルマガ運用
 - 詳細仕様書: `docs/newsletter-spec.md`
@@ -281,6 +302,7 @@ Notion sync時に以下のフィールドは既存JSONファイルから引き�
 | Slack に通知が来ない | GitHub Secrets の `SLACK_WEBHOOK_*` を確認 |
 | キュレーションが表示されない | Notion で「公開」ステータスか確認 → `fetch-notion.js` 再実行 |
 | サイトの画像が表示されない | Slack `#patrol` の画像URL死活チェック通知を確認 → 該当HTMLの画像URLを差し替え（`node scripts/check-image-urls.js` でローカル再確認可能） |
+| おすすめスポット投稿が届かない | GAS「Wamily おすすめスポット送信」の実行ログ確認 → Notion インテグレーション接続確認（おすすめスポット候補DB に「Wamily」インテグレーションが共有されているか） |
 | Instagram分析が動かない | Slack `#sns` 確認 → トークン期限チェック |
 | 壁打ちログを保存したい | `node scripts/save-strategy-note.js --type "壁打ちメモ" --title "..." --content "..."` |
 | 過去の壁打ちを参照したい | Notion 参謀室DB の直近5件を確認 |
@@ -301,6 +323,7 @@ Notion sync時に以下のフィールドは既存JSONファイルから引き�
 | Google Cloud Console | https://console.cloud.google.com/apis/credentials?project=sawady-twitter |
 | NotionスポットDB | https://notion.so/61864001cf964afbb7f294b07cd445a1 |
 | NotionキュレーションDB | https://notion.so/4f146e35f68046e1acf28e4cc86851fb |
+| Notionおすすめスポット候補DB | https://notion.so/81a00d30659e4ca4856f3de605507eea |
 | Notionメルマガ購読者DB | https://notion.so/4cb8342ed95d44bb894d0b882eba6e99 |
 | Notionメルマガお知らせDB | https://notion.so/8735e68462ce47b18fb4fd99e9a0725e |
 | NotionホストDB | https://notion.so/2c4a050321914d468fa784a30209227a |
