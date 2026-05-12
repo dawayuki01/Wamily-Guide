@@ -106,7 +106,7 @@
     </div>
   </section>
 
-  <!-- ======= ❷ そっと置いていく ======= -->
+  <!-- ======= ❷ そっと置いていく（バトン）======= -->
   <section class="cn-section cn-baton-section">
     <div class="cn-section-inner narrow">
       <p class="cn-label">02 — そっと置いていく</p>
@@ -138,10 +138,74 @@
     </div>
   </section>
 
+  <!-- ======= ❸ そっと置いていく（スポット）======= -->
+  <section class="cn-section cn-baton-section">
+    <div class="cn-section-inner narrow">
+      <p class="cn-label">03 — そっと置いていく</p>
+      <h2 class="cn-h2">📍 おすすめスポットを置く</h2>
+      <p class="cn-body">
+        「ここ良かった」「ここ気になる」を、URLだけでも。<br>
+        サワディー家の地図に、あなたの発見を加えていきます。何度でも、思い立ったときに。
+      </p>
+      <div class="cn-baton-form">
+        <div class="cn-field">
+          <label for="spot-country">国・エリア</label>
+          <select id="spot-country">
+            <option value="">選んでください</option>
+            <option value="ソウル">🇰🇷 ソウル</option>
+            <option value="台北">🇹🇼 台北</option>
+            <option value="香港">🇭🇰 香港</option>
+            <option value="マニラ">🇵🇭 マニラ</option>
+            <option value="バンコク">🇹🇭 バンコク</option>
+            <option value="シンガポール">🇸🇬 シンガポール</option>
+            <option value="ハワイ">🇺🇸 ハワイ</option>
+            <option value="LA">🇺🇸 LA</option>
+            <option value="ストックホルム">🇸🇪 ストックホルム</option>
+            <option value="パリ">🇫🇷 パリ</option>
+            <option value="ロンドン">🇬🇧 ロンドン</option>
+            <option value="その他">その他（手入力）</option>
+          </select>
+        </div>
+        <div class="cn-field" id="spot-country-other-wrap" style="display:none">
+          <label for="spot-country-other">国・エリア（手入力）</label>
+          <input type="text" id="spot-country-other" placeholder="例：イタリア・ローマ">
+        </div>
+        <div class="cn-field">
+          <label for="spot-genre">ジャンル</label>
+          <select id="spot-genre">
+            <option value="">選んでください</option>
+            <option value="親子で食べる">🍽️ 親子で食べる</option>
+            <option value="遊びに行く">🎡 遊びに行く</option>
+            <option value="現地の日常へ">🛒 現地の日常へ</option>
+            <option value="その他">その他</option>
+          </select>
+        </div>
+        <div class="cn-field">
+          <label for="spot-url">Google Maps の URL</label>
+          <input type="url" id="spot-url" placeholder="https://maps.app.goo.gl/...">
+        </div>
+        <div class="cn-field">
+          <label for="spot-comment">一言コメント（任意）</label>
+          <textarea id="spot-comment" rows="3" placeholder="例：飲茶が美味しい。子連れOKでベビーカー入れます。"></textarea>
+        </div>
+        <div class="cn-field">
+          <label for="spot-name">お名前（任意・ニックネームOK）</label>
+          <input type="text" id="spot-name" placeholder="例：たろうパパ">
+        </div>
+        <button class="cn-baton-submit" type="button" id="spot-submit">そっと置く ↗</button>
+        <p class="cn-form-note">確認後、サワディー家の地図に追加させていただきます。何度でも送ってOKです。</p>
+        <div class="cn-baton-done" id="spot-done" style="display:none">
+          <p class="cn-baton-done-msg">ありがとうございます。スポット、受け取りました。</p>
+          <p class="cn-baton-done-sub">地図に加えていきますね。また思い立ったら、置いていってください。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- ======= ❸ ゆるくつながる ======= -->
   <section class="cn-section cn-nl-section">
     <div class="cn-section-inner narrow">
-      <p class="cn-label">03 — ゆるくつながる</p>
+      <p class="cn-label">04 — ゆるくつながる</p>
       <h2 class="cn-h2">Wamilyの手紙</h2>
       <p class="cn-body">
         毎週、親子での海外旅行にまつわるカルチャーやトレンドをキュレーションしてお届けします。<br>
@@ -161,7 +225,7 @@
   <!-- ======= ❹ 旅の前後に聞く ======= -->
   <section class="cn-section cn-contact-section">
     <div class="cn-section-inner">
-      <p class="cn-label">04 — 旅の前後に聞く</p>
+      <p class="cn-label">05 — 旅の前後に聞く</p>
       <h2 class="cn-h2">Wamilyに聞く</h2>
 
       <div class="cn-contact-blocks">
@@ -222,7 +286,7 @@
   <!-- ======= ⑤ ホスト募集（別オーディエンス） ======= -->
   <section class="cn-host-section">
     <div class="cn-host-inner">
-      <p class="cn-label cn-host-label">05 — 現地から迎える</p>
+      <p class="cn-label cn-host-label">06 — 現地から迎える</p>
       <h2 class="cn-host-h2">
         現地ホストとして、<br>世界中の家族を迎えませんか。
       </h2>
@@ -292,6 +356,74 @@
         alert('送信できませんでした。時間をおいて再度お試しください。');
         btn.disabled = false;
         btn.textContent = 'バトンを渡す ↗';
+      });
+    });
+  })();
+  </script>
+
+  <!-- ======= スポット送信JS ======= -->
+  <script>
+  (function(){
+    var SPOT_GAS_URL = 'https://script.google.com/macros/s/AKfycbzsttwkE5gNPNu6hJMEs3vYiMoUHrN2vz9B4eLbb0sbcTjulF7DNSLHiQtXdsXQXf8c/exec';
+    var btn = document.getElementById('spot-submit');
+    var done = document.getElementById('spot-done');
+    var countrySelect = document.getElementById('spot-country');
+    var countryOtherWrap = document.getElementById('spot-country-other-wrap');
+
+    if (!btn) return;
+
+    countrySelect.addEventListener('change', function(){
+      countryOtherWrap.style.display = (countrySelect.value === 'その他') ? 'block' : 'none';
+    });
+
+    btn.addEventListener('click', function(){
+      var country = countrySelect.value;
+      var countryOther = document.getElementById('spot-country-other').value.trim();
+      var genre = document.getElementById('spot-genre').value;
+      var url = document.getElementById('spot-url').value.trim();
+      var comment = document.getElementById('spot-comment').value.trim();
+      var name = document.getElementById('spot-name').value.trim();
+
+      if (!country) { alert('国・エリアを選んでください。'); return; }
+      if (country === 'その他' && !countryOther) { alert('国・エリアを入力してください。'); return; }
+      if (!genre) { alert('ジャンルを選んでください。'); return; }
+      if (!url) { alert('Google Maps の URL を入力してください。'); return; }
+
+      btn.disabled = true;
+      btn.textContent = '送信中…';
+
+      fetch(SPOT_GAS_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain' },
+        body: JSON.stringify({
+          country: country,
+          countryOther: countryOther,
+          genre: genre,
+          url: url,
+          comment: comment,
+          name: name || '（匿名）'
+        })
+      })
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        if (data.status === 'ok') {
+          countrySelect.value = '';
+          document.getElementById('spot-country-other').value = '';
+          countryOtherWrap.style.display = 'none';
+          document.getElementById('spot-genre').value = '';
+          document.getElementById('spot-url').value = '';
+          document.getElementById('spot-comment').value = '';
+          document.getElementById('spot-name').value = '';
+          btn.style.display = 'none';
+          done.style.display = 'block';
+        } else {
+          throw new Error(data.error || '送信に失敗しました');
+        }
+      })
+      .catch(function(){
+        alert('送信できませんでした。時間をおいて再度お試しください。');
+        btn.disabled = false;
+        btn.textContent = 'そっと置く ↗';
       });
     });
   })();

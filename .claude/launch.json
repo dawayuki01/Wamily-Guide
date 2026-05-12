@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "Wamily Guide",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8888"],
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "http-server", "-p", "8888", "-c-1", "--silent"],
       "port": 8888
     }
   ]
