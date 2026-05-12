@@ -942,11 +942,11 @@ body {
 
   .gb2-features-grid { grid-template-columns: 1fr; }
 
-  .gb2-hero-visual { height: 180px; }
-  .gb2-char-traveler { height: 130px; }
-  .gb2-char-family { height: 110px; }
-  .gb2-hero-plane { top: 18%; right: 8%; }
-  .gb2-hero-plane .gb2-plane-img { width: 52px; }
+  .gb2-hero-visual { height: 220px; }
+  .gb2-char-traveler { height: 110px; right: 4%; }
+  .gb2-char-family { height: 95px; left: 4%; }
+  .gb2-hero-plane { top: 6%; right: 4%; }
+  .gb2-hero-plane .gb2-plane-img { width: 42px; }
 
   .gb2-hero-group { height: 130px; }
 

@@ -1,0 +1,29 @@
+/**
+ * jp-wrap.css
+ *
+ * モバイル時のみ、日本語テキストを「、」「。」（および明示的な <wbr>）でのみ改行する。
+ * js/jp-wrap.js が <wbr> を自動挿入するので、組み合わせて使う。
+ * PC 表示には影響なし。
+ */
+
+@media (max-width: 600px) {
+  p, h1, h2, h3, h4, li, figcaption, blockquote, dt, dd,
+  .spot-card-title, .spot-card-desc,
+  .cur-card-text, .curation-item-desc,
+  .feed-card-text, .feed-text,
+  .tab-text, .section-lead {
+    word-break: keep-all;
+    overflow-wrap: break-word;  /* 句読点なしの長い文字列はオーバーフロー回避のため折り返し可 */
+    line-break: strict;
+  }
+
+  /* ナビ・フッター・ボタンは除外（短文なので必要なし） */
+  .gnav p, .gnav li, .gnav h1, .gnav h2, .gnav h3, .gnav h4,
+  .cp-footer p, .cp-footer li,
+  .cn-footer p, .cn-footer li,
+  nav p, nav li,
+  button p, .gnav-pill {
+    word-break: normal;
+    overflow-wrap: normal;
+  }
+}
