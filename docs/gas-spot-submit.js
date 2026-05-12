@@ -38,6 +38,8 @@ const NOTION_SPOT_DB_ID = PROPS.getProperty('NOTION_SPOT_DB_ID');
 const SLACK_WEBHOOK = PROPS.getProperty('SLACK_WEBHOOK_CONTENT'); // 任意
 
 const NOTION_VERSION = '2022-06-28';
+const OWNER_EMAIL = 'pr@tomoyukisawada.com';
+const NOTION_DB_URL = 'https://www.notion.so/81a00d30659e4ca4856f3de605507eea';
 
 // ===== Web App エンドポイント =====
 function doPost(e) {
@@ -98,6 +100,33 @@ function doPost(e) {
     if (code < 200 || code >= 300) {
       console.error('Notion API error:', code, res.getContentText());
       throw new Error('Notion 登録に失敗しました（HTTP ' + code + '）');
+    }
+
+    // メール通知（旅のバトンと同じ運用）
+    try {
+      MailApp.sendEmail({
+        to: OWNER_EMAIL,
+        subject: '【Wamily】新しいおすすめスポットが届きました',
+        body: [
+          '新しいおすすめスポットが届きました。',
+          '',
+          '【投稿者】' + (data.name || '（匿名）'),
+          '【国・エリア】' + countryDisplay,
+          '【ジャンル】' + data.genre,
+          '',
+          '【スポット情報】',
+          data.spotInfo,
+          '',
+          '─────────────',
+          'Notion で確認 → URL抽出 → My Maps に追加 → ステータスを「My Maps追加済み」へ',
+          NOTION_DB_URL,
+          '',
+          '— Wamily おすすめスポット送信フォーム',
+        ].join('\n')
+      });
+    } catch (mailErr) {
+      console.error('Mail notify error:', mailErr);
+      // メール失敗してもフォーム送信自体は成功扱い（Notion登録は完了済み）
     }
 
     // Slack 通知（任意）
