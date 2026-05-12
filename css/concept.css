@@ -510,4 +510,7 @@ img { max-width: 100%; display: block }
     text-wrap: pretty;
     overflow-wrap: anywhere;
   }
+
+  /* 引用文がスマホで溢れて mid-clause で折り返すので縮小 */
+  .cp-quote-text { font-size: 18px; letter-spacing: 0.04em; }
 }

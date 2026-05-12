@@ -4,7 +4,24 @@
  * モバイル時のみ、日本語テキストを「、」「。」（および明示的な <wbr>）でのみ改行する。
  * js/jp-wrap.js が <wbr> を自動挿入するので、組み合わせて使う。
  * PC 表示には影響なし。
+ *
+ * 改行コントロール用ユーティリティ:
+ *   <br class="sp-only"> → モバイル時のみ表示（編集側で意図したスマホ改行）
+ *   <br class="pc-only"> → PC時のみ表示
+ *   .sp-only / .pc-only は span や任意の要素にも使える
  */
+
+/* デフォルト（PC）: sp-only を隠す */
+.sp-only { display: none !important; }
+.pc-only { display: initial; }
+
+@media (max-width: 600px) {
+  /* モバイル: sp-only を表示、pc-only を隠す */
+  .sp-only { display: initial !important; }
+  .pc-only { display: none !important; }
+  /* <br class="sp-only"> は inline でも改行できるよう block 扱いに（既定の br と同じ） */
+  br.sp-only { display: block !important; }
+}
 
 @media (max-width: 600px) {
   p, h1, h2, h3, h4, li, figcaption, blockquote, dt, dd,
