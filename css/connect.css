@@ -560,3 +560,41 @@ img{max-width:100%;display:block}
   .cn-section{padding:72px 24px}
   .cn-host-section{padding:72px 24px}
 }
+
+/* ===== モバイル日本語タイポグラフィ（PC は影響なし） ===== */
+@media (max-width: 600px) {
+  .cn-hero-title br,
+  .cn-hero-sub br,
+  .cn-h2 br,
+  .cn-body br,
+  .cn-baton-done-msg br,
+  .cn-contact-block-body br,
+  .cn-host-h2 br,
+  .cn-host-body br,
+  .cn-closing-text br,
+  .cn-bridge-text br,
+  .cn-bridge-sub br,
+  .cn-channel-card p br,
+  .cn-section-lead br {
+    display: none;
+  }
+
+  .cn-hero-title,
+  .cn-hero-sub,
+  .cn-h2,
+  .cn-body,
+  .cn-baton-done-msg,
+  .cn-contact-block-body,
+  .cn-host-h2,
+  .cn-host-body,
+  .cn-closing-text,
+  .cn-bridge-text,
+  .cn-bridge-sub,
+  .cn-channel-card p,
+  .cn-section-lead {
+    line-break: strict;
+    word-break: auto-phrase;
+    text-wrap: pretty;
+    overflow-wrap: anywhere;
+  }
+}

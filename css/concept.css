@@ -477,3 +477,37 @@ img { max-width: 100%; display: block }
   .cp-footer { flex-direction: column; align-items: flex-start }
   .cp-footer-links { flex-wrap: wrap }
 }
+
+/* ===== モバイル日本語タイポグラフィ（PC は影響なし） ===== */
+@media (max-width: 600px) {
+  .cp-hero-title br,
+  .cp-hero-sub br,
+  .cp-opening-text br,
+  .cp-h2 br,
+  .cp-body br,
+  .cp-chapter-body br,
+  .cp-quote-text br,
+  .cp-profile-text br,
+  .cp-grid-item p br,
+  .cp-close-title br,
+  .cp-close-sub br {
+    display: none;
+  }
+
+  .cp-hero-title,
+  .cp-hero-sub,
+  .cp-opening-text,
+  .cp-h2,
+  .cp-body,
+  .cp-chapter-body,
+  .cp-quote-text,
+  .cp-profile-text,
+  .cp-grid-item p,
+  .cp-close-title,
+  .cp-close-sub {
+    line-break: strict;
+    word-break: auto-phrase;
+    text-wrap: pretty;
+    overflow-wrap: anywhere;
+  }
+}
