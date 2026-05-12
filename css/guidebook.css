@@ -358,6 +358,12 @@ body {
 .map-pin { cursor: pointer; }
 .map-pin:hover .mp-core { r: 7; }
 
+/* タップ判定拡大用の透明ヒットエリア（JSで動的に追加） */
+.mp-hit {
+  fill: transparent;
+  pointer-events: all;
+}
+
 @keyframes pin-pulse {
   0%   { r: 14; opacity: 0.6; }
   100% { r: 24; opacity: 0; }
@@ -947,6 +953,14 @@ body {
   .gb2-char-family { height: 95px; left: 4%; }
   .gb2-hero-plane { top: 6%; right: 4%; }
   .gb2-hero-plane .gb2-plane-img { width: 42px; }
+
+  /* スマホは地図を +50% 拡張、左右の余白も縮めて操作性UP */
+  .gb2-map-wrap {
+    padding: 0 0.5rem;
+  }
+  .gb2-map-section { padding-top: 1.5rem; }
+  /* タップ判定をさらに大きく（指でも押しやすく / iOS HIG の 44px 以上を目安） */
+  .mp-hit { r: 60; }
 
   .gb2-hero-group { height: 130px; }
 

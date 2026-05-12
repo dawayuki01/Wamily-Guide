@@ -626,6 +626,14 @@
 
         pin.style.cursor = 'pointer';
 
+        // タップ判定を拡大する透明な大円を先頭に追加（指でも押せるように）
+        var hit = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+        hit.setAttribute('cx', cx);
+        hit.setAttribute('cy', cy);
+        hit.setAttribute('r', 28); // 16px の元の円より大きめ
+        hit.setAttribute('class', 'mp-hit');
+        pin.insertBefore(hit, pin.firstChild);
+
         pin.addEventListener('mouseenter', function () {
           if (!tt || !ttN) return;
           ttN.textContent = label;
@@ -648,15 +656,20 @@
     }
 
     // ---- Country cards ----
-    document.querySelectorAll('.gb2-ccard').forEach(function (card) {
-      card.addEventListener('click', function (e) {
-        e.preventDefault();
-        var cx   = +this.dataset.cx;
-        var cy   = +this.dataset.cy;
-        var href = this.getAttribute('href');
-        navigate(cx, cy, href);
+    // スマホでは <a> のデフォルト遷移に任せて即遷移（飛行機アニメ無し）。
+    // PC（hover が効く環境）では従来の演出を維持。
+    var isTouch = window.matchMedia('(hover: none), (max-width: 900px)').matches;
+    if (!isTouch) {
+      document.querySelectorAll('.gb2-ccard').forEach(function (card) {
+        card.addEventListener('click', function (e) {
+          e.preventDefault();
+          var cx   = +this.dataset.cx;
+          var cy   = +this.dataset.cy;
+          var href = this.getAttribute('href');
+          navigate(cx, cy, href);
+        });
       });
-    });
+    }
 
     // ---- Hero CTA smooth scroll ----
     var heroCta = document.getElementById('hero-cta');
