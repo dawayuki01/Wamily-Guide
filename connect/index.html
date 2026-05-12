@@ -181,22 +181,18 @@
           </select>
         </div>
         <div class="cn-field">
-          <label for="spot-url">Google Maps の URL</label>
-          <input type="url" id="spot-url" placeholder="https://maps.app.goo.gl/...">
-        </div>
-        <div class="cn-field">
-          <label for="spot-comment">一言コメント（任意）</label>
-          <textarea id="spot-comment" rows="3" placeholder="例：飲茶が美味しい。子連れOKでベビーカー入れます。"></textarea>
+          <label for="spot-info">スポット情報</label>
+          <textarea id="spot-info" rows="6" placeholder="例：渋谷の◯◯がめっちゃ良かった&#10;https://maps.app.goo.gl/...&#10;&#10;近くの△△も同じ流れで&#10;https://maps.app.goo.gl/...&#10;&#10;ベビーカーOKでした"></textarea>
         </div>
         <div class="cn-field">
           <label for="spot-name">お名前（任意・ニックネームOK）</label>
           <input type="text" id="spot-name" placeholder="例：たろうパパ">
         </div>
         <button class="cn-baton-submit" type="button" id="spot-submit">そっと置く ↗</button>
-        <p class="cn-form-note">確認後、サワディー家の地図に追加させていただきます。何度でも送ってOKです。</p>
+        <p class="cn-form-note">確認後、ガイドマップの地図に追加させていただきます。また気が向いたら、教えてください。</p>
         <div class="cn-baton-done" id="spot-done" style="display:none">
           <p class="cn-baton-done-msg">ありがとうございます。スポット、受け取りました。</p>
-          <p class="cn-baton-done-sub">地図に加えていきますね。また思い立ったら、置いていってください。</p>
+          <p class="cn-baton-done-sub">ガイドマップに加えていきますね。また気が向いたら、教えてください。</p>
         </div>
       </div>
     </div>
@@ -380,14 +376,13 @@
       var country = countrySelect.value;
       var countryOther = document.getElementById('spot-country-other').value.trim();
       var genre = document.getElementById('spot-genre').value;
-      var url = document.getElementById('spot-url').value.trim();
-      var comment = document.getElementById('spot-comment').value.trim();
+      var spotInfo = document.getElementById('spot-info').value.trim();
       var name = document.getElementById('spot-name').value.trim();
 
       if (!country) { alert('国・エリアを選んでください。'); return; }
       if (country === 'その他' && !countryOther) { alert('国・エリアを入力してください。'); return; }
       if (!genre) { alert('ジャンルを選んでください。'); return; }
-      if (!url) { alert('Google Maps の URL を入力してください。'); return; }
+      if (!spotInfo) { alert('スポット情報を入力してください。'); return; }
 
       btn.disabled = true;
       btn.textContent = '送信中…';
@@ -399,8 +394,7 @@
           country: country,
           countryOther: countryOther,
           genre: genre,
-          url: url,
-          comment: comment,
+          spotInfo: spotInfo,
           name: name || '（匿名）'
         })
       })
@@ -411,8 +405,7 @@
           document.getElementById('spot-country-other').value = '';
           countryOtherWrap.style.display = 'none';
           document.getElementById('spot-genre').value = '';
-          document.getElementById('spot-url').value = '';
-          document.getElementById('spot-comment').value = '';
+          document.getElementById('spot-info').value = '';
           document.getElementById('spot-name').value = '';
           btn.style.display = 'none';
           done.style.display = 'block';

@@ -49,31 +49,29 @@ function doPost(e) {
     // フォームから JSON が text/plain で届く想定
     const data = JSON.parse(e.postData.contents);
 
-    // 必須チェック
-    if (!data.url || !data.country || !data.genre) {
-      return jsonResponse({ status: 'error', error: 'URL・国・ジャンルは必須です' });
+    // 必須チェック（spotInfo は自由テキスト：URL/コメント/メモ何でもOK）
+    if (!data.spotInfo || !data.country || !data.genre) {
+      return jsonResponse({ status: 'error', error: '国・ジャンル・スポット情報は必須です' });
     }
 
-    // Notion ページ作成
+    const today = new Date().toISOString().split('T')[0];
+    const countryDisplay = data.country === 'その他'
+      ? (data.countryOther || '（その他）')
+      : data.country;
+
+    // タイトル: 「[国] / [ジャンル] / [スポット情報先頭30字]」
+    const title = countryDisplay + ' / ' + data.genre + ' / ' + trimTitle(data.spotInfo, 30);
+
     const properties = {
-      '名前': {
-        title: [{ text: { content: trimTitle(data.url, 100) } }]
-      },
-      'URL': { url: data.url },
+      '名前': { title: [{ text: { content: trimTitle(title, 100) } }] },
+      // URL列はサワディーがレビュー時に主要URLを抽出して入れる用に空のまま
       'ジャンル': { select: { name: data.genre } },
-      'コメント': {
-        rich_text: [{ text: { content: data.comment || '' } }]
-      },
-      '投稿者名': {
-        rich_text: [{ text: { content: data.name || '（匿名）' } }]
-      },
-      '投稿日': {
-        date: { start: new Date().toISOString().split('T')[0] }
-      },
+      'コメント': { rich_text: [{ text: { content: data.spotInfo } }] },
+      '投稿者名': { rich_text: [{ text: { content: data.name || '（匿名）' } }] },
+      '投稿日': { date: { start: today } },
       'ステータス': { select: { name: '候補' } }
     };
 
-    // 国名は「その他」と通常の出し分け
     if (data.country === 'その他') {
       properties['国名（その他）'] = {
         rich_text: [{ text: { content: data.countryOther || '（未指定）' } }]
@@ -104,18 +102,14 @@ function doPost(e) {
 
     // Slack 通知（任意）
     if (SLACK_WEBHOOK) {
-      const country = data.country === 'その他'
-        ? data.countryOther + '（その他）'
-        : data.country;
       notifySlack({
-        text: '📍 新しいおすすめスポットが届きました',
+        text: '📍 おすすめスポットが届きました',
         color: '#2a9d8f',
         fields: [
           { title: '投稿者', value: data.name || '（匿名）', short: true },
-          { title: '国・エリア', value: country, short: true },
+          { title: '国・エリア', value: countryDisplay, short: true },
           { title: 'ジャンル', value: data.genre, short: true },
-          { title: 'URL', value: data.url, short: false },
-          { title: 'コメント', value: data.comment || '（なし）', short: false }
+          { title: 'スポット情報', value: data.spotInfo, short: false }
         ]
       });
     }
