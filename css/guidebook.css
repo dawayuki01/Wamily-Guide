@@ -942,6 +942,12 @@ body {
 
   .gb2-features-grid { grid-template-columns: 1fr; }
 
+  .gb2-hero-visual { height: 180px; }
+  .gb2-char-traveler { height: 130px; }
+  .gb2-char-family { height: 110px; }
+  .gb2-hero-plane { top: 18%; right: 8%; }
+  .gb2-hero-plane .gb2-plane-img { width: 52px; }
+
   .gb2-hero-group { height: 130px; }
 
   .gb2-hero-bottom { height: 120px; }
@@ -953,4 +959,30 @@ body {
   .gb2-countries { padding: 5rem 0 5rem; }
 
   .gb2-about { padding: 5rem 6vw; }
+}
+
+/* ===== モバイル日本語タイポグラフィ（PC は影響なし） ===== */
+@media (max-width: 600px) {
+  .gb2-hero-title br,
+  .gb2-hero-sub br,
+  .gb2-section-sub br,
+  .gb2-about-title br,
+  .gb2-about-body br,
+  .gb2-feat-desc br,
+  .gb2-tab-guide-title br {
+    display: none;
+  }
+
+  .gb2-hero-title,
+  .gb2-hero-sub,
+  .gb2-section-sub,
+  .gb2-about-title,
+  .gb2-about-body,
+  .gb2-feat-desc,
+  .gb2-tab-guide-title {
+    line-break: strict;
+    word-break: auto-phrase;
+    text-wrap: pretty;
+    overflow-wrap: anywhere;
+  }
 }

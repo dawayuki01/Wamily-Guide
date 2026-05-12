@@ -638,3 +638,29 @@ img{max-width:100%;display:block}
   .about-title{font-size:24px}
   .connect-title{font-size:24px}
 }
+
+/* ===== モバイル日本語タイポグラフィ（PC は影響なし） ===== */
+@media (max-width: 600px) {
+  .hero-title br,
+  .hero-sub br,
+  .about-title br,
+  .about-body br,
+  .sec-desc br,
+  .connect-title br,
+  .gallery-loc br {
+    display: none;
+  }
+
+  .hero-title,
+  .hero-sub,
+  .about-title,
+  .about-body,
+  .sec-desc,
+  .connect-title,
+  .gallery-loc {
+    line-break: strict;
+    word-break: auto-phrase;
+    text-wrap: pretty;
+    overflow-wrap: anywhere;
+  }
+}

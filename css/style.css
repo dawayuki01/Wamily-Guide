@@ -2536,3 +2536,67 @@ small { font-size: 12px; }
   .host-card-title,
   .host-recruit-title { font-size: 16px; }
 }
+
+/* ============================================================
+   日本語テキストのスマホ最適化
+   - PC設計の <br> による強制改行を無効化
+   - 行末の孤立文字（「る。」「ような、」など）を抑制
+   - line-break: strict で句読点禁則を強化
+   - word-break: auto-phrase で意味単位の改行（モダンブラウザ）
+   - text-wrap: pretty で行のバランス調整
+   ============================================================ */
+@media (max-width: 600px) {
+  /* スマホでは PC 設計の <br> を無視（強制改行が崩れの原因になるため） */
+  .ed-hero-lead br,
+  .ed-lead-text br,
+  .ed-body-text br,
+  .ed-feature-text br,
+  .ed-voice-quote br,
+  .ed-photo-caption br,
+  .cn-h2 br,
+  .cn-body br,
+  .cn-baton-done-msg br,
+  .cn-contact-block-body br,
+  .cn-host-h2 br,
+  .cn-host-body br,
+  .cn-closing-text br,
+  .cn-bridge-text br,
+  .cn-bridge-sub br,
+  .cp-body br,
+  .cp-chapter-body br,
+  .cp-hero-sub br,
+  .about-hero-title br,
+  .about-hero-sub br,
+  .about-quote-text br,
+  .about-chapter-body br,
+  .about-owner-desc br {
+    display: none;
+  }
+
+  /* 日本語向けの禁則・改行最適化 */
+  .ed-hero-lead,
+  .ed-lead-text,
+  .ed-body-text,
+  .ed-feature-text,
+  .ed-voice-quote,
+  .ed-photo-caption,
+  .cn-h2,
+  .cn-body,
+  .cn-baton-done-msg,
+  .cn-contact-block-body,
+  .cn-host-h2,
+  .cn-host-body,
+  .cn-closing-text,
+  .cp-body,
+  .cp-chapter-body,
+  .cp-hero-sub,
+  .about-hero-title,
+  .about-hero-sub,
+  .about-quote-text,
+  .about-chapter-body,
+  .about-owner-desc {
+    line-break: strict;
+    word-break: auto-phrase;
+    text-wrap: pretty;
+  }
+}
