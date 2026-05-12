@@ -69,7 +69,7 @@
       "name": "ホーカーセンター",
       "emoji": "🍜",
       "category": "food",
-      "layer": "local",
+      "layer": "play",
       "description": "シンガポール名物の屋外フードコート。チキンライス・ラクサ・チャーコイティオなど本場の味が安く食べられる。",
       "status": "check",
       "statusLabel": "要確認",

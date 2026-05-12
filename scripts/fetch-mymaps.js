@@ -120,7 +120,7 @@ function parseKML(kmlText) {
         name,
         emoji,
         category,
-        layer: category === 'vital' ? 'vital' : (category === 'local' || category === 'food') ? 'local' : 'play',
+        layer: category === 'vital' ? 'vital' : category === 'local' ? 'local' : 'play',
         description: cleanDesc,
         lat: coords ? coords.lat : null,
         lng: coords ? coords.lng : null,

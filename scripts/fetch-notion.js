@@ -145,15 +145,17 @@ async function fetchSpots(notion) {
     const slug = slugify(country);
     if (!byCountry[slug]) byCountry[slug] = [];
 
-    const layer = selectName(page.properties['層']) || 'play';
     const category = selectName(page.properties['カテゴリ']) || 'play';
+    const categoryKey = categoryToKey(category);
+    // layer は category から自動導出（Notion の「層」フィールドは無視。fetch-mymaps.js と同じロジック）
+    const layerKey = deriveLayer(categoryKey);
 
     byCountry[slug].push({
       id: page.id,
       name: titleText(page.properties['スポット名']),
       emoji: richText(page.properties['絵文字']) || '📍',
-      category: categoryToKey(category),
-      layer: layerToKey(layer),
+      category: categoryKey,
+      layer: layerKey,
       description: richText(page.properties['説明']),
       status: 'check',           // Google Places で後から更新される
       statusLabel: '要確認',
@@ -177,16 +179,12 @@ function categoryToKey(label) {
   return map[label] ?? 'play';
 }
 
-function layerToKey(label) {
-  const map = {
-    'vital': 'vital',
-    '緊急': 'vital',
-    'local': 'local',
-    'ローカル': 'local',
-    'play': 'play',
-    '可変': 'play',
-  };
-  return map[label] ?? 'play';
+// category キー → layer キー（タブ表示用）
+// food/play → play タブ、local → local タブ、vital → vital タブ
+function deriveLayer(categoryKey) {
+  if (categoryKey === 'vital') return 'vital';
+  if (categoryKey === 'local') return 'local';
+  return 'play'; // food, play
 }
 
 // ──────────────────────────────────────────────────────────
