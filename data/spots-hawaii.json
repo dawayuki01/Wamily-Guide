@@ -183,8 +183,8 @@
       "category": "play",
       "layer": "play",
       "description": "アラモアナ地域公園：100エーカーの広い公園で、人工ビーチや波が穏やかなので、家族で安心して遊べます。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJ2XtQVPxtAHwRXWl1M0s9rQs",
@@ -401,5 +401,5 @@
       "lng": -157.8057
     }
   ],
-  "checkedAt": "2026-05-12T01:30:56.766Z"
+  "checkedAt": "2026-05-12T11:59:56.574Z"
 }

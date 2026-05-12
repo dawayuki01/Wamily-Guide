@@ -215,8 +215,8 @@
       "category": "play",
       "layer": "local",
       "description": "無料で動物と触れ合えるシティファーム。街中にあってアクセスしやすい。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJr3DIpskcdkgR26VjYGwNG-g",
@@ -247,8 +247,8 @@
       "category": "play",
       "layer": "local",
       "description": "無料で動物と触れ合えるシティファーム。子どもに人気。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJp8y37pgCdkgRBeRSa2iabyI",
@@ -631,8 +631,8 @@
       "category": "play",
       "layer": "play",
       "description": "室内遊び場（有料）が雨天時に重宝する。無料展示もあり。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": true,
       "checkedDate": "2026年5月",
       "placeId": "ChIJma2VQBEFdkgRfxsd5E7cC3c",
@@ -849,5 +849,5 @@
       "lng": -0.1302
     }
   ],
-  "checkedAt": "2026-05-12T01:30:56.761Z"
+  "checkedAt": "2026-05-12T11:59:24.365Z"
 }

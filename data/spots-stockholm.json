@@ -7,8 +7,8 @@
       "category": "play",
       "layer": "vital",
       "description": "マルメのランドマーク。歴史ある城を子どもと探検。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJxT59GACkU0YRCeuggoqAYOA",
@@ -103,8 +103,8 @@
       "category": "food",
       "layer": "local",
       "description": "カジュアルなレストラン。お手頃価格で家族向け。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": true,
       "checkedDate": "2026年5月",
       "placeId": "ChIJfZ3-KP53X0YR-uCyLw258PI",
@@ -481,5 +481,5 @@
       "lng": 18.1036
     }
   ],
-  "checkedAt": "2026-05-12T01:30:56.763Z"
+  "checkedAt": "2026-05-12T11:59:40.164Z"
 }

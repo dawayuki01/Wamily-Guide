@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "id": "35e088f5-0b07-8125-b594-dbab9a43f48f",
+      "name": "SINGAPORE☆Hiromi Travel",
+      "type": "YouTube",
+      "description": "33ヵ国100回以上の旅行経験者・ひろみさんが、シンガポール中心に発信するチャンネル。毎週土曜更新で、旅の発見が積もっていく。",
+      "url": "https://www.youtube.com/@hiromitravel",
+      "addedDate": "2026-05-12"
+    },
+    {
       "id": "35d088f5-0b07-8128-a585-f45cbe771e98",
       "name": "SingaLife",
       "type": "Media",
@@ -65,5 +73,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-12T01:30:57.416Z"
+  "updatedAt": "2026-05-12T11:59:03.286Z"
 }
