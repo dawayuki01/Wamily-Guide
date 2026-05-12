@@ -86,6 +86,13 @@ function validateSpots(errors, warnings, stats) {
       if (!spot.name || !spot.category || !spot.layer) {
         warnings.push(`spots-${slug}: 必須フィールド欠損 (${spot.name || 'unknown'})`);
       }
+      // category と layer の整合性チェック
+      // food/play → play タブ、local → local タブ、vital → vital タブ
+      const expectedLayer = spot.category === 'vital' ? 'vital'
+        : spot.category === 'local' ? 'local' : 'play';
+      if (spot.category && spot.layer && spot.layer !== expectedLayer) {
+        warnings.push(`⚠️ タブ不整合: ${SLUG_LABELS[slug]} - ${spot.name} (category=${spot.category} / layer=${spot.layer} / 期待値=${expectedLayer})`);
+      }
       if (spot.status === 'open') open++;
       else if (spot.status === 'closed') closed++;
       else check++;

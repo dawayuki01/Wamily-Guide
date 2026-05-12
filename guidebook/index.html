@@ -21,6 +21,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/pages.css">
   <link rel="stylesheet" href="../css/guidebook.css">
+  <link rel="stylesheet" href="../css/jp-wrap.css">
 </head>
 <body>
 
@@ -65,7 +66,7 @@
           <span class="gb2-accent">世界への地図</span>。
         </h1>
         <p class="gb2-hero-sub">
-          実際に子どもを連れて行った家族だけが知っている、<br>
+          実際に子どもを連れて行った家族だけが知っている、<br><br class="sp-only">
           体温のある情報を届けます。
         </p>
         <a href="#map" class="gb2-hero-cta" id="hero-cta">旅先を探す ↓</a>
@@ -436,12 +437,12 @@
           ガイドブック<span style="color:#2a9d8f">。</span>
         </h2>
         <p class="gb2-about-body">
-          親子での海外に特化した、一冊の本のようなガイドブック。<br>
-          私たち家族の旅が起点ではあるけれど、ここを訪れた親子旅行者の声や体験談が投稿されることで、どんどん育っていく場所にしたい。
+          親子での海外に特化した、<br class="sp-only">一冊の本のようなガイドブック。<br><br class="sp-only">
+          私たち家族の旅が起点ではあるけれど、<br class="sp-only">ここを訪れた親子旅行者の声や体験談が<br class="sp-only">投稿されることで、どんどん育っていく場所にしたい。
         </p>
         <p class="gb2-about-body" style="margin-top:16px">
-          声が集まるほど内容が充実して、それが誰かの背中を押す。<br>
-          そうして積み重なったものが、未来につながる資産になると信じています。
+          声が集まるほど内容が充実して、<br class="sp-only">それが誰かの背中を押す。<br><br class="sp-only">
+          そうして積み重なったものが、<br class="sp-only">未来につながる資産になると信じています。
         </p>
         <blockquote class="gb2-about-quote">
           <p>「育っていく過程そのものを見せる場所。行くたびに、本棚が増えていきます。」</p>
@@ -518,7 +519,7 @@
   <footer class="gb2-footer">
     <p class="gb2-footer-logo"><span>W</span>amily</p>
     <p>家族の数だけ、旅がある。</p>
-    <p style="margin-top:0.3rem">&copy; 2024 Wamily</p>
+    <p style="margin-top:0.3rem">&copy; 2026 Wamily</p>
   </footer>
 
   <!-- Overlay plane (for off-screen animation) -->
@@ -625,6 +626,14 @@
 
         pin.style.cursor = 'pointer';
 
+        // タップ判定を拡大する透明な大円を先頭に追加（指でも押せるように）
+        var hit = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+        hit.setAttribute('cx', cx);
+        hit.setAttribute('cy', cy);
+        hit.setAttribute('r', 28); // 16px の元の円より大きめ
+        hit.setAttribute('class', 'mp-hit');
+        pin.insertBefore(hit, pin.firstChild);
+
         pin.addEventListener('mouseenter', function () {
           if (!tt || !ttN) return;
           ttN.textContent = label;
@@ -647,15 +656,20 @@
     }
 
     // ---- Country cards ----
-    document.querySelectorAll('.gb2-ccard').forEach(function (card) {
-      card.addEventListener('click', function (e) {
-        e.preventDefault();
-        var cx   = +this.dataset.cx;
-        var cy   = +this.dataset.cy;
-        var href = this.getAttribute('href');
-        navigate(cx, cy, href);
+    // スマホでは <a> のデフォルト遷移に任せて即遷移（飛行機アニメ無し）。
+    // PC（hover が効く環境）では従来の演出を維持。
+    var isTouch = window.matchMedia('(hover: none), (max-width: 900px)').matches;
+    if (!isTouch) {
+      document.querySelectorAll('.gb2-ccard').forEach(function (card) {
+        card.addEventListener('click', function (e) {
+          e.preventDefault();
+          var cx   = +this.dataset.cx;
+          var cy   = +this.dataset.cy;
+          var href = this.getAttribute('href');
+          navigate(cx, cy, href);
+        });
       });
-    });
+    }
 
     // ---- Hero CTA smooth scroll ----
     var heroCta = document.getElementById('hero-cta');
@@ -709,5 +723,6 @@
   })();
   </script>
 
+  <script src="../js/jp-wrap.js" defer></script>
 </body>
 </html>
