@@ -653,6 +653,7 @@
     try {
       const data = await fetchJSON('data/owner-stories.json');
       const all = data.items || [];
+      // country = '<slug>' または 'common' のみ表示。'top' はガイドブックトップ専用。
       const filtered = all.filter(it => it.country === slug || it.country === 'common');
       if (!filtered.length) return; // 空ならブロック非表示のまま
 
