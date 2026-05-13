@@ -1,4 +1,23 @@
 {
-  "items": [],
-  "updatedAt": null
+  "items": [
+    {
+      "id": "35f088f5-0b07-81fd-98dc-e07cf6eb10ac",
+      "name": "迷うなら行こう。家族海外旅行インタビュー #1：Hami家族",
+      "type": "体験談",
+      "description": "デザイナー夫婦と5歳の娘がヨーロッパ4カ国を巡った体験記。子連れ海外旅行に不安を感じる家族に届けたい、リアルな声。",
+      "url": "https://note.com/tomosawa/n/nbf6fad2f3add",
+      "addedDate": "2024-11-01",
+      "country": "common"
+    },
+    {
+      "id": "35f088f5-0b07-814d-868c-dca3c7f2da7a",
+      "name": "Wamilyをはじめた理由 — 海外渡航する家族と、現地在住の家族をつなぐ",
+      "type": "体験談",
+      "description": "Wamilyを立ち上げた背景。妻の海外活躍を支える中で実感した、現地の日本人家族との繋がりの大切さ。",
+      "url": "https://note.com/tomosawa/n/n54e221b21c04",
+      "addedDate": "2024-06-05",
+      "country": "common"
+    }
+  ],
+  "updatedAt": "2026-05-13T12:00:00Z"
 }
