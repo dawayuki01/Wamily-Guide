@@ -21,6 +21,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/pages.css">
   <link rel="stylesheet" href="../css/guidebook.css">
+  <link rel="stylesheet" href="../css/owner-stories.css">
   <link rel="stylesheet" href="../css/jp-wrap.css">
 </head>
 <body>
@@ -515,6 +516,23 @@
     </div>
   </section>
 
+  <!-- ===================================================
+       SECTION 5: LATEST OWNER STORIES (note magazine)
+  =================================================== -->
+  <section class="gb2-stories" id="latest-stories-block" hidden>
+    <div class="gb2-stories-header gb2-anim">
+      <span class="gb2-en">FROM THE OWNER</span>
+      <h2>📓 最近の旅日記</h2>
+      <p class="gb2-section-sub">サワディが noteで書いた、海外旅行のお裾分け</p>
+    </div>
+    <div class="gb2-stories-grid" id="latest-stories-list"></div>
+    <p class="gb2-stories-more">
+      <a href="https://note.com/tomosawa/m/m963339851435" target="_blank" rel="noopener noreferrer">
+        📚 もっと読む → Wamilyマガジン (note)
+      </a>
+    </p>
+  </section>
+
   <!-- ===== Footer ===== -->
   <footer class="gb2-footer">
     <p class="gb2-footer-logo"><span>W</span>amily</p>
@@ -723,6 +741,8 @@
   })();
   </script>
 
+  <script>window.WAMILY_BASE = '../';</script>
+  <script src="../js/data-loader.js" defer></script>
   <script src="../js/jp-wrap.js" defer></script>
 </body>
 </html>

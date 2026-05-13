@@ -215,26 +215,43 @@ async function fetchCuration(notion) {
     cursor = response.has_more ? response.next_cursor : undefined;
   } while (cursor);
 
-  // 国名ごとにグループ化
+  // タイプ「体験談」は別ファイル（owner-stories.json）に分離する。
+  // 「11カ国共通」は体験談専用の国名なので、country='common' として扱う。
   const byCountry = {};
+  const ownerStories = [];
+
   for (const page of allResults) {
     const country = selectName(page.properties['国名']);
     if (!country) continue;
+    const type = selectName(page.properties['タイプ']);
 
-    const slug = slugify(country);
-    if (!byCountry[slug]) byCountry[slug] = [];
-
-    byCountry[slug].push({
+    const item = {
       id: page.id,
       name: titleText(page.properties['名前']),
-      type: selectName(page.properties['タイプ']),   // YouTube / Instagram / Blog / Book / Media
+      type,
       description: richText(page.properties['説明']),
       url: urlProp(page.properties['URL']),
       addedDate: dateStr(page.properties['追加日']),
-    });
+    };
+
+    if (type === '体験談') {
+      // オーナーの体験談 → 別ファイルへ
+      item.country = (country === '11カ国共通') ? 'common' : slugify(country);
+      ownerStories.push(item);
+    } else {
+      // 通常のキュレーション
+      if (country === '11カ国共通') {
+        // 体験談以外で「11カ国共通」が指定された場合は無視（運用ミス保護）
+        console.warn(`⚠  キュレーション「${item.name}」は type=${type} なのに 国名=11カ国共通 → スキップ`);
+        continue;
+      }
+      const slug = slugify(country);
+      if (!byCountry[slug]) byCountry[slug] = [];
+      byCountry[slug].push(item);
+    }
   }
 
-  return byCountry;
+  return { byCountry, ownerStories };
 }
 
 // ──────────────────────────────────────────────────────────
@@ -338,12 +355,13 @@ async function main() {
     console.error('  ❌ スポット取得エラー:', err.message);
   }
 
-  // ── キュレーション ──
+  // ── キュレーション + オーナー体験談 ──
   console.log('\n🎬 キュレーションDBを取得中...');
   try {
     const curationData = await fetchCuration(notion);
     if (curationData) {
-      for (const [slug, items] of Object.entries(curationData)) {
+      // 通常キュレーション → 国別ファイル
+      for (const [slug, items] of Object.entries(curationData.byCountry)) {
         const outPath = path.join(DATA_DIR, `curation-${slug}.json`);
         const output = {
           items,
@@ -352,6 +370,14 @@ async function main() {
         fs.writeFileSync(outPath, JSON.stringify(output, null, 2), 'utf-8');
         console.log(`  ✅ curation-${slug}.json 更新（${items.length} 件）`);
       }
+      // オーナー体験談 → 1ファイルに集約（country フィールドで識別）
+      const ownerStoriesPath = path.join(DATA_DIR, 'owner-stories.json');
+      const ownerStoriesOut = {
+        items: curationData.ownerStories,
+        updatedAt: new Date().toISOString(),
+      };
+      fs.writeFileSync(ownerStoriesPath, JSON.stringify(ownerStoriesOut, null, 2), 'utf-8');
+      console.log(`  ✅ owner-stories.json 更新（${curationData.ownerStories.length} 件）`);
     }
   } catch (err) {
     console.error('  ❌ キュレーション取得エラー:', err.message);

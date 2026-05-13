@@ -620,6 +620,97 @@
   }
 
   // ──────────────────────────────────────────────────────────
+  // オーナーの体験談（noteマガジン）
+  // ──────────────────────────────────────────────────────────
+
+  function renderOwnerStoryCard(item) {
+    const date = item.addedDate ? formatDate(item.addedDate) : '';
+    const desc = item.description || '';
+    const isCommon = item.country === 'common';
+    return `
+      <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="story-note-card">
+        <div class="snc-meta">
+          <span class="snc-icon">✍️</span>
+          ${date ? `<span class="snc-date">${date}</span>` : ''}
+          ${isCommon ? `<span class="snc-tag">海外旅行</span>` : ''}
+          <span class="snc-source">note</span>
+        </div>
+        <h4 class="snc-title">${item.name}</h4>
+        ${desc ? `<p class="snc-desc">${desc}</p>` : ''}
+        <span class="snc-arrow">読む →</span>
+      </a>`;
+  }
+
+  // 各国ページ: その国 + 共通の記事を表示
+  async function loadOwnerStories() {
+    const block = document.getElementById('owner-stories-block');
+    const list  = document.getElementById('owner-stories-list');
+    if (!block || !list) return;
+
+    const slug = document.body.dataset.country;
+    if (!slug) return;
+
+    try {
+      const data = await fetchJSON('data/owner-stories.json');
+      const all = data.items || [];
+      const filtered = all.filter(it => it.country === slug || it.country === 'common');
+      if (!filtered.length) return; // 空ならブロック非表示のまま
+
+      const PAGE = 5;
+      let page = 0;
+
+      function render() {
+        const start = page * PAGE;
+        const end   = start + PAGE;
+        const slice = filtered.slice(start, end);
+        const total = filtered.length;
+        const hasMore = end < total;
+        const hasPrev = page > 0;
+
+        let html = slice.map(renderOwnerStoryCard).join('');
+        if (hasMore || hasPrev) {
+          html += `<div class="curation-pager">`;
+          if (hasPrev) html += `<button class="curation-pager-btn" data-dir="-1">← 前の${PAGE}件</button>`;
+          html += `<span class="curation-pager-count">${start + 1}–${Math.min(end, total)} / ${total}件</span>`;
+          if (hasMore)  html += `<button class="curation-pager-btn" data-dir="1">次の${PAGE}件 →</button>`;
+          html += `</div>`;
+        }
+        list.innerHTML = html;
+        list.querySelectorAll('.curation-pager-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            page += parseInt(btn.dataset.dir);
+            render();
+            list.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+        });
+      }
+      render();
+      block.hidden = false;
+    } catch (e) {
+      // 失敗時は静かに非表示のまま
+    }
+  }
+
+  // ガイドブックトップ: 最新 N 件を全国横断で表示
+  async function loadLatestOwnerStories(limit = 3) {
+    const block = document.getElementById('latest-stories-block');
+    const list  = document.getElementById('latest-stories-list');
+    if (!block || !list) return;
+
+    try {
+      const data = await fetchJSON('data/owner-stories.json');
+      const all = data.items || [];
+      const top = all.slice(0, limit);
+      if (!top.length) return;
+
+      list.innerHTML = top.map(renderOwnerStoryCard).join('');
+      block.hidden = false;
+    } catch (e) {
+      // 失敗時は静かに非表示
+    }
+  }
+
+  // ──────────────────────────────────────────────────────────
   // 初期化
   // ──────────────────────────────────────────────────────────
 
@@ -629,6 +720,8 @@
     loadSpots();
     loadEvents();
     loadCuration();
+    loadOwnerStories();
+    loadLatestOwnerStories();
     loadHostSection().catch(e => console.warn('ホストセクション読み込みエラー:', e));
     loadCountryCarousel();
   });
