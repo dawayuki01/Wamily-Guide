@@ -236,13 +236,18 @@ async function fetchCuration(notion) {
 
     if (type === '体験談') {
       // オーナーの体験談 → 別ファイルへ
-      item.country = (country === '11カ国共通') ? 'common' : slugify(country);
+      // 国名 → country の対応:
+      //   「11カ国共通」    → 'common' （全国ページ + ガイドブックトップに表示）
+      //   「トップのみ」    → 'top'    （ガイドブックトップのみに表示）
+      //   それ以外（国名）  → slug     （該当国ページ + ガイドブックトップ）
+      if (country === '11カ国共通')      item.country = 'common';
+      else if (country === 'トップのみ') item.country = 'top';
+      else                               item.country = slugify(country);
       ownerStories.push(item);
     } else {
       // 通常のキュレーション
-      if (country === '11カ国共通') {
-        // 体験談以外で「11カ国共通」が指定された場合は無視（運用ミス保護）
-        console.warn(`⚠  キュレーション「${item.name}」は type=${type} なのに 国名=11カ国共通 → スキップ`);
+      if (country === '11カ国共通' || country === 'トップのみ') {
+        console.warn(`⚠  キュレーション「${item.name}」は type=${type} なのに 国名=${country} → スキップ`);
         continue;
       }
       const slug = slugify(country);
