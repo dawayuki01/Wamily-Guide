@@ -101,21 +101,41 @@ docs/archive/ の古い版は無視してください。
 ### Google My Maps
 | 項目 | 値 |
 |---|---|
-| マップ名（1つ目） | Wamily Spots（10カ国：ロンドン〜ソウル） |
+| マップ名（legacy 1つ目） | Wamily Spots（複数国まとめ／フォルダで国分け） |
 | Map ID | 1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM |
-| マップ名（2つ目） | Wamily Spots 2（11カ国目以降：香港〜） |
+| マップ名（legacy 2つ目） | Wamily Spots 2（11カ国目以降の予備） |
 | Map ID | GitHub Secret `GOOGLE_MYMAPS_IDS` で管理 |
+| マップ名（per-country） | Wamily Spots ロンドン / Wamily Spots 香港 等、国ごとに独立したマップ |
+| Map ID | 各 Map の ID を `GOOGLE_MYMAPS_IDS` の JSON で slug に紐付け |
 
-複数マップ対応：Google My Maps は1地図あたり10レイヤー上限のため、11カ国目（香港）から `Wamily Spots 2` を新設。`fetch-mymaps.js` は `GOOGLE_MYMAPS_IDS`（カンマ区切り）を読んで複数マップを順次処理する。
+**マップ ID 設定形式（GOOGLE_MYMAPS_IDS）**：
 
-フォルダ構成：国ごとに1フォルダ。新しいフォルダを追加する場合は fetch-mymaps.js の `FOLDER_TO_SLUG` に追加する。
+旧（カンマ区切り）：
+```
+1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM,xxxxx
+```
+
+新（JSON、per-country 対応／推奨）：
+```json
+{
+  "_legacy": ["1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM"],
+  "london": "新ロンドンマップID",
+  "hongkong": "新香港マップID"
+}
+```
+
+`_legacy` のマップは従来通りフォルダ名で国を判定。
+per-country の slug にマップを紐付けると、そのマップ内のピンは全て指定 slug の国として保存され、legacy 側の同 slug フォルダはスキップされる（重複防止）。
+全11カ国を per-country に移行したら `_legacy` を空にして、レガシーマップは参照されなくなる。
+
+フォルダ構成：legacy マップは「国ごとに1フォルダ」。per-country マップはフォルダ自由（カテゴリ単位で分けても OK）。新フォルダ名を legacy で使う場合は fetch-mymaps.js の `FOLDER_TO_SLUG` に追加する。
 
 ### GitHub Secrets
 | シークレット名 | 用途 |
 |---|---|
 | ANTHROPIC_API_KEY | Claude API（コンテンツ生成） |
 | GOOGLE_PLACES_API_KEY | Google Places API（営業チェック） |
-| GOOGLE_MYMAPS_IDS | Google My Maps の Map ID（カンマ区切りで複数指定可） |
+| GOOGLE_MYMAPS_IDS | Google My Maps の Map ID（JSON 形式で per-country 対応 / カンマ区切りも互換）|
 | NOTION_API_KEY | Notion API（DB読み書き） |
 | NOTION_CURATION_DB_ID | キュレーションDB ID |
 | NOTION_LIVEFEED_DB_ID | 最近の動きDB ID |

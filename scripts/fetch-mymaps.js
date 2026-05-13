@@ -19,16 +19,45 @@ const { notifySlack } = require('./lib/slack-notify');
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const DEFAULT_MAP_IDS = ['1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM'];
 
-// 複数マップ対応:
-//   - GOOGLE_MYMAPS_IDS（推奨）: カンマ区切りで複数指定可
-//   - GOOGLE_MYMAPS_ID（後方互換）: 単数指定
-//   - どちらも未指定なら DEFAULT_MAP_IDS を使用
-// レイヤー上限（10/地図）対策で、Wamily Spots 2 等を追加可能
-const MAP_IDS = (
-  process.env.GOOGLE_MYMAPS_IDS ||
-  process.env.GOOGLE_MYMAPS_ID ||
-  DEFAULT_MAP_IDS.join(',')
-).split(',').map(s => s.trim()).filter(Boolean);
+// マップ設定を解釈:
+//   1. JSON object 形式（推奨／per-country対応）:
+//      '{"_legacy":["旧Map1","旧Map2"],"london":"新Map","hongkong":"新Map2"}'
+//      - per-country: そのマップのピンは指定 slug の国として扱う（フォルダ名関係なし）
+//      - _legacy: 従来通りフォルダ名 → 国 の自動判定
+//      - per-country で指定された slug は legacy マップ側でスキップされる（重複防止）
+//
+//   2. カンマ区切り形式（後方互換／全マップ legacy 扱い）:
+//      "Map1,Map2,Map3"
+//
+//   3. 未設定: DEFAULT_MAP_IDS を legacy として使用
+function parseMapIdsConfig(raw) {
+  const fallback = { legacy: DEFAULT_MAP_IDS.slice(), perCountry: {} };
+  if (!raw) return fallback;
+  const trimmed = String(raw).trim();
+  if (trimmed.startsWith('{')) {
+    try {
+      const obj = JSON.parse(trimmed);
+      const legacy = Array.isArray(obj._legacy) ? obj._legacy
+                   : (typeof obj._legacy === 'string' ? [obj._legacy] : []);
+      const perCountry = {};
+      for (const [k, v] of Object.entries(obj)) {
+        if (k === '_legacy') continue;
+        if (typeof v === 'string' && v) perCountry[k] = v;
+      }
+      return { legacy, perCountry };
+    } catch (e) {
+      console.warn('⚠  GOOGLE_MYMAPS_IDS の JSON パース失敗。カンマ区切りとしてフォールバック:', e.message);
+    }
+  }
+  return {
+    legacy: trimmed.split(',').map(s => s.trim()).filter(Boolean),
+    perCountry: {}
+  };
+}
+
+const MAP_CONFIG = parseMapIdsConfig(
+  process.env.GOOGLE_MYMAPS_IDS || process.env.GOOGLE_MYMAPS_ID
+);
 
 // フォルダ名（国名） → ファイルスラグ
 const FOLDER_TO_SLUG = {
@@ -208,48 +237,89 @@ async function geocodePlacemark(placemark) {
 // メイン
 // ──────────────────────────────────────────────────────────
 
-async function main() {
-  console.log(`📥 Google My Maps から ${MAP_IDS.length} 個の地図を取得中...`);
+async function fetchMapKML(mapId, label) {
+  const kmlUrl = `https://www.google.com/maps/d/kml?mid=${mapId}&forcekml=1`;
+  const shortId = mapId.slice(0, 8);
+  console.log(`\n${label} ${shortId}...`);
+  const res = await fetch(kmlUrl);
+  if (!res.ok) {
+    console.error(`   ❌ KML取得失敗: ${res.status} ${res.statusText}`);
+    console.error('      共有設定を「リンクを知っている人なら誰でも表示できる」に確認してください');
+    return null;
+  }
+  return res.text();
+}
 
-  // すべての地図のフォルダを集める
-  const folders = [];
+async function main() {
+  const legacyCount = MAP_CONFIG.legacy.length;
+  const perCountryCount = Object.keys(MAP_CONFIG.perCountry).length;
+  const totalMaps = legacyCount + perCountryCount;
+  console.log(`📥 Google My Maps から ${totalMaps} 個の地図を取得中（legacy: ${legacyCount} / per-country: ${perCountryCount}）...`);
+
+  // 国別マップ（slug → mapId）優先で先に集める
+  const taggedFolders = []; // [{slug, folder}]
+  const legacyFolders = []; // [folder]
   let fetchErrors = 0;
 
-  for (let i = 0; i < MAP_IDS.length; i++) {
-    const mapId = MAP_IDS[i];
-    const kmlUrl = `https://www.google.com/maps/d/kml?mid=${mapId}&forcekml=1`;
-    console.log(`\n[${i + 1}/${MAP_IDS.length}] ${mapId.slice(0, 8)}...`);
-
-    const res = await fetch(kmlUrl);
-    if (!res.ok) {
-      console.error(`   ❌ KML取得失敗: ${res.status} ${res.statusText}`);
-      console.error('      共有設定を「リンクを知っている人なら誰でも表示できる」に確認してください');
-      fetchErrors++;
-      continue;  // 1つの地図が失敗しても他を処理
+  // ── per-country マップを処理 ──
+  let i = 0;
+  for (const [slug, mapId] of Object.entries(MAP_CONFIG.perCountry)) {
+    i++;
+    const kmlText = await fetchMapKML(mapId, `[per-country ${i}/${perCountryCount} → ${slug}]`);
+    if (!kmlText) { fetchErrors++; continue; }
+    const mapFolders = parseKML(kmlText);
+    console.log(`   → ${mapFolders.length} フォルダ検出（全て slug=${slug} として扱う）`);
+    for (const folder of mapFolders) {
+      taggedFolders.push({ slug, folder });
     }
+  }
 
-    const kmlText = await res.text();
+  // ── legacy マップを処理 ──
+  for (let j = 0; j < MAP_CONFIG.legacy.length; j++) {
+    const mapId = MAP_CONFIG.legacy[j];
+    const kmlText = await fetchMapKML(mapId, `[legacy ${j + 1}/${legacyCount}]`);
+    if (!kmlText) { fetchErrors++; continue; }
     const mapFolders = parseKML(kmlText);
     console.log(`   → ${mapFolders.length} フォルダ検出`);
-    folders.push(...mapFolders);
+    legacyFolders.push(...mapFolders);
   }
 
   // すべての地図が失敗した場合だけ中止
-  if (folders.length === 0 && fetchErrors === MAP_IDS.length) {
+  if (taggedFolders.length === 0 && legacyFolders.length === 0 && fetchErrors === totalMaps) {
     console.error('\n❌ すべての地図でKML取得に失敗しました');
     process.exit(1);
   }
 
-  console.log(`\n📊 合計 ${folders.length} フォルダ（国）を検出\n`);
+  console.log(`\n📊 per-country: ${taggedFolders.length} フォルダ / legacy: ${legacyFolders.length} フォルダ\n`);
 
-  let totalNew = 0;
+  // 統合: {slug, placemarks} のリストに正規化
+  const folders = [];
 
-  for (const folder of folders) {
+  // per-country: slug は env で確定
+  for (const { slug, folder } of taggedFolders) {
+    folders.push({ name: folder.name, slug, placemarks: folder.placemarks });
+  }
+
+  // legacy: フォルダ名から slug を判定。per-country で管理済みの slug は重複防止のためスキップ
+  const migratedSlugs = new Set(Object.keys(MAP_CONFIG.perCountry));
+  for (const folder of legacyFolders) {
     const slug = FOLDER_TO_SLUG[folder.name];
     if (!slug) {
       console.log(`⚠️  「${folder.name}」は未知のフォルダ名です（スキップ）`);
       continue;
     }
+    if (migratedSlugs.has(slug)) {
+      console.log(`↩️  「${folder.name}」は per-country マップで管理済み → legacy 側はスキップ`);
+      continue;
+    }
+    folders.push({ name: folder.name, slug, placemarks: folder.placemarks });
+  }
+
+  let totalNew = 0;
+
+  for (const folder of folders) {
+    const slug = folder.slug;
+    if (!slug) continue;
 
     const spotsFile = path.join(DATA_DIR, `spots-${slug}.json`);
 
