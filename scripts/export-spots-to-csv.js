@@ -8,11 +8,13 @@
  * 出力: kml-export/spots-{slug}.csv（11 ファイル）
  *
  * CSV 列:
- *   名前    : 絵文字付きスポット名（My Maps のピン名になる）
- *   緯度    : lat（あれば）
- *   経度    : lng（あれば）
- *   住所    : lat/lng がない場合のフォールバック（My Maps が geocode する）
- *   説明    : 説明文 + 「カテゴリ: XXX」（fetch-mymaps の round-trip 対応）
+ *   名前      : 絵文字付きスポット名（My Maps のピン名になる）
+ *   緯度      : lat（あれば）
+ *   経度      : lng（あれば）
+ *   住所      : lat/lng がない場合のフォールバック（My Maps が geocode する）
+ *   カテゴリ   : 親子で食べる / 遊びに行く / 現地の日常へ / いざという時
+ *               （My Maps の「データ列でスタイル設定」で色分けに使える）
+ *   説明      : 説明文 + 「カテゴリ: XXX」（fetch-mymaps の round-trip 対応）
  *
  * 使い方:
  *   node scripts/export-spots-to-csv.js
@@ -79,7 +81,7 @@ for (const slug of COUNTRIES) {
     continue;
   }
 
-  const lines = ['名前,緯度,経度,住所,説明'];
+  const lines = ['名前,緯度,経度,住所,カテゴリ,説明'];
   let withCoords = 0;
   let geocodeNeeded = 0;
 
@@ -102,6 +104,7 @@ for (const slug of COUNTRIES) {
       escapeCsv(lat),
       escapeCsv(lng),
       escapeCsv(addr),
+      escapeCsv(cat),
       escapeCsv(desc),
     ].join(','));
   }
