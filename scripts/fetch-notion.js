@@ -138,9 +138,17 @@ async function fetchSpots(notion) {
 
   // 国名ごとにグループ化
   const byCountry = {};
+  let skippedCandidate = 0, skippedHidden = 0;
   for (const page of allResults) {
     const country = selectName(page.properties['国名']);
     if (!country) continue;
+
+    // ステータスフィルタ:
+    //   '候補' / '非公開' → 除外
+    //   '公開' / null（未設定） → 公開扱い（後方互換）
+    const status = selectName(page.properties['ステータス']);
+    if (status === '候補') { skippedCandidate++; continue; }
+    if (status === '非公開') { skippedHidden++; continue; }
 
     const slug = slugify(country);
     if (!byCountry[slug]) byCountry[slug] = [];
@@ -164,6 +172,10 @@ async function fetchSpots(notion) {
       placeId: richText(page.properties['Google Place ID']) || null,
       extra: false,
     });
+  }
+
+  if (skippedCandidate || skippedHidden) {
+    console.log(`  ℹ️  スポット フィルタ: 候補=${skippedCandidate} 件 / 非公開=${skippedHidden} 件 をスキップ`);
   }
 
   return byCountry;
@@ -324,17 +336,38 @@ async function main() {
       for (const [slug, spots] of Object.entries(spotsData)) {
         const outPath = path.join(DATA_DIR, `spots-${slug}.json`);
 
-        // 既存ファイルがある場合は placeId と status を引き継ぐ
-        let existing = {};
+        // 既存ファイルがある場合は placeId / status / lat / lng などを引き継ぐ
+        // ID マッチ → 名前マッチ の順でフォールバック
+        // （Notion 側で新規作成されたエントリーは ID が変わるため、名前マッチが必須）
+        let existingById = {};
+        let existingByName = {};
+        function normalizeName(n) {
+          return String(n || '')
+            // 絵文字・variation selector・ZWJ・keycap を除去
+            .replace(/[‍︀-️⃣]/g, '')
+            .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, '')
+            // 全角括弧 → 半角に統一
+            .replace(/[（]/g, '(').replace(/[）]/g, ')')
+            .replace(/[「『【]/g, '[').replace(/[」』】]/g, ']')
+            // 中点・スペース統一
+            .replace(/[・·]/g, '・')
+            .replace(/\s+/g, ' ')
+            .trim()
+            .toLowerCase();
+        }
         if (fs.existsSync(outPath)) {
           try {
             const prev = JSON.parse(fs.readFileSync(outPath, 'utf-8'));
-            existing = Object.fromEntries((prev.spots || []).map(s => [s.id, s]));
+            for (const s of (prev.spots || [])) {
+              existingById[s.id] = s;
+              const key = normalizeName(s.name);
+              if (key && !existingByName[key]) existingByName[key] = s;
+            }
           } catch {}
         }
 
         const mergedSpots = spots.map(spot => {
-          const prev = existing[spot.id];
+          const prev = existingById[spot.id] || existingByName[normalizeName(spot.name)];
           return {
             ...spot,
             status: prev?.status ?? spot.status,

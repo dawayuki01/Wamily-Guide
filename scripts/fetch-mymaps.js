@@ -1,20 +1,54 @@
 #!/usr/bin/env node
 /**
  * fetch-mymaps.js
- * Google My Maps から KML を取得し、新規スポットを data/spots-*.json に追加する。
+ * Google My Maps から KML を取得し、新規スポットを Notion スポットDB に
+ * 「候補」ステータスで投稿する（人間レビュー待ち）。
  *
- * - 既存スポット（名前一致）はスキップ（上書きしない）
- * - 新規スポットのみ追加
- * - My Maps のフォルダ名で国を判定
+ * フロー:
+ *   1. 旅先で Google My Maps にピン追加
+ *   2. このスクリプトが KML から新規ピンを検出
+ *   3. Notion スポットDB に「候補🟡」で登録
+ *   4. サワディーが Notion でレビュー → ステータス「公開🟢」に
+ *   5. 翌朝の sync.yml で fetch-notion.js が JSON 書き出し → サイト反映
  *
  * 必要な環境変数：
- *   GOOGLE_MYMAPS_ID — My Maps の ID（mid=XXX の部分）
- *     省略時はデフォルト値を使用
+ *   NOTION_API_KEY        — Notion インテグレーションキー（Notion 投稿に必須）
+ *   NOTION_SPOTS_DB_ID    — スポットDB の ID
+ *   GOOGLE_MYMAPS_IDS     — My Maps の ID 設定（JSON または カンマ区切り）
+ *   GOOGLE_PLACES_API_KEY — 座標未設定ピンのジオコーディング用（任意）
+ *
+ * 後方互換:
+ *   NOTION_API_KEY か NOTION_SPOTS_DB_ID が未設定なら、従来通り
+ *   data/spots-*.json に直接書き込む（旧モード）
  */
 
 const fs = require('fs');
 const path = require('path');
+const { Client } = require('@notionhq/client');
 const { notifySlack } = require('./lib/slack-notify');
+
+// slug → Notion 国名（fetch-notion.js の COUNTRY_SLUG と対称）
+const SLUG_TO_NOTION_COUNTRY = {
+  'london':    'ロンドン',
+  'paris':     'パリ',
+  'stockholm': 'ストックホルム',
+  'singapore': 'シンガポール',
+  'bangkok':   'バンコク',
+  'manila':    'マニラ',
+  'la':        'LA',
+  'hawaii':    'ハワイ',
+  'seoul':     'ソウル',
+  'taipei':    '台湾',
+  'hongkong':  '香港',
+};
+
+// MyMaps カテゴリキー → Notion カテゴリ select 値
+const CATEGORY_TO_NOTION = {
+  'food':  '親子で食べる',
+  'play':  '遊びに行く',
+  'local': '現地の日常へ',
+  'vital': 'いざという時',
+};
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const DEFAULT_MAP_IDS = ['1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM'];
@@ -315,6 +349,80 @@ async function main() {
     folders.push({ name: folder.name, slug, placemarks: folder.placemarks });
   }
 
+  // ── Notion 接続（あれば候補登録モード、なければ JSON 直書きモード） ──
+  const notionApiKey = process.env.NOTION_API_KEY;
+  const notionSpotsDbId = process.env.NOTION_SPOTS_DB_ID;
+  const notionMode = !!(notionApiKey && notionSpotsDbId);
+  const notion = notionMode ? new Client({ auth: notionApiKey }) : null;
+
+  // Notion DB から既存スポット名を集めておく（重複登録防止）
+  let notionExistingNames = null;
+  if (notionMode) {
+    console.log('\n📥 Notion スポットDB から既存スポット名を取得...');
+    const allResults = [];
+    let cursor;
+    do {
+      const r = await notion.databases.query({
+        database_id: notionSpotsDbId,
+        page_size: 100,
+        start_cursor: cursor,
+      });
+      allResults.push(...r.results);
+      cursor = r.has_more ? r.next_cursor : undefined;
+    } while (cursor);
+
+    notionExistingNames = {};
+    function normalizeForNotion(n) {
+      return String(n || '')
+        .replace(/[‍︀-️⃣☀-➿]/g, '')
+        .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, '')
+        .replace(/[（]/g, '(').replace(/[）]/g, ')')
+        .replace(/\s+/g, ' ')
+        .trim()
+        .toLowerCase();
+    }
+    for (const page of allResults) {
+      const country = page.properties['国名']?.select?.name;
+      if (!country) continue;
+      const slug = COUNTRY_NAME_TO_SLUG[country];
+      if (!slug) continue;
+      const name = page.properties['スポット名']?.title?.[0]?.plain_text || '';
+      if (!name) continue;
+      if (!notionExistingNames[slug]) notionExistingNames[slug] = new Set();
+      notionExistingNames[slug].add(normalizeForNotion(name));
+    }
+    console.log(`   既存: ${allResults.length} 件 (${Object.keys(notionExistingNames).length} カ国)`);
+  }
+
+  // Notion DB に「候補」として登録するヘルパー
+  async function postCandidateToNotion(slug, pm) {
+    const country = SLUG_TO_NOTION_COUNTRY[slug];
+    if (!country) {
+      console.warn(`   ⚠️  slug=${slug} は Notion 国名にマップされていません`);
+      return false;
+    }
+    const category = CATEGORY_TO_NOTION[pm.category] || '遊びに行く';
+    try {
+      await notion.pages.create({
+        parent: { database_id: notionSpotsDbId },
+        properties: {
+          'スポット名': { title: [{ text: { content: pm.name } }] },
+          '絵文字': { rich_text: [{ text: { content: pm.emoji || '📍' } }] },
+          '説明': { rich_text: [{ text: { content: pm.description || '' } }] },
+          '国名': { select: { name: country } },
+          'カテゴリ': { select: { name: category } },
+          'Google Place ID': { rich_text: [{ text: { content: pm.placeId || '' } }] },
+          '料金': { checkbox: !!pm.free },
+          'ステータス': { select: { name: '候補' } },
+        },
+      });
+      return true;
+    } catch (err) {
+      console.error(`   ❌ Notion 投稿失敗: ${pm.name} — ${err.message}`);
+      return false;
+    }
+  }
+
   let totalNew = 0;
 
   for (const folder of folders) {
@@ -323,7 +431,7 @@ async function main() {
 
     const spotsFile = path.join(DATA_DIR, `spots-${slug}.json`);
 
-    // 既存データを読み込み
+    // 既存データを読み込み（旧モード or 重複チェック用）
     let existingData = { spots: [], checkedAt: null };
     if (fs.existsSync(spotsFile)) {
       existingData = JSON.parse(fs.readFileSync(spotsFile, 'utf-8'));
@@ -334,10 +442,15 @@ async function main() {
       return n
         .replace(/[\u200D\uFE00-\uFE0F\u20E3\u2600-\u27BF]/g, '')
         .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, '')
+        .replace(/[\uFF08]/g, '(').replace(/[\uFF09]/g, ')')
         .replace(/\s+/g, ' ')
-        .trim();
+        .trim()
+        .toLowerCase();
     }
-    const existingNamesNorm = new Set(existingData.spots.map(s => normalizeName(s.name)));
+    // 重複チェック対象: Notion モードなら Notion 既存名、旧モードなら JSON 既存名
+    const existingNamesNorm = notionMode
+      ? (notionExistingNames[slug] || new Set())
+      : new Set(existingData.spots.map(s => normalizeName(s.name)));
     let newCount = 0;
 
     for (const pm of folder.placemarks) {
@@ -363,40 +476,57 @@ async function main() {
       // 一時用の address フィールドは保存しない
       const { address: _addr, ...spotData } = pm;
 
-      // 新規スポットを追加
-      existingData.spots.push({
-        id: 'mymaps-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8),
-        ...spotData,
-      });
-      newCount++;
-      console.log(`  ✨ [${slug}] 新規追加: ${pm.emoji} ${pm.name}`);
+      if (notionMode) {
+        // Notion モード: 候補として Notion DB に投稿
+        const ok = await postCandidateToNotion(slug, spotData);
+        if (ok) {
+          newCount++;
+          console.log(`  📨 [${slug}] Notion候補登録: ${pm.emoji} ${pm.name}`);
+        }
+      } else {
+        // 旧モード: JSON に直接追加
+        existingData.spots.push({
+          id: 'mymaps-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8),
+          ...spotData,
+        });
+        newCount++;
+        console.log(`  ✨ [${slug}] JSON追加: ${pm.emoji} ${pm.name}`);
+      }
     }
 
-    if (newCount > 0) {
+    if (!notionMode && newCount > 0) {
       existingData.checkedAt = new Date().toISOString();
       fs.writeFileSync(spotsFile, JSON.stringify(existingData, null, 2), 'utf-8');
-      totalNew += newCount;
     }
+    totalNew += newCount;
 
     console.log(`  📍 ${folder.name}: ${folder.placemarks.length} 件中 ${newCount} 件が新規`);
   }
 
-  console.log(`\n🎉 完了！ 新規追加: ${totalNew} 件`);
+  console.log(`\n🎉 完了！ 新規${notionMode ? '候補登録' : '追加'}: ${totalNew} 件`);
 
-  // 新規追加がある場合のみ通知
+  // 新規があれば通知
   if (totalNew > 0) {
     await notifySlack({
       channel: 'patrol',
-      icon: '🟢',
+      icon: notionMode ? '✨' : '🟢',
       title: '[パトロール部] My Maps同期 完了',
-      body: `${totalNew}件の新規スポットを追加`,
+      body: notionMode
+        ? `${totalNew} 件の新規スポットを Notion に「候補🟡」で登録しました。レビューをお願いします。`
+        : `${totalNew}件の新規スポットを追加`,
       color: 'success',
       fields: [
-        { label: '新規追加', value: `${totalNew}件` },
+        { label: notionMode ? '新規候補' : '新規追加', value: `${totalNew}件` },
+        ...(notionMode ? [{ label: '次のアクション', value: 'Notion DB で候補レビュー → ステータス「公開」に' }] : []),
       ],
     });
   }
 }
+
+// Notion 国名 → slug の反転マップ
+const COUNTRY_NAME_TO_SLUG = Object.fromEntries(
+  Object.entries(SLUG_TO_NOTION_COUNTRY).map(([s, c]) => [c, s])
+);
 
 main().catch(async err => {
   console.error('❌ エラー:', err.message);

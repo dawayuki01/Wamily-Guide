@@ -70,7 +70,7 @@ docs/archive/ の古い版は無視してください。
 |---|---|---|---|
 | 1 | generate-guide.js | Claude → Notion にフィード・キュレーション自動生成 | 週1（月曜） |
 | 2 | fetch-notion.js | Notion → data/*.json に同期 | 毎日 |
-| 3 | fetch-mymaps.js | Google My Maps → 新規スポット取得 | 毎日 |
+| 3 | fetch-mymaps.js | Google My Maps → Notion スポットDB に「候補🟡」自動投稿（要 NOTION_API_KEY + NOTION_SPOTS_DB_ID。未設定時は旧モードで JSON 直書き） | 毎日 |
 | 4 | fetch-events.js | 全10カ国イベント取得（London:RSS / 他:Claude生成） | 毎日 |
 | 5 | check-spots.js | Google Places → スポット営業状況更新（全10カ国） + 閉業Notion自動更新 | 週1（月曜） |
 | 6 | health-check.js | 全データファイル健全性検証 + Slack日次/週次レポート | 毎日（always） |
@@ -239,6 +239,25 @@ Notion sync時に以下のフィールドは既存JSONファイルから引き�
 - `fetch-notion.js` は「公開」ステータスのみサイトに反映
 - 半年に1回程度 Claude が見直し・入れ替え候補を提案
 - 自動生成は月1回程度（sync.yml で制御）
+
+### Google My Maps → Notion スポットDB 自動投稿運用
+
+**フロー**：
+1. サワディーが旅先で Google My Maps（per-country マップ）にピン追加
+2. 翌朝 9:00 JST の sync.yml で `fetch-mymaps.js` が実行
+3. KML から新規ピンを検出 → Notion スポットDB に「**候補🟡**」で自動投稿
+4. Slack `#patrol` に「✨ N件の新規候補」通知
+5. サワディーが Notion でレビュー：説明文を整える / カテゴリを正しく直す
+6. ステータスを「**公開🟢**」に変更
+7. 翌朝の sync で `fetch-notion.js` が JSON 書き出し → サイト反映
+
+**重複防止**：Notion DB の既存スポット名（国ごと）と照合。同名はスキップ。
+全角・半角括弧、絵文字、variation selector の差は normalize で吸収。
+
+**ステータス管理**：
+- `候補🟡`: 新規追加された pinning。サイトに表示されない。
+- `公開🟢`: サイトに表示。デフォルト（未設定でも公開扱い：後方互換）。
+- `非公開⚫`: 不採用 / 一時停止。サイトに表示されない。
 
 ### おすすめスポット投稿運用
 サイト `/connect/` の「📍 おすすめスポットを置く」フォームから誰でも投稿可。
