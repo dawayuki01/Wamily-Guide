@@ -1,0 +1,35 @@
+name: Bulk Publish Spots（一回限り）
+
+# Notion スポットDB のステータス未設定スポットを「公開」に一括更新する
+# 一回限りのマイグレーション用ワークフロー（手動実行）
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'ドライラン（Notionに書き込まず集計のみ）'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  bulk-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      - name: Run bulk-publish-spots
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_SPOTS_DB_ID: ${{ secrets.NOTION_SPOTS_DB_ID }}
+          DRY_RUN: ${{ inputs.dry_run == 'true' && '1' || '0' }}
+        run: node scripts/bulk-publish-spots.js
