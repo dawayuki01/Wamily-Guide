@@ -4,3 +4,4 @@ node_modules/
 *.log
 assets/images/owner.jpg*
 assets/images/concept_image_original/
+kml-export/

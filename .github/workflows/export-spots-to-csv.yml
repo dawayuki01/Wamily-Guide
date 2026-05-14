@@ -1,0 +1,28 @@
+name: Export Spots to CSV (Notion → My Maps 移行用)
+
+# data/spots-{slug}.json から国別 CSV を生成。
+# Artifacts でダウンロード → My Maps にインポートして使う。
+# 一回限りの移行用ワークフロー。
+
+on:
+  workflow_dispatch:
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate CSVs
+        run: node scripts/export-spots-to-csv.js
+
+      - name: Upload CSV artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: spots-csv-export
+          path: kml-export/*.csv
+          retention-days: 30
