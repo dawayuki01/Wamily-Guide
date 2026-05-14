@@ -64,6 +64,7 @@ docs/archive/ の古い版は無視してください。
 | add-curation.yml | 手動実行 | キュレーション補充（実在確認済みコンテンツをNotionに投入） |
 | fix-curation.yml | 手動実行 | キュレーションURL精査（URL空→非公開、実在→URL更新） |
 | check-curation-urls.yml | 手動実行 | キュレーションURL死活チェック（死亡URL→非公開化） |
+| bulk-publish-spots.yml | 手動実行（一回限り） | スポットDB ステータス未設定→「公開」一括設定（マイグレーション用） |
 
 ### sync.yml ステップ
 | # | スクリプト | 内容 | 頻度 |
