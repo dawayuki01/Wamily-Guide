@@ -1066,6 +1066,25 @@ small { font-size: 12px; }
 .spot-meta  { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
 .spot-date  { font-size: 11px; color: var(--text-hint); margin-left: auto; }
 
+/* Google マップで見る リンク（スポットカード内） */
+.spot-maps-link {
+  margin-left: auto;
+  font-size: 11px;
+  color: var(--teal);
+  text-decoration: none;
+  padding: 3px 9px;
+  border: 1px solid var(--teal-border);
+  border-radius: 999px;
+  background: var(--teal-light);
+  transition: background 0.2s, color 0.2s, transform 0.15s;
+  white-space: nowrap;
+}
+.spot-maps-link:hover {
+  background: var(--teal);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
 .show-more {
   width: 100%;
   padding: 10px;

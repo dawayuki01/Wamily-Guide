@@ -115,6 +115,19 @@
     return `<span class="tag tag-check">● ${spot.statusLabel || '要確認'}</span>`;
   }
 
+  // Google マップへのリンク URL を生成
+  // placeId 優先（最も正確）→ 緯度経度 → 名前検索 の順でフォールバック
+  function googleMapsUrl(spot) {
+    if (spot.placeId) {
+      // placeId は最強。Google マップで「保存リスト追加」「ナビ起動」が即できる
+      return `https://www.google.com/maps/place/?q=place_id:${encodeURIComponent(spot.placeId)}`;
+    }
+    if (spot.lat != null && spot.lng != null) {
+      return `https://www.google.com/maps/search/?api=1&query=${spot.lat},${spot.lng}`;
+    }
+    return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(spot.name)}`;
+  }
+
   function renderSpotCard(spot) {
     const extraClass = spot.extra ? ' extra hidden' : '';
     const vitalClass = spot.layer === 'vital' ? ' vital' : '';
@@ -123,6 +136,7 @@
     const freeTag = spot.free
       ? `<span class="tag tag-free">無料</span>`
       : `<span class="tag tag-paid">有料</span>`;
+    const mapsLink = `<a class="spot-maps-link" href="${googleMapsUrl(spot)}" target="_blank" rel="noopener noreferrer" aria-label="${spot.name} を Google マップで見る">📍 Google マップで見る</a>`;
 
     return `
       <div class="spot-card${vitalClass}${extraClass}" data-category="${spot.category}">
@@ -135,6 +149,7 @@
           ${statusTag(spot)}
           ${freeTag}
           ${residentBadge}
+          ${mapsLink}
         </div>
       </div>`;
   }

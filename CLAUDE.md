@@ -70,7 +70,7 @@ docs/archive/ の古い版は無視してください。
 |---|---|---|---|
 | 1 | generate-guide.js | Claude → Notion にフィード・キュレーション自動生成 | 週1（月曜） |
 | 2 | fetch-notion.js | Notion → data/*.json に同期 | 毎日 |
-| 3 | fetch-mymaps.js | Google My Maps → 新規スポット取得 | 毎日 |
+| 3 | fetch-mymaps.js | Google My Maps → Notion スポットDB に「候補🟡」自動投稿（要 NOTION_API_KEY + NOTION_SPOTS_DB_ID。未設定時は旧モードで JSON 直書き） | 毎日 |
 | 4 | fetch-events.js | 全10カ国イベント取得（London:RSS / 他:Claude生成） | 毎日 |
 | 5 | check-spots.js | Google Places → スポット営業状況更新（全10カ国） + 閉業Notion自動更新 | 週1（月曜） |
 | 6 | health-check.js | 全データファイル健全性検証 + Slack日次/週次レポート | 毎日（always） |
@@ -101,21 +101,41 @@ docs/archive/ の古い版は無視してください。
 ### Google My Maps
 | 項目 | 値 |
 |---|---|
-| マップ名（1つ目） | Wamily Spots（10カ国：ロンドン〜ソウル） |
+| マップ名（legacy 1つ目） | Wamily Spots（複数国まとめ／フォルダで国分け） |
 | Map ID | 1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM |
-| マップ名（2つ目） | Wamily Spots 2（11カ国目以降：香港〜） |
+| マップ名（legacy 2つ目） | Wamily Spots 2（11カ国目以降の予備） |
 | Map ID | GitHub Secret `GOOGLE_MYMAPS_IDS` で管理 |
+| マップ名（per-country） | Wamily Spots ロンドン / Wamily Spots 香港 等、国ごとに独立したマップ |
+| Map ID | 各 Map の ID を `GOOGLE_MYMAPS_IDS` の JSON で slug に紐付け |
 
-複数マップ対応：Google My Maps は1地図あたり10レイヤー上限のため、11カ国目（香港）から `Wamily Spots 2` を新設。`fetch-mymaps.js` は `GOOGLE_MYMAPS_IDS`（カンマ区切り）を読んで複数マップを順次処理する。
+**マップ ID 設定形式（GOOGLE_MYMAPS_IDS）**：
 
-フォルダ構成：国ごとに1フォルダ。新しいフォルダを追加する場合は fetch-mymaps.js の `FOLDER_TO_SLUG` に追加する。
+旧（カンマ区切り）：
+```
+1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM,xxxxx
+```
+
+新（JSON、per-country 対応／推奨）：
+```json
+{
+  "_legacy": ["1HiGInkF-pvsI8iaNZSdQ5fXCVj6McVM"],
+  "london": "新ロンドンマップID",
+  "hongkong": "新香港マップID"
+}
+```
+
+`_legacy` のマップは従来通りフォルダ名で国を判定。
+per-country の slug にマップを紐付けると、そのマップ内のピンは全て指定 slug の国として保存され、legacy 側の同 slug フォルダはスキップされる（重複防止）。
+全11カ国を per-country に移行したら `_legacy` を空にして、レガシーマップは参照されなくなる。
+
+フォルダ構成：legacy マップは「国ごとに1フォルダ」。per-country マップはフォルダ自由（カテゴリ単位で分けても OK）。新フォルダ名を legacy で使う場合は fetch-mymaps.js の `FOLDER_TO_SLUG` に追加する。
 
 ### GitHub Secrets
 | シークレット名 | 用途 |
 |---|---|
 | ANTHROPIC_API_KEY | Claude API（コンテンツ生成） |
 | GOOGLE_PLACES_API_KEY | Google Places API（営業チェック） |
-| GOOGLE_MYMAPS_IDS | Google My Maps の Map ID（カンマ区切りで複数指定可） |
+| GOOGLE_MYMAPS_IDS | Google My Maps の Map ID（JSON 形式で per-country 対応 / カンマ区切りも互換）|
 | NOTION_API_KEY | Notion API（DB読み書き） |
 | NOTION_CURATION_DB_ID | キュレーションDB ID |
 | NOTION_LIVEFEED_DB_ID | 最近の動きDB ID |
@@ -219,6 +239,25 @@ Notion sync時に以下のフィールドは既存JSONファイルから引き�
 - `fetch-notion.js` は「公開」ステータスのみサイトに反映
 - 半年に1回程度 Claude が見直し・入れ替え候補を提案
 - 自動生成は月1回程度（sync.yml で制御）
+
+### Google My Maps → Notion スポットDB 自動投稿運用
+
+**フロー**：
+1. サワディーが旅先で Google My Maps（per-country マップ）にピン追加
+2. 翌朝 9:00 JST の sync.yml で `fetch-mymaps.js` が実行
+3. KML から新規ピンを検出 → Notion スポットDB に「**候補🟡**」で自動投稿
+4. Slack `#patrol` に「✨ N件の新規候補」通知
+5. サワディーが Notion でレビュー：説明文を整える / カテゴリを正しく直す
+6. ステータスを「**公開🟢**」に変更
+7. 翌朝の sync で `fetch-notion.js` が JSON 書き出し → サイト反映
+
+**重複防止**：Notion DB の既存スポット名（国ごと）と照合。同名はスキップ。
+全角・半角括弧、絵文字、variation selector の差は normalize で吸収。
+
+**ステータス管理**：
+- `候補🟡`: 新規追加された pinning。サイトに表示されない。
+- `公開🟢`: サイトに表示。デフォルト（未設定でも公開扱い：後方互換）。
+- `非公開⚫`: 不採用 / 一時停止。サイトに表示されない。
 
 ### おすすめスポット投稿運用
 サイト `/connect/` の「📍 おすすめスポットを置く」フォームから誰でも投稿可。
