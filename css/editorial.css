@@ -114,13 +114,13 @@
 
 /* ---------- Sections（余白を広く） ---------- */
 .ed-section {
-  padding: 60px 32px;
-  max-width: 900px;
+  padding: 60px 40px;
+  max-width: 980px;
   margin: 0 auto;
 }
 
 .ed-section-narrow {
-  max-width: 640px;
+  max-width: 720px;
 }
 
 /* ---------- Lead Text ---------- */
@@ -134,8 +134,8 @@
 }
 
 .ed-body-text {
-  font-size: 15px;
-  line-height: 2.2;
+  font-size: 16.5px;
+  line-height: 2.1;
   color: var(--text-secondary);
   margin-bottom: 16px;
 }
