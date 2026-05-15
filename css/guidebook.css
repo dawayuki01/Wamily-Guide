@@ -333,9 +333,9 @@ body {
 /* Map wrap */
 .gb2-map-wrap {
   position: relative;
-  max-width: 960px;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 0 3rem;
+  padding: 0 2rem;
   z-index: 1;
 }
 
