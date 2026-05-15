@@ -39,8 +39,8 @@
       "category": "food",
       "layer": "play",
       "description": "高評価カフェ・$100〜200・コーヒー",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJs3IFB6EBBDQRJ4888uDRrWI",
@@ -439,8 +439,8 @@
       "category": "play",
       "layer": "play",
       "description": "香港の有名な夜市・屋台・ローカル体験",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJzcAL8-oABDQRpDOEry9D3bc",
@@ -641,5 +641,5 @@
       "lng": 114.1691477
     }
   ],
-  "checkedAt": "2026-05-15T01:49:35.865Z"
+  "checkedAt": "2026-05-15T07:23:28.513Z"
 }

@@ -311,8 +311,8 @@
       "category": "food",
       "layer": "play",
       "description": "ヴェテ・カッテン クングスガタン：1920年代風の優雅なカフェで、ランチやスイーツ、コーヒーなどがセルフサービスで楽しめます。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJCSWNMWedX0YR52I_TTl8Pv8",
@@ -375,8 +375,8 @@
       "category": "play",
       "layer": "play",
       "description": "ストックホルムの人気プレイグラウンド。充実の遊具。",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJy9UWQtR3X0YRNMI7Dr_B_Zk",
@@ -481,5 +481,5 @@
       "lng": 18.1036
     }
   ],
-  "checkedAt": "2026-05-15T01:49:35.859Z"
+  "checkedAt": "2026-05-15T07:23:03.364Z"
 }

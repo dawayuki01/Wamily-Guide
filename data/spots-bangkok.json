@@ -183,8 +183,8 @@
       "category": "food",
       "layer": "play",
       "description": "Rating: 4.7 (4415 reviews)",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJjYPUa8GZ4jARi9fgigQOiR8",
@@ -199,8 +199,8 @@
       "category": "food",
       "layer": "play",
       "description": "Rating: 4.5 (6756 reviews)",
-      "status": "check",
-      "statusLabel": "要確認",
+      "status": "open",
+      "statusLabel": "営業中",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJrfiORG6Z4jARSNgY2uztUlM",
@@ -305,5 +305,5 @@
       "lng": 100.5347
     }
   ],
-  "checkedAt": "2026-05-15T01:49:35.860Z"
+  "checkedAt": "2026-05-15T07:23:09.935Z"
 }
