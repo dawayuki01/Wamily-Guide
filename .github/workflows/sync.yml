@@ -19,6 +19,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Compute day-of-week (1=Mon, 4=Thu)
+        id: day
+        run: echo "dow=$(date -u +%u)" >> $GITHUB_OUTPUT
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -37,7 +41,8 @@ jobs:
       # ────────────────────────────────
       - name: Generate content (Claude → Notion)
         id: generate_content
-        if: github.event_name == 'workflow_dispatch' || toJSON(github.event.schedule) == '"0 0 * * 1"'
+        # 週1: 月曜のみ（コスト削減）
+        if: github.event_name == 'workflow_dispatch' || steps.day.outputs.dow == '1'
         run: node scripts/generate-guide.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -64,10 +69,14 @@ jobs:
         continue-on-error: true
 
       # ────────────────────────────────
-      # 3. TimeOut London RSS + Claude フィルタ → イベント
+      # 3. TimeOut London RSS + Claude フィルタ → イベント（週2回: 月・木）
+      #    Claude API コスト削減のため、毎日 → 週2回 に変更
+      #    イベント情報は週1〜2回更新で鮮度十分
       # ────────────────────────────────
       - name: Fetch & filter events (RSS + Claude API)
         id: fetch_events
+        # 週2回: 月曜・木曜のみ（コスト削減：毎日 → 週2 で約70%減）
+        if: github.event_name == 'workflow_dispatch' || steps.day.outputs.dow == '1' || steps.day.outputs.dow == '4'
         run: node scripts/fetch-events.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -95,7 +104,8 @@ jobs:
       # ────────────────────────────────
       - name: Check spot status (Google Places)
         id: check_spots
-        if: github.event_name == 'workflow_dispatch' || toJSON(github.event.schedule) == '"0 0 * * 1"'
+        # 週1: 月曜のみ
+        if: github.event_name == 'workflow_dispatch' || steps.day.outputs.dow == '1'
         run: node scripts/check-spots.js
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}

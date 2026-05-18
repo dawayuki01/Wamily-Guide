@@ -72,7 +72,7 @@ docs/archive/ の古い版は無視してください。
 | 1 | generate-guide.js | Claude → Notion にフィード・キュレーション自動生成 | 週1（月曜） |
 | 2 | fetch-notion.js | Notion → data/*.json に同期 | 毎日 |
 | 3 | fetch-mymaps.js | Google My Maps → Notion スポットDB に「候補🟡」自動投稿（要 NOTION_API_KEY + NOTION_SPOTS_DB_ID。未設定時は旧モードで JSON 直書き） | 毎日 |
-| 4 | fetch-events.js | 全10カ国イベント取得（London:RSS / 他:Claude生成） | 毎日 |
+| 4 | fetch-events.js | 全10カ国イベント取得（London:RSS / 他:Claude生成） | **週2（月・木）** ※コスト削減 |
 | 5 | check-spots.js | Google Places → スポット営業状況更新（全10カ国） + 閉業Notion自動更新 | 週1（月曜） |
 | 6 | health-check.js | 全データファイル健全性検証 + Slack日次/週次レポート | 毎日（always） |
 
