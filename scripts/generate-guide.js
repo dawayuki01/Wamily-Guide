@@ -17,6 +17,7 @@
 const Anthropic = require('@anthropic-ai/sdk');
 const { Client } = require('@notionhq/client');
 const { notifySlack } = require('./lib/slack-notify');
+const { retryClaude } = require('./lib/claude-retry');
 
 // ──────────────────────────────────────────────────────────
 // 設定
@@ -125,7 +126,7 @@ async function getRecentCurationCountries(notion, dbId) {
 // ──────────────────────────────────────────────────────────
 
 async function generateLiveFeedEntry(claude, country, ctx) {
-  const message = await claude.messages.create({
+  const message = await retryClaude(() => claude.messages.create({
     model: 'claude-haiku-4-5-20251001',
     max_tokens: 256,
     messages: [{
@@ -143,7 +144,7 @@ ${ctx.label}（${ctx.season}）の旅行情報として「最近の動き」に�
 
 本文のみ返してください（記号・絵文字・引用符なし）。`,
     }],
-  });
+  }), { label: `generate-feed-${country.notionName}` });
 
   return message.content[0].text.trim();
 }
@@ -153,7 +154,7 @@ ${ctx.label}（${ctx.season}）の旅行情報として「最近の動き」に�
 // ──────────────────────────────────────────────────────────
 
 async function generateCurationEntries(claude, country, ctx) {
-  const message = await claude.messages.create({
+  const message = await retryClaude(() => claude.messages.create({
     model: 'claude-haiku-4-5-20251001',
     max_tokens: 2048,
     messages: [{
@@ -179,7 +180,7 @@ async function generateCurationEntries(claude, country, ctx) {
   }
 ]`,
     }],
-  });
+  }), { label: `generate-curation-${country.notionName}` });
 
   try {
     const text = message.content[0].text.trim();

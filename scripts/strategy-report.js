@@ -29,6 +29,7 @@ const path = require('path');
 const { Client } = require('@notionhq/client');
 const Anthropic = require('@anthropic-ai/sdk');
 const { notifySlack } = require('./lib/slack-notify');
+const { retryClaude } = require('./lib/claude-retry');
 
 const NOTION_API_KEY = process.env.NOTION_API_KEY;
 const NOTION_STRATEGY_DB_ID = process.env.NOTION_STRATEGY_DB_ID;
@@ -323,11 +324,14 @@ ${externalData.sources.map(s => `- ${s.name}: ${s.content}`).join('\n') || '(な
 - 外部環境の変化を踏まえて今月やるべきこと
 - Wamilyの長期的なポジショニングに関すること`;
 
-  const response = await anthropic.messages.create({
-    model: 'claude-haiku-4-5-20251001',
-    max_tokens: 1500,
-    messages: [{ role: 'user', content: prompt }],
-  });
+  const response = await retryClaude(
+    () => anthropic.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 1500,
+      messages: [{ role: 'user', content: prompt }],
+    }),
+    { label: 'strategy-report' }
+  );
 
   return response.content[0]?.text ?? '';
 }

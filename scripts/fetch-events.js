@@ -17,6 +17,7 @@ const Anthropic = require('@anthropic-ai/sdk');
 const fs = require('fs');
 const path = require('path');
 const { notifySlack } = require('./lib/slack-notify');
+const { retryClaude } = require('./lib/claude-retry');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 
@@ -119,19 +120,22 @@ async function filterWithClaude(client, items) {
     return `${i}: ${item.title} — ${desc.slice(0, 100)}`;
   }).join('\n');
 
-  const message = await client.messages.create({
-    model: 'claude-haiku-4-5-20251001',
-    max_tokens: 512,
-    messages: [{
-      role: 'user',
-      content: `以下のイベント一覧から、乳幼児〜小学生連れのファミリーに関連性の高いものを3〜5件選んでください。
+  const message = await retryClaude(
+    () => client.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 512,
+      messages: [{
+        role: 'user',
+        content: `以下のイベント一覧から、乳幼児〜小学生連れのファミリーに関連性の高いものを3〜5件選んでください。
 無料のもの、屋外活動、博物館・公園・マーケット、季節のイベントを優先してください。
 選んだものの番号を JSON 配列で返してください。例: {"selected": [0, 2, 4]}
 
 イベント一覧:
 ${summary}`,
-    }],
-  });
+      }],
+    }),
+    { label: 'events-london-filter' }
+  );
 
   try {
     const text = message.content[0].text;
@@ -157,7 +161,8 @@ async function generateEventsWithClaude(client, country) {
   const monthNames = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
   const currentMonth = monthNames[month - 1];
 
-  const message = await client.messages.create({
+  const message = await retryClaude(
+    () => client.messages.create({
     model: 'claude-haiku-4-5-20251001',
     max_tokens: 1024,
     messages: [{
@@ -189,7 +194,9 @@ JSON形式で返してください:
 linkには実在するURLのみ入れてください。公式サイト、観光局、イベント公式ページなどが望ましいです。URLが不明な場合は空文字にしてください。
 JSONのみ返してください。`,
     }],
-  });
+  }),
+    { label: `events-${country.slug || country.name}` }
+  );
 
   try {
     const text = message.content[0].text;

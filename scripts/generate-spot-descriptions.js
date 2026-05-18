@@ -30,6 +30,7 @@ const path = require('path');
 const { Client } = require('@notionhq/client');
 const Anthropic = require('@anthropic-ai/sdk').default;
 const { notifySlack } = require('./lib/slack-notify');
+const { retryClaude } = require('./lib/claude-retry');
 
 // ===== 設定 =====
 const NOTION_API_KEY = process.env.NOTION_API_KEY;
@@ -186,11 +187,14 @@ ${placesContext || '（情報なし）'}
 }
 
 async function generateDescription(anthropic, spot, placesContext) {
-  const response = await anthropic.messages.create({
-    model: 'claude-haiku-4-5-20251001',
-    max_tokens: 600,
-    messages: [{ role: 'user', content: buildPrompt(spot, placesContext) }],
-  });
+  const response = await retryClaude(
+    () => anthropic.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 600,
+      messages: [{ role: 'user', content: buildPrompt(spot, placesContext) }],
+    }),
+    { label: `generate-desc-${spot.name || 'spot'}` }
+  );
   const text = (response.content[0]?.text || '').trim();
   // 引用符・前置きを除去
   return text
