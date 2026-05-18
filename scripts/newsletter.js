@@ -21,6 +21,7 @@ const { buildCurationPrompt } = require('./newsletter/curate-prompt');
 const { buildSubjectPrompt } = require('./newsletter/subject-prompt');
 const { buildCuratedHtml } = require('./newsletter/email-template');
 const { notifySlack } = require('./lib/slack-notify');
+const { retryClaude } = require('./lib/claude-retry');
 
 // ===== 設定 =====
 const SITE_URL = 'https://dawayuki01.github.io/Wamily-Guide';
@@ -74,11 +75,14 @@ async function main() {
   console.log('\n[2/5] Claude でキュレーション中...');
   const anthropic = new Anthropic();
 
-  const response = await anthropic.messages.create({
-    model: 'claude-haiku-4-5-20251001',
-    max_tokens: 4096,
-    messages: [{ role: 'user', content: buildCurationPrompt(rawArticles) }],
-  });
+  const response = await retryClaude(
+    () => anthropic.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 4096,
+      messages: [{ role: 'user', content: buildCurationPrompt(rawArticles) }],
+    }),
+    { label: 'newsletter-curation' }
+  );
 
   const curationRaw = response.content[0].text;
 
@@ -149,11 +153,14 @@ async function main() {
   const fallbackSubject = `🌱 今週の「旅と家族」の種 — ${curatedItems.length}本のキュレーション`;
   let subject = fallbackSubject;
   try {
-    const subjectRes = await anthropic.messages.create({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 100,
-      messages: [{ role: 'user', content: buildSubjectPrompt(curatedItems) }],
-    });
+    const subjectRes = await retryClaude(
+      () => anthropic.messages.create({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 100,
+        messages: [{ role: 'user', content: buildSubjectPrompt(curatedItems) }],
+      }),
+      { label: 'newsletter-subject', maxRetries: 3 }
+    );
     const raw = (subjectRes.content[0]?.text || '').trim();
     // 改行・引用符・余分な装飾を除去
     const cleaned = raw.split('\n')[0].replace(/^["'「『]+|["'」』]+$/g, '').trim();

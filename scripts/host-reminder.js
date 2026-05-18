@@ -8,6 +8,7 @@
 const { Client } = require('@notionhq/client');
 const Anthropic = require('@anthropic-ai/sdk');
 const { notifySlack } = require('./lib/slack-notify');
+const { retryClaude } = require('./lib/claude-retry');
 
 // ──────────────────────────────────────────────────────────
 // ヘルパー
@@ -167,11 +168,14 @@ async function main() {
           .replace('{family}', family || '不明')
           .replace('{lastNote}', lastNote || 'なし');
 
-        const response = await anthropic.messages.create({
-          model: 'claude-haiku-4-5-20251001',
-          max_tokens: 300,
-          messages: [{ role: 'user', content: prompt }],
-        });
+        const response = await retryClaude(
+          () => anthropic.messages.create({
+            model: 'claude-haiku-4-5-20251001',
+            max_tokens: 300,
+            messages: [{ role: 'user', content: prompt }],
+          }),
+          { label: 'host-reminder-draft', maxRetries: 3 }
+        );
 
         draft = response.content[0]?.text || '';
       } catch (err) {
@@ -227,11 +231,14 @@ async function main() {
         .replace('{years}', years || '不明')
         .replace('{formResponse}', formResponse || 'なし');
 
-      const response = await anthropic.messages.create({
-        model: 'claude-haiku-4-5-20251001',
-        max_tokens: 500,
-        messages: [{ role: 'user', content: prompt }],
-      });
+      const response = await retryClaude(
+        () => anthropic.messages.create({
+          model: 'claude-haiku-4-5-20251001',
+          max_tokens: 500,
+          messages: [{ role: 'user', content: prompt }],
+        }),
+        { label: 'host-profile-generate' }
+      );
 
       const text = response.content[0]?.text || '';
 

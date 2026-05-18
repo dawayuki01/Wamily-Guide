@@ -10,6 +10,7 @@
 
 const { Client } = require('@notionhq/client');
 const Anthropic = require('@anthropic-ai/sdk').default;
+const { retryClaude } = require('./lib/claude-retry');
 
 const NOTION_API_KEY = process.env.NOTION_API_KEY;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
@@ -70,16 +71,19 @@ async function main() {
 
     const spotsText = batch.map((s, idx) => `${idx + 1}. ${s.name}: ${s.desc}`).join('\n');
 
-    const response = await anthropic.messages.create({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 1024,
-      messages: [{
-        role: 'user',
-        content: `以下のスポット説明文を日本語に翻訳してください。各スポットにつき1文（50文字以内）で、子連れ家族向けのやわらかい口調で書いてください。番号付きで返してください。
+    const response = await retryClaude(
+      () => anthropic.messages.create({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 1024,
+        messages: [{
+          role: 'user',
+          content: `以下のスポット説明文を日本語に翻訳してください。各スポットにつき1文（50文字以内）で、子連れ家族向けのやわらかい口調で書いてください。番号付きで返してください。
 
 ${spotsText}`
-      }],
-    });
+        }],
+      }),
+      { label: 'translate-spots-batch' }
+    );
 
     const text = response.content[0].text;
     const lines = text.split('\n').filter(l => /^\d+\./.test(l.trim()));
