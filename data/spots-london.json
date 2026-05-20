@@ -847,7 +847,23 @@
       "extra": false,
       "lat": 51.594,
       "lng": -0.1302
+    },
+    {
+      "id": "mymaps-1779242157436-2261bf",
+      "name": "Friends of the V & A",
+      "emoji": "📍",
+      "category": "play",
+      "layer": "play",
+      "description": "緯度: \n経度: \n住所: \n説明:",
+      "lat": 51.4962111,
+      "lng": -0.1719458,
+      "status": "check",
+      "statusLabel": "要確認",
+      "free": false,
+      "checkedDate": "2026年5月",
+      "placeId": null,
+      "extra": false
     }
   ],
-  "checkedAt": "2026-05-19T01:56:05.278Z"
+  "checkedAt": "2026-05-20T01:55:57.436Z"
 }
