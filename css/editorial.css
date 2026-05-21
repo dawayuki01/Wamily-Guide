@@ -223,6 +223,13 @@
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
+/* テキスト側の flex 子要素が日本語の長文で親を押し広げないように */
+.ed-feature > div:not(.ed-feature-icon) {
+  flex: 1 1 0;
+  min-width: 0;
+}
+.ed-feature-text { overflow-wrap: break-word; word-break: normal; }
+
 .ed-feature:hover {
   transform: translateY(-3px);
   box-shadow: 0 8px 24px rgba(0,0,0,0.07);
