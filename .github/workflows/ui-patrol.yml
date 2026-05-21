@@ -1,0 +1,44 @@
+name: UI Patrol
+
+# 本番サイト（wamily.jp）をブラウザレベルで巡回し、
+# 横スクロール / JSエラー / 404 等を検知する。
+#
+# トリガー:
+#   - 毎週火曜 10:00 JST（月曜の sync 翌日）
+#   - 手動実行（workflow_dispatch）
+on:
+  schedule:
+    - cron: '0 1 * * 2'  # 火曜 01:00 UTC = 10:00 JST
+  workflow_dispatch:
+    inputs:
+      base_url:
+        description: 'チェック対象 URL（デフォルト: https://wamily.jp）'
+        required: false
+        default: 'https://wamily.jp'
+
+jobs:
+  ui-patrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/package-lock.json
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: scripts
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+        working-directory: scripts
+
+      - name: Run UI Patrol
+        env:
+          UI_PATROL_BASE_URL: ${{ inputs.base_url || 'https://wamily.jp' }}
+          SLACK_WEBHOOK_PATROL: ${{ secrets.SLACK_WEBHOOK_PATROL }}
+        run: node scripts/check-ui.js
