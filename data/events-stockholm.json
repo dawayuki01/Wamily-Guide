@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スキャンセン野外博物館の春の開園とイベント",
-      "description": "北欧最大の野外博物館。5月は開園シーズン開始で、動物ふれあい、伝統工芸体験、子ども向けプログラムが充実。広大な敷地で季節の花も楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "スキャンセン、Djurgården, Stockholm",
-      "link": "https://www.skansen.se/en",
+      "title": "スウェーデン国王の誕生日パレード",
+      "description": "5月6日に王宮前で開催される国王陛下の誕生日を祝うパレード。衛兵交代式や音楽隊の演奏が行われ、家族で王室文化を体験できます。",
+      "date": "5月6日",
+      "place": "王宮（Kungliga slottet）、Gamla Stan",
+      "link": "https://www.kunglicheresidenser.se/en/",
+      "free": true
+    },
+    {
+      "title": "スカンセン屋外博物館での春の特別展示",
+      "description": "北欧最大級の屋外博物館。5月は動物たちが活動を始め、春の花が咲き乱れる季節。子ども向けのアクティビティやスウェーデン伝統文化を体験できます。",
+      "date": "5月全期間",
+      "place": "Skansen, Djurgården",
+      "link": "https://www.skansen.se/en/",
       "free": false
     },
     {
-      "title": "ストックホルム群島での屋外散策・島巡りツアー",
-      "description": "スウェーデン特有の美しい群島を家族で探索。5月の好天時に無料アクセス可能な公開島や、手頃な料金の島巡りツアーで自然散策。野生動物観察も。",
+      "title": "ストックホルム群島での屋外船上ツアー",
+      "description": "5月は群島の島々を巡る船ツアーのシーズン開始。島での野外活動や自然観察、家族向けのガイド付きツアーで北欧の自然を満喫できます。",
       "date": "5月中旬〜下旬",
-      "place": "ストックホルム群島（Stockholms skärgård）、Norrmalm地区の埠頭発着",
-      "link": "https://www.visitstockholm.com/",
-      "free": true
-    },
-    {
-      "title": "ユーランダ宮殿（Drottningholm Palace）の春ガイドツアー",
-      "description": "王宮の庭園が春に最も美しい季節。子ども向けガイドツアー、宮殿探検、中国風離宮の見学など。5月の穏やかな気候で家族向けプログラムが充実。",
-      "date": "5月全般",
-      "place": "ユーランダ宮殿、Drottningholm, Stockholm",
-      "link": "https://www.royalpalaces.se/en/drottningholm-palace",
+      "place": "Strandvägen桟橋、ストックホルム中心部",
+      "link": "https://www.stockholmsightseeing.com/",
       "free": false
     },
     {
-      "title": "ストックホルム市立博物館の子ども向け特別展示",
-      "description": "常設展示に加え、5月は子ども向けのインタラクティブ展示やワークショップを開催。市の歴史を遊びながら学べます。雨の日の選択肢としても最適。",
-      "date": "5月全般",
-      "place": "ストックホルム市立博物館、Slottsbacken 6, Gamla Stan",
-      "link": "https://www.stockholmsmuseum.se/",
+      "title": "リラダルホルメン島での屋外遊び場と自然散策",
+      "description": "ストックホルムの緑豊かな島。5月は新緑の季節で、子ども向けの遊び場、ピクニックスポット、遊歩道での散策が無料で楽しめます。",
+      "date": "5月全期間",
+      "place": "Lilliehöjden, Djurgården",
+      "link": "",
       "free": true
     },
     {
-      "title": "ガムラスタン（旧市街）での散策とオープンマーケット",
-      "description": "5月は旧市街で工芸品やフードマーケットが活況。中世の街並みを散歩し、アイスクリーム店や広場での無料イベントを楽しめます。家族写真の撮影スポットも多数。",
-      "date": "5月全般（特に週末）",
-      "place": "ガムラスタン、Gamla Stan, Stockholm",
-      "link": "https://www.visitstockholm.com/see-do/gamla-stan/",
-      "free": true
+      "title": "スウェーデン自然史博物館の子ども向け春プログラム",
+      "description": "動物や自然に関する展示と子ども向けのワークショップ。5月は生態系や春の生き物をテーマにした体験学習プログラムが開催されます。",
+      "date": "5月全期間",
+      "place": "Frescativägen 40, Stockholm",
+      "link": "https://www.nrm.se/en.html",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:18.402Z"
+  "updatedAt": "2026-05-21T01:55:13.744Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・フローラル（Paris Floral）",
-      "description": "パリ東部のボワ・ド・ヴァンセンヌ公園で開催される国際園芸祭。春の花々が満開で、子ども向けワークショップや庭園散策が楽しめます。",
-      "date": "5月上旬〜中旬",
-      "place": "Bois de Vincennes, Paris 12e",
-      "link": "https://www.paris.fr",
+      "title": "パリ・フローラル公園（Bois de Vincennes Parc Floral）- 春の花々と子ども向けアクティビティ",
+      "description": "5月は牡丹やバラが見頃。子ども向けの迷路、遊び場、ミニ列車が楽しめます。春の花々に囲まれた屋外での家族時間が最適です。",
+      "date": "5月全期間（特に中旬〜下旬）",
+      "place": "Bois de Vincennes, 75012 Paris",
+      "link": "https://www.parcfloraldeparis.com/",
       "free": false
     },
     {
-      "title": "セーヌ河沿いのピクニック・ガーデン",
-      "description": "5月のパリは各公園でピクニック適期。イール・サン・ルイやルクセンブルク公園で自然を満喫。無料で利用でき、子どもたちが遊べます。",
-      "date": "5月全期間",
-      "place": "Luxembourg Gardens, Paris 6e / Île Saint-Louis, Paris 4e",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "フランス国立自然史博物館の春季プログラム",
-      "description": "ジャルダン・デ・プラント内にある博物館。5月は子ども向けの自然観察ツアーや化石体験ワークショップが充実。屋外での学習プログラムもあります。",
-      "date": "5月全期間",
-      "place": "Muséum National d'Histoire Naturelle, 57 Rue Cuvier, Paris 5e",
-      "link": "https://www.mnhn.fr",
-      "free": false
-    },
-    {
-      "title": "キドラッポリス（Citéoparc）のスプリング・フェスティバル",
-      "description": "パリ郊外のファミリーパークで開催される春のフェスティバル。乗り物、ゲーム、ワークショップ、キャラクターグリーティング。子ども向けの楽しい企画が満載。",
-      "date": "5月中旬〜下旬",
-      "place": "Citéoparc, Île-de-France region",
+      "title": "フェスティバル・シネマ・パリジャン（週末のオープンエアシネマ）",
+      "description": "パリの公園や広場で開催される家族向けの屋外映画祭。5月は晴天が多く、子ども向け映画が上映されることもあります。",
+      "date": "5月下旬",
+      "place": "パリ市内各所（会場は年によって異なる）",
       "link": "",
-      "free": false
+      "free": true
     },
     {
-      "title": "パリの街角オープンエアマーケット散策",
-      "description": "5月のパリは各地で春野菜やフルーツの市場が活気づきます。アリーナマルシェなど露店散策は無料。子どもたちがローカル文化を学べます。",
+      "title": "ルクセンブルク公園での砂場・遊具エリア",
+      "description": "パリ最大級の子ども向け遊び場。5月の気候に恵まれた季節、乳幼児から小学生まで楽しめます。公園散策と無料で1日過ごせます。",
       "date": "5月全期間",
-      "place": "Marché Bastille, Paris 11e / Various markets throughout Paris",
-      "link": "https://www.paris.fr",
+      "place": "Jardin du Luxembourg, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardin/index.html",
       "free": true
+    },
+    {
+      "title": "フリー・マーケット・プロテン（Marché aux Fleurs et Oiseaux）",
+      "description": "5月は花と野菜の露店が充実。子どもも楽しめる活気あるマーケット。朝の散策は家族にとって素敵な経験になります。",
+      "date": "5月全期間（特に週末）",
+      "place": "Place Louis-Lépine, Île de la Cité, 75004 Paris",
+      "link": "https://www.paris.fr/pages/les-marches-de-paris-7",
+      "free": true
+    },
+    {
+      "title": "シテ科学館（Cité des Sciences et de l'Industrie）- 春の特別展示",
+      "description": "子ども専用エリア「キッズスペース」では体験型展示が充実。5月の春企画展も開催。乳幼児から楽しめる科学館です。",
+      "date": "5月全期間",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:09.636Z"
+  "updatedAt": "2026-05-21T01:55:06.396Z"
 }

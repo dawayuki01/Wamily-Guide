@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day Celebration（レイデー）",
-      "description": "ハワイの伝統的な花飾り「レイ」を祝うイベント。5月1日前後にホノルル各地で行われ、パレード、フラ、音楽、レイ作り体験などが楽しめます。",
-      "date": "5月1日前後",
-      "place": "ホノルル（カピオラニ公園など複数会場）",
-      "link": "https://www.gohawaii.com",
+      "title": "Lei Day（レイ・デー）",
+      "description": "ハワイ文化を象徴するレイの日。パレード、フラダンス、レイ作り体験、ハワイアン音楽など、家族で楽しめるイベントがワイキキやダウンタウンで開催されます。",
+      "date": "5月1日",
+      "place": "ワイキキ、ホノルル各所",
+      "link": "https://www.gohawaii.com/ja",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Summer Program（ホノルル動物園サマープログラム）",
-      "description": "5月から始まる子ども向けの特別プログラム。動物との触れ合い、教育ワークショップ、ガイドツアーなど。乳幼児〜小学生向けのアクティビティが充実。",
-      "date": "5月〜8月（通年開園、プログラムは5月から）",
-      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
-      "link": "https://www.honoluluzoo.org",
+      "title": "Honolulu Zoo Spring Activities",
+      "description": "ホノルル動物園の春の特別プログラム。乳幼児向けの動物ふれあいタイム、ガイドツアー、屋外での学習プログラムが充実。家族で生き物観察を楽しめます。",
+      "date": "5月上旬〜下旬",
+      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "シュノーケリング（ハナウマ湾自然保護区）",
-      "description": "ハワイを代表する家族向けシュノーケルスポット。5月は水温も暖かく、カラフルな魚が見られます。自然保護区の入場料で楽しめます。",
-      "date": "5月通年（おすすめ）",
-      "place": "Hanauma Bay Nature Preserve, Honolulu, HI 96825",
-      "link": "https://www.honolulu.gov/parks-recreation/beaches/hanauma-bay.html",
-      "free": false
-    },
-    {
-      "title": "KCC Farmers Market（カカアコファーマーズマーケット）",
-      "description": "毎週土曜朝に開催される地元農産物とハワイアングルメの市場。無料で散策でき、子どもも楽しめる食べ歩きやローカルフードが豊富。",
-      "date": "毎週土曜朝（5月通年）",
-      "place": "KCC Farmers Market, 2100 S. King St, Honolulu, HI 96814",
-      "link": "https://www.honolulufarmers.com",
+      "title": "Lanikai Beach での海水浴・シュノーケリング",
+      "description": "ハワイで最も美しいビーチの一つ。浅瀬で子ども向けのシュノーケリングやビーチプレイに最適。海の生き物観察と安全な遊泳が可能です。",
+      "date": "5月中旬〜下旬（気象条件確認推奨）",
+      "place": "ラニカイビーチ、カイルア町",
+      "link": "https://www.gohawaii.com/ja/oahu/beaches",
       "free": true
     },
     {
-      "title": "Waikiki Beach での家族向けビーチアクティビティ",
-      "description": "5月は天気が安定し、波も穏やか。浅瀬での水遊び、サンゴ礁でのシュノーケリング体験、ビーチパークでの無料アクティビティ。家族向けレッスンも多数利用可能。",
-      "date": "5月通年",
-      "place": "Waikiki Beach, Honolulu, HI 96815",
-      "link": "https://www.gohawaii.com/islands/oahu/regions/honolulu/waikiki",
+      "title": "Waikiki Shell Museum Summer Kick-off",
+      "description": "ワイキキの貝殻博物館による春の特別展示・ワークショップ。子ども向けの貝殻クラフト体験、海洋生物教室が開催されます。",
+      "date": "5月上旬〜中旬",
+      "place": "ワイキキ・シェル・ミュージアム",
+      "link": "https://www.waikikishellmuseum.com/",
+      "free": false
+    },
+    {
+      "title": "Farmers Market at KCC（KCCファーマーズマーケット）",
+      "description": "地元の新鮮な果物、野菜、ハワイアンフードが並ぶ週末マーケット。キッズコーナーで無料体験があり、家族で地元文化と食を楽しめます。",
+      "date": "5月毎週土日",
+      "place": "KCC、ハワイ大学農業部キャンパス",
+      "link": "https://kcc.hawaii.edu/kcc-farmers-market/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:57.437Z"
+  "updatedAt": "2026-05-21T01:55:58.463Z"
 }

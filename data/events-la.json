@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA County Arboretum & Botanic Garden - Spring Bloom",
-      "description": "広大な植物園で春の花々が満開。子ども向けプレイグラウンド、噴水、孔雀との出会いなど家族連れに最適な屋外アクティビティ。",
-      "date": "5月上旬〜下旬",
-      "place": "LA County Arboretum & Botanic Garden, 301 N Baldwin Ave, Arcadia, CA 91007",
-      "link": "https://www.arboretum.org",
-      "free": false
-    },
-    {
-      "title": "The Original Farmers Market - Spring Celebration",
-      "description": "ロサンゼルス最古のマーケット。シーズナルな新鮮な野菜、フルーツ、グルメフードが揃う。屋外で散策しながら試食も楽しめます。",
-      "date": "5月上旬〜下旬（常設）",
-      "place": "The Original Farmers Market, 6333 W 3rd St, Los Angeles, CA 90036",
-      "link": "https://www.farmersmarketla.com",
+      "title": "ロサンゼルス・フェスティバル・オブ・ブックス",
+      "description": "毎年4月下旬〜5月初旬に開催される北米最大規模の屋外ブックフェスティバル。子ども向けのストーリータイム、ワークショップ、キャラクターグリーティングなど多数のプログラムがあります。",
+      "date": "5月上旬",
+      "place": "USC キャンパス（南カリフォルニア大学）、ロサンゼルス",
+      "link": "https://www.laboofest.com",
       "free": true
     },
     {
-      "title": "Griffith Observatory - Family Programs",
-      "description": "天文台の季節プログラムで宇宙学習。展示ホール無料、望遠鏡観測や子ども向けショーで天体について学べます。",
-      "date": "5月上旬〜下旬（常設プログラム）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "title": "ガーデナ・ジャパニーズ・フェスティバル",
+      "description": "5月中旬に開催される日本文化の祭典。屋台、盆踊り、太鼓演奏、子ども向けゲームコーナーなど、家族で楽しめるイベントが充実しています。",
+      "date": "5月中旬",
+      "place": "ガーデナ・シビックセンター、ガーデナ",
+      "link": "https://www.gardenajapanesefestival.org",
+      "free": true
+    },
+    {
+      "title": "グリフィス・オブザーバトリー・サンセット・ハイキング",
+      "description": "グリフィス・パークでの家族向けハイキング。天文台への眺望コースは子どもにも適切で、無料で楽しめ、5月の爽やかな天候が最適。ピクニックも可能。",
+      "date": "5月中旬〜下旬",
+      "place": "グリフィス・オブザーバトリー・ロード、ロサンゼルス",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "Santa Monica Pier - Summer Season Opening",
-      "description": "ビーチシーズンの始まり。遊園地、ゲーム、レストラン、海水浴が楽しめる。家族向けアトラクション豊富な屋外スポット。",
-      "date": "5月中旬〜下旬",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
-      "free": true
+      "title": "ディズニーランド・リゾート スプリング・プログラム",
+      "description": "5月のディズニーランドでは季節限定デコレーション、子ども向けキャラクターイベント、スペシャルショーなどが開催。GW後のゆったりした混雑で家族向けに最適。",
+      "date": "5月全体",
+      "place": "ディズニーランド・リゾート、アナハイム（ロサンゼルス近郊）",
+      "link": "https://disneyland.disney.go.com",
+      "free": false
     },
     {
-      "title": "Los Angeles Zoo - Spring Wildlife Discovery Program",
-      "description": "動物園の春の特別プログラム。新生仔動物の展示や子ども向けワークショップ。約1200種の動物が見学できます。",
-      "date": "5月上旬〜下旬",
-      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "title": "ロサンゼルス・カウンティ・ミュージアム・オブ・アート（LACMA）スプリング・キッズ・プログラム",
+      "description": "5月に開催される子ども向けの特別プログラム。美術工芸ワークショップ、家族向けツアー、インタラクティブ展示体験など。年齢別プログラム充実。",
+      "date": "5月中旬〜下旬",
+      "place": "LACMA、ロサンゼルス",
+      "link": "https://www.lacma.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:49.242Z"
+  "updatedAt": "2026-05-21T01:55:51.103Z"
 }

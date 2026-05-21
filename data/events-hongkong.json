@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港フローラルエキスポ（春季展示）",
-      "description": "ビクトリアパークで開催される花卉展示。様々な春の花が展示され、家族で季節の花を楽しめます。無料で散策可能なエリアもあります。",
-      "date": "5月上旬〜中旬",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣",
-      "link": "https://www.lcsd.gov.hk/tc/events/",
+      "title": "香港ドラゴンボート・フェスティバル",
+      "description": "伝統的なドラゴンボートレースの祭り。色とりどりのボートが競い、獅子舞や伝統音楽も楽しめます。家族連れに人気で、雰囲気の良い観覧スポットから無料で鑑賞できます。",
+      "date": "5月中旬（旧暦5月初5日）",
+      "place": "ビクトリアハーバー（香港島・九龍サイド）",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "スターフェリー乗船体験（スターフェリーアドベンチャー）",
-      "description": "香港の象徴的な赤いスターフェリーで、ビクトリア湾をクルージング。子どもも楽しめるアイコニックな海上アクティビティです。",
-      "date": "5月通年催行",
-      "place": "スターフェリー乗り場（セントラル〜尖沙咀間など）",
-      "link": "https://www.starferry.com.hk/",
+      "title": "M+ 博物館の子ども向け特別プログラム",
+      "description": "現代美術館での家族向けワークショップやアート体験。季節ごとに異なるプログラムがあり、子どもの創造性を引き出す企画が充実しています。",
+      "date": "5月通期（週末など）",
+      "place": "M+ Museum, West Kowloon Cultural District, 九龍",
+      "link": "https://www.mplus.org.hk",
       "free": false
     },
     {
-      "title": "スタンレービーチファミリーデー",
-      "description": "南部香島のスタンレービーチで開催される家族向けビーチアクティビティ。海水浴、砂浜での遊びなど屋外での楽しい時間。",
-      "date": "5月中旬〜下旬",
-      "place": "スタンレービーチ（Stanley Beach）、南区",
-      "link": "",
+      "title": "スターフェリー・ビクトリアハーバー巡航",
+      "description": "香港の象徴的な乗り物。子どもたちはデッキから海の景色を楽しめます。涼しい朝に乗船するのがおすすめ。往復わずかな料金で、ハーバーの絶景を体験できます。",
+      "date": "5月通期（毎日運行）",
+      "place": "スターフェリー乗船所（セントラル～尖沙咀）",
+      "link": "https://www.starferry.com.hk",
+      "free": false
+    },
+    {
+      "title": "香港公園の野外体験＆ピクニック",
+      "description": "セントラルの緑豊かな公園。池での野鳥観察、遊具広場、温室での植物鑑賞が無料で楽しめます。5月の気候は外遊びに最適で、家族連れが多いスポットです。",
+      "date": "5月通期（毎日開放）",
+      "place": "Hong Kong Park, Central, 香港島",
+      "link": "https://www.lcsd.gov.hk",
       "free": true
     },
     {
-      "title": "香港科学館 こども実験室スペシャル",
-      "description": "香港科学館で開催される春季子ども向け特別展示。対話型展示で科学の楽しさを学べます。乳幼児から小学生まで対応。",
-      "date": "5月上旬〜下旬",
-      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀",
-      "link": "https://www.lcsd.gov.hk/sc_chi/museums/hksm/",
-      "free": false
-    },
-    {
-      "title": "泳ぐドラゴン祭り（Dragon Boat Races関連イベント）",
-      "description": "端午節（ドラゴンボートフェスティバル）の時期に各地で開催される家族向けイベント。伝統的な龍舟レースや文化体験が楽しめます。",
-      "date": "5月下旬〜6月初旬（農暦5月5日）",
-      "place": "ジャービス湾（Jarvus Bay）、フォーショア湾など複数会場",
-      "link": "https://www.discoverhongkong.com/",
+      "title": "スタンレー・ビーチでの海水浴＆週末マーケット",
+      "description": "香港島南部のビーチリゾート。5月は温水で泳げる季節。近隣のスタンレー・プラザでは地元マーケットも開催。家族でビーチライフを満喫できます。",
+      "date": "5月通期（週末マーケット）",
+      "place": "Stanley Beach & Stanley Plaza, 香港島南部",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:07:12.413Z"
+  "updatedAt": "2026-05-21T01:56:15.153Z"
 }
