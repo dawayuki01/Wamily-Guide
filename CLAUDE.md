@@ -57,6 +57,7 @@ docs/archive/ の古い版は無視してください。
 | community.yml（日次） | 毎日 9:30 JST | バトン通知 + マイルストーン + ホストリマインダー |
 | community.yml（週次） | 毎週月曜 10:00 JST | GA4レポート + Notionダッシュボード更新 + SNS分析 + 編集レポート |
 | check-image-urls.yml | 毎週月曜 10:30 JST | HTML内Unsplash画像URLの死活チェック（404→Slack通知） |
+| ui-patrol.yml | 毎週火曜 10:00 JST | Playwrightで本番サイトを巡回。横スクロール / JSエラー / 404 を検知 → Slack通知 |
 | strategy.yml | 毎月1日 10:00 JST | 参謀室 月次業界レポート |
 | add-spots.yml | 手動実行 | スポット自動追加（Google Places API → Notion） |
 | translate-spots.yml | 手動実行 | スポット説明文の日本語化（Claude API） |
