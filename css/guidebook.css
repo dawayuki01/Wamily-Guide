@@ -432,6 +432,7 @@ body {
   background: var(--cream);
   padding: 6rem 0 7rem;
   position: relative;
+  overflow-x: hidden;  /* カルーセルの track が body を突き抜けるのを防ぐ */
 }
 
 /* Decorative arc at top */
@@ -933,6 +934,20 @@ body {
   .gb2-tab-row {
     grid-template-columns: 1fr;
   }
+}
+
+/* ===== デスクトップ専用フォント拡大（スマホ・タブレット影響なし） ===== */
+@media (min-width: 901px) {
+  .gb2-about-body         { font-size: 1.12rem; line-height: 2.1; }
+  .gb2-about-quote p      { font-size: 1.05rem; line-height: 2.0; }
+  .gb2-about-quote cite   { font-size: 0.85rem; }
+  .gb2-feat-title         { font-size: 1.0rem; }
+  .gb2-feat-desc          { font-size: 0.92rem; line-height: 1.75; }
+  .gb2-section-sub        { font-size: 1.0rem; }
+  .gb2-hero-sub           { font-size: 1.15rem; line-height: 1.9; }
+  .gb2-tab-guide-title    { font-size: 0.82rem; }
+  .gb2-ccard-city         { font-size: 1.05rem; }
+  .gb2-ccard-country      { font-size: 0.88rem; }
 }
 
 @media (max-width: 600px) {
