@@ -743,8 +743,10 @@ small { font-size: 12px; }
 .feed-avatar.owner { background: var(--mustard-light); border: 1.5px solid var(--mustard-border); }
 .feed-avatar.resident { background: var(--teal-light); border: 1.5px solid var(--teal-border); }
 
+/* feed-text は flex 子要素。min-width: 0 で日本語の長い文が親を押し広げないように */
+.feed-text { flex: 1 1 auto; min-width: 0; }
 .feed-country { font-size: 11px; color: var(--teal); font-weight: 500; margin-bottom: 2px; }
-.feed-body { font-size: 13px; color: var(--text-secondary); line-height: 1.75; }
+.feed-body { font-size: 13px; color: var(--text-secondary); line-height: 1.75; overflow-wrap: break-word; }
 .feed-date { font-size: 11px; color: var(--text-hint); margin-top: 5px; }
 
 /* ---------- Badges ---------- */
