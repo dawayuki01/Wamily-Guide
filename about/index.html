@@ -216,6 +216,12 @@
       border: 1px solid var(--border-main);
       border-radius: 12px;
     }
+    /* flex 子要素のテキスト div が日本語の長文で親を押し広げないように */
+    .about-value-item > div:not(.about-value-icon) {
+      flex: 1 1 0;
+      min-width: 0;
+    }
+    .about-value-text { overflow-wrap: break-word; }
     .about-value-icon {
       font-size: 22px;
       line-height: 1;
