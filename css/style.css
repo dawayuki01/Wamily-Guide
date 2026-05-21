@@ -1979,6 +1979,7 @@ small { font-size: 12px; }
   margin: 32px 0 0;
   padding: 24px 0;
   border-top: 1.5px solid var(--border-main);
+  overflow-x: hidden;  /* カード横並びが body を突き抜けるのを防ぐ */
 }
 
 .carousel-title {
@@ -2327,18 +2328,24 @@ small { font-size: 12px; }
   padding: 32px 28px;
   margin: 32px auto;
   max-width: 640px;
+  overflow-x: hidden;  /* 念のため横はみ出し防止 */
 }
 
 .host-card-inner {
   display: flex;
   gap: 20px;
   align-items: flex-start;
+  min-width: 0;  /* flex 親が縮めるように */
+  max-width: 100%;
 }
 
 /* テキスト側の flex 子要素が日本語の長文で親を押し広げないように */
 .host-card-body {
   flex: 1 1 0;
   min-width: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;  /* 長い英単語・URL も折り返し */
+  word-break: break-word;
 }
 .host-card-catchphrase,
 .host-card-quote,
