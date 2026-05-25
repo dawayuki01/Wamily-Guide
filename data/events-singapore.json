@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Dragon Boat Festival（ドラゴンボートフェスティバル）",
-      "description": "旧暦5月5日（2026年は5月31日頃）のドラゴンボートレース。シンガポール各地で開催され、カラフルなドラゴンボート、伝統音楽、屋台グルメが楽しめます。",
-      "date": "5月下旬",
-      "place": "Marina Bay, シンガポール",
-      "link": "https://www.visitsingapore.com",
-      "free": true
-    },
-    {
-      "title": "National Day Celebrations（ナショナルデー関連イベント）",
-      "description": "8月の建国記念日に向けた5月のプレイベント。家族向けのコンサート、ワークショップ、パレードリハーサルなどがシンガポール各地で無料開催。",
+      "title": "ドラゴンボート・フェスティバル（端午節）",
+      "description": "シンガポール川でカラフルなドラゴンボートのレース。子どもも観戦でき、屋台での食べ物も楽しめます。5月は夏至前の時期で祭りが開催されることが多いです。",
       "date": "5月中旬〜下旬",
-      "place": "Padang、Civic District、シンガポール全域",
-      "link": "https://www.visitsingapore.com",
+      "place": "シンガポール川（Singapore River）沿い、クラーク・キー周辺",
+      "link": "https://www.visitsingapore.com/",
       "free": true
     },
     {
-      "title": "Singapore Zoo - Wild Discoveries Program",
-      "description": "シンガポール動物園の季節プログラム。乳幼児から小学生対象の動物ふれあい体験、ガイドツアー、餌やりタイム。5月は気候が安定した時期で動物観察に最適。",
+      "title": "シンガポール・サイエンス・センター 特別展示・プログラム",
+      "description": "子ども向けの科学体験施設。季節ごとに特別展示やワークショップを開催。屋内で快適に楽しめます。乳幼児向けエリアもあります。",
       "date": "5月通年",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.singaporezoo.com",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park - Family Beach Activities",
-      "description": "シンガポール最大のビーチパークで、5月は水温が温暖。子ども向けのビーチゲーム、シュノーケリング教室、サイクリング、ピクニック。無料エリアも多数。",
-      "date": "5月上旬〜下旬",
+      "title": "ガーデンズ・バイ・ザ・ベイ フラワー・ドーム 季節展示",
+      "description": "世界最大級の屋内植物園。5月は四季咲きの花々が美しい季節。涼しい屋内で子どもと一緒にゆったり散策できます。",
+      "date": "5月通年",
+      "place": "18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg/",
+      "free": false
+    },
+    {
+      "title": "イースト・コースト・パーク ビーチアクティビティ・ウォーター・スポーツ",
+      "description": "シンガポール最大のビーチパーク。子ども向けの浅いプールエリア、自転車レンタル、ピクニックエリアがあります。無料で利用できるビーチもあります。",
+      "date": "5月通年",
       "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449855",
-      "link": "https://www.nparks.gov.sg",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Children's Season at Changi Airport",
-      "description": "チャンギ空港の子ども向け体験施設。飛行機見学、キッズ遊び場、対話型展示。5月はスクール休暇期間と重なり、特別キッズプログラムが充実。",
-      "date": "5月中旬〜下旬",
-      "place": "Singapore Changi Airport, 65 Airport Boulevard, Singapore 819663",
-      "link": "https://www.changiairport.com",
+      "title": "ナイト・サファリ 家族向けツアー",
+      "description": "夜間の動物園体験。5月の熱帯の夜間は涼しく快適。幼児から小学生まで家族向けプログラムあり。夜間の動物の活動が見られます。",
+      "date": "5月通年",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.nightsafari.com.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-21T01:55:21.008Z"
+  "updatedAt": "2026-05-25T02:01:45.156Z"
 }

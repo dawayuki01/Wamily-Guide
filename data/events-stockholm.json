@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国王の誕生日パレード",
-      "description": "5月6日に王宮前で開催される国王陛下の誕生日を祝うパレード。衛兵交代式や音楽隊の演奏が行われ、家族で王室文化を体験できます。",
-      "date": "5月6日",
-      "place": "王宮（Kungliga slottet）、Gamla Stan",
-      "link": "https://www.kunglicheresidenser.se/en/",
-      "free": true
-    },
-    {
-      "title": "スカンセン屋外博物館での春の特別展示",
-      "description": "北欧最大級の屋外博物館。5月は動物たちが活動を始め、春の花が咲き乱れる季節。子ども向けのアクティビティやスウェーデン伝統文化を体験できます。",
-      "date": "5月全期間",
-      "place": "Skansen, Djurgården",
-      "link": "https://www.skansen.se/en/",
+      "title": "スキャンセン野外博物館の春祭り",
+      "description": "北欧最古の野外博物館で、5月中旬に行われる春の祭り。伝統工芸の実演、民族衣装の展示、昔ながらの遊びなど家族向けプログラムが充実。",
+      "date": "5月中旬",
+      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ストックホルム群島での屋外船上ツアー",
-      "description": "5月は群島の島々を巡る船ツアーのシーズン開始。島での野外活動や自然観察、家族向けのガイド付きツアーで北欧の自然を満喫できます。",
-      "date": "5月中旬〜下旬",
-      "place": "Strandvägen桟橋、ストックホルム中心部",
-      "link": "https://www.stockholmsightseeing.com/",
-      "free": false
-    },
-    {
-      "title": "リラダルホルメン島での屋外遊び場と自然散策",
-      "description": "ストックホルムの緑豊かな島。5月は新緑の季節で、子ども向けの遊び場、ピクニックスポット、遊歩道での散策が無料で楽しめます。",
-      "date": "5月全期間",
-      "place": "Lilliehöjden, Djurgården",
-      "link": "",
+      "title": "ユーランデン島のチューリップ庭園散策",
+      "description": "ストックホルム郊外のユーランデン島で、5月が見頃のチューリップとライラックの花園を散策。無料で楽しめる自然の中での家族向けウォーキングアクティビティ。",
+      "date": "5月上旬〜中旬",
+      "place": "Drottningholm Palace Gardens, Drottningholmsvägen, 171 61 Stockholm",
+      "link": "https://www.kungligaslotten.se",
       "free": true
     },
     {
-      "title": "スウェーデン自然史博物館の子ども向け春プログラム",
-      "description": "動物や自然に関する展示と子ども向けのワークショップ。5月は生態系や春の生き物をテーマにした体験学習プログラムが開催されます。",
-      "date": "5月全期間",
-      "place": "Frescativägen 40, Stockholm",
-      "link": "https://www.nrm.se/en.html",
+      "title": "スウェーデン王立図書館の子ども向けイベント",
+      "description": "ストックホルムの図書館で開催される5月の子ども向けストーリータイム、クラフトワークショップ。読み聞かせや創作活動が無料で体験できる。",
+      "date": "5月中旬〜下旬（毎週開催）",
+      "place": "Stadsbiblioteket, Sveavägen 73, 104 20 Stockholm",
+      "link": "https://www.biblioteket.stockholm.se",
+      "free": true
+    },
+    {
+      "title": "ストックホルム群島でのボート・カヤック体験",
+      "description": "5月の穏やかな気候を利用して、ストックホルム群島の島々を巡るファミリー向けボートツアーやガイド付きカヤック。自然観察や屋外冒険が楽しめる。",
+      "date": "5月上旬〜下旬",
+      "place": "Stockholm Archipelago, Various departure points from Norrmalm waterfront",
+      "link": "https://www.visitstockholm.com",
+      "free": false
+    },
+    {
+      "title": "ユーランデン宮殿の春期オープンと子ども向けガイドツアー",
+      "description": "5月に開園するドロットニングホルム宮殿で、家族向けの特別ガイドツアーや宮殿の庭園散策。王室の歴史を学びながら、広大な庭園を探索できる。",
+      "date": "5月上旬（開園）",
+      "place": "Drottningholms Palace, 171 61 Ekerö, Stockholm",
+      "link": "https://www.kungligaslotten.se/drottningholm-palace",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-21T01:55:13.744Z"
+  "updatedAt": "2026-05-25T02:01:36.884Z"
 }

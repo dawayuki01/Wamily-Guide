@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・フローラル公園（Bois de Vincennes Parc Floral）- 春の花々と子ども向けアクティビティ",
-      "description": "5月は牡丹やバラが見頃。子ども向けの迷路、遊び場、ミニ列車が楽しめます。春の花々に囲まれた屋外での家族時間が最適です。",
-      "date": "5月全期間（特に中旬〜下旬）",
-      "place": "Bois de Vincennes, 75012 Paris",
-      "link": "https://www.parcfloraldeparis.com/",
+      "title": "パリ・フローラル（Paris Florale）",
+      "description": "5月のパリ植物園で開催される春の花祭り。色とりどりの花壇、香りのある庭園が満開。子ども向けのワークショップも開催されます。",
+      "date": "5月上旬〜下旬",
+      "place": "パリ植物園（Jardin des Plantes）、5 Rue Cuvier, 75005 Paris",
+      "link": "https://www.jardindesplantes.net",
       "free": false
     },
     {
-      "title": "フェスティバル・シネマ・パリジャン（週末のオープンエアシネマ）",
-      "description": "パリの公園や広場で開催される家族向けの屋外映画祭。5月は晴天が多く、子ども向け映画が上映されることもあります。",
-      "date": "5月下旬",
-      "place": "パリ市内各所（会場は年によって異なる）",
+      "title": "シャンゼリゼ通り・キッズマーケット（無料）",
+      "description": "5月の週末、シャンゼリゼ通り周辺で開催される家族向けマーケット。子ども向けアトラクション、クラフト体験、地元の食べ物が無料で楽しめます。",
+      "date": "5月の土日（週末ごと）",
+      "place": "シャンゼリゼ通り（Avenue des Champs-Élysées），Paris 8e",
+      "link": "https://www.paris.fr",
+      "free": true
+    },
+    {
+      "title": "セーヌ川ピクニック・パーク（無料）",
+      "description": "5月のセーヌ川左岸でのピクニックエリア。緑地、子ども向け遊具、水辺での散歩が無料で楽しめます。家族連れに人気のアウトドアアクティビティです。",
+      "date": "5月全期間",
+      "place": "セーヌ川左岸（Rive Gauche du Seine），Paris 5e・6e",
       "link": "",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園での砂場・遊具エリア",
-      "description": "パリ最大級の子ども向け遊び場。5月の気候に恵まれた季節、乳幼児から小学生まで楽しめます。公園散策と無料で1日過ごせます。",
-      "date": "5月全期間",
-      "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardin/index.html",
-      "free": true
+      "title": "ルーヴル美術館・キッズツアー",
+      "description": "5月開催の子ども向けガイド付きツアー。名画を分かりやすく解説。4歳以上対象で、約1時間のプログラム。家族で楽しむアート体験です。",
+      "date": "5月全期間（週ごとの開催）",
+      "place": "ルーヴル美術館（Musée du Louvre），Rue de Rivoli, 75004 Paris",
+      "link": "https://www.louvre.fr",
+      "free": false
     },
     {
-      "title": "フリー・マーケット・プロテン（Marché aux Fleurs et Oiseaux）",
-      "description": "5月は花と野菜の露店が充実。子どもも楽しめる活気あるマーケット。朝の散策は家族にとって素敵な経験になります。",
-      "date": "5月全期間（特に週末）",
-      "place": "Place Louis-Lépine, Île de la Cité, 75004 Paris",
-      "link": "https://www.paris.fr/pages/les-marches-de-paris-7",
-      "free": true
-    },
-    {
-      "title": "シテ科学館（Cité des Sciences et de l'Industrie）- 春の特別展示",
-      "description": "子ども専用エリア「キッズスペース」では体験型展示が充実。5月の春企画展も開催。乳幼児から楽しめる科学館です。",
-      "date": "5月全期間",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/",
+      "title": "バガテル庭園・バラ祭り（Fête des Roses）",
+      "description": "5月中旬、バガテル庭園で開催されるバラ祭り。1,000種以上のバラが満開。子ども向けガイドツアー、写真コンテスト、ワークショップが楽しめます。",
+      "date": "5月中旬〜下旬",
+      "place": "バガテル庭園（Parc de Bagatelle），Route de Sèvres à Neuilly, 75016 Paris",
+      "link": "https://www.paris.fr/bagatelle",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-21T01:55:06.396Z"
+  "updatedAt": "2026-05-25T02:01:28.728Z"
 }

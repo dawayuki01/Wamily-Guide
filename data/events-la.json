@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フェスティバル・オブ・ブックス",
-      "description": "毎年4月下旬〜5月初旬に開催される北米最大規模の屋外ブックフェスティバル。子ども向けのストーリータイム、ワークショップ、キャラクターグリーティングなど多数のプログラムがあります。",
-      "date": "5月上旬",
-      "place": "USC キャンパス（南カリフォルニア大学）、ロサンゼルス",
-      "link": "https://www.laboofest.com",
-      "free": true
-    },
-    {
-      "title": "ガーデナ・ジャパニーズ・フェスティバル",
-      "description": "5月中旬に開催される日本文化の祭典。屋台、盆踊り、太鼓演奏、子ども向けゲームコーナーなど、家族で楽しめるイベントが充実しています。",
-      "date": "5月中旬",
-      "place": "ガーデナ・シビックセンター、ガーデナ",
-      "link": "https://www.gardenajapanesefestival.org",
-      "free": true
-    },
-    {
-      "title": "グリフィス・オブザーバトリー・サンセット・ハイキング",
-      "description": "グリフィス・パークでの家族向けハイキング。天文台への眺望コースは子どもにも適切で、無料で楽しめ、5月の爽やかな天候が最適。ピクニックも可能。",
+      "title": "ロサンゼルス・キッズ・フェスティバル",
+      "description": "子ども向けの音楽、アート、食べ物が楽しめるファミリーフェスティバル。ステージパフォーマンス、ワークショップ、キッズゲームが充実しており、乳幼児から小学生まで楽しめます。",
       "date": "5月中旬〜下旬",
-      "place": "グリフィス・オブザーバトリー・ロード、ロサンゼルス",
+      "place": "Grand Park, 200 N Spring St, Los Angeles, CA 90012",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "グリフィス天文台でのプラネタリウムと恐竜展示",
+      "description": "ロサンゼルスの絶景スポットにある天文台。子ども向けプラネタリウム、インタラクティブ天文学展示、恐竜の骨格標本が展示されています。展望台から市街地を一望できます。",
+      "date": "5月通年開催",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "ディズニーランド・リゾート スプリング・プログラム",
-      "description": "5月のディズニーランドでは季節限定デコレーション、子ども向けキャラクターイベント、スペシャルショーなどが開催。GW後のゆったりした混雑で家族向けに最適。",
-      "date": "5月全体",
-      "place": "ディズニーランド・リゾート、アナハイム（ロサンゼルス近郊）",
-      "link": "https://disneyland.disney.go.com",
+      "title": "ロサンゼルス・モーターショー・キッズデー",
+      "description": "自動車好きな子ども向けのイベント。最新車の展示、シミュレーター体験、自動車関連のワークショップが開催されます。家族向けの楽しい体験が豊富です。",
+      "date": "5月中旬",
+      "place": "Los Angeles Convention Center, 1201 S Figueroa St, Los Angeles, CA 90015",
+      "link": "https://www.laautoshow.com",
       "free": false
     },
     {
-      "title": "ロサンゼルス・カウンティ・ミュージアム・オブ・アート（LACMA）スプリング・キッズ・プログラム",
-      "description": "5月に開催される子ども向けの特別プログラム。美術工芸ワークショップ、家族向けツアー、インタラクティブ展示体験など。年齢別プログラム充実。",
-      "date": "5月中旬〜下旬",
-      "place": "LACMA、ロサンゼルス",
-      "link": "https://www.lacma.org",
+      "title": "ビーチでのサンセット・キッズ・プログラム",
+      "description": "マリブやサンタモニカビーチで開催される子ども向けの海岸生物学ワークショップ。磯の生き物探索、砂浜のアート製作など、屋外で自然を学べます。",
+      "date": "5月下旬の週末",
+      "place": "Santa Monica Beach, Santa Monica, CA 90401",
+      "link": "https://www.smgov.net/departments/parksrec/",
       "free": false
+    },
+    {
+      "title": "LA Live のスプリング・ファミリー・フェスティバル",
+      "description": "ダウンタウンのエンターテインメント施設で開催。子ども向けのライブパフォーマンス、フェイスペイント、季節限定の屋台フードが楽しめるファミリー向けイベント。",
+      "date": "5月上旬〜中旬",
+      "place": "LA Live, 800 W Olympic Blvd, Los Angeles, CA 90015",
+      "link": "https://www.lalive.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-21T01:55:51.103Z"
+  "updatedAt": "2026-05-25T02:02:13.555Z"
 }

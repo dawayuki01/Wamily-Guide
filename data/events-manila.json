@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・フェスティバル・オブ・フラワーズ（Feast of Flowers）",
-      "description": "5月はマニラの公園や施設で花の展示が行われます。色とりどりの花の装飾、ガーデンショー、子ども向けワークショップなど、自然に触れる機会が満載です。",
-      "date": "5月上旬〜中旬",
-      "place": "ロハス・ブールバード（Roxas Boulevard）周辺、トウンド・パーク（Tolentino Park）など",
-      "link": "https://www.manilahotel.com.ph",
+      "title": "Flores de Mayo（花の月祭り）",
+      "description": "5月を通じて開催される宗教的祭り。教会での行列や花飾りの展示、地域のパレードなど。子どもたちが花冠をかぶって参加できる体験型イベントです。",
+      "date": "5月1日〜31日",
+      "place": "マニラ首都圏各地の教会・コミュニティ",
+      "link": "",
       "free": true
     },
     {
-      "title": "スター・シティ・テーマパーク（Star City）",
-      "description": "フィリピン最大級のテーマパーク。子ども向けアトラクション、観覧車、回転木馬など家族向けのアクティビティが充実。5月は乾季で比較的過ごしやすい時期です。",
-      "date": "5月通年営業",
-      "place": "Roxas Boulevard, Port Area, Manila, 1018",
-      "link": "https://www.starcity.com.ph",
+      "title": "Butterfly Pavilion（バタフライパビリオン）- SM Mall of Asia内",
+      "description": "蝶の生態を学べる体験型施設。色鮮やかな蝶との触れ合いや自然教育プログラムが充実。乳幼児から小学生まで楽しめます。",
+      "date": "通年営業（5月も開館）",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
       "free": false
     },
     {
-      "title": "フィリピン国立博物館・自然史部門（National Museum of Natural History）",
-      "description": "子どもが学べるインタラクティブ展示や恐竜の骨格標本が充実。夏休み前の5月は特別な子ども向けプログラムが開催される可能性があります。",
-      "date": "5月通年営業",
-      "place": "Padre Burgos Avenue, Santo Domingo, Manila",
-      "link": "https://nationalmuseum.gov.ph",
+      "title": "Rizal Park（リサール公園）でのアウトドア活動",
+      "description": "マニラの広大な緑地公園。5月は気温が高いため早朝の散策がおすすめ。無料で遊べる遊具、池でのボート体験、野外ステージでのイベントなど。",
+      "date": "5月通年（早朝6-9時頃が最適）",
+      "place": "Rizal Park, Ermita, Manila",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "モアグ島日帰りアイランドツアー（Moag Island Tour）",
-      "description": "マニラから数時間で行けるビーチアイランド。シュノーケリング、海水浴、砂浜での遊びなど、家族でビーチを満喫できる屋外アクティビティです。5月は乾季で天候が安定しています。",
-      "date": "5月通年開催（天候確認推奨）",
-      "place": "モアグ島、ナボタス港出発",
-      "link": "",
+      "title": "Manila Ocean Park - サマースペシャルプログラム",
+      "description": "水族館・遊園地。5月夏休みシーズンに子ども向けの特別教育プログラムやステージショーを開催。イルカショーやタッチプール体験が人気。",
+      "date": "5月中旬〜下旬（サマープログラム期間）",
+      "place": "Manila Ocean Park, CCP Complex, Pasay City",
+      "link": "https://www.manilaoceanpark.com/",
       "free": false
     },
     {
-      "title": "キアポ教会周辺・ファーマーズマーケット（Quiapo Church Farmers Market）",
-      "description": "日曜朝に開催される地元農産物市場。新鮮なフルーツ、野菜、フィリピン民芸品が並びます。無料で散策でき、地元文化を体験しながら子どもが学べます。",
-      "date": "5月毎週日曜朝",
-      "place": "Quiapo, Manila",
-      "link": "",
-      "free": true
+      "title": "Enchanted Kingdom - サマーフェスティバル",
+      "description": "テーマパーク。5月のサマーシーズンに子ども向けアトラクション強化やキャラクターグリーティング、特別ショーを実施。乗り物系から小さい子向けまで幅広い。",
+      "date": "5月中旬〜下旬",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから約1時間）",
+      "link": "https://www.enchantedkingdom.ph/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-21T01:55:38.490Z"
+  "updatedAt": "2026-05-25T02:02:05.992Z"
 }

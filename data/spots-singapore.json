@@ -199,8 +199,8 @@
       "category": "food",
       "layer": "play",
       "description": "Rating: 4.8 (8691 reviews)",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJnwEqK_ob2jERigIup3c7c5I",
@@ -231,8 +231,8 @@
       "category": "food",
       "layer": "play",
       "description": "Rating: 4.7 (12923 reviews)",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
       "checkedDate": "2026年5月",
       "placeId": "ChIJe1Nk15oZ2jERxPIknBLq5Ho",
@@ -247,10 +247,10 @@
       "category": "food",
       "layer": "play",
       "description": "グッド・バイツ：スポーツ複合施設内の、温かみのあるレストランで家庭の味が食べられます。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
-      "checkedDate": "2026年4月",
+      "checkedDate": "2026年5月",
       "placeId": "ChIJUVukECoX2jERljPE4j6MVYA",
       "extra": false,
       "lat": 1.3555789,
@@ -321,5 +321,5 @@
       "lng": 103.82
     }
   ],
-  "checkedAt": "2026-05-24T01:53:37.385Z"
+  "checkedAt": "2026-05-25T02:03:14.436Z"
 }

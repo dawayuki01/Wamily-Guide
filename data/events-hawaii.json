@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Lei Day（レイ・デー）",
-      "description": "ハワイ文化を象徴するレイの日。パレード、フラダンス、レイ作り体験、ハワイアン音楽など、家族で楽しめるイベントがワイキキやダウンタウンで開催されます。",
-      "date": "5月1日",
-      "place": "ワイキキ、ホノルル各所",
-      "link": "https://www.gohawaii.com/ja",
+      "description": "ハワイの伝統文化を祝う日。レイ作り体験、フラダンス、ハワイアン音楽が楽しめます。子どもも参加できるワークショップが多数開催されます。",
+      "date": "5月1日前後",
+      "place": "イオラニ宮殿、カピオラニ公園など各地で開催",
+      "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Spring Activities",
-      "description": "ホノルル動物園の春の特別プログラム。乳幼児向けの動物ふれあいタイム、ガイドツアー、屋外での学習プログラムが充実。家族で生き物観察を楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ",
+      "title": "Honolulu Zoo Summer Concert Series（準備期間）",
+      "description": "夏シーズン開始前のホノルル動物園。トロピカルな環境で動物観察が楽しめ、子ども向けプログラムも充実。園内は広く自由に散策できます。",
+      "date": "5月中旬〜下旬",
+      "place": "ホノルル動物園、ワイキキ",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "Lanikai Beach での海水浴・シュノーケリング",
-      "description": "ハワイで最も美しいビーチの一つ。浅瀬で子ども向けのシュノーケリングやビーチプレイに最適。海の生き物観察と安全な遊泳が可能です。",
-      "date": "5月中旬〜下旬（気象条件確認推奨）",
-      "place": "ラニカイビーチ、カイルア町",
-      "link": "https://www.gohawaii.com/ja/oahu/beaches",
-      "free": true
-    },
-    {
-      "title": "Waikiki Shell Museum Summer Kick-off",
-      "description": "ワイキキの貝殻博物館による春の特別展示・ワークショップ。子ども向けの貝殻クラフト体験、海洋生物教室が開催されます。",
-      "date": "5月上旬〜中旬",
-      "place": "ワイキキ・シェル・ミュージアム",
-      "link": "https://www.waikikishellmuseum.com/",
+      "title": "Maui Onion Festival（マウイ・オニオンフェスティバル）",
+      "description": "マウイ島で開催される食の祭典。地元の新鮮な野菜やローカルフード、キッズエリアでの体験が楽しめます。家族向けアクティビティが豊富。",
+      "date": "5月上旬",
+      "place": "マウイ島ワイレア地区",
+      "link": "https://www.mauionionsfestival.com/",
       "free": false
     },
     {
-      "title": "Farmers Market at KCC（KCCファーマーズマーケット）",
-      "description": "地元の新鮮な果物、野菜、ハワイアンフードが並ぶ週末マーケット。キッズコーナーで無料体験があり、家族で地元文化と食を楽しめます。",
-      "date": "5月毎週土日",
-      "place": "KCC、ハワイ大学農業部キャンパス",
-      "link": "https://kcc.hawaii.edu/kcc-farmers-market/",
+      "title": "ダイアモンドヘッド・ハイキング",
+      "description": "ワイキキの象徴的なハイキング。往復約2時間で、子どもも挑戦できます。5月は比較的涼しく、頂上からの景色は絶景。早朝出発がおすすめ。",
+      "date": "5月全期間（早朝推奨）",
+      "place": "ダイアモンドヘッド州立公園、ワイキキ",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "free": false
+    },
+    {
+      "title": "Waikiki Beach での海水浴・ビーチアクティビティ",
+      "description": "5月は水温も気温も快適。遠浅で安全なビーチエリア、ボディサーフィン、シュノーケリング体験が可能。無料で家族で丸一日楽しめます。",
+      "date": "5月全期間",
+      "place": "ワイキキビーチ、ホノルル",
+      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-21T01:55:58.463Z"
+  "updatedAt": "2026-05-25T02:02:21.134Z"
 }
