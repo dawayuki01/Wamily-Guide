@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・キッズ・フェスティバル",
-      "description": "子ども向けの音楽、アート、食べ物が楽しめるファミリーフェスティバル。ステージパフォーマンス、ワークショップ、キッズゲームが充実しており、乳幼児から小学生まで楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "Grand Park, 200 N Spring St, Los Angeles, CA 90012",
-      "link": "",
+      "title": "ロサンゼルス・フェスティバル・オブ・ブックス",
+      "description": "毎年4月下旬～5月上旬に開催される北米最大級の書籍フェスティバル。子ども向けの読み聞かせ、工作ワークショップ、キャラクターグリーティングなど多数のプログラムが開催されます。",
+      "date": "5月上旬",
+      "place": "ロサンゼルス公立図書館周辺（downtown Los Angeles）",
+      "link": "https://www.lapl.org/ladayofthebook",
       "free": true
     },
     {
-      "title": "グリフィス天文台でのプラネタリウムと恐竜展示",
-      "description": "ロサンゼルスの絶景スポットにある天文台。子ども向けプラネタリウム、インタラクティブ天文学展示、恐竜の骨格標本が展示されています。展望台から市街地を一望できます。",
-      "date": "5月通年開催",
+      "title": "Getty Center の春の特別展示・ファミリープログラム",
+      "description": "美術館のファミリーデー開催。子ども向けの美術館ツアー、工作体験、スクリーンチェア等が無料で楽しめます。庭園散策も最高の季節です。",
+      "date": "5月通期（特に土日）",
+      "place": "Getty Center, 1200 Getty Center Dr, Los Angeles, CA 90049",
+      "link": "https://www.getty.edu",
+      "free": true
+    },
+    {
+      "title": "ハンティントン・ビーチ・サンフラワー・フェスティバル",
+      "description": "5月に開催される花と音楽の祭り。子ども向けの工作コーナー、ステージパフォーマンス、地元グルメが集結。太平洋を背景にした屋外イベントで家族で楽しめます。",
+      "date": "5月中旬",
+      "place": "Huntington Central Park, Huntington Beach, CA",
+      "link": "https://www.surfcityusa.com/events/",
+      "free": false
+    },
+    {
+      "title": "グリフィス天文台（Griffith Observatory）での春の天体観測プログラム",
+      "description": "無料入場可能な天文台。5月は晴天が多く、昼間の太陽観測ツアーや夜間の星空観察プログラムが充実。子ども向け解説も多数あります。",
+      "date": "5月通期",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "ロサンゼルス・モーターショー・キッズデー",
-      "description": "自動車好きな子ども向けのイベント。最新車の展示、シミュレーター体験、自動車関連のワークショップが開催されます。家族向けの楽しい体験が豊富です。",
-      "date": "5月中旬",
-      "place": "Los Angeles Convention Center, 1201 S Figueroa St, Los Angeles, CA 90015",
-      "link": "https://www.laautoshow.com",
-      "free": false
-    },
-    {
-      "title": "ビーチでのサンセット・キッズ・プログラム",
-      "description": "マリブやサンタモニカビーチで開催される子ども向けの海岸生物学ワークショップ。磯の生き物探索、砂浜のアート製作など、屋外で自然を学べます。",
-      "date": "5月下旬の週末",
-      "place": "Santa Monica Beach, Santa Monica, CA 90401",
-      "link": "https://www.smgov.net/departments/parksrec/",
-      "free": false
-    },
-    {
-      "title": "LA Live のスプリング・ファミリー・フェスティバル",
-      "description": "ダウンタウンのエンターテインメント施設で開催。子ども向けのライブパフォーマンス、フェイスペイント、季節限定の屋台フードが楽しめるファミリー向けイベント。",
-      "date": "5月上旬〜中旬",
-      "place": "LA Live, 800 W Olympic Blvd, Los Angeles, CA 90015",
-      "link": "https://www.lalive.com",
+      "title": "ロサンゼルス・ハイキング：ビッグ・トゥジュンガ・キャニオン・トレイル",
+      "description": "初心者向けの家族ハイキング。5月は緑が深く気候も快適。往復2～3時間で季節の野生動物や花が見られ、子ども連れに最適な屋外アクティビティです。",
+      "date": "5月通期",
+      "place": "Big Tujunga Canyon Trail, Sunland, Los Angeles, CA",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-25T02:02:13.555Z"
+  "updatedAt": "2026-05-28T01:44:45.953Z"
 }

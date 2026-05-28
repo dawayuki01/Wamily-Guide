@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Lei Day（レイ・デー）",
-      "description": "ハワイの伝統文化を祝う日。レイ作り体験、フラダンス、ハワイアン音楽が楽しめます。子どもも参加できるワークショップが多数開催されます。",
+      "description": "ハワイの伝統文化を祝う日。5月1日はハワイ全島でレイメイキング体験やパレード、音楽演奏などが開催されます。子どもも一緒にレイ作りを体験できます。",
       "date": "5月1日前後",
-      "place": "イオラニ宮殿、カピオラニ公園など各地で開催",
+      "place": "ホノルル市街地・カピオラニ公園周辺、オアフ島全域",
       "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Summer Concert Series（準備期間）",
-      "description": "夏シーズン開始前のホノルル動物園。トロピカルな環境で動物観察が楽しめ、子ども向けプログラムも充実。園内は広く自由に散策できます。",
-      "date": "5月中旬〜下旬",
-      "place": "ホノルル動物園、ワイキキ",
+      "title": "Honolulu Zoo（ホノルル動物園）スプリングプログラム",
+      "description": "春季限定の子ども向けワークショップや動物との触れ合いプログラムが充実。キリンやゾウなど大型動物の観察が人気です。",
+      "date": "5月上旬〜中旬",
+      "place": "151 Kapahulu Ave, Honolulu, HI 96815",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "Maui Onion Festival（マウイ・オニオンフェスティバル）",
-      "description": "マウイ島で開催される食の祭典。地元の新鮮な野菜やローカルフード、キッズエリアでの体験が楽しめます。家族向けアクティビティが豊富。",
-      "date": "5月上旬",
-      "place": "マウイ島ワイレア地区",
-      "link": "https://www.mauionionsfestival.com/",
+      "title": "Makapuu Tide Pools（マカプウ・タイドプール）での磯遊び",
+      "description": "初夏の穏やかな海でシーゴーグラスやヒトデなどの海洋生物を観察。ハイキングコース（往復約4km）も子どもと楽しめます。",
+      "date": "5月中旬〜下旬（潮の満引き確認必須）",
+      "place": "Makapuu State Wayside, Honolulu, HI 96795",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "Waikiki Aquarium（ワイキキ水族館）キッズプログラム",
+      "description": "春季の特別展示やタッチプールで海の生き物と直接触れ合えます。乳幼児から小学生向けの教育プログラムが豊富です。",
+      "date": "5月全月",
+      "place": "2777 Kalakaua Ave, Honolulu, HI 96815",
+      "link": "https://www.waikikiaquarium.org/",
       "free": false
     },
     {
-      "title": "ダイアモンドヘッド・ハイキング",
-      "description": "ワイキキの象徴的なハイキング。往復約2時間で、子どもも挑戦できます。5月は比較的涼しく、頂上からの景色は絶景。早朝出発がおすすめ。",
-      "date": "5月全期間（早朝推奨）",
-      "place": "ダイアモンドヘッド州立公園、ワイキキ",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
-      "free": false
-    },
-    {
-      "title": "Waikiki Beach での海水浴・ビーチアクティビティ",
-      "description": "5月は水温も気温も快適。遠浅で安全なビーチエリア、ボディサーフィン、シュノーケリング体験が可能。無料で家族で丸一日楽しめます。",
-      "date": "5月全期間",
-      "place": "ワイキキビーチ、ホノルル",
-      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
+      "title": "Kailua Beach Park（カイルア・ビーチ）でのスノーケリング体験",
+      "description": "ハワイで最も美しいビーチ。5月は水温も暖かく、浅瀬でのスノーケリングやシュノーケルデビューに最適。家族向けツアーも多数あります。",
+      "date": "5月中旬〜下旬",
+      "place": "Kailua Beach Park, Kailua, HI 96734",
+      "link": "https://www.gohawaii.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-25T02:02:21.134Z"
+  "updatedAt": "2026-05-28T01:44:53.314Z"
 }

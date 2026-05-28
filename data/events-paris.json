@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・フローラル（Paris Florale）",
-      "description": "5月のパリ植物園で開催される春の花祭り。色とりどりの花壇、香りのある庭園が満開。子ども向けのワークショップも開催されます。",
-      "date": "5月上旬〜下旬",
-      "place": "パリ植物園（Jardin des Plantes）、5 Rue Cuvier, 75005 Paris",
-      "link": "https://www.jardindesplantes.net",
+      "title": "パリ・フローラル（Paris Floral）",
+      "description": "パリ東部ボワ・ド・ヴァンセンヌ公園で開催される国際花卉展。世界中から集められた花々と庭園デザインが展示され、子ども向けワークショップも充実しています。",
+      "date": "5月上旬〜中旬（通常第2週）",
+      "place": "Bois de Vincennes, Paris 12e",
+      "link": "https://www.paris-floraldesign.com",
       "free": false
     },
     {
-      "title": "シャンゼリゼ通り・キッズマーケット（無料）",
-      "description": "5月の週末、シャンゼリゼ通り周辺で開催される家族向けマーケット。子ども向けアトラクション、クラフト体験、地元の食べ物が無料で楽しめます。",
-      "date": "5月の土日（週末ごと）",
-      "place": "シャンゼリゼ通り（Avenue des Champs-Élysées），Paris 8e",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "セーヌ川ピクニック・パーク（無料）",
-      "description": "5月のセーヌ川左岸でのピクニックエリア。緑地、子ども向け遊具、水辺での散歩が無料で楽しめます。家族連れに人気のアウトドアアクティビティです。",
+      "title": "ルクセンブルク庭園の春季庭園開放と自由遊び",
+      "description": "パリで最も広い公園。5月は新緑が美しく、遊具、ボート池、砂場など子ども向けアクティビティが豊富。ピクニックにも最適です。",
       "date": "5月全期間",
-      "place": "セーヌ川左岸（Rive Gauche du Seine），Paris 5e・6e",
-      "link": "",
+      "place": "Jardin du Luxembourg, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardins/index.html",
       "free": true
     },
     {
-      "title": "ルーヴル美術館・キッズツアー",
-      "description": "5月開催の子ども向けガイド付きツアー。名画を分かりやすく解説。4歳以上対象で、約1時間のプログラム。家族で楽しむアート体験です。",
-      "date": "5月全期間（週ごとの開催）",
-      "place": "ルーヴル美術館（Musée du Louvre），Rue de Rivoli, 75004 Paris",
-      "link": "https://www.louvre.fr",
+      "title": "ポンピドゥー・センター子ども向けワークショップ",
+      "description": "モダンアート美術館で開催される5月のこども創作ワークショップ。アート体験を通じて子どもの創意を刺激する特別プログラムです。要事前申込。",
+      "date": "5月中旬〜下旬（日程は要確認）",
+      "place": "Centre Pompidou, Place Georges Pompidou, 75004 Paris",
+      "link": "https://www.centrepompidou.fr",
       "free": false
     },
     {
-      "title": "バガテル庭園・バラ祭り（Fête des Roses）",
-      "description": "5月中旬、バガテル庭園で開催されるバラ祭り。1,000種以上のバラが満開。子ども向けガイドツアー、写真コンテスト、ワークショップが楽しめます。",
-      "date": "5月中旬〜下旬",
-      "place": "バガテル庭園（Parc de Bagatelle），Route de Sèvres à Neuilly, 75016 Paris",
-      "link": "https://www.paris.fr/bagatelle",
+      "title": "パリ運河（Canal Saint-Martin）の春の散策とマーケット",
+      "description": "パリ運河沿いの散策は5月の天気で最適。毎週末、運河脇でフリマやアンティークマーケットが開催。子どもの歴史学習にもなります。",
+      "date": "5月全期間の週末",
+      "place": "Canal Saint-Martin, 75010 Paris",
+      "link": "https://www.parisinfo.com",
+      "free": true
+    },
+    {
+      "title": "アニマルパーク・ド・ボワ・ド・ヴァンセンヌ（パリ動物園）",
+      "description": "パリの伝統的な動物園。5月は新しい動物の赤ちゃんシーズン。広大な敷地で子どもたちが動物観察を楽しめます。季節限定プログラムも開催。",
+      "date": "5月全期間",
+      "place": "Avenue Daumesnil, Bois de Vincennes, 75012 Paris",
+      "link": "https://www.parczoologiquedeparis.fr",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-25T02:01:28.728Z"
+  "updatedAt": "2026-05-28T01:44:05.128Z"
 }

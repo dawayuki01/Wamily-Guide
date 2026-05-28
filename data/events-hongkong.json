@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "香港アート月間（Art Month）",
-      "description": "5月に開催される香港最大級のアート・デザインイベント。ギャラリーやミュージアムでの特別展示、ファミリー向けワークショップ、アートマーケットなど、子どもも楽しめる多彩なプログラムが展開されます。",
-      "date": "5月中旬〜下旬",
-      "place": "香港各地のギャラリー・ミュージアム・アートスペース",
-      "link": "https://www.discoverhongkong.com/",
-      "free": true
-    },
-    {
-      "title": "香港ディズニーランド夏季キャンペーン",
-      "description": "5月中旬から夏休みシーズンに向けた特別プログラムが始動。新しいアトラクションやキャラクター グリーティング、子ども向けの季節限定ショーが登場。涼しい朝間の来園がおすすめ。",
-      "date": "5月中旬〜6月下旬",
-      "place": "香港ディズニーランド、ランタオ島（Lantau Island）",
-      "link": "https://www.hongkongdisneyland.com/",
+      "description": "5月を中心に香港各地のギャラリーや美術館で開催されるアート展示会。子ども向けワークショップやファミリー向けの体験プログラムが充実しています。",
+      "date": "5月上旬〜下旬",
+      "place": "香港各地のギャラリー・美術館",
+      "link": "https://www.discoverhongkong.com",
       "free": false
     },
     {
-      "title": "スターフェリー沿いビクトリア・ハーバー散策",
-      "description": "スターフェリーで有名なビクトリア・ハーバーの沿岸を散策。アベニュー・オブ・スターズやスターフェリーターミナル周辺は無料で楽しめ、5月の気候は海風が気持ちよく、子どもも快適に過ごせます。",
+      "title": "ビクトリア・ピークでの屋外ハイキング",
+      "description": "5月の香港は初夏で天気も良く、ビクトリア・ピークからの眺望が最高。ファミリー向けのハイキングコースで自然を満喫できます。トラムで頂上まで行くこともできます。",
       "date": "5月上旬〜下旬",
-      "place": "ビクトリア・ハーバー沿岸（香港島中環・湾仔地区）",
-      "link": "https://www.discoverhongkong.com/",
+      "place": "Victoria Peak, Hong Kong",
+      "link": "https://www.discoverhongkong.com/en/see-do/attractions/victoria-peak.html",
       "free": true
     },
     {
-      "title": "香港科学館特別展示・キッズプログラム",
-      "description": "5月に開催される季節特別展示やハンズオン型の子ども向けワークショップ。インタラクティブな展示で科学を学べます。乳幼児向けの感覚遊びエリアもあり、全年齢で楽しめます。",
+      "title": "香港公園での無料散策と野外イベント",
+      "description": "広大な香港公園は5月に様々なファミリー向けイベントを開催。無料で楽しめ、遊具や池での観察も可能。季節ごとに異なるイベントが企画されています。",
       "date": "5月上旬〜下旬",
-      "place": "香港科学館、尖沙咀（Tsim Sha Tsui）",
-      "link": "https://www.lcsd.gov.hk/en/hm_muesm_sci.html",
+      "place": "Hong Kong Park, Central, Hong Kong",
+      "link": "https://www.lcsd.gov.hk/en/parks/hongkongpark/",
+      "free": true
+    },
+    {
+      "title": "香港科学館の期間限定展示と子ども向けプログラム",
+      "description": "毎年5月前後に子ども向けの特別展示やインタラクティブ・ワークショップを開催。STEM教育に基づいた体験学習で、年代別に楽しめる工夫があります。",
+      "date": "5月上旬〜下旬",
+      "place": "Hong Kong Science Museum, Tsim Sha Tsui, Hong Kong",
+      "link": "https://www.lcsd.gov.hk/en/hsm/",
       "free": false
     },
     {
-      "title": "トレイルウォーキング・ピクニック",
-      "description": "スターリング・スカイ・ウォークやビクトリア・ピークハイキングコースなど、5月の涼しい天気に恵まれた屋外トレイル。短時間で完走でき、子連れ向けコースも多数。景色も抜群です。",
+      "title": "スターフェリーでの海上クルーズ体験",
+      "description": "香港湾を往復するスターフェリーは格安で乗船でき、子どもにとって忘れられない体験に。5月は天気も良く、ビクトリア・ハーバーの景色が美しい季節です。",
       "date": "5月上旬〜下旬",
-      "place": "ビクトリア・ピーク周辺・ニュー・テリトリーのハイキングコース",
-      "link": "https://www.discoverhongkong.com/",
-      "free": true
+      "place": "Star Ferry Terminal, Central & Tsim Sha Tsui, Hong Kong",
+      "link": "https://www.starferry.com.hk",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-25T02:02:38.750Z"
+  "updatedAt": "2026-05-28T01:45:08.325Z"
 }
