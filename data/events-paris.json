@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・フローラル（Paris Floral）",
-      "description": "パリ東部ボワ・ド・ヴァンセンヌ公園で開催される国際花卉展。世界中から集められた花々と庭園デザインが展示され、子ども向けワークショップも充実しています。",
-      "date": "5月上旬〜中旬（通常第2週）",
-      "place": "Bois de Vincennes, Paris 12e",
-      "link": "https://www.paris-floraldesign.com",
-      "free": false
-    },
-    {
-      "title": "ルクセンブルク庭園の春季庭園開放と自由遊び",
-      "description": "パリで最も広い公園。5月は新緑が美しく、遊具、ボート池、砂場など子ども向けアクティビティが豊富。ピクニックにも最適です。",
-      "date": "5月全期間",
-      "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardins/index.html",
+      "title": "パリ・プラージュ（Paris Plage）",
+      "description": "セーヌ河畔に砂浜やビーチチェアが登場。子ども向けの水遊びエリアやアクティビティが充実。夏の風物詩で家族で楽しめます。",
+      "date": "6月中旬〜9月上旬",
+      "place": "セーヌ河畔（ポン・マリー周辺など複数箇所）",
+      "link": "https://www.paris.fr/pages/paris-plage-7073",
       "free": true
     },
     {
-      "title": "ポンピドゥー・センター子ども向けワークショップ",
-      "description": "モダンアート美術館で開催される5月のこども創作ワークショップ。アート体験を通じて子どもの創意を刺激する特別プログラムです。要事前申込。",
-      "date": "5月中旬〜下旬（日程は要確認）",
-      "place": "Centre Pompidou, Place Georges Pompidou, 75004 Paris",
-      "link": "https://www.centrepompidou.fr",
+      "title": "ベルサイユ宮殿の庭園 大噴水ショー",
+      "description": "6月〜9月の週末に壮大な噴水とクラシック音楽が楽しめる。庭園は広く散策にも最適。子どもも楽しめる屋外スペクタクルです。",
+      "date": "6月〜9月の指定週末",
+      "place": "ベルサイユ宮殿庭園、ヴェルサイユ",
+      "link": "https://www.chateauversailles.fr/en",
       "free": false
     },
     {
-      "title": "パリ運河（Canal Saint-Martin）の春の散策とマーケット",
-      "description": "パリ運河沿いの散策は5月の天気で最適。毎週末、運河脇でフリマやアンティークマーケットが開催。子どもの歴史学習にもなります。",
-      "date": "5月全期間の週末",
-      "place": "Canal Saint-Martin, 75010 Paris",
-      "link": "https://www.parisinfo.com",
+      "title": "パリ市立公園のブタニカルガーデン展示",
+      "description": "ブローニュの森やビュット・ショーモン公園で初夏の花々が見頃。自然散策と子ども向け遊び場を兼ねた屋外活動が楽しめます。",
+      "date": "6月上旬〜中旬",
+      "place": "ブローニュの森、ビュット・ショーモン公園など",
+      "link": "https://www.paris.fr/pages/les-jardins-et-parcs-de-paris-149",
       "free": true
     },
     {
-      "title": "アニマルパーク・ド・ボワ・ド・ヴァンセンヌ（パリ動物園）",
-      "description": "パリの伝統的な動物園。5月は新しい動物の赤ちゃんシーズン。広大な敷地で子どもたちが動物観察を楽しめます。季節限定プログラムも開催。",
-      "date": "5月全期間",
-      "place": "Avenue Daumesnil, Bois de Vincennes, 75012 Paris",
-      "link": "https://www.parczoologiquedeparis.fr",
+      "title": "ルーヴル美術館 ファミリープログラム",
+      "description": "6月の学校休暇期間に子ども向けの特別ワークショップ・ツアーを開催。アート体験を通じて文化学習ができます。",
+      "date": "6月中旬〜下旬",
+      "place": "ルーヴル美術館、パリ1区",
+      "link": "https://www.louvre.fr/en",
       "free": false
+    },
+    {
+      "title": "フェスティバル・シテ・ミュージック（Fête de la Musique）",
+      "description": "6月21日に街中で開催される音楽祭。無料の屋外ライブやコンサートが各地で行われ、家族で街歩きしながら楽しめます。",
+      "date": "6月21日",
+      "place": "パリ全域（複数の広場・公園）",
+      "link": "https://www.paris.fr/pages/fete-de-la-musique-7047",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-28T01:44:05.128Z"
+  "updatedAt": "2026-06-01T02:10:42.543Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン国立博物館 子ども向け特別プログラム",
-      "description": "5月は春の特別展示と子ども向けワークショップが充実。美術鑑賞とクリエイティブ活動を同時に楽しめます。乳幼児から小学生まで対応。",
-      "date": "5月全期間",
-      "place": "Nationalmuseum Stockholm, Södra Blasieholmshamnen, Stockholm",
-      "link": "https://www.nationalmuseum.se",
-      "free": false
+      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
+      "description": "スウェーデン最大級の野外音楽祭。子ども向けステージ、クリエイティブワークショップ、水辺での遊び場が充実。家族向けプログラムが豊富で、乳幼児から小学生まで楽しめます。",
+      "date": "6月中旬〜下旬",
+      "place": "Riddarholmen島周辺、ストックホルム市内各所",
+      "link": "https://stockholmwaterfestival.se",
+      "free": true
     },
     {
-      "title": "スキャンセン野外博物館 春のカーニバル",
-      "description": "北欧最大級の野外博物館で、5月中旬～下旬に開催。伝統的なスウェーデン建築、動物とのふれあい、子どもむけアクティビティが豊富。",
-      "date": "5月中旬～下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
+      "title": "ミッドサマー（Midsummer）関連イベント",
+      "description": "スウェーデンの最大級の伝統行事。花輪作り、民族衣装体験、スウェーデン民族音楽・ダンス、伝統料理試食など。各地で開催される家族向けセレブレーション。",
+      "date": "6月中旬（夏至前後の週末）",
+      "place": "スカンセン野外博物館（Skansen）、ストックホルム市内各地",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユールゴーデン島でのサイクリングと公園散策",
-      "description": "ストックホルム屈指の緑地。自転車レンタルで家族で自然を満喫。美術館やおもちゃ博物館も近く、ピクニック休憩も最適。無料で楽しめます。",
-      "date": "5月全期間",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.djurgarden.se",
+      "title": "アルムロップスパークの庭園散策と自然遊び",
+      "description": "広大な公園での無料屋外アクティビティ。6月は花が満開で、子ども用遊具、ピクニックエリア、自然観察に最適。水辺での探検も人気。家族向けの理想的な屋外スポット。",
+      "date": "6月通年",
+      "place": "Almrlopparken, Norrmalm, Stockholm",
+      "link": "",
       "free": true
     },
     {
-      "title": "ストックホルム群島クルーズと無人島探検",
-      "description": "スウェーデンならではのアーキペラゴ体験。小型船でピクニックスポットへ。家族向けガイド付きツアーで、北欧の自然と島の暮らしを学べます。",
-      "date": "5月全期間（通年運航）",
-      "place": "Nybrokaj, Strandvägen, Stockholm",
-      "link": "https://www.stromkabyxorna.se",
+      "title": "スウェーデン自然博物館の夏休み特別プログラム",
+      "description": "恐竜展示、動物標本、インタラクティブ展示など。6月は夏休み準備期間として子ども向け特別ワークショップ・ガイドツアーを開催。乳幼児向けエリアも完備。",
+      "date": "6月通年（特別プログラムは週末中心）",
+      "place": "Swedish Museum of Natural History, Frescativägen 40, Stockholm",
+      "link": "https://www.nrm.se",
       "free": false
     },
     {
-      "title": "テルモ島とニンベン島の無料散策・ビーチタイム",
-      "description": "ストックホルム市内の公共ビーチエリア。5月は水温は低いですが、散策、ピクニック、スウェーデン式の自然享受が無料で楽しめます。",
-      "date": "5月全期間",
-      "place": "Långholmen & Kungsholmen Beaches, Stockholm",
+      "title": "ジュニケン島でのサマービーチプログラム",
+      "description": "ストックホルム群島の島でのビーチ活動。砂浜遊び、水遊び、ピクニック、ナチュラリストビーチなど。フェリーで往来できる島。6月は温度が上がり始め、家族向け海遊びに最適。",
+      "date": "6月通年",
+      "place": "Djurgården島周辺、Junibacken ferry terminal",
       "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-28T01:44:12.751Z"
+  "updatedAt": "2026-06-01T02:10:51.254Z"
 }

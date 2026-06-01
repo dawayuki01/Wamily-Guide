@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Flores de Mayo（花の月の祭り）",
-      "description": "5月を通じて行われるフィリピンの伝統的なカトリック祭り。子どもたちが花で飾られた祭壇を行進し、地域ごとにパレードやお祝いが開催されます。",
-      "date": "5月全体（特に5月1日〜31日）",
-      "place": "マニラ市内各地域の教会・コミュニティセンター",
-      "link": "",
+      "title": "フィリピン・アメリカ友情月間（Philippine-American Friendship Month）",
+      "description": "6月12日の独立記念日を中心に、マニラ全域でパレードやコンサート、文化イベントが開催。子ども向けの音楽ステージやダンスパフォーマンスも多数。",
+      "date": "6月上旬〜中旬",
+      "place": "マニラ市街地各所（リサール公園など）",
+      "link": "https://www.experiencephilippines.com",
       "free": true
     },
     {
-      "title": "Manila Ocean Park（マニラ・オーシャンパーク）での家族向けプログラム",
-      "description": "水族館とアミューズメント施設。5月は学校休暇期間で子ども向けの特別プログラムやワークショップが開催されます。タッチプール体験も人気です。",
-      "date": "5月全体（特に中旬以降）",
-      "place": "CCP Complex, Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceanpark.com/",
+      "title": "スターシティ（Star City）夏休みスペシャルプログラム",
+      "description": "マニラの遊園地が夏休み向けに特別営業。ファミリー向けアトラクション、キッズゾーン、割引チケット販売。乳幼児向けライドも充実。",
+      "date": "6月全期間",
+      "place": "Star City, Barangay 65, Port Area, Manila",
+      "link": "https://www.starcity.com.ph",
       "free": false
     },
     {
-      "title": "Luneta Park（リサール公園）でのアウトドア活動",
-      "description": "マニラ市内最大の公園。5月は暑い季節ですが朝夕は快適。子どもたちの遊び場、噴水広場、フィリピン国立博物館などが無料で楽しめます。",
-      "date": "5月全体（早朝または夕方推奨）",
-      "place": "Roxas Boulevard, Ermita, Manila",
-      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d317292-Reviews-Luneta_Park-Manila_Calabarzon_Region_Calabarzon.html",
+      "title": "マニラ湾サンセットクルーズ・子どもファミリーツアー",
+      "description": "屋外で楽しむマニラ湾クルーズ。夕焼けの景色が美しく、6月は比較的天候も安定。キッズ用ライフジャケット完備で安心。",
+      "date": "6月中旬〜下旬",
+      "place": "Manila Bay（乗船地：CCP Complex, Pasay City付近）",
+      "link": "https://www.manilatourism.com",
+      "free": false
+    },
+    {
+      "title": "リサール公園（Rizal Park）無料キッズイベント＆トレジャーハント",
+      "description": "マニラ市がリサール公園で開催する夏休み向け無料イベント。スカベンジャーハント、ミニ図書館、屋外ゲーム、アート教室など充実。",
+      "date": "6月中旬〜下旬の週末",
+      "place": "Rizal Park, Padre Burgos Ave, Ermita, Manila",
+      "link": "https://www.manilaparks.com",
       "free": true
     },
     {
-      "title": "Philippine Children's Medical Center Summer Camp & Activities",
-      "description": "フィリピン小児医療センターが主催する5月の夏休み向け子ども向けプログラム。工作、スポーツ、学習ワークショップなど多彩なアクティビティが用意されます。",
-      "date": "5月中旬〜下旬",
-      "place": "8 Avenue Road, Quezon City",
-      "link": "https://pcmc.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "Enchanted Kingdom（エンチャンテッド・キングダム）の夏季特別営業",
-      "description": "テーマパーク。5月は夏休み開始でキッズ向けアトラクションが充実。乳幼児向けライドから小学生向けまで、家族全員で楽しめます。",
-      "date": "5月全体（特に中旬以降）",
-      "place": "Santa Rosa, Laguna（マニラから約1時間）",
-      "link": "https://www.enchantedkingdom.ph/",
+      "title": "ナショナルミュージアム（National Museum）キッズサマープログラム",
+      "description": "夏休み特別企画。子ども向けワークショップ、ガイドツアー、インタラクティブ展示。フィリピン文化と自然史を楽しく学べます。",
+      "date": "6月上旬〜下旬",
+      "place": "National Museum Complex, Padre Burgos Ave, Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-28T01:44:37.522Z"
+  "updatedAt": "2026-06-01T02:11:14.834Z"
 }

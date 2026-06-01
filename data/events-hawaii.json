@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day（レイ・デー）",
-      "description": "ハワイの伝統文化を祝う日。5月1日はハワイ全島でレイメイキング体験やパレード、音楽演奏などが開催されます。子どもも一緒にレイ作りを体験できます。",
-      "date": "5月1日前後",
-      "place": "ホノルル市街地・カピオラニ公園周辺、オアフ島全域",
-      "link": "https://www.gohawaii.com/",
+      "title": "キング・カメハメハ・デー・セレブレーション",
+      "description": "6月11日前後に開催。ハワイ王朝の建国者を祝うパレード、フラダンス、伝統音楽など。家族向けの文化的なお祭りで、子どもも伝統文化を学べます。",
+      "date": "6月上旬（6月11日前後）",
+      "place": "ホノルル、カピオラニ公園周辺",
+      "link": "https://www.gohawaii.com",
       "free": true
     },
     {
-      "title": "Honolulu Zoo（ホノルル動物園）スプリングプログラム",
-      "description": "春季限定の子ども向けワークショップや動物との触れ合いプログラムが充実。キリンやゾウなど大型動物の観察が人気です。",
-      "date": "5月上旬〜中旬",
-      "place": "151 Kapahulu Ave, Honolulu, HI 96815",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "Makapuu Tide Pools（マカプウ・タイドプール）での磯遊び",
-      "description": "初夏の穏やかな海でシーゴーグラスやヒトデなどの海洋生物を観察。ハイキングコース（往復約4km）も子どもと楽しめます。",
-      "date": "5月中旬〜下旬（潮の満引き確認必須）",
-      "place": "Makapuu State Wayside, Honolulu, HI 96795",
-      "link": "",
+      "title": "ホノルル・ファーマーズ・マーケット",
+      "description": "毎週土曜に開催される地元産の野菜・果物・ハンドメイド品が並ぶマーケット。新鮮なトロピカルフルーツの試食や買物が楽しめ、子連れに最適です。",
+      "date": "6月毎週土曜日",
+      "place": "ホノルル、KCC ファーマーズ・マーケット（カピオラニ・コミュニティ・カレッジ）",
+      "link": "https://www.honolulufarmers.com",
       "free": true
     },
     {
-      "title": "Waikiki Aquarium（ワイキキ水族館）キッズプログラム",
-      "description": "春季の特別展示やタッチプールで海の生き物と直接触れ合えます。乳幼児から小学生向けの教育プログラムが豊富です。",
-      "date": "5月全月",
-      "place": "2777 Kalakaua Ave, Honolulu, HI 96815",
-      "link": "https://www.waikikiaquarium.org/",
+      "title": "ハナウマ湾でのシュノーケリング",
+      "description": "6月は海況が穏やかで、カラフルな熱帯魚が見られる最適な時期。湾内は遠浅で初心者向け。海の生き物観察に子どもは大喜びします。",
+      "date": "6月中旬〜下旬",
+      "place": "ホノルル東部、ハナウマ湾（Hanauma Bay）",
+      "link": "https://www.honolulu.gov/parks/dpr/hanauma-bay-nature-preserve.html",
       "free": false
     },
     {
-      "title": "Kailua Beach Park（カイルア・ビーチ）でのスノーケリング体験",
-      "description": "ハワイで最も美しいビーチ。5月は水温も暖かく、浅瀬でのスノーケリングやシュノーケルデビューに最適。家族向けツアーも多数あります。",
-      "date": "5月中旬〜下旬",
-      "place": "Kailua Beach Park, Kailua, HI 96734",
-      "link": "https://www.gohawaii.com/",
+      "title": "ビショップ・ミュージアムの家族向けワークショップ",
+      "description": "ハワイの歴史と文化を学べる博物館。6月は夏休み向けの子ども向けプログラムやクラフト体験が充実。インタラクティブ展示で学習も楽しい。",
+      "date": "6月通年（夏プログラム）",
+      "place": "ホノルル、1525 Bernice Street, Honolulu, HI 96817",
+      "link": "https://www.bishopmuseum.org",
+      "free": false
+    },
+    {
+      "title": "ワイキキビーチでのサーフレッスン・ビーチ活動",
+      "description": "6月は波が適度にあり、子ども向けサーフスクールが多く開催。ビーチでの砂遊びや海水浴も最適。家族で楽しめる定番アクティビティです。",
+      "date": "6月中旬〜下旬",
+      "place": "ホノルル、ワイキキビーチ",
+      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-28T01:44:53.314Z"
+  "updatedAt": "2026-06-01T02:11:29.483Z"
 }
