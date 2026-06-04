@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Dragon Boat Festival",
-      "description": "伝統的なドラゴンボート競技を観戦できるイベント。カラフルなボートレースは子どもたちにも人気で、ローカル文化を学べます。会場周辺では屋台グルメも楽しめます。",
-      "date": "6月中旬（旧暦5月初旬）",
-      "place": "Marina Bay、Kallang Basin周辺",
-      "link": "https://www.stb.gov.sg",
+      "title": "シンガポール・ドラゴン・ボート・フェスティバル",
+      "description": "端午節（ドラゴンボート・フェスティバル）に伴うイベント。色鮮やかなドラゴンボートレースや民間音楽、伝統的な食べ物の屋台が楽しめます。家族向けの活動も多数あります。",
+      "date": "6月上旬〜中旬（旧暦5月5日前後）",
+      "place": "East Coast Park, East Coast Parkway, Singapore 1544",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "Science Centre Singapore - Special June Programs",
-      "description": "冬休みプログラムの一環として、OMNI Theatre の特別映画上映や実験ワークショップを開催。乳幼児向けのインタラクティブ展示も充実。屋内で雨の日も安心です。",
-      "date": "6月通期",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
+      "title": "シンガポール植物園のキッズプログラム・ナイトライツ",
+      "description": "植物園内のキンダーガーテンガーデンで、季節の花や自然を学べるプログラムを開催。夜間にはライトアップされた庭園をお散歩でき、涼しい時間帯に楽しめます。",
+      "date": "6月通年（ナイトライツは特定日程）",
+      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
+      "link": "https://www.sbg.org.sg",
       "free": false
     },
     {
-      "title": "Gardens by the Bay - Flower Dome Events",
-      "description": "世界最大級の植物館で季節の花展示を開催。子ども向けのガイドツアーやワークショップで植物について学べます。涼しい環境で快適に過ごせます。",
-      "date": "6月通期",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "セントーサ島のビーチアクティビティ・キッズクラブ",
+      "description": "セントーサ島の各ビーチで子ども向けの水遊びやスポーツプログラムが開催。シルバソー・ビーチなど安全な遊泳区域で家族向け活動が充実しています。",
+      "date": "6月通年",
+      "place": "Sentosa Island, Siloso Beach & Palawan Beach, Singapore 098970",
+      "link": "https://www.sentosa.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park - Family Beach Activities",
-      "description": "シンガポール最長のビーチパークで、子ども向けビーチスポーツやサイクリング、ピクニックが無料で楽しめます。遠浅の海で水遊びもでき、ファミリーに最適です。",
-      "date": "6月通期（毎日）",
-      "place": "1210 East Coast Parkway, Singapore 449855",
-      "link": "https://www.nparks.gov.sg",
+      "title": "ナショナル・デー・カウントダウンの家族向けイベント",
+      "description": "8月9日の国家設立記念日に向けた6月中旬からのカウントダウンイベント。パレード、コンサート、花火など家族向けの無料イベントが各地で開催されます。",
+      "date": "6月下旬〜7月（本番は8月上旬）",
+      "place": "Marina Bay, Padang Singapore 039594 他全島各地",
+      "link": "https://www.ndp.org.sg",
       "free": true
     },
     {
-      "title": "Singapore Zoo - Breakfast with the Animals",
-      "description": "早朝プログラムで動物たちの朝の活動を観察。子どもたちが動物について学べるガイドツアーやフィーディング体験が含まれます。自然の中での特別な体験です。",
-      "date": "6月通期（毎日）",
-      "place": "80 Mandai Lake Road, Singapore 729826",
+      "title": "シンガポール動物園の季節プログラム",
+      "description": "雨季ならではの涼しい朝の時間帯に動物たちの活動が最も活発。キッズワークショップやアニマルトーク、ウォーターフロント地域でのアクティビティが充実しています。",
+      "date": "6月通年",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
       "link": "https://www.zoo.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-01T02:10:58.232Z"
+  "updatedAt": "2026-06-04T02:16:51.114Z"
 }

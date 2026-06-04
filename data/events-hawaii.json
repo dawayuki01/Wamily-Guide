@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "キング・カメハメハ・デー・セレブレーション",
-      "description": "6月11日前後に開催。ハワイ王朝の建国者を祝うパレード、フラダンス、伝統音楽など。家族向けの文化的なお祭りで、子どもも伝統文化を学べます。",
-      "date": "6月上旬（6月11日前後）",
-      "place": "ホノルル、カピオラニ公園周辺",
-      "link": "https://www.gohawaii.com",
+      "title": "King Kamehameha Day Celebration Parade",
+      "description": "ハワイの建国者を祝う6月11日のパレード。カラフルなフロートと伝統的なハワイアンダンスが楽しめ、沿道での観覧は無料。家族向けの楽しいイベントです。",
+      "date": "6月11日前後",
+      "place": "ホノルル、カラカウア通り",
+      "link": "https://honolulu.gov/",
       "free": true
     },
     {
-      "title": "ホノルル・ファーマーズ・マーケット",
-      "description": "毎週土曜に開催される地元産の野菜・果物・ハンドメイド品が並ぶマーケット。新鮮なトロピカルフルーツの試食や買物が楽しめ、子連れに最適です。",
-      "date": "6月毎週土曜日",
-      "place": "ホノルル、KCC ファーマーズ・マーケット（カピオラニ・コミュニティ・カレッジ）",
-      "link": "https://www.honolulufarmers.com",
-      "free": true
-    },
-    {
-      "title": "ハナウマ湾でのシュノーケリング",
-      "description": "6月は海況が穏やかで、カラフルな熱帯魚が見られる最適な時期。湾内は遠浅で初心者向け。海の生き物観察に子どもは大喜びします。",
-      "date": "6月中旬〜下旬",
-      "place": "ホノルル東部、ハナウマ湾（Hanauma Bay）",
-      "link": "https://www.honolulu.gov/parks/dpr/hanauma-bay-nature-preserve.html",
+      "title": "ハワイ火山国立公園 Crater Rim Trail",
+      "description": "ハワイ島のキラウエア火山で、子どもも歩きやすいトレイルを探索。火山地形とハワイの地質を学べる屋外アクティビティ。季節の野生動物も観察できます。",
+      "date": "6月中旬～下旬",
+      "place": "ハワイ島、ハワイ火山国立公園",
+      "link": "https://www.nps.gov/havo/",
       "free": false
     },
     {
-      "title": "ビショップ・ミュージアムの家族向けワークショップ",
-      "description": "ハワイの歴史と文化を学べる博物館。6月は夏休み向けの子ども向けプログラムやクラフト体験が充実。インタラクティブ展示で学習も楽しい。",
-      "date": "6月通年（夏プログラム）",
-      "place": "ホノルル、1525 Bernice Street, Honolulu, HI 96817",
-      "link": "https://www.bishopmuseum.org",
+      "title": "Honolulu Zoo Summer Programs",
+      "description": "ホノルル動物園の夏期特別プログラム。子ども向けのワークショップやガイドツアーで、動物について楽しく学べます。幅広い年齢層に対応。",
+      "date": "6月中旬～8月下旬",
+      "place": "オアフ島、ワイキキ動物園",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "ワイキキビーチでのサーフレッスン・ビーチ活動",
-      "description": "6月は波が適度にあり、子ども向けサーフスクールが多く開催。ビーチでの砂遊びや海水浴も最適。家族で楽しめる定番アクティビティです。",
-      "date": "6月中旬〜下旬",
-      "place": "ホノルル、ワイキキビーチ",
-      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
+      "title": "Waikiki Beach Park Family Events",
+      "description": "ワイキキビーチでの無料ファミリーイベント。砂浜での遊びや浅瀬での水遊びなど、乳幼児から小学生まで安全に楽しめる屋外アクティビティ。",
+      "date": "6月毎週末",
+      "place": "オアフ島、ワイキキビーチ",
+      "link": "",
       "free": true
+    },
+    {
+      "title": "Hawaii Nature Center Children's Programs",
+      "description": "ハワイの自然学習施設での子ども向けプログラム。虫取りやハイキング、植物観察など季節限定の体験ができます。教育的かつ楽しい屋外体験。",
+      "date": "6月中旬～下旬（週末中心）",
+      "place": "オアフ島、イアオ渓谷",
+      "link": "https://www.hawaiinaturecenter.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-01T02:11:29.483Z"
+  "updatedAt": "2026-06-04T02:17:21.621Z"
 }

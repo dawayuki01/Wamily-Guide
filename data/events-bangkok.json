@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン準備期間の水遊びイベント",
-      "description": "6月はモンスーン季節。バンコク内の子ども向けプールやウォーターパークで夏季限定プログラムが開催。安全な水遊びを楽しめます。",
-      "date": "6月上旬〜下旬",
-      "place": "サイアム・パーク・シティ（Siam Park City）、バンナー通り",
-      "link": "https://www.siampark.com",
+      "title": "アーサラハブーチャ（三宝節）",
+      "description": "仏教の重要な祭日。寺院でろうそく行進や法要が行われます。子どもも参加でき、タイ文化を学べる貴重な体験。バンコク全域の寺院で開催。",
+      "date": "6月上旬（2026年6月1日）",
+      "place": "バンコク市内全域の寺院（ワットポー、ワットサケット等）",
+      "link": "https://www.tourismthailand.org",
+      "free": true
+    },
+    {
+      "title": "サイアムパラゴン水族館の特別展示",
+      "description": "サイアムパラゴン内の大型水族館。雨季の涼しい環境で、熱帯魚やサメなどを観察。子ども向けの解説プログラムやタッチプール体験が充実。",
+      "date": "6月通年",
+      "place": "サイアムパラゴン B1F-B2F, 999 Rama 1 Rd, Pathumwan, Bangkok",
+      "link": "https://www.siamparagon.com/en",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット（雨季特別営業）",
-      "description": "毎週末開催の東南アジア最大規模マーケット。雨季でも営業し、子ども向け雑貨やおもちゃ、地元グルメが充実。家族向けエリアが広い。",
-      "date": "6月毎週金〜日曜",
-      "place": "チャトゥチャック・ウィークエンド・マーケット、バンコク北部",
+      "title": "チャオプラヤ川沿いのサイクリング＆公園探索",
+      "description": "ルンピニ公園やベンジャキティ公園で無料のサイクリングやウォーキング。6月は朝方が涼しく、野生動物観察も可能。子ども用レンタル自転車あり。",
+      "date": "6月上旬〜下旬（朝6時〜10時推奨）",
+      "place": "ルンピニ公園（Rama IV Rd）、ベンジャキティ公園（Rama IV Rd）",
+      "link": "https://www.tourismthailand.org",
+      "free": true
+    },
+    {
+      "title": "キッザニア・バンコクの期間限定プログラム",
+      "description": "子どもが様々な職業体験ができるテーマパーク。雨季限定の屋内アクティビティが充実。英語とタイ語で学べる職業体験は教育的価値も高い。",
+      "date": "6月通年",
+      "place": "EmQuartier Building, 689 Sukhumvit Rd, Bangkok",
+      "link": "https://www.kidzania.com/en-th/",
+      "free": false
+    },
+    {
+      "title": "チャトゥチャック・ウィークエンド・マーケットの朝散策",
+      "description": "世界最大級のマーケット。朝は涼しく、子ども向けの雑貨や軽食が豊富。6月の朝6時〜10時がおすすめで、混雑も少なく安全。",
+      "date": "6月の土日（毎週末）",
+      "place": "Chatuchak Weekend Market, Phahon Yothin Rd, Bangkok",
       "link": "https://www.chatuchakmarket.com",
       "free": true
-    },
-    {
-      "title": "バンコク・ナショナル・ミュージアムのファミリープログラム",
-      "description": "6月の雨季に屋内で楽しめるタイ文化体験。子ども向けの英語ガイドツアーや工作ワークショップが開催される。涼しい館内で過ごせます。",
-      "date": "6月上旬〜下旬（要確認）",
-      "place": "バンコク国立博物館、ナ・プラーラット通り",
-      "link": "https://www.bkkmuseum.com",
-      "free": false
-    },
-    {
-      "title": "ルンピニ公園での朝の散策と野外アクティビティ",
-      "description": "バンコク中心部の大型公園。早朝は涼しく、子どもの遊び場、自転車レンタル、タイ文化体験が可能。無料エリアも充実しています。",
-      "date": "6月毎日（早朝6時〜9時推奨）",
-      "place": "ルンピニ公園（Lumphini Park）、シーロム地区",
-      "link": "https://bangkok.go.th",
-      "free": true
-    },
-    {
-      "title": "ICONSIAM・キッズゾーンの期間限定プログラム",
-      "description": "大型ショッピングモール内の子ども向け施設。雨季の屋内アクティビティとして、プレイグラウンド、文化体験ワークショップが随時開催されます。",
-      "date": "6月上旬〜下旬",
-      "place": "ICONSIAM、チャオプラヤ川沿い",
-      "link": "https://www.iconsiam.com",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-01T02:11:06.738Z"
+  "updatedAt": "2026-06-04T02:16:59.657Z"
 }

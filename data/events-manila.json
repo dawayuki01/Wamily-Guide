@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アメリカ友情月間（Philippine-American Friendship Month）",
-      "description": "6月12日の独立記念日を中心に、マニラ全域でパレードやコンサート、文化イベントが開催。子ども向けの音楽ステージやダンスパフォーマンスも多数。",
-      "date": "6月上旬〜中旬",
-      "place": "マニラ市街地各所（リサール公園など）",
-      "link": "https://www.experiencephilippines.com",
+      "title": "フィリピン・アメリカ友好デー（Philippine-American Friendship Day）",
+      "description": "6月12日のフィリピン独立記念日前後に開催。パレード、コンサート、文化的なパフォーマンスがあり、家族向けの屋外イベントです。",
+      "date": "6月中旬（6月12日前後）",
+      "place": "マニラ市内各地（Rizal Park周辺など）",
+      "link": "",
       "free": true
     },
     {
-      "title": "スターシティ（Star City）夏休みスペシャルプログラム",
-      "description": "マニラの遊園地が夏休み向けに特別営業。ファミリー向けアトラクション、キッズゾーン、割引チケット販売。乳幼児向けライドも充実。",
+      "title": "Manila Ocean Park（マニラオーシャンパーク）サマープログラム",
+      "description": "海の生き物との触れ合いやインタラクティブな水族館体験。夏シーズンに子ども向けの特別ワークショップやフィーディングプログラムを実施。",
       "date": "6月全期間",
-      "place": "Star City, Barangay 65, Port Area, Manila",
-      "link": "https://www.starcity.com.ph",
+      "place": "CCP Complex, Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceanpark.com/",
       "free": false
     },
     {
-      "title": "マニラ湾サンセットクルーズ・子どもファミリーツアー",
-      "description": "屋外で楽しむマニラ湾クルーズ。夕焼けの景色が美しく、6月は比較的天候も安定。キッズ用ライフジャケット完備で安心。",
-      "date": "6月中旬〜下旬",
-      "place": "Manila Bay（乗船地：CCP Complex, Pasay City付近）",
-      "link": "https://www.manilatourism.com",
-      "free": false
-    },
-    {
-      "title": "リサール公園（Rizal Park）無料キッズイベント＆トレジャーハント",
-      "description": "マニラ市がリサール公園で開催する夏休み向け無料イベント。スカベンジャーハント、ミニ図書館、屋外ゲーム、アート教室など充実。",
-      "date": "6月中旬〜下旬の週末",
-      "place": "Rizal Park, Padre Burgos Ave, Ermita, Manila",
-      "link": "https://www.manilaparks.com",
+      "title": "Rizal Park（リサール公園）での家族向けアウトドアアクティビティ",
+      "description": "広大な緑地公園。自転車レンタル、散策、ピクニックが無料で楽しめます。子ども向けの遊び場もあり、季節の植物も見どころ。",
+      "date": "6月全期間",
+      "place": "Rizal Park, Roxas Boulevard, Manila",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "ナショナルミュージアム（National Museum）キッズサマープログラム",
-      "description": "夏休み特別企画。子ども向けワークショップ、ガイドツアー、インタラクティブ展示。フィリピン文化と自然史を楽しく学べます。",
-      "date": "6月上旬〜下旬",
-      "place": "National Museum Complex, Padre Burgos Ave, Ermita, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "title": "National Museum of the Philippines（フィリピン国立博物館）キッズプログラム",
+      "description": "自然歴史博物館で、恐竜や動物の骨格標本展示。夏休み期間中に子ども向けの教育ワークショップやガイドツアーを実施。",
+      "date": "6月全期間",
+      "place": "Padre Burgos Avenue, Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
+      "free": false
+    },
+    {
+      "title": "Enchanted Kingdom（エンチャンテッドキングダム）サマーフェスティバル",
+      "description": "テーマパークの夏季イベント。キッズ向けアトラクション、ウォータースライド、キャラクターショーなど家族で楽しめるプログラム。",
+      "date": "6月全期間",
+      "place": "Santa Rosa, Laguna（マニラ近郊）",
+      "link": "https://www.enchantedkingdom.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-01T02:11:14.834Z"
+  "updatedAt": "2026-06-04T02:17:06.534Z"
 }

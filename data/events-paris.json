@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "パリ・プラージュ（Paris Plage）",
-      "description": "セーヌ河畔に砂浜やビーチチェアが登場。子ども向けの水遊びエリアやアクティビティが充実。夏の風物詩で家族で楽しめます。",
+      "description": "セーヌ河畔に砂浜とビーチラウンジが出現。子ども向けの水遊び広場、ゲーム、コンサートなど。無料で楽しめる夏の風物詩です。",
       "date": "6月中旬〜9月上旬",
-      "place": "セーヌ河畔（ポン・マリー周辺など複数箇所）",
-      "link": "https://www.paris.fr/pages/paris-plage-7073",
+      "place": "セーヌ河左岸・右岸各所（Pont de l'Alma周辺など）",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "ベルサイユ宮殿の庭園 大噴水ショー",
-      "description": "6月〜9月の週末に壮大な噴水とクラシック音楽が楽しめる。庭園は広く散策にも最適。子どもも楽しめる屋外スペクタクルです。",
-      "date": "6月〜9月の指定週末",
-      "place": "ベルサイユ宮殿庭園、ヴェルサイユ",
-      "link": "https://www.chateauversailles.fr/en",
+      "title": "シャルル・ド・ゴール公園（Parc de la Tête d'Or分園）での野外映画・コンサート",
+      "description": "夏季の野外映画祭やファミリー向けコンサート。毛布持参でピクニック感覚で楽しめます。多くが無料または低額です。",
+      "date": "6月下旬〜8月",
+      "place": "パリ各地の公園（テュイルリー庭園など）",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "ルーヴル美術館「こども向けワークショップ」",
+      "description": "6月はファミリー向けワークショップが充実。絵画や彫刻を題材にした創作活動。事前予約で参加可能。",
+      "date": "6月通月（週末を中心に）",
+      "place": "ルーヴル美術館、99 Rue de Rivoli, 75001 Paris",
+      "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "パリ市立公園のブタニカルガーデン展示",
-      "description": "ブローニュの森やビュット・ショーモン公園で初夏の花々が見頃。自然散策と子ども向け遊び場を兼ねた屋外活動が楽しめます。",
-      "date": "6月上旬〜中旬",
-      "place": "ブローニュの森、ビュット・ショーモン公園など",
-      "link": "https://www.paris.fr/pages/les-jardins-et-parcs-de-paris-149",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館 ファミリープログラム",
-      "description": "6月の学校休暇期間に子ども向けの特別ワークショップ・ツアーを開催。アート体験を通じて文化学習ができます。",
-      "date": "6月中旬〜下旬",
-      "place": "ルーヴル美術館、パリ1区",
-      "link": "https://www.louvre.fr/en",
+      "title": "フェスティバル・ドテ2026（Festival d'Été）",
+      "description": "パリの夏祭り。サーカス、ダンス、音楽公演など子ども向けプログラムが豊富。公園やシアターで開催。",
+      "date": "6月下旬〜9月",
+      "place": "パリ市内各所（テュイルリー庭園ほか）",
+      "link": "https://www.paris.fr",
       "free": false
     },
     {
-      "title": "フェスティバル・シテ・ミュージック（Fête de la Musique）",
-      "description": "6月21日に街中で開催される音楽祭。無料の屋外ライブやコンサートが各地で行われ、家族で街歩きしながら楽しめます。",
-      "date": "6月21日",
-      "place": "パリ全域（複数の広場・公園）",
-      "link": "https://www.paris.fr/pages/fete-de-la-musique-7047",
-      "free": true
+      "title": "ジャルダン・デ・プランテス（植物園）での季節展示＆アクティビティ",
+      "description": "初夏の花々が見頃。子ども向けガイドツアーや植物採集ゲームなど。緑溢れる自然体験が楽しめます。",
+      "date": "6月通月",
+      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
+      "link": "https://www.mnhn.fr/fr/jardins-botaniques",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-01T02:10:42.543Z"
+  "updatedAt": "2026-06-04T02:16:34.482Z"
 }
