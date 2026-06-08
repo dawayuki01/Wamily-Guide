@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム夏祭り（Stockholms Skärgårdsfestival）",
-      "description": "ストックホルム群島を舞台にした夏の大型フェスティバル。音楽、食事、アート、子ども向けアクティビティが充実。島々へのボート移動も含め、家族向けプログラムが豊富。",
+      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
+      "description": "スウェーデン最大級の水上イベント。音楽、パフォーマンス、子ども向けワークショップが充実。水辺での無料アクティビティも多数開催されます。",
       "date": "6月中旬〜下旬",
-      "place": "ストックホルム群島（Archipelago）、複数の島",
-      "link": "https://www.skargardsfestivalen.se",
-      "free": false
-    },
-    {
-      "title": "ユールゴーデン島での屋外遊び・自然散策",
-      "description": "王立公園が広がるユールゴーデン島は6月の緑が美しい季節。動物園、博物館、遊び場が集中。無料で散策可能。ピクニックスポット豊富で家族向け。",
-      "date": "6月全般",
-      "place": "Djurgården (ユールゴーデン), Stockholm 114 47",
-      "link": "https://www.djurgarden.se",
+      "place": "Riddarholmen周辺、ストックホルム市街地",
+      "link": "https://www.stockholmwaterfestival.se/",
       "free": true
     },
     {
-      "title": "ストックホルム子ども博物館の夏プログラム",
-      "description": "Junibackenでは6月より夏休みシーズンの特別展示やワークショップを開催。スウェーデン児童文学の世界を体験でき、乳幼児から小学生向けコンテンツが充実。",
-      "date": "6月上旬〜開始",
-      "place": "Junibacken, Djurgårdsvägen 6, 115 21 Stockholm",
-      "link": "https://www.junibacken.se",
+      "title": "スカンセン野外博物館のサマーシーズンプログラム",
+      "description": "北欧の伝統文化を体験できる野外博物館。6月は動物との触れ合い、伝統工芸体験、子ども向けツアーが開催。広大な園内で屋外を満喫できます。",
+      "date": "6月上旬〜下旬",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ストックホルム群島でのボート・カヤック体験",
-      "description": "6月の穏やかな海での家族向けボートツアーやカヤック教室。群島の美しい景色と野生動物観察。多くのツアー会社が子ども向けプログラムを提供。",
-      "date": "6月全般",
-      "place": "ストックホルムハーバー周辺、Norrmalm区",
-      "link": "",
+      "title": "ユーゴーデン（遊園地）のサマーオープン",
+      "description": "北欧最大級の遊園地。6月は子ども向けアトラクション、イベント、キャラクターとのふれあいが充実。家族向けの楽しい時間を過ごせます。",
+      "date": "6月上旬〜下旬",
+      "place": "Gröna vägen 2, Djurgården, Stockholm",
+      "link": "https://www.grona-lund.com/",
       "free": false
     },
     {
-      "title": "夏のオープンエア・マーケット（Södermalm周辺）",
-      "description": "6月中旬からの週末、Södermalm地区でアンティークマーケットやクラフトマーケットが開催。家族向けの屋台、手作り品販売、無料エリアも。アクティビティと食事が楽しめる。",
-      "date": "6月中旬〜下旬の週末",
-      "place": "Södermalm, Nytorget周辺, Stockholm",
+      "title": "ストックホルムの街並みとシェルデン島ピクニック",
+      "description": "ストックホルムの自然景観が美しい季節。シェルデン島やロイアル島での無料ピクニック、自然散策。6月の白夜に近い長い昼間を活用できます。",
+      "date": "6月上旬〜下旬",
+      "place": "Skeppsholmen, Djurgården周辺",
       "link": "",
       "free": true
+    },
+    {
+      "title": "ストックホルム市立博物館（Stadsmuseum）の子ども向け展示",
+      "description": "ストックホルムの歴史と文化を学べる博物館。6月は季節特別展示や子ども向けワークショップを開催。屋内で学習とアートを組み合わせた体験ができます。",
+      "date": "6月上旬〜下旬",
+      "place": "Ryssgården, Stortorget 19, 111 29 Stockholm",
+      "link": "https://www.stadsmuseum.stockholm.se/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-04T02:16:42.732Z"
+  "updatedAt": "2026-06-08T02:11:58.011Z"
 }

@@ -167,10 +167,10 @@
       "category": "play",
       "layer": "play",
       "description": "ユニバーサル・スタジオ・ハリウッド：映画の世界を舞台にした、のりもの、レストラン、ショーが満載の大型パーク。",
-      "status": "open",
-      "statusLabel": "営業中",
+      "status": "check",
+      "statusLabel": "要確認",
       "free": false,
-      "checkedDate": "2026年5月",
+      "checkedDate": "2026年6月",
       "placeId": "ChIJzzgyJU--woARcZqceSdQ3dM",
       "extra": false,
       "lat": 34.137071299999995,
@@ -305,5 +305,5 @@
       "lng": -118.3004
     }
   ],
-  "checkedAt": "2026-06-07T02:05:51.382Z"
+  "checkedAt": "2026-06-08T02:13:37.111Z"
 }

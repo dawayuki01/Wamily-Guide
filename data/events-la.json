@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA Pride Parade & Festival",
-      "description": "6月中旬に開催される、家族向けエリアもある大規模プライドイベント。カラフルなパレード、ステージパフォーマンス、キッズゾーンで子どもも楽しめます。",
-      "date": "6月中旬（毎年6月第2日曜日付近）",
-      "place": "West Hollywood・Santa Monica Boulevard周辺",
+      "title": "LA Pride Parade",
+      "description": "毎年6月中旬に開催。カラフルなパレードと音楽、家族向けの安全なエリアあり。ダウンタウンLAが舞台で、多くの家族連れが訪れます。",
+      "date": "6月中旬（通常6月第2日曜日周辺）",
+      "place": "West Hollywood / Downtown LA",
       "link": "https://www.lapride.org",
       "free": true
     },
     {
-      "title": "Farmers Market at Hollywood & Vine - Summer Kids Programs",
-      "description": "夏季に無料のキッズワークショップ開催。地元の農産物を学び、音楽ライブ、工作などで家族向けの体験ができます。週末は特に充実しています。",
-      "date": "6月～9月の週末",
-      "place": "Hollywood & Vine, 6333 W 3rd St, Los Angeles, CA 90036",
-      "link": "https://www.farmersmarketla.com",
-      "free": true
-    },
-    {
-      "title": "Griffith Observatory Summer Programs & Hiking",
-      "description": "無料で利用できる天文台。夏は夜間プログラムが充実。昼間はグリフィス公園内でハイキング、映画館、ロボット庭園など親子で楽しめます。",
-      "date": "通年、6月は日没後の星観察プログラムがおすすめ",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "title": "Griffith Observatory 特別プログラム",
+      "description": "夏の特別プログラムとして、子ども向けのスターショーと天体観測イベント開催。プラネタリウムや双眼鏡での観測が人気。入場無料。",
+      "date": "6月上旬〜下旬（通年開催、夏は特別プログラム）",
+      "place": "4730 Crystal Canyon Drive, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "LA County Museum of Art (LACMA) - Summer Kids Programs",
-      "description": "子ども向けの特別ワークショップやアート体験が充実。屋外のBig Magenta Lights、家族向けギャラリーツアーなど、乳幼児から小学生が楽しめます。",
-      "date": "6月～8月の週末・平日",
-      "place": "LACMA, 5905 Wilshire Blvd, Los Angeles, CA 90036",
+      "title": "Santa Monica Pier & Beach アクティビティ",
+      "description": "遊園地、アーケードゲーム、ビーチプレイ。夏の営業拡大で、子ども向けの乗り物やスイミングエリア充実。カリフォルニアの典型的なビーチアクティビティ。",
+      "date": "6月通年",
+      "place": "200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
+      "free": false
+    },
+    {
+      "title": "Los Angeles County Museum of Art (LACMA) ファミリープログラム",
+      "description": "夏休み前の6月に家族向けワークショップ開催。子ども向けのアート体験、ファミリータイムスロット。Wilshire Blvdの有名なランプもあり。",
+      "date": "6月上旬〜下旬",
+      "place": "5905 Wilshire Boulevard, Los Angeles, CA 90036",
       "link": "https://www.lacma.org",
       "free": false
     },
     {
-      "title": "Santa Monica Beach & Summer Concert Series",
-      "description": "太平洋での海水浴、砂浜での遊び。6月は夕方のビーチコンサートが開催され、家族で海辺でのんびり音楽鑑賞できます。アイスクリームショップも充実。",
-      "date": "6月～8月通して、コンサートは週末夕方",
-      "place": "Santa Monica Beach & Pier, Santa Monica, CA 90401",
-      "link": "https://www.smgov.net/departments/parksrec/programs/",
+      "title": "Runyon Canyon ハイキング",
+      "description": "ハリウッドの丘での家族向けハイキング。短いコース（約30分）から選択可能。眺望抜群で、朝早く訪れると涼しい。入場無料。",
+      "date": "6月通年（早朝がおすすめ）",
+      "place": "2000 N Fuller Ave, Los Angeles, CA 90046",
+      "link": "https://www.lamountains.com/runyon-canyon-park",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-04T02:17:14.691Z"
+  "updatedAt": "2026-06-08T02:12:29.249Z"
 }

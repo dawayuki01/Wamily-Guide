@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "King Kamehameha Day Celebration Parade",
-      "description": "ハワイの建国者を祝う6月11日のパレード。カラフルなフロートと伝統的なハワイアンダンスが楽しめ、沿道での観覧は無料。家族向けの楽しいイベントです。",
+      "title": "King Kamehameha Day Celebration",
+      "description": "ハワイの建国の父を祝う祭日。パレード、フラダンス、ハワイ文化の展示など、子どもも楽しめるイベントがワイキキやダウンタウンで開催されます。",
       "date": "6月11日前後",
-      "place": "ホノルル、カラカウア通り",
-      "link": "https://honolulu.gov/",
+      "place": "ホノルル各地（主にダウンタウンホノルル、ワイキキ）",
+      "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "ハワイ火山国立公園 Crater Rim Trail",
-      "description": "ハワイ島のキラウエア火山で、子どもも歩きやすいトレイルを探索。火山地形とハワイの地質を学べる屋外アクティビティ。季節の野生動物も観察できます。",
-      "date": "6月中旬～下旬",
-      "place": "ハワイ島、ハワイ火山国立公園",
-      "link": "https://www.nps.gov/havo/",
-      "free": false
-    },
-    {
-      "title": "Honolulu Zoo Summer Programs",
-      "description": "ホノルル動物園の夏期特別プログラム。子ども向けのワークショップやガイドツアーで、動物について楽しく学べます。幅広い年齢層に対応。",
-      "date": "6月中旬～8月下旬",
-      "place": "オアフ島、ワイキキ動物園",
+      "title": "Honolulu Zoo Summer Concert Series",
+      "description": "ホノルル動物園での家族向けコンサートシリーズ。芝生でピクニックしながら、子どもが楽しめるライブパフォーマンスを鑑賞できます。",
+      "date": "6月の毎週日曜",
+      "place": "ホノルル動物園（Waikiki）",
       "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "Waikiki Beach Park Family Events",
-      "description": "ワイキキビーチでの無料ファミリーイベント。砂浜での遊びや浅瀬での水遊びなど、乳幼児から小学生まで安全に楽しめる屋外アクティビティ。",
-      "date": "6月毎週末",
-      "place": "オアフ島、ワイキキビーチ",
-      "link": "",
       "free": true
     },
     {
-      "title": "Hawaii Nature Center Children's Programs",
-      "description": "ハワイの自然学習施設での子ども向けプログラム。虫取りやハイキング、植物観察など季節限定の体験ができます。教育的かつ楽しい屋外体験。",
-      "date": "6月中旬～下旬（週末中心）",
-      "place": "オアフ島、イアオ渓谷",
-      "link": "https://www.hawaiinaturecenter.org/",
+      "title": "Oahu Farmers Market - KCC Saturday Market",
+      "description": "ハワイの新鮮な野菜、フルーツ、ローカルフードを販売するマーケット。子どもが試食でき、ハワイの食文化を学べます。週末のお出かけに最適です。",
+      "date": "毎週土曜朝8時〜12時",
+      "place": "カピオラニ・コミュニティ・カレッジ駐車場（ホノルル）",
+      "link": "https://www.honolulunow.com/",
+      "free": true
+    },
+    {
+      "title": "Snorkeling at Hanauma Bay Nature Preserve",
+      "description": "ハワイ最高のシュノーケリングスポット。遠浅で波が穏やか、色とりどりの魚が見られます。ビーチでの家族向けアクティビティに最適です。",
+      "date": "6月上旬〜下旬（通年営業）",
+      "place": "ハナウマ湾自然保護区（東オアフ）",
+      "link": "https://www.honolulu.gov/parks-recreation/facility/hanauma-bay/",
+      "free": false
+    },
+    {
+      "title": "Bishop Museum Summer Programs for Kids",
+      "description": "ハワイ州立博物館の子ども向け夏期プログラム。ハワイの歴史、文化、自然科学を学べるワークショップやスクリーンが開催されます。",
+      "date": "6月〜8月（プログラムにより異なる）",
+      "place": "ビショップミュージアム（ホノルル）",
+      "link": "https://www.bishopmuseum.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-04T02:17:21.621Z"
+  "updatedAt": "2026-06-08T02:12:36.971Z"
 }
