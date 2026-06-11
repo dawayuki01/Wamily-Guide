@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "アーサーラハ祭り（三宝節）",
-      "description": "仏教の重要な祭りで、寺院参拝やロウソク行列が行われます。子どもと一緒にタイ文化を体験でき、寺院の特別な雰囲気が味わえます。",
-      "date": "6月中旬～下旬（旧暦8月15日）",
-      "place": "バンコク市内の主要寺院（ワット・ポー、ワット・サケット等）",
-      "link": "https://www.tatnews.org/",
-      "free": true
-    },
-    {
-      "title": "キング・パワー・アウトレット・バンナー 季節セール",
-      "description": "バンコクの大型ショッピングモールでの夏季セール。子ども用品やおもちゃ、衣類が割引され、ファミリー向けの涼しい屋内アクティビティが充実しています。",
-      "date": "6月上旬～下旬",
-      "place": "キング・パワー・アウトレット・バンナー、587 Bangsue-Sai Noi Rd, Bangkok 10800",
-      "link": "",
+      "title": "ロイクラトン祭り（準備期間・先行イベント）",
+      "description": "11月の本祭りに向けた準備イベント。手作り灯籠の工作教室や文化体験が各地で開催。子どもたちが伝統文化を学びながら楽しめます。",
+      "date": "6月中旬〜下旬",
+      "place": "バンコク国立博物館ほか市内各地",
+      "link": "https://www.baht.or.th/",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット（通年営業）",
-      "description": "世界最大級の週末マーケット。子ども向けおもちゃ、衣類、アクセサリーが豊富で、屋台グルメも楽しめます。広大で冒険心が刺激される体験が可能。",
-      "date": "毎週土日（6月も営業）",
-      "place": "チャトゥチャック・ウィークエンド・マーケット、Kamphaeng Phet 2 Rd, Bangkok 10900",
-      "link": "https://www.chatuchakmarket.com",
-      "free": true
-    },
-    {
-      "title": "サイアム・パーク（Siam Park）",
-      "description": "東南アジア最大級のウォーターパーク。6月の雨季でも営業し、子どもから大人まで楽しめるスライダーやプール施設が充実。夏休みシーズンのお得なチケットがあります。",
-      "date": "6月通年（毎日営業）",
-      "place": "Siam Park, 203 Sukhumvit Rd, Muang, Samut Prakan 10540",
-      "link": "https://www.siampark.com",
+      "title": "サイアムパラゴン水族館の雨季特別プログラム",
+      "description": "雨季限定の深海生物展示や子ども向けマリン教室。タッチプール体験など、雨の日も楽しめる屋内施設での特別企画が実施されます。",
+      "date": "6月上旬〜下旬",
+      "place": "Siam Paragon, Rama 1 Road, Bangkok",
+      "link": "https://www.siamparagon.co.th/",
       "free": false
     },
     {
-      "title": "バンコク・キッズ・シティ・ミュージアム（Bangkok Children's Discovery Museum）",
-      "description": "子どもの知的好奇心を育てる体験型博物館。雨が多い6月に最適な屋内施設で、乳幼児から小学生向けの対話的な展示が豊富です。",
-      "date": "6月通年（火～日曜日営業、月曜休館）",
-      "place": "Bangkok Children's Discovery Museum, 61 Thanon Ratchadamri, Pathum Wan, Bangkok 10330",
-      "link": "https://www.bkkchildrensmuseum.com",
+      "title": "ルンピニー公園での無料朝ヨガ・太極拳教室",
+      "description": "毎朝開催の無料ヨガ・太極拳に家族で参加可能。緑豊かな公園で朝涼しい時間を過ごせます。6月は雨の少ない早朝がおすすめ。",
+      "date": "6月毎日（早朝6:00〜）",
+      "place": "Lumphini Park, Rama IV Road, Bangkok",
+      "link": "https://www.bangkok.go.th/",
+      "free": true
+    },
+    {
+      "title": "チャトゥチャック・ウィークエンド・マーケットの子ども向けワークショップ",
+      "description": "毎週末開催の巨大マーケット。陶芸やアート体験、タイ菓子作り教室など子ども向けワークショップが複数出店。地域文化も学べます。",
+      "date": "6月の土日（毎週）",
+      "place": "Chatuchak Market, Kamphaengphet 2 Road, Bangkok",
+      "link": "https://www.chatuchakmarket.org/",
+      "free": false
+    },
+    {
+      "title": "バンコク国立博物館の子ども向け文化体験ツアー",
+      "description": "タイ王室の歴史や仏教文化を学ぶ英語ガイド付きツアー。子ども向けワークショップで絵画やクラフト体験も可能。涼しい室内アクティビティ。",
+      "date": "6月の火〜日（午前・午後）",
+      "place": "4 Na Phra That Road, Bangkok",
+      "link": "https://www.baht.or.th/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-08T02:12:14.175Z"
+  "updatedAt": "2026-06-11T02:11:16.682Z"
 }

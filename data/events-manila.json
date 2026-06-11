@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アメリカ友好記念日（Philippine-American Friendship Day）",
-      "description": "6月12日のフィリピン独立記念日と7月4日の米国独立記念日を祝うパレードやフェスティバル。子ども向けのダンスパフォーマンスや文化体験が多数。",
-      "date": "6月上旬〜中旬",
-      "place": "マニラ湾岸エリア・グリーンベルト周辺",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "スター・シティ（Star City）の雨季限定アトラクション",
-      "description": "フィリピン最大級のテーマパーク。雨季は乗り物の待ち時間が短く、屋内アトラクションが充実。子ども向けライドと家族向けアクティビティが豊富。",
-      "date": "6月中旬〜下旬",
-      "place": "Star City, Sta. Cruz, Manila",
-      "link": "https://www.star-city.ph",
-      "free": false
-    },
-    {
-      "title": "マニラ動物園（Manila Zoo）の子ども向けプログラム",
-      "description": "フィリピン最古の動物園で、雨季特別の餌やりタイムやガイドツアー開催。アジア固有の動物が多く、教育的で子どもに人気。広い園内で屋外散策も楽しめます。",
-      "date": "6月中旬〜下旬",
-      "place": "Rizal Park, Manila",
-      "link": "https://www.manilazooph.com",
-      "free": false
-    },
-    {
-      "title": "リサール公園（Rizal Park）での家族向けアウトドア",
-      "description": "マニラ中心部の広大な公園。子ども向けの遊び場、博物館見学、花壇散策が無料で楽しめます。朝涼しい時間帯の散歩やピクニックに最適。",
-      "date": "6月毎日（早朝推奨）",
-      "place": "Rizal Park, Manila",
+      "title": "フィリピン・アメリカ友好デー（Philippine-American Friendship Day）",
+      "description": "6月12日前後に開催される独立記念日関連イベント。パレード、音楽、文化表演が楽しめます。子ども向けの露店やアクティビティも多くあります。",
+      "date": "6月上旬～中旬",
+      "place": "リサール公園（Rizal Park）、Maynila",
       "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "SM モール・オブ・アジア（MOA）の子どもサマープログラム",
-      "description": "フィリピン最大級のショッピングモール。6月は雨の日向け屋内キッズアクティビティ、ワークショップ、アイススケートが開催されます。エアコン完備で快適。",
-      "date": "6月中旬〜下旬",
-      "place": "SM MOA Complex, Pasay City",
-      "link": "https://www.smmallofasia.com",
+      "title": "スターシティ（Star City）のキッズイベント",
+      "description": "遊園地で開催される季節限定の子ども向けプログラム。乗り物、ショー、ゲームが楽しめます。6月の学校休暇シーズンに特別企画があります。",
+      "date": "6月上旬～下旬",
+      "place": "Star City, Harrison Plaza Bldg, 2206 Pasay City",
+      "link": "https://www.starcityphils.com",
       "free": false
+    },
+    {
+      "title": "マニラ湾スンセット観賞（Manila Bay Sunset Walk）",
+      "description": "ロハス大通りの海沿いで夕焼けを楽しむアクティビティ。レンタル自転車、露店、地元の屋台があり、家族連れに人気です。無料で楽しめます。",
+      "date": "6月通年（毎日）",
+      "place": "Roxas Boulevard, Manila Bay Waterfront",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
+    },
+    {
+      "title": "フィリピン国立博物館（National Museum）の子ども向けツアー",
+      "description": "自然史、美術、人類学の展示を子ども向けに解説するガイドツアー。インタラクティブな展示エリアもあります。教育的で家族向けです。",
+      "date": "6月通年（毎日営業）",
+      "place": "National Museum Complex, Padre Burgos St., Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
+      "free": false
+    },
+    {
+      "title": "アワイト・マーケット（Ayala Malls Open Markets）",
+      "description": "アヤラモール各施設で開催される屋外ファーマーズマーケット。地元の農産物、手工芸品、キッズワークショップがあり、家族で楽しめます。",
+      "date": "6月（毎週末開催）",
+      "place": "Ayala Malls各施設（Makati, BGC周辺）",
+      "link": "https://www.ayalacorp.com.ph",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-08T02:12:22.040Z"
+  "updatedAt": "2026-06-11T02:11:24.959Z"
 }

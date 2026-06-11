@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・ドラゴン・ボート・フェスティバル",
-      "description": "端午節を祝う伝統的なドラゴンボート競技大会。カラフルなボートレースを観戦できます。家族向けの露店やアクティビティも充実。",
-      "date": "6月上旬",
-      "place": "Marina Bay, シンガポール",
-      "link": "https://www.visitsingapore.com",
+      "title": "Dragon Boat Festival（ドラゴンボートフェスティバル）",
+      "description": "中国の伝統文化を祝うフェスティバル。色鮮やかなドラゴンボートレース、屋台、伝統工芸の展示が楽しめます。家族向けのワークショップやパフォーマンスも開催されます。",
+      "date": "6月上旬〜中旬",
+      "place": "Marina Bay Floating Platform、シンガポール川沿い",
+      "link": "",
       "free": true
     },
     {
-      "title": "シンガポール・サマー・フェスティバル（各施設開催）",
-      "description": "主要観光地で子ども向けアクティビティ、ワークショップ、パフォーマンスなどを実施。ユニバーサル・スタジオ・シンガポールやセントーサ島の施設で特別プログラム。",
+      "title": "Singapore Zoo Summer Holiday Program",
+      "description": "シンガポール動物園での夏期限定プログラム。動物とのふれあい体験、ガイド付きツアー、キッズ向けワークショップが開催されます。乳幼児から小学生向けのアクティビティが豊富です。",
+      "date": "6月上旬〜下旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.mandai.sg/singapore-zoo",
+      "free": false
+    },
+    {
+      "title": "East Coast Park Beach Activities",
+      "description": "シンガポール最大のビーチパーク。6月は夏休みシーズンで子ども向けの砂浜遊び、水遊び、サイクリングが最適。無料で終日楽しめます。ファミリー向けの安全な遊泳エリアがあります。",
       "date": "6月中旬〜下旬",
-      "place": "セントーサ島、ユニバーサル・スタジオ・シンガポール",
-      "link": "https://www.sentosa.com.sg",
-      "free": false
-    },
-    {
-      "title": "ガーデンズ・バイ・ザ・ベイ季節展示",
-      "description": "シーズンテーマに合わせた花や植物の展示。光のインスタレーション「スーパーツリー・グローブ」は夜間も楽しめる屋外体験。",
-      "date": "6月通期",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, シンガポール",
-      "link": "https://www.gardensbythebay.com.sg",
-      "free": false
-    },
-    {
-      "title": "リバー・ワンダーランド・シーズナル・アクティビティ",
-      "description": "River Wonders（シンガポール動物園の河川テーマパーク）での乗船体験やワークショップ。子どもが動物と触れ合えるプログラム多数。",
-      "date": "6月通期",
-      "place": "River Wonders, 80 Mandai Lake Road, シンガポール",
-      "link": "https://www.riverwonders.sg",
-      "free": false
-    },
-    {
-      "title": "イースト・コースト・パーク無料レクリエーション・デー",
-      "description": "シンガポール最大のビーチパーク。無料で利用できる水上アクティビティ、ピクニックエリア、子ども向け遊技施設が充実。家族向けの穴場。",
-      "date": "6月週末",
-      "place": "East Coast Park, シンガポール",
+      "place": "East Coast Park, East Coast Parkway, Singapore 1542",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
+    },
+    {
+      "title": "National Museum of Singapore Summer Camp",
+      "description": "シンガポール国立博物館による夏休み特別プログラム。シンガポール歴史体験、クラフト活動、インタラクティブな展示が楽しめます。3〜12歳向けのワークショップが毎日開催されます。",
+      "date": "6月上旬〜下旬",
+      "place": "National Museum of Singapore, 93 Stamford Road, Singapore 178897",
+      "link": "https://www.nationalmuseum.sg",
+      "free": false
+    },
+    {
+      "title": "Jurong Bird Park Water Play Zone",
+      "description": "裕廊鳥類公園の季節限定ウォータープレイゾーン。6月は暑いためスプラッシュパッドがオープン。動物観察と水遊びが同時に楽しめる、乳幼児向けの安全な水遊び施設です。",
+      "date": "6月上旬〜下旬",
+      "place": "Jurong Bird Park, 2 Jurong Hill, Singapore 628925",
+      "link": "https://www.mandai.sg/jurong-bird-park",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-08T02:12:05.287Z"
+  "updatedAt": "2026-06-11T02:11:08.480Z"
 }
