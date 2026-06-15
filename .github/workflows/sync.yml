@@ -64,10 +64,20 @@ jobs:
         continue-on-error: true
 
       # ────────────────────────────────
-      # 3. TimeOut London RSS + Claude フィルタ → イベント
+      # 曜日判定（JST月曜のみ重い処理を回すため）
+      #   cron は UTC 00:00 (= JST 09:00) 起動。UTC月曜 = JST月曜。
+      # ────────────────────────────────
+      - name: Determine weekday
+        id: weekday
+        run: echo "dow=$(date -u +%u)" >> "$GITHUB_OUTPUT"
+
+      # ────────────────────────────────
+      # 3. TimeOut London RSS + Claude フィルタ → イベント（週1: 月曜のみ）
+      #    Claude API コスト削減のため毎日→週1へ変更
       # ────────────────────────────────
       - name: Fetch & filter events (RSS + Claude API)
         id: fetch_events
+        if: github.event_name == 'workflow_dispatch' || steps.weekday.outputs.dow == '1'
         run: node scripts/fetch-events.js
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
