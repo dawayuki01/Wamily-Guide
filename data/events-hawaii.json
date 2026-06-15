@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "King Kamehameha Day Celebration",
-      "description": "ハワイの建国の父を祝う祭日。パレード、フラダンス、文化展示が開催。子ども向けの民族衣装体験やクラフト活動も充実。",
-      "date": "6月11日（前後の週末に各地で開催）",
-      "place": "ホノルル市街地・カピオラニ公園周辺",
-      "link": "https://www.gohawaii.com/",
+      "title": "King Kamehameha Day（キング・カメハメハ・デー）",
+      "description": "ハワイ建国の父を祝う祝日。パレード、フラダンス、伝統文化の展示など家族向けのイベントが各島で開催されます。無料で参加でき、ハワイの文化を学べます。",
+      "date": "6月11日（前後の週末にイベント開催）",
+      "place": "ホノルル市内・カラカウア大通りほか各島",
+      "link": "https://www.gohawaii.com",
       "free": true
     },
     {
       "title": "Honolulu Zoo Summer Camp & Programs",
-      "description": "ホノルル動物園の夏のプログラム。子ども向けのワークショップ、動物学習体験、キャンプが開催。乳幼児から参加可能な朝の教室も。",
-      "date": "6月上旬〜8月下旬（複数コース）",
-      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
-      "link": "https://www.honoluluzoo.org/",
+      "description": "ホノルル動物園の夏のプログラム。子ども向けの動物園体験、ワークショップ、ガイドツアーなどが開催されます。動物との触れ合いと学習の両立ができます。",
+      "date": "6月中旬〜8月下旬",
+      "place": "Honolulu Zoo, 151 Kapiolani Park, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "Waikiki Aquarium Children's Programs",
-      "description": "水族館の子ども向けサマープログラム。海の生き物の学習、スノーケリング体験、海岸クリーンアップイベントなどを開催。",
-      "date": "6月〜8月（週末・特定日）",
-      "place": "Waikiki Aquarium, 2777 Kalakaua Ave, Honolulu, HI 96815",
-      "link": "https://www.waikikiaquarium.org/",
+      "title": "Waikiki Beach Snorkeling & Water Activities",
+      "description": "6月はハワイの乾季で天気が安定。ワイキキビーチでの家族向けシュノーケリングツアー、スタンドアップパドルボード、タートルツアーなどが最適な季節です。",
+      "date": "6月全般（6月〜9月が最適）",
+      "place": "Waikiki Beach, Honolulu",
+      "link": "https://www.gohawaii.com/islands/oahu/activities/water-sports",
       "free": false
     },
     {
-      "title": "KCC Farmers Market（カカアコ・ファーマーズマーケット）",
-      "description": "毎週末開催の地元野菜・フルーツ・食べ物の市場。新鮮なハワイ産パパイヤやマンゴー試食、子ども向けアクティビティコーナーあり。",
-      "date": "6月の毎週土日（通年開催）",
-      "place": "KCC Farmers Market, 2677 Woodlawn Drive, Honolulu, HI 96822",
-      "link": "https://www.honolulufarmers.com/",
+      "title": "Honolulu Farmers Market（KCC Farmers Market）",
+      "description": "毎週末開催の農産物・地元食材市場。新鮮なトロピカルフルーツ、ローカルフード試食、子どもの体験コーナーなど。無料で入場でき、文化体験ができます。",
+      "date": "6月毎週土曜日・日曜日",
+      "place": "KCC Farmers Market, 2271 Kuhio Ave, Honolulu, HI 96815",
+      "link": "https://www.honolulufarmers.com",
       "free": true
     },
     {
-      "title": "Snorkeling at Hanauma Bay（ハナウマ湾シュノーケリング）",
-      "description": "ハワイの代表的なシュノーケリングスポット。6月は穏やかな海況で初心者向き。カラフルな魚や海ガメ観察。4才以上向けプログラムあり。",
-      "date": "6月上旬〜下旬（通年開放）",
-      "place": "Hanauma Bay Nature Preserve, 100 Hanauma Bay Road, Honolulu, HI 96825",
-      "link": "https://www.honolulu.gov/parks-recreation/facility-mgt/facility-zones-0/hanauma-bay.html",
+      "title": "Maui Ocean Center Aquarium Summer Programs",
+      "description": "マウイ島の水族館の夏プログラム。タッチプール、海の生き物との相互作用、子ども向け教育プログラムで海の生態系を学べます。",
+      "date": "6月中旬〜8月下旬",
+      "place": "Maui Ocean Center, 192 Ma'alahi Street, Wailuku, HI 96793",
+      "link": "https://www.mauioceancenter.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-11T02:11:39.335Z"
+  "updatedAt": "2026-06-15T02:16:41.155Z"
 }

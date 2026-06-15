@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン夏至祭（Midsommar）準備イベント",
-      "description": "6月中旬から各地で開催される北欧の伝統的夏至祭。花輪作りや民族舞踊、伝統音楽などが楽しめ、子どもも参加できるワークショップが充実しています。",
+      "title": "ストックホルム水祭り（Stockholm Water Festival）",
+      "description": "ストックホルムの夏の風物詩。音楽ライブ、ダンス、子ども向けアクティビティが水辺で繰り広げられる。家族連れに人気のイベント。",
       "date": "6月中旬〜下旬",
-      "place": "ストックホルムの各公園・文化施設（スカンセン野外博物館など）",
+      "place": "ストックホルム市庁舎広場周辺・Riddarfjärden水辺",
+      "link": "https://stockholmvattenfestival.se",
+      "free": true
+    },
+    {
+      "title": "スカンセン野外博物館の夏季プログラム",
+      "description": "動物園と民俗博物館が一体。6月は動物の赤ちゃん公開、ハンドクラフト体験、伝統芸能パフォーマンスが充実。乳幼児〜小学生向け。",
+      "date": "6月通年",
+      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "スカンセン野外博物館での季節プログラム",
-      "description": "北欧最大の野外博物館。6月は初夏の動物たちの活動が活発で、乳幼児向けの触れ合いプログラムや家族向けガイドツアーが開催されます。",
-      "date": "6月通期",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
-      "free": false
-    },
-    {
-      "title": "ストックホルム群島での無料ビーチアクティビティ",
-      "description": "初夏の温かさで水遊びが楽しい季節。群島の複数のビーチで家族向けの無料開放エリアがあります。浅瀬で安全に水遊びでき、ピクニック施設も充実。",
-      "date": "6月通期",
-      "place": "ストックホルム群島各所（Vaxholm, Källarön など）",
+      "title": "ユーランダー島（Djurgården）でのサイクリング・ピクニック",
+      "description": "ストックホルムの美しい島。6月は花が咲き、天気が良く、レンタル自転車で家族で周辺散策。子ども用自転車・キャリアも利用可。屋外アクティビティ。",
+      "date": "6月全般（天候による）",
+      "place": "Djurgården, Stockholm",
       "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "北欧博物館（Nordiska Museet）の子ども向け特別展示",
-      "description": "北欧の伝統文化を学べる施設。6月は夏至祭関連の特別展示やファミリーワークショップが開催され、子どもが北欧文化を体験できます。",
-      "date": "6月通期",
-      "place": "Djurgårdsvägen 6-16, 115 21 Stockholm",
+      "title": "ノルディスカ美術館（Nordiska Museet）の子ども向けワークショップ",
+      "description": "スウェーデン文化を学ぶ博物館。夏季に子ども向けの工作、衣装体験、伝統文化講座を実施。インタラクティブで楽しい。",
+      "date": "6月中旬〜下旬（夏プログラム開始時期による）",
+      "place": "Nordiska Museet, Djurgårdsvägen 6-16, 115 93 Stockholm",
       "link": "https://www.nordiskamuseet.se",
       "free": false
     },
     {
-      "title": "スウェーデン国立美術館でのファミリーツアー",
-      "description": "子ども向けの無料ガイドツアーが週末に開催。北欧美術を分かりやすく解説し、子どもたちが芸術に親しめるプログラムです。",
-      "date": "6月の週末",
-      "place": "Södra Blasieholmshamnen, 111 48 Stockholm",
-      "link": "https://www.nationalmuseum.se",
+      "title": "ストックホルム市立図書館のサマーイベント",
+      "description": "市立図書館では6月から子ども向けの読み聞かせ、手遊び、工作イベントが無料で開催。スウェーデン文化に触れながら楽しめる。",
+      "date": "6月全般",
+      "place": "Stockholms Stadsbibliotek, Svartmangatan 17, 111 29 Stockholm",
+      "link": "https://www.stockholm.se/kultur-och-fritid/bibliotek",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-11T02:11:01.079Z"
+  "updatedAt": "2026-06-15T02:15:58.748Z"
 }

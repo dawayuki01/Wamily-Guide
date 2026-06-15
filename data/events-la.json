@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA Pride Parade & Festival",
-      "description": "ロサンゼルスの大規模LGBTQ+イベント。カラフルなパレード、ステージパフォーマンス、家族向けエリアなど。6月中旬開催。",
-      "date": "6月中旬",
-      "place": "Santa Monica Boulevard & surrounding areas, West Hollywood",
-      "link": "https://lapride.org",
+      "title": "LA Pride Festival & Parade",
+      "description": "6月中旬に開催される大規模プライドイベント。カラフルなパレード、ミュージック、キッズエリアも充実。家族向けのエンターテイメントが豊富で、多様性を学ぶ良い機会です。",
+      "date": "6月中旬（通常6月15日前後）",
+      "place": "West Hollywood Park および周辺、West Hollywood, CA",
+      "link": "https://lapride.org/",
+      "free": true
+    },
+    {
+      "title": "Summer Movie Nights in Park",
+      "description": "ロサンゼルス各地の公園で夜間に映画を上映。シートを敷いて家族で映画鑑賞。子ども向け作品も多く、レジャー雰囲気で楽しめる無料プログラムです。",
+      "date": "6月中旬〜8月末（6月から開始）",
+      "place": "Grand Park, Downtown LA 及び各地域パーク",
+      "link": "https://www.grandparkla.org/",
       "free": true
     },
     {
       "title": "Griffith Observatory Summer Programs",
-      "description": "グリフィス天文台の夏季特別プログラム。プラネタリウムショー、望遠鏡体験、子ども向けワークショップ。施設入場は無料。",
-      "date": "6月全体",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "description": "グリフィス天文台の夏季プログラム。望遠鏡観測、プラネタリウムショー、天文学ワークショップなど。子ども向けの科学教育とアクティビティが充実しています。",
+      "date": "6月〜8月（通年ですが夏季特別プログラムあり）",
+      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "Summer Sunset Series at Hollywood Bowl",
-      "description": "ハリウッドボウルの夏の野外音楽祭。家族向けコンサートやクラシック音楽。ピクニック持参OK。6月中旬〜開始。",
-      "date": "6月中旬〜下旬",
-      "place": "Hollywood Bowl, 2301 N Highland Ave, Los Angeles, CA 90068",
-      "link": "https://www.hollywoodbowl.com",
+      "title": "Santa Monica Pier Summer Events",
+      "description": "サンタモニカピアの夏イベント。ファーマーズマーケット、キッズアクティビティ、ライブミュージック。海沿いでのビーチアクティビティと組み合わせて家族で丸一日楽しめます。",
+      "date": "6月中旬〜9月末（週末イベント中心）",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org/",
       "free": false
     },
     {
-      "title": "LA County Fair Summerfest Events",
-      "description": "ロサンゼルス郡の各地で開催される夏のフェスティバル。キッズゾーン、ライブパフォーマンス、ローカルフード。各地で複数開催。",
-      "date": "6月〜7月初旬",
-      "place": "Various locations across LA County",
-      "link": "https://lacountyfair.com",
+      "title": "Los Angeles County Fair Kids Summer Activities",
+      "description": "ロサンゼルス郡立公園での子ども向け夏イベント。サマーキャンプ、ワークショップ、屋外遊び施設。対話型の学習と遊びを組み合わせたプログラムが豊富です。",
+      "date": "6月初旬〜8月末",
+      "place": "Various LA County Parks",
+      "link": "https://lacountyparks.org/",
       "free": false
-    },
-    {
-      "title": "Torrey Pines State Natural Reserve Beach Day",
-      "description": "砂漠の松林が広がる自然保護区でのハイキング。子ども向けのイージートレイルあり。海岸絶景、野生動物観察。屋外アクティビティ。",
-      "date": "6月全体（早朝推奨）",
-      "place": "Torrey Pines State Natural Reserve, 12600 N Torrey Pines Rd, San Diego, CA 92037",
-      "link": "https://www.parks.ca.gov/?page_id=657",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-11T02:11:31.181Z"
+  "updatedAt": "2026-06-15T02:16:31.944Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アメリカ友好デー（Philippine-American Friendship Day）",
-      "description": "6月12日前後に開催される独立記念日関連イベント。パレード、音楽、文化表演が楽しめます。子ども向けの露店やアクティビティも多くあります。",
-      "date": "6月上旬～中旬",
-      "place": "リサール公園（Rizal Park）、Maynila",
-      "link": "https://www.tourism.gov.ph",
+      "title": "Makati Salubong Festival（マカティ・サルボン・フェスティバル）",
+      "description": "マカティ地区の伝統的な祭りで、パレード、文化表演、地元フード屋台が楽しめます。子どもたちも参加できるワークショップやゲームが企画されることが多いです。",
+      "date": "6月上旬〜中旬",
+      "place": "マカティ市（Makati City）、Ayala Avenue周辺",
+      "link": "https://www.makati.gov.ph",
       "free": true
     },
     {
-      "title": "スターシティ（Star City）のキッズイベント",
-      "description": "遊園地で開催される季節限定の子ども向けプログラム。乗り物、ショー、ゲームが楽しめます。6月の学校休暇シーズンに特別企画があります。",
-      "date": "6月上旬～下旬",
-      "place": "Star City, Harrison Plaza Bldg, 2206 Pasay City",
-      "link": "https://www.starcityphils.com",
+      "title": "Manila Zoo Summer Camp & Activities（マニラ動物園）",
+      "description": "夏シーズンの特別プログラム。動物との触れ合い体験、教育的なツアー、キャンプアクティビティが開催されます。乳幼児から小学生向けのプログラムが豊富です。",
+      "date": "6月中旬〜下旬",
+      "place": "Manila Zoo, Rizal Park, Manila",
+      "link": "https://manilazooph.org",
       "free": false
     },
     {
-      "title": "マニラ湾スンセット観賞（Manila Bay Sunset Walk）",
-      "description": "ロハス大通りの海沿いで夕焼けを楽しむアクティビティ。レンタル自転車、露店、地元の屋台があり、家族連れに人気です。無料で楽しめます。",
-      "date": "6月通年（毎日）",
-      "place": "Roxas Boulevard, Manila Bay Waterfront",
-      "link": "https://www.tourism.gov.ph",
+      "title": "Rizal Park（リサール公園）での親子活動",
+      "description": "マニラ最大の屋外公園で、プール、芝生広場、自転車レンタルが利用できます。ピクニック、遊具遊び、アクティビティを無料で楽しめます。朝の涼しい時間がおすすめです。",
+      "date": "6月通期（早朝がおすすめ）",
+      "place": "Rizal Park (Luneta Park), Manila",
+      "link": "https://www.tripadvisor.com/Tourism-g317155-Rizal_Park_Luneta_Park_Manila_National_Capital_Region_CALABARZON_Region_Calabarzon.html",
       "free": true
     },
     {
-      "title": "フィリピン国立博物館（National Museum）の子ども向けツアー",
-      "description": "自然史、美術、人類学の展示を子ども向けに解説するガイドツアー。インタラクティブな展示エリアもあります。教育的で家族向けです。",
-      "date": "6月通年（毎日営業）",
-      "place": "National Museum Complex, Padre Burgos St., Ermita, Manila",
+      "title": "National Museum Summer Exhibits for Kids（国立博物館子ども向け企画）",
+      "description": "夏休みシーズンに開催される子ども向けの特別展示やワークショップ。フィリピンの歴史・文化を楽しく学べます。対話的な展示が多くあります。",
+      "date": "6月中旬〜下旬",
+      "place": "National Museum Complex, Padre Burgos Street, Manila",
       "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     },
     {
-      "title": "アワイト・マーケット（Ayala Malls Open Markets）",
-      "description": "アヤラモール各施設で開催される屋外ファーマーズマーケット。地元の農産物、手工芸品、キッズワークショップがあり、家族で楽しめます。",
-      "date": "6月（毎週末開催）",
-      "place": "Ayala Malls各施設（Makati, BGC周辺）",
-      "link": "https://www.ayalacorp.com.ph",
-      "free": true
+      "title": "Enchanted Kingdom Fiesta（エンチャンテッド・キングダム）",
+      "description": "テーマパークで展開される季節イベント。キャラクターショー、特別ショー、限定アトラクションで家族連れが楽しめます。乳幼児用施設も充実しています。",
+      "date": "6月中旬〜下旬",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから約1時間）",
+      "link": "https://www.enchantedkingdom.ph",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-11T02:11:24.959Z"
+  "updatedAt": "2026-06-15T02:16:24.491Z"
 }

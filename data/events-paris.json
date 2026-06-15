@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Paris Plages（パリ・プラージュ）",
-      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊びやビーチスポーツを楽しめます。屋外での無料アクティビティで、夏の雰囲気を感じられます。",
-      "date": "6月中旬〜9月上旬",
-      "place": "セーヌ川沿い（パリ4区〜13区）",
-      "link": "https://www.paris.fr/pages/paris-plages-8277",
+      "title": "パリ・プラージュ（Paris Plage）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもたちが砂遊びや水遊びを楽しめる屋外アクティビティ。無料で楽しめるパリの夏の風物詩です。",
+      "date": "6月中旬～9月中旬",
+      "place": "セーヌ川沿い（ルーヴル美術館周辺など複数箇所）、パリ",
+      "link": "https://www.paris.fr/",
       "free": true
     },
     {
-      "title": "フェスティバル・シネマア・トゥー・エクラン（FTE）",
-      "description": "パリの野外映画祭。家族向け上映が行われ、屋外での映画体験が楽しめます。予約制で、多くのプログラムが子ども向けです。",
-      "date": "6月中旬〜下旬",
-      "place": "パリ各所の公園・広場",
-      "link": "https://www.fetedusommet.com/",
+      "title": "フェスティヴァル・シネマ・パリ（Cinéma du Réel）関連子ども映画上映",
+      "description": "夏休み前の家族向け映画上映会。キッズシネマなど、子どもたちが楽しめる特別プログラムが実施されます。",
+      "date": "6月中旬～下旬",
+      "place": "パリ市内各映画館",
+      "link": "",
       "free": false
     },
     {
-      "title": "ルーヴル美術館・子ども向けワークショップ",
-      "description": "6月は子ども向けアトリエ・プログラムが充実。美術に触れながら創作活動を行う体験です。事前予約が必要となります。",
-      "date": "6月通年（週末含む）",
-      "place": "ルーヴル美術館（パリ1区）",
-      "link": "https://www.louvre.fr/",
+      "title": "ルクセンブルク公園の子ども向けアクティビティ",
+      "description": "6月は天候も良く、公園内のポニー乗馬、人形劇、子ども向けワークショップなど季節限定プログラムが充実。無料エリアも多数。",
+      "date": "6月上旬～下旬",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ6区",
+      "link": "https://www.senatgov.fr/visite/jardins",
+      "free": true
+    },
+    {
+      "title": "パリ動物園（Ménagerie du Jardin des Plantes）の初夏企画",
+      "description": "6月は新生児動物の公開やナイト・イベントなど特別プログラムが実施。子どもたちが動物たちの成長を観察できます。",
+      "date": "6月上旬～下旬",
+      "place": "パリ植物園内、パリ5区",
+      "link": "https://www.mnhn.fr/",
       "free": false
     },
     {
-      "title": "ベルサイユ宮殿・庭園の噴水ショー",
-      "description": "6月の週末に庭園の大噴水ショーが開催。色彩豊かな水と音楽の演出は子どもたちを魅了します。屋外での壮観なスペクタクル体験。",
-      "date": "6月の週末・祝日",
-      "place": "ベルサイユ宮殿庭園（ベルサイユ）",
-      "link": "https://www.chateauversailles.fr/",
-      "free": false
-    },
-    {
-      "title": "パリ植物園（Jardin des Plantes）の季節展示",
-      "description": "6月は熱帯温室や花壇が見頃。子ども向けの自然教室も開催。広大な庭園での散策は家族向けの無料活動に最適です。",
-      "date": "6月通年",
-      "place": "パリ植物園（パリ5区）",
-      "link": "https://www.mnhn.fr/fr/visitez/lieux/jardin-des-plantes",
+      "title": "ノートルダム周辺・アイル・ド・ラ・シテの無料ガイド付き散策",
+      "description": "6月はパリ市の無料ファミリー向けガイドツアーが充実。歴史的建造物を学びながら散策。子ども向けクイズラリーも実施。",
+      "date": "6月上旬～下旬",
+      "place": "イル・ド・ラ・シテ、パリ4区",
+      "link": "https://www.parisinfo.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-11T02:10:53.671Z"
+  "updatedAt": "2026-06-15T02:15:51.014Z"
 }

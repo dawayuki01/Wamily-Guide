@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ドラゴンボートフェスティバル（端午節）",
-      "description": "香港の伝統的な祭り。カラフルなドラゴンボートレースが維多利亜港で開催。子どもも観客として楽しめ、屋台で伝統的な食べ物も味わえます。",
-      "date": "6月上旬（旧暦5月5日）",
-      "place": "ビクトリア・ハーバー周辺（Hong Kong)",
+      "title": "ドラゴンボート・フェスティバル（端午節）",
+      "description": "香港の伝統的な祭り。カラフルなドラゴンボートレースが維多利亚港で開催され、子どもたちも伝統文化を体験できます。屋台や露店も出店します。",
+      "date": "6月上旬（旧暦5月初5日）",
+      "place": "維多利亚港（Victoria Harbour）一帯、スターフェリー乗り場近辺",
       "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "香港ウェットランド・パーク（濕地公園）での野外観察プログラム",
-      "description": "香港北西部の自然保護区。野鳥観察、トレッキング、教育プログラムが充実。子ども向けガイドツアーで自然学習ができます。",
-      "date": "6月通年（おすすめは6月下旬）",
-      "place": "Tin Shui Wai, Hong Kong",
-      "link": "https://www.wetlandpark.gov.hk",
+      "title": "香港科学館の夏休みサマープログラム",
+      "description": "子ども向けの科学実験ワークショップやインタラクティブ展示。恐竜展示やエネルギー体験コーナーなど、乳幼児から小学生まで楽しめます。",
+      "date": "6月中旬〜8月下旬",
+      "place": "香港科学館（Science Museum）、九龍尖沙咀東部科学館道2号",
+      "link": "https://www.lcsd.gov.hk/sc_CH/museums/science_museum/",
       "free": false
     },
     {
-      "title": "スターフェリー乗船体験と海沿いピクニック",
-      "description": "香港を代表する移動手段。ビクトリア・ハーバーの絶景を楽しみながらの乗船は子どもに人気。低料金で数十分間のアクティビティ。",
-      "date": "6月通年",
-      "place": "セントラル・ピア（Central Pier 7, Hong Kong)",
+      "title": "スターフェリーでの港内クルーズ",
+      "description": "香港の象徴的な交通手段であるスターフェリーで、子どもと一緒に維多利亚港を横断。2階建てフェリーからの眺めが素晴らしく、香港の風景を満喫できます。",
+      "date": "通年（6月は雨季ですが運行中）",
+      "place": "スターフェリー乗り場（セントラル〜尖沙咀間）",
       "link": "https://www.starferry.com.hk",
       "free": false
     },
     {
-      "title": "香港科学館の夏休み特別展示・プログラム",
-      "description": "恐竜展や天体観測プログラムなど、季節ごとの特別展が開催。子ども向けワークショップや4Dシアターで科学を楽しく学べます。",
-      "date": "6月上旬〜下旬",
-      "place": "Tsim Sha Tsui, Kowloon, Hong Kong",
-      "link": "https://www.scmp.com/culture",
+      "title": "ビクトリアピークへのトラムウェイツアー",
+      "description": "ピークトラムで香港最高地点へ。子どもたちは機関車のような乗り物を楽しみながら、香港全体のパノラマビューを堪能できます。",
+      "date": "通年（6月は湿度が高いが運行中）",
+      "place": "ピークトラム乗り場（セントラル・ピークトラム駅）",
+      "link": "https://www.thepeak.com.hk",
       "free": false
     },
     {
-      "title": "ビクトリア・ピーク・ナイト・ハイキング＆夜景観賞",
-      "description": "子どもも参加できる短めのハイキングコース。6月の涼しい夜間は子連れに快適。100万ドルの夜景が見られる最高の思い出スポット。",
-      "date": "6月通年（夜間）",
-      "place": "The Peak, Hong Kong Island",
-      "link": "https://www.discoverhongkong.com",
+      "title": "スターライト・シネマスクエア屋外映画上映",
+      "description": "香港の各地域で屋外映画が上映される夏企画。ファミリー向けの映画が選ばれることが多く、無料で楽しめます。夕方から夜間開催。",
+      "date": "6月下旬〜8月",
+      "place": "香港各地域（セントラル、イースト、ウェスト地区など）",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-11T02:11:54.641Z"
+  "updatedAt": "2026-06-15T02:16:57.240Z"
 }
