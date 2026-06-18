@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム水祭り（Stockholm Water Festival）",
-      "description": "ストックホルムの夏の風物詩。音楽ライブ、ダンス、子ども向けアクティビティが水辺で繰り広げられる。家族連れに人気のイベント。",
-      "date": "6月中旬〜下旬",
-      "place": "ストックホルム市庁舎広場周辺・Riddarfjärden水辺",
-      "link": "https://stockholmvattenfestival.se",
+      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
+      "description": "ストックホルム最大の夏祭り。音楽、ダンス、子ども向けアクティビティが満載。水辺での屋外イベントで家族連れに人気です。",
+      "date": "6月上旬〜中旬",
+      "place": "Riddarfjärdenの水辺一帯、ストックホルム市街地",
+      "link": "https://www.stockholmwaterfestival.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の夏季プログラム",
-      "description": "動物園と民俗博物館が一体。6月は動物の赤ちゃん公開、ハンドクラフト体験、伝統芸能パフォーマンスが充実。乳幼児〜小学生向け。",
+      "title": "ユールゴーデン島の屋外施設とスキャンセン（Skansen）",
+      "description": "北欧最大の野外博物館。動物園、伝統家屋、子ども向けアクティビティが充実。6月の長日を活用した屋外散策に最適です。",
       "date": "6月通年",
-      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーランダー島（Djurgården）でのサイクリング・ピクニック",
-      "description": "ストックホルムの美しい島。6月は花が咲き、天気が良く、レンタル自転車で家族で周辺散策。子ども用自転車・キャリアも利用可。屋外アクティビティ。",
-      "date": "6月全般（天候による）",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.visitstockholm.com",
-      "free": true
-    },
-    {
-      "title": "ノルディスカ美術館（Nordiska Museet）の子ども向けワークショップ",
-      "description": "スウェーデン文化を学ぶ博物館。夏季に子ども向けの工作、衣装体験、伝統文化講座を実施。インタラクティブで楽しい。",
-      "date": "6月中旬〜下旬（夏プログラム開始時期による）",
-      "place": "Nordiska Museet, Djurgårdsvägen 6-16, 115 93 Stockholm",
-      "link": "https://www.nordiskamuseet.se",
+      "title": "ヴァーサ号博物館の子ども向けプログラム",
+      "description": "世界唯一の17世紀沈没船。子ども向けの探検ツアーやワークショップが開催。室内で歴史を学べます。",
+      "date": "6月通年",
+      "place": "Galärvägen 14, Stockholm",
+      "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ストックホルム市立図書館のサマーイベント",
-      "description": "市立図書館では6月から子ども向けの読み聞かせ、手遊び、工作イベントが無料で開催。スウェーデン文化に触れながら楽しめる。",
-      "date": "6月全般",
-      "place": "Stockholms Stadsbibliotek, Svartmangatan 17, 111 29 Stockholm",
-      "link": "https://www.stockholm.se/kultur-och-fritid/bibliotek",
+      "title": "ユールゴーデン島のアウトドア遊び場と無料ビーチ散策",
+      "description": "ユールゴーデン島の公園や遊具、無料のビーチエリアで自然を満喫。ストックホルムの群島の景色を眺めながら家族で過ごせます。",
+      "date": "6月通年",
+      "place": "Djurgården Island, Stockholm",
+      "link": "",
       "free": true
+    },
+    {
+      "title": "グローナ・ルンド遊園地の夏シーズン",
+      "description": "子ども向けライドと家族向けアトラクションが豊富。6月の長い日照時間を活かした営業。スウェーデンの伝統的な遊園地体験。",
+      "date": "6月通年",
+      "place": "Djurgårdsvägen 48, Stockholm",
+      "link": "https://www.grona-lund.se",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-15T02:15:58.748Z"
+  "updatedAt": "2026-06-18T02:11:38.685Z"
 }

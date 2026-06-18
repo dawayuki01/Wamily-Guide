@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "シンガポール・ドラゴン・ボート・フェスティバル",
-      "description": "旧正月の時期に開催される伝統的なドラゴンボートレース。色鮮やかなボートと迫力あるレースが子どもも楽しめます。無料で観覧できるエリアもあります。",
-      "date": "6月中旬（旧暦5月の端午の節句に近い時期）",
-      "place": "シンガポール・スポーツ・ハブ、メリライオン・パーク周辺",
-      "link": "https://www.visitsingapore.com",
+      "description": "端午節を祝うカラフルなドラゴンボートレース。迫力のあるボートレース観戦や伝統文化を体験できます。家族向けの屋台やパフォーマンスも充実しています。",
+      "date": "6月上旬〜中旬",
+      "place": "Marina Bay（マリーナベイ周辺）、East Coast Park",
+      "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "ガーデンズ・バイ・ザ・ベイ サマー・プログラム",
-      "description": "東南アジア最大級の植物園で、子ども向けワークショップや展示が充実。花々を学びながら楽しめるアクティビティが豊富です。",
-      "date": "6月通期",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
+      "title": "マーライオン・パーク周辺のサマープログラム",
+      "description": "シンガポール観光局による子ども向けの無料ガイドツアーやアクティビティ。象徴的なマーライオン像を背景に、シンガポール文化を学べます。季節限定のスペシャルプログラムが開催されます。",
+      "date": "6月中旬〜下旬",
+      "place": "Merlion Park, 1 Raffles Avenue, Singapore",
+      "link": "https://www.stb.gov.sg",
+      "free": true
+    },
+    {
+      "title": "ガーデンズ・バイ・ザ・ベイの夏休みキッズプログラム",
+      "description": "植物園での子ども向け特別ワークショップ。ガラス温室内でのワークショップや自然観察、写真撮影イベントなど。乳幼児から小学生対象のプログラムが充実。",
+      "date": "6月中旬〜下旬",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "シンガポール動物園 キッズプログラム",
-      "description": "年間を通じた子ども向けフィーディングタイムやトークショーが充実。6月は乾季で動物たちの活動が活発。家族向けのインタラクティブ体験が豊富です。",
-      "date": "6月通期（毎日開催）",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.com.sg",
-      "free": false
-    },
-    {
-      "title": "イースト・コースト・パーク ファミリー・ビーチデー",
-      "description": "シンガポール最大級の海水浴場。6月の乾季は好天が続き、ビーチでの水遊びやスポーツが最適。無料で楽しめる家族向けの屋外スポット。",
-      "date": "6月通期（土日祝日にイベント開催）",
-      "place": "East Coast Park, East Coast Parkway, Singapore 1523",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "イースト・コースト・パークでのアウトドア・ファミリーデー",
+      "description": "シンガポール最大のビーチパークでの屋外アクティビティ。サイクリング、ピクニック、水遊びが楽しめます。無料で利用でき、家族向けの施設が充実しています。",
+      "date": "6月通期（週末）",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
+      "link": "https://www.nparks.gov.sg",
       "free": true
     },
     {
-      "title": "シンガポール・サイエンス・センター サマー・キャンプ",
-      "description": "STEMベースのワークショップやサイエンス実験が毎日開催。子どもの知的好奇心を刺激する対話型の展示とプログラムが充実しています。",
-      "date": "6月通期",
-      "place": "Singapore Science Centre, 15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
+      "title": "シンガポール・ズーの雨季スペシャルプログラム",
+      "description": "雨季の6月、動物たちの水遊びシーン観察やジャングル探検ツアーが特別開催。子ども向けのキーパー体験やエデュケーショナルプログラムが充実します。",
+      "date": "6月中旬〜下旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore",
+      "link": "https://www.singaporezoo.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-15T02:16:07.313Z"
+  "updatedAt": "2026-06-18T02:11:46.872Z"
 }

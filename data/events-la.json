@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA Pride Festival & Parade",
-      "description": "6月中旬に開催される大規模プライドイベント。カラフルなパレード、ミュージック、キッズエリアも充実。家族向けのエンターテイメントが豊富で、多様性を学ぶ良い機会です。",
-      "date": "6月中旬（通常6月15日前後）",
-      "place": "West Hollywood Park および周辺、West Hollywood, CA",
-      "link": "https://lapride.org/",
+      "title": "LA Pride Month イベント",
+      "description": "6月はLAプライド月間。ダウンタウンやウェストハリウッドで虹色に彩られたパレードやフェスティバルが開催。家族向けのエリアもあり、多様性を学べます。",
+      "date": "6月上旬〜下旬",
+      "place": "Santa Monica Boulevard（West Hollywood）、Downtown LA",
+      "link": "https://www.lapride.org",
       "free": true
     },
     {
-      "title": "Summer Movie Nights in Park",
-      "description": "ロサンゼルス各地の公園で夜間に映画を上映。シートを敷いて家族で映画鑑賞。子ども向け作品も多く、レジャー雰囲気で楽しめる無料プログラムです。",
-      "date": "6月中旬〜8月末（6月から開始）",
-      "place": "Grand Park, Downtown LA 及び各地域パーク",
-      "link": "https://www.grandparkla.org/",
+      "title": "ビーチシーズン開幕＆サマーキャンプ",
+      "description": "サンタモニカビーチやハンティントンビーチで海水浴シーズン到来。ライフガード常駐で安全。砂浜での家族向けアクティビティが充実した季節です。",
+      "date": "6月上旬〜下旬",
+      "place": "Santa Monica Beach、Huntington Beach",
+      "link": "https://www.santamonica.com/discover/beaches",
       "free": true
     },
     {
-      "title": "Griffith Observatory Summer Programs",
-      "description": "グリフィス天文台の夏季プログラム。望遠鏡観測、プラネタリウムショー、天文学ワークショップなど。子ども向けの科学教育とアクティビティが充実しています。",
-      "date": "6月〜8月（通年ですが夏季特別プログラムあり）",
-      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
-      "free": true
+      "title": "グリフィス天文台 Summer Night Events",
+      "description": "グリフィス天文台で夏季特別プログラム開始。プラネタリウムショーや屋上での天体観測が楽しめます。子ども向けワークショップも実施。",
+      "date": "6月上旬〜下旬",
+      "place": "Griffith Observatory, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
+      "free": false
     },
     {
-      "title": "Santa Monica Pier Summer Events",
-      "description": "サンタモニカピアの夏イベント。ファーマーズマーケット、キッズアクティビティ、ライブミュージック。海沿いでのビーチアクティビティと組み合わせて家族で丸一日楽しめます。",
-      "date": "6月中旬〜9月末（週末イベント中心）",
+      "title": "LA County Museum of Art（LACMA）キッズプログラム",
+      "description": "LAMMAで夏休み特別子ども向けプログラム開始。アート制作ワークショップや家族向けツアーなど。有料プログラムと無料エリアあり。",
+      "date": "6月中旬〜下旬",
+      "place": "5905 Wilshire Blvd, Los Angeles, CA 90036",
+      "link": "https://www.lacma.org",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier Summer Concerts",
+      "description": "サンタモニカピアで夏季音楽フェスティバル開催。無料のライブコンサート、キッズエリア、ビーチフロント環境での家族向けイベント。",
+      "date": "6月中旬〜下旬",
       "place": "Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.org/",
-      "free": false
-    },
-    {
-      "title": "Los Angeles County Fair Kids Summer Activities",
-      "description": "ロサンゼルス郡立公園での子ども向け夏イベント。サマーキャンプ、ワークショップ、屋外遊び施設。対話型の学習と遊びを組み合わせたプログラムが豊富です。",
-      "date": "6月初旬〜8月末",
-      "place": "Various LA County Parks",
-      "link": "https://lacountyparks.org/",
-      "free": false
+      "link": "https://www.santamonica.com/events",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-15T02:16:31.944Z"
+  "updatedAt": "2026-06-18T02:12:10.202Z"
 }

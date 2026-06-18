@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plage）",
-      "description": "セーヌ川沿いに砂浜が出現。子どもたちが砂遊びや水遊びを楽しめる屋外アクティビティ。無料で楽しめるパリの夏の風物詩です。",
-      "date": "6月中旬～9月中旬",
-      "place": "セーヌ川沿い（ルーヴル美術館周辺など複数箇所）、パリ",
-      "link": "https://www.paris.fr/",
+      "title": "パリ・プラージュ（Paris Plages）",
+      "description": "セーヌ川沿いに砂浜が出現。ビーチチェア、水遊び、子ども向けアクティビティが無料で楽しめます。パリの夏の風物詩です。",
+      "date": "6月中旬〜9月下旬",
+      "place": "セーヌ川沿い（ポンヌフ周辺など複数箇所）",
+      "link": "https://www.paris.fr/pages/paris-plages-2024-6891",
       "free": true
     },
     {
-      "title": "フェスティヴァル・シネマ・パリ（Cinéma du Réel）関連子ども映画上映",
-      "description": "夏休み前の家族向け映画上映会。キッズシネマなど、子どもたちが楽しめる特別プログラムが実施されます。",
-      "date": "6月中旬～下旬",
-      "place": "パリ市内各映画館",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "ルクセンブルク公園の子ども向けアクティビティ",
-      "description": "6月は天候も良く、公園内のポニー乗馬、人形劇、子ども向けワークショップなど季節限定プログラムが充実。無料エリアも多数。",
-      "date": "6月上旬～下旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ6区",
-      "link": "https://www.senatgov.fr/visite/jardins",
+      "title": "フラワーマーケット（Marché aux Fleurs Madeleine）",
+      "description": "マドレーヌ寺院前の季節の花市場。6月は薔薇やラベンダーが美しく、家族で散策できます。フランスの市場文化を体験できます。",
+      "date": "6月上旬〜下旬（火〜日開催）",
+      "place": "Place de la Madeleine, 75008 Paris",
+      "link": "https://www.paris.fr/pages/le-marche-aux-fleurs-madeleine-7547",
       "free": true
     },
     {
-      "title": "パリ動物園（Ménagerie du Jardin des Plantes）の初夏企画",
-      "description": "6月は新生児動物の公開やナイト・イベントなど特別プログラムが実施。子どもたちが動物たちの成長を観察できます。",
-      "date": "6月上旬～下旬",
-      "place": "パリ植物園内、パリ5区",
-      "link": "https://www.mnhn.fr/",
+      "title": "フェスティバル・シネマ・ジュンヌ（Festival Cinéma Jeune Public）",
+      "description": "パリで開催される子ども向け映画祭。短編やアニメーション作品が上映され、家族向けの特別スクリーニングがあります。",
+      "date": "6月上旬〜中旬",
+      "place": "パリ市内の複数映画館",
+      "link": "https://www.festival-cinema-jeune-public.fr",
       "free": false
     },
     {
-      "title": "ノートルダム周辺・アイル・ド・ラ・シテの無料ガイド付き散策",
-      "description": "6月はパリ市の無料ファミリー向けガイドツアーが充実。歴史的建造物を学びながら散策。子ども向けクイズラリーも実施。",
-      "date": "6月上旬～下旬",
-      "place": "イル・ド・ラ・シテ、パリ4区",
-      "link": "https://www.parisinfo.com/",
+      "title": "シテ科学産業博物館の特別展示（Cité des Sciences et de l'Industrie）",
+      "description": "6月の特別子ども向けプログラムやワークショップ開催。科学体験、プラネタリウム、対話型展示で学びながら楽しめます。",
+      "date": "6月通年",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "ルクセンブルク公園でのピクニック＆屋外活動",
+      "description": "パリ最大級の公園。遊び場、木馬、木製手漕ぎボート、広大な芝生でピクニック。6月の緑と花が美しく、家族連れに最適です。",
+      "date": "6月通年",
+      "place": "Rue de Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardin",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-15T02:15:51.014Z"
+  "updatedAt": "2026-06-18T02:11:31.612Z"
 }

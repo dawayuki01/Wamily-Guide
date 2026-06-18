@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Makati Salubong Festival（マカティ・サルボン・フェスティバル）",
-      "description": "マカティ地区の伝統的な祭りで、パレード、文化表演、地元フード屋台が楽しめます。子どもたちも参加できるワークショップやゲームが企画されることが多いです。",
-      "date": "6月上旬〜中旬",
-      "place": "マカティ市（Makati City）、Ayala Avenue周辺",
-      "link": "https://www.makati.gov.ph",
+      "title": "フィリピン独立記念日（June Independence Day Celebration）",
+      "description": "6月12日を中心とした独立記念日の祝い。パレード、文化的パフォーマンス、屋台が楽しめます。家族向けのイベントが各地で開催され、フィリピン文化を学べます。",
+      "date": "6月12日前後",
+      "place": "マニラ市内各地（ルネタ公園など）",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "Manila Zoo Summer Camp & Activities（マニラ動物園）",
-      "description": "夏シーズンの特別プログラム。動物との触れ合い体験、教育的なツアー、キャンプアクティビティが開催されます。乳幼児から小学生向けのプログラムが豊富です。",
-      "date": "6月中旬〜下旬",
-      "place": "Manila Zoo, Rizal Park, Manila",
-      "link": "https://manilazooph.org",
-      "free": false
-    },
-    {
-      "title": "Rizal Park（リサール公園）での親子活動",
-      "description": "マニラ最大の屋外公園で、プール、芝生広場、自転車レンタルが利用できます。ピクニック、遊具遊び、アクティビティを無料で楽しめます。朝の涼しい時間がおすすめです。",
-      "date": "6月通期（早朝がおすすめ）",
-      "place": "Rizal Park (Luneta Park), Manila",
-      "link": "https://www.tripadvisor.com/Tourism-g317155-Rizal_Park_Luneta_Park_Manila_National_Capital_Region_CALABARZON_Region_Calabarzon.html",
-      "free": true
-    },
-    {
-      "title": "National Museum Summer Exhibits for Kids（国立博物館子ども向け企画）",
-      "description": "夏休みシーズンに開催される子ども向けの特別展示やワークショップ。フィリピンの歴史・文化を楽しく学べます。対話的な展示が多くあります。",
-      "date": "6月中旬〜下旬",
-      "place": "National Museum Complex, Padre Burgos Street, Manila",
+      "title": "フィリピン国立博物館の子ども向けプログラム",
+      "description": "自然史や美術に関する子ども向け展示・ワークショップが常時開催。恐竜化石やフィリピンの野生動物など、子どもが興味を持ちやすい展示が充実しています。",
+      "date": "6月通年（毎週開催）",
+      "place": "Padre Burgos Street, Ermita, Manila",
       "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     },
     {
-      "title": "Enchanted Kingdom Fiesta（エンチャンテッド・キングダム）",
-      "description": "テーマパークで展開される季節イベント。キャラクターショー、特別ショー、限定アトラクションで家族連れが楽しめます。乳幼児用施設も充実しています。",
-      "date": "6月中旬〜下旬",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから約1時間）",
-      "link": "https://www.enchantedkingdom.ph",
+      "title": "Manila Zoo親子向けイベント",
+      "description": "動物園での季節ワークショップや餌やり体験、乗馬体験など。6月は雨季ですが屋外施設は充実。様々な動物とふれあえる家族向けのアクティビティが豊富です。",
+      "date": "6月通年（定期開催）",
+      "place": "Padre Burgos Avenue, Paco, Manila",
+      "link": "https://manilazoo.gov.ph",
+      "free": false
+    },
+    {
+      "title": "ロハス大通りでのアウトドアアクティビティ",
+      "description": "マニラ湾沿いの遊歩道でサイクリング、スケートボード、家族向けスポーツイベントが楽しめます。朝方が涼しく快適。無料で利用でき、ベンチや飲食店も充実しています。",
+      "date": "6月上旬の朝方がおすすめ",
+      "place": "Roxas Boulevard, Baywalk, Manila",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "Enchanted Kingdom（エンチャンテッドキングダム）サマーキャンペーン",
+      "description": "テーマパーク内で夏休み向けキャンプやワークショップが開催されます。キッズアトラクション、キャラクターショー、屋内クールなアトラクションで雨季も楽しめます。",
+      "date": "6月上旬〜下旬",
+      "place": "Kawasan 3A, Nayong Pilipino, Pasay City",
+      "link": "https://www.enchantedkingdom.com.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-15T02:16:24.491Z"
+  "updatedAt": "2026-06-18T02:12:03.353Z"
 }
