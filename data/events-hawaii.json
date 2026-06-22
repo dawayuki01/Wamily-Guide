@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "King Kamehameha Day Celebration",
-      "description": "ハワイの建国の父を祝う伝統的な祭り。パレード、フラダンス、レイの装飾が特徴。子どもたちも参加でき、ハワイ文化を深く学べる家族向けイベント。",
-      "date": "6月11日前後（6月第2週）",
-      "place": "ホノルル市内、カメハメハ大王像周辺（オアフ島）",
-      "link": "https://www.gohawaii.com/ja",
+      "description": "ハワイの王様を祝う6月11日前後の祭り。パレード、フラダンス、伝統文化のデモンストレーションなど家族で楽しめるイベントです。",
+      "date": "6月11日前後",
+      "place": "ホノルル（複数開催地あり）",
+      "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "Waikiki Beach Park での海水浴・シュノーケリング",
-      "description": "ハワイの象徴的ビーチ。6月は水温が快適で波も穏やか。子ども向けの浅瀬が充実し、家族で安全に海遊びが楽しめる屋外アクティビティ。",
-      "date": "6月通年",
-      "place": "Waikiki Beach, Honolulu, HI 96815（オアフ島）",
-      "link": "https://www.gohawaii.com/ja",
-      "free": true
-    },
-    {
-      "title": "Honolulu Zoo の Summer Concert Series",
-      "description": "ホノルル動物園で開催される夏の音楽コンサート。子ども向けプログラムも充実。動物鑑賞と音楽を同時に楽しめるファミリー向けの特別企画。",
-      "date": "6月の日曜午後（毎週開催）",
-      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
+      "title": "Honolulu Zoo Summer Concert Series",
+      "description": "ホノルル動物園での無料野外コンサート。毎週日曜に開催。子どもも参加可能でファミリーフレンドリーです。",
+      "date": "6月毎週日曜",
+      "place": "Honolulu Zoo, Waikiki, Oahu",
       "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "Maui Ocean Center Aquarium での海洋生物学習",
-      "description": "マウイ島の大規模水族館。6月はウミガメやマンタの展示が充実。子ども向けの触れ合い体験やワークショップで海の生き物を学べる施設。",
-      "date": "6月通年",
-      "place": "Maui Ocean Center, 192 Maalaea Road, Wailuku, HI 96793（マウイ島）",
-      "link": "https://www.mauioceancenter.com/",
-      "free": false
-    },
-    {
-      "title": "Ala Moana Center での週末キッズイベント",
-      "description": "ハワイ最大のショッピングセンターで開催されるキッズ向けワークショップやクラフト教室。無料プログラムも多く、室内で安心して楽しめるファミリー向けアクティビティ。",
-      "date": "6月の週末不定期開催",
-      "place": "Ala Moana Center, 1450 Ala Moana Boulevard, Honolulu, HI 96814",
-      "link": "https://www.alamoanacenter.com/",
       "free": true
+    },
+    {
+      "title": "Snorkeling at Hanauma Bay",
+      "description": "透明度抜群の湾でのシュノーケリング。初心者向けで、カラフルな魚や海ガメが見られます。6月は水温も暖かく最適です。",
+      "date": "6月通年",
+      "place": "Hanauma Bay Nature Preserve, Oahu",
+      "link": "https://www.honolulu.gov/parks-recreation/facilities-hanauma-bay.html",
+      "free": false
+    },
+    {
+      "title": "Waikiki Aquarium Summer Programs",
+      "description": "ワイキキ水族館の夏特別プログラム。子ども向けの体験学習、タッチプール、海の生き物についての教室など。",
+      "date": "6月通年",
+      "place": "Waikiki Aquarium, Oahu",
+      "link": "https://www.waikikiaquarium.org/",
+      "free": false
+    },
+    {
+      "title": "Hawaii Nature Center Programs",
+      "description": "ネイチャーセンターのキッズプログラム。自然観察、昆虫採集、ハイキングなど屋外学習活動が充実しています。",
+      "date": "6月通年",
+      "place": "Hawaii Nature Center, Oahu",
+      "link": "https://www.hawaiinaturecenter.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-18T02:12:17.900Z"
+  "updatedAt": "2026-06-22T02:18:00.297Z"
 }

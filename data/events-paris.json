@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plages）",
-      "description": "セーヌ川沿いに砂浜が出現。ビーチチェア、水遊び、子ども向けアクティビティが無料で楽しめます。パリの夏の風物詩です。",
-      "date": "6月中旬〜9月下旬",
-      "place": "セーヌ川沿い（ポンヌフ周辺など複数箇所）",
-      "link": "https://www.paris.fr/pages/paris-plages-2024-6891",
+      "title": "パリ・プラージュ（Paris-Plage）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもたちが砂遊びや水遊びを楽しめる夏季の人気スポット。ビーチバレーやヨガなどのアクティビティも開催されます。",
+      "date": "6月中旬〜9月中旬",
+      "place": "セーヌ川沿い（イル・サン=ルイ周辺など複数箇所）",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "フラワーマーケット（Marché aux Fleurs Madeleine）",
-      "description": "マドレーヌ寺院前の季節の花市場。6月は薔薇やラベンダーが美しく、家族で散策できます。フランスの市場文化を体験できます。",
-      "date": "6月上旬〜下旬（火〜日開催）",
-      "place": "Place de la Madeleine, 75008 Paris",
-      "link": "https://www.paris.fr/pages/le-marche-aux-fleurs-madeleine-7547",
+      "title": "フェスティバル・シテ・ミュージック（Fête de la Musique）",
+      "description": "夏至の日（6月21日）に開催される音楽祭。街全体が音楽で溢れ、子ども向けコンサートやパフォーマンスが随所で行われます。無料で楽しめます。",
+      "date": "6月21日",
+      "place": "パリ市内全域（各広場・通り）",
+      "link": "https://www.fetedelamusique.culturecommunication.gouv.fr",
       "free": true
     },
     {
-      "title": "フェスティバル・シネマ・ジュンヌ（Festival Cinéma Jeune Public）",
-      "description": "パリで開催される子ども向け映画祭。短編やアニメーション作品が上映され、家族向けの特別スクリーニングがあります。",
-      "date": "6月上旬〜中旬",
-      "place": "パリ市内の複数映画館",
-      "link": "https://www.festival-cinema-jeune-public.fr",
+      "title": "ルーヴル美術館 キッズプログラム",
+      "description": "6月の夏期プログラムでは、子ども向けワークショップやガイドツアーを開催。美術館の名画を楽しく学べます。事前予約推奨。",
+      "date": "6月中旬〜下旬（プログラムの詳細は確認要）",
+      "place": "ルーヴル美術館（Rue de Rivoli, 75004）",
+      "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "シテ科学産業博物館の特別展示（Cité des Sciences et de l'Industrie）",
-      "description": "6月の特別子ども向けプログラムやワークショップ開催。科学体験、プラネタリウム、対話型展示で学びながら楽しめます。",
-      "date": "6月通年",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
+      "title": "ジャルダン・デ・プランド（植物園での花の季節）",
+      "description": "6月は花々が満開。バラ園やボタニカルガーデンで自然観察。子ども向けガイドツアーも開催され、家族で季節の花を楽しめます。",
+      "date": "6月全期間",
+      "place": "ジャルダン・デ・プランド（Rue Cuvier, 75005）",
+      "link": "https://www.jardindesplantes.net",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園でのピクニック＆屋外活動",
-      "description": "パリ最大級の公園。遊び場、木馬、木製手漕ぎボート、広大な芝生でピクニック。6月の緑と花が美しく、家族連れに最適です。",
-      "date": "6月通年",
-      "place": "Rue de Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardin",
-      "free": true
+      "title": "ボローニュの森（ボワ・ド・ブーローニュ）での家族イベント",
+      "description": "広大な公園で乗馬レッスン、自転車レンタル、子ども向けアクティビティが充実。湖でのボート体験も可能。家族向けのピクニック施設もあります。",
+      "date": "6月全期間（イベント日時は確認要）",
+      "place": "ボワ・ド・ブーローニュ（Route de Suresnes, 75016）",
+      "link": "https://www.paris.fr/pages/le-bois-de-boulogne-3733",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-18T02:11:31.612Z"
+  "updatedAt": "2026-06-22T02:17:13.783Z"
 }

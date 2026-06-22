@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン独立記念日（June Independence Day Celebration）",
-      "description": "6月12日を中心とした独立記念日の祝い。パレード、文化的パフォーマンス、屋台が楽しめます。家族向けのイベントが各地で開催され、フィリピン文化を学べます。",
-      "date": "6月12日前後",
-      "place": "マニラ市内各地（ルネタ公園など）",
-      "link": "https://www.tourism.gov.ph",
-      "free": true
-    },
-    {
-      "title": "フィリピン国立博物館の子ども向けプログラム",
-      "description": "自然史や美術に関する子ども向け展示・ワークショップが常時開催。恐竜化石やフィリピンの野生動物など、子どもが興味を持ちやすい展示が充実しています。",
-      "date": "6月通年（毎週開催）",
-      "place": "Padre Burgos Street, Ermita, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
-      "free": false
-    },
-    {
-      "title": "Manila Zoo親子向けイベント",
-      "description": "動物園での季節ワークショップや餌やり体験、乗馬体験など。6月は雨季ですが屋外施設は充実。様々な動物とふれあえる家族向けのアクティビティが豊富です。",
-      "date": "6月通年（定期開催）",
-      "place": "Padre Burgos Avenue, Paco, Manila",
-      "link": "https://manilazoo.gov.ph",
-      "free": false
-    },
-    {
-      "title": "ロハス大通りでのアウトドアアクティビティ",
-      "description": "マニラ湾沿いの遊歩道でサイクリング、スケートボード、家族向けスポーツイベントが楽しめます。朝方が涼しく快適。無料で利用でき、ベンチや飲食店も充実しています。",
-      "date": "6月上旬の朝方がおすすめ",
-      "place": "Roxas Boulevard, Baywalk, Manila",
+      "title": "フィリピン・フェスティバル・シーズン（地域祭り）",
+      "description": "6月はフィリピン全土で様々な地域祭りが開催されます。マニラ近郊ではカニサン祭などの文化的なお祭りで、パレード、音楽、ダンスが楽しめます。子ども向けゲームや露店も多くあります。",
+      "date": "6月上旬〜中旬",
+      "place": "マニラ近郊各地（場所により異なる）",
       "link": "",
       "free": true
     },
     {
-      "title": "Enchanted Kingdom（エンチャンテッドキングダム）サマーキャンペーン",
-      "description": "テーマパーク内で夏休み向けキャンプやワークショップが開催されます。キッズアトラクション、キャラクターショー、屋内クールなアトラクションで雨季も楽しめます。",
+      "title": "スターシティ（Star City）サマーキャンプ・イベント",
+      "description": "フィリピン最大級の遊園地で、6月の夏休みシーズンに子ども向けの特別イベントやキャンプを開催。アトラクションや水遊びエリアで家族連れで楽しめます。",
       "date": "6月上旬〜下旬",
-      "place": "Kawasan 3A, Nayong Pilipino, Pasay City",
-      "link": "https://www.enchantedkingdom.com.ph",
+      "place": "Sta. Cruz, Manila, Metro Manila",
+      "link": "https://www.starcity.com.ph",
+      "free": false
+    },
+    {
+      "title": "リサール公園（Rizal Park）での無料レクリーション活動",
+      "description": "マニラ最大の公園で、緑地での散策、子ども向け遊具エリア、博物館エリアが無料で利用可能。屋外で家族でピクニックや軽いハイキングが楽しめる良い環境です。",
+      "date": "6月通期",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
+    },
+    {
+      "title": "フィリピン国立博物館の子ども向けワークショップ",
+      "description": "6月夏休みシーズンに、子ども向けの美術・科学ワークショップやガイド付きツアーが開催されます。文化や自然について学びながら体験できるプログラムです。",
+      "date": "6月中旬〜下旬",
+      "place": "National Museum Complex, Padre Burgos St, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
+      "free": false
+    },
+    {
+      "title": "SMモール・オブ・アジア（MOA）ウォーターパーク・シーズンオープン",
+      "description": "東南アジア最大級のショッピングモール内のウォーターパークが6月に本格営業。子ども向けプール、スライダー、水上アクティビティで涼しく楽しめます。",
+      "date": "6月上旬〜下旬",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-18T02:12:03.353Z"
+  "updatedAt": "2026-06-22T02:17:47.557Z"
 }

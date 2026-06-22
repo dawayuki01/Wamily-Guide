@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・ドラゴン・ボート・フェスティバル",
-      "description": "端午節を祝うカラフルなドラゴンボートレース。迫力のあるボートレース観戦や伝統文化を体験できます。家族向けの屋台やパフォーマンスも充実しています。",
-      "date": "6月上旬〜中旬",
-      "place": "Marina Bay（マリーナベイ周辺）、East Coast Park",
-      "link": "https://www.stb.gov.sg",
+      "title": "シンガポール・ドラゴンボート・フェスティバル",
+      "description": "端午節を祝うドラゴンボートレース。カラフルなボートが競い合う迫力のレース観戦が無料で楽しめます。家族向けの屋台やアクティビティも多数。",
+      "date": "6月初旬",
+      "place": "Marina Bay（マリーナベイ）",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "マーライオン・パーク周辺のサマープログラム",
-      "description": "シンガポール観光局による子ども向けの無料ガイドツアーやアクティビティ。象徴的なマーライオン像を背景に、シンガポール文化を学べます。季節限定のスペシャルプログラムが開催されます。",
-      "date": "6月中旬〜下旬",
-      "place": "Merlion Park, 1 Raffles Avenue, Singapore",
-      "link": "https://www.stb.gov.sg",
-      "free": true
-    },
-    {
-      "title": "ガーデンズ・バイ・ザ・ベイの夏休みキッズプログラム",
-      "description": "植物園での子ども向け特別ワークショップ。ガラス温室内でのワークショップや自然観察、写真撮影イベントなど。乳幼児から小学生対象のプログラムが充実。",
-      "date": "6月中旬〜下旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore",
+      "title": "シンガポール・サマー・フェスティバル at チルドレンズガーデン",
+      "description": "ユニバーサル・スタジオやガーデンズ・バイ・ザ・ベイ周辺で開催される子ども向けの夏祭り。遊具、ワークショップ、ステージショーなど家族向けコンテンツが豊富。",
+      "date": "6月中旬～下旬",
+      "place": "Gardens by the Bay（ガーデンズ・バイ・ザ・ベイ）",
       "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "イースト・コースト・パークでのアウトドア・ファミリーデー",
-      "description": "シンガポール最大のビーチパークでの屋外アクティビティ。サイクリング、ピクニック、水遊びが楽しめます。無料で利用でき、家族向けの施設が充実しています。",
-      "date": "6月通期（週末）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg",
+      "title": "マリーナ・バレー無料ファミリープログラム",
+      "description": "シンガポールの中心部で無料のファミリー向けアクティビティ。子ども向けワークショップ、散策ツアー、屋外レクリエーション。水辺の環境学習も充実。",
+      "date": "6月下旬の週末",
+      "place": "Marina Bay Waterfront（マリーナベイ周辺）",
+      "link": "",
       "free": true
     },
     {
-      "title": "シンガポール・ズーの雨季スペシャルプログラム",
-      "description": "雨季の6月、動物たちの水遊びシーン観察やジャングル探検ツアーが特別開催。子ども向けのキーパー体験やエデュケーショナルプログラムが充実します。",
-      "date": "6月中旬〜下旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore",
+      "title": "シンガポール・ズー夏休みスペシャルプログラム",
+      "description": "動物との触れ合い体験、キーパートークなど夏季限定プログラム。乳幼児向けの動物エリアもあり、家族全員で楽しめます。",
+      "date": "6月1日～30日",
+      "place": "Singapore Zoo, 80 Mandai Lake Road",
       "link": "https://www.singaporezoo.com.sg",
       "free": false
+    },
+    {
+      "title": "サンテック・シティ・パークでの親子向けアウトドア活動",
+      "description": "初夏の大型公園でのピクニック、子ども向けスポーツプログラム、無料のレクリエーション。屋外でリラックスしながら体を動かすのに最適。",
+      "date": "6月上旬～中旬の週末",
+      "place": "Santec City Park, Suntec City Mall周辺",
+      "link": "https://www.visitsingapore.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-18T02:11:46.872Z"
+  "updatedAt": "2026-06-22T02:17:29.320Z"
 }

@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "ストックホルム最大の夏祭り。音楽、ダンス、子ども向けアクティビティが満載。水辺での屋外イベントで家族連れに人気です。",
-      "date": "6月上旬〜中旬",
-      "place": "Riddarfjärdenの水辺一帯、ストックホルム市街地",
-      "link": "https://www.stockholmwaterfestival.se",
+      "description": "スウェーデン最大級の夏祭り。音楽、パフォーマンス、子ども向けアクティビティが盛りだくさん。家族で楽しめるステージイベントや体験コーナーが多数。",
+      "date": "6月上旬〜中旬（通常6月第2週）",
+      "place": "ストックホルム市街地・ニューマルム地区",
+      "link": "https://www.stockholmwaterfestival.se/",
       "free": true
     },
     {
-      "title": "ユールゴーデン島の屋外施設とスキャンセン（Skansen）",
-      "description": "北欧最大の野外博物館。動物園、伝統家屋、子ども向けアクティビティが充実。6月の長日を活用した屋外散策に最適です。",
+      "title": "スカンセン野外博物館の夏プログラム",
+      "description": "北欧動物園と野外民俗博物館。6月は初夏の動物の活動が活発で、子ども向けの教育プログラムやふれあい体験が充実。広大な自然の中で遊べる。",
       "date": "6月通年",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
-      "link": "https://www.skansen.se",
+      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ヴァーサ号博物館の子ども向けプログラム",
-      "description": "世界唯一の17世紀沈没船。子ども向けの探検ツアーやワークショップが開催。室内で歴史を学べます。",
+      "title": "ストックホルム群島のボート・ツアーと島探検",
+      "description": "6月は天気が良く、ボートで30,000以上の島々を巡るアクティビティに最適な季節。子ども向けの短時間ツアーで、海での自然体験が楽しめる。",
       "date": "6月通年",
-      "place": "Galärvägen 14, Stockholm",
-      "link": "https://www.vasamuseet.se",
+      "place": "ストランドヴェーゲン桟橋（Strandvägen）ほか各桟橋",
+      "link": "https://www.stromma.se/",
       "free": false
     },
     {
-      "title": "ユールゴーデン島のアウトドア遊び場と無料ビーチ散策",
-      "description": "ユールゴーデン島の公園や遊具、無料のビーチエリアで自然を満喫。ストックホルムの群島の景色を眺めながら家族で過ごせます。",
+      "title": "ユーレンスカ公園（Djurgården）のアウトドア遊び場",
+      "description": "ストックホルムを代表する島の公園。6月の長い日照時間を生かし、遊具、ピクニックエリア、散策路で家族で終日遊べる。無料で訪問可能。",
       "date": "6月通年",
-      "place": "Djurgården Island, Stockholm",
-      "link": "",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.stockholm.se/",
       "free": true
     },
     {
-      "title": "グローナ・ルンド遊園地の夏シーズン",
-      "description": "子ども向けライドと家族向けアトラクションが豊富。6月の長い日照時間を活かした営業。スウェーデンの伝統的な遊園地体験。",
+      "title": "グリーナ・ランド遊園地の春季営業拡大",
+      "description": "スウェーデン最古の遊園地。6月から本格営業開始。子ども向けアトラクション、木製ジェットコースター、キャラクターショーで家族で楽しめる。",
       "date": "6月通年",
-      "place": "Djurgårdsvägen 48, Stockholm",
-      "link": "https://www.grona-lund.se",
+      "place": "Gröna Lund, Allmänna vägen 9, 115 21 Stockholm",
+      "link": "https://www.gronalund.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-18T02:11:38.685Z"
+  "updatedAt": "2026-06-22T02:17:21.807Z"
 }

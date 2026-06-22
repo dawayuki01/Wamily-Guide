@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA Pride Month イベント",
-      "description": "6月はLAプライド月間。ダウンタウンやウェストハリウッドで虹色に彩られたパレードやフェスティバルが開催。家族向けのエリアもあり、多様性を学べます。",
-      "date": "6月上旬〜下旬",
-      "place": "Santa Monica Boulevard（West Hollywood）、Downtown LA",
-      "link": "https://www.lapride.org",
+      "title": "LA Pride Parade & Festival",
+      "description": "ロサンゼルスで最大級のLGBTQプライドイベント。カラフルなパレードやステージパフォーマンス、家族向けエリアもあり、多様性を学べる楽しいお祭りです。",
+      "date": "6月中旬（例年6月第2日曜日周辺）",
+      "place": "Santa Monica Boulevard, West Hollywood",
+      "link": "https://lapride.org",
       "free": true
     },
     {
-      "title": "ビーチシーズン開幕＆サマーキャンプ",
-      "description": "サンタモニカビーチやハンティントンビーチで海水浴シーズン到来。ライフガード常駐で安全。砂浜での家族向けアクティビティが充実した季節です。",
-      "date": "6月上旬〜下旬",
-      "place": "Santa Monica Beach、Huntington Beach",
-      "link": "https://www.santamonica.com/discover/beaches",
-      "free": true
-    },
-    {
-      "title": "グリフィス天文台 Summer Night Events",
-      "description": "グリフィス天文台で夏季特別プログラム開始。プラネタリウムショーや屋上での天体観測が楽しめます。子ども向けワークショップも実施。",
-      "date": "6月上旬〜下旬",
-      "place": "Griffith Observatory, Los Angeles, CA 90027",
+      "title": "グリフィス天文台 Summer Program",
+      "description": "天体観測と宇宙科学の子ども向け特別プログラム。プラネタリウムやワークショップで、宇宙への興味を引き出せます。涼しい室内施設で快適に過ごせます。",
+      "date": "6月通年（夏季プログラム）",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
-      "free": false
-    },
-    {
-      "title": "LA County Museum of Art（LACMA）キッズプログラム",
-      "description": "LAMMAで夏休み特別子ども向けプログラム開始。アート制作ワークショップや家族向けツアーなど。有料プログラムと無料エリアあり。",
-      "date": "6月中旬〜下旬",
-      "place": "5905 Wilshire Blvd, Los Angeles, CA 90036",
-      "link": "https://www.lacma.org",
-      "free": false
+      "free": true
     },
     {
       "title": "Santa Monica Pier Summer Concerts",
-      "description": "サンタモニカピアで夏季音楽フェスティバル開催。無料のライブコンサート、キッズエリア、ビーチフロント環境での家族向けイベント。",
-      "date": "6月中旬〜下旬",
-      "place": "Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonica.com/events",
-      "free": true
+      "description": "海辺の遊園地で開催される家族向けコンサート。遊園地の乗り物も楽しめ、太平洋の景色を背景にライブエンターテインメントを満喫できます。",
+      "date": "6月下旬〜夏期（木曜夜間）",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org",
+      "free": false
+    },
+    {
+      "title": "Los Angeles Children's Museum Summer Programs",
+      "description": "季節限定の屋内・屋外プログラムで、STEMやアート体験ができます。乳幼児から小学生まで年齢別プログラムで、発達段階に合わせた学習が可能です。",
+      "date": "6月通年（夏季特別プログラム）",
+      "place": "Los Angeles Children's Museum, 100 N Fair Oaks Ave, Pasadena, CA 91103",
+      "link": "https://www.lacm.org",
+      "free": false
+    },
+    {
+      "title": "Descanso Gardens Summer Nights",
+      "description": "広大な庭園でのハイキングやピクニック。6月は緑が美しく、子ども向けガイドツアーで植物の知識が学べます。屋外で自然を満喫できる家族向けスポットです。",
+      "date": "6月通年",
+      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-18T02:12:10.202Z"
+  "updatedAt": "2026-06-22T02:17:54.383Z"
 }
