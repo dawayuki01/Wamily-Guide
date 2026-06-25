@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "38a088f5-0b07-81f4-99a9-c4751fc7f85d",
+      "name": "妻はロンドンへ、僕は日本で。再び",
+      "type": "体験談",
+      "description": "ママがロンドンに旅立った。4歳の次男は、ママを空港に送ることの意味を、最近やっと理解し始めたみたいだ。",
+      "url": "https://note.com/tomosawa/n/n74d65d1c1486",
+      "addedDate": "2026-06-25",
+      "country": "london"
+    },
+    {
       "id": "35f088f5-0b07-81fd-98dc-e07cf6eb10ac",
       "name": "迷うなら行こう。家族海外旅行インタビュー #1：Hami家族",
       "type": "体験談",
@@ -19,5 +28,5 @@
       "country": "common"
     }
   ],
-  "updatedAt": "2026-05-13T12:00:00Z"
+  "updatedAt": "2026-06-25T12:00:00Z"
 }
