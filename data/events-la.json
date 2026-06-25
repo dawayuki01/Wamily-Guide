@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA Pride Parade & Festival",
-      "description": "ロサンゼルスで最大級のLGBTQプライドイベント。カラフルなパレードやステージパフォーマンス、家族向けエリアもあり、多様性を学べる楽しいお祭りです。",
-      "date": "6月中旬（例年6月第2日曜日周辺）",
-      "place": "Santa Monica Boulevard, West Hollywood",
-      "link": "https://lapride.org",
+      "title": "Summer Movie Express at Regal Cinemas",
+      "description": "子ども向けの映画を割安料金で楽しめるプログラム。毎週火曜・水曜に開催される期間限定企画で、家族向けの最新映画が上映されます。",
+      "date": "6月上旬～8月下旬",
+      "place": "ロサンゼルス市内のRegal Cinemas各劇場",
+      "link": "https://www.regmovies.com",
+      "free": false
+    },
+    {
+      "title": "Los Angeles Zoo Summer Nights",
+      "description": "動物園が夜間営業される夏限定イベント。ライトアップされた園内で動物を観察でき、音楽やパフォーマンスも楽しめます。",
+      "date": "6月中旬～8月下旬（金土日）",
+      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
+      "free": false
+    },
+    {
+      "title": "Huntington Library Summer Programs",
+      "description": "図書館の庭園を無料で散策できます。6月は紫陽花が見頃。家族向けのワークショップも随時開催。",
+      "date": "6月通期",
+      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Road, San Marino, CA 91108",
+      "link": "https://www.huntington.org",
       "free": true
     },
     {
-      "title": "グリフィス天文台 Summer Program",
-      "description": "天体観測と宇宙科学の子ども向け特別プログラム。プラネタリウムやワークショップで、宇宙への興味を引き出せます。涼しい室内施設で快適に過ごせます。",
-      "date": "6月通年（夏季プログラム）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "title": "Santa Monica Pier Summer Sunset Series",
+      "description": "桟橋での無料の野外映画上映やライブパフォーマンス。遊園地の乗り物も楽しめ、海の景色を楽しみながら家族で過ごせます。",
+      "date": "6月～8月の週末",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org",
+      "free": true
+    },
+    {
+      "title": "Griffith Observatory Summer Viewing",
+      "description": "天文台の展示エリアは無料。6月の夜間特別観測会で、子どもたちが望遠鏡で惑星や星を観察できます。",
+      "date": "6月通期（夜間観測会は週末）",
+      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
-    },
-    {
-      "title": "Santa Monica Pier Summer Concerts",
-      "description": "海辺の遊園地で開催される家族向けコンサート。遊園地の乗り物も楽しめ、太平洋の景色を背景にライブエンターテインメントを満喫できます。",
-      "date": "6月下旬〜夏期（木曜夜間）",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.org",
-      "free": false
-    },
-    {
-      "title": "Los Angeles Children's Museum Summer Programs",
-      "description": "季節限定の屋内・屋外プログラムで、STEMやアート体験ができます。乳幼児から小学生まで年齢別プログラムで、発達段階に合わせた学習が可能です。",
-      "date": "6月通年（夏季特別プログラム）",
-      "place": "Los Angeles Children's Museum, 100 N Fair Oaks Ave, Pasadena, CA 91103",
-      "link": "https://www.lacm.org",
-      "free": false
-    },
-    {
-      "title": "Descanso Gardens Summer Nights",
-      "description": "広大な庭園でのハイキングやピクニック。6月は緑が美しく、子ども向けガイドツアーで植物の知識が学べます。屋外で自然を満喫できる家族向けスポットです。",
-      "date": "6月通年",
-      "place": "Descanso Gardens, 1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-22T02:17:54.383Z"
+  "updatedAt": "2026-06-25T01:57:56.315Z"
 }

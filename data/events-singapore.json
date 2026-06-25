@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・ドラゴンボート・フェスティバル",
-      "description": "端午節を祝うドラゴンボートレース。カラフルなボートが競い合う迫力のレース観戦が無料で楽しめます。家族向けの屋台やアクティビティも多数。",
-      "date": "6月初旬",
-      "place": "Marina Bay（マリーナベイ）",
-      "link": "https://www.visitsingapore.com",
+      "title": "ドラゴンボート・フェスティバル（端午節）",
+      "description": "シンガポール川でのドラゴンボートレース。カラフルなボートが競い合う迫力の光景が楽しめます。屋台やパフォーマンスも開催される家族向けイベント。",
+      "date": "6月初旬（旧暦5月5日前後）",
+      "place": "シンガポール川（Singapore River）沿岸、特にClark Quay周辺",
+      "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "シンガポール・サマー・フェスティバル at チルドレンズガーデン",
-      "description": "ユニバーサル・スタジオやガーデンズ・バイ・ザ・ベイ周辺で開催される子ども向けの夏祭り。遊具、ワークショップ、ステージショーなど家族向けコンテンツが豊富。",
-      "date": "6月中旬～下旬",
-      "place": "Gardens by the Bay（ガーデンズ・バイ・ザ・ベイ）",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "シンガポール動物園のサマーキャンプ・プログラム",
+      "description": "動物園の特別教育プログラム。子ども向けの動物ふれあい体験やワークショップが開催されます。乳幼児から小学生向けのコースあり。",
+      "date": "6月中旬〜下旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.wrs.com.sg/",
       "free": false
     },
     {
-      "title": "マリーナ・バレー無料ファミリープログラム",
-      "description": "シンガポールの中心部で無料のファミリー向けアクティビティ。子ども向けワークショップ、散策ツアー、屋外レクリエーション。水辺の環境学習も充実。",
-      "date": "6月下旬の週末",
-      "place": "Marina Bay Waterfront（マリーナベイ周辺）",
+      "title": "セントーサ島での屋外水遊びフェスティバル",
+      "description": "セントーサ島のビーチやウォーターパークで開催される家族向けアクティビティ。水のアトラクションやビーチゲームが楽しめます。乳幼児向けプールもあり。",
+      "date": "6月中旬〜下旬",
+      "place": "Sentosa Island, Singapore（複数ビーチ・施設）",
+      "link": "https://www.sentosa.com.sg/",
+      "free": false
+    },
+    {
+      "title": "ガーデンズ・バイ・ザ・ベイの季節展示＆キッズ向けワークショップ",
+      "description": "世界的な庭園で開催される季節限定の展示。子ども向けの植物学習ワークショップや屋外探索プログラムが実施されています。",
+      "date": "6月通期",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg/",
+      "free": false
+    },
+    {
+      "title": "ナショナルデー準備フェアー＆無料ストリートフェスティバル",
+      "description": "8月のナショナルデーに向けた6月の準備フェア。シンガポールの文化・食・音楽を体験できる無料のコミュニティイベント。各地域で開催。",
+      "date": "6月下旬",
+      "place": "シンガポール各地域のコミュニティセンター・公園",
       "link": "",
-      "free": true
-    },
-    {
-      "title": "シンガポール・ズー夏休みスペシャルプログラム",
-      "description": "動物との触れ合い体験、キーパートークなど夏季限定プログラム。乳幼児向けの動物エリアもあり、家族全員で楽しめます。",
-      "date": "6月1日～30日",
-      "place": "Singapore Zoo, 80 Mandai Lake Road",
-      "link": "https://www.singaporezoo.com.sg",
-      "free": false
-    },
-    {
-      "title": "サンテック・シティ・パークでの親子向けアウトドア活動",
-      "description": "初夏の大型公園でのピクニック、子ども向けスポーツプログラム、無料のレクリエーション。屋外でリラックスしながら体を動かすのに最適。",
-      "date": "6月上旬～中旬の週末",
-      "place": "Santec City Park, Suntec City Mall周辺",
-      "link": "https://www.visitsingapore.com",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-22T02:17:29.320Z"
+  "updatedAt": "2026-06-25T01:57:33.470Z"
 }

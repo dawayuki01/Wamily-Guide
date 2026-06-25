@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "King Kamehameha Day Celebration",
-      "description": "ハワイの王様を祝う6月11日前後の祭り。パレード、フラダンス、伝統文化のデモンストレーションなど家族で楽しめるイベントです。",
+      "description": "ハワイの王様を祝う祝日。パレード、フラダンス、伝統音楽など家族で楽しめるイベントが各島で開催されます。文化体験の絶好の機会です。",
       "date": "6月11日前後",
-      "place": "ホノルル（複数開催地あり）",
-      "link": "https://www.gohawaii.com/",
+      "place": "ホノルル（カラカウア大通りほか）、その他各島",
+      "link": "https://www.gohawaii.com",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Summer Concert Series",
-      "description": "ホノルル動物園での無料野外コンサート。毎週日曜に開催。子どもも参加可能でファミリーフレンドリーです。",
-      "date": "6月毎週日曜",
-      "place": "Honolulu Zoo, Waikiki, Oahu",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "ホノルル・フェスティバル・オブ・アーツ・アンド・カルチャー",
+      "description": "国際的な文化交流イベント。ステージパフォーマンス、花火、キッズゾーン、世界中の文化体験が楽しめます。家族向けの催しが充実しています。",
+      "date": "5月下旬〜6月上旬",
+      "place": "ハワイコンベンション・センター、アラモアナビーチパーク周辺",
+      "link": "https://www.honolulufestival.com",
       "free": true
     },
     {
-      "title": "Snorkeling at Hanauma Bay",
-      "description": "透明度抜群の湾でのシュノーケリング。初心者向けで、カラフルな魚や海ガメが見られます。6月は水温も暖かく最適です。",
+      "title": "マノア滝ハイキング（Manoa Falls Trail）",
+      "description": "ハワイで最も人気の初心者向けハイキング。樹々に覆われた道を30分で滝に到着。乳幼児用ベビーキャリアあれば参加可能な季節アクティビティです。",
+      "date": "6月通年（雨季のため雨具必須）",
+      "place": "ホノルル、マノア谷トレイルヘッド",
+      "link": "https://www.honolulu.gov",
+      "free": true
+    },
+    {
+      "title": "ホノルル動物園のサマープログラム",
+      "description": "子ども向けの特別プログラムやワークショップ。動物との触れ合い体験や教育プログラムが充実。6月の園内は緑豊か。",
       "date": "6月通年",
-      "place": "Hanauma Bay Nature Preserve, Oahu",
-      "link": "https://www.honolulu.gov/parks-recreation/facilities-hanauma-bay.html",
+      "place": "ワイキキ、ホノルル動物園",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "Waikiki Aquarium Summer Programs",
-      "description": "ワイキキ水族館の夏特別プログラム。子ども向けの体験学習、タッチプール、海の生き物についての教室など。",
+      "title": "カイルア・ビーチでのウォータースポーツ体験",
+      "description": "ハワイで最も美しいと評される白砂ビーチ。6月は水温が心地よく、シュノーケリング、スタンドアップパドルボード、砂浜での遊びが楽しめます。",
       "date": "6月通年",
-      "place": "Waikiki Aquarium, Oahu",
-      "link": "https://www.waikikiaquarium.org/",
-      "free": false
-    },
-    {
-      "title": "Hawaii Nature Center Programs",
-      "description": "ネイチャーセンターのキッズプログラム。自然観察、昆虫採集、ハイキングなど屋外学習活動が充実しています。",
-      "date": "6月通年",
-      "place": "Hawaii Nature Center, Oahu",
-      "link": "https://www.hawaiinaturecenter.org/",
+      "place": "カイルア・ビーチ（ホノルルから車で30分）",
+      "link": "https://www.gohawaii.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-22T02:18:00.297Z"
+  "updatedAt": "2026-06-25T01:58:04.461Z"
 }
