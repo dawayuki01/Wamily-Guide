@@ -10,6 +10,15 @@
       "country": "common"
     },
     {
+      "id": "36b088f5-0b07-8066-bb4c-c2209dd4bbdd",
+      "name": "AIが旅を便利にする。そして家族の感性が旅を面白くする。",
+      "type": "体験談",
+      "description": "AIはまるで、ツアーガイドが手のひらにいるような感覚。だからこそ、家族の感性が旅を面白くする",
+      "url": "https://note.com/tomosawa/n/n52b8a8dfda07?sub_rt=share_pw",
+      "addedDate": "2026-05-25",
+      "country": "common"
+    },
+    {
       "id": "35f088f5-0b07-81fd-98dc-e07cf6eb10ac",
       "name": "迷うなら行こう。家族海外旅行インタビュー #1：Hami家族",
       "type": "体験談",
@@ -28,5 +37,5 @@
       "country": "common"
     }
   ],
-  "updatedAt": "2026-06-25T12:00:00Z"
+  "updatedAt": "2026-06-26T01:58:53.939Z"
 }

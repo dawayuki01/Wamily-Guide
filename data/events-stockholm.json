@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スキャンセン野外博物館の春の開園とイベント",
-      "description": "北欧最大の野外博物館。5月は開園シーズン開始で、動物ふれあい、伝統工芸体験、子ども向けプログラムが充実。広大な敷地で季節の花も楽しめます。",
-      "date": "5月上旬〜下旬",
-      "place": "スキャンセン、Djurgården, Stockholm",
-      "link": "https://www.skansen.se/en",
-      "free": false
-    },
-    {
-      "title": "ストックホルム群島での屋外散策・島巡りツアー",
-      "description": "スウェーデン特有の美しい群島を家族で探索。5月の好天時に無料アクセス可能な公開島や、手頃な料金の島巡りツアーで自然散策。野生動物観察も。",
-      "date": "5月中旬〜下旬",
-      "place": "ストックホルム群島（Stockholms skärgård）、Norrmalm地区の埠頭発着",
-      "link": "https://www.visitstockholm.com/",
+      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
+      "description": "スウェーデン最大級の水上イベント。ボート乗船体験、コンサート、子ども向けアクティビティなど、ストックホルム湾全体で開催される家族向けの祭典。",
+      "date": "6月中旬〜下旬",
+      "place": "ストックホルム湾沿岸全域、特にNorrmalm地区とGamla Stan周辺",
+      "link": "https://www.stockholmvattenfestival.se",
       "free": true
     },
     {
-      "title": "ユーランダ宮殿（Drottningholm Palace）の春ガイドツアー",
-      "description": "王宮の庭園が春に最も美しい季節。子ども向けガイドツアー、宮殿探検、中国風離宮の見学など。5月の穏やかな気候で家族向けプログラムが充実。",
-      "date": "5月全般",
-      "place": "ユーランダ宮殿、Drottningholm, Stockholm",
-      "link": "https://www.royalpalaces.se/en/drottningholm-palace",
+      "title": "スカンセン野外博物館の夏季プログラム",
+      "description": "北欧の伝統的な家屋や動物園が体験できる施設。6月は動物たちが活発な季節で、子ども向けの教育プログラムやワークショップが充実。",
+      "date": "6月通期",
+      "place": "Djurgården, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ストックホルム市立博物館の子ども向け特別展示",
-      "description": "常設展示に加え、5月は子ども向けのインタラクティブ展示やワークショップを開催。市の歴史を遊びながら学べます。雨の日の選択肢としても最適。",
-      "date": "5月全般",
-      "place": "ストックホルム市立博物館、Slottsbacken 6, Gamla Stan",
-      "link": "https://www.stockholmsmuseum.se/",
+      "title": "ユーグローデン島での屋外遊び・ピクニック",
+      "description": "美しい公園と海水浴場がある島。6月の穏やかな気候で、家族でのピクニック、遊具での遊び、海での水遊びが楽しめる。地元家族の定番スポット。",
+      "date": "6月通期",
+      "place": "Ekoparken, Djurgården, Stockholm",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "ガムラスタン（旧市街）での散策とオープンマーケット",
-      "description": "5月は旧市街で工芸品やフードマーケットが活況。中世の街並みを散歩し、アイスクリーム店や広場での無料イベントを楽しめます。家族写真の撮影スポットも多数。",
-      "date": "5月全般（特に週末）",
-      "place": "ガムラスタン、Gamla Stan, Stockholm",
-      "link": "https://www.visitstockholm.com/see-do/gamla-stan/",
+      "title": "グリーナ・ルンド遊園地の季節営業",
+      "description": "ストックホルム最古の遊園地。6月は夏季営業開始で、子ども向けアトラクション、メリーゴーラウンド、乗り物が充実。北欧の雰囲気の中で楽しめる。",
+      "date": "6月通期",
+      "place": "Djurgården, 115 21 Stockholm",
+      "link": "https://www.grunalund.com",
+      "free": false
+    },
+    {
+      "title": "ストックホルム市立図書館の子ども向け夏季プログラム",
+      "description": "夏休み期間に向けた子ども向けの読書会、ストーリータイム、手作りワークショップなど。涼しい屋内で楽しめる無料のカルチャルイベント。",
+      "date": "6月下旬〜夏休み開始時期",
+      "place": "Stadsbiblioteket, Sveavägen 73, 104 20 Stockholm",
+      "link": "https://www.stockholm.se/kultur-och-fritid/bibliotek",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:18.402Z"
+  "updatedAt": "2026-06-25T01:57:25.325Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Lei Day Celebration（レイデー）",
-      "description": "ハワイの伝統的な花飾り「レイ」を祝うイベント。5月1日前後にホノルル各地で行われ、パレード、フラ、音楽、レイ作り体験などが楽しめます。",
-      "date": "5月1日前後",
-      "place": "ホノルル（カピオラニ公園など複数会場）",
+      "title": "King Kamehameha Day Celebration",
+      "description": "ハワイの王様を祝う祝日。パレード、フラダンス、伝統音楽など家族で楽しめるイベントが各島で開催されます。文化体験の絶好の機会です。",
+      "date": "6月11日前後",
+      "place": "ホノルル（カラカウア大通りほか）、その他各島",
       "link": "https://www.gohawaii.com",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Summer Program（ホノルル動物園サマープログラム）",
-      "description": "5月から始まる子ども向けの特別プログラム。動物との触れ合い、教育ワークショップ、ガイドツアーなど。乳幼児〜小学生向けのアクティビティが充実。",
-      "date": "5月〜8月（通年開園、プログラムは5月から）",
-      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
+      "title": "ホノルル・フェスティバル・オブ・アーツ・アンド・カルチャー",
+      "description": "国際的な文化交流イベント。ステージパフォーマンス、花火、キッズゾーン、世界中の文化体験が楽しめます。家族向けの催しが充実しています。",
+      "date": "5月下旬〜6月上旬",
+      "place": "ハワイコンベンション・センター、アラモアナビーチパーク周辺",
+      "link": "https://www.honolulufestival.com",
+      "free": true
+    },
+    {
+      "title": "マノア滝ハイキング（Manoa Falls Trail）",
+      "description": "ハワイで最も人気の初心者向けハイキング。樹々に覆われた道を30分で滝に到着。乳幼児用ベビーキャリアあれば参加可能な季節アクティビティです。",
+      "date": "6月通年（雨季のため雨具必須）",
+      "place": "ホノルル、マノア谷トレイルヘッド",
+      "link": "https://www.honolulu.gov",
+      "free": true
+    },
+    {
+      "title": "ホノルル動物園のサマープログラム",
+      "description": "子ども向けの特別プログラムやワークショップ。動物との触れ合い体験や教育プログラムが充実。6月の園内は緑豊か。",
+      "date": "6月通年",
+      "place": "ワイキキ、ホノルル動物園",
       "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "シュノーケリング（ハナウマ湾自然保護区）",
-      "description": "ハワイを代表する家族向けシュノーケルスポット。5月は水温も暖かく、カラフルな魚が見られます。自然保護区の入場料で楽しめます。",
-      "date": "5月通年（おすすめ）",
-      "place": "Hanauma Bay Nature Preserve, Honolulu, HI 96825",
-      "link": "https://www.honolulu.gov/parks-recreation/beaches/hanauma-bay.html",
+      "title": "カイルア・ビーチでのウォータースポーツ体験",
+      "description": "ハワイで最も美しいと評される白砂ビーチ。6月は水温が心地よく、シュノーケリング、スタンドアップパドルボード、砂浜での遊びが楽しめます。",
+      "date": "6月通年",
+      "place": "カイルア・ビーチ（ホノルルから車で30分）",
+      "link": "https://www.gohawaii.com",
       "free": false
-    },
-    {
-      "title": "KCC Farmers Market（カカアコファーマーズマーケット）",
-      "description": "毎週土曜朝に開催される地元農産物とハワイアングルメの市場。無料で散策でき、子どもも楽しめる食べ歩きやローカルフードが豊富。",
-      "date": "毎週土曜朝（5月通年）",
-      "place": "KCC Farmers Market, 2100 S. King St, Honolulu, HI 96814",
-      "link": "https://www.honolulufarmers.com",
-      "free": true
-    },
-    {
-      "title": "Waikiki Beach での家族向けビーチアクティビティ",
-      "description": "5月は天気が安定し、波も穏やか。浅瀬での水遊び、サンゴ礁でのシュノーケリング体験、ビーチパークでの無料アクティビティ。家族向けレッスンも多数利用可能。",
-      "date": "5月通年",
-      "place": "Waikiki Beach, Honolulu, HI 96815",
-      "link": "https://www.gohawaii.com/islands/oahu/regions/honolulu/waikiki",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:57.437Z"
+  "updatedAt": "2026-06-25T01:58:04.461Z"
 }

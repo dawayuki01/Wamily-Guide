@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "id": "35e088f5-0b07-81d9-b344-e539ab4c68d2",
+      "name": "Sawasdeekaa Bangkok Channel",
+      "type": "YouTube",
+      "description": "バンコクの街と暮らしを発信するチャンネル。観光ガイドにはない、街の手触りに触れられそう。",
+      "url": "https://www.youtube.com/@sawasdeekaabangkokchannel",
+      "addedDate": "2026-05-12"
+    },
+    {
       "id": "35d088f5-0b07-814d-aed6-f7e09ea92003",
       "name": "BANGKOK GIRLS NOTE",
       "type": "Media",
@@ -33,5 +41,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T14:05:49.941Z"
+  "updatedAt": "2026-06-26T01:58:53.938Z"
 }

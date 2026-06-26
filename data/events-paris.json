@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・フローラル（Paris Floral）",
-      "description": "パリ東部のボワ・ド・ヴァンセンヌ公園で開催される国際園芸祭。春の花々が満開で、子ども向けワークショップや庭園散策が楽しめます。",
-      "date": "5月上旬〜中旬",
-      "place": "Bois de Vincennes, Paris 12e",
-      "link": "https://www.paris.fr",
-      "free": false
-    },
-    {
-      "title": "セーヌ河沿いのピクニック・ガーデン",
-      "description": "5月のパリは各公園でピクニック適期。イール・サン・ルイやルクセンブルク公園で自然を満喫。無料で利用でき、子どもたちが遊べます。",
-      "date": "5月全期間",
-      "place": "Luxembourg Gardens, Paris 6e / Île Saint-Louis, Paris 4e",
+      "title": "Fête de la Musique（音楽祭）",
+      "description": "6月21日の夏至を祝う音楽祭。パリ全域で無料のコンサートやパフォーマンスが開催。子ども向けステージもあり、家族で音楽を楽しめます。",
+      "date": "6月21日",
+      "place": "パリ全域（シャンゼリゼ通り、公園など複数会場）",
       "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "フランス国立自然史博物館の春季プログラム",
-      "description": "ジャルダン・デ・プラント内にある博物館。5月は子ども向けの自然観察ツアーや化石体験ワークショップが充実。屋外での学習プログラムもあります。",
-      "date": "5月全期間",
-      "place": "Muséum National d'Histoire Naturelle, 57 Rue Cuvier, Paris 5e",
-      "link": "https://www.mnhn.fr",
+      "title": "ルクセンブルク公園の屋外プール開業",
+      "description": "6月中旬から屋外プール（Piscine de Luxemburg）が営業開始。子ども向けプールもあり、パリの夏の定番アクティビティ。家族連れに人気です。",
+      "date": "6月中旬～9月",
+      "place": "ルクセンブルク公園、Rue de Médicis, 75006 Paris",
+      "link": "https://www.paris.fr",
       "free": false
     },
     {
-      "title": "キドラッポリス（Citéoparc）のスプリング・フェスティバル",
-      "description": "パリ郊外のファミリーパークで開催される春のフェスティバル。乗り物、ゲーム、ワークショップ、キャラクターグリーティング。子ども向けの楽しい企画が満載。",
-      "date": "5月中旬〜下旬",
-      "place": "Citéoparc, Île-de-France region",
-      "link": "",
+      "title": "Paris Plage（パリビーチ）準備期間",
+      "description": "夏休みに向けたビーチイベント準備。セーヌ川沿いに砂浜やアクティビティが設置されます。6月下旬から徐々に開始。屋外で水遊びや運動が楽しめます。",
+      "date": "6月下旬～9月上旬",
+      "place": "セーヌ川沿い（ポン・ネフ周辺など複数箇所）",
+      "link": "https://www.paris.fr",
+      "free": true
+    },
+    {
+      "title": "シテ科学産業博物館の季節特別展示",
+      "description": "Cité des Sciences et de l'Industrie で子ども向け展示。6月は夏休み前の特別ワークショップやインタラクティブ展示が充実。幼児～小学生向けプログラムあり。",
+      "date": "6月通期",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "パリの街角オープンエアマーケット散策",
-      "description": "5月のパリは各地で春野菜やフルーツの市場が活気づきます。アリーナマルシェなど露店散策は無料。子どもたちがローカル文化を学べます。",
-      "date": "5月全期間",
-      "place": "Marché Bastille, Paris 11e / Various markets throughout Paris",
+      "title": "パリの庭園・公園での花見（バラ園）",
+      "description": "バガテル公園やプランタン・ド・パリなどでバラが見頃。6月は初夏の花々が最も美しい季節。屋外散策とピクニックを楽しめます。",
+      "date": "6月上旬～中旬",
+      "place": "バガテル公園（Bois de Boulogne内）、パリ各地の庭園",
       "link": "https://www.paris.fr",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:09.636Z"
+  "updatedAt": "2026-06-25T01:57:17.511Z"
 }

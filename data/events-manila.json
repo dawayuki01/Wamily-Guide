@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アキノ大統領記念日（Araw ng Kagitingan）",
-      "description": "8月21日が国民の祝日ですが、5月中旬には関連する文化イベントが各地で開催。子ども向けの伝統工芸体験やフィリピン文化展示が楽しめます。",
-      "date": "5月中旬～下旬",
-      "place": "Cultural Center of the Philippines (CCP)、Roxas Blvd, Pasay City",
-      "link": "https://www.culturalcenter.gov.ph",
+      "title": "フィリピン・アメリカン・フレンドシップ・デー（PAF Day）",
+      "description": "フィリピンとアメリカの友好を祝う6月12日前後のイベント。パレード、文化交流、家族向けの娯楽活動が開催されます。",
+      "date": "6月上旬〜中旬",
+      "place": "マニラ湾周辺、パコパーク等",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "Manila Zoo Family Day & Summer Activities",
-      "description": "マニラ動物園の夏季特別プログラム。子ども向けの動物ふれあい体験、ガイドツアー、教育的なワークショップが開催される季節。",
-      "date": "5月上旬～下旬",
-      "place": "Manila Zoo, Rizal Park, Ermita, Manila",
-      "link": "https://www.manilazoo.org",
+      "title": "スター シティ（Star City）特別キャンペーン",
+      "description": "マニラの遊園地。雨季の6月は割引キャンペーンが展開されることが多く、子ども向けアトラクションが充実しています。",
+      "date": "6月通期",
+      "place": "Star City, Paranaque, Metro Manila",
+      "link": "https://www.star-city.ph/",
       "free": false
     },
     {
-      "title": "Rizal Park（リサール公園）での屋外ピクニック・散策",
-      "description": "マニラ最大の都市公園。5月は比較的過ごしやすく、家族向けの広場、遊び場、池での景色を楽しめます。無料で終日利用可能。",
-      "date": "5月全期間",
-      "place": "Rizal Park, Manila",
+      "title": "ナヤログ・マーケット（Nayalog Market）での季節フルーツ狩り体験",
+      "description": "マニラ郊外でマンゴー、パイナップルなどの季節フルーツを楽しめるアクティビティ。家族向けの収穫体験が可能。",
+      "date": "6月通期",
+      "place": "Nayalog Market, Rizal Province",
       "link": "",
+      "free": false
+    },
+    {
+      "title": "ナショナル・ミュージアム（National Museum）の子ども向けスペシャルプログラム",
+      "description": "フィリピンの自然史・芸術を学べる無料施設。6月は子ども対象の特別ガイドツアーやワークショップが実施されます。",
+      "date": "6月通期（火〜日）",
+      "place": "National Museum Complex, Rizal Park, Manila",
+      "link": "https://nationalmuseum.gov.ph/",
       "free": true
     },
     {
-      "title": "SM Mall of Asia Family Summer Festival",
-      "description": "大型モール内での子ども向けサマーフェスティバル。ゲーム、アクティビティ、キャラクターショー、屋内遊び場などが開催される。",
-      "date": "5月上旬～中旬",
-      "place": "SM Mall of Asia, Bay Area, Pasay City",
-      "link": "https://www.smmallofasia.com",
-      "free": false
-    },
-    {
-      "title": "National Museum of the Philippines「Kids Museum」プログラム",
-      "description": "フィリピン国立博物館の子ども向け特別展示・ワークショップ。対話的な学習体験を通じてフィリピンの歴史と文化を学べます。",
-      "date": "5月全期間",
-      "place": "National Museum Complex, P. Burgos St, Ermita, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
-      "free": false
+      "title": "リサール公園（Rizal Park）でのアウトドア活動",
+      "description": "マニラ中心部の広大な公園。自転車、スケートボード、ピクニックができます。6月の朝間は涼しく家族向けです。",
+      "date": "6月通期",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:42.492Z"
+  "updatedAt": "2026-06-25T01:57:49.383Z"
 }

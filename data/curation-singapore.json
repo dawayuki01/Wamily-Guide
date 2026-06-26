@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "id": "35e088f5-0b07-8125-b594-dbab9a43f48f",
+      "name": "SINGAPORE☆Hiromi Travel",
+      "type": "YouTube",
+      "description": "33ヵ国100回以上の旅行経験者・ひろみさんが、シンガポール中心に発信するチャンネル。毎週土曜更新で、旅の発見が積もっていく。",
+      "url": "https://www.youtube.com/@hiromitravel",
+      "addedDate": "2026-05-12"
+    },
+    {
       "id": "35d088f5-0b07-8128-a585-f45cbe771e98",
       "name": "SingaLife",
       "type": "Media",
@@ -33,19 +41,19 @@
       "addedDate": "2026-05-11"
     },
     {
-      "id": "35d088f5-0b07-8115-b017-f2ed88113167",
-      "name": "m_fromjapan｜シンガポール在住日本人ママ",
-      "type": "Instagram",
-      "description": "日本人視点でシンガポールの日常を発信するアカウント。",
-      "url": "https://www.instagram.com/m_fromjapan",
-      "addedDate": "2026-05-11"
-    },
-    {
       "id": "35d088f5-0b07-81aa-9202-f0f26286c0d7",
       "name": "The Smart Local Singapore",
       "type": "Media",
       "description": "シンガポールのローカルが見るメディア。カフェ・公園・モール・新スポットなど、\"今シンガポール人がどこに行っているか\"が見えてきそう。",
       "url": "https://thesmartlocal.com/",
+      "addedDate": "2026-05-11"
+    },
+    {
+      "id": "35d088f5-0b07-8115-b017-f2ed88113167",
+      "name": "m_fromjapan｜シンガポール在住日本人ママ",
+      "type": "Instagram",
+      "description": "日本人視点でシンガポールの日常を発信するアカウント。",
+      "url": "https://www.instagram.com/m_fromjapan",
       "addedDate": "2026-05-11"
     },
     {
@@ -65,5 +73,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T14:05:49.940Z"
+  "updatedAt": "2026-06-26T01:58:53.937Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "id": "36d088f5-0b07-8011-b9db-cecdd3463ce4",
+      "name": "台湾なう",
+      "type": "Instagram",
+      "description": "台湾在住30代女子による、台湾レコメンド",
+      "url": "https://www.instagram.com/taiwannow.net_?igsh=MTMwNzl3ZzdxaXV2OQ==",
+      "addedDate": "2026-05-27"
+    },
+    {
+      "id": "35e088f5-0b07-815e-9e56-f1c55e4dfb60",
+      "name": "DAYLILY Channel",
+      "type": "YouTube",
+      "description": "台湾発の漢方ライフスタイルブランド「DAYLILY」公式。台湾女性の暮らしの知恵や、漢方を取り入れた美容・健康の発信。",
+      "url": "https://www.youtube.com/@daylilychannel7556",
+      "addedDate": "2026-05-12"
+    },
+    {
       "id": "35d088f5-0b07-8186-9f5c-d5d280eaef44",
       "name": "Shopping Design",
       "type": "Instagram",
@@ -41,5 +57,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T14:05:49.941Z"
+  "updatedAt": "2026-06-26T01:58:53.937Z"
 }

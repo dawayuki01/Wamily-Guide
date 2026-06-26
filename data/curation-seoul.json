@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "id": "35e088f5-0b07-81f4-a1d0-c7c74a2f6395",
+      "name": "にいけい【ここだけの韓国グルメ】",
+      "type": "YouTube",
+      "description": "韓国グルメ専門チャンネル。「ここだけ」の店や料理、初心者向けの食情報を、思わず行きたくなる切り口で紹介。",
+      "url": "https://www.youtube.com/@niikei1022",
+      "addedDate": "2026-05-12"
+    },
+    {
       "id": "35d088f5-0b07-8187-9fd5-ef8a839ea8fd",
       "name": "Seoul Walker",
       "type": "YouTube",
@@ -41,5 +49,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T14:05:49.940Z"
+  "updatedAt": "2026-06-26T01:58:53.938Z"
 }

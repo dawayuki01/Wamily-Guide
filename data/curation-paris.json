@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "id": "35e088f5-0b07-8167-9d7d-ceed381c8115",
+      "name": "Aikoと歩くドラマチックなパリ",
+      "type": "YouTube",
+      "description": "Aikoさんと一緒にパリの街を歩く感覚で観られる映像チャンネル。空気感重視で、ドラマの一場面のようなパリに触れられる。",
+      "url": "https://www.youtube.com/@aiko1757",
+      "addedDate": "2026-05-12"
+    },
+    {
+      "id": "35e088f5-0b07-819a-a541-c8aea1e671d8",
+      "name": "Paris Promenade",
+      "type": "YouTube",
+      "description": "パリの街並みを散歩する視点で撮られた映像チャンネル。落ち着いた時間にパリの空気に浸れる。",
+      "url": "https://www.youtube.com/@parispromenade",
+      "addedDate": "2026-05-12"
+    },
+    {
       "id": "35d088f5-0b07-8113-8a82-d7018b5fc540",
       "name": "el BLANCO",
       "type": "Blog",
@@ -41,5 +57,5 @@
       "addedDate": "2026-03-31"
     }
   ],
-  "updatedAt": "2026-05-11T14:05:49.941Z"
+  "updatedAt": "2026-06-26T01:58:53.937Z"
 }

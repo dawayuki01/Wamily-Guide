@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA County Arboretum & Botanic Garden - Spring Bloom",
-      "description": "広大な植物園で春の花々が満開。子ども向けプレイグラウンド、噴水、孔雀との出会いなど家族連れに最適な屋外アクティビティ。",
-      "date": "5月上旬〜下旬",
-      "place": "LA County Arboretum & Botanic Garden, 301 N Baldwin Ave, Arcadia, CA 91007",
-      "link": "https://www.arboretum.org",
+      "title": "Summer Movie Express at Regal Cinemas",
+      "description": "子ども向けの映画を割安料金で楽しめるプログラム。毎週火曜・水曜に開催される期間限定企画で、家族向けの最新映画が上映されます。",
+      "date": "6月上旬～8月下旬",
+      "place": "ロサンゼルス市内のRegal Cinemas各劇場",
+      "link": "https://www.regmovies.com",
       "free": false
     },
     {
-      "title": "The Original Farmers Market - Spring Celebration",
-      "description": "ロサンゼルス最古のマーケット。シーズナルな新鮮な野菜、フルーツ、グルメフードが揃う。屋外で散策しながら試食も楽しめます。",
-      "date": "5月上旬〜下旬（常設）",
-      "place": "The Original Farmers Market, 6333 W 3rd St, Los Angeles, CA 90036",
-      "link": "https://www.farmersmarketla.com",
-      "free": true
-    },
-    {
-      "title": "Griffith Observatory - Family Programs",
-      "description": "天文台の季節プログラムで宇宙学習。展示ホール無料、望遠鏡観測や子ども向けショーで天体について学べます。",
-      "date": "5月上旬〜下旬（常設プログラム）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
-      "free": true
-    },
-    {
-      "title": "Santa Monica Pier - Summer Season Opening",
-      "description": "ビーチシーズンの始まり。遊園地、ゲーム、レストラン、海水浴が楽しめる。家族向けアトラクション豊富な屋外スポット。",
-      "date": "5月中旬〜下旬",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
-      "free": true
-    },
-    {
-      "title": "Los Angeles Zoo - Spring Wildlife Discovery Program",
-      "description": "動物園の春の特別プログラム。新生仔動物の展示や子ども向けワークショップ。約1200種の動物が見学できます。",
-      "date": "5月上旬〜下旬",
-      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "title": "Los Angeles Zoo Summer Nights",
+      "description": "動物園が夜間営業される夏限定イベント。ライトアップされた園内で動物を観察でき、音楽やパフォーマンスも楽しめます。",
+      "date": "6月中旬～8月下旬（金土日）",
+      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Drive, Los Angeles, CA 90027",
       "link": "https://www.lazoo.org",
       "free": false
+    },
+    {
+      "title": "Huntington Library Summer Programs",
+      "description": "図書館の庭園を無料で散策できます。6月は紫陽花が見頃。家族向けのワークショップも随時開催。",
+      "date": "6月通期",
+      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Road, San Marino, CA 91108",
+      "link": "https://www.huntington.org",
+      "free": true
+    },
+    {
+      "title": "Santa Monica Pier Summer Sunset Series",
+      "description": "桟橋での無料の野外映画上映やライブパフォーマンス。遊園地の乗り物も楽しめ、海の景色を楽しみながら家族で過ごせます。",
+      "date": "6月～8月の週末",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org",
+      "free": true
+    },
+    {
+      "title": "Griffith Observatory Summer Viewing",
+      "description": "天文台の展示エリアは無料。6月の夜間特別観測会で、子どもたちが望遠鏡で惑星や星を観察できます。",
+      "date": "6月通期（夜間観測会は週末）",
+      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-05-11T14:06:49.242Z"
+  "updatedAt": "2026-06-25T01:57:56.315Z"
 }
