@@ -6,10 +6,11 @@
  * 2. 配信停止（doGet ?action=unsubscribe&token=xxx）→ Notion ステータス「停止」に更新
  *
  * スクリプトプロパティ:
- *   NOTION_API_KEY    - Notion API キー
- *   NEWSLETTER_DB_ID  - 購読者DB ID
- *   NOTIFY_EMAIL      - 管理者通知先メール
- *   RESEND_API_KEY    - Resend API キー（ウェルカムメール送信用）
+ *   NOTION_API_KEY              - Notion API キー
+ *   NEWSLETTER_DB_ID            - 購読者DB ID
+ *   NOTIFY_EMAIL                - 管理者通知先メール（任意）
+ *   RESEND_API_KEY              - Resend API キー（ウェルカムメール送信用）
+ *   SLACK_WEBHOOK_NEWSLETTER    - Slack 通知 Webhook URL（任意・新規登録時に通知）
  */
 
 // ===== 設定 =====
@@ -18,6 +19,7 @@ const NOTION_API_KEY = PROPS.getProperty('NOTION_API_KEY');
 const DB_ID = PROPS.getProperty('NEWSLETTER_DB_ID');
 const NOTIFY_EMAIL = PROPS.getProperty('NOTIFY_EMAIL');
 const RESEND_API_KEY = PROPS.getProperty('RESEND_API_KEY');
+const SLACK_WEBHOOK_NEWSLETTER = PROPS.getProperty('SLACK_WEBHOOK_NEWSLETTER');
 
 const SITE_URL = 'https://dawayuki01.github.io/Wamily-Guide';
 const FROM_EMAIL = 'Wamily <hello@send.tomoyukisawada.com>';
@@ -280,15 +282,44 @@ function buildWelcomeHtml(unsubscribeUrl) {
 // ===== 管理者通知 =====
 
 function notifyAdmin(email, source, type) {
-  if (!NOTIFY_EMAIL) return;
-  try {
-    GmailApp.sendEmail(
-      NOTIFY_EMAIL,
-      '📬 Wamily Letter ' + type + ': ' + email,
-      type + '\nメール: ' + email + '\n登録元: ' + source + '\n日時: ' + new Date().toLocaleString('ja-JP')
-    );
-  } catch (err) {
-    console.error('管理者通知エラー:', err);
+  // メール通知（NOTIFY_EMAIL 設定時のみ）
+  if (NOTIFY_EMAIL) {
+    try {
+      GmailApp.sendEmail(
+        NOTIFY_EMAIL,
+        '📬 Wamily Letter ' + type + ': ' + email,
+        type + '\nメール: ' + email + '\n登録元: ' + source + '\n日時: ' + new Date().toLocaleString('ja-JP')
+      );
+    } catch (err) {
+      console.error('管理者通知エラー（メール）:', err);
+    }
+  }
+
+  // Slack 通知（SLACK_WEBHOOK_NEWSLETTER 設定時のみ）
+  if (SLACK_WEBHOOK_NEWSLETTER) {
+    try {
+      const icon = type === '新規登録' ? '✨' : '🔄';
+      const color = type === '新規登録' ? '#2a9d8f' : '#c8a820';
+      const payload = {
+        text: icon + ' [メルマガ部] ' + type,
+        attachments: [{
+          color: color,
+          fields: [
+            { title: 'メールアドレス', value: email, short: false },
+            { title: '登録元',         value: source, short: true },
+            { title: '日時',           value: new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }), short: true },
+          ],
+        }],
+      };
+      UrlFetchApp.fetch(SLACK_WEBHOOK_NEWSLETTER, {
+        method: 'post',
+        contentType: 'application/json',
+        payload: JSON.stringify(payload),
+        muteHttpExceptions: true,
+      });
+    } catch (err) {
+      console.error('管理者通知エラー（Slack）:', err);
+    }
   }
 }
 
