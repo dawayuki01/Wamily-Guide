@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "King Kamehameha Day Celebration",
-      "description": "ハワイの王様を祝う祝日。パレード、フラダンス、伝統音楽など家族で楽しめるイベントが各島で開催されます。文化体験の絶好の機会です。",
-      "date": "6月11日前後",
-      "place": "ホノルル（カラカウア大通りほか）、その他各島",
+      "title": "King Kamehameha Day（キング・カメハメハ・デー）",
+      "description": "ハワイ建国の父を祝う祝日。各地でパレード、フラダンス、音楽が楽しめます。子ども向けの文化体験ワークショップも充実。6月11日前後がメイン。",
+      "date": "6月上旬（6月11日前後）",
+      "place": "ホノルル・ダウンタウン、カラカウア大通り",
       "link": "https://www.gohawaii.com",
       "free": true
     },
     {
-      "title": "ホノルル・フェスティバル・オブ・アーツ・アンド・カルチャー",
-      "description": "国際的な文化交流イベント。ステージパフォーマンス、花火、キッズゾーン、世界中の文化体験が楽しめます。家族向けの催しが充実しています。",
-      "date": "5月下旬〜6月上旬",
-      "place": "ハワイコンベンション・センター、アラモアナビーチパーク周辺",
-      "link": "https://www.honolulufestival.com",
-      "free": true
-    },
-    {
-      "title": "マノア滝ハイキング（Manoa Falls Trail）",
-      "description": "ハワイで最も人気の初心者向けハイキング。樹々に覆われた道を30分で滝に到着。乳幼児用ベビーキャリアあれば参加可能な季節アクティビティです。",
-      "date": "6月通年（雨季のため雨具必須）",
-      "place": "ホノルル、マノア谷トレイルヘッド",
-      "link": "https://www.honolulu.gov",
-      "free": true
-    },
-    {
-      "title": "ホノルル動物園のサマープログラム",
-      "description": "子ども向けの特別プログラムやワークショップ。動物との触れ合い体験や教育プログラムが充実。6月の園内は緑豊か。",
-      "date": "6月通年",
-      "place": "ワイキキ、ホノルル動物園",
+      "title": "Honolulu Zoo Summer Concert Series",
+      "description": "ホノルル動物園で開催される夏の無料コンサートシリーズ。子ども向けの楽しいパフォーマンスが多く、動物観察と音楽が同時に楽しめます。",
+      "date": "6月中旬〜下旬（毎週日曜16:00-17:30）",
+      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu",
       "link": "https://www.honoluluzoo.org",
+      "free": true
+    },
+    {
+      "title": "Makapuu Lighthouse Trail ハイキング",
+      "description": "オアフ島東側の初心者向けトレイルで、景色の良い灯台を目指します。6月は天気が安定し、子どもと一緒に自然体験できる絶好のシーズン。",
+      "date": "6月上旬〜下旬（毎日）",
+      "place": "Makapuu Lighthouse Trail, Kailua, Oahu",
+      "link": "https://www.alltrails.com",
+      "free": true
+    },
+    {
+      "title": "Waikiki Aquarium Summer Programs",
+      "description": "ワイキキ水族館の夏季プログラム。子ども向けのタッチプール体験、ウミガメ観察、シュノーケルツアーなど。海の生き物について学べる貴重な経験。",
+      "date": "6月通年（プログラムにより異なる）",
+      "place": "Waikiki Aquarium, 2777 Kalakaua Ave, Honolulu",
+      "link": "https://www.waikikiaquarium.org",
       "free": false
     },
     {
-      "title": "カイルア・ビーチでのウォータースポーツ体験",
-      "description": "ハワイで最も美しいと評される白砂ビーチ。6月は水温が心地よく、シュノーケリング、スタンドアップパドルボード、砂浜での遊びが楽しめます。",
-      "date": "6月通年",
-      "place": "カイルア・ビーチ（ホノルルから車で30分）",
-      "link": "https://www.gohawaii.com",
-      "free": false
+      "title": "Ala Moana Center Summer Keiki Fest",
+      "description": "アラモアナセンターの子ども向け夏祭り。フラダンス、クラフト工作、キッズパフォーマンスなど。雨の日でも楽しめるショッピングモール内で安心。",
+      "date": "6月中旬〜下旬（週末開催）",
+      "place": "Ala Moana Center, 1450 Ala Moana Blvd, Honolulu",
+      "link": "https://www.alamoanacenter.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-25T01:58:04.461Z"
+  "updatedAt": "2026-06-29T02:04:54.440Z"
 }

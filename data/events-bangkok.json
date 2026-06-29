@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "アーサラハ・ブーチャー（仏教行事）",
-      "description": "釈迦の初説法を祝う仏教の大切な日。寺院での儀式や行列が見られます。子どもも参加でき、タイ文化を学べる貴重な体験になります。",
-      "date": "6月下旬（陰暦8月15日）",
-      "place": "バンコク市内の主要寺院（ワット・ポー、ワット・サケット等）",
-      "link": "https://www.tourismthailand.org",
+      "title": "バンコク国際書籍フェスティバル",
+      "description": "バンコクで毎年開催される大規模書籍フェスティバル。子ども向けのワークショップ、読み聞かせ、インタラクティブな展示コーナーが充実。家族全員で楽しめるイベントです。",
+      "date": "6月中旬〜下旬",
+      "place": "シーコン スクエア（Seacon Square）、バンナー地区",
+      "link": "https://www.bangkokbookfest.com",
+      "free": false
+    },
+    {
+      "title": "チャトゥチャック・ウィークエンド・マーケット 子ども向けコーナー",
+      "description": "世界最大級のマーケット。キッズエリアには子ども服、玩具、アート&クラフトの屋台が集中。毎週末営業で、家族向けの楽しい買い物体験ができます。",
+      "date": "6月の週末（毎土日）",
+      "place": "チャトゥチャック・ウィークエンド・マーケット、バンケン地区 99/1 Kamphaengphet Road",
+      "link": "https://www.chatuchakmarket.org",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館（特別展示）",
-      "description": "大規模な水族館で、季節ごとの特別展示プログラムを開催。タッチプール体験など子ども向けのインタラクティブな学習が充実しています。",
-      "date": "6月通年",
-      "place": "Siam Paragon, 991 Rama I Rd, Pathumwan, Bangkok",
+      "title": "ルンピニ公園 子ども向けプログラム＆屋外アクティビティ",
+      "description": "広大な公園でサイクリング、ジョギング、凧揚げ。6月のプール施設や子ども向けスポーツ教室など季節プログラムが開催。無料で利用でき、朝の散歩も気持ちよいです。",
+      "date": "6月通年（平日・週末）",
+      "place": "ルンピニ公園（Lumphini Park）、パトゥムワン地区",
+      "link": "https://www.bangkok.go.th",
+      "free": true
+    },
+    {
+      "title": "サイアム・パラゴン・キッズ・サマーキャンプ",
+      "description": "大型ショッピングモール内で開催される子ども向け夏季プログラム。アート、サイエンス、スポーツなどのワークショップ。6月は夏休みシーズンの特別イベントが豊富です。",
+      "date": "6月上旬〜中旬",
+      "place": "サイアム・パラゴン（Siam Paragon）、パトゥムワン地区",
       "link": "https://www.siamparagon.co.th",
       "free": false
     },
     {
-      "title": "チャットチャック・ウィークエンド・マーケット",
-      "description": "東南アジア最大級の週末マーケット。キッズゾーン、遊び場、グルメが充実。親子で楽しむショッピングとグルメが同時に楽しめます。",
-      "date": "6月の土日（年間運営）",
-      "place": "Kamphaengphet Rd, Chatuchak, Bangkok 10900",
-      "link": "https://www.chatuchakmarket.com",
-      "free": true
-    },
-    {
-      "title": "ルンピニ公園での水遊び・アクティビティ",
-      "description": "バンコク最大級の公園で、6月は雨季ですが水遊びエリアが充実。ジョギング路、遊具、池でのボート体験など家族向けの屋外活動が豊富です。",
-      "date": "6月通年",
-      "place": "Rama IV Rd, Pathum Wan, Bangkok 10330",
-      "link": "https://www.lumpinipark.com",
-      "free": true
-    },
-    {
-      "title": "キッザニア・バンコク",
-      "description": "職業体験テーマパーク。6月は学校休暇期のため特別プログラムを実施。乳幼児〜小学生が安全に多様な職業を体験できます。",
-      "date": "6月通年（特に6月中旬以降）",
-      "place": "Siam Square One Building, 388 Rama I Rd, Pathumwan, Bangkok",
-      "link": "https://www.kidzania.com/th",
+      "title": "バンコク水上マーケット＆ボートツアー（子ども向け）",
+      "description": "アンプワ・フローティング・マーケットやダムヌン・サドゥアク水上マーケットで、ボートに乗って水上生活を体験。子どもたちには貴重な文化体験になります。",
+      "date": "6月通年（早朝推奨）",
+      "place": "アンプワ・フローティング・マーケット（Amphawa Floating Market）、サムロット地区",
+      "link": "https://www.tourismthailand.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-25T01:57:42.924Z"
+  "updatedAt": "2026-06-29T02:04:30.228Z"
 }

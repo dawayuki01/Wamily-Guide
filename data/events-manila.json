@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アメリカン・フレンドシップ・デー（PAF Day）",
-      "description": "フィリピンとアメリカの友好を祝う6月12日前後のイベント。パレード、文化交流、家族向けの娯楽活動が開催されます。",
-      "date": "6月上旬〜中旬",
-      "place": "マニラ湾周辺、パコパーク等",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "スター シティ（Star City）特別キャンペーン",
-      "description": "マニラの遊園地。雨季の6月は割引キャンペーンが展開されることが多く、子ども向けアトラクションが充実しています。",
-      "date": "6月通期",
-      "place": "Star City, Paranaque, Metro Manila",
-      "link": "https://www.star-city.ph/",
-      "free": false
-    },
-    {
-      "title": "ナヤログ・マーケット（Nayalog Market）での季節フルーツ狩り体験",
-      "description": "マニラ郊外でマンゴー、パイナップルなどの季節フルーツを楽しめるアクティビティ。家族向けの収穫体験が可能。",
-      "date": "6月通期",
-      "place": "Nayalog Market, Rizal Province",
+      "title": "フィエスタ・デ・サンタ・アナ（Fiesta de Santa Ana）",
+      "description": "6月下旬にサンタ・アナ教区で行われる宗教的な祭り。パレード、文化的パフォーマンス、子ども向けアクティビティが開催される。フィリピン文化を体験できます。",
+      "date": "6月下旬",
+      "place": "Santa Ana Church and vicinity, Manila",
       "link": "",
-      "free": false
-    },
-    {
-      "title": "ナショナル・ミュージアム（National Museum）の子ども向けスペシャルプログラム",
-      "description": "フィリピンの自然史・芸術を学べる無料施設。6月は子ども対象の特別ガイドツアーやワークショップが実施されます。",
-      "date": "6月通期（火〜日）",
-      "place": "National Museum Complex, Rizal Park, Manila",
-      "link": "https://nationalmuseum.gov.ph/",
       "free": true
     },
     {
-      "title": "リサール公園（Rizal Park）でのアウトドア活動",
-      "description": "マニラ中心部の広大な公園。自転車、スケートボード、ピクニックができます。6月の朝間は涼しく家族向けです。",
-      "date": "6月通期",
-      "place": "Rizal Park, Manila",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "Star City遊園地での夏期スペシャルプログラム",
+      "description": "マニラの代表的遊園地。6月の学校休暇期間中、キッズ向けの特別イベントやディスカウント営業を実施。乳幼児から小学生まで楽しめるアトラクション多数。",
+      "date": "6月上旬〜下旬",
+      "place": "Star City, Seaside Boulevard, Pasay City",
+      "link": "https://www.star-city.com.ph/",
+      "free": false
+    },
+    {
+      "title": "マニラ湾沿いのスマート・アムピシアター無料コンサート",
+      "description": "マニラ湾周辺で開催される家族向けの無料アウトドアコンサート。地元アーティストのパフォーマンスと海沿いの散歩が楽しめる。夕方開催で涼しい時間帯。",
+      "date": "6月中旬〜下旬の週末",
+      "place": "Manila Bay Area, Luneta Park周辺",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "フィリピン国立博物館子ども向けワークショップ",
+      "description": "6月開催の夏期教育プログラム。アート、自然科学、フィリピン歴史に関するインタラクティブなワークショップ。小学生向け体験学習が充実しています。",
+      "date": "6月上旬〜下旬",
+      "place": "National Museum Complex, Rizal Park, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
+      "free": false
+    },
+    {
+      "title": "リサール公園でのファミリー向けピクニック・アウトドアアクティビティ",
+      "description": "マニラ最大級の無料公園。6月は朝方に訪問がおすすめ。遊具、広場での遊び、自然散策が無料で楽しめ。家族でのんびり過ごせます。",
+      "date": "6月上旬〜下旬（早朝推奨）",
+      "place": "Rizal Park (Luneta Park), Manila",
+      "link": "https://www.rizalpark.gov.ph/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-25T01:57:49.383Z"
+  "updatedAt": "2026-06-29T02:04:37.951Z"
 }

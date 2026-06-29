@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "スウェーデン最大級の水上イベント。ボート乗船体験、コンサート、子ども向けアクティビティなど、ストックホルム湾全体で開催される家族向けの祭典。",
+      "title": "ストックホルム・ミッドサマー・フェスティバル",
+      "description": "スウェーデンの夏至祭。音楽ライブ、伝統舞踊、地元の食べ物が楽しめます。子ども向けアクティビティコーナーもあり、家族で北欧の夏を体験できます。",
       "date": "6月中旬〜下旬",
-      "place": "ストックホルム湾沿岸全域、特にNorrmalm地区とGamla Stan周辺",
-      "link": "https://www.stockholmvattenfestival.se",
+      "place": "ストックホルム市内各所（Skansen、Gröna Lundなど）",
+      "link": "https://www.stockholm.se/",
       "free": true
     },
     {
       "title": "スカンセン野外博物館の夏季プログラム",
-      "description": "北欧の伝統的な家屋や動物園が体験できる施設。6月は動物たちが活発な季節で、子ども向けの教育プログラムやワークショップが充実。",
-      "date": "6月通期",
-      "place": "Djurgården, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
+      "description": "北欧の伝統家屋と動物園。6月は夏季特別プログラムで、動物への給餌体験や伝統工芸ワークショップが充実。子どもが北欧文化を学べます。",
+      "date": "6月上旬〜下旬",
+      "place": "Djurgården, Skansen, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ユーグローデン島での屋外遊び・ピクニック",
-      "description": "美しい公園と海水浴場がある島。6月の穏やかな気候で、家族でのピクニック、遊具での遊び、海での水遊びが楽しめる。地元家族の定番スポット。",
-      "date": "6月通期",
-      "place": "Ekoparken, Djurgården, Stockholm",
-      "link": "https://www.visitstockholm.com",
+      "title": "ユーランダーパーク公園での屋外活動",
+      "description": "ストックホルムの広大な公園。6月は天気も良く、遊び場、ピクニックエリア、湖での水遊びが最適。親子で自然を満喫できる無料スポット。",
+      "date": "6月上旬〜下旬",
+      "place": "Ekoparken (Royal National City Park), Stockholm",
+      "link": "https://www.stockholm.se/uppleva-stockholm/parker-och-natur/ekoparken/",
       "free": true
     },
     {
-      "title": "グリーナ・ルンド遊園地の季節営業",
-      "description": "ストックホルム最古の遊園地。6月は夏季営業開始で、子ども向けアトラクション、メリーゴーラウンド、乗り物が充実。北欧の雰囲気の中で楽しめる。",
-      "date": "6月通期",
-      "place": "Djurgården, 115 21 Stockholm",
-      "link": "https://www.grunalund.com",
+      "title": "ストックホルム市立博物館の子ども向け展示",
+      "description": "市の歴史を学べる博物館。6月は夏休み前の子ども向けインタラクティブ展示やアクティビティが開催。家族で楽しめます。",
+      "date": "6月上旬〜下旬",
+      "place": "Stadsmuseet, Slottsbacken 6, 111 30 Stockholm",
+      "link": "https://www.stadsmuseet.stockholm.se/",
       "free": false
     },
     {
-      "title": "ストックホルム市立図書館の子ども向け夏季プログラム",
-      "description": "夏休み期間に向けた子ども向けの読書会、ストーリータイム、手作りワークショップなど。涼しい屋内で楽しめる無料のカルチャルイベント。",
-      "date": "6月下旬〜夏休み開始時期",
-      "place": "Stadsbiblioteket, Sveavägen 73, 104 20 Stockholm",
-      "link": "https://www.stockholm.se/kultur-och-fritid/bibliotek",
-      "free": true
+      "title": "グローナ・ルンド遊園地の夏季営業",
+      "description": "北欧最古の遊園地。6月は本格的に営業開始。子ども向けアトラクション、観覧車からの眺望、ライブミュージック。家族向けイベントも随時開催。",
+      "date": "6月上旬〜下旬",
+      "place": "Gröna Lund, Allmänna gränd 9, 102 48 Stockholm",
+      "link": "https://www.gronalund.com/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-25T01:57:25.325Z"
+  "updatedAt": "2026-06-29T02:04:11.813Z"
 }

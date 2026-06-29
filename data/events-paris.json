@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Fête de la Musique（音楽祭）",
-      "description": "6月21日の夏至を祝う音楽祭。パリ全域で無料のコンサートやパフォーマンスが開催。子ども向けステージもあり、家族で音楽を楽しめます。",
-      "date": "6月21日",
-      "place": "パリ全域（シャンゼリゼ通り、公園など複数会場）",
+      "title": "パリ・プラージュ（Paris-Plage）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊びやビーチバレー、アクティビティを楽しめる夏の風物詩。無料で家族向けプログラムも充実。",
+      "date": "6月中旬〜9月上旬",
+      "place": "セーヌ川沿い（ポン・ドゥ・ラルマ〜イル・サン=ルイ周辺）",
       "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園の屋外プール開業",
-      "description": "6月中旬から屋外プール（Piscine de Luxemburg）が営業開始。子ども向けプールもあり、パリの夏の定番アクティビティ。家族連れに人気です。",
-      "date": "6月中旬～9月",
-      "place": "ルクセンブルク公園、Rue de Médicis, 75006 Paris",
-      "link": "https://www.paris.fr",
+      "title": "ジャルダン・デ・プランテ（植物園）の季節展示",
+      "description": "バラやクレマチス、夏花が見頃。子ども向けガイドツアーや探検ゲームで植物について学べる教育的な体験。",
+      "date": "6月上旬〜下旬",
+      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
+      "link": "https://www.mnhn.fr/fr/jardin-des-plantes",
       "free": false
     },
     {
-      "title": "Paris Plage（パリビーチ）準備期間",
-      "description": "夏休みに向けたビーチイベント準備。セーヌ川沿いに砂浜やアクティビティが設置されます。6月下旬から徐々に開始。屋外で水遊びや運動が楽しめます。",
-      "date": "6月下旬～9月上旬",
-      "place": "セーヌ川沿い（ポン・ネフ周辺など複数箇所）",
-      "link": "https://www.paris.fr",
+      "title": "ルクセンブルク公園でのキッズアクティビティ",
+      "description": "ポニー乗馬、人形劇、子ども向けワークショップなど季節プログラムが充実。広大な芝生で自由に遊べる。無料エリア多数。",
+      "date": "6月全期間（毎日開催）",
+      "place": "Jardin du Luxembourg, 75006 Paris",
+      "link": "https://www.senat.fr/visite/index.html",
       "free": true
     },
     {
-      "title": "シテ科学産業博物館の季節特別展示",
-      "description": "Cité des Sciences et de l'Industrie で子ども向け展示。6月は夏休み前の特別ワークショップやインタラクティブ展示が充実。幼児～小学生向けプログラムあり。",
-      "date": "6月通期",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
+      "title": "ポンピドゥー・センター キッズワークショップ",
+      "description": "現代アート体験ワークショップ。6月は夏休み直前で子ども向けプログラムが豊富。家族で楽しむアート教室。",
+      "date": "6月全期間",
+      "place": "Place Georges-Pompidou, 75004 Paris",
+      "link": "https://www.centrepompidou.fr",
       "free": false
     },
     {
-      "title": "パリの庭園・公園での花見（バラ園）",
-      "description": "バガテル公園やプランタン・ド・パリなどでバラが見頃。6月は初夏の花々が最も美しい季節。屋外散策とピクニックを楽しめます。",
-      "date": "6月上旬～中旬",
-      "place": "バガテル公園（Bois de Boulogne内）、パリ各地の庭園",
-      "link": "https://www.paris.fr",
-      "free": true
+      "title": "セーヌ川クルーズ・ファミリーツアー",
+      "description": "子ども向けの解説付きクルーズで主要観光地をめぐる。船上からパリの街並みを鑑賞。乳幼児向けのバリアフリー対応船も。",
+      "date": "6月全期間（毎日運行）",
+      "place": "ポン・ドゥ・ラルマ桟橋ほか主要地点",
+      "link": "https://www.bateaux-mouches.fr",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-25T01:57:17.511Z"
+  "updatedAt": "2026-06-29T02:04:04.128Z"
 }

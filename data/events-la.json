@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Summer Movie Express at Regal Cinemas",
-      "description": "子ども向けの映画を割安料金で楽しめるプログラム。毎週火曜・水曜に開催される期間限定企画で、家族向けの最新映画が上映されます。",
-      "date": "6月上旬～8月下旬",
-      "place": "ロサンゼルス市内のRegal Cinemas各劇場",
-      "link": "https://www.regmovies.com",
-      "free": false
-    },
-    {
-      "title": "Los Angeles Zoo Summer Nights",
-      "description": "動物園が夜間営業される夏限定イベント。ライトアップされた園内で動物を観察でき、音楽やパフォーマンスも楽しめます。",
-      "date": "6月中旬～8月下旬（金土日）",
-      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
-      "free": false
-    },
-    {
-      "title": "Huntington Library Summer Programs",
-      "description": "図書館の庭園を無料で散策できます。6月は紫陽花が見頃。家族向けのワークショップも随時開催。",
-      "date": "6月通期",
-      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Road, San Marino, CA 91108",
-      "link": "https://www.huntington.org",
+      "title": "LA Pride Festival",
+      "description": "6月のロサンゼルスを代表するイベント。パレード、ライブパフォーマンス、キッズゾーンなど家族向けのアクティビティも充実。虹色に染まった街を体験できます。",
+      "date": "6月中旬（毎年6月中旬開催）",
+      "place": "Santa Monica Boulevard & Surrounding Areas, West Hollywood, CA",
+      "link": "https://www.lapride.org/",
       "free": true
     },
     {
-      "title": "Santa Monica Pier Summer Sunset Series",
-      "description": "桟橋での無料の野外映画上映やライブパフォーマンス。遊園地の乗り物も楽しめ、海の景色を楽しみながら家族で過ごせます。",
-      "date": "6月～8月の週末",
-      "place": "Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.org",
+      "title": "Descanso Gardens - Butterfly Garden",
+      "description": "四季折々の花が楽しめる庭園。6月は蝶が多く飛び交い、子どもたちが自然観察できます。ピクニックエリアも完備で家族向け。",
+      "date": "6月通年（季節による変動あり）",
+      "place": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+      "link": "https://www.descansogardens.org/",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier Summer Events & Beach Activities",
+      "description": "遊園地、アーケード、サーカル・サーカス公演など、ビーチでの屋外アクティビティが豊富。フリーハグデー、サンセット遊園地など季節イベント開催。",
+      "date": "6月通年（夏期プログラム開始）",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
       "free": true
     },
     {
-      "title": "Griffith Observatory Summer Viewing",
-      "description": "天文台の展示エリアは無料。6月の夜間特別観測会で、子どもたちが望遠鏡で惑星や星を観察できます。",
-      "date": "6月通期（夜間観測会は週末）",
-      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "title": "LA Zoo Kids' Summer Programs",
+      "description": "LA Zoo では6月から夏期の特別教育プログラムを開始。動物とのふれあい、クイズラリー、特別ツアーなど子ども向けアクティビティが充実。",
+      "date": "6月初旬〜夏期間",
+      "place": "5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org/",
+      "free": false
+    },
+    {
+      "title": "Griffith Observatory Outdoor Events",
+      "description": "無料の天文台施設。6月は夏至前後で日が長く、夕方のハイキングに最適。展望台からのロサンゼルス市街地の景色は圧巻。家族向けハイキングコース完備。",
+      "date": "6月通年（特に6月中旬〜下旬）",
+      "place": "2800 E Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-25T01:57:56.315Z"
+  "updatedAt": "2026-06-29T02:04:46.734Z"
 }
