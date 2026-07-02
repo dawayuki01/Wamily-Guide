@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム・ミッドサマー・フェスティバル",
-      "description": "スウェーデンの夏至祭。音楽ライブ、伝統舞踊、地元の食べ物が楽しめます。子ども向けアクティビティコーナーもあり、家族で北欧の夏を体験できます。",
-      "date": "6月中旬〜下旬",
-      "place": "ストックホルム市内各所（Skansen、Gröna Lundなど）",
-      "link": "https://www.stockholm.se/",
+      "title": "スキャンセン（Skansen）の夏のイベント・動物園体験",
+      "description": "北欧最古の野外博物館で、夏の特別プログラム。昔ながらのスウェーデン文化体験、動物との触れ合い、子ども向けワークショップが充実。家族連れに最適。",
+      "date": "7月上旬〜下旬",
+      "place": "Skansen, Djurgården, Stockholm",
+      "link": "https://www.skansen.se",
+      "free": false
+    },
+    {
+      "title": "ユーランダー島（Djurgården）のサイクリング・ピクニック",
+      "description": "ストックホルムの美しい島で自転車レンタルやピクニック。7月は気候が最高で、森と湖に囲まれた無料の屋外活動。子ども用自転車やベビーカーで家族全員楽しめます。",
+      "date": "7月通期",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.stockholm.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の夏季プログラム",
-      "description": "北欧の伝統家屋と動物園。6月は夏季特別プログラムで、動物への給餌体験や伝統工芸ワークショップが充実。子どもが北欧文化を学べます。",
-      "date": "6月上旬〜下旬",
-      "place": "Djurgården, Skansen, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "ヴァーサ博物館（Vasa Museum）の子ども向けツアー・プログラム",
+      "description": "17世紀の軍艦展示。夏期は子ども向けガイドツアーや体験プログラムあり。船への興味や歴史学習に最適。屋内で天候に左右されません。",
+      "date": "7月上旬〜下旬",
+      "place": "Galärvarvsvägen 14, Djurgården, Stockholm",
+      "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ユーランダーパーク公園での屋外活動",
-      "description": "ストックホルムの広大な公園。6月は天気も良く、遊び場、ピクニックエリア、湖での水遊びが最適。親子で自然を満喫できる無料スポット。",
-      "date": "6月上旬〜下旬",
-      "place": "Ekoparken (Royal National City Park), Stockholm",
-      "link": "https://www.stockholm.se/uppleva-stockholm/parker-och-natur/ekoparken/",
+      "title": "グローナ・ルンド遊園地（Gröna Lund）の夏営業",
+      "description": "スウェーデン最古の遊園地。夏は家族向けアトラクション満載。乳幼児から小学生まで楽しめるライドやエンターテイメントが豊富。7月は最高シーズン。",
+      "date": "7月上旬〜下旬",
+      "place": "Allmänna vägen 9, Djurgården, Stockholm",
+      "link": "https://www.gronalund.com",
+      "free": false
+    },
+    {
+      "title": "ストックホルム中央図書館（Stockholms stadsbibliotek）の夏イベント",
+      "description": "建築的に美しい図書館で、夏期は子ども向けストーリータイムやワークショップ開催。無料で楽しめ、快適な室内環境。スウェーデン文化の発信地。",
+      "date": "7月上旬〜下旬",
+      "place": "Sveavägen 73, Stockholm",
+      "link": "https://www.biblioteket.stockholm.se",
       "free": true
-    },
-    {
-      "title": "ストックホルム市立博物館の子ども向け展示",
-      "description": "市の歴史を学べる博物館。6月は夏休み前の子ども向けインタラクティブ展示やアクティビティが開催。家族で楽しめます。",
-      "date": "6月上旬〜下旬",
-      "place": "Stadsmuseet, Slottsbacken 6, 111 30 Stockholm",
-      "link": "https://www.stadsmuseet.stockholm.se/",
-      "free": false
-    },
-    {
-      "title": "グローナ・ルンド遊園地の夏季営業",
-      "description": "北欧最古の遊園地。6月は本格的に営業開始。子ども向けアトラクション、観覧車からの眺望、ライブミュージック。家族向けイベントも随時開催。",
-      "date": "6月上旬〜下旬",
-      "place": "Gröna Lund, Allmänna gränd 9, 102 48 Stockholm",
-      "link": "https://www.gronalund.com/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-29T02:04:11.813Z"
+  "updatedAt": "2026-07-02T01:57:17.294Z"
 }

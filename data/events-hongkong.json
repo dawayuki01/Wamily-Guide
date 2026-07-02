@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ドラゴンボートフェスティバル（端午節）",
-      "description": "香港の伝統的な祭りで、カラフルなドラゴンボートレースが開催されます。子どもも楽しめるパレードや屋台、伝統菓子の試食などが行われます。",
-      "date": "6月上旬（旧暦5月5日）",
-      "place": "ビクトリアハーバー周辺・タイムズスクエアハーバーサイド（湾仔）",
-      "link": "https://www.discoverhongkong.com/",
-      "free": true
-    },
-    {
-      "title": "香港サイエンス・ミュージアム特別展示プログラム",
-      "description": "夏休み向けの子ども向け特別展示やワークショップが開催されます。インタラクティブな科学展示で、乳幼児から小学生まで楽しめます。",
-      "date": "6月中旬〜下旬",
-      "place": "香港サイエンス・ミュージアム（尖沙咀、尖東 2 Salisbury Road）",
-      "link": "https://www.lcsd.gov.hk/en/hkpm/index.html",
+      "title": "香港サマーナイトカーニバル",
+      "description": "ビクトリアパークで開催される夏のカーニバル。キッズゲーム、乗り物、ステージ演技など家族向けイベント。屋台飲食も充実。",
+      "date": "7月中旬〜下旬（毎年開催）",
+      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
+      "link": "https://www.discoverhongkong.com",
       "free": false
     },
     {
-      "title": "スターフェリー乗車体験＆スターフェリー湾畔散策",
-      "description": "香港の象徴的な赤と白のスターフェリーに乗船。ビクトリアハーバーの景色を楽しめます。乗船後は湾畔の無料公園で涼しく過ごせます。",
-      "date": "6月通年",
-      "place": "スターフェリー乗り場（セントラル〜ワンチャイ、コーズウェイベイ）",
-      "link": "https://www.starferry.com.hk/",
+      "title": "Hong Kong Flower Show フローラルマーケット",
+      "description": "季節の花や植物が並ぶマーケット。無料で散策でき、カラフルな花々の写真撮影スポット。小さな子どもも楽しめます。",
+      "date": "7月上旬〜中旬（時期は変動）",
+      "place": "ビクトリアパーク または 香港公園（Hong Kong Park）",
+      "link": "https://www.lcsd.gov.hk",
       "free": true
     },
     {
-      "title": "香港ディズニーランド・サマープログラム",
-      "description": "夏休みシーズンの特別イベント。キャラクターグリーティング、季節限定ショー、涼しい屋内アトラクションで子どもが夏を楽しめます。",
-      "date": "6月下旬〜8月",
-      "place": "香港ディズニーランド（ランタオ島）",
-      "link": "https://www.hongkongdisneyland.com/",
+      "title": "香港ディズニーランド サマーキャンペーン",
+      "description": "毎年7月はサマースペシャルイベント開催。キャラクター限定グッズ、季節限定アトラクション、キッズ向けワークショップなど。",
+      "date": "7月全体",
+      "place": "香港ディズニーランド、ランタオ島",
+      "link": "https://www.hongkongdisneyland.com",
       "free": false
     },
     {
-      "title": "ビクトリア・ピーク・トラムウォーク＆庭園散策",
-      "description": "トラムで山頂へ。ピーク・ガーデンズの屋外庭園を散策できます。朝早い時間がおすすめで、子どもでも歩きやすいコース。無料エリア有。",
-      "date": "6月通年（早朝推奨）",
-      "place": "ビクトリア・ピーク（セントラルからトラムで約8分）",
-      "link": "https://www.thepeak.com.hk/",
+      "title": "スターフェリー乗船体験＆ビクトリアピーク散策",
+      "description": "アイコニックなスターフェリーで海上クルーズ（香港島⇔九龍）。その後ピークトラムでビクトリアピークへ。子どもに人気の屋外アクティビティ。",
+      "date": "7月通年可（天候による）",
+      "place": "スターフェリー乗り場（セントラル・ワンチャイ）、ビクトリアピーク",
+      "link": "https://www.starferry.com.hk",
+      "free": false
+    },
+    {
+      "title": "香港文化センター キッズ向けワークショップ",
+      "description": "夏休み期間に開催される子ども向けアート・音楽・演劇ワークショップ。無料または低額料金で参加可能なものもあります。",
+      "date": "7月上旬〜下旬",
+      "place": "香港文化センター（Hong Kong Cultural Centre）、尖沙咀（Tsim Sha Tsui）",
+      "link": "https://www.hkcc.org",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-29T02:05:12.398Z"
+  "updatedAt": "2026-07-02T01:58:14.885Z"
 }

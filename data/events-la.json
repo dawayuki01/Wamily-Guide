@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA Pride Festival",
-      "description": "6月のロサンゼルスを代表するイベント。パレード、ライブパフォーマンス、キッズゾーンなど家族向けのアクティビティも充実。虹色に染まった街を体験できます。",
-      "date": "6月中旬（毎年6月中旬開催）",
-      "place": "Santa Monica Boulevard & Surrounding Areas, West Hollywood, CA",
-      "link": "https://www.lapride.org/",
-      "free": true
-    },
-    {
-      "title": "Descanso Gardens - Butterfly Garden",
-      "description": "四季折々の花が楽しめる庭園。6月は蝶が多く飛び交い、子どもたちが自然観察できます。ピクニックエリアも完備で家族向け。",
-      "date": "6月通年（季節による変動あり）",
-      "place": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
-      "link": "https://www.descansogardens.org/",
+      "title": "ロサンゼルス郡立美術館（LACMA）のサマープログラム",
+      "description": "子ども向けのワークショップ、ファミリーデー、アートアクティビティなど夏休み期間限定のプログラムを開催。創造性を育む体験が充実しています。",
+      "date": "7月全期間",
+      "place": "ロサンゼルス郡立美術館、5905 Wilshire Boulevard, Los Angeles, CA 90036",
+      "link": "https://www.lacma.org",
       "free": false
     },
     {
-      "title": "Santa Monica Pier Summer Events & Beach Activities",
-      "description": "遊園地、アーケード、サーカル・サーカス公演など、ビーチでの屋外アクティビティが豊富。フリーハグデー、サンセット遊園地など季節イベント開催。",
-      "date": "6月通年（夏期プログラム開始）",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com/",
+      "title": "グリフィス天文台のプラネタリウム鑑賞",
+      "description": "夏の星空をテーマにした特別プラネタリウム上映。子ども向けプログラムもあり、宇宙について学べます。天文台自体の入館は無料、上映は有料。",
+      "date": "7月全期間",
+      "place": "グリフィス天文台、2800 East Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "LA Zoo Kids' Summer Programs",
-      "description": "LA Zoo では6月から夏期の特別教育プログラムを開始。動物とのふれあい、クイズラリー、特別ツアーなど子ども向けアクティビティが充実。",
-      "date": "6月初旬〜夏期間",
-      "place": "5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org/",
+      "title": "ビーチでのサーフレッスン体験",
+      "description": "ベニスビーチやハンティントンビーチでキッズ向けサーフィン教室を開催。夏休みの思い出に、海でのアクティビティを体験できます。",
+      "date": "7月全期間",
+      "place": "ベニスビーチ、Venice Beach, Los Angeles, CA 90291",
+      "link": "",
       "free": false
     },
     {
-      "title": "Griffith Observatory Outdoor Events",
-      "description": "無料の天文台施設。6月は夏至前後で日が長く、夕方のハイキングに最適。展望台からのロサンゼルス市街地の景色は圧巻。家族向けハイキングコース完備。",
-      "date": "6月通年（特に6月中旬〜下旬）",
-      "place": "2800 E Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
-      "free": true
+      "title": "ディズニーランド・リゾートのサマーキャンペーン",
+      "description": "7月はサマーイベント期間。子ども向けアトラクションの特別パレード、キャラクターグリーティングなど夏限定のエンターテイメントが満載です。",
+      "date": "7月全期間",
+      "place": "ディズニーランド・リゾート、1313 Disneyland Drive, Anaheim, CA 92802",
+      "link": "https://disneyland.disney.go.com",
+      "free": false
+    },
+    {
+      "title": "ロサンゼルス動物園のナイトズー",
+      "description": "夏期限定で夜間営業。涼しい時間帯に動物たちを観察でき、子どもたちにとって特別な体験。夜間営業による特別企画イベントも開催。",
+      "date": "7月中旬〜下旬の週末",
+      "place": "ロサンゼルス動物園、5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-29T02:04:46.734Z"
+  "updatedAt": "2026-07-02T01:57:51.983Z"
 }

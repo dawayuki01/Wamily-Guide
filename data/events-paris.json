@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris-Plage）",
-      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊びやビーチバレー、アクティビティを楽しめる夏の風物詩。無料で家族向けプログラムも充実。",
-      "date": "6月中旬〜9月上旬",
-      "place": "セーヌ川沿い（ポン・ドゥ・ラルマ〜イル・サン=ルイ周辺）",
-      "link": "https://www.paris.fr",
+      "title": "パリ・プラージュ（Paris Plages）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもたちが砂遊びや水遊びを楽しめる無料の夏イベント。ビーチバレーやヨガなどのプログラムも豊富です。",
+      "date": "7月中旬〜8月末",
+      "place": "セーヌ川沿い、ポンヌフ〜アルスナル地区",
+      "link": "https://www.paris.fr/pages/paris-plages-3882",
       "free": true
     },
     {
-      "title": "ジャルダン・デ・プランテ（植物園）の季節展示",
-      "description": "バラやクレマチス、夏花が見頃。子ども向けガイドツアーや探検ゲームで植物について学べる教育的な体験。",
-      "date": "6月上旬〜下旬",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.mnhn.fr/fr/jardin-des-plantes",
+      "title": "シテ科学産業博物館の子ども向け特別プログラム",
+      "description": "夏休み特別ワークショップやアニメーション。インタラクティブな科学体験が子どもたちを魅了。英語・フランス語ガイドあり。",
+      "date": "7月上旬〜下旬",
+      "place": "19区、Parc de la Villette内、30 avenue Corentin-Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園でのキッズアクティビティ",
-      "description": "ポニー乗馬、人形劇、子ども向けワークショップなど季節プログラムが充実。広大な芝生で自由に遊べる。無料エリア多数。",
-      "date": "6月全期間（毎日開催）",
-      "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.senat.fr/visite/index.html",
+      "title": "フォンテーヌブロー宮殿の子ども向けガイドツアー",
+      "description": "プリンセス・プリンス向けのテーマツアー。馬車見学、庭園散策など。パリから日帰り可能。家族向けアクティビティが充実。",
+      "date": "7月中旬〜下旬",
+      "place": "Fontainebleau, 77300, フランス南東部（パリから約60km）",
+      "link": "https://www.chateaudefontainebleau.fr",
+      "free": false
+    },
+    {
+      "title": "ルクセンブルク公園の無料コンサートと子ども向けイベント",
+      "description": "夏季に無料の屋外コンサート、子ども向けパペットショーなど開催。緑豊かな公園で家族向け娯楽が満載。",
+      "date": "7月中旬〜下旬",
+      "place": "6区、Rue Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardin",
       "free": true
     },
     {
-      "title": "ポンピドゥー・センター キッズワークショップ",
-      "description": "現代アート体験ワークショップ。6月は夏休み直前で子ども向けプログラムが豊富。家族で楽しむアート教室。",
-      "date": "6月全期間",
-      "place": "Place Georges-Pompidou, 75004 Paris",
-      "link": "https://www.centrepompidou.fr",
-      "free": false
-    },
-    {
-      "title": "セーヌ川クルーズ・ファミリーツアー",
-      "description": "子ども向けの解説付きクルーズで主要観光地をめぐる。船上からパリの街並みを鑑賞。乳幼児向けのバリアフリー対応船も。",
-      "date": "6月全期間（毎日運行）",
-      "place": "ポン・ドゥ・ラルマ桟橋ほか主要地点",
-      "link": "https://www.bateaux-mouches.fr",
-      "free": false
+      "title": "野外映画祭（シネマ・ア・ラ・ベル・エトワイル）",
+      "description": "セーヌ川沿いで行われる無料屋外映画上映。家族向け作品も多数。毛布を持ってピクニック気分で楽しめる。",
+      "date": "7月中旬〜8月上旬",
+      "place": "パリ各地（セーヌ川沿い）",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-29T02:04:04.128Z"
+  "updatedAt": "2026-07-02T01:57:09.525Z"
 }

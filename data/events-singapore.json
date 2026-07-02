@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ドラゴンボート・フェスティバル（端午節）",
-      "description": "シンガポール川でのドラゴンボートレース。カラフルなボートが競い合う迫力の光景が楽しめます。屋台やパフォーマンスも開催される家族向けイベント。",
-      "date": "6月初旬（旧暦5月5日前後）",
-      "place": "シンガポール川（Singapore River）沿岸、特にClark Quay周辺",
-      "link": "https://www.stb.gov.sg/",
+      "title": "Great Singapore Sale（グレート・シンガポール・セール）",
+      "description": "シンガポール最大のショッピング・セールイベント。子ども服やおもちゃ、教育用品など家族向け商品が大幅割引。各ショッピングモールで特別キャンペーンも開催されます。",
+      "date": "7月上旬〜下旬",
+      "place": "シンガポール全域各ショッピングモール",
+      "link": "https://www.visitsingapore.com/",
       "free": true
     },
     {
-      "title": "シンガポール動物園のサマーキャンプ・プログラム",
-      "description": "動物園の特別教育プログラム。子ども向けの動物ふれあい体験やワークショップが開催されます。乳幼児から小学生向けのコースあり。",
-      "date": "6月中旬〜下旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.wrs.com.sg/",
+      "title": "Singapore Science Centre – School Holiday Programmes",
+      "description": "シンガポール科学館の夏休み特別プログラム。子ども向けワークショップ、展示体験、実験教室が充実。対話型展示で科学への興味を引き出します。",
+      "date": "7月中旬〜下旬",
+      "place": "Science Centre Singapore, 15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg/",
       "free": false
     },
     {
-      "title": "セントーサ島での屋外水遊びフェスティバル",
-      "description": "セントーサ島のビーチやウォーターパークで開催される家族向けアクティビティ。水のアトラクションやビーチゲームが楽しめます。乳幼児向けプールもあり。",
-      "date": "6月中旬〜下旬",
-      "place": "Sentosa Island, Singapore（複数ビーチ・施設）",
-      "link": "https://www.sentosa.com.sg/",
+      "title": "East Coast Park – Summer Beach Activities",
+      "description": "シンガポール最大のビーチリゾート。海水浴、サイクリング、ウォータースポーツ無料体験コーナーなど。家族向けの広々とした砂浜で安全に楽しめます。",
+      "date": "7月全期間",
+      "place": "East Coast Park, East Coast Parkway, Singapore",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "Jurong Bird Park Summer Camp & Interactive Shows",
+      "description": "鳥類テーマパークの夏休み特別プログラム。バードショー、給餌体験、探索ツアーなど。子どもが動物との触れ合いを学びながら楽しめます。",
+      "date": "7月中旬〜下旬",
+      "place": "Jurong Bird Park, 2 Jurong Hill, Singapore 628925",
+      "link": "https://www.birdpark.sg/",
       "free": false
     },
     {
-      "title": "ガーデンズ・バイ・ザ・ベイの季節展示＆キッズ向けワークショップ",
-      "description": "世界的な庭園で開催される季節限定の展示。子ども向けの植物学習ワークショップや屋外探索プログラムが実施されています。",
-      "date": "6月通期",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg/",
-      "free": false
-    },
-    {
-      "title": "ナショナルデー準備フェアー＆無料ストリートフェスティバル",
-      "description": "8月のナショナルデーに向けた6月の準備フェア。シンガポールの文化・食・音楽を体験できる無料のコミュニティイベント。各地域で開催。",
-      "date": "6月下旬",
-      "place": "シンガポール各地域のコミュニティセンター・公園",
-      "link": "",
+      "title": "Singapore Botanic Gardens – Family Exploration",
+      "description": "ユネスコ世界遺産の広大な庭園。トレイルウォーク、教育プログラム、自然観察が無料で楽しめます。子どもが植物や自然について学べる屋外スポット。",
+      "date": "7月全期間",
+      "place": "Singapore Botanic Gardens, 1A Cluny Road, Singapore 259569",
+      "link": "https://www.sbg.org.sg/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-06-25T01:57:33.470Z"
+  "updatedAt": "2026-07-02T01:57:24.528Z"
 }
