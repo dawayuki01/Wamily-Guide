@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス郡立美術館（LACMA）のサマープログラム",
-      "description": "子ども向けのワークショップ、ファミリーデー、アートアクティビティなど夏休み期間限定のプログラムを開催。創造性を育む体験が充実しています。",
-      "date": "7月全期間",
-      "place": "ロサンゼルス郡立美術館、5905 Wilshire Boulevard, Los Angeles, CA 90036",
-      "link": "https://www.lacma.org",
+      "title": "LA County Fair（ロサンゼルス郡フェア）",
+      "description": "夏の大型フェア。乗り物、ゲーム、動物とのふれあい、ライブエンターテイメント、子ども向けアクティビティが充実。家族向けの定番イベント。",
+      "date": "7月中旬〜8月上旬（毎年開催）",
+      "place": "Fairplex, Pomona（ポモナ）",
+      "link": "https://www.lacountyfair.com",
       "free": false
     },
     {
-      "title": "グリフィス天文台のプラネタリウム鑑賞",
-      "description": "夏の星空をテーマにした特別プラネタリウム上映。子ども向けプログラムもあり、宇宙について学べます。天文台自体の入館は無料、上映は有料。",
-      "date": "7月全期間",
-      "place": "グリフィス天文台、2800 East Observatory Road, Los Angeles, CA 90027",
+      "title": "ハンティントン・ビーチ・サマーキャンプ&ビーチデイ",
+      "description": "太平洋沿岸でのビーチアクティビティ。遊泳、砂浜での遊び、波乗り教室など。7月は海水温が温かく、子どもの水遊びに最適な季節。",
+      "date": "7月上旬〜下旬",
+      "place": "Huntington Beach, Orange County（オレンジカウンティ）",
+      "link": "https://www.visitcalifornia.com",
+      "free": true
+    },
+    {
+      "title": "Griffith Observatory & Griffith Park 無料イベント",
+      "description": "天文台での夜間観測会や科学プログラム。広大な公園で散策、乗馬体験、ピクニックも。家族向けの教育的・屋外アクティビティ。",
+      "date": "7月毎週末（イベント随時開催）",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "ビーチでのサーフレッスン体験",
-      "description": "ベニスビーチやハンティントンビーチでキッズ向けサーフィン教室を開催。夏休みの思い出に、海でのアクティビティを体験できます。",
-      "date": "7月全期間",
-      "place": "ベニスビーチ、Venice Beach, Los Angeles, CA 90291",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "ディズニーランド・リゾートのサマーキャンペーン",
-      "description": "7月はサマーイベント期間。子ども向けアトラクションの特別パレード、キャラクターグリーティングなど夏限定のエンターテイメントが満載です。",
-      "date": "7月全期間",
-      "place": "ディズニーランド・リゾート、1313 Disneyland Drive, Anaheim, CA 92802",
-      "link": "https://disneyland.disney.go.com",
-      "free": false
-    },
-    {
-      "title": "ロサンゼルス動物園のナイトズー",
-      "description": "夏期限定で夜間営業。涼しい時間帯に動物たちを観察でき、子どもたちにとって特別な体験。夜間営業による特別企画イベントも開催。",
-      "date": "7月中旬〜下旬の週末",
-      "place": "ロサンゼルス動物園、5333 Zoo Drive, Los Angeles, CA 90027",
+      "title": "LA Zoo Summer Kids Program",
+      "description": "ロサンゼルス動物園の夏季子ども向けプログラム。特別な動物ワークショップ、飼育員との交流、探索ツアー。乳幼児から小学生まで対応。",
+      "date": "7月上旬〜下旬（毎日開催）",
+      "place": "LA Zoo, 5333 Zoo Drive, Los Angeles",
       "link": "https://www.lazoo.org",
       "free": false
+    },
+    {
+      "title": "Santa Monica Pier Summer Events & ビーチアクティビティ",
+      "description": "遊園地、ゲーム、ライブ音楽、食べ物屋台。ビーチでの遊泳やサンセット観賞。夏の定番観光地で家族向けエンターテイメント充実。",
+      "date": "7月上旬〜下旬（通年営業、夏期特別イベント）",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica",
+      "link": "https://www.santamonicapier.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-02T01:57:51.983Z"
+  "updatedAt": "2026-07-06T01:48:39.649Z"
 }

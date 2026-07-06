@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Festival（ホノルルフェスティバル）",
-      "description": "アジア太平洋文化交流イベント。パレード、ステージパフォーマンス、花火大会など家族向けプログラムが充実。子どもも楽しめる無料エリア多数。",
-      "date": "7月中旬（※2026年日程は要確認）",
-      "place": "ホノルル市内各地、カピオラニ公園周辺",
+      "title": "Honolulu Festival",
+      "description": "ハワイの文化を祝うフェスティバル。パレード、ステージパフォーマンス、花火などが行われ、子どもも楽しめるファミリー向けイベントです。",
+      "date": "7月中旬〜下旬（開催日は毎年異なる）",
+      "place": "ホノルル市内各地（カピオラニ公園など）、ホノルル、ハワイ州",
       "link": "https://www.honolulufestival.com",
       "free": true
     },
     {
-      "title": "ハワイ大学マノア校植物園のサマープログラム",
-      "description": "子ども向けの自然学習ワークショップ。ハイビスカス、プルメリアなど南国の花について学べます。年齢別クラスで安心。",
-      "date": "7月上旬〜下旬（毎週開催）",
-      "place": "ハワイ大学マノア校植物園、ホノルル",
-      "link": "https://www.manoa.hawaii.edu/botgarden",
-      "free": false
-    },
-    {
-      "title": "カイルアビーチでのシュノーケリング・ビーチデー",
-      "description": "ハワイ最高級のビーチで家族向けシュノーケリング体験。浅瀬で安全、透明度抜群。カメやカラフルな魚が観察できます。",
-      "date": "7月上旬〜下旬（毎日可能）",
-      "place": "カイルアビーチ、オアフ島東部",
-      "link": "https://www.oahugov.com",
+      "title": "Makapuu Lighthouse Trail Hiking",
+      "description": "片道約3.2kmの比較的簡単なハイキングコース。絶景の灯台と太平洋が見られ、子どもの体力に合わせペースを調整できます。",
+      "date": "7月全期間（早朝推奨）",
+      "place": "マカプウ岬、ラニカイ地区、オアフ島",
+      "link": "",
       "free": true
     },
     {
-      "title": "ホノルル動物園のサマーキャンプ＆ナイトツアー",
-      "description": "子ども向け昼間キャンプと夜間特別ツアー。普段見られない夜行動物の観察やガイドプログラムが充実。",
-      "date": "7月上旬〜下旬（毎週末開催）",
-      "place": "ホノルル動物園、ワイキキ",
+      "title": "Waikiki Shell Summer Concert Series",
+      "description": "ワイキキの野外音楽堂で開催される家族向けコンサート。無料のショーやキッズ向けの音楽イベントが充実しています。",
+      "date": "7月全期間（複数回開催）",
+      "place": "ワイキキシェル、ワイキキ、オアフ島",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "Honolulu Zoo Summer Programs",
+      "description": "ホノルル動物園による夏休み特別プログラム。動物との触れ合いや教育的なワークショップで、子どもの学習と楽しみが同時に叶います。",
+      "date": "7月全期間（定期開催）",
+      "place": "ホノルル動物園、カピオラニ公園、オアフ島",
       "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "プリンスセンター（ショッピングモール）キッズイベント",
-      "description": "エアコン完備で快適。夏限定の子ども向けワークショップ、クラフト体験、キャラクターグリーティングなど無料プログラムが多数。",
-      "date": "7月上旬〜下旬（随時開催）",
-      "place": "プリンスセンター、ワイキキ",
-      "link": "https://www.princecenterhi.com",
-      "free": true
+      "title": "Oahu Summer Camps & Beach Activities",
+      "description": "ハワイ各地のビーチで開催される子ども向けサマーキャンプ。シュノーケリング、サーフレッスン、ビーチゲームなど多彩なプログラムです。",
+      "date": "7月全期間",
+      "place": "ワイキキビーチ、ラニカイビーチなどオアフ島各地",
+      "link": "https://www.gohawaii.com",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-02T01:57:59.861Z"
+  "updatedAt": "2026-07-06T01:48:46.443Z"
 }

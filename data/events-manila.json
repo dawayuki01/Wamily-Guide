@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン独立記念日（Araw ng Kalayaan）関連イベント",
-      "description": "6月12日の前後に行われるパレード、コンサート、花火など。街中が装飾され、子ども向けのスポーツ大会やコミュニティ催事が多数開催される時期です。",
-      "date": "7月上旬～中旬（関連イベント継続）",
-      "place": "リサール公園（Rizal Park）、ルネタ公園周辺、マニラ市内各地",
+      "title": "フィリピン・アメリカ友好記念日（Philippine-American Friendship Day）",
+      "description": "7月4日を中心に、マニラ各地で米国独立記念日とフィリピン・アメリカの友好を祝うイベントが開催されます。パレード、コンサート、文化交流が家族向けに楽しめます。",
+      "date": "7月1日〜7月7日",
+      "place": "リサール公園（Rizal Park）、マニラ市内各地",
       "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "アクアリウムとキッズプログラム（Manila Ocean Park）",
-      "description": "東南アジア最大級の水族館。乳幼児向けの触れ合い体験エリア、シアターショー、4Dシネマなど季節ごとの特別プログラムが豊富。",
-      "date": "7月通年営業（特別プログラムあり）",
-      "place": "Manila Ocean Park, Rizal Park, Manila",
-      "link": "https://www.manilaoceanpark.com/",
+      "title": "スター・シティ（Star City）の夏休み特別イベント",
+      "description": "フィリピン最大級のテーマパークが夏休み期間に特別プログラムを実施。キッズ向けアトラクション、ショー、ゲーム大会などが開催され、子ども連れに最適です。",
+      "date": "7月全期間",
+      "place": "Star City, Pasay City, Metro Manila",
+      "link": "https://www.star-city.com.ph/",
       "free": false
     },
     {
-      "title": "国立博物館子ども向け展示・ワークショップ",
-      "description": "フィリピンの歴史と文化を学べる国立博物館。夏休み期間中は子ども向けのワークショップ、ガイドツアーが開催されます。",
-      "date": "7月全般（夏休みプログラム）",
-      "place": "National Museum Complex, Agrifina Circle, Rizal Park, Manila",
+      "title": "マニラ湾でのフィッシング・ツアーと水上アクティビティ",
+      "description": "マニラ湾沿いで子ども向けの釣り体験、ボート乗船、ビーチアクティビティが楽しめます。7月は季節柄、夕焼けスポットとしても人気で、家族でのんびり過ごせます。",
+      "date": "7月全期間",
+      "place": "マニラ湾（Manila Bay）沿い、Baywalk, Pasay City",
+      "link": "https://www.tourism.gov.ph/",
+      "free": false
+    },
+    {
+      "title": "フィリピン国立博物館（National Museum）の子ども向け特別展示",
+      "description": "自然史、美術、人類学をテーマにした展示が充実。7月は家族向けワークショップやガイドツアーが開催され、子どもの学習に最適な環境が整っています。",
+      "date": "7月全期間",
+      "place": "National Museum Complex, Rizal Park, Manila",
       "link": "https://www.nationalmuseum.gov.ph/",
       "free": true
     },
     {
-      "title": "トラゴ・マーケット（Trazo Market）での屋外体験",
-      "description": "マニラの昔ながらの市場で、地元の野菜や果物、手工芸品を見学。朝早い時間が家族向け。フィリピンの日常文化を体験できます。",
-      "date": "7月通年（朝6時～11時頃）",
-      "place": "Trazo Market, San Juan, Metro Manila",
-      "link": "",
+      "title": "チルドレンズ・ライブラリー＆ラーニング・センター（Children's Library & Learning Center）",
+      "description": "マニラの図書館施設で、夏休み特別プログラムとして読み聞かせ、工作教室、デジタルラーニングが無料で楽しめます。クーラーの効いた室内で安心して遊べます。",
+      "date": "7月全期間（火〜日曜日）",
+      "place": "Quezon City Library, Quezon City",
+      "link": "https://www.qclibrary.gov.ph/",
       "free": true
-    },
-    {
-      "title": "Star City遊園地の夏季イベント",
-      "description": "フィリピン最大級の遊園地。7月は夏休み特別イベント、キッズ向けアトラクション割引キャンペーン、ライブエンターテイメントが開催されます。",
-      "date": "7月全般",
-      "place": "Star City, Barangay Sta. Monica, Pasay City",
-      "link": "https://www.starcity.com.ph/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-02T01:57:44.239Z"
+  "updatedAt": "2026-07-06T01:48:31.795Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "アサラハ・ブーチャ（仏教の重要な祝日）",
-      "description": "仏教徒にとって重要な祝日。バンコク市内の寺院では法要が行われ、家族で参拝できます。夜間にはロウソク行列などの儀式も見学可能。子どもも仏教文化を学べます。",
-      "date": "7月中旬（満月の日）",
-      "place": "バンコク市内各寺院（ワット・ポー、ワット・ベンチャマボピットなど）",
-      "link": "https://www.tourismthailand.org",
+      "title": "アーサラハブーチャ（仏教の重要な祭日）",
+      "description": "三宝節として知られ、寺院での儀式や提灯行列が行われます。子どもたちが僧侶へ食事を供する体験ができ、タイ文化を学べます。",
+      "date": "7月下旬（旧暦6月15日）",
+      "place": "バンコク全域の寺院、特にワットポー、ワットプラケオ",
+      "link": "https://www.tourismthailand.org/",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館の特別展示",
-      "description": "タイ最大級の水族館。7月はサマープログラムで子ども向けワークショップや海洋生物の教育プログラムが充実。乳幼児向けの体験コーナーも完備。",
-      "date": "7月通期",
-      "place": "Siam Paragon, Rama 1 Rd, Wangmai, Pathumwan, Bangkok 10330",
-      "link": "https://www.siamparagon.com/en/attractions/sea-life-bangkok-ocean-world",
+      "title": "サイアム・パラゴン水族館サマープログラム",
+      "description": "夏季の子ども向け特別プログラムで、海洋生物について学べるワークショップやタッチプールが用意されます。屋内で快適に過ごせます。",
+      "date": "7月全月",
+      "place": "Siam Paragon, 991 Rama I Road, Pathumwan, Bangkok",
+      "link": "https://www.siamparagon.co.th/",
       "free": false
     },
     {
-      "title": "ルンピニ公園での朝のジョギング・散策",
-      "description": "バンコク最大の公園。7月早朝は気温が低めで家族散策に最適。水遊び広場（季節営業）で子どもが水浴びでき、無料で楽しめます。池ではトカゲや鳥も観察できます。",
-      "date": "7月通期（早朝推奨）",
-      "place": "Lumphini Park, Rama IV Rd, Lumphini, Pathum Wan, Bangkok 10330",
-      "link": "https://www.bangkok.go.th",
+      "title": "ルンピニ公園での朝のエクササイズと自然散策",
+      "description": "早朝のルンピニ公園は地元家族で賑わい、太極拳や散歩を無料で楽しめます。池での野鳥観察や広場での運動ができ、朝涼しい時間帯が最適です。",
+      "date": "7月全月（毎日早朝5:00-7:00）",
+      "place": "Lumphini Park, Rama IV Road, Pathum Wan, Bangkok",
+      "link": "https://www.bangkok.go.th/",
       "free": true
     },
     {
-      "title": "キッザニア・バンコクの夏特別プログラム",
-      "description": "子ども向けの職業体験施設。7月は英語プログラムやSTEM教育ワークショップが拡充。乳幼児向けエリアもあり、親子で1日楽しめます。",
-      "date": "7月通期",
-      "place": "Siam Square, 1965 Rama I Rd, Wangmai, Pathumwan, Bangkok 10330",
-      "link": "https://www.kidzania.com/th/en",
+      "title": "チャオプラヤー川クルーズと水上マーケット体験",
+      "description": "雨季の川の風情を楽しむクルーズ。アンパワー水上マーケットでは朝市を体験でき、地元の食べ物や工芸品を見学できます。屋外の水上文化を家族で楽しめます。",
+      "date": "7月全月",
+      "place": "Amphawa Floating Market, Samut Songkhram Province（バンコクから1時間半）",
+      "link": "https://www.tourismthailand.org/",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケットでの買い物体験",
-      "description": "世界最大級の市場。7月は子ども向けの新作おもちゃや衣料が豊富。地元家族が集まり、フードコート（子ども向け食事充実）での食事も楽しめます。日中は暑いため早朝訪問推奨。",
-      "date": "7月の土日（土曜・日曜）",
-      "place": "Chatuchak Park, Phahon Yothin Rd, Chatuchak, Bangkok 10900",
-      "link": "https://www.chatuchakmarket.com",
-      "free": true
+      "title": "キッザニア・バンコク特別夏季プログラム",
+      "description": "職業体験施設での夏季限定プログラム。子どもたちが様々な職業を体験でき、室内で一日楽しめます。乳幼児向けエリアもあります。",
+      "date": "7月全月",
+      "place": "EmQuartier Tower B, 42nd-43rd Fl., 689 Sukhumvit Road, Bangkok",
+      "link": "https://www.kidzania.co.th/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-02T01:57:36.123Z"
+  "updatedAt": "2026-07-06T01:48:23.424Z"
 }

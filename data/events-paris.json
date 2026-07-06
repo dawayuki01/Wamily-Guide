@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plages）",
-      "description": "セーヌ川沿いに砂浜が出現。子どもたちが砂遊びや水遊びを楽しめる無料の夏イベント。ビーチバレーやヨガなどのプログラムも豊富です。",
-      "date": "7月中旬〜8月末",
-      "place": "セーヌ川沿い、ポンヌフ〜アルスナル地区",
-      "link": "https://www.paris.fr/pages/paris-plages-3882",
+      "title": "パリ・プラージュ（Paris-Plage）",
+      "description": "セーヌ川沿いに砂浜とビーチが出現。子どもが水遊びできるエリア、deckchairsでの休憩、ミニ映画館など家族向けの無料アクティビティが豊富。",
+      "date": "7月中旬〜8月下旬",
+      "place": "セーヌ川右岸（Berges de Seine） Pont de l'Alma周辺",
+      "link": "https://www.paris.fr/pages/paris-plage-2024-4999",
       "free": true
     },
     {
-      "title": "シテ科学産業博物館の子ども向け特別プログラム",
-      "description": "夏休み特別ワークショップやアニメーション。インタラクティブな科学体験が子どもたちを魅了。英語・フランス語ガイドあり。",
-      "date": "7月上旬〜下旬",
-      "place": "19区、Parc de la Villette内、30 avenue Corentin-Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
+      "title": "ルーヴル美術館・キッズプログラム",
+      "description": "夏休みシーズンは子ども向けワークショップ・ガイドツアーが充実。美術館内での謎解きアクティビティなど、子どもが楽しみながら美術を学べるプログラム。",
+      "date": "7月上旬〜8月下旬",
+      "place": "ルーヴル美術館、Rue de Rivoli, 75004 Paris",
+      "link": "https://www.louvre.fr/",
       "free": false
     },
     {
-      "title": "フォンテーヌブロー宮殿の子ども向けガイドツアー",
-      "description": "プリンセス・プリンス向けのテーマツアー。馬車見学、庭園散策など。パリから日帰り可能。家族向けアクティビティが充実。",
+      "title": "ジャルダン・デ・プランテス（植物園）の野外コンサート・イベント",
+      "description": "美しい季節の花園での無料野外コンサート、家族向けシアター、ピクニック。自然の中で音楽を楽しむ最高の環境。子ども向けプログラムも開催。",
       "date": "7月中旬〜下旬",
-      "place": "Fontainebleau, 77300, フランス南東部（パリから約60km）",
-      "link": "https://www.chateaudefontainebleau.fr",
+      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
+      "link": "https://www.mnhn.fr/fr/jardin-des-plantes",
+      "free": true
+    },
+    {
+      "title": "ディズニーランド・パリ（Disneyland Paris）夏季スペシャルイベント",
+      "description": "7月の夏休みシーズンは延長営業、花火、パレード、キャラクターグリーティングなど家族向けのエンターテイメントが最充実。小さな子どもも楽しめる。",
+      "date": "7月全期間",
+      "place": "Disneyland Paris, Marne-la-Vallée, 77700",
+      "link": "https://www.disneylandparis.com/",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園の無料コンサートと子ども向けイベント",
-      "description": "夏季に無料の屋外コンサート、子ども向けパペットショーなど開催。緑豊かな公園で家族向け娯楽が満載。",
-      "date": "7月中旬〜下旬",
-      "place": "6区、Rue Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardin",
-      "free": true
-    },
-    {
-      "title": "野外映画祭（シネマ・ア・ラ・ベル・エトワイル）",
-      "description": "セーヌ川沿いで行われる無料屋外映画上映。家族向け作品も多数。毛布を持ってピクニック気分で楽しめる。",
-      "date": "7月中旬〜8月上旬",
-      "place": "パリ各地（セーヌ川沿い）",
-      "link": "",
-      "free": true
+      "title": "シテ科学館（Cité des Sciences）の子ども向け展示・ワークショップ",
+      "description": "夏の特別展示や子ども実験ワークショップが充実。プラネタリウム、インタラクティブ展示など、様々な年齢層の子どもが楽しめる科学施設。",
+      "date": "7月全期間",
+      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-02T01:57:09.525Z"
+  "updatedAt": "2026-07-06T01:47:57.511Z"
 }

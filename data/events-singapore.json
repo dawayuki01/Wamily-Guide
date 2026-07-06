@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Great Singapore Sale（グレート・シンガポール・セール）",
-      "description": "シンガポール最大のショッピング・セールイベント。子ども服やおもちゃ、教育用品など家族向け商品が大幅割引。各ショッピングモールで特別キャンペーンも開催されます。",
+      "description": "シンガポール最大級のセール。子ども向け衣類やおもちゃ、家族用品が大幅割引。主要ショッピングモールで開催され、家族向けアクティビティも同時実施。",
       "date": "7月上旬〜下旬",
-      "place": "シンガポール全域各ショッピングモール",
-      "link": "https://www.visitsingapore.com/",
-      "free": true
+      "place": "シンガポール全域の主要ショッピングモール（オーチャード地区など）",
+      "link": "https://www.visitsingapore.com/festivals-events-singapore/great-singapore-sale/",
+      "free": false
     },
     {
-      "title": "Singapore Science Centre – School Holiday Programmes",
-      "description": "シンガポール科学館の夏休み特別プログラム。子ども向けワークショップ、展示体験、実験教室が充実。対話型展示で科学への興味を引き出します。",
+      "title": "Singapore Science Centre サマーキャンプ・特別展示",
+      "description": "シンガポール科学館の夏季特別プログラム。子ども向けサイエンスワークショップ、インタラクティブ展示、OMNI映画館など。乳幼児向けスペースもあり。",
       "date": "7月中旬〜下旬",
-      "place": "Science Centre Singapore, 15 Science Centre Road, Singapore 609081",
+      "place": "15 Science Centre Road, Singapore 609081",
       "link": "https://www.science.edu.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park – Summer Beach Activities",
-      "description": "シンガポール最大のビーチリゾート。海水浴、サイクリング、ウォータースポーツ無料体験コーナーなど。家族向けの広々とした砂浜で安全に楽しめます。",
-      "date": "7月全期間",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
+      "title": "East Coast Park でのビーチアクティビティ・水遊び",
+      "description": "シンガポール最大のビーチパーク。7月は学校休暇期間で家族連れが多数訪問。海遊び、砂浜遊び、サイクリングなど無料で楽しめる屋外アクティビティの宝庫。",
+      "date": "7月全体",
+      "place": "East Coast Park, 1200 East Coast Parkway, Singapore 449855",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Jurong Bird Park Summer Camp & Interactive Shows",
-      "description": "鳥類テーマパークの夏休み特別プログラム。バードショー、給餌体験、探索ツアーなど。子どもが動物との触れ合いを学びながら楽しめます。",
-      "date": "7月中旬〜下旬",
-      "place": "Jurong Bird Park, 2 Jurong Hill, Singapore 628925",
-      "link": "https://www.birdpark.sg/",
+      "title": "National Museum Singapore 子ども向け特別ツアー・展示",
+      "description": "シンガポール国立博物館の夏季家族向けプログラム。インタラクティブな展示室、子ども向けガイドツアー、ワークショップで歴史や文化を学べる。",
+      "date": "7月上旬〜下旬",
+      "place": "93 Stamford Road, Singapore 178897",
+      "link": "https://www.nationalmuseum.sg/",
       "free": false
     },
     {
-      "title": "Singapore Botanic Gardens – Family Exploration",
-      "description": "ユネスコ世界遺産の広大な庭園。トレイルウォーク、教育プログラム、自然観察が無料で楽しめます。子どもが植物や自然について学べる屋外スポット。",
-      "date": "7月全期間",
-      "place": "Singapore Botanic Gardens, 1A Cluny Road, Singapore 259569",
-      "link": "https://www.sbg.org.sg/",
-      "free": true
+      "title": "Gardens by the Bay のLumi展示・涼しい屋内体験",
+      "description": "シンガポールの大型公園。Flower Dome、Cloud Forestなど屋内庭園で涼しく過ごせる。七色に光るスーパーツリーの夜間ライトショーは子ども向け。屋外エリアも広大で自然散策可能。",
+      "date": "7月全体",
+      "place": "18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-02T01:57:24.528Z"
+  "updatedAt": "2026-07-06T01:48:13.980Z"
 }

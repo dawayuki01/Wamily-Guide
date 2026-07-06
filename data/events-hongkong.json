@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港サマーナイトカーニバル",
-      "description": "ビクトリアパークで開催される夏のカーニバル。キッズゲーム、乗り物、ステージ演技など家族向けイベント。屋台飲食も充実。",
-      "date": "7月中旬〜下旬（毎年開催）",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
+      "title": "香港サマーナイトカーニバル（Hong Kong Summer Night Carnival）",
+      "description": "中環の公園で開催される夏の屋外カーニバル。遊園地アトラクション、フードコート、ライブパフォーマンスなど家族向けエンターテインメントが充実。乳幼児向けエリアもあります。",
+      "date": "7月上旬〜8月下旬",
+      "place": "Central Harbourfront Event Space, Pier 7, Central, Hong Kong",
       "link": "https://www.discoverhongkong.com",
       "free": false
     },
     {
-      "title": "Hong Kong Flower Show フローラルマーケット",
-      "description": "季節の花や植物が並ぶマーケット。無料で散策でき、カラフルな花々の写真撮影スポット。小さな子どもも楽しめます。",
-      "date": "7月上旬〜中旬（時期は変動）",
-      "place": "ビクトリアパーク または 香港公園（Hong Kong Park）",
+      "title": "ビクトリア公園 夏休みキッズプログラム",
+      "description": "無料の夏休み特別プログラム。屋外での科学実験、工作ワークショップ、スポーツ教室など。事前予約で参加可能。乳幼児向けの午前セッションもあります。",
+      "date": "7月中旬〜8月下旬",
+      "place": "Victoria Park, Causeway Bay, Hong Kong",
       "link": "https://www.lcsd.gov.hk",
       "free": true
     },
     {
-      "title": "香港ディズニーランド サマーキャンペーン",
-      "description": "毎年7月はサマースペシャルイベント開催。キャラクター限定グッズ、季節限定アトラクション、キッズ向けワークショップなど。",
-      "date": "7月全体",
-      "place": "香港ディズニーランド、ランタオ島",
-      "link": "https://www.hongkongdisneyland.com",
-      "free": false
-    },
-    {
-      "title": "スターフェリー乗船体験＆ビクトリアピーク散策",
-      "description": "アイコニックなスターフェリーで海上クルーズ（香港島⇔九龍）。その後ピークトラムでビクトリアピークへ。子どもに人気の屋外アクティビティ。",
-      "date": "7月通年可（天候による）",
-      "place": "スターフェリー乗り場（セントラル・ワンチャイ）、ビクトリアピーク",
+      "title": "スターフェリー乗船ツアー＆スターハーバー遊園地",
+      "description": "ビクトリアハーバーを船で渡る体験。ハーバーの絶景を楽しめます。その後、近隣のテーマパーク（ディズニーランド、オーシャンパークなど）と組み合わせるのに最適。",
+      "date": "7月通年対応",
+      "place": "Star Ferry Pier, Central Waterfront, Hong Kong",
       "link": "https://www.starferry.com.hk",
       "free": false
     },
     {
-      "title": "香港文化センター キッズ向けワークショップ",
-      "description": "夏休み期間に開催される子ども向けアート・音楽・演劇ワークショップ。無料または低額料金で参加可能なものもあります。",
-      "date": "7月上旬〜下旬",
-      "place": "香港文化センター（Hong Kong Cultural Centre）、尖沙咀（Tsim Sha Tsui）",
+      "title": "香港文化センター キッズアート展＆夏休みワークショップ",
+      "description": "世界的アーティストによる子ども向けアート展。ペイント、陶芸、デジタルアートなどの無料体験ワークショップ。毎週末開催。",
+      "date": "7月上旬〜8月下旬",
+      "place": "Hong Kong Cultural Centre, 10 Salisbury Road, Tsim Sha Tsui",
       "link": "https://www.hkcc.org",
       "free": true
+    },
+    {
+      "title": "オーシャンパーク サマーフェスティバル＆ナイトゲーム",
+      "description": "香港最大のテーマパークで開催される夏限定イベント。子ども向けアトラクション、シーライオンショー、涼しい夜間営業など。季節パッケージチケット割引あり。",
+      "date": "7月中旬〜8月下旬",
+      "place": "Ocean Park, Wong Chuk Hang, Hong Kong",
+      "link": "https://www.oceanpark.com.hk",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-02T01:58:14.885Z"
+  "updatedAt": "2026-07-06T01:49:07.580Z"
 }
