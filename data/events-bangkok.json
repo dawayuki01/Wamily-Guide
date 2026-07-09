@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "アーサラハブーチャ（仏教の重要な祭日）",
-      "description": "三宝節として知られ、寺院での儀式や提灯行列が行われます。子どもたちが僧侶へ食事を供する体験ができ、タイ文化を学べます。",
-      "date": "7月下旬（旧暦6月15日）",
-      "place": "バンコク全域の寺院、特にワットポー、ワットプラケオ",
-      "link": "https://www.tourismthailand.org/",
+      "title": "アサラハブーチャ（三宝節）",
+      "description": "仏教の重要な祭日。寺院での儀式や行列、ろうそく行進に参加できます。子どもも参加可能で、タイ文化を学ぶ貴重な機会です。",
+      "date": "7月中旬（陰暦8月15日）",
+      "place": "バンコク市内各寺院（ワットポー、エメラルド寺院など）",
+      "link": "https://www.tourismthailand.org",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館サマープログラム",
-      "description": "夏季の子ども向け特別プログラムで、海洋生物について学べるワークショップやタッチプールが用意されます。屋内で快適に過ごせます。",
-      "date": "7月全月",
-      "place": "Siam Paragon, 991 Rama I Road, Pathumwan, Bangkok",
-      "link": "https://www.siamparagon.co.th/",
+      "title": "シャム・スクエア・サマーフェスティバル",
+      "description": "ショッピングモール内で開催される家族向けイベント。キッズプログラム、ワークショップ、屋内遊戯施設など子ども向けアクティビティが充実しています。",
+      "date": "7月上旬〜下旬",
+      "place": "シャム・スクエア（Siam Square）、または大型モール内",
+      "link": "",
       "free": false
     },
     {
-      "title": "ルンピニ公園での朝のエクササイズと自然散策",
-      "description": "早朝のルンピニ公園は地元家族で賑わい、太極拳や散歩を無料で楽しめます。池での野鳥観察や広場での運動ができ、朝涼しい時間帯が最適です。",
-      "date": "7月全月（毎日早朝5:00-7:00）",
-      "place": "Lumphini Park, Rama IV Road, Pathum Wan, Bangkok",
-      "link": "https://www.bangkok.go.th/",
+      "title": "ルンピニ公園でのアウトドア体験",
+      "description": "バンコク最大級の公園。早朝は気温が低く、レンタル自転車や遊具で遊べます。朝散策や自然観察は家族に最適です。",
+      "date": "7月中旬以降（雨季の晴れ日を狙う）",
+      "place": "ルンピニ公園（Lumphini Park）、ラマ4世通り",
+      "link": "https://www.bangkokparks.com",
       "free": true
     },
     {
-      "title": "チャオプラヤー川クルーズと水上マーケット体験",
-      "description": "雨季の川の風情を楽しむクルーズ。アンパワー水上マーケットでは朝市を体験でき、地元の食べ物や工芸品を見学できます。屋外の水上文化を家族で楽しめます。",
-      "date": "7月全月",
-      "place": "Amphawa Floating Market, Samut Songkhram Province（バンコクから1時間半）",
-      "link": "https://www.tourismthailand.org/",
+      "title": "サイアム・オーシャン・ワールドのサマープログラム",
+      "description": "バンコク最大の水族館。夏季の特別教育プログラムや、タッチプールで海の生き物と触れ合えます。涼しい屋内施設です。",
+      "date": "7月通年（期間限定プログラムあり）",
+      "place": "サイアム・オーシャン・ワールド、パラゴン・シャム内",
+      "link": "https://www.siamoceanworld.com",
       "free": false
     },
     {
-      "title": "キッザニア・バンコク特別夏季プログラム",
-      "description": "職業体験施設での夏季限定プログラム。子どもたちが様々な職業を体験でき、室内で一日楽しめます。乳幼児向けエリアもあります。",
-      "date": "7月全月",
-      "place": "EmQuartier Tower B, 42nd-43rd Fl., 689 Sukhumvit Road, Bangkok",
-      "link": "https://www.kidzania.co.th/",
-      "free": false
+      "title": "チャットチャック・ウィークエンド・マーケット（雨季版）",
+      "description": "世界最大級の週末市場。屋根付きセクションが充実し、子ども用雑貨やおもちゃ、スイーツが豊富。迷路のような楽しさが子どもに人気です。",
+      "date": "7月毎週末（土日）",
+      "place": "チャットチャック・ウィークエンド・マーケット",
+      "link": "https://www.chatuchakmarket.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-06T01:48:23.424Z"
+  "updatedAt": "2026-07-09T01:26:47.896Z"
 }

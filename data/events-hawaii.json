@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Festival",
-      "description": "ハワイの文化を祝うフェスティバル。パレード、ステージパフォーマンス、花火などが行われ、子どもも楽しめるファミリー向けイベントです。",
-      "date": "7月中旬〜下旬（開催日は毎年異なる）",
-      "place": "ホノルル市内各地（カピオラニ公園など）、ホノルル、ハワイ州",
+      "title": "ホノルル・フェスティバル・オブ・ザ・アーツ",
+      "description": "ハワイ文化と国際芸術を融合させた大規模フェスティバル。ステージパフォーマンス、ワークショップ、キッズアクティビティが充実。家族向けプログラムが豊富です。",
+      "date": "7月中旬",
+      "place": "ワイキキ周辺各会場",
       "link": "https://www.honolulufestival.com",
       "free": true
     },
     {
-      "title": "Makapuu Lighthouse Trail Hiking",
-      "description": "片道約3.2kmの比較的簡単なハイキングコース。絶景の灯台と太平洋が見られ、子どもの体力に合わせペースを調整できます。",
-      "date": "7月全期間（早朝推奨）",
-      "place": "マカプウ岬、ラニカイ地区、オアフ島",
-      "link": "",
-      "free": true
+      "title": "パナリ・ビーチ・スノーケリング体験",
+      "description": "オアフ島沖のパナリオ島でのガイド付きスノーケリングツアー。ウミガメやトロピカルフィッシュが見られ、子ども向けプログラムも用意されています。",
+      "date": "7月中旬〜下旬",
+      "place": "ワイキキビーチ発着",
+      "link": "https://www.go-oahu.jp/tour-packages/snorkel",
+      "free": false
     },
     {
-      "title": "Waikiki Shell Summer Concert Series",
-      "description": "ワイキキの野外音楽堂で開催される家族向けコンサート。無料のショーやキッズ向けの音楽イベントが充実しています。",
-      "date": "7月全期間（複数回開催）",
-      "place": "ワイキキシェル、ワイキキ、オアフ島",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "Honolulu Zoo Summer Programs",
-      "description": "ホノルル動物園による夏休み特別プログラム。動物との触れ合いや教育的なワークショップで、子どもの学習と楽しみが同時に叶います。",
-      "date": "7月全期間（定期開催）",
-      "place": "ホノルル動物園、カピオラニ公園、オアフ島",
+      "title": "ホノルル動物園のサマープログラム",
+      "description": "動物の給餌体験やキーパー解説など夏限定プログラムが実施されます。爬虫類館や子ども動物園は乳幼児に人気。涼しい朝の訪問がおすすめ。",
+      "date": "7月通期",
+      "place": "ワイキキ公園内、オアフ島",
       "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "Oahu Summer Camps & Beach Activities",
-      "description": "ハワイ各地のビーチで開催される子ども向けサマーキャンプ。シュノーケリング、サーフレッスン、ビーチゲームなど多彩なプログラムです。",
-      "date": "7月全期間",
-      "place": "ワイキキビーチ、ラニカイビーチなどオアフ島各地",
-      "link": "https://www.gohawaii.com",
+      "title": "KCC ファーマーズマーケット（ウェンズデー・アット・ケアラ）",
+      "description": "毎週水曜朝開催の地元農産物・工芸品市場。無料入場で新鮮なフルーツやハワイアンフードが購入でき、ファミリーに人気の朝市体験ができます。",
+      "date": "7月毎週水曜",
+      "place": "カピオラニ・コミュニティ・カレッジ、ホノルル",
+      "link": "https://www.honolulufarmersmarket.com",
+      "free": true
+    },
+    {
+      "title": "アロハ・スタジアム・スワップ・ミート",
+      "description": "毎週水曜・土曜・日曜開催の大規模フリマ。ハワイアンクラフトやおもちゃ、ローカルアート作品が揃い、子連れ家族の掘り出し物探しに最適です。",
+      "date": "7月通期（水・土・日）",
+      "place": "アロハ・スタジアム、ホノルル",
+      "link": "https://www.alohastadiumswapeet.net",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-06T01:48:46.443Z"
+  "updatedAt": "2026-07-09T01:27:11.411Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris-Plage）",
-      "description": "セーヌ川沿いに砂浜とビーチが出現。子どもが水遊びできるエリア、deckchairsでの休憩、ミニ映画館など家族向けの無料アクティビティが豊富。",
+      "title": "Paris Plages（パリ・プラージュ）",
+      "description": "セーヌ川沿いに砂浜やビーチが出現。子ども向けの水遊び、砂遊び、無料のアクティビティが充実。家族で気軽に楽しめます。",
       "date": "7月中旬〜8月下旬",
-      "place": "セーヌ川右岸（Berges de Seine） Pont de l'Alma周辺",
-      "link": "https://www.paris.fr/pages/paris-plage-2024-4999",
+      "place": "セーヌ川沿い（Pont de l'Alma〜Pont Marie周辺）",
+      "link": "https://www.paris.fr/pages/paris-plages-12",
       "free": true
     },
     {
-      "title": "ルーヴル美術館・キッズプログラム",
-      "description": "夏休みシーズンは子ども向けワークショップ・ガイドツアーが充実。美術館内での謎解きアクティビティなど、子どもが楽しみながら美術を学べるプログラム。",
+      "title": "ルーヴル美術館 キッズプログラム",
+      "description": "夏休み期間の子ども向け特別ツアーやワークショップ。美術館を楽しく学べるプログラムで、乳幼児〜小学生向けが充実しています。",
       "date": "7月上旬〜8月下旬",
-      "place": "ルーヴル美術館、Rue de Rivoli, 75004 Paris",
-      "link": "https://www.louvre.fr/",
+      "place": "ルーヴル美術館、75001 Paris",
+      "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "ジャルダン・デ・プランテス（植物園）の野外コンサート・イベント",
-      "description": "美しい季節の花園での無料野外コンサート、家族向けシアター、ピクニック。自然の中で音楽を楽しむ最高の環境。子ども向けプログラムも開催。",
+      "title": "シャンゼリゼ大通りの野外映画祭",
+      "description": "7月にシャンゼリゼ大通りで開催される野外映画上映会。ファミリー向け作品も上映。雰囲気の中での映画鑑賞は子どもも大喜び。",
       "date": "7月中旬〜下旬",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.mnhn.fr/fr/jardin-des-plantes",
+      "place": "シャンゼリゼ大通り（Avenue des Champs-Élysées）, 75008 Paris",
+      "link": "",
       "free": true
     },
     {
-      "title": "ディズニーランド・パリ（Disneyland Paris）夏季スペシャルイベント",
-      "description": "7月の夏休みシーズンは延長営業、花火、パレード、キャラクターグリーティングなど家族向けのエンターテイメントが最充実。小さな子どもも楽しめる。",
-      "date": "7月全期間",
-      "place": "Disneyland Paris, Marne-la-Vallée, 77700",
-      "link": "https://www.disneylandparis.com/",
+      "title": "セーヌ川クルーズ",
+      "description": "子ども向けの短時間クルーズプランが豊富。パリの主要スポットを水から眺め、乳幼児連れでも楽しめる屋外アクティビティです。",
+      "date": "通年（7月は特に混雑）",
+      "place": "Pont de l'Alma・Pont Notre-Dame周辺乗船地",
+      "link": "https://www.batobus.com",
       "free": false
     },
     {
-      "title": "シテ科学館（Cité des Sciences）の子ども向け展示・ワークショップ",
-      "description": "夏の特別展示や子ども実験ワークショップが充実。プラネタリウム、インタラクティブ展示など、様々な年齢層の子どもが楽しめる科学施設。",
-      "date": "7月全期間",
-      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/",
+      "title": "ベルサイユ宮殿 夏休みファミリープログラム",
+      "description": "夏期の子ども向け探索ツアーやアニメーション。広大な庭園と宮殿で家族向けのガイド付きプログラムが開催されます。",
+      "date": "7月〜8月中旬",
+      "place": "Palace of Versailles, 78000 Versailles",
+      "link": "https://www.chateauversailles.fr",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-06T01:47:57.511Z"
+  "updatedAt": "2026-07-09T01:26:24.261Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム・ウォーター・フェスティバル",
-      "description": "湖畔での音楽・パフォーマンス・子ども向けアクティビティ。水遊び体験やファミリー向けステージプログラムが充実した夏祭り。",
-      "date": "7月中旬〜下旬",
-      "place": "ストックホルム市庁舎周辺・ラッドマン湾",
-      "link": "https://www.stockholmwaterfestival.se",
-      "free": true
-    },
-    {
-      "title": "スカンセン野外博物館の夏プログラム",
-      "description": "動物園と伝統的なスウェーデン家屋。夏の特別体験教室や手作り工房、動物との触れ合いが豊富。乳幼児〜小学生向けプログラム多数。",
+      "title": "スキャンセン（Skansen）夏のプログラム",
+      "description": "北欧最大の野外博物館で、動物園、昔ながらの建物、手工芸体験が楽しめます。7月は夏休みシーズンに特別な子ども向けワークショップやガイドツアーが開催されます。",
       "date": "7月通期",
-      "place": "Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーランダー島（Djurgården）のサイクリング・ピクニック",
-      "description": "自転車で巡る大型公園島。美しい森林コース、遊び場、湖での水浴び。スウェーデン式ピクニック体験。季節の花も見頃。",
-      "date": "7月上旬〜下旬",
-      "place": "Djurgården, Stockholm",
-      "link": "",
-      "free": true
+      "title": "ジュールゴーデン（Junibacken）夏休みキャンプ",
+      "description": "児童文学キャラクターをテーマにした施設。7月は夏の特別プログラムやお話の世界への冒険イベントが開催され、子どもが主人公になりきって楽しめます。",
+      "date": "7月通期",
+      "place": "Galärvägen 8, 115 21 Stockholm",
+      "link": "https://www.junibacken.se",
+      "free": false
     },
     {
-      "title": "ヴァーサ号博物館の子ども向けワークショップ",
-      "description": "17世紀の沈没戦艦を展示。夏季は子ども向け海賊体験やクラフト教室を開催。インタラクティブな学習プログラム。",
-      "date": "7月通期（週末中心）",
-      "place": "Galärvarvsvägen 14, 115 21 Stockholm",
+      "title": "ストックホルム群島のアイランドツアー",
+      "description": "ボートで複数の島々を訪問する屋外アクティビティ。7月の夏シーズンは天気が良く、海での遊び、ビーチ体験、野外ピクニックが楽しめます。多くのツアー会社が家族向けプランを提供しています。",
+      "date": "7月通期",
+      "place": "Norrmalm地区、Strömkajen出発",
+      "link": "https://www.stockholmsightseeing.com",
+      "free": false
+    },
+    {
+      "title": "ヴァーサミュージアム（Vasa Museum）子ども向けツアー",
+      "description": "17世紀の軍艦を展示する世界的に有名な博物館。7月は子ども向けの特別ガイドツアーやスカベンジャーハント、体験プログラムが開催されます。",
+      "date": "7月通期",
+      "place": "Galärvägen 14, 115 21 Stockholm",
       "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ストックホルム諸島のボート・クルーズ＆島での水遊び",
-      "description": "美しい群島へのファミリー向けボートツアー。島での海水浴、ビーチピクニック、磯遊び。スウェーデンの夏の自然を満喫。",
-      "date": "7月全期間",
-      "place": "Strömkajen, 111 52 Stockholm（乗船地）",
-      "link": "https://www.stromkajen.se",
-      "free": false
+      "title": "ストックホルム市立図書館（Stockholms Stadsbibliotek）子どもコーナー",
+      "description": "建築的にも美しい図書館で、子ども向け本が充実。無料で利用でき、7月は子ども向けのストーリータイム、手工芸ワークショップが開催されることがあります。",
+      "date": "7月通期",
+      "place": "Sveavägen 73, 113 50 Stockholm",
+      "link": "https://biblioteket.stockholm.se",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-06T01:48:06.033Z"
+  "updatedAt": "2026-07-09T01:26:32.494Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA County Fair（ロサンゼルス郡フェア）",
-      "description": "夏の大型フェア。乗り物、ゲーム、動物とのふれあい、ライブエンターテイメント、子ども向けアクティビティが充実。家族向けの定番イベント。",
-      "date": "7月中旬〜8月上旬（毎年開催）",
-      "place": "Fairplex, Pomona（ポモナ）",
-      "link": "https://www.lacountyfair.com",
-      "free": false
+      "title": "Summer Reading Program - ロサンゼルス公立図書館",
+      "description": "図書館による夏の読書プログラム。子どもが本を読むとポイントが溜まり、景品と交換できます。イベントやストーリータイムも定期開催される夏の定番プログラム。",
+      "date": "7月全般",
+      "place": "ロサンゼルス公立図書館 各支館",
+      "link": "https://www.lapl.org/",
+      "free": true
     },
     {
-      "title": "ハンティントン・ビーチ・サマーキャンプ&ビーチデイ",
-      "description": "太平洋沿岸でのビーチアクティビティ。遊泳、砂浜での遊び、波乗り教室など。7月は海水温が温かく、子どもの水遊びに最適な季節。",
+      "title": "Hollywood Bowl Summer Camp & Family Concerts",
+      "description": "ハリウッド・ボウルで開催される家族向けコンサート。子ども向けの演奏会やプログラムが多数あり、屋外でクラシック音楽やポップスを楽しめます。",
       "date": "7月上旬〜下旬",
-      "place": "Huntington Beach, Orange County（オレンジカウンティ）",
-      "link": "https://www.visitcalifornia.com",
-      "free": true
-    },
-    {
-      "title": "Griffith Observatory & Griffith Park 無料イベント",
-      "description": "天文台での夜間観測会や科学プログラム。広大な公園で散策、乗馬体験、ピクニックも。家族向けの教育的・屋外アクティビティ。",
-      "date": "7月毎週末（イベント随時開催）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles",
-      "link": "https://www.griffithobservatory.org",
-      "free": true
-    },
-    {
-      "title": "LA Zoo Summer Kids Program",
-      "description": "ロサンゼルス動物園の夏季子ども向けプログラム。特別な動物ワークショップ、飼育員との交流、探索ツアー。乳幼児から小学生まで対応。",
-      "date": "7月上旬〜下旬（毎日開催）",
-      "place": "LA Zoo, 5333 Zoo Drive, Los Angeles",
-      "link": "https://www.lazoo.org",
+      "place": "Hollywood Bowl、1801 N Highland Ave, Los Angeles",
+      "link": "https://www.hollywoodbowl.com/",
       "free": false
     },
     {
-      "title": "Santa Monica Pier Summer Events & ビーチアクティビティ",
-      "description": "遊園地、ゲーム、ライブ音楽、食べ物屋台。ビーチでの遊泳やサンセット観賞。夏の定番観光地で家族向けエンターテイメント充実。",
-      "date": "7月上旬〜下旬（通年営業、夏期特別イベント）",
+      "title": "Exposition Park - Summer Activities & Museums",
+      "description": "南カリフォルニア大学附属のエクスポジション・パークで開催される夏のプログラム。自然史博物館や宇宙館での子ども向けワークショップが充実。",
+      "date": "7月全般",
+      "place": "Exposition Park, 700 State Drive, Los Angeles",
+      "link": "https://www.nhmla.org/",
+      "free": false
+    },
+    {
+      "title": "Griffith Observatory Summer Evening Viewing",
+      "description": "グリフィス天文台での夏の夜間観測。子ども向けプラネタリウムショーと屋外での天体観測が体験できます。夜景も同時に楽しめる屋外アクティビティ。",
+      "date": "7月全般（金土日夜間）",
+      "place": "Griffith Observatory, 2800 E Observatory Road, Los Angeles",
+      "link": "https://www.griffithobservatory.org/",
+      "free": true
+    },
+    {
+      "title": "Santa Monica Pier Summer Twilight Concerts",
+      "description": "サンタモニカ・ピアで開催される無料の夏のコンサートシリーズ。ファミリー向けの音楽演奏と海辺の雰囲気が楽しめます。屋外で景色も最高。",
+      "date": "7月木曜夜間（毎週）",
       "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica",
-      "link": "https://www.santamonicapier.com",
+      "link": "https://www.santamonicapier.org/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-06T01:48:39.649Z"
+  "updatedAt": "2026-07-09T01:27:03.117Z"
 }

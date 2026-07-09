@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アメリカ友好記念日（Philippine-American Friendship Day）",
-      "description": "7月4日を中心に、マニラ各地で米国独立記念日とフィリピン・アメリカの友好を祝うイベントが開催されます。パレード、コンサート、文化交流が家族向けに楽しめます。",
-      "date": "7月1日〜7月7日",
-      "place": "リサール公園（Rizal Park）、マニラ市内各地",
+      "title": "フィリピン・アメリカ友好祭（Philippine-American Friendship Day）",
+      "description": "7月4日前後に開催される独立記念日関連のイベント。パレード、花火、子ども向けゲーム、ステージパフォーマンスがあり、家族連れで楽しめます。",
+      "date": "7月上旬（7月4日前後）",
+      "place": "マニラ市内各所（ラサール広場など）",
       "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "スター・シティ（Star City）の夏休み特別イベント",
-      "description": "フィリピン最大級のテーマパークが夏休み期間に特別プログラムを実施。キッズ向けアトラクション、ショー、ゲーム大会などが開催され、子ども連れに最適です。",
+      "title": "スター・シティ・フェスティバル（Star City Summer Fun）",
+      "description": "遊園地スター・シティの夏休みイベント。キッズライド、キャラクターショー、ゲーム大会が開催され、子どもの年齢に応じた楽しみ方ができます。",
       "date": "7月全期間",
-      "place": "Star City, Pasay City, Metro Manila",
+      "place": "Star City, Manila Bay Area, Maypajo, Caloocan",
       "link": "https://www.star-city.com.ph/",
       "free": false
     },
     {
-      "title": "マニラ湾でのフィッシング・ツアーと水上アクティビティ",
-      "description": "マニラ湾沿いで子ども向けの釣り体験、ボート乗船、ビーチアクティビティが楽しめます。7月は季節柄、夕焼けスポットとしても人気で、家族でのんびり過ごせます。",
+      "title": "マニラ動物園（Manila Zoo）での夏休み教育プログラム",
+      "description": "夏休み期間中、動物の餌やりや飼育ガイドなどの体験プログラムを実施。自然学習と動物との触れ合いが楽しめます。",
       "date": "7月全期間",
-      "place": "マニラ湾（Manila Bay）沿い、Baywalk, Pasay City",
-      "link": "https://www.tourism.gov.ph/",
+      "place": "Manila Zoo, Adriatico Street, Ermita, Manila",
+      "link": "https://manilazo.gov.ph/",
       "free": false
     },
     {
-      "title": "フィリピン国立博物館（National Museum）の子ども向け特別展示",
-      "description": "自然史、美術、人類学をテーマにした展示が充実。7月は家族向けワークショップやガイドツアーが開催され、子どもの学習に最適な環境が整っています。",
-      "date": "7月全期間",
-      "place": "National Museum Complex, Rizal Park, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "イントラムロス（Intramuros）散策とヤシの並木道",
+      "description": "フィリピン最古の城壁都市で歴史散歩。ヤシの木が美しい屋外エリアで、サン・アグスティン教会見学やカレサ（馬車）体験が家族向けです。",
+      "date": "7月全期間（午前がおすすめ）",
+      "place": "Intramuros, Manila",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "チルドレンズ・ライブラリー＆ラーニング・センター（Children's Library & Learning Center）",
-      "description": "マニラの図書館施設で、夏休み特別プログラムとして読み聞かせ、工作教室、デジタルラーニングが無料で楽しめます。クーラーの効いた室内で安心して遊べます。",
-      "date": "7月全期間（火〜日曜日）",
-      "place": "Quezon City Library, Quezon City",
-      "link": "https://www.qclibrary.gov.ph/",
+      "title": "ナショナル・ミュージアム・オブ・フィリピン（National Museum）の子ども向けツアー",
+      "description": "恐竜化石や自然科学の展示が充実。夏休み向けガイドツアーでは、子どもが対話形式で学べます。毎月第1・3日曜は無料入館。",
+      "date": "7月全期間（第1・3日曜は無料）",
+      "place": "National Museum Complex, P. Burgos Street, Ermita, Manila",
+      "link": "https://nationalmuseum.gov.ph/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-06T01:48:31.795Z"
+  "updatedAt": "2026-07-09T01:26:55.845Z"
 }
