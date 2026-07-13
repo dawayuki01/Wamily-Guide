@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Singapore Science Centre Summer Camp & Programs",
-      "description": "シンガポール科学館での子ども向け特別プログラム。STEM教育、実験ワークショップ、プラネタリウムなど、年齢別の体験学習が充実。乳幼児から小学生まで楽しめます。",
-      "date": "7月上旬〜下旬",
-      "place": "Singapore Science Centre, 15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
+      "title": "Great Singapore Sale（シンガポール大セール）",
+      "description": "7月全月間開催される大規模セールイベント。子ども向けの衣類やおもちゃ、家族向けアクティビティが充実。主要ショッピングモールで割引と特別企画が楽しめます。",
+      "date": "7月全月間",
+      "place": "シンガポール全域主要ショッピングモール（Orchard Road周辺など）",
+      "link": "https://www.visitsingapore.com/",
       "free": false
     },
     {
-      "title": "East Coast Park Waterplay Events",
-      "description": "イーストコーストパークでの無料の水遊びイベント。ウォータースプラッシュパッド、ビーチ遊び、水上アクティビティが7月に開催。幼児向けの安全ゾーンも完備。",
-      "date": "7月上旬〜下旬",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg",
-      "free": true
-    },
-    {
-      "title": "Marina Bay Floating Platform Outdoor Events",
-      "description": "マリーナベイエリアでの屋外イベント。サマーコンサート、キッズ向けワークショップ、光と音のパフォーマンス。家族向けアクティビティが充実。",
+      "title": "シンガポール動物園のサマープログラム",
+      "description": "乳幼児〜小学生向けの特別教育プログラムやキャンプが開催。動物との交互作用や自然学習が充実。子ども向けカフェやプレイエリアも完備されています。",
       "date": "7月中旬〜下旬",
-      "place": "Marina Bay, Singapore",
-      "link": "https://www.marinabay.sg",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.mandai.sg/singapore-zoo",
+      "free": false
+    },
+    {
+      "title": "East Coast Park でのビーチアクティビティ",
+      "description": "シンガポール最大のビーチパーク。子ども向けプレイグラウンド、水遊びエリア、サイクリングロードが無料で利用可能。家族でピクニックや海水浴が楽しめます。",
+      "date": "7月全月間",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449875",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Singapore Zoo Summer Holiday Program",
-      "description": "シンガポール動物園の夏季特別プログラム。動物との触れ合い、給餌体験、ガイド付きツアー。子どもが動物について学べる教育的アクティビティ。",
-      "date": "7月上旬〜下旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.wrs.com.sg",
+      "title": "National Museum Singapore の子ども向け企画展",
+      "description": "7月に子ども向けの体験型展示やワークショップが開催。シンガポール文化を学びながら、対話的に楽しめるプログラムが充実しています。",
+      "date": "7月上旬〜中旬",
+      "place": "National Museum of Singapore, 93 Stamford Road, Singapore 178897",
+      "link": "https://www.nationalmuseum.sg/",
       "free": false
     },
     {
-      "title": "Gardens by the Bay Horticultural Summer Workshop",
-      "description": "ガーデンズ・バイ・ザ・ベイでの園芸・自然学習ワークショップ。子ども向けの植物体験、スカイウォーク見学、クラウドフォレスト探索が体験できます。",
-      "date": "7月上旬〜下旬",
+      "title": "Gardens by the Bay のファミリーイベント",
+      "description": "無料で入場可能なガーデンエリアで、7月の季節限定プログラムやショーが開催。スーパーツリーの夜間ライトショーも鑑賞できます。",
+      "date": "7月全月間",
       "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
-      "free": false
+      "link": "https://www.gardensbythebay.com.sg/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-09T01:26:39.283Z"
+  "updatedAt": "2026-07-13T01:20:56.950Z"
 }

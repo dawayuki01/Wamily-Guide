@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港サマーナイトカーニバル",
-      "description": "ビクトリアパークで開催される夏祭り。ゲーム、キャラクターグリート、ステージショーなど家族向けのエンターテイメントが充実。屋台グルメも楽しめます。",
-      "date": "7月中旬〜下旬",
-      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
+      "title": "香港サマーフェスティバル",
+      "description": "7月中旬から8月初旬にかけて香港各地で開催される音楽、舞踊、演劇などの文化イベント。子ども向けのワークショップやパフォーマンスも充実。",
+      "date": "7月中旬〜8月初旬",
+      "place": "香港各地（香港文化中心、タイムズスクエアなど）",
       "link": "https://www.discoverhongkong.com",
       "free": false
     },
     {
-      "title": "香港科学館の夏休みプログラム",
-      "description": "毎年恒例の子ども向け特別展示とワークショップ。STEM教育や科学実験など、乳幼児から小学生向けの体験型プログラムが多数開催されます。",
-      "date": "7月〜8月",
-      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀（Tsim Sha Tsui）",
-      "link": "https://www.lcsd.gov.hk/en/hkscience",
-      "free": false
+      "title": "ビクトリアピークでの無料散策とハイキング",
+      "description": "ピークトラムで上山後、ピークサークルハイクなどの初心者向けハイキングコースで香港港の絶景を楽しめます。家族向けの安全なルートあり。",
+      "date": "7月中旬以降（早朝推奨）",
+      "place": "ビクトリアピーク、香港島中西区",
+      "link": "https://www.discoverhongkong.com",
+      "free": true
     },
     {
-      "title": "スターフェリー乗船体験＆ハーバークルーズ",
-      "description": "ビクトリアハーバーの絶景を楽しむ屋外アクティビティ。子どもにとって忘れられない体験になります。乗船料はリーズナブルで、朝夕のクルーズは特におすすめ。",
-      "date": "通年（7月開催）",
-      "place": "スターフェリー中環ターミナル（Central Terminal）・尖沙咀ターミナル（Tsim Sha Tsui Terminal）",
+      "title": "スターフェリー乗船体験",
+      "description": "香港を代表する双層フェリーでのスターフェリー乗船。香港港での涼しい風を楽しみながら、ビクトリア湾の景観を堪能できる家族向けアクティビティ。",
+      "date": "7月通年",
+      "place": "セントラル〜尖沙咀間、香港島・九龍",
       "link": "https://www.starferry.com.hk",
       "free": false
     },
     {
-      "title": "香港動物園サマーキャンプ",
-      "description": "香港パークの動物園で開催される夏休み特別プログラム。子ども向けガイドツアーやインタラクティブな学習体験で、野生動物について楽しく学べます。",
-      "date": "7月中旬〜8月下旬",
-      "place": "香港動物園（Hong Kong Zoo）、セントラル（Central）",
-      "link": "https://www.lcsd.gov.hk/en/zoological-and-botanical-garden",
+      "title": "香港科学館のサマープログラム",
+      "description": "夏休み限定の子ども向けインタラクティブ展示や実験ワークショップ。乳幼児から小学生向けの手を動かして学べるプログラムが多数。",
+      "date": "7月全期間",
+      "place": "香港科学館、九龍尖沙咀東部科学館道2号",
+      "link": "https://www.science.org.hk",
       "free": false
     },
     {
-      "title": "公立図書館の夏休み無料イベント",
-      "description": "香港公立図書館が全館で開催する読書会、ストーリータイム、手工芸ワークショップ。完全無料で、子どもたちが涼しい室内で楽しく過ごせます。",
-      "date": "7月上旬〜下旬",
-      "place": "香港各地の公立図書館（セントラル図書館など）",
-      "link": "https://www.hkpl.gov.hk",
+      "title": "テンモウ夜市（屋外フリーマーケット）",
+      "description": "毎週末開催される無料で入場できるローカルマーケット。家族向けの雑貨、子ども用品、地元グルメが豊富。涼しい夜間開催で夏も快適。",
+      "date": "7月毎週金土日夜間",
+      "place": "テンモウ（天墨）、香港各地開催",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-09T01:27:31.813Z"
+  "updatedAt": "2026-07-13T01:21:43.065Z"
 }

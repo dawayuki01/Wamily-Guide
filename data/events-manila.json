@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アメリカ友好祭（Philippine-American Friendship Day）",
-      "description": "7月4日前後に開催される独立記念日関連のイベント。パレード、花火、子ども向けゲーム、ステージパフォーマンスがあり、家族連れで楽しめます。",
-      "date": "7月上旬（7月4日前後）",
-      "place": "マニラ市内各所（ラサール広場など）",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "フィリピン・アメリカ友好デー（Araw ng Pag-asa）",
+      "description": "7月4日前後に開催される独立記念関連のお祭り。パレード、音楽、文化的なパフォーマンスが繰り広げられ、家族連れで楽しめるイベントです。",
+      "date": "7月4日前後",
+      "place": "マニラ市内（Luneta Park周辺など）",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "スター・シティ・フェスティバル（Star City Summer Fun）",
-      "description": "遊園地スター・シティの夏休みイベント。キッズライド、キャラクターショー、ゲーム大会が開催され、子どもの年齢に応じた楽しみ方ができます。",
-      "date": "7月全期間",
-      "place": "Star City, Manila Bay Area, Maypajo, Caloocan",
-      "link": "https://www.star-city.com.ph/",
+      "title": "スター シティ（Star City）夏休みスペシャル",
+      "description": "フィリピン最大級の遊園地。夏休み期間は子ども向け特別プログラムやキャラクターショーが増加。乗り物や施設が充実しています。",
+      "date": "7月上旬〜8月末",
+      "place": "Star City, Sta. Cruz, Manila",
+      "link": "https://www.star-city.com.ph",
       "free": false
     },
     {
-      "title": "マニラ動物園（Manila Zoo）での夏休み教育プログラム",
-      "description": "夏休み期間中、動物の餌やりや飼育ガイドなどの体験プログラムを実施。自然学習と動物との触れ合いが楽しめます。",
-      "date": "7月全期間",
-      "place": "Manila Zoo, Adriatico Street, Ermita, Manila",
-      "link": "https://manilazo.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "イントラムロス（Intramuros）散策とヤシの並木道",
-      "description": "フィリピン最古の城壁都市で歴史散歩。ヤシの木が美しい屋外エリアで、サン・アグスティン教会見学やカレサ（馬車）体験が家族向けです。",
-      "date": "7月全期間（午前がおすすめ）",
-      "place": "Intramuros, Manila",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "タギグ シティ ファーマーズ マーケット",
+      "description": "毎週末開催される有機野菜や地元産品のマーケット。新鮮な食材や子ども向け食べ物が充実。家族で楽しくショッピングできます。",
+      "date": "7月毎週末（土日）",
+      "place": "Bonifacio High Street, Taguig City",
+      "link": "",
       "free": true
     },
     {
-      "title": "ナショナル・ミュージアム・オブ・フィリピン（National Museum）の子ども向けツアー",
-      "description": "恐竜化石や自然科学の展示が充実。夏休み向けガイドツアーでは、子どもが対話形式で学べます。毎月第1・3日曜は無料入館。",
-      "date": "7月全期間（第1・3日曜は無料）",
-      "place": "National Museum Complex, P. Burgos Street, Ermita, Manila",
-      "link": "https://nationalmuseum.gov.ph/",
+      "title": "フィリピン国立博物館 キッズ向けプログラム",
+      "description": "夏休み期間限定で子ども向けワークショップや体験型展示が充実。フィリピンの文化や歴史を遊びながら学べます。",
+      "date": "7月上旬〜下旬",
+      "place": "National Museum Complex, Padre Burgos Ave, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
+      "free": false
+    },
+    {
+      "title": "アグリノ公園（Aguinaldo Park）でのピクニック＆屋外遊び",
+      "description": "広々とした公園で無料で遊べます。遊具、池、歴史的建造物など家族で1日過ごせます。朝早い時間がおすすめです。",
+      "date": "7月通年（早朝がベスト）",
+      "place": "Aguinaldo Park, Kawit, Cavite（マニラから日帰り可）",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-09T01:26:55.845Z"
+  "updatedAt": "2026-07-13T01:21:12.936Z"
 }

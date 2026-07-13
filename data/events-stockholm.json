@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スキャンセン（Skansen）夏のプログラム",
-      "description": "北欧最大の野外博物館で、動物園、昔ながらの建物、手工芸体験が楽しめます。7月は夏休みシーズンに特別な子ども向けワークショップやガイドツアーが開催されます。",
-      "date": "7月通期",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "title": "ストックホルム・ウォーター・フェスティバル",
+      "description": "7月中旬に開催される、水上での音楽・アート・パフォーマンスイベント。子ども向けワークショップやアクティビティが充実。湖畔での家族向けエンターテインメント。",
+      "date": "7月中旬（通常10日間程度）",
+      "place": "ストックホルム市街地各所（主に Norrmalm地区）",
+      "link": "https://stockholmwaterfestival.se",
+      "free": true
+    },
+    {
+      "title": "スカンセン野外博物館の夏の特別プログラム",
+      "description": "北欧最大級の野外博物館。7月は子ども向けの職人体験ワークショップ、動物との触れ合い、昔の夏の生活体験が充実。北欧文化を学べます。",
+      "date": "7月全期間",
+      "place": "Djurgården, Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ジュールゴーデン（Junibacken）夏休みキャンプ",
-      "description": "児童文学キャラクターをテーマにした施設。7月は夏の特別プログラムやお話の世界への冒険イベントが開催され、子どもが主人公になりきって楽しめます。",
-      "date": "7月通期",
-      "place": "Galärvägen 8, 115 21 Stockholm",
-      "link": "https://www.junibacken.se",
-      "free": false
+      "title": "王宮の衛兵交代式（無料観覧）",
+      "description": "ストックホルム王宮での毎日の衛兵交代式。夏は12時15分に実施。子どもも楽しめるセレモニー。宮殿広場で無料で観覧可能。",
+      "date": "7月全期間（毎日）",
+      "place": "ストックホルム王宮（Kungliga Slottet）、Gamla Stan",
+      "link": "https://www.royalpalaces.se",
+      "free": true
     },
     {
-      "title": "ストックホルム群島のアイランドツアー",
-      "description": "ボートで複数の島々を訪問する屋外アクティビティ。7月の夏シーズンは天気が良く、海での遊び、ビーチ体験、野外ピクニックが楽しめます。多くのツアー会社が家族向けプランを提供しています。",
-      "date": "7月通期",
-      "place": "Norrmalm地区、Strömkajen出発",
-      "link": "https://www.stockholmsightseeing.com",
-      "free": false
-    },
-    {
-      "title": "ヴァーサミュージアム（Vasa Museum）子ども向けツアー",
-      "description": "17世紀の軍艦を展示する世界的に有名な博物館。7月は子ども向けの特別ガイドツアーやスカベンジャーハント、体験プログラムが開催されます。",
-      "date": "7月通期",
-      "place": "Galärvägen 14, 115 21 Stockholm",
+      "title": "ヴァーサ号博物館の子ども向けツアー",
+      "description": "17世紀の軍艦を展示する世界最高の博物館。夏限定の子ども向けガイドツアーやアクティビティが実施。インタラクティブな学習体験。",
+      "date": "7月全期間",
+      "place": "Galärvarvsvägen 14, Djurgården, Stockholm",
       "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ストックホルム市立図書館（Stockholms Stadsbibliotek）子どもコーナー",
-      "description": "建築的にも美しい図書館で、子ども向け本が充実。無料で利用でき、7月は子ども向けのストーリータイム、手工芸ワークショップが開催されることがあります。",
-      "date": "7月通期",
-      "place": "Sveavägen 73, 113 50 Stockholm",
-      "link": "https://biblioteket.stockholm.se",
+      "title": "Djurgården島でのサイクリング・ハイキング",
+      "description": "ストックホルムの美しい自然島。7月は天気が最高。家族向けの安全なサイクルロード、湖沿いのハイキングコース、ピクニックエリアが充実。",
+      "date": "7月全期間",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.stockholm.se/en/Culture-and-leisure/Parks-and-nature/Djurgarden/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-09T01:26:32.494Z"
+  "updatedAt": "2026-07-13T01:20:49.486Z"
 }
