@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Paris Plages（パリ・プラージュ）",
-      "description": "セーヌ川沿いに砂浜が出現。子どもたちは砂遊び、水遊び、ビーチバレーが楽しめます。無料で開放され、夏の風物詩。",
+      "description": "セーヌ河畔に砂浜が出現。ビーチチェア、プール、水遊びエリアで子どもが楽しめます。屋外で無料で楽しめる夏の風物詩。",
       "date": "7月中旬～8月下旬",
-      "place": "セーヌ川沿い（パリ中心部複数箇所）",
-      "link": "https://www.paris.fr",
+      "place": "セーヌ河畔複数箇所（ポン・デ・ザルム周辺など）",
+      "link": "https://www.paris.fr/pages/paris-plages-1946",
       "free": true
     },
     {
-      "title": "Musée de l'Orangerie（オランジュリー美術館）子ども向け特別プログラム",
-      "description": "モネの睡蓮を鑑賞するプログラムや、子ども向けのガイドツアー。夏休みに合わせた特別なワークショップが開催されます。",
-      "date": "7月1日～8月31日",
-      "place": "1 rue Paul Deschanel, 75001 Paris",
-      "link": "https://www.musee-orangerie.fr",
+      "title": "ルーヴル美術館 キッズ向けワークショップ",
+      "description": "夏休みに開催される子ども向けの美術教室やガイドツアー。名画を遊びながら学べる特別プログラムで、幼児～小学生対象。",
+      "date": "7月～8月（日程は毎週異なる）",
+      "place": "ルーヴル美術館（Rue de Rivoli, 75004 Paris）",
+      "link": "https://www.louvre.fr/en/visites-et-activites",
       "free": false
     },
     {
-      "title": "Villette Sonique（ヴィレット・ソニック）",
-      "description": "ラ・ヴィレット公園で開催される音楽フェスティバル。ファミリー向けコンサートや子ども対象のワークショップ。屋外での家族向けイベント。",
-      "date": "7月中旬～8月下旬",
-      "place": "211 Avenue Jean Jaurès, 75019 Paris",
-      "link": "https://www.villette.com",
+      "title": "シテ科学博物館の夏休み特別展",
+      "description": "パリ・ラ・ヴィレットにある科学館で、子ども向けの体験型展示や実験イベントが充実。全年代の子どもが夢中になれます。",
+      "date": "7月～8月",
+      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr/en",
       "free": false
     },
     {
-      "title": "Parc de la Villette でのピクニック・広場での無料活動",
-      "description": "広大な公園で自由にピクニック。遊具、運河沿いの散歩、プレイグラウンドなど。完全無料で子どもたちが思いっきり遊べる。",
-      "date": "7月全期間",
-      "place": "211 Avenue Jean Jaurès, 75019 Paris",
-      "link": "https://www.villette.com",
+      "title": "モンソー公園の水遊び広場＆屋外映画上映",
+      "description": "広大な公園で子ども向けの水遊びエリアが登場。夜間は芝生での屋外映画上映も開催。公園自体は無料で散策可能。",
+      "date": "7月～8月",
+      "place": "Parc Monceau, Boulevard de Courcelles, 75008 Paris",
+      "link": "https://www.paris.fr/pages/le-parc-monceau-1925",
       "free": true
     },
     {
-      "title": "Aquarium de Paris Cinéaqua サマープログラム",
-      "description": "シャイヨー宮にある水族館。夏休み限定の子ども向けアクティビティ、フィーディングショー、スタッフによる解説プログラムが充実。",
-      "date": "7月1日～8月31日",
-      "place": "5 Avenue Albert de Mun, 75016 Paris",
-      "link": "https://www.cineaqua.com",
+      "title": "ベルサイユ宮殿 夏の噴水ショー（Les Grandes Eaux Nocturnes）",
+      "description": "夜間のライトアップされた庭園で音楽と光による噴水パフォーマンス。家族で魔法のような体験ができる夏のスペシャルイベント。",
+      "date": "7月～8月（火・木・土）",
+      "place": "Palace of Versailles Gardens, Versailles",
+      "link": "https://www.chateauversailles.fr/en",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-13T01:20:41.840Z"
+  "updatedAt": "2026-07-16T01:16:10.311Z"
 }

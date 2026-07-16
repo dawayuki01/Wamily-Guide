@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン・アメリカ友好デー（Araw ng Pag-asa）",
-      "description": "7月4日前後に開催される独立記念関連のお祭り。パレード、音楽、文化的なパフォーマンスが繰り広げられ、家族連れで楽しめるイベントです。",
-      "date": "7月4日前後",
-      "place": "マニラ市内（Luneta Park周辺など）",
-      "link": "https://www.tourism.gov.ph",
+      "title": "フィリピン独立記念日（Araw ng Kalayaan）関連イベント",
+      "description": "7月12日前後、全市でパレードやコンサート、文化イベントが開催。子ども向けの屋台やパフォーマンスも多数。フィリピン文化を学べる貴重な機会です。",
+      "date": "7月10日〜12日",
+      "place": "マニラ市内全域（メインはRizal Park）",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "スター シティ（Star City）夏休みスペシャル",
-      "description": "フィリピン最大級の遊園地。夏休み期間は子ども向け特別プログラムやキャラクターショーが増加。乗り物や施設が充実しています。",
-      "date": "7月上旬〜8月末",
-      "place": "Star City, Sta. Cruz, Manila",
-      "link": "https://www.star-city.com.ph",
+      "title": "Enchanted Kingdom（エンチャンテッド・キングダム）サマープログラム",
+      "description": "フィリピン最大のテーマパークが夏季限定キャンペーンを実施。子ども向けアトラクションやキャラクターイベントが充実。乳幼児向けエリアも完備。",
+      "date": "7月全月",
+      "place": "Santa Rosa, Laguna（マニラから約50km）",
+      "link": "https://www.enchantedkingdom.ph/",
       "free": false
     },
     {
-      "title": "タギグ シティ ファーマーズ マーケット",
-      "description": "毎週末開催される有機野菜や地元産品のマーケット。新鮮な食材や子ども向け食べ物が充実。家族で楽しくショッピングできます。",
-      "date": "7月毎週末（土日）",
-      "place": "Bonifacio High Street, Taguig City",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "フィリピン国立博物館 キッズ向けプログラム",
-      "description": "夏休み期間限定で子ども向けワークショップや体験型展示が充実。フィリピンの文化や歴史を遊びながら学べます。",
-      "date": "7月上旬〜下旬",
-      "place": "National Museum Complex, Padre Burgos Ave, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "title": "Manila Ocean Park サマーキャンプ・ワークショップ",
+      "description": "水族館での海洋教育プログラムや子ども向けワークショップを開催。海の生き物について学びながら遊べます。屋内施設で安心。",
+      "date": "7月全月",
+      "place": "Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceanpark.com/",
       "free": false
     },
     {
-      "title": "アグリノ公園（Aguinaldo Park）でのピクニック＆屋外遊び",
-      "description": "広々とした公園で無料で遊べます。遊具、池、歴史的建造物など家族で1日過ごせます。朝早い時間がおすすめです。",
-      "date": "7月通年（早朝がベスト）",
-      "place": "Aguinaldo Park, Kawit, Cavite（マニラから日帰り可）",
-      "link": "",
+      "title": "Rizal Park（リサール公園）での屋外アクティビティ",
+      "description": "広大な公園で凧揚げ、サイクリング、屋外ピクニック。子ども向けの広場やプレイエリアがあり、自由に遊べます。7月は午後の雨に注意。",
+      "date": "7月全月",
+      "place": "Rizal Park, Ermita, Manila",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
+    },
+    {
+      "title": "National Museum of the Filipino People 子ども向け展示",
+      "description": "フィリピンの歴史と文化を学べる博物館。夏季に子ども向けの体験型展示やガイドツアーを実施。冷房完備で快適。",
+      "date": "7月全月",
+      "place": "Padre Burgos Street, Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-13T01:21:12.936Z"
+  "updatedAt": "2026-07-16T01:16:42.526Z"
 }

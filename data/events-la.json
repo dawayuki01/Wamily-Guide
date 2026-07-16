@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Summer Sunset Series at Hollywood Bowl",
-      "description": "ハリウッドボウルで開催される夏の野外コンサート。ファミリー向けのプログラムや子ども料金設定があり、ピクニック持参で楽しめます。",
-      "date": "7月通年",
-      "place": "Hollywood Bowl, 1901 N Highland Ave, Los Angeles, CA 90068",
+      "title": "ハリウッド・ボウル サマー・コンサート・シリーズ",
+      "description": "アメリカ最大の野外音楽堂で、ファミリー向けのコンサートが開催。クラシック、ポップス、映画音楽など多様なプログラム。ピクニック持参で楽しめます。",
+      "date": "7月中旬〜下旬",
+      "place": "Hollywood Bowl, 1801 N Highland Ave, Los Angeles, CA 90028",
       "link": "https://www.hollywoodbowl.com",
       "free": false
     },
     {
-      "title": "Los Angeles County Fair - Summer Events",
-      "description": "ロサンゼルス郡で開催される夏のファーマーズマーケットやコミュニティイベント。地元農産物、クラフト、キッズアクティビティが無料で楽しめます。",
-      "date": "7月上旬〜中旬",
-      "place": "Various locations across Los Angeles County",
-      "link": "https://lacountyfairs.org",
-      "free": true
-    },
-    {
-      "title": "Griffith Observatory Summer Programs",
-      "description": "グリフィス天文台での夏の特別プログラム。子ども向け天文教室や夜間観測会。望遠鏡での観察体験ができます。",
-      "date": "7月通年（毎週金土日）",
+      "title": "グリフィス天文台 サマープログラム",
+      "description": "無料で入館でき、季節限定の天文イベントや子ども向けプラネタリウムを実施。ロサンゼルスの夜景も楽しめる屋外施設。",
+      "date": "7月上旬〜下旬",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "Santa Monica Beach & Pacific Park Summer Programs",
-      "description": "サンタモニカビーチでの海水浴と遊園地パシフィックパーク。ビーチは無料、ファミリー向けライドやプログラムで夏を満喫できます。",
-      "date": "7月通年",
-      "place": "Santa Monica Beach & Pacific Park, 380 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.pacpark.com",
+      "title": "ロサンゼルス・カウンティ・アーツ・フェスティバル",
+      "description": "アート、音楽、パフォーマンスを楽しむ家族向けイベント。キッズワークショップやインタラクティブ展示があり、無料ゾーンも充実。",
+      "date": "7月上旬〜中旬",
+      "place": "Various locations across Los Angeles County",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "ハンティントン・ライブラリー サマー・ファミリー・デー",
+      "description": "美術館・図書館の広大な庭園でのファミリープログラム。アート体験ワークショップやガイドツアーで子どもも大人も楽しめます。",
+      "date": "7月中旬〜下旬",
+      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Rd, San Marino, CA 91108",
+      "link": "https://www.huntington.org",
       "free": false
     },
     {
-      "title": "Natural History Museum - Summer Exploration",
-      "description": "自然史博物館の夏限定キッズプログラム。恐竜展示や化石体験、子ども向けワークショップが開催されます。",
-      "date": "7月通年",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org",
-      "free": false
+      "title": "サンタモニカ・ビーチ サマーアクティビティ",
+      "description": "ビーチでの遊泳、砂遊び、ピアでの娯楽施設利用。7月は最高の海水温で、家族向けのビーチバレーやサンセット映画上映も開催。",
+      "date": "7月上旬〜下旬",
+      "place": "Santa Monica Beach, Santa Monica, CA 90401",
+      "link": "https://www.santamonica.gov",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-13T01:21:19.397Z"
+  "updatedAt": "2026-07-16T01:16:50.268Z"
 }

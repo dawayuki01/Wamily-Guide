@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム・ウォーター・フェスティバル",
-      "description": "7月中旬に開催される、水上での音楽・アート・パフォーマンスイベント。子ども向けワークショップやアクティビティが充実。湖畔での家族向けエンターテインメント。",
+      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
+      "description": "スウェーデン最大の文化祭。音楽、ダンス、子ども向けワークショップ、水上アクティビティなどが島々で開催されます。家族向けプログラムが充実しています。",
       "date": "7月中旬（通常10日間程度）",
-      "place": "ストックホルム市街地各所（主に Norrmalm地区）",
-      "link": "https://stockholmwaterfestival.se",
+      "place": "ストックホルム市内全域（ガムラスタン、ノルマルム、ジュルゴーデン島など）",
+      "link": "https://www.stockholmwaterfestival.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の夏の特別プログラム",
-      "description": "北欧最大級の野外博物館。7月は子ども向けの職人体験ワークショップ、動物との触れ合い、昔の夏の生活体験が充実。北欧文化を学べます。",
-      "date": "7月全期間",
-      "place": "Djurgården, Stockholm",
+      "title": "スカンセン野外博物館の夏プログラム",
+      "description": "スウェーデンの伝統的な建物と動物園。7月は子ども向けワークショップ、昔ながらの工芸体験、動物との触れ合いが豊富。北欧文化を学べます。",
+      "date": "7月通年",
+      "place": "Djurgården, Skansen, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "王宮の衛兵交代式（無料観覧）",
-      "description": "ストックホルム王宮での毎日の衛兵交代式。夏は12時15分に実施。子どもも楽しめるセレモニー。宮殿広場で無料で観覧可能。",
-      "date": "7月全期間（毎日）",
-      "place": "ストックホルム王宮（Kungliga Slottet）、Gamla Stan",
-      "link": "https://www.royalpalaces.se",
+      "title": "ロイヤル・ドラゴンボート・フェスティバル",
+      "description": "水上での伝統ドラゴンボートレース。ストックホルムの運河沿いで開催。観覧は無料。色彩豊かなボート、音楽、屋台があり家族向けです。",
+      "date": "7月中旬",
+      "place": "ストックホルム市内運河沿い（具体的な開催地はイベント発表時に確認）",
+      "link": "",
       "free": true
     },
     {
-      "title": "ヴァーサ号博物館の子ども向けツアー",
-      "description": "17世紀の軍艦を展示する世界最高の博物館。夏限定の子ども向けガイドツアーやアクティビティが実施。インタラクティブな学習体験。",
-      "date": "7月全期間",
-      "place": "Galärvarvsvägen 14, Djurgården, Stockholm",
-      "link": "https://www.vasamuseet.se",
+      "title": "ジュルゴーデン島でのサイクリング・ウォーキング",
+      "description": "スウェーデン王宮、スキー博物館、アビーケオ・アイランドなどが集中する島。子ども向けの遊び場、レンタサイクルが充実。7月の北欧の短い夏を満喫できます。",
+      "date": "7月通年",
+      "place": "Djurgården Island, Stockholm",
+      "link": "https://www.visitstockholm.com/djurgarden/",
+      "free": true
+    },
+    {
+      "title": "グリーナ・ルンド遊園地の夏季営業",
+      "description": "ジュルゴーデン島内の遊園地。メリーゴーラウンド、子ども向けライド、コンサートが豊富。7月は長日を活かし営業時間が長く、夏限定イベントも開催されます。",
+      "date": "7月通年",
+      "place": "Djurgården, Gröna Lund, 102 52 Stockholm",
+      "link": "https://www.gronalund.com",
       "free": false
-    },
-    {
-      "title": "Djurgården島でのサイクリング・ハイキング",
-      "description": "ストックホルムの美しい自然島。7月は天気が最高。家族向けの安全なサイクルロード、湖沿いのハイキングコース、ピクニックエリアが充実。",
-      "date": "7月全期間",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/en/Culture-and-leisure/Parks-and-nature/Djurgarden/",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-13T01:20:49.486Z"
+  "updatedAt": "2026-07-16T01:16:18.883Z"
 }
