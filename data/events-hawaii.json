@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ホノルル・フェスティバル・オブ・アーツ・アンド・カルチャー（7月開催時期）",
-      "description": "ハワイの文化芸術を祝う大規模フェスティバル。ステージパフォーマンス、文化展示、子ども向けワークショップなど家族全員で楽しめます。",
-      "date": "7月中旬～下旬",
-      "place": "ワイキキビーチおよびカピオラニパーク周辺、ホノルル",
-      "link": "https://www.honolulufestival.com",
+      "title": "Honolulu Festival of the Arts",
+      "description": "ホノルル美術館で開催される子ども向けアート教室やワークショップ。創作体験を通じて芸術に親しめます。",
+      "date": "7月中旬〜下旬",
+      "place": "ホノルル美術館（Honolulu Museum of Art）、900 S. Beretania St, Honolulu",
+      "link": "https://honolulumuseum.org/",
+      "free": false
+    },
+    {
+      "title": "Ala Moana Center Summer Keiki Programs",
+      "description": "アラモアナセンターの夏の子ども向けプログラム。無料の音楽ライブやダンス教室が開催されます。",
+      "date": "7月上旬〜下旬",
+      "place": "アラモアナセンター（Ala Moana Center）、1450 Ala Moana Blvd, Honolulu",
+      "link": "https://www.alamoanacenter.com/",
       "free": true
     },
     {
-      "title": "キャンプ・エラウレ（Kamehameha Schools Summer Camp Programs）",
-      "description": "ハワイアンカルチャーと自然体験を学ぶ子ども向けサマーキャンプ。フラダンス、カヌー体験、古代ハワイ文化を楽しく学べます。",
-      "date": "7月全期間（週ごとのプログラムあり）",
-      "place": "カメハメハスクール関連施設、ホノルル・オアフ島各地",
-      "link": "https://www.ksbe.edu",
+      "title": "マノア滝トレッキング",
+      "description": "ワイキキから近い初心者向けハイキング。往復約1.6km、乳幼児用バックパックで挑戦可能。熱帯雨林と滝を体験。",
+      "date": "7月（朝早めがおすすめ）",
+      "place": "マノア滝トレイルヘッド（Manoa Falls Trail）、Manoa Road, Honolulu",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "ワイキキ水族館の夏イベント",
+      "description": "夏の特別展示やお子さん向けのタッチプールプログラム。海の生き物に直接触れられます。",
+      "date": "7月上旬〜下旬",
+      "place": "ワイキキ水族館（Waikiki Aquarium）、2777 Kalakaua Ave, Honolulu",
+      "link": "https://waikikiaquarium.org/",
       "free": false
     },
     {
-      "title": "ワイキキ水族館（Waikiki Aquarium）サマープログラム",
-      "description": "7月の特別プログラムで海の生物について学び、タッチプール体験や海洋生物との触れ合いができます。乳幼児～小学生向け。",
-      "date": "7月全期間",
-      "place": "2777 Kalakaua Ave, Honolulu, HI 96815",
-      "link": "https://www.waikikiaquarium.org",
-      "free": false
-    },
-    {
-      "title": "ハナウマ湾でのスノーケリング・ビーチデー",
-      "description": "ハワイを代表するビーチ。遠浅で比較的安全。熱帯魚が多く、子どもも楽しめるスノーケリングスポット。駐車場・トイレ施設完備。",
-      "date": "7月全期間（毎日開放）",
-      "place": "Hanauma Bay Nature Preserve, Honolulu, HI 96825",
-      "link": "https://www.honolulu.gov/parks-recreation/beaches/hanauma-bay.html",
-      "free": false
-    },
-    {
-      "title": "アラモアナ・サンデー・ファーマーズマーケット",
-      "description": "毎週日曜開催。新鮮なハワイ産フルーツ、野菜、地元グルメが集合。子どもが地元文化を感じられ、家族向けの無料イベント。",
-      "date": "7月毎週日曜",
-      "place": "1450 Ala Moana Blvd, Honolulu, HI 96814",
-      "link": "https://www.alamoanacenter.com",
+      "title": "カイルア・ビーチでの海水浴と地元マーケット",
+      "description": "ハワイで最も家族向けのビーチ。遠浅で安全。週末の地元ファーマーズマーケットで新鮮なフルーツやローカルフードが購入可能。",
+      "date": "7月通期（土日がマーケット開催）",
+      "place": "カイルア・ビーチ（Kailua Beach）、Kailua Beach Park, Kailua",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-16T01:16:58.995Z"
+  "updatedAt": "2026-07-20T01:23:37.424Z"
 }

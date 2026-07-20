@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Paris Plages（パリ・プラージュ）",
-      "description": "セーヌ河畔に砂浜が出現。ビーチチェア、プール、水遊びエリアで子どもが楽しめます。屋外で無料で楽しめる夏の風物詩。",
-      "date": "7月中旬～8月下旬",
-      "place": "セーヌ河畔複数箇所（ポン・デ・ザルム周辺など）",
-      "link": "https://www.paris.fr/pages/paris-plages-1946",
+      "title": "パリ・プラージュ（Paris Plages）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊び、砂遊びを楽しめます。無料で楽しめる夏の風物詩。ビーチバレーやアクティビティも開催。",
+      "date": "7月上旬〜8月下旬",
+      "place": "セーヌ川沿い（ポン・ドゥ・ラルマ周辺など複数箇所）、パリ",
+      "link": "https://www.paris.fr/pages/paris-plages-3923",
       "free": true
     },
     {
-      "title": "ルーヴル美術館 キッズ向けワークショップ",
-      "description": "夏休みに開催される子ども向けの美術教室やガイドツアー。名画を遊びながら学べる特別プログラムで、幼児～小学生対象。",
-      "date": "7月～8月（日程は毎週異なる）",
-      "place": "ルーヴル美術館（Rue de Rivoli, 75004 Paris）",
-      "link": "https://www.louvre.fr/en/visites-et-activites",
+      "title": "ルーヴル美術館の子ども向け特別ツアー・ワークショップ",
+      "description": "夏休み期間中、子ども向けのガイド付きツアーやアート・ワークショップを開催。有名作品を親子で鑑賞し、創作活動も体験できます。",
+      "date": "7月〜8月",
+      "place": "ルーヴル美術館、パリ第1区",
+      "link": "https://www.louvre.fr/en/visites-et-ateliers",
       "free": false
     },
     {
-      "title": "シテ科学博物館の夏休み特別展",
-      "description": "パリ・ラ・ヴィレットにある科学館で、子ども向けの体験型展示や実験イベントが充実。全年代の子どもが夢中になれます。",
-      "date": "7月～8月",
-      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/en",
+      "title": "シネマテーク・フランセーズ夏休みキッズ映画祭",
+      "description": "子ども向けの質の高いアニメ映画や家族映画を特別上映。字幕付きやフランス語のみなど選択肢あり。涼しい室内で映画鑑賞。",
+      "date": "7月中旬〜8月下旬",
+      "place": "シネマテーク・フランセーズ、パリ第4区",
+      "link": "https://www.cinematheque.fr/",
       "free": false
     },
     {
-      "title": "モンソー公園の水遊び広場＆屋外映画上映",
-      "description": "広大な公園で子ども向けの水遊びエリアが登場。夜間は芝生での屋外映画上映も開催。公園自体は無料で散策可能。",
-      "date": "7月～8月",
-      "place": "Parc Monceau, Boulevard de Courcelles, 75008 Paris",
-      "link": "https://www.paris.fr/pages/le-parc-monceau-1925",
+      "title": "ブローニュの森（Bois de Boulogne）での水遊び・自転車ツアー",
+      "description": "パリの広大な公園で、子どもプール、遊具、自転車レンタルなどが利用可能。ピクニックしながら屋外で一日遊べます。無料エリアも多い。",
+      "date": "7月全体",
+      "place": "ブローニュの森、パリ16区",
+      "link": "https://www.paris.fr/pages/bois-de-boulogne-507",
       "free": true
     },
     {
-      "title": "ベルサイユ宮殿 夏の噴水ショー（Les Grandes Eaux Nocturnes）",
-      "description": "夜間のライトアップされた庭園で音楽と光による噴水パフォーマンス。家族で魔法のような体験ができる夏のスペシャルイベント。",
-      "date": "7月～8月（火・木・土）",
-      "place": "Palace of Versailles Gardens, Versailles",
-      "link": "https://www.chateauversailles.fr/en",
+      "title": "国立自然史博物館の夏休み子ども展示・恐竜展",
+      "description": "夏期に恐竜や動物に関する子ども向け特別展示やスカベンジャーハント型ワークショップを開催。実物化石や標本を間近で観察できます。",
+      "date": "7月〜8月",
+      "place": "国立自然史博物館、パリ第5区",
+      "link": "https://www.mnhn.fr/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-16T01:16:10.311Z"
+  "updatedAt": "2026-07-20T01:22:49.769Z"
 }

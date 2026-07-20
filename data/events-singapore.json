@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Great Singapore Sale（グレートシンガポールセール）",
-      "description": "シンガポール全島でのセール期間。多くのショッピングモールが家族向けイベントやキッズアクティビティを開催。エアコン完備で快適に楽しめます。",
-      "date": "7月上旬〜下旬",
-      "place": "シンガポール全島（オーチャード地区など各商業施設）",
-      "link": "https://www.visitsingapore.com",
+      "title": "Great Singapore Sale（グレート・シンガポール・セール）",
+      "description": "全島規模のショッピングセール。子ども服やおもちゃ、家族向け商品が最大70%割引。家族で楽しくショッピングできるイベントです。",
+      "date": "7月中旬〜下旬",
+      "place": "シンガポール全島の百貨店・ショッピングモール",
+      "link": "https://www.visitsingapore.com/festivals-events-singapore/great-singapore-sale/",
       "free": true
     },
     {
-      "title": "National Day Celebrations（ナショナルデー）",
-      "description": "8月9日のシンガポール独立記念日を記念したイベント。公園でのコンサート、パレード、花火など家族向けプログラムが無料で開催されます。",
-      "date": "7月下旬〜8月初旬準備期間、本番8月9日",
-      "place": "Marina Bay、パダン広場ほか公共スペース",
-      "link": "https://www.visitsingapore.com",
-      "free": true
-    },
-    {
-      "title": "Singapore Zoo Summer Camp & Special Programs",
-      "description": "シンガポール動物園の季節プログラム。子ども向けの動物ふれあい体験やナイトサファリツアーなど。乳幼児〜小学生向けのアクティビティが充実。",
-      "date": "7月全期間（予約制）",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.wrs.com.sg/en/singapore-zoo",
+      "title": "NParks ガーデンズ・バイ・ザ・ベイ「Summer Nights」",
+      "description": "夜間限定のライトアップイベント。Supertrees のイルミネーションや家族向けアクティビティが楽しめます。屋外で涼しい夜間に訪問できます。",
+      "date": "7月中旬〜下旬",
+      "place": "ガーデンズ・バイ・ザ・ベイ、シンガポール（18 Marina Gardens Drive）",
+      "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "Gardens by the Bay - Summer Celebration",
-      "description": "人気スポット「ガーデンズ・バイ・ザ・ベイ」での夏季キッズプログラム。スーパーツリーの光と音のショーは無料で毎晩楽しめます。",
-      "date": "7月全期間",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "シンガポール動物園「Summer Camp」プログラム",
+      "description": "子ども向けの特別教育プログラム。動物との触れ合いやワークショップなど、夏休み期間に開催されるスペシャルアクティビティです。",
+      "date": "7月上旬〜下旬",
+      "place": "Singapore Zoo（80 Mandai Lake Road）",
+      "link": "https://www.zoo.com.sg",
+      "free": false
+    },
+    {
+      "title": "East Coast Park での家族向けアウトドア",
+      "description": "シンガポール最大のビーチパーク。無料で利用でき、子ども向けプレイグラウンド、サイクリング、ピクニックが楽しめる屋外スポットです。",
+      "date": "7月上旬〜下旬",
+      "place": "East Coast Park（East Coast Parkway）",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "East Coast Park Beach & Water Sports Activities",
-      "description": "シンガポール最大級の屋外レクリーション施設。ビーチでの水遊び、サイクリング、ピクニックが楽しめます。7月は学校休暇期間で家族連れが多い時期。",
-      "date": "7月全期間（特に学校休暇期間）",
-      "place": "East Coast Park, East Coast Parkway, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
-      "free": true
+      "title": "Science Centre Singapore「Summer Science」特別展示・ワークショップ",
+      "description": "夏休み期間限定の科学体験プログラム。インタラクティブな展示や子ども向けSTEMワークショップで学びながら遊べます。",
+      "date": "7月上旬〜下旬",
+      "place": "Science Centre Singapore（15 Science Centre Road）",
+      "link": "https://www.science.edu.sg",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-16T01:16:26.998Z"
+  "updatedAt": "2026-07-20T01:23:04.767Z"
 }

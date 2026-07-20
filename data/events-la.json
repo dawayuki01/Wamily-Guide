@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ハリウッド・ボウル サマー・コンサート・シリーズ",
-      "description": "アメリカ最大の野外音楽堂で、ファミリー向けのコンサートが開催。クラシック、ポップス、映画音楽など多様なプログラム。ピクニック持参で楽しめます。",
-      "date": "7月中旬〜下旬",
-      "place": "Hollywood Bowl, 1801 N Highland Ave, Los Angeles, CA 90028",
+      "title": "Los Angeles Summer Concerts at the Hollywood Bowl",
+      "description": "ハリウッド・ボウルの夏季コンサートシリーズ。ファミリー向けのクラシック音楽やポップスコンサートが多数開催。ピクニック持参で楽しめます。",
+      "date": "7月上旬〜下旬（期間中毎晩）",
+      "place": "Hollywood Bowl, 1901 N Highland Ave, Los Angeles, CA 90068",
       "link": "https://www.hollywoodbowl.com",
       "free": false
     },
     {
-      "title": "グリフィス天文台 サマープログラム",
-      "description": "無料で入館でき、季節限定の天文イベントや子ども向けプラネタリウムを実施。ロサンゼルスの夜景も楽しめる屋外施設。",
-      "date": "7月上旬〜下旬",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス・カウンティ・アーツ・フェスティバル",
-      "description": "アート、音楽、パフォーマンスを楽しむ家族向けイベント。キッズワークショップやインタラクティブ展示があり、無料ゾーンも充実。",
-      "date": "7月上旬〜中旬",
-      "place": "Various locations across Los Angeles County",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "ハンティントン・ライブラリー サマー・ファミリー・デー",
-      "description": "美術館・図書館の広大な庭園でのファミリープログラム。アート体験ワークショップやガイドツアーで子どもも大人も楽しめます。",
-      "date": "7月中旬〜下旬",
-      "place": "The Huntington Library, Art Museum, and Botanical Gardens, 1151 Oxford Rd, San Marino, CA 91108",
-      "link": "https://www.huntington.org",
+      "title": "Aquarium of the Pacific Summer Programs",
+      "description": "太平洋水族館の夏の特別プログラム。子ども向けワークショップや触れ合い体験、夜間営業などが実施されます。",
+      "date": "7月全般（変動あり）",
+      "place": "Aquarium of the Pacific, 100 Aquarium Way, Long Beach, CA 90802",
+      "link": "https://www.aquariumofpacific.org",
       "free": false
     },
     {
-      "title": "サンタモニカ・ビーチ サマーアクティビティ",
-      "description": "ビーチでの遊泳、砂遊び、ピアでの娯楽施設利用。7月は最高の海水温で、家族向けのビーチバレーやサンセット映画上映も開催。",
-      "date": "7月上旬〜下旬",
-      "place": "Santa Monica Beach, Santa Monica, CA 90401",
-      "link": "https://www.santamonica.gov",
+      "title": "Free Summer Movies in Parks",
+      "description": "ロサンゼルス市内の公園で開催される無料映画上映会。家族向けアニメ映画が上映され、毎週実施。持参のピクニックシートでリラックス鑑賞。",
+      "date": "7月全般（週末）",
+      "place": "Los Angeles市内各公園（Griffith Park, Elysian Park他）",
+      "link": "https://www.lacity.gov/parks-recreation",
       "free": true
+    },
+    {
+      "title": "Runyon Canyon Hiking Trail",
+      "description": "ロサンゼルス最人気のハイキングコース。家族向けの歩きやすいルートあり。早朝がおすすめ。眺望が素晴らしく、ロサンゼルス全景が見えます。",
+      "date": "7月全般（早朝推奨）",
+      "place": "Runyon Canyon Park, 2000 N Fuller Ave, Los Angeles, CA 90046",
+      "link": "https://www.laparks.org/runyon-canyon-park",
+      "free": true
+    },
+    {
+      "title": "Los Angeles County Museum of Art (LACMA) Summer Events",
+      "description": "LAC​MAの夏休み期間中の子ども向けイベント。ファミリー向けワークショップ、アート体験プログラムが開催されます。",
+      "date": "7月全般",
+      "place": "LACMA, 5905 Wilshire Blvd, Los Angeles, CA 90036",
+      "link": "https://www.lacma.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-16T01:16:50.268Z"
+  "updatedAt": "2026-07-20T01:23:30.410Z"
 }

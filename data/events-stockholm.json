@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "スウェーデン最大の文化祭。音楽、ダンス、子ども向けワークショップ、水上アクティビティなどが島々で開催されます。家族向けプログラムが充実しています。",
-      "date": "7月中旬（通常10日間程度）",
-      "place": "ストックホルム市内全域（ガムラスタン、ノルマルム、ジュルゴーデン島など）",
-      "link": "https://www.stockholmwaterfestival.se",
+      "description": "スウェーデン最大級の水上祭典。ボートレース、音楽ライブ、子ども向けアクティビティが満載。Riddarholmen島とNorrmalm地区が主会場です。",
+      "date": "7月中旬（通常8月上旬ですが、2026年は変更の可能性があります）",
+      "place": "Riddarholmen Island、Norrmalm District、Stockholm",
+      "link": "https://www.stockholmwaterfestival.se/",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の夏プログラム",
-      "description": "スウェーデンの伝統的な建物と動物園。7月は子ども向けワークショップ、昔ながらの工芸体験、動物との触れ合いが豊富。北欧文化を学べます。",
-      "date": "7月通年",
-      "place": "Djurgården, Skansen, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
+      "title": "ヴァーサ博物館の夏季子ども向けプログラム",
+      "description": "17世紀の戦艦ヴァーサを保存する博物館。夏休み期間中、子ども向けのワークショップやガイドツアーを実施。海洋歴史を楽しく学べます。",
+      "date": "7月全期間",
+      "place": "Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se/",
       "free": false
     },
     {
-      "title": "ロイヤル・ドラゴンボート・フェスティバル",
-      "description": "水上での伝統ドラゴンボートレース。ストックホルムの運河沿いで開催。観覧は無料。色彩豊かなボート、音楽、屋台があり家族向けです。",
-      "date": "7月中旬",
-      "place": "ストックホルム市内運河沿い（具体的な開催地はイベント発表時に確認）",
+      "title": "スカンセン野外博物館でのお花畑と動物ふれあい",
+      "description": "北欧最大の野外博物館。7月はスウェーデン民族衣装イベント、野生動物、美しい季節の花が楽しめます。子ども向けアクティビティも充実。",
+      "date": "7月全期間",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
+      "free": false
+    },
+    {
+      "title": "ジュラルデン島でのピクニック・水浴び（無料）",
+      "description": "ストックホルム湾の島々を巡る無料アイランドホッピング。ジュラルデンは家族向けビーチとピクニックエリア。自然とスウェーデン夏を満喫できます。",
+      "date": "7月全期間",
+      "place": "Djurgården Island vicinity、Stockholm",
       "link": "",
       "free": true
     },
     {
-      "title": "ジュルゴーデン島でのサイクリング・ウォーキング",
-      "description": "スウェーデン王宮、スキー博物館、アビーケオ・アイランドなどが集中する島。子ども向けの遊び場、レンタサイクルが充実。7月の北欧の短い夏を満喫できます。",
-      "date": "7月通年",
-      "place": "Djurgården Island, Stockholm",
-      "link": "https://www.visitstockholm.com/djurgarden/",
-      "free": true
-    },
-    {
-      "title": "グリーナ・ルンド遊園地の夏季営業",
-      "description": "ジュルゴーデン島内の遊園地。メリーゴーラウンド、子ども向けライド、コンサートが豊富。7月は長日を活かし営業時間が長く、夏限定イベントも開催されます。",
-      "date": "7月通年",
-      "place": "Djurgården, Gröna Lund, 102 52 Stockholm",
-      "link": "https://www.gronalund.com",
+      "title": "ノーベル博物館の子ども向けサマーワークショップ",
+      "description": "ノーベル賞の歴史と科学を学べる博物館。7月は子ども向けの実験ワークショップや双話型展示を開催。科学への興味を引き出します。",
+      "date": "7月全期間",
+      "place": "Stortorget 2, 103 16 Stockholm",
+      "link": "https://www.nobelmuseum.se/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-16T01:16:18.883Z"
+  "updatedAt": "2026-07-20T01:22:57.436Z"
 }

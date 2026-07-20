@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン独立記念日（Araw ng Kalayaan）関連イベント",
-      "description": "7月12日前後、全市でパレードやコンサート、文化イベントが開催。子ども向けの屋台やパフォーマンスも多数。フィリピン文化を学べる貴重な機会です。",
-      "date": "7月10日〜12日",
-      "place": "マニラ市内全域（メインはRizal Park）",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "フィエスタ・デル・サントニーニョ（Fiesta del Santo Niño）",
+      "description": "マニラの複数地域で開催される子ども向けの伝統的なお祭り。パレード、露店、子ども向けゲーム、地元の食べ物が楽しめます。家族連れで賑わう文化的なイベントです。",
+      "date": "7月第1週（地域により異なる）",
+      "place": "マニラ市内各地（主にバランガイ・サント・ニーニョ地区など）",
+      "link": "https://www.manila.gov.ph",
       "free": true
     },
     {
-      "title": "Enchanted Kingdom（エンチャンテッド・キングダム）サマープログラム",
-      "description": "フィリピン最大のテーマパークが夏季限定キャンペーンを実施。子ども向けアトラクションやキャラクターイベントが充実。乳幼児向けエリアも完備。",
-      "date": "7月全月",
-      "place": "Santa Rosa, Laguna（マニラから約50km）",
-      "link": "https://www.enchantedkingdom.ph/",
+      "title": "スター シティ（Star City）サマーキャンプ",
+      "description": "遊園地スター・シティが提供する夏休み向けキッズプログラム。乗り物の割引チケット、スペシャルイベント、キャラクターショーなどを開催。子どもたちが楽しめる多彩なアトラクション。",
+      "date": "7月上旬〜下旬",
+      "place": "Star City, Seaside Boulevard, Barangay 76, Manila",
+      "link": "https://www.starcity.com.ph",
       "free": false
     },
     {
-      "title": "Manila Ocean Park サマーキャンプ・ワークショップ",
-      "description": "水族館での海洋教育プログラムや子ども向けワークショップを開催。海の生き物について学びながら遊べます。屋内施設で安心。",
-      "date": "7月全月",
-      "place": "Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceanpark.com/",
+      "title": "フィリピン国立動物園（Manila Zoo）の夏季プログラム",
+      "description": "広大な緑地で動物観察ができる動物園。夏休み期間は子ども向けの教育プログラムやふれあいコーナーが充実。屋外で動物たちを学びながら楽しめます。",
+      "date": "7月上旬〜下旬",
+      "place": "Adriatico St, Malate, Manila 1004",
+      "link": "https://www.manilazo.com.ph",
       "free": false
     },
     {
-      "title": "Rizal Park（リサール公園）での屋外アクティビティ",
-      "description": "広大な公園で凧揚げ、サイクリング、屋外ピクニック。子ども向けの広場やプレイエリアがあり、自由に遊べます。7月は午後の雨に注意。",
-      "date": "7月全月",
-      "place": "Rizal Park, Ermita, Manila",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "イントラムロス地区の無料散策＆文化探検",
+      "description": "マニラ最古の城塞都市。石畳の街並み、歴史的な教会、美術館などを家族で散策。多くの広場は無料で楽しめ、子どもも歴史体験できます。夏は早朝訪問がおすすめ。",
+      "date": "7月上旬〜下旬（毎日可能）",
+      "place": "Intramuros, Manila",
+      "link": "https://www.intramurosmanila.ph",
       "free": true
     },
     {
-      "title": "National Museum of the Filipino People 子ども向け展示",
-      "description": "フィリピンの歴史と文化を学べる博物館。夏季に子ども向けの体験型展示やガイドツアーを実施。冷房完備で快適。",
-      "date": "7月全月",
-      "place": "Padre Burgos Street, Ermita, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "キッズゾーン・アクアパーク（SM Malls水上施設）",
+      "description": "大型ショッピングモール内のキッズ向け水遊びスペース。7月の夏休みはスペシャル営業。小さな子どもから楽しめるスライダーやプール施設が完備されています。",
+      "date": "7月上旬〜下旬",
+      "place": "SM Malls of Asia, Entertainment City, Barangay 76, Manila",
+      "link": "https://www.smmalls.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-16T01:16:42.526Z"
+  "updatedAt": "2026-07-20T01:23:23.414Z"
 }
