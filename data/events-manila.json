@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィエスタ・デル・サントニーニョ（Fiesta del Santo Niño）",
-      "description": "マニラの複数地域で開催される子ども向けの伝統的なお祭り。パレード、露店、子ども向けゲーム、地元の食べ物が楽しめます。家族連れで賑わう文化的なイベントです。",
-      "date": "7月第1週（地域により異なる）",
-      "place": "マニラ市内各地（主にバランガイ・サント・ニーニョ地区など）",
-      "link": "https://www.manila.gov.ph",
+      "title": "フィリピン建国記念日（Araw ng Kasapi）イベント",
+      "description": "7月12日前後、マニラ市内で開催される建国記念祭。パレード、文化表演、子ども向けワークショップなど家族向けプログラムが充実。",
+      "date": "7月上旬〜中旬",
+      "place": "リサール公園（Rizal Park）及びマニラ市内各地",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "スター シティ（Star City）サマーキャンプ",
-      "description": "遊園地スター・シティが提供する夏休み向けキッズプログラム。乗り物の割引チケット、スペシャルイベント、キャラクターショーなどを開催。子どもたちが楽しめる多彩なアトラクション。",
-      "date": "7月上旬〜下旬",
-      "place": "Star City, Seaside Boulevard, Barangay 76, Manila",
-      "link": "https://www.starcity.com.ph",
+      "title": "ナショナル・ミュージアム・オブ・ザ・フィリピン 夏休みプログラム",
+      "description": "7月の子ども向け特別企画。恐竜展示、インタラクティブ展示、ワークショップなど。涼しい室内で楽しめます。",
+      "date": "7月中旬〜下旬",
+      "place": "National Museum of the Philippines, East Wing, Rizal Park, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     },
     {
-      "title": "フィリピン国立動物園（Manila Zoo）の夏季プログラム",
-      "description": "広大な緑地で動物観察ができる動物園。夏休み期間は子ども向けの教育プログラムやふれあいコーナーが充実。屋外で動物たちを学びながら楽しめます。",
-      "date": "7月上旬〜下旬",
-      "place": "Adriatico St, Malate, Manila 1004",
-      "link": "https://www.manilazo.com.ph",
+      "title": "タギッグ・ファイアーフライ・ウォッチング（ホタル鑑賞）",
+      "description": "ラグーナ・デ・ベイ周辺でホタルの光を観賞するエコツアー。7月は観測ベストシーズン。夜間屋外アクティビティで子どもの自然体験に最適。",
+      "date": "7月中旬〜下旬",
+      "place": "Laguna de Bay, Taguig City（マニラから約30分）",
+      "link": "https://www.tourism.gov.ph/",
       "free": false
     },
     {
-      "title": "イントラムロス地区の無料散策＆文化探検",
-      "description": "マニラ最古の城塞都市。石畳の街並み、歴史的な教会、美術館などを家族で散策。多くの広場は無料で楽しめ、子どもも歴史体験できます。夏は早朝訪問がおすすめ。",
-      "date": "7月上旬〜下旬（毎日可能）",
-      "place": "Intramuros, Manila",
-      "link": "https://www.intramurosmanila.ph",
+      "title": "フィリピン・スポーツ・コミッション キッズ・スポーツ・デー",
+      "description": "7月に実施される子ども向けスポーツ体験イベント。バスケ、バレー、水泳など各種競技の体験教室。参加費無料の回も多数。",
+      "date": "7月中旬",
+      "place": "PSC Complex, Makati City",
+      "link": "https://www.psc.gov.ph/",
       "free": true
     },
     {
-      "title": "キッズゾーン・アクアパーク（SM Malls水上施設）",
-      "description": "大型ショッピングモール内のキッズ向け水遊びスペース。7月の夏休みはスペシャル営業。小さな子どもから楽しめるスライダーやプール施設が完備されています。",
-      "date": "7月上旬〜下旬",
-      "place": "SM Malls of Asia, Entertainment City, Barangay 76, Manila",
-      "link": "https://www.smmalls.com",
+      "title": "MOA（モール・オブ・アジア）アリーナ 水上遊技施設＆キッズゾーン",
+      "description": "夏季限定の屋外ウォータープレイグラウンド。スライダー、噴水広場など。雨季のマニラで涼しく遊べる。安全監視員常駐。",
+      "date": "7月全期間",
+      "place": "Mall of Asia Complex, Pasay City",
+      "link": "https://www.mallofasia.com.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-20T01:23:23.414Z"
+  "updatedAt": "2026-07-23T01:23:46.934Z"
 }

@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "スウェーデン最大級の水上祭典。ボートレース、音楽ライブ、子ども向けアクティビティが満載。Riddarholmen島とNorrmalm地区が主会場です。",
-      "date": "7月中旬（通常8月上旬ですが、2026年は変更の可能性があります）",
-      "place": "Riddarholmen Island、Norrmalm District、Stockholm",
-      "link": "https://www.stockholmwaterfestival.se/",
+      "description": "スウェーデン最大級の夏祭り。音楽ライブ、パフォーマンス、子ども向けアクティビティが開催される。ガムラスタン（旧市街）周辺が中心。",
+      "date": "7月中旬〜下旬（例年8月上旬の場合あり、要確認）",
+      "place": "ガムラスタン、ストックホルム旧市街",
+      "link": "https://stockholmwaterfestival.se/",
       "free": true
     },
     {
-      "title": "ヴァーサ博物館の夏季子ども向けプログラム",
-      "description": "17世紀の戦艦ヴァーサを保存する博物館。夏休み期間中、子ども向けのワークショップやガイドツアーを実施。海洋歴史を楽しく学べます。",
-      "date": "7月全期間",
-      "place": "Galärvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se/",
-      "free": false
-    },
-    {
-      "title": "スカンセン野外博物館でのお花畑と動物ふれあい",
-      "description": "北欧最大の野外博物館。7月はスウェーデン民族衣装イベント、野生動物、美しい季節の花が楽しめます。子ども向けアクティビティも充実。",
-      "date": "7月全期間",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "title": "スカンセン野外博物館のサマープログラム",
+      "description": "動物園と野外博物館の複合施設。7月はスウェーデンの伝統的な夏行事やワークショップ、子ども向けプログラムが充実。",
+      "date": "7月通期",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
       "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ジュラルデン島でのピクニック・水浴び（無料）",
-      "description": "ストックホルム湾の島々を巡る無料アイランドホッピング。ジュラルデンは家族向けビーチとピクニックエリア。自然とスウェーデン夏を満喫できます。",
-      "date": "7月全期間",
-      "place": "Djurgården Island vicinity、Stockholm",
+      "title": "ユーランダ島（Djurgården）でのアイスクリーム・ピクニック",
+      "description": "王立公園で絶景を楽しみながらピクニック。無料でアクセス可。トーベ・ヤンソン彫刻公園やグローナランド遊園地も近い。",
+      "date": "7月通期",
+      "place": "Djurgården, Stockholm",
       "link": "",
       "free": true
     },
     {
-      "title": "ノーベル博物館の子ども向けサマーワークショップ",
-      "description": "ノーベル賞の歴史と科学を学べる博物館。7月は子ども向けの実験ワークショップや双話型展示を開催。科学への興味を引き出します。",
-      "date": "7月全期間",
-      "place": "Stortorget 2, 103 16 Stockholm",
-      "link": "https://www.nobelmuseum.se/",
+      "title": "グローナランド遊園地の夏営業",
+      "description": "スウェーデン最古の遊園地。子ども向けライドと家族向けアトラクションが豊富。7月は長時間営業で快適に楽しめる。",
+      "date": "7月通期",
+      "place": "Gröna Lund, Allmänna gränd 9, Stockholm",
+      "link": "https://www.gronalund.com/",
+      "free": false
+    },
+    {
+      "title": "ヴァーサ号博物館（Vasa Museum）の子ども向けガイドツアー",
+      "description": "17世紀の軍艦を保存した博物館。夏季の子ども向けツアーやアクティビティで、スウェーデン海事史を学べる。",
+      "date": "7月通期",
+      "place": "Galärvarvsvägen 14, Stockholm",
+      "link": "https://www.vasamuseet.se/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-20T01:22:57.436Z"
+  "updatedAt": "2026-07-23T01:23:21.748Z"
 }

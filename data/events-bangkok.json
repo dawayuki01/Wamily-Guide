@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン準備期間のナイトマーケット",
-      "description": "7月はロイクラトン（11月）に向けた準備期間。各地のナイトマーケットで灯籠や工芸品が販売され、子ども向けの手作り体験ワークショップが開催されます。家族で季節を先取りできます。",
-      "date": "7月中旬〜下旬（毎週末）",
-      "place": "チャトゥチャック・ウィークエンド・マーケット周辺、またはパテットナイトマーケット（Patpet Night Market）",
-      "link": "",
+      "title": "アサラハ・ブーチャー（仏教の重要な日）",
+      "description": "タイの重要な仏教行事。寺院で参拝・お祈り体験ができ、子どもも参加可能。ろうそく行列など神聖な雰囲気を経験できます。",
+      "date": "7月中旬頃（月の満ち欠けで変動）",
+      "place": "バンコク市内の主要寺院（ワット・プラケオ、ワット・ポーなど）",
+      "link": "https://www.tourismthailand.org/",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館の夏休み特別企画",
-      "description": "7月の夏休み期間中、子ども向けの海洋生物教育プログラムやタッチプール体験、夜間営業の特別イベントが実施されます。涼しい屋内で学びながら楽しめます。",
-      "date": "7月（夏休み期間中、日程確認要）",
-      "place": "サイアム・パラゴン地下1階、999 Rama I Road, Pathumwan",
-      "link": "https://www.siamparagon.co.th/",
-      "free": false
-    },
-    {
-      "title": "ルンピニ公園での朝の太極拳・ヨガ体験",
-      "description": "バンコク最大の都市公園で、毎朝地元民と一緒に無料で太極拳やエクササイズに参加できます。朝の涼しい時間帯に子どもと自然を感じられる屋外アクティビティです。",
-      "date": "7月毎日（特に早朝6:00〜7:00）",
-      "place": "ルンピニ公園（Lumphini Park）、Rama IV Road, Pathumwan",
-      "link": "",
+      "title": "チャトチャック・ウィークエンド・マーケット",
+      "description": "バンコク最大級の週末マーケット。食べ物、おもちゃ、衣類など多数出店。キッズエリアもあり、家族向けの雑貨やスナックが豊富です。",
+      "date": "7月毎週土日",
+      "place": "Chatuchak Park, 50 Soi Pradipat 30, Phahonyothin Rd., Chatuchak, Bangkok 10900",
+      "link": "https://www.chatuchakmarket.org/",
       "free": true
     },
     {
-      "title": "キッザニア・バンコクの雨季限定プログラム",
-      "description": "7月は雨季のため屋内施設が重宝されます。キッザニア・バンコクでは夏休み向けの限定職業体験プログラムが実施され、子どもたちが安全に様々な職業を学べます。",
-      "date": "7月（日程確認要）",
-      "place": "キッザニア・バンコク、The AEON MALL Bang Yai, 550 Moo 7, Bang Yai, Nonthaburi",
-      "link": "https://www.kidzania.co.th/",
+      "title": "サイアム・パラゴン水族館（Siam Paragon Aquarium）",
+      "description": "大規模な室内水族館。サメやマンタなど豊富な海洋生物を観察でき、タッチプール体験も可能。涼しい屋内で過ごせます。",
+      "date": "7月通年営業（特に暑い時期におすすめ）",
+      "place": "Siam Paragon, 991 Rama I Rd., Pathumwan, Bangkok 10330",
+      "link": "https://www.siamparagonaquarium.com/",
       "free": false
     },
     {
-      "title": "アジア・ティーク・ハウスでの水遊び体験",
-      "description": "7月の雨季を活かした屋外ツアー。アユタヤの古い木造建築を見学しながら、川沿いの自然環境を体験できます。小学生向けの水上アクティビティや伝統工芸体験も有り。",
-      "date": "7月（雨の状況確認要）",
-      "place": "アジア・ティーク・ハウス、44/1 Moo 1, U-Thong District, Ayutthaya",
-      "link": "https://www.asiateekhouseyayoi.com/",
+      "title": "ルンピニ公園でのアウトドア活動",
+      "description": "バンコク中心部の大規模公園。朝の散歩、自転車レンタル、公園内のキッズプレイエリアで遊べます。太陽が低い早朝訪問がおすすめ。",
+      "date": "7月通年（早朝6時〜7時半推奨）",
+      "place": "Lumphini Park, Thanon Rama IV, Khwaeng Pathum Wan, Bangkok 10330",
+      "link": "https://www.bangkok.com/lumphini-park/",
+      "free": true
+    },
+    {
+      "title": "キッザニア・バンコク（KidZania Bangkok）",
+      "description": "子ども向けテーマパーク。100以上の職業体験アクティビティが可能。エアコン完備で、雨季の時期に最適です。",
+      "date": "7月通年営業",
+      "place": "CentralWorld, 4F, 999/9 Rama I Rd., Pathumwan, Bangkok 10330",
+      "link": "https://www.kidzania.com/en/bangkok",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-20T01:23:14.140Z"
+  "updatedAt": "2026-07-23T01:23:38.810Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Festival of the Arts",
-      "description": "ホノルル美術館で開催される子ども向けアート教室やワークショップ。創作体験を通じて芸術に親しめます。",
-      "date": "7月中旬〜下旬",
-      "place": "ホノルル美術館（Honolulu Museum of Art）、900 S. Beretania St, Honolulu",
-      "link": "https://honolulumuseum.org/",
+      "title": "Honolulu Festival",
+      "description": "ハワイの文化を祝う大規模フェスティバル。パレード、ステージパフォーマンス、花火などで家族向けの楽しいイベント。屋台やグルメも充実しています。",
+      "date": "7月中旬（毎年変動）",
+      "place": "ホノルル市街地各所、ワイキキ周辺",
+      "link": "",
       "free": false
     },
     {
-      "title": "Ala Moana Center Summer Keiki Programs",
-      "description": "アラモアナセンターの夏の子ども向けプログラム。無料の音楽ライブやダンス教室が開催されます。",
-      "date": "7月上旬〜下旬",
-      "place": "アラモアナセンター（Ala Moana Center）、1450 Ala Moana Blvd, Honolulu",
-      "link": "https://www.alamoanacenter.com/",
-      "free": true
-    },
-    {
-      "title": "マノア滝トレッキング",
-      "description": "ワイキキから近い初心者向けハイキング。往復約1.6km、乳幼児用バックパックで挑戦可能。熱帯雨林と滝を体験。",
-      "date": "7月（朝早めがおすすめ）",
-      "place": "マノア滝トレイルヘッド（Manoa Falls Trail）、Manoa Road, Honolulu",
+      "title": "Kaimuki Library Summer Reading Program",
+      "description": "図書館での無料の子ども向け読書プログラム。ストーリータイムやハンドクラフトなど、涼しい室内で楽しめるアクティビティが盛りだくさんです。",
+      "date": "7月上旬〜8月下旬",
+      "place": "Kaimuki Public Library、3058 Campbell Ave, Honolulu",
       "link": "",
       "free": true
     },
     {
-      "title": "ワイキキ水族館の夏イベント",
-      "description": "夏の特別展示やお子さん向けのタッチプールプログラム。海の生き物に直接触れられます。",
-      "date": "7月上旬〜下旬",
-      "place": "ワイキキ水族館（Waikiki Aquarium）、2777 Kalakaua Ave, Honolulu",
-      "link": "https://waikikiaquarium.org/",
+      "title": "Hanauma Bay Snorkeling",
+      "description": "初心者向けシュノーケリングスポット。透き通った海で熱帯魚を観察でき、子どもも安全に楽しめる屋外アクティビティ。海の生物学習になります。",
+      "date": "7月通年（午前の訪問推奨）",
+      "place": "Hanauma Bay Nature Preserve, Honolulu",
+      "link": "https://www.honolulu.gov/parks-recreation/parks/hanauma-bay.html",
       "free": false
     },
     {
-      "title": "カイルア・ビーチでの海水浴と地元マーケット",
-      "description": "ハワイで最も家族向けのビーチ。遠浅で安全。週末の地元ファーマーズマーケットで新鮮なフルーツやローカルフードが購入可能。",
-      "date": "7月通期（土日がマーケット開催）",
-      "place": "カイルア・ビーチ（Kailua Beach）、Kailua Beach Park, Kailua",
-      "link": "",
+      "title": "Honolulu Zoo Summer Camp & Keeper Programs",
+      "description": "ホノルル動物園での子ども向け特別プログラム。サマーキャンプや飼育員体験で、動物について学べるワークショップが開催されます。",
+      "date": "7月上旬〜下旬",
+      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu",
+      "link": "https://www.honoluluzoo.org/",
+      "free": false
+    },
+    {
+      "title": "Waikiki Beach Free Outdoor Activities",
+      "description": "無料で楽しめるビーチアクティビティ。水遊び、砂遊び、ボディサーフィン体験など。ライフガード常駐で家族連れも安心です。",
+      "date": "7月通年",
+      "place": "Waikiki Beach, Honolulu",
+      "link": "https://www.gohawaii.com/islands/oahu/beaches/waikiki-beach",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-20T01:23:37.424Z"
+  "updatedAt": "2026-07-23T01:24:03.455Z"
 }

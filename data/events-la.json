@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles Summer Concerts at the Hollywood Bowl",
-      "description": "ハリウッド・ボウルの夏季コンサートシリーズ。ファミリー向けのクラシック音楽やポップスコンサートが多数開催。ピクニック持参で楽しめます。",
-      "date": "7月上旬〜下旬（期間中毎晩）",
-      "place": "Hollywood Bowl, 1901 N Highland Ave, Los Angeles, CA 90068",
-      "link": "https://www.hollywoodbowl.com",
+      "title": "ロサンゼルス・フィルハーモニック・ハリウッド・ボウル夏フェスティバル",
+      "description": "屋外音楽堂でのファミリー向けコンサート。花火やポップス、クラシックなど家族で楽しめるプログラムが充実。ピクニック持参OK。",
+      "date": "7月上旬〜下旬",
+      "place": "Hollywood Bowl, 2301 N Highland Ave, Los Angeles, CA 90068",
+      "link": "https://www.hollywoodbowl.com/",
       "free": false
     },
     {
-      "title": "Aquarium of the Pacific Summer Programs",
-      "description": "太平洋水族館の夏の特別プログラム。子ども向けワークショップや触れ合い体験、夜間営業などが実施されます。",
-      "date": "7月全般（変動あり）",
-      "place": "Aquarium of the Pacific, 100 Aquarium Way, Long Beach, CA 90802",
-      "link": "https://www.aquariumofpacific.org",
-      "free": false
-    },
-    {
-      "title": "Free Summer Movies in Parks",
-      "description": "ロサンゼルス市内の公園で開催される無料映画上映会。家族向けアニメ映画が上映され、毎週実施。持参のピクニックシートでリラックス鑑賞。",
-      "date": "7月全般（週末）",
-      "place": "Los Angeles市内各公園（Griffith Park, Elysian Park他）",
-      "link": "https://www.lacity.gov/parks-recreation",
+      "title": "グリフィス天文台 無料開放・サマープログラム",
+      "description": "プラネタリウム上映やサマー特別展示。夕方以降の無料オープンスカイで星空観察。子ども向けワークショップも開催。",
+      "date": "7月中旬〜下旬",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "Runyon Canyon Hiking Trail",
-      "description": "ロサンゼルス最人気のハイキングコース。家族向けの歩きやすいルートあり。早朝がおすすめ。眺望が素晴らしく、ロサンゼルス全景が見えます。",
-      "date": "7月全般（早朝推奨）",
-      "place": "Runyon Canyon Park, 2000 N Fuller Ave, Los Angeles, CA 90046",
-      "link": "https://www.laparks.org/runyon-canyon-park",
+      "title": "サンタモニカ・ピア夏祭り・遊園地シーズン",
+      "description": "海辺の観覧車やアトラクション、ビーチでの水遊び。ストリートパフォーマンスなど夏の風物詩が満載。屋外での家族向けエンターテイメント。",
+      "date": "7月上旬〜下旬",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
       "free": true
     },
     {
-      "title": "Los Angeles County Museum of Art (LACMA) Summer Events",
-      "description": "LAC​MAの夏休み期間中の子ども向けイベント。ファミリー向けワークショップ、アート体験プログラムが開催されます。",
-      "date": "7月全般",
-      "place": "LACMA, 5905 Wilshire Blvd, Los Angeles, CA 90036",
-      "link": "https://www.lacma.org",
+      "title": "LA動物園 サマー・ナイト・キャンプ・プログラム",
+      "description": "夜間開園での動物観察。特別ワークショップや飼育員解説。涼しい夜間に親子で動物を学べるサマーイベント。",
+      "date": "7月中旬〜下旬",
+      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org/",
       "free": false
+    },
+    {
+      "title": "グランデール・ザ・アメリカン・モール サマー・キッズ・イベント",
+      "description": "無料キッズワークショップ、エンターテイメント、サマー映画上映。クーラーの効いた屋内で安心。週末ごとの特別プログラム開催。",
+      "date": "7月上旬〜下旬",
+      "place": "The Americana at Brand, 889 American Way, Glendale, CA 91210",
+      "link": "https://www.americanaatbrand.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-20T01:23:30.410Z"
+  "updatedAt": "2026-07-23T01:23:55.789Z"
 }
