@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・フィルハーモニック・ハリウッド・ボウル夏フェスティバル",
-      "description": "屋外音楽堂でのファミリー向けコンサート。花火やポップス、クラシックなど家族で楽しめるプログラムが充実。ピクニック持参OK。",
-      "date": "7月上旬〜下旬",
-      "place": "Hollywood Bowl, 2301 N Highland Ave, Los Angeles, CA 90068",
-      "link": "https://www.hollywoodbowl.com/",
+      "title": "ロサンゼルス・カウンティ・フェア（LA County Fair）",
+      "description": "7月中旬から8月にかけて開催される歴史ある博覧会。子ども向けの乗り物、ゲーム、ライブエンターテイメント、グルメが充実。家族向けの楽しいイベントです。",
+      "date": "7月中旬〜8月上旬",
+      "place": "Pomona Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://lacountyfair.com/",
       "free": false
     },
     {
-      "title": "グリフィス天文台 無料開放・サマープログラム",
-      "description": "プラネタリウム上映やサマー特別展示。夕方以降の無料オープンスカイで星空観察。子ども向けワークショップも開催。",
-      "date": "7月中旬〜下旬",
+      "title": "サンタモニカ・ビーチでの海水浴と屋外アクティビティ",
+      "description": "7月は南カリフォルニアの最高の海シーズン。サンタモニカビーチは波が穏やかで家族連れに最適。ライフガードが常駐し、ビーチパークでのピクニックも楽しめます。",
+      "date": "7月通年",
+      "place": "Santa Monica Beach, 1550 Pacific Coast Hwy, Santa Monica, CA 90401",
+      "link": "https://www.smgov.net/departments/parks/content.aspx?id=4898",
+      "free": true
+    },
+    {
+      "title": "グリフィス天文台での星空観察プログラム",
+      "description": "夏休みスペシャルプログラム開催。プラネタリウムショー、望遠鏡での観察、天文学ワークショップなど。夜間は涼しく、子ども向けの天文教育が充実しています。",
+      "date": "7月通年（夏休み特別プログラム）",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "サンタモニカ・ピア夏祭り・遊園地シーズン",
-      "description": "海辺の観覧車やアトラクション、ビーチでの水遊び。ストリートパフォーマンスなど夏の風物詩が満載。屋外での家族向けエンターテイメント。",
-      "date": "7月上旬〜下旬",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com/",
-      "free": true
-    },
-    {
-      "title": "LA動物園 サマー・ナイト・キャンプ・プログラム",
-      "description": "夜間開園での動物観察。特別ワークショップや飼育員解説。涼しい夜間に親子で動物を学べるサマーイベント。",
-      "date": "7月中旬〜下旬",
-      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org/",
+      "title": "ロサンゼルス自然史博物館のサマープログラム",
+      "description": "恐竜展示、化石発掘体験、自然科学の実験教室など。子どもの探究心を刺激する夏休み特別プログラムが豊富。屋内で快適に学べます。",
+      "date": "7月通年（サマープログラム期間）",
+      "place": "Natural History Museum of Los Angeles, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
       "free": false
     },
     {
-      "title": "グランデール・ザ・アメリカン・モール サマー・キッズ・イベント",
-      "description": "無料キッズワークショップ、エンターテイメント、サマー映画上映。クーラーの効いた屋内で安心。週末ごとの特別プログラム開催。",
-      "date": "7月上旬〜下旬",
-      "place": "The Americana at Brand, 889 American Way, Glendale, CA 91210",
-      "link": "https://www.americanaatbrand.com/",
-      "free": true
+      "title": "ハリウッド・ボウルの家族向けコンサート",
+      "description": "夏の風物詩。屋外音楽堂でのライブパフォーマンス。ファミリーコンサートやディズニー特集など、子ども向けのプログラムが多数。ピクニック気分で楽しめます。",
+      "date": "7月通年",
+      "place": "Hollywood Bowl, 1901 N Highland Ave, Los Angeles, CA 90068",
+      "link": "https://www.hollywoodbowl.com/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-23T01:23:55.789Z"
+  "updatedAt": "2026-07-27T01:28:04.583Z"
 }

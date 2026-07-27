@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Great Singapore Sale（グレート・シンガポール・セール）",
-      "description": "シンガポール最大のショッピングセール。子ども服や玩具も大幅割引。家族で楽しめるショッピングイベントで、多くのショッピングモールで開催されます。",
-      "date": "7月上旬〜下旬",
-      "place": "シンガポール全島（オーチャード地区など主要ショッピングエリア）",
-      "link": "https://www.yoursingapore.com/travel-guides/seasonal-events/great-singapore-sale.html",
+      "description": "シンガポール最大のセール期間。子ども服や玩具店での割引が充実。ファミリー向けのショッピングイベントで、キッズゾーンやプレイエリアも設置されることが多い。",
+      "date": "7月初旬〜下旬（年により変動）",
+      "place": "シンガポール全島のショッピングモール・商店街",
+      "link": "https://www.visitsingapore.com/",
+      "free": true
+    },
+    {
+      "title": "シンガポール動物園（Singapore Zoo）サマープログラム",
+      "description": "乳幼児〜小学生向けの特別教育プログラム。動物との触れ合い体験やガイド付きツアーが充実。暑い時期も朝方の涼しい時間帯で快適に楽しめる。",
+      "date": "7月中旬〜下旬",
+      "place": "シンガポール動物園、80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.mandai.sg/singapore-zoo",
       "free": false
     },
     {
-      "title": "East Coast Park サマーアクティビティ",
-      "description": "シンガポール最大のビーチパーク。水遊びエリア、バイシクルレンタル、遊具があり、家族で終日楽しめる屋外アクティビティ。7月は学校休暇中で家族向けプログラムが充実。",
-      "date": "7月通年",
-      "place": "East Coast Parkway, Singapore 1545",
+      "title": "East Coast Park（イーストコーストパーク）でのビーチアクティビティ",
+      "description": "シンガポール最大の海浜公園。遊泳エリアは安全柵で保護され、水遊びの他、サイクリングやピクニックが楽しめる屋外ファミリー向けスポット。",
+      "date": "7月全期間（毎日利用可）",
+      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449852",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Singapore Science Centre サマースペシャルプログラム",
-      "description": "子ども向けSTEAM学習体験。7月の学校休暇期間に特別ワークショップ・サマーキャンプを開催。インタラクティブな展示で科学を学べます。",
-      "date": "7月上旬〜下旬",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg/",
-      "free": false
+      "title": "イースト・コースト・ラグーン（East Coast Lagoon）フードマーケット",
+      "description": "屋台フードマーケットでローカルグルメを堪能。家族連れ向けの活気ある雰囲気で、子どもにシンガポール文化を体験させるのに最適。海を眺めながらの食事。",
+      "date": "7月全期間（毎日営業）",
+      "place": "East Coast Lagoon Food Village, 1228 East Coast Parkway, Singapore 449884",
+      "link": "https://www.visitsingapore.com/",
+      "free": true
     },
     {
-      "title": "Gardens by the Bay フラワーショー",
-      "description": "巨大な温室Flower Dome で季節の花展示。ライトアップが美しく、子どもも楽しめます。涼しい屋内施設なので真夏の暑さ対策に最適。",
-      "date": "7月上旬〜中旬",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg/",
-      "free": false
-    },
-    {
-      "title": "National Museum of Singapore キッズプログラム",
-      "description": "7月の学校休暇中に子ども向け展示体験プログラムを実施。シンガポールの文化・歴史を遊びながら学べます。設備充実で乳幼児にも対応。",
-      "date": "7月中旬〜下旬",
-      "place": "93 Stamford Road, Singapore 178897",
+      "title": "シンガポール国立博物館（National Museum Singapore）キッズプログラム",
+      "description": "子ども向けの対話型展示とワークショップ。シンガポールの歴史と文化を楽しく学べる。冷房完備で暑い季節の最適な屋内アクティビティ。",
+      "date": "7月全期間（月曜除く）",
+      "place": "National Museum of Singapore, 93 Stamford Road, Singapore 178897",
       "link": "https://www.nationalmuseum.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-23T01:23:29.433Z"
+  "updatedAt": "2026-07-27T01:27:40.670Z"
 }

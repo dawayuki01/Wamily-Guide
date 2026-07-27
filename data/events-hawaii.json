@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Festival",
-      "description": "ハワイの文化を祝う大規模フェスティバル。パレード、ステージパフォーマンス、花火などで家族向けの楽しいイベント。屋台やグルメも充実しています。",
-      "date": "7月中旬（毎年変動）",
-      "place": "ホノルル市街地各所、ワイキキ周辺",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "Kaimuki Library Summer Reading Program",
-      "description": "図書館での無料の子ども向け読書プログラム。ストーリータイムやハンドクラフトなど、涼しい室内で楽しめるアクティビティが盛りだくさんです。",
-      "date": "7月上旬〜8月下旬",
-      "place": "Kaimuki Public Library、3058 Campbell Ave, Honolulu",
-      "link": "",
+      "title": "Honolulu Festival of Lights - Summer Edition",
+      "description": "ホノルル市内の公園でライトアップされた展示やライブパフォーマンスを楽しむ無料イベント。子ども向けのワークショップやキャラクターグリーティングも開催されます。",
+      "date": "7月中旬〜下旬",
+      "place": "Kapiolani Park、Honolulu、Hawaii",
+      "link": "https://www.honoluluholidaylights.com/",
       "free": true
     },
     {
-      "title": "Hanauma Bay Snorkeling",
-      "description": "初心者向けシュノーケリングスポット。透き通った海で熱帯魚を観察でき、子どもも安全に楽しめる屋外アクティビティ。海の生物学習になります。",
-      "date": "7月通年（午前の訪問推奨）",
-      "place": "Hanauma Bay Nature Preserve, Honolulu",
-      "link": "https://www.honolulu.gov/parks-recreation/parks/hanauma-bay.html",
+      "title": "Hawaii Children's Discovery Center Summer Programs",
+      "description": "ハワイの歴史と文化を学べるインタラクティブ展示。夏季は特別な子ども向けワークショップやSTEAM教育プログラムが毎日開催されます。",
+      "date": "7月全期間",
+      "place": "111 Ohe Street, Honolulu, Hawaii 96813",
+      "link": "https://www.hawaiidiscoverycenter.org/",
       "free": false
     },
     {
-      "title": "Honolulu Zoo Summer Camp & Keeper Programs",
-      "description": "ホノルル動物園での子ども向け特別プログラム。サマーキャンプや飼育員体験で、動物について学べるワークショップが開催されます。",
-      "date": "7月上旬〜下旬",
-      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu",
+      "title": "Sunset Beach Snorkeling & Marine Life Experience",
+      "description": "ハワイの海での屋外スノーケリング体験。夏の7月は海が穏やかで、カラフルな魚やウミガメとの出会いが期待できます。子ども向けガイドツアーもあります。",
+      "date": "7月全期間",
+      "place": "Sunset Beach Park, North Shore, Oahu, Hawaii",
+      "link": "https://www.gohawaii.com/",
+      "free": false
+    },
+    {
+      "title": "KCC Saturday Farmers Market",
+      "description": "ハワイの新鮮なトロピカルフルーツや野菜が並ぶ毎週土曜朝市。試食も豊富で、子どもたちがハワイの食文化を体験できる無料で楽しめるスポット。",
+      "date": "7月全期間（毎週土曜）",
+      "place": "2750 Woodlawn Drive, Honolulu, Hawaii 96822",
+      "link": "https://www.kcc.hawaii.edu/community/farmers-market/",
+      "free": true
+    },
+    {
+      "title": "Honolulu Zoo Summer Family Programs",
+      "description": "ハワイの固有動物や世界の野生動物を学べる施設。夏季は子ども向けの餌やり体験やガイドツアープログラムが充実しています。",
+      "date": "7月全期間",
+      "place": "151 Kapahulu Avenue, Honolulu, Hawaii 96815",
       "link": "https://www.honoluluzoo.org/",
       "free": false
-    },
-    {
-      "title": "Waikiki Beach Free Outdoor Activities",
-      "description": "無料で楽しめるビーチアクティビティ。水遊び、砂遊び、ボディサーフィン体験など。ライフガード常駐で家族連れも安心です。",
-      "date": "7月通年",
-      "place": "Waikiki Beach, Honolulu",
-      "link": "https://www.gohawaii.com/islands/oahu/beaches/waikiki-beach",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-23T01:24:03.455Z"
+  "updatedAt": "2026-07-27T01:28:11.034Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "スウェーデン最大級の夏祭り。音楽ライブ、パフォーマンス、子ども向けアクティビティが開催される。ガムラスタン（旧市街）周辺が中心。",
-      "date": "7月中旬〜下旬（例年8月上旬の場合あり、要確認）",
-      "place": "ガムラスタン、ストックホルム旧市街",
-      "link": "https://stockholmwaterfestival.se/",
-      "free": true
-    },
-    {
-      "title": "スカンセン野外博物館のサマープログラム",
-      "description": "動物園と野外博物館の複合施設。7月はスウェーデンの伝統的な夏行事やワークショップ、子ども向けプログラムが充実。",
-      "date": "7月通期",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "Skansen Summer Festival",
+      "description": "北欧最大の野外博物館Skansenで開催される夏祭り。伝統的なスウェーデン文化、音楽、ダンス、工芸体験など子ども向けプログラムが充実しています。",
+      "date": "7月中旬〜下旬",
+      "place": "Skansen, Djurgården, Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーランダ島（Djurgården）でのアイスクリーム・ピクニック",
-      "description": "王立公園で絶景を楽しみながらピクニック。無料でアクセス可。トーベ・ヤンソン彫刻公園やグローナランド遊園地も近い。",
-      "date": "7月通期",
-      "place": "Djurgården, Stockholm",
+      "title": "Vasa Museum Summer Programs",
+      "description": "17世紀の軍艦ヴァーサ号を展示する博物館。夏期間は子ども向けの特別ガイドツアーやワークショップを開催。歴史を楽しく学べます。",
+      "date": "7月上旬〜下旬",
+      "place": "Vasamuseet, Galärvarvsvägen 14, Djurgården",
+      "link": "https://www.vasamuseet.se",
+      "free": false
+    },
+    {
+      "title": "Stockholm Street Festival (Gatumusik)",
+      "description": "ストックホルムの街中で行われる音楽祭。屋外ステージでのライブパフォーマンス、子ども向けワークショップ、フェイスペイント等が無料で楽しめます。",
+      "date": "7月中旬",
+      "place": "Gamla Stan, Norrmalm周辺",
       "link": "",
       "free": true
     },
     {
-      "title": "グローナランド遊園地の夏営業",
-      "description": "スウェーデン最古の遊園地。子ども向けライドと家族向けアトラクションが豊富。7月は長時間営業で快適に楽しめる。",
-      "date": "7月通期",
-      "place": "Gröna Lund, Allmänna gränd 9, Stockholm",
-      "link": "https://www.gronalund.com/",
+      "title": "Archipelago Island Hopping",
+      "description": "ストックホルム諸島への船旅。30,000以上の島々を巡る屋外アクティビティ。水泳、ピクニック、自然探検など夏ならではの体験ができます。",
+      "date": "7月上旬〜下旬",
+      "place": "Stockholm Central Station発着",
+      "link": "https://www.stromkaferries.com",
       "free": false
     },
     {
-      "title": "ヴァーサ号博物館（Vasa Museum）の子ども向けガイドツアー",
-      "description": "17世紀の軍艦を保存した博物館。夏季の子ども向けツアーやアクティビティで、スウェーデン海事史を学べる。",
-      "date": "7月通期",
-      "place": "Galärvarvsvägen 14, Stockholm",
-      "link": "https://www.vasamuseet.se/",
-      "free": false
+      "title": "Djurgården Green Park & Gröna Lund",
+      "description": "美しい公園での無料散策やピクニック。隣接するテーマパークGröna Lundでは夏限定アトラクションを楽しめます（有料）。家族向けの楽しい環境です。",
+      "date": "7月全期間",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.gronalund.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-23T01:23:21.748Z"
+  "updatedAt": "2026-07-27T01:27:31.716Z"
 }

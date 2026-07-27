@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン建国記念日（Araw ng Kasapi）イベント",
-      "description": "7月12日前後、マニラ市内で開催される建国記念祭。パレード、文化表演、子ども向けワークショップなど家族向けプログラムが充実。",
-      "date": "7月上旬〜中旬",
-      "place": "リサール公園（Rizal Park）及びマニラ市内各地",
+      "title": "フィエスタ・デ・サンタ・アナ（Fiesta de Santa Ana）",
+      "description": "7月下旬にサンタアナ地区で開催される宗教祭。パレード、音楽、地元グルメが楽しめ、子どもたちも伝統文化を体験できます。家族向けのアクティビティが充実しています。",
+      "date": "7月下旬",
+      "place": "Santa Ana, Manila",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "フィリピン国立博物館の子ども向けプログラム",
+      "description": "自然史や美術に関する子ども向けの特別ワークショップや展示。涼しい屋内で学びながら遊べます。フィリピンの文化と歴史を楽しく学べる施設です。",
+      "date": "7月通期",
+      "place": "National Museum Complex, Rizal Park, Manila",
+      "link": "https://nationalmuseum.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "リサール公園でのアウトドアアクティビティ",
+      "description": "マニラ最大の公園で、広場での散策、レンタル自転車、ピクニック、公園内の博物館巡りが楽しめます。朝方の涼しい時間帯の訪問がおすすめです。",
+      "date": "7月通期",
+      "place": "Rizal Park, Manila",
       "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "ナショナル・ミュージアム・オブ・ザ・フィリピン 夏休みプログラム",
-      "description": "7月の子ども向け特別企画。恐竜展示、インタラクティブ展示、ワークショップなど。涼しい室内で楽しめます。",
-      "date": "7月中旬〜下旬",
-      "place": "National Museum of the Philippines, East Wing, Rizal Park, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "SM モール・オブ・アジアでの子ども向けアクティビティ",
+      "description": "フィリピン最大級のショッピングモール内の遊園地、映画館、水族館。エアコン完備で猛暑対策に最適。子ども向けアトラクションが豊富です。",
+      "date": "7月通期",
+      "place": "SM Mall of Asia, Entertainment City, Manila",
+      "link": "https://www.smmallofasia.com/",
       "free": false
     },
     {
-      "title": "タギッグ・ファイアーフライ・ウォッチング（ホタル鑑賞）",
-      "description": "ラグーナ・デ・ベイ周辺でホタルの光を観賞するエコツアー。7月は観測ベストシーズン。夜間屋外アクティビティで子どもの自然体験に最適。",
-      "date": "7月中旬〜下旬",
-      "place": "Laguna de Bay, Taguig City（マニラから約30分）",
-      "link": "https://www.tourism.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "フィリピン・スポーツ・コミッション キッズ・スポーツ・デー",
-      "description": "7月に実施される子ども向けスポーツ体験イベント。バスケ、バレー、水泳など各種競技の体験教室。参加費無料の回も多数。",
-      "date": "7月中旬",
-      "place": "PSC Complex, Makati City",
-      "link": "https://www.psc.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "MOA（モール・オブ・アジア）アリーナ 水上遊技施設＆キッズゾーン",
-      "description": "夏季限定の屋外ウォータープレイグラウンド。スライダー、噴水広場など。雨季のマニラで涼しく遊べる。安全監視員常駐。",
-      "date": "7月全期間",
-      "place": "Mall of Asia Complex, Pasay City",
-      "link": "https://www.mallofasia.com.ph/",
+      "title": "ナショナル・ミュージアム・オブ・ナチュラル・ヒストリー夏期特別展示",
+      "description": "恐竜展や動物展など、子どもが興味を持ちやすい特別企画展。涼しい屋内環境で、家族で楽しく学べるスポットです。",
+      "date": "7月通期",
+      "place": "National Museum Complex, Rizal Park, Manila",
+      "link": "https://nationalmuseum.gov.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-23T01:23:46.934Z"
+  "updatedAt": "2026-07-27T01:27:56.163Z"
 }
