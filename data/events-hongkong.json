@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港夏祭り（Hong Kong Summer Fest）",
-      "description": "7月の香港各地で開催される夏祭り。花火大会、ライブパフォーマンス、屋台、子ども向けゲームなど家族向けのエンターテイメントが豊富。",
-      "date": "7月上旬〜中旬",
-      "place": "ビクトリア・ハーバー周辺各地",
-      "link": "https://www.discoverhongkong.com/jp",
+      "title": "香港サマーナイトカーニバル",
+      "description": "ビクトリアパークで開催される夏の大型カーニバル。遊園地アトラクション、屋台、ライブパフォーマンスなど家族向けエンターテイメントが充実。乳幼児から楽しめます。",
+      "date": "7月中旬〜8月下旬",
+      "place": "ビクトリアパーク（Victoria Park）、銅鑼灣（Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk/",
       "free": false
     },
     {
-      "title": "海洋公園（Ocean Park Hong Kong）の夏イベント",
-      "description": "ウォータースライダーやプール、夏限定アトラクション、キャラクター体験など。乳幼児から小学生まで楽しめる多彩なプログラムが用意されています。",
-      "date": "7月通期",
-      "place": "香港島南側・ウォンチャイギャップロード、オーシャンパーク",
-      "link": "https://www.oceanpark.com.hk/en",
-      "free": false
-    },
-    {
-      "title": "香港島東部のビーチでの海水浴",
-      "description": "タイタムビーチ、ビッグウェーブビーチなど。安全に監視員がいるビーチで、家族向けの海水浴が楽しめます。無料で海を満喫できます。",
-      "date": "7月通期",
-      "place": "香港島東部・タイタムビーチ、ビッグウェーブビーチ",
-      "link": "https://www.discoverhongkong.com/jp",
-      "free": true
-    },
-    {
-      "title": "香港スターフェスティバル・夏休みプログラム",
-      "description": "香港科学館、香港歴史博物館などで無料・低価格の子ども向け特別展示やワークショップが開催。STEM教育や文化体験が可能です。",
-      "date": "7月中旬〜下旬",
-      "place": "香港科学館（尖沙咀）、香港歴史博物館（尖沙咀）ほか",
-      "link": "https://www.hk.science.museum/",
-      "free": true
-    },
-    {
-      "title": "スターフェリー乗船体験＆ビクトリア・ハーバー観光",
-      "description": "香港を象徴するスターフェリーでの移動は観光体験。ハーバークルーズで夜景やスカイラインを楽しめ、子どもにも大好評のアクティビティです。",
-      "date": "7月通期",
-      "place": "セントラル〜尖沙咀スターフェリーターミナル、ビクトリア・ハーバー",
+      "title": "スターフェリー乗船体験＆ビクトリアハーバークルーズ",
+      "description": "香港の象徴的な交通手段で、子どもたちが船での移動を楽しめます。ハーバービューから香港島とカオルーンの風景を満喫。車窓とは異なる視点で観光できます。",
+      "date": "通年（7月通常営業）",
+      "place": "スターフェリー各乗船場（セントラル・ワンチャイ線など）",
       "link": "https://www.starferry.com.hk/",
       "free": false
+    },
+    {
+      "title": "香港公園での無料ピクニック＆自然散策",
+      "description": "広大な公園で子どもが自由に走り回れます。池、庭園、遊び場完備。7月は暑いため早朝がおすすめ。地元ファミリーが多く、安全で利用しやすい無料スポットです。",
+      "date": "7月通年（早朝推奨）",
+      "place": "香港公園（Hong Kong Park）、セントラル",
+      "link": "https://www.lcsd.gov.hk/en/parks/",
+      "free": true
+    },
+    {
+      "title": "香港科学館の夏季特別展示・プログラム",
+      "description": "子ども向けの科学体験・実験プログラムが充実。エアコン完備で7月の暑さ対策に最適。プラネタリウムも人気。乳幼児向けスペースもあります。",
+      "date": "7月通年（夏季特別プログラム開催）",
+      "place": "香港科学館（Hong Kong Science Museum）、尖沙咀",
+      "link": "https://www.lcsd.gov.hk/en/sciencemuseum/",
+      "free": false
+    },
+    {
+      "title": "ビーチリゾート体験：レパルスベイビーチ",
+      "description": "香港島南部の人気ビーチ。スイミングエリア完備で子どもが安全に水遊び可能。ビーチ沿いに飲食店・シャワー設備充実。家族向けのリゾート雰囲気を満喫できます。",
+      "date": "7月通年（天気の良い日）",
+      "place": "レパルスベイビーチ（Repulse Bay Beach）",
+      "link": "https://www.discoverhongkong.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-27T01:28:26.519Z"
+  "updatedAt": "2026-07-30T01:11:35.085Z"
 }

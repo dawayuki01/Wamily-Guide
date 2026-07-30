@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン灯篭流しの準備・七夕イベント",
-      "description": "7月はタイの雨季。多くのショッピングモールで七夕イベントや水遊びイベントが開催され、子ども向けワークショップが無料で楽しめます。ルミニエ展示も登場する施設があります。",
-      "date": "7月中旬〜下旬",
-      "place": "バンコク市内主要ショッピングモール（Siam Paragon、Emporium等）",
-      "link": "",
+      "title": "アーサラハブーチャ（三宝節）",
+      "description": "仏教の重要な祭日。寺院でのロウソク行列や法要が行われ、タイの伝統文化を体験できます。子どもも参加でき、タイ文化の学習に最適です。",
+      "date": "7月上旬（旧暦6月15日）",
+      "place": "バンコク市内の主要寺院（ワットポー、ワットサケットなど）",
+      "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "チャオプラヤ川でのボートツアー・川沿い散策",
-      "description": "雨季でも楽しめる屋外アクティビティ。長尾ボート体験やリバークルーズで、子どもたちがバンコクの水上文化を学べます。朝の涼しい時間帯がおすすめ。",
-      "date": "7月（朝方が推奨）",
-      "place": "チャオプラヤ川沿い、各ボート乗船場",
-      "link": "",
+      "title": "チャトゥチャック・ウィークエンド・マーケット（雨季版）",
+      "description": "東南アジア最大級の週末マーケット。7月も営業しており、おもちゃ、キッズ服、食べ物など子ども向けアイテムが豊富。家族で散策が楽しめます。",
+      "date": "7月毎週土日",
+      "place": "Chatuchak Park, Paholyothin Road, Bangkok 10900",
+      "link": "https://www.chatuchakmarket.com/",
+      "free": true
+    },
+    {
+      "title": "Siam Ocean World の雨季スペシャルプログラム",
+      "description": "バンコクの大型水族館。7月の雨季は屋内施設として最適。イルカショーやペンギン餌やりなど子ども向けプログラムが充実しています。",
+      "date": "7月通年営業",
+      "place": "Siam Paragon, Rama I Road, Bangkok 10330",
+      "link": "https://www.siamoceanworld.com/",
       "free": false
     },
     {
-      "title": "サイアム・パラゴン水族館の夏休みプログラム",
-      "description": "子ども向けの海洋生物教室やエサやり体験が開催。雨の日でも快適に過ごせる屋内施設で、幼児から小学生まで楽しめる特別プログラムが予定されています。",
-      "date": "7月上旬〜下旬",
-      "place": "Siam Paragon内 Aquarium, Bangkok, Pathum Wan, Bangkok 10330",
-      "link": "https://www.siamparagon.co.th/",
-      "free": false
-    },
-    {
-      "title": "ルンピニー公園での朝のエクササイズ・散策",
-      "description": "バンコク最大級の公園。早朝は地元民で賑わい、子どもたちが広大な緑地で遊べます。湖畔の散策やリス・トカゲ観察など自然体験が無料で楽しめます。",
-      "date": "7月早朝（涼しい時間帯）",
+      "title": "ルンピニ公園での朝のアクティビティ",
+      "description": "バンコク中心部の広大な公園。朝早く訪れると地元の運動風景が見られ、子どもが走り回れます。湖でのジョギング・散策が人気。雨が少ない朝がおすすめ。",
+      "date": "7月通年（早朝推奨）",
       "place": "Lumphini Park, Rama IV Road, Bangkok 10330",
-      "link": "",
+      "link": "https://www.thaitourismblog.com/",
       "free": true
     },
     {
-      "title": "キッザニア・バンコクの七月特別プログラム",
-      "description": "職業体験テーマパーク。夏休み期間に子ども向け特別ワークショップやキャンペーンが実施されることが多く、乳幼児向けエリアも充実しています。",
-      "date": "7月中旬〜下旬",
-      "place": "Kidzania Bangkok, Siam Square, Bangkok 10330",
-      "link": "https://www.kidzania.co.th/",
+      "title": "キッザニア・バンコク の雨季キャンペーン",
+      "description": "子ども向け職業体験施設。7月は雨季スペシャルキャンペーンを実施。屋内で安全に楽しめ、子どもが様々な職業を体験できます。",
+      "date": "7月通年営業（キャンペーン期間は要確認）",
+      "place": "CentralWorld, Rama I Road, Bangkok 10330",
+      "link": "https://www.kidzania.com/thailand",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-27T01:27:49.037Z"
+  "updatedAt": "2026-07-30T01:10:55.367Z"
 }

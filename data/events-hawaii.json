@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Festival of Lights - Summer Edition",
-      "description": "ホノルル市内の公園でライトアップされた展示やライブパフォーマンスを楽しむ無料イベント。子ども向けのワークショップやキャラクターグリーティングも開催されます。",
-      "date": "7月中旬〜下旬",
-      "place": "Kapiolani Park、Honolulu、Hawaii",
-      "link": "https://www.honoluluholidaylights.com/",
+      "title": "ホノルル・フェスティバル・オブ・アーツ・アンド・カルチャー",
+      "description": "ハワイの伝統文化と現代アートが融合するフェスティバル。子ども向けのワークショップやパフォーマンスが多数開催され、家族で楽しめます。",
+      "date": "7月中旬",
+      "place": "ホノルル各地（ワイキキビーチ周辺、カピオラニパーク）",
+      "link": "https://www.honolulufestival.com",
       "free": true
     },
     {
-      "title": "Hawaii Children's Discovery Center Summer Programs",
-      "description": "ハワイの歴史と文化を学べるインタラクティブ展示。夏季は特別な子ども向けワークショップやSTEAM教育プログラムが毎日開催されます。",
-      "date": "7月全期間",
-      "place": "111 Ohe Street, Honolulu, Hawaii 96813",
-      "link": "https://www.hawaiidiscoverycenter.org/",
-      "free": false
-    },
-    {
-      "title": "Sunset Beach Snorkeling & Marine Life Experience",
-      "description": "ハワイの海での屋外スノーケリング体験。夏の7月は海が穏やかで、カラフルな魚やウミガメとの出会いが期待できます。子ども向けガイドツアーもあります。",
-      "date": "7月全期間",
-      "place": "Sunset Beach Park, North Shore, Oahu, Hawaii",
-      "link": "https://www.gohawaii.com/",
-      "free": false
-    },
-    {
-      "title": "KCC Saturday Farmers Market",
-      "description": "ハワイの新鮮なトロピカルフルーツや野菜が並ぶ毎週土曜朝市。試食も豊富で、子どもたちがハワイの食文化を体験できる無料で楽しめるスポット。",
-      "date": "7月全期間（毎週土曜）",
-      "place": "2750 Woodlawn Drive, Honolulu, Hawaii 96822",
-      "link": "https://www.kcc.hawaii.edu/community/farmers-market/",
+      "title": "マカハ・サーフィン・コンテスト & ビーチクリーンアップ",
+      "description": "ハワイの伝統的なサーフィン大会。家族向けのサーフレッスンやビーチアクティビティもあり、ローカル文化を体験できます。",
+      "date": "7月中旬～下旬",
+      "place": "マカハビーチ（オアフ島西海岸）",
+      "link": "",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Summer Family Programs",
-      "description": "ハワイの固有動物や世界の野生動物を学べる施設。夏季は子ども向けの餌やり体験やガイドツアープログラムが充実しています。",
-      "date": "7月全期間",
-      "place": "151 Kapahulu Avenue, Honolulu, Hawaii 96815",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "ホノルル動物園 サマープログラム",
+      "description": "子ども向けの教育ワークショップやアニマルミートが開催。動物との触れ合いを通じて自然学習ができるプログラム。",
+      "date": "7月通期",
+      "place": "ホノルル動物園（カピオラニパーク内、ホノルル）",
+      "link": "https://www.honoluluzoo.org",
       "free": false
+    },
+    {
+      "title": "ビショップ美術館 キッズアート教室",
+      "description": "ハワイの美術品を鑑賞した後、子ども向けのアート制作教室に参加できます。創造性を育む体験。",
+      "date": "7月通期（予約制）",
+      "place": "ビショップ美術館（ホノルル）",
+      "link": "https://www.bishopmuseum.org",
+      "free": false
+    },
+    {
+      "title": "カイルア・ビーチ シュノーケリング体験",
+      "description": "ハワイで最も美しいビーチの一つ。浅瀬で安全にシュノーケリング体験ができ、カラフルな熱帯魚が見られます。",
+      "date": "7月通期",
+      "place": "カイルア・ビーチ（オアフ島東海岸）",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-27T01:28:11.034Z"
+  "updatedAt": "2026-07-30T01:11:18.596Z"
 }
