@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Great Singapore Sale（グレートシンガポールセール）",
-      "description": "シンガポール最大のセールイベント。ショッピングモールでの割引やキッズ向けアクティビティが充実。家族連れで楽しめるショッピング体験。",
-      "date": "7月上旬〜下旬",
-      "place": "オーチャード・ロード周辺、各ショッピングモール",
-      "link": "https://www.visitsingapore.com",
-      "free": false
-    },
-    {
-      "title": "シンガポール国立図書館 - 子ども向けプログラム",
-      "description": "夏休みスペシャルとして、ストーリータイム、工作ワークショップ、読書ゲームなどが開催。涼しい屋内で家族向けアクティビティ。",
-      "date": "7月中旬〜下旬",
-      "place": "National Library Board Singapore, 100 Victoria Street",
-      "link": "https://www.nlb.gov.sg",
+      "title": "National Day Celebrations（ナショナルデー）",
+      "description": "8月9日のシンガポール建国記念日。パレード、花火、コンサート、屋台が楽しめます。子ども向けの娯楽施設やペイント体験も多数。",
+      "date": "8月9日前後",
+      "place": "Marina Bay、Padang、各地域コミュニティセンター",
+      "link": "https://www.sg/national-day",
       "free": true
     },
     {
-      "title": "East Coast Park ビーチでの家族向けアクティビティ",
-      "description": "シンガポール最大のビーチパーク。シーズンに応じた水遊びやアイススケート、サイクリング、ピクニック。屋外で子どもが思い切り遊べる。",
-      "date": "7月通年",
+      "title": "Singapore International Festival of Arts（SIFA）",
+      "description": "8月に開催される国際芸術祭。子ども向けの劇場パフォーマンス、インタラクティブワークショップ、ファミリー向け舞台作品が豊富。",
+      "date": "8月中旬〜下旬",
+      "place": "Various venues citywide",
+      "link": "https://www.sifa.sg/",
+      "free": false
+    },
+    {
+      "title": "East Coast Park Family Activities（イーストコーストパーク）",
+      "description": "シンガポール最大のビーチパーク。8月は夏休みシーズン。砂浜遊び、サイクリング、水上スポーツ体験、ファミリー向けアクティビティが充実。",
+      "date": "8月通年",
       "place": "East Coast Park, 1210 East Coast Parkway",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "シンガポール動物園 - サマースクール＆キャンプ",
-      "description": "7月特別開催の子ども向けサマープログラム。動物とのふれあい、教育ワークショップ、夜間ツアー体験など充実したプログラム。",
-      "date": "7月上旬〜下旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road",
-      "link": "https://www.singaporezoo.com",
+      "title": "Science Centre Summer Holiday Programs",
+      "description": "科学館の夏休み特別プログラム。子ども向けワークショップ、STEM体験、プラネタリウム、実験教室など。乳幼児〜小学生向けコンテンツ充実。",
+      "date": "8月通年",
+      "place": "Science Centre Singapore, 15 Science Centre Road",
+      "link": "https://www.science.edu.sg/",
       "free": false
     },
     {
-      "title": "Gardens by the Bay - 光と花の展示",
-      "description": "Supertree周辺のガーデン展示。7月の展示テーマに応じた花卉展、キッズ向け学習プログラム、涼しい温室施設も。",
-      "date": "7月上旬〜下旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "National Museum Singapore Family Programs",
+      "description": "子ども向けガイドツアー、ファミリー向けワークショップ、対話型展示。シンガポールの歴史と文化を楽しく学べます。",
+      "date": "8月通年",
+      "place": "National Museum Singapore, 93 Stamford Road",
+      "link": "https://www.nationalmuseum.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-30T01:10:46.944Z"
+  "updatedAt": "2026-08-03T01:24:09.755Z"
 }

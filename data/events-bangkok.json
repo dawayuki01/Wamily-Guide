@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "アーサラハブーチャ（三宝節）",
-      "description": "仏教の重要な祭日。寺院でのロウソク行列や法要が行われ、タイの伝統文化を体験できます。子どもも参加でき、タイ文化の学習に最適です。",
-      "date": "7月上旬（旧暦6月15日）",
-      "place": "バンコク市内の主要寺院（ワットポー、ワットサケットなど）",
-      "link": "https://www.tatnews.org/",
+      "title": "ルンピニ公園での無料野外映画上映会",
+      "description": "バンコク市内最大の公園で、夕方から無料の野外映画が上映されます。家族連れが多く、ピクニック気分で楽しめる季節のイベントです。",
+      "date": "8月中旬〜下旬（週末）",
+      "place": "ルンピニ公園（Lumphini Park）、バンコク市中央部",
+      "link": "https://www.bangkok.com/lumphini-park.htm",
       "free": true
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット（雨季版）",
-      "description": "東南アジア最大級の週末マーケット。7月も営業しており、おもちゃ、キッズ服、食べ物など子ども向けアイテムが豊富。家族で散策が楽しめます。",
-      "date": "7月毎週土日",
-      "place": "Chatuchak Park, Paholyothin Road, Bangkok 10900",
-      "link": "https://www.chatuchakmarket.com/",
-      "free": true
-    },
-    {
-      "title": "Siam Ocean World の雨季スペシャルプログラム",
-      "description": "バンコクの大型水族館。7月の雨季は屋内施設として最適。イルカショーやペンギン餌やりなど子ども向けプログラムが充実しています。",
-      "date": "7月通年営業",
-      "place": "Siam Paragon, Rama I Road, Bangkok 10330",
-      "link": "https://www.siamoceanworld.com/",
+      "title": "キングス・ラーニング・パークでの特別教育プログラム",
+      "description": "国王に関する教育施設で、8月の王妃誕生日イベント期間に子ども向けの特別ワークショップや展示が開催されます。",
+      "date": "8月上旬〜中旬",
+      "place": "キングス・ラーニング・パーク、バンコク北部",
+      "link": "https://www.klp.or.th",
       "free": false
     },
     {
-      "title": "ルンピニ公園での朝のアクティビティ",
-      "description": "バンコク中心部の広大な公園。朝早く訪れると地元の運動風景が見られ、子どもが走り回れます。湖でのジョギング・散策が人気。雨が少ない朝がおすすめ。",
-      "date": "7月通年（早朝推奨）",
-      "place": "Lumphini Park, Rama IV Road, Bangkok 10330",
-      "link": "https://www.thaitourismblog.com/",
+      "title": "ウォーター・パークでの夏休み特別企画",
+      "description": "バンコク近郊のウォーターパークで、8月の夏休み期間に子ども向けの割引料金やスペシャルイベントが開催されます。",
+      "date": "8月全期間",
+      "place": "スパムリンク・ウォーターパーク（Suamluang Water Park）",
+      "link": "https://www.suamluang.com",
+      "free": false
+    },
+    {
+      "title": "チャトゥチャック・ウィークエンド・マーケットの無料散策",
+      "description": "世界最大級の週末市場。8月は雨の季節ですが、屋根付きエリアが充実。子ども服、おもちゃ、グルメが集中し、家族向けショッピングスポット。",
+      "date": "8月毎週土日",
+      "place": "チャトゥチャック・ウィークエンド・マーケット、バンコク北部",
+      "link": "https://www.chatuchakmarket.com",
       "free": true
     },
     {
-      "title": "キッザニア・バンコク の雨季キャンペーン",
-      "description": "子ども向け職業体験施設。7月は雨季スペシャルキャンペーンを実施。屋内で安全に楽しめ、子どもが様々な職業を体験できます。",
-      "date": "7月通年営業（キャンペーン期間は要確認）",
-      "place": "CentralWorld, Rama I Road, Bangkok 10330",
-      "link": "https://www.kidzania.com/thailand",
+      "title": "シャムスクエア・シーライフ・バンコク・オーシャン・ワールド",
+      "description": "東南アジア最大級の水族館。8月の特別企画として子ども向けの教育プログラムやフィーディングデモンストレーションが充実しています。",
+      "date": "8月全期間",
+      "place": "シーム・スクエア（Siam Square）内、バンコク市中央部",
+      "link": "https://www.bangkokoceanworld.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-30T01:10:55.367Z"
+  "updatedAt": "2026-08-03T01:24:18.220Z"
 }

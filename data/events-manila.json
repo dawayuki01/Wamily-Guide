@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン独立記念日（Araw ng Kagitingan）関連イベント",
-      "description": "7月12日前後、マニラ各地でパレード、コンサート、文化的展示が開催。子ども向けの踊りや音楽パフォーマンス、伝統文化体験コーナーがあり、フィリピン文化を学べます。",
-      "date": "7月上旬〜中旬",
-      "place": "Rizal Park（リサール公園）、マニラ市内各地",
+      "title": "National Heroes Day（ナショナルヒーローズデー）",
+      "description": "8月第4月曜日はフィリピンの祝日。マニラ各地で パレードやセレモニーが開催。子ども向けの文化体験やワークショップも実施されます。",
+      "date": "8月25日（2026年）",
+      "place": "マニラシティ全域、Rizal Park周辺",
       "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "Enchanted Kingdom Summer Programs",
-      "description": "フィリピン最大級のテーマパーク。7月は夏休みシーズンで、子ども向けの特別なキャラクターグリーティング、ワークショップ、限定アトラクションを開催。乳幼児から楽しめます。",
-      "date": "7月全期間",
-      "place": "Santa Rosa, Laguna（マニラから車で約1時間）",
-      "link": "https://www.enchantedkingdom.ph",
+      "title": "Rizal Park Summer Festival & Open Air Events",
+      "description": "リサール公園での無料の屋外イベント。子ども向け遊具エリア、文化パフォーマンス、家族向けアクティビティが開催。夏休み期間中は特別プログラムあり。",
+      "date": "8月上旬〜下旬",
+      "place": "Rizal Park, Bonifacio Drive, Ermita, Manila",
+      "link": "https://www.rizalpark.gov.ph",
+      "free": true
+    },
+    {
+      "title": "Manila Ocean Park Summer Programs",
+      "description": "水族館での子ども向けサマープログラム。海の生き物との触れ合い体験、教育ワークショップ、キッズスイミングレッスンなど家族向けイベント開催。",
+      "date": "8月上旬〜下旬",
+      "place": "Manila Ocean Park, Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceanpark.com",
       "free": false
     },
     {
-      "title": "Manila Zoo Summer Camp & Family Events",
-      "description": "マニラ動物園の夏休み特別プログラム。動物との触れ合い体験、教育的なワークショップ、キャラクターショーが毎日開催。屋外で自然と動物を学べます。",
-      "date": "7月全期間",
-      "place": "Rizal Park, Manila（マニラ市南東部）",
-      "link": "https://manilazooph.com",
+      "title": "SM Mall of Asia Summer Kids Festival",
+      "description": "大型ショッピングモールでの子ども向けサマーフェスティバル。工作教室、キャラクターグリーティング、ゲーム、クイズ大会など屋内エンターテイメント満載。",
+      "date": "8月上旬〜下旬",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com",
       "free": false
     },
     {
-      "title": "Ayala Museum・Makati Museum of Contemporary Art 子どもプログラム",
-      "description": "7月の夏休み期間、子ども向けの美術教室、文化ワークショップ、家族向けツアーを開催。インタラクティブな展示で、フィリピンの歴史と芸術を体験できます。",
-      "date": "7月全期間（週末中心）",
-      "place": "Makati Ave, Makati City",
-      "link": "https://ayalamuseum.org",
-      "free": false
-    },
-    {
-      "title": "Marikina Riverbanks Park・Family Outdoor Activities",
-      "description": "マリキナ川沿いの大型公園。7月はサイクリング、ローラースケート、広場でのピクニックができる屋外スポット。無料で家族向けの運動や自然を楽しめます。雨季のため天候確認が必要。",
-      "date": "7月通年（天候による）",
-      "place": "Marikina Riverbanks Park, Marikina City",
-      "link": "https://marikina.gov.ph",
+      "title": "Makati Amphitheater Free Community Programs",
+      "description": "マカティ地区の野外劇場での無料の子ども向けイベント。音楽会、演劇、ダンスパフォーマンス、家族向けレクリエーション活動が開催されます。",
+      "date": "8月中旬〜下旬",
+      "place": "Makati Amphitheater, Makati City",
+      "link": "https://makati.gov.ph",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-30T01:11:04.201Z"
+  "updatedAt": "2026-08-03T01:24:25.146Z"
 }

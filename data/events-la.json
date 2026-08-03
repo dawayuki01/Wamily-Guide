@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "サンタモニカ・ピア・サマーナイト・コンサート",
-      "description": "サンタモニカ・ピアで開催される屋外無料コンサート。子ども向けライブパフォーマンスも多く、家族で夏の夜を楽しめます。毎週木曜日開催。",
-      "date": "7月毎週木曜夜間",
+      "title": "LA County Fair（ロサンゼルス郡博覧会）",
+      "description": "8月下旬から9月初旬に開催。乗り物、ゲーム、動物ふれあいコーナー、キッズゾーンなど家族向けアトラクションが豊富。カーニバルの雰囲気を楽しめます。",
+      "date": "8月下旬〜9月初旬",
+      "place": "Fairplex, Pomona（ポモナ）、LA郊外",
+      "link": "https://www.lacountyfair.com/",
+      "free": false
+    },
+    {
+      "title": "Santa Monica Pier Twilight Concerts（サンタモニカピア無料コンサート）",
+      "description": "毎週木曜日夜間に開催される無料コンサートシリーズ。ピアでの海辺の風景を楽しみながらライブミュージックが鑑賞できます。ファミリー向けの雰囲気です。",
+      "date": "8月毎週木曜日",
       "place": "Santa Monica Pier, Santa Monica",
-      "link": "https://www.santamonicapier.org",
+      "link": "https://www.santamonicapier.org/",
       "free": true
     },
     {
-      "title": "LA夏祭りフェスティバル",
-      "description": "ロサンゼルス内各地で開催される夏祭り。日本の盆踊りや屋台、花火が楽しめ、子どもも大喜び。複数の会場で異なる時期に開催されます。",
-      "date": "7月中旬〜下旬",
-      "place": "ロサンゼルス市内各地（Lincoln Park、Little Tokyo周辺など）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "グリフィス天文台・夏のスター・ナイト・プログラム",
-      "description": "グリフィス天文台で開催される子ども向け天体観測プログラム。望遠鏡で星や惑星を観察でき、季節限定の展示も充実しています。",
-      "date": "7月上旬〜下旬（毎晩開催）",
+      "title": "Griffith Observatory Summer Programs（グリフィス天文台夏季プログラム）",
+      "description": "夏休み期間中、子ども向けの天体観測プログラムやプラネタリウムショーが開催。夜間の星観察イベントなど、教育的で楽しい体験ができます。",
+      "date": "8月上旬〜下旬",
       "place": "Griffith Observatory, Los Angeles",
-      "link": "https://www.griffithobservatory.org",
+      "link": "https://www.griffithobservatory.org/",
       "free": false
     },
     {
-      "title": "ビーチでのサマースポーツキャンプ",
-      "description": "サンタモニカ・マリブビーチなど各ビーチで開催される子ども向けサマーキャンプ。サーフィン、ボディーボード、ビーチバレーボール体験ができます。",
-      "date": "7月上旬〜下旬",
-      "place": "Santa Monica Beach, Malibu Beach ほか",
-      "link": "https://www.smgov.net/departments/parks",
-      "free": false
+      "title": "Runyon Canyon Hike（ラニヨンキャニオンハイキング）",
+      "description": "ハリウッドの丘陵地帯にある人気ハイキングコース。初級向けトレイルも多く、LA市街地と海の景色が楽しめます。朝早く訪問すると比較的涼しく家族向きです。",
+      "date": "8月（早朝推奨）",
+      "place": "Runyon Canyon Park, Hollywood",
+      "link": "https://www.laparks.org/",
+      "free": true
     },
     {
-      "title": "LA子ども博物館・サマースペシャルプログラム",
-      "description": "LA子ども博物館の夏限定プログラム。STEM教育、アート、屋外遊びの組み合わせで、乳幼児から小学生まで楽しめる体験型施設です。",
-      "date": "7月毎日開館（時間帯別プログラム）",
-      "place": "Los Angeles Children's Museum, Los Angeles",
-      "link": "https://www.lacm.org",
-      "free": false
+      "title": "California Science Center Summer Camps & Activities",
+      "description": "無料で入館できる科学館の夏季特別プログラム。インタラクティブな展示、IMAX映画、子ども向けワークショップなど。乳幼児から小学生まで対応の施設です。",
+      "date": "8月通期",
+      "place": "California Science Center, Exposition Park, Los Angeles",
+      "link": "https://www.californiasciencecenter.org/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-30T01:11:11.405Z"
+  "updatedAt": "2026-08-03T01:24:32.354Z"
 }

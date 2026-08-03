@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris-Plage）",
-      "description": "セーヌ河畔に砂浜とビーチチェアが登場。子どもが水遊びできる噴水エリアやイベントが満載。家族連れに大人気の夏の風物詩です。",
-      "date": "7月中旬〜8月下旬",
-      "place": "セーヌ河畔（Tuileries〜Marais地区）",
-      "link": "https://www.paris.fr",
+      "title": "パリ・プラージュ（Paris Plages）",
+      "description": "セーヌ川沿いに砂浜が出現。ビーチバレー、スイミング、子ども向けアクティビティが無料で楽しめる夏の風物詩。",
+      "date": "8月上旬〜下旬",
+      "place": "セーヌ川沿い（ポン・デザール周辺など）、パリ中心部",
+      "link": "https://www.paris.fr/pages/paris-plages-2380",
       "free": true
     },
     {
-      "title": "ルーヴル美術館の子ども向けワークショップ",
-      "description": "夏休み期間中、子ども対象のアートワークショップやガイドツアーを開催。有名作品について学びながら創作活動ができます。",
-      "date": "7月〜8月（日程要確認）",
-      "place": "ルーヴル美術館 Rue de Rivoli, 75004 Paris",
-      "link": "https://www.louvre.fr",
+      "title": "モンマルトル周辺の夏祭り（Fête de Montmartre）",
+      "description": "モンマルトル地区の伝統的な夏祭り。音楽ライブ、キャバレー、屋台、子ども向けアニメーションが楽しめます。",
+      "date": "8月中旬（毎年8月中旬開催）",
+      "place": "モンマルトル地区、パリ18区",
+      "link": "https://www.fetesdemontmartre.com",
+      "free": true
+    },
+    {
+      "title": "シテ科学産業博物館の夏休み特別プログラム",
+      "description": "子ども向けワークショップ、体験型展示、映画上映。年齢別の科学体験で、知識と遊びを融合させた学習が可能。",
+      "date": "8月通年",
+      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "モンマルトル・ワインフェスティバル周辺の子ども向けイベント",
-      "description": "モンマルトル地区で開催される夏イベント。子どもが楽しめるストリートパフォーマンスや手工芸市場、アニメーションプログラムが豊富です。",
-      "date": "7月中旬〜下旬",
-      "place": "モンマルトル地区（18区） Place du Tertre周辺",
-      "link": "",
+      "title": "シャン・ド・マルス公園での野外映画祭",
+      "description": "エッフェル塔を背景に、家族向けの映画が野外スクリーンで上映。ピクニック持参で無料鑑賞できる夏の恒例行事。",
+      "date": "8月上旬〜下旬",
+      "place": "シャン・ド・マルス公園、パリ7区",
+      "link": "https://www.paris.fr/pages/cinema-en-plein-air-2380",
       "free": true
     },
     {
-      "title": "パリ動物園（Parc Zoologique de Paris）の夏企画",
-      "description": "野生動物の観察に加え、夏は夜間営業やナイトショーも実施。子ども向けの動物解説ツアーで生態系について学べます。",
-      "date": "7月〜8月（営業時間延長）",
-      "place": "Parc Zoologique de Paris, 53 Avenue de Saint-Maurice, 75012 Paris",
-      "link": "https://www.parczoologiquedeparis.fr",
+      "title": "ルクセンブルク公園の子ども向けアクティビティ",
+      "description": "水遊び広場、ポニー乗馬、人形劇、木製遊具。8月も継続開催され、乳幼児から小学生まで楽しめます。",
+      "date": "8月通年",
+      "place": "Jardin du Luxembourg, Rue Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardin/index.html",
       "free": false
-    },
-    {
-      "title": "シャンゼリゼ通りの野外映画祭",
-      "description": "夏の夜間、シャンゼリゼで屋外映画上映。子ども向け映画が上映される日もあり、家族で映画を楽しめます。",
-      "date": "7月下旬〜8月",
-      "place": "Champs-Élysées（8区）",
-      "link": "",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-30T01:10:32.509Z"
+  "updatedAt": "2026-08-03T01:23:55.360Z"
 }

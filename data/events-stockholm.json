@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム群島でのアイスランド探検",
-      "description": "ストックホルム群島の島々を船で巡るツアー。7月は最高のシーズンで、子どもも楽しめる海のアクティビティです。野生動物や自然を観察できます。",
-      "date": "7月全期間",
-      "place": "ストックホルム群島（Stockholms skärgård）、出発地: Strandvägen, Stockholm",
-      "link": "https://www.visitstockholm.com",
-      "free": false
-    },
-    {
-      "title": "スカンセン野外博物館の夏季特別プログラム",
-      "description": "北欧の伝統的な建物と動物園を備える屋外博物館。7月は子ども向けワークショップや伝統工芸体験、動物とのふれあいが充実しています。",
-      "date": "7月全期間",
-      "place": "Skansen, Djurgården, Stockholm",
+      "title": "スウェーデン王立動物園（Skansen）の夏期特別プログラム",
+      "description": "北欧の動物や伝統文化を学べるスカンセン。夏は子ども向けワークショップ、動物との触れ合いイベント、民族衣装体験などが充実。園内の野外博物館で北欧の伝統建築も楽しめます。",
+      "date": "8月中旬〜下旬",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ジューベルガーデン（Junibacken）の夏季企画展示",
-      "description": "北欧の児童文学をテーマにした博物館。7月は夏休み特別プログラムで、ムーミンやその他のキャラクターと触れ合える企画が開催されます。",
-      "date": "7月全期間",
-      "place": "Junibacken, Djurgården, Stockholm",
-      "link": "https://www.junibacken.se",
+      "title": "ストックホルム群島でのカヤック・ボート体験",
+      "description": "8月の穏やかな気候を活かした島巡りアクティビティ。家族向けのガイド付きツアーで、群島の美しい景色、野生動物観察、島での野外活動を満喫できます。乳幼児連れも楽しめるツアーあり。",
+      "date": "8月中旬〜下旬",
+      "place": "Stockholm Archipelago / Djurgården周辺",
+      "link": "",
       "free": false
     },
     {
-      "title": "ジューペン公園での無料屋外活動",
-      "description": "市民向けの広大な公園で、遊び場、水遊びエリア、ピクニック施設があります。7月は天気も良く、北欧の家族が集う憩いの場。完全無料。",
-      "date": "7月全期間",
-      "place": "Ralambshovsparken, Stockholm",
-      "link": "",
+      "title": "ユーラルスケン水族館（Aquaria Watermuseum）の夏イベント",
+      "description": "北欧最大級の水族館。夏期は子ども向けの海の生き物体験コーナー、触れる水族館、特別展示が開催。乳幼児から小学生まで楽しめる教育プログラムが豊富です。",
+      "date": "8月上旬〜下旬",
+      "place": "Falkplanetvägen 10, 115 27 Stockholm",
+      "link": "https://www.aquariamuseet.se",
+      "free": false
+    },
+    {
+      "title": "ジューガーデン公園（Djurgården Park）での無料散策・ピクニック",
+      "description": "ストックホルム最大の公園で、8月の温暖な気候を活かして家族でピクニック。遊び場、自転車ルート、美しい景観を無料で楽しめます。動物園や美術館などの施設も周辺に集中。",
+      "date": "8月上旬〜下旬",
+      "place": "Djurgården Island, Stockholm",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "ストックホルム図書館の子ども向け夏季イベント",
-      "description": "市立図書館で開催される子ども向けの読み聞かせ、工作教室、ストーリータイム。7月の夏休み期間中は特別プログラムが無料で実施されます。",
-      "date": "7月全期間",
-      "place": "Stockholms stadsbibliotek, Sveavägen 73, Stockholm",
-      "link": "https://www.biblioteket.stockholm.se",
-      "free": true
+      "title": "北欧博物館（Nordiska Museet）の子ども向け夏休みプログラム",
+      "description": "スウェーデンの文化・生活を学ぶ博物館。夏休み期間は子ども向けワークショップ、インタラクティブ展示、伝統工芸体験などを開催。乳幼児向けのプレイエリアも完備。",
+      "date": "8月上旬〜中旬",
+      "place": "Djurgårdsvägen 6-16, 115 93 Stockholm",
+      "link": "https://www.nordiskamuseet.se",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-30T01:10:39.450Z"
+  "updatedAt": "2026-08-03T01:24:03.513Z"
 }

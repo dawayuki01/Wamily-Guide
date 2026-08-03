@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ホノルル・フェスティバル・オブ・アーツ・アンド・カルチャー",
-      "description": "ハワイの伝統文化と現代アートが融合するフェスティバル。子ども向けのワークショップやパフォーマンスが多数開催され、家族で楽しめます。",
-      "date": "7月中旬",
-      "place": "ホノルル各地（ワイキキビーチ周辺、カピオラニパーク）",
-      "link": "https://www.honolulufestival.com",
-      "free": true
+      "title": "Ala Moana Center サマーキャンプ・キッズプログラム",
+      "description": "アラモアナセンターで開催される子ども向け夏プログラム。工作、ハワイ文化体験、ダンスレッスンなど。年齢別に分かれており、乳幼児から小学生まで楽しめます。",
+      "date": "8月全体（毎週末開催）",
+      "place": "Ala Moana Center, 1450 Ala Moana Blvd, Honolulu, HI 96814",
+      "link": "https://www.alamoanacenter.com/",
+      "free": false
     },
     {
-      "title": "マカハ・サーフィン・コンテスト & ビーチクリーンアップ",
-      "description": "ハワイの伝統的なサーフィン大会。家族向けのサーフレッスンやビーチアクティビティもあり、ローカル文化を体験できます。",
-      "date": "7月中旬～下旬",
-      "place": "マカハビーチ（オアフ島西海岸）",
+      "title": "Honolulu Zoo サマー・キャンプ・プログラム",
+      "description": "ホノルル動物園の夏休み向け教育プログラム。動物の餌やりやバックステージツアーなど、子どもが動物と触れ合える特別体験。毎日異なるプログラム。",
+      "date": "8月全体",
+      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org/",
+      "free": false
+    },
+    {
+      "title": "ワイキキビーチでのカヌー・フラ体験（無料サンセット観賞付き）",
+      "description": "ワイキキビーチで開催される無料のハワイアンカヌー体験とフラダンス・ワークショップ。地元ハワイアンから文化を学べます。夕日観賞も無料。",
+      "date": "8月中旬〜下旬（毎週金土）",
+      "place": "Waikiki Beach, Honolulu, HI 96815",
       "link": "",
       "free": true
     },
     {
-      "title": "ホノルル動物園 サマープログラム",
-      "description": "子ども向けの教育ワークショップやアニマルミートが開催。動物との触れ合いを通じて自然学習ができるプログラム。",
-      "date": "7月通期",
-      "place": "ホノルル動物園（カピオラニパーク内、ホノルル）",
-      "link": "https://www.honoluluzoo.org",
+      "title": "Bishop Museum スマートシリーズ・キッズワークショップ",
+      "description": "ビショップ博物館の夏休み特別プログラム。ハワイの歴史、火山体験、プラネタリウムなど、子ども向けの対話的学習プログラムが毎日開催。",
+      "date": "8月全体",
+      "place": "Bishop Museum, 1525 Bernice St, Honolulu, HI 96817",
+      "link": "https://www.bishopmuseum.org/",
       "free": false
     },
     {
-      "title": "ビショップ美術館 キッズアート教室",
-      "description": "ハワイの美術品を鑑賞した後、子ども向けのアート制作教室に参加できます。創造性を育む体験。",
-      "date": "7月通期（予約制）",
-      "place": "ビショップ美術館（ホノルル）",
-      "link": "https://www.bishopmuseum.org",
-      "free": false
-    },
-    {
-      "title": "カイルア・ビーチ シュノーケリング体験",
-      "description": "ハワイで最も美しいビーチの一つ。浅瀬で安全にシュノーケリング体験ができ、カラフルな熱帯魚が見られます。",
-      "date": "7月通期",
-      "place": "カイルア・ビーチ（オアフ島東海岸）",
-      "link": "",
+      "title": "Waikele Premium Outlets キッズイベント・無料ワークショップ",
+      "description": "ワイケレアウトレットモールで開催される夏の無料キッズワークショップ。工作、ハワイアンクラフト、ローカルアーティストとのふれあい。買い物の合間に楽しめます。",
+      "date": "8月中旬（週末開催）",
+      "place": "Waikele Premium Outlets, 94-790 Lumiaina St, Waipahu, HI 96797",
+      "link": "https://www.premiumoutlets.com/outlets/store-listing/waikele",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-07-30T01:11:18.596Z"
+  "updatedAt": "2026-08-03T01:24:40.426Z"
 }
