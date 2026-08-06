@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "National Heroes Day（ナショナルヒーローズデー）",
-      "description": "8月第4月曜日はフィリピンの祝日。マニラ各地で パレードやセレモニーが開催。子ども向けの文化体験やワークショップも実施されます。",
-      "date": "8月25日（2026年）",
-      "place": "マニラシティ全域、Rizal Park周辺",
-      "link": "https://www.tourism.gov.ph",
+      "title": "フィエスタ・デ・サント・ドミンゴ（Fiesta de Santo Domingo）",
+      "description": "8月初旬、マニラ市内で行われるカトリックの祭り。パレード、音楽、文化的な催しがあり、地元の雰囲気を子どもたちが体験できます。",
+      "date": "8月上旬",
+      "place": "マニラ市内各地、特にサント・ドミンゴ教会周辺",
+      "link": "",
       "free": true
     },
     {
-      "title": "Rizal Park Summer Festival & Open Air Events",
-      "description": "リサール公園での無料の屋外イベント。子ども向け遊具エリア、文化パフォーマンス、家族向けアクティビティが開催。夏休み期間中は特別プログラムあり。",
-      "date": "8月上旬〜下旬",
-      "place": "Rizal Park, Bonifacio Drive, Ermita, Manila",
-      "link": "https://www.rizalpark.gov.ph",
+      "title": "フィリピン・フィエスタ・メモラビリア（Philippine Fiesta Memorabilia）",
+      "description": "伝統的なフィリピン料理、工芸品、地元文化の展示があるマーケット。子連れで地元の食事や雑貨を楽しめます。",
+      "date": "8月中旬",
+      "place": "イントラムロス（Intramuros）周辺",
+      "link": "https://www.intramurosmanila.ph",
       "free": true
     },
     {
-      "title": "Manila Ocean Park Summer Programs",
-      "description": "水族館での子ども向けサマープログラム。海の生き物との触れ合い体験、教育ワークショップ、キッズスイミングレッスンなど家族向けイベント開催。",
-      "date": "8月上旬〜下旬",
-      "place": "Manila Ocean Park, Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceanpark.com",
+      "title": "ナショナル・ミュージアム夏休み特別プログラム（National Museum Summer Program）",
+      "description": "子ども向けのワークショップ、インタラクティブ展示、ガイドツアーが充実。フィリピンの自然史と文化を楽しく学べます。",
+      "date": "8月通期",
+      "place": "National Museum of the Philippines, Rizal Park, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     },
     {
-      "title": "SM Mall of Asia Summer Kids Festival",
-      "description": "大型ショッピングモールでの子ども向けサマーフェスティバル。工作教室、キャラクターグリーティング、ゲーム、クイズ大会など屋内エンターテイメント満載。",
-      "date": "8月上旬〜下旬",
-      "place": "SM Mall of Asia, Pasay City",
-      "link": "https://www.smmallofasia.com",
-      "free": false
+      "title": "リサール公園（Rizal Park）での屋外アクティビティ",
+      "description": "広大な公園で凧揚げ、ピクニック、自転車乗車が楽しめます。博物館、プレイグラウンドもあり、家族全員で1日楽しめます。",
+      "date": "8月通期",
+      "place": "Rizal Park (Luneta Park), Manila",
+      "link": "https://www.tripadvisor.com/Tourism-g317155-Manila_Calabarzon_Region_Calabarzon_Laguna_Province_CALABARZON_Calabarzon.html",
+      "free": true
     },
     {
-      "title": "Makati Amphitheater Free Community Programs",
-      "description": "マカティ地区の野外劇場での無料の子ども向けイベント。音楽会、演劇、ダンスパフォーマンス、家族向けレクリエーション活動が開催されます。",
-      "date": "8月中旬〜下旬",
-      "place": "Makati Amphitheater, Makati City",
-      "link": "https://makati.gov.ph",
-      "free": true
+      "title": "サン・パブロ教会とマニラ湾サンセットツアー",
+      "description": "夕方のマニラ湾でのボートツアーと歴史的教会訪問。美しい夕焼けを子どもと鑑賞でき、フィリピンの宗教文化も体験できます。",
+      "date": "8月通期",
+      "place": "マニラ湾沿い、サン・パブロ教会周辺",
+      "link": "",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-03T01:24:25.146Z"
+  "updatedAt": "2026-08-06T01:13:44.412Z"
 }

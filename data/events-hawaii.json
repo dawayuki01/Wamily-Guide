@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Ala Moana Center サマーキャンプ・キッズプログラム",
-      "description": "アラモアナセンターで開催される子ども向け夏プログラム。工作、ハワイ文化体験、ダンスレッスンなど。年齢別に分かれており、乳幼児から小学生まで楽しめます。",
-      "date": "8月全体（毎週末開催）",
-      "place": "Ala Moana Center, 1450 Ala Moana Blvd, Honolulu, HI 96814",
-      "link": "https://www.alamoanacenter.com/",
-      "free": false
-    },
-    {
-      "title": "Honolulu Zoo サマー・キャンプ・プログラム",
-      "description": "ホノルル動物園の夏休み向け教育プログラム。動物の餌やりやバックステージツアーなど、子どもが動物と触れ合える特別体験。毎日異なるプログラム。",
-      "date": "8月全体",
-      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "ワイキキビーチでのカヌー・フラ体験（無料サンセット観賞付き）",
-      "description": "ワイキキビーチで開催される無料のハワイアンカヌー体験とフラダンス・ワークショップ。地元ハワイアンから文化を学べます。夕日観賞も無料。",
-      "date": "8月中旬〜下旬（毎週金土）",
-      "place": "Waikiki Beach, Honolulu, HI 96815",
-      "link": "",
+      "title": "Ala Moana Center サマーキッズプログラム",
+      "description": "アラモアナショッピングセンターで開催される夏休み向けキッズプログラム。クラフトワークショップ、キャラクターグリーティング、ステージショーなど子ども向けイベントが多数開催されます。",
+      "date": "8月中旬〜下旬",
+      "place": "Ala Moana Center, 1450 Ala Moana Boulevard, Honolulu",
+      "link": "https://www.alamoanacenter.com",
       "free": true
     },
     {
-      "title": "Bishop Museum スマートシリーズ・キッズワークショップ",
-      "description": "ビショップ博物館の夏休み特別プログラム。ハワイの歴史、火山体験、プラネタリウムなど、子ども向けの対話的学習プログラムが毎日開催。",
-      "date": "8月全体",
-      "place": "Bishop Museum, 1525 Bernice St, Honolulu, HI 96817",
-      "link": "https://www.bishopmuseum.org/",
+      "title": "Waikiki Aquarium サマースペシャルプログラム",
+      "description": "ワイキキ水族館の夏限定プログラム。イルカとの触れ合い、海の生き物の生態学習ツアーなど、子ども向けの対話型教育プログラムを実施。",
+      "date": "8月中旬〜下旬",
+      "place": "Waikiki Aquarium, 2777 Kalakaua Avenue, Honolulu",
+      "link": "https://www.waikikiaquarium.org",
       "free": false
     },
     {
-      "title": "Waikele Premium Outlets キッズイベント・無料ワークショップ",
-      "description": "ワイケレアウトレットモールで開催される夏の無料キッズワークショップ。工作、ハワイアンクラフト、ローカルアーティストとのふれあい。買い物の合間に楽しめます。",
-      "date": "8月中旬（週末開催）",
-      "place": "Waikele Premium Outlets, 94-790 Lumiaina St, Waipahu, HI 96797",
-      "link": "https://www.premiumoutlets.com/outlets/store-listing/waikele",
+      "title": "ハナウマ湾ネイチャーリザーブでのシュノーケリング",
+      "description": "ハワイを代表するシュノーケリングスポット。浅い湾で熱帯魚と遭遇でき、家族向けに最適。ビーチは比較的穏やかで乳幼児連れにも安全。",
+      "date": "8月上旬〜下旬（毎日）",
+      "place": "Hanauma Bay Nature Preserve, 7455 Kalanianaole Hwy, Honolulu",
+      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
+      "free": false
+    },
+    {
+      "title": "Duke Kahanamoku Beach Volleyball Tournament 観戦",
+      "description": "ワイキキビーチで開催される夏のビーチバレーボール大会。無料で観戦でき、ハワイの海辺のカジュアルな雰囲気を家族で楽しめます。",
+      "date": "8月中旬",
+      "place": "Waikiki Beach, Honolulu",
+      "link": "https://www.honolulu.gov",
       "free": true
+    },
+    {
+      "title": "Honolulu Zoo サマーキャンプ・プログラム",
+      "description": "ホノルル動物園の夏休み向けプログラム。動物とのふれあい、サファリツアー、キッズワークショップなど年齢別の充実した教育プログラム。",
+      "date": "8月中旬〜下旬",
+      "place": "Honolulu Zoo, 151 Kapahulu Avenue, Honolulu",
+      "link": "https://www.honoluluzoo.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-03T01:24:40.426Z"
+  "updatedAt": "2026-08-06T01:13:58.404Z"
 }

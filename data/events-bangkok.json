@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ルンピニ公園での無料野外映画上映会",
-      "description": "バンコク市内最大の公園で、夕方から無料の野外映画が上映されます。家族連れが多く、ピクニック気分で楽しめる季節のイベントです。",
-      "date": "8月中旬〜下旬（週末）",
-      "place": "ルンピニ公園（Lumphini Park）、バンコク市中央部",
-      "link": "https://www.bangkok.com/lumphini-park.htm",
+      "title": "ルンピニ公園での朝のエクササイズと自然観察",
+      "description": "バンコク中心部の広大な公園で、朝日の中を散歩・サイクリング。野鳥観察やトンボ池探検など、子どもの自然学習に最適。地元ファミリーとの交流も楽しめます。",
+      "date": "8月上旬〜下旬（早朝6:00-9:00推奨）",
+      "place": "ルンピニ公園（Lumphini Park）、Wireless Road, Pathum Wan, Bangkok",
+      "link": "https://www.tatbangkok.com/",
       "free": true
     },
     {
-      "title": "キングス・ラーニング・パークでの特別教育プログラム",
-      "description": "国王に関する教育施設で、8月の王妃誕生日イベント期間に子ども向けの特別ワークショップや展示が開催されます。",
-      "date": "8月上旬〜中旬",
-      "place": "キングス・ラーニング・パーク、バンコク北部",
-      "link": "https://www.klp.or.th",
+      "title": "アート・カルチャーセンター（Bangkok Art and Culture Centre）の子ども向けワークショップ",
+      "description": "タイ文化体験プログラム。シルク絵付けやタイ工芸体験など、子ども向けの特別ワークショップを開催。スタッフが丁寧にサポートします。",
+      "date": "8月通期（週末開催）",
+      "place": "Bangkok Art and Culture Centre、Phayathai Road, Pathum Wan",
+      "link": "https://www.bacc.or.th/",
       "free": false
     },
     {
-      "title": "ウォーター・パークでの夏休み特別企画",
-      "description": "バンコク近郊のウォーターパークで、8月の夏休み期間に子ども向けの割引料金やスペシャルイベントが開催されます。",
-      "date": "8月全期間",
-      "place": "スパムリンク・ウォーターパーク（Suamluang Water Park）",
-      "link": "https://www.suamluang.com",
-      "free": false
-    },
-    {
-      "title": "チャトゥチャック・ウィークエンド・マーケットの無料散策",
-      "description": "世界最大級の週末市場。8月は雨の季節ですが、屋根付きエリアが充実。子ども服、おもちゃ、グルメが集中し、家族向けショッピングスポット。",
-      "date": "8月毎週土日",
-      "place": "チャトゥチャック・ウィークエンド・マーケット、バンコク北部",
-      "link": "https://www.chatuchakmarket.com",
+      "title": "チャトゥチャック・ウィークエンド・マーケット（夏休み特別企画）",
+      "description": "東南アジア最大級の市場。8月は子ども向けクラフト体験や屋台グルメが充実。迷路のような楽しさで子どもたちも大興奮。朝早い来園がおすすめ。",
+      "date": "8月の土日祝日（9:00-17:00）",
+      "place": "チャトゥチャック・ウィークエンド・マーケット、Kamphaeng Phet 2 Road",
+      "link": "https://www.chatuchakmarket.com/",
       "free": true
     },
     {
-      "title": "シャムスクエア・シーライフ・バンコク・オーシャン・ワールド",
-      "description": "東南アジア最大級の水族館。8月の特別企画として子ども向けの教育プログラムやフィーディングデモンストレーションが充実しています。",
-      "date": "8月全期間",
-      "place": "シーム・スクエア（Siam Square）内、バンコク市中央部",
-      "link": "https://www.bangkokoceanworld.com",
+      "title": "ドリームワールド（Dream World）のレイン・フェスティバル特別イベント",
+      "description": "テーマパークで8月の雨季向け特別イベント開催。屋内アトラクション充実、子ども向けキャラクターショー、フォトスポット。雨対策も万全です。",
+      "date": "8月中旬〜下旬",
+      "place": "ドリームワールド、Rangsit, Pathum Thani Province",
+      "link": "https://www.dreamworldpark.com/",
+      "free": false
+    },
+    {
+      "title": "ナショナルミュージアム（National Museum Bangkok）の夏休み子ども向けツアー",
+      "description": "タイの歴史・文化を学ぶガイド付きツアー。子ども用パンフレット配布、クイズラリー開催。古都の息吹を感じながら文化理解が深まります。",
+      "date": "8月上旬〜下旬（火-日 9:00-16:00）",
+      "place": "ナショナルミュージアム、Na Phra That Road, Phra Nakhon",
+      "link": "https://www.thaimuseum.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-03T01:24:18.220Z"
+  "updatedAt": "2026-08-06T01:13:36.860Z"
 }

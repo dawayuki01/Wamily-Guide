@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plages）",
-      "description": "セーヌ川沿いに砂浜が出現。ビーチバレー、スイミング、子ども向けアクティビティが無料で楽しめる夏の風物詩。",
+      "title": "パリ・プラージュ（Paris Plage）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもたちが砂遊びをしたり、無料のアクティビティ（体操教室など）に参加できます。8月も開催されており、夏の涼しさを感じながら楽しめます。",
       "date": "8月上旬〜下旬",
-      "place": "セーヌ川沿い（ポン・デザール周辺など）、パリ中心部",
-      "link": "https://www.paris.fr/pages/paris-plages-2380",
+      "place": "セーヌ川沿い（ポン・ネフ周辺ほか複数箇所）",
+      "link": "https://www.paris.fr/pages/paris-plage-284",
       "free": true
     },
     {
-      "title": "モンマルトル周辺の夏祭り（Fête de Montmartre）",
-      "description": "モンマルトル地区の伝統的な夏祭り。音楽ライブ、キャバレー、屋台、子ども向けアニメーションが楽しめます。",
-      "date": "8月中旬（毎年8月中旬開催）",
-      "place": "モンマルトル地区、パリ18区",
-      "link": "https://www.fetesdemontmartre.com",
-      "free": true
-    },
-    {
-      "title": "シテ科学産業博物館の夏休み特別プログラム",
-      "description": "子ども向けワークショップ、体験型展示、映画上映。年齢別の科学体験で、知識と遊びを融合させた学習が可能。",
-      "date": "8月通年",
-      "place": "Cité des Sciences et de l'Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr",
+      "title": "ルーヴル美術館・子ども向けワークショップ",
+      "description": "夏休み期間中、子ども対象の特別ガイドツアーやアート体験プログラムを実施。名画について楽しく学べる工夫がされています。事前予約がおすすめです。",
+      "date": "8月上旬〜下旬",
+      "place": "ルーヴル美術館、パレ・ロワイアル広場、75001 パリ",
+      "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "シャン・ド・マルス公園での野外映画祭",
-      "description": "エッフェル塔を背景に、家族向けの映画が野外スクリーンで上映。ピクニック持参で無料鑑賞できる夏の恒例行事。",
+      "title": "セーヌ川クルーズ・ファミリープラン",
+      "description": "涼しいセーヌ川でのクルーズ。パリの主要観光地を水上から観賞でき、乳幼児連れの家族も利用しやすいです。子ども料金も設定されています。",
       "date": "8月上旬〜下旬",
-      "place": "シャン・ド・マルス公園、パリ7区",
-      "link": "https://www.paris.fr/pages/cinema-en-plein-air-2380",
+      "place": "アルマ橋（ポン・ド・ラルマ）周辺、トッカデロ広場ほか",
+      "link": "https://www.batobus.com",
+      "free": false
+    },
+    {
+      "title": "パリ植物園（Jardin des Plantes）・自然観察",
+      "description": "広大な庭園で季節の花々や自然観察ができます。子ども向けの昆虫展示やワークショップも開催。無料で庭園散策でき、涼しい樹陰で休憩も可能です。",
+      "date": "8月上旬〜下旬",
+      "place": "57 rue Cuvier, 75005 パリ",
+      "link": "https://www.jardindesplantes.net",
       "free": true
     },
     {
-      "title": "ルクセンブルク公園の子ども向けアクティビティ",
-      "description": "水遊び広場、ポニー乗馬、人形劇、木製遊具。8月も継続開催され、乳幼児から小学生まで楽しめます。",
-      "date": "8月通年",
-      "place": "Jardin du Luxembourg, Rue Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardin/index.html",
+      "title": "アスタリックス・パーク・サマーフェスティバル",
+      "description": "テーマパークで行われる夏特別イベント。子ども向けのキャラクターショーや限定アトラクションが充実。小学生が特に喜ぶコンテンツが豊富です。",
+      "date": "8月上旬〜下旬",
+      "place": "Parc Astérix, 60128 プラッシー（パリ郊外）",
+      "link": "https://www.parcasterix.fr",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-03T01:23:55.360Z"
+  "updatedAt": "2026-08-06T01:13:11.796Z"
 }

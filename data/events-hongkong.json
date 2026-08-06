@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "香港サマーフェスティバル",
-      "description": "8月の香港各地で開催される子ども向けイベント。音楽、ダンス、工作教室など家族で楽しめるアクティビティが多数。涼しい屋内会場もあり、夏休みの思い出作りに最適です。",
-      "date": "8月中旬〜下旬",
-      "place": "香港各地（Central Harbourfront、South Lantau など複数会場）",
-      "link": "https://www.discoverhongkong.com",
+      "description": "夏休み期間中、香港各地で開催される子ども向けイベント。アートワークショップ、ステージパフォーマンス、ゲームコーナーなど家族で楽しめます。",
+      "date": "8月上旬〜下旬",
+      "place": "ビクトリアパーク、セントラルプラザほか香港各地",
+      "link": "https://www.discoverhongkong.com/",
       "free": true
     },
     {
-      "title": "ビクトリアピークへのハイキング・トラム乗車体験",
-      "description": "香港を代表する屋外スポット。子ども向けハイキングコースと、ノスタルジックなトラムで上山できます。展望台からの絶景と涼しい山頂で、夏の暑さを逃れられます。",
-      "date": "8月全期間（通年可能）",
-      "place": "ビクトリアピーク（Peak Rd, The Peak, Hong Kong）",
-      "link": "https://www.thepeak.com.hk",
+      "title": "スターフェリーとスターハーバークルーズ",
+      "description": "香港を代表するアイコン、スターフェリーでのハーバークルーズ。ビクトリアハーバーの絶景と涼しい海風を楽しむ屋外アクティビティ。乳幼児も乗車可能。",
+      "date": "通年（特に夜間クルーズが人気）",
+      "place": "スターフェリー乗船場（セントラル〜尖沙咀）",
+      "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "スターフェリーでの夜間クルーズ・スターライトツアー",
-      "description": "維多利亚港のスターフェリーで海からの夜景を楽しむツアー。子どもにとって印象的な体験。夏の夜間は涼しく、家族向けのイベントプログラムが用意される場合があります。",
-      "date": "8月全期間（毎日運航）",
-      "place": "スターフェリー乗り場（Central/Tsim Sha Tsui）",
-      "link": "https://www.starferry.com.hk",
+      "title": "香港科学館のサマープログラム",
+      "description": "夏休み限定の子ども向けワークショップや特別展示。体験型の科学学習で、乳幼児から小学生まで楽しめます。エアコン完備で真夏でも快適。",
+      "date": "8月上旬〜下旬",
+      "place": "香港科学館（九龍尖沙咀東部科学館道1号）",
+      "link": "https://www.hk.science.museum/",
       "free": false
     },
     {
-      "title": "香港科学館・子ども向け夏季特別展示",
-      "description": "夏休み期間中の特別展示や子ども向けワークショップ。STEM教育・対話型展示が充実。猛暑対策に最適な屋内施設で、乳幼児から小学生まで楽しめます。",
-      "date": "8月全期間",
-      "place": "香港科学館（1 Museum Road, Tsim Sha Tsui East, Kowloon）",
-      "link": "https://www.scm.gov.hk",
-      "free": false
-    },
-    {
-      "title": "スタンレービーチ・ファミリー向けビーチアクティビティ",
-      "description": "香港で最も家族向けなビーチ。遠浅で子ども向けのビーチプールやウォータースポーツ教室が充実。地元の屋台フードも楽しめ、海での屋外体験が満喫できます。",
-      "date": "8月全期間",
-      "place": "スタンレービーチ（Stanley Beach, Hong Kong Island South）",
-      "link": "https://www.discoverhongkong.com",
+      "title": "ウーマンズ・フェスティバル・イン・オーガスト（婦女節）周辺イベント",
+      "description": "8月の香港では家族向けマーケットやフェスティバルが開催。地元の工芸品、食べ物、子ども向けゲームなど、香港文化を体験できます。",
+      "date": "8月中旬",
+      "place": "ビクトリアパーク、セントラルプラザほか各商業施設",
+      "link": "https://www.discoverhongkong.com/",
       "free": true
+    },
+    {
+      "title": "スターフェリー乗船体験＆ピークトラム",
+      "description": "ハーバークルーズの後、ピークトラムで山頂へ。涼しい夜間の運行で、360度の香港夜景を堪能。乳幼児連れでも楽しめる移動型アクティビティ。",
+      "date": "通年（8月は夜間利用が涼しい）",
+      "place": "ピークトラム乗車駅（セントラルガーデン）",
+      "link": "https://www.thepeak.com.hk/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-03T01:24:55.866Z"
+  "updatedAt": "2026-08-06T01:14:14.113Z"
 }

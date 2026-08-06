@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン王立動物園（Skansen）の夏期特別プログラム",
-      "description": "北欧の動物や伝統文化を学べるスカンセン。夏は子ども向けワークショップ、動物との触れ合いイベント、民族衣装体験などが充実。園内の野外博物館で北欧の伝統建築も楽しめます。",
-      "date": "8月中旬〜下旬",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
-      "free": false
-    },
-    {
-      "title": "ストックホルム群島でのカヤック・ボート体験",
-      "description": "8月の穏やかな気候を活かした島巡りアクティビティ。家族向けのガイド付きツアーで、群島の美しい景色、野生動物観察、島での野外活動を満喫できます。乳幼児連れも楽しめるツアーあり。",
-      "date": "8月中旬〜下旬",
-      "place": "Stockholm Archipelago / Djurgården周辺",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "ユーラルスケン水族館（Aquaria Watermuseum）の夏イベント",
-      "description": "北欧最大級の水族館。夏期は子ども向けの海の生き物体験コーナー、触れる水族館、特別展示が開催。乳幼児から小学生まで楽しめる教育プログラムが豊富です。",
-      "date": "8月上旬〜下旬",
-      "place": "Falkplanetvägen 10, 115 27 Stockholm",
-      "link": "https://www.aquariamuseet.se",
-      "free": false
-    },
-    {
-      "title": "ジューガーデン公園（Djurgården Park）での無料散策・ピクニック",
-      "description": "ストックホルム最大の公園で、8月の温暖な気候を活かして家族でピクニック。遊び場、自転車ルート、美しい景観を無料で楽しめます。動物園や美術館などの施設も周辺に集中。",
-      "date": "8月上旬〜下旬",
-      "place": "Djurgården Island, Stockholm",
-      "link": "https://www.visitstockholm.com",
+      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
+      "description": "8月中旬に開催される北欧最大級の水上祭典。音楽、ダンス、アート、花火が楽しめ、子ども向けアクティビティエリアも充実。家族連れに人気です。",
+      "date": "8月中旬（通常8月9日〜18日頃）",
+      "place": "ストックホルム中心部・ニーレマルム地区沿岸",
+      "link": "https://www.stockholmwaterfestival.se/",
       "free": true
     },
     {
-      "title": "北欧博物館（Nordiska Museet）の子ども向け夏休みプログラム",
-      "description": "スウェーデンの文化・生活を学ぶ博物館。夏休み期間は子ども向けワークショップ、インタラクティブ展示、伝統工芸体験などを開催。乳幼児向けのプレイエリアも完備。",
-      "date": "8月上旬〜中旬",
-      "place": "Djurgårdsvägen 6-16, 115 93 Stockholm",
-      "link": "https://www.nordiskamuseet.se",
+      "title": "スカンセン野外博物館（Skansen）の夏季プログラム",
+      "description": "北欧最大級の野外博物館。8月は夏祭り、動物との触れ合い、伝統工芸体験など子ども向けプログラムが充実。乳幼児向けエリアもあります。",
+      "date": "8月通年開催",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
+      "free": false
+    },
+    {
+      "title": "ジュラゴーデン島（Djurgården）でのサイクリング・ピクニック",
+      "description": "ストックホルムの景観地として知られるジュラゴーデン島。8月の好天期に、自転車レンタルでサイクリングやピクニックが楽しめます。無料でアクセス可能。",
+      "date": "8月通年",
+      "place": "Djurgården, Stockholm",
+      "link": "https://www.stockholm.se/en/djurgarden/",
+      "free": true
+    },
+    {
+      "title": "ストックホルム群島クルーズ（Stockholm Archipelago Tours）",
+      "description": "8月の気候は最適。島々を巡るファミリー向けクルーズで、絶景を楽しめます。子ども向け解説や軽食サービスがある便も多くあります。",
+      "date": "8月通年開催",
+      "place": "ストランドヴェーゲン（Strandvägen）埠頭他、各乗船地",
+      "link": "https://www.stromkastellet.se/",
+      "free": false
+    },
+    {
+      "title": "ヴァーサ号博物館（Vasa Museum）の特別子ども向けツアー",
+      "description": "17世紀の戦艦を保存した博物館。8月は子ども向け説明会やワークショップが開催。北欧の歴史を学びながら、大型船の迫力を体験できます。",
+      "date": "8月通年（特別ツアーは週3〜4回程度）",
+      "place": "Galärvarvsvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se/en/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-03T01:24:03.513Z"
+  "updatedAt": "2026-08-06T01:13:20.377Z"
 }
