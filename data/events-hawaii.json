@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Ala Moana Center サマーキッズプログラム",
-      "description": "アラモアナショッピングセンターで開催される夏休み向けキッズプログラム。クラフトワークショップ、キャラクターグリーティング、ステージショーなど子ども向けイベントが多数開催されます。",
-      "date": "8月中旬〜下旬",
-      "place": "Ala Moana Center, 1450 Ala Moana Boulevard, Honolulu",
+      "title": "Ala Moana Center サマーキャンプ & ワークショップ",
+      "description": "アラモアナセンターで開催される子ども向けの夏休み特別プログラム。クラフト、ダンス、ハワイ文化体験など様々なワークショップが無料で楽しめます。",
+      "date": "8月上旬〜下旬",
+      "place": "アラモアナセンター（Ala Moana Center）、ホノルル",
       "link": "https://www.alamoanacenter.com",
       "free": true
     },
     {
-      "title": "Waikiki Aquarium サマースペシャルプログラム",
-      "description": "ワイキキ水族館の夏限定プログラム。イルカとの触れ合い、海の生き物の生態学習ツアーなど、子ども向けの対話型教育プログラムを実施。",
-      "date": "8月中旬〜下旬",
-      "place": "Waikiki Aquarium, 2777 Kalakaua Avenue, Honolulu",
-      "link": "https://www.waikikiaquarium.org",
-      "free": false
-    },
-    {
-      "title": "ハナウマ湾ネイチャーリザーブでのシュノーケリング",
-      "description": "ハワイを代表するシュノーケリングスポット。浅い湾で熱帯魚と遭遇でき、家族向けに最適。ビーチは比較的穏やかで乳幼児連れにも安全。",
-      "date": "8月上旬〜下旬（毎日）",
-      "place": "Hanauma Bay Nature Preserve, 7455 Kalanianaole Hwy, Honolulu",
-      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
-      "free": false
-    },
-    {
-      "title": "Duke Kahanamoku Beach Volleyball Tournament 観戦",
-      "description": "ワイキキビーチで開催される夏のビーチバレーボール大会。無料で観戦でき、ハワイの海辺のカジュアルな雰囲気を家族で楽しめます。",
-      "date": "8月中旬",
-      "place": "Waikiki Beach, Honolulu",
-      "link": "https://www.honolulu.gov",
+      "title": "ワイキキ・ビーチ・キッズ・プログラム（サーフィンレッスン）",
+      "description": "地元のビーチボーイズによるキッズ向け無料サーフィンレッスン。初心者対象で、ハワイアンカルチャーも学べる屋外アクティビティです。毎週開催。",
+      "date": "8月中旬〜下旬（毎週土日）",
+      "place": "ワイキキビーチ、ホノルル",
+      "link": "https://www.gohonolulu.com",
       "free": true
     },
     {
-      "title": "Honolulu Zoo サマーキャンプ・プログラム",
-      "description": "ホノルル動物園の夏休み向けプログラム。動物とのふれあい、サファリツアー、キッズワークショップなど年齢別の充実した教育プログラム。",
-      "date": "8月中旬〜下旬",
-      "place": "Honolulu Zoo, 151 Kapahulu Avenue, Honolulu",
+      "title": "ホノルル動物園 サマー・キャンプ",
+      "description": "動物園が開催する子ども向け夏期キャンプ。動物の世話体験やハワイ固有生物の学習プログラムが充実。乳幼児向けのプログラムも用意されています。",
+      "date": "8月上旬〜下旬",
+      "place": "ホノルル動物園（Honolulu Zoo）、カピオラニ公園内",
       "link": "https://www.honoluluzoo.org",
+      "free": false
+    },
+    {
+      "title": "KCC ファーマーズマーケット",
+      "description": "毎週土曜日開催。ハワイ産の新鮮なフルーツ、野菜、ローカルフード、工芸品が並ぶマーケット。子どもと一緒にハワイの食文化を体験できます。",
+      "date": "8月の毎週土曜（朝8時〜正午）",
+      "place": "カピオラニ・コミュニティカレッジ（KCC）、ホノルル",
+      "link": "https://www.honolulufarmersmarket.com",
+      "free": true
+    },
+    {
+      "title": "ビショップ・ミュージアム キッズ・サマー・プログラム",
+      "description": "ハワイ文化と歴史を学ぶ子ども向けワークショップ。フラダンス体験、ハワイアンクラフト、プラネタリウムショーなど多彩なプログラム。",
+      "date": "8月上旬〜下旬",
+      "place": "ビショップ・ミュージアム（Bishop Museum）、ホノルル",
+      "link": "https://www.bishopmuseum.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-06T01:13:58.404Z"
+  "updatedAt": "2026-08-10T00:44:14.781Z"
 }

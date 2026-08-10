@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "8月中旬に開催される北欧最大級の水上祭典。音楽、ダンス、アート、花火が楽しめ、子ども向けアクティビティエリアも充実。家族連れに人気です。",
-      "date": "8月中旬（通常8月9日〜18日頃）",
-      "place": "ストックホルム中心部・ニーレマルム地区沿岸",
-      "link": "https://www.stockholmwaterfestival.se/",
+      "description": "ストックホルムの水辺を舞台にした夏の大型フェスティバル。音楽、ダンス、子ども向けアクティビティ、屋台が集結。家族連れに人気の無料エリアも多数。",
+      "date": "8月上旬（通常8月第2週）",
+      "place": "Riddarholmen、Strömkajen周辺、ストックホルム市庁舎広場",
+      "link": "https://stockholmwaterfestival.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館（Skansen）の夏季プログラム",
-      "description": "北欧最大級の野外博物館。8月は夏祭り、動物との触れ合い、伝統工芸体験など子ども向けプログラムが充実。乳幼児向けエリアもあります。",
-      "date": "8月通年開催",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "スカンセン野外博物館の夏季プログラム",
+      "description": "北欧の伝統的建造物と動物園を備える屋外ミュージアム。8月は子ども向けワークショップ、伝統工芸体験、動物との触れ合いが充実。歴史学習と遊びを兼ねた施設。",
+      "date": "8月通年",
+      "place": "Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ジュラゴーデン島（Djurgården）でのサイクリング・ピクニック",
-      "description": "ストックホルムの景観地として知られるジュラゴーデン島。8月の好天期に、自転車レンタルでサイクリングやピクニックが楽しめます。無料でアクセス可能。",
+      "title": "ユーランデル島（Djurgården）自転車ツアー＆ピクニック",
+      "description": "ストックホルムを代表する水上公園島。自転車レンタルで家族向けサイクリング、湖畔でのピクニックが無料で楽しめる。美しい並木道と水辺の景観が特徴。",
       "date": "8月通年",
       "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/en/djurgarden/",
+      "link": "https://www.visitstockholm.com/things-to-do/djurgarden/",
       "free": true
     },
     {
-      "title": "ストックホルム群島クルーズ（Stockholm Archipelago Tours）",
-      "description": "8月の気候は最適。島々を巡るファミリー向けクルーズで、絶景を楽しめます。子ども向け解説や軽食サービスがある便も多くあります。",
-      "date": "8月通年開催",
-      "place": "ストランドヴェーゲン（Strandvägen）埠頭他、各乗船地",
-      "link": "https://www.stromkastellet.se/",
+      "title": "ノルディスカミュージアム（Nordiska museet）の子ども向け企画展",
+      "description": "北欧の文化と生活を展示する博物館。夏季は子ども向けの特別ワークショップや対話型展示が多く、スウェーデンの文化を楽しみながら学べる。",
+      "date": "8月通年",
+      "place": "Djurgårdvägen 6-16, 115 93 Stockholm",
+      "link": "https://www.nordiskamuseet.se",
       "free": false
     },
     {
-      "title": "ヴァーサ号博物館（Vasa Museum）の特別子ども向けツアー",
-      "description": "17世紀の戦艦を保存した博物館。8月は子ども向け説明会やワークショップが開催。北欧の歴史を学びながら、大型船の迫力を体験できます。",
-      "date": "8月通年（特別ツアーは週3〜4回程度）",
-      "place": "Galärvarvsvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se/en/",
-      "free": false
+      "title": "ストックホルム公共図書館（Stockholms Stadsbibliotek）の夏季児童プログラム",
+      "description": "建築的にも美しい図書館で、夏休み期間中の読み聞かせ、子ども向けワークショップ、デジタル体験コーナーが無料開催。涼しい館内で知的な時間を過ごせる。",
+      "date": "8月通年（プログラム内容は週替わり）",
+      "place": "Sveavägen 73, 104 29 Stockholm",
+      "link": "https://biblioteket.stockholm.se",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-06T01:13:20.377Z"
+  "updatedAt": "2026-08-10T00:43:35.449Z"
 }

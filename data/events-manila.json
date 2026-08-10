@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィエスタ・デ・サント・ドミンゴ（Fiesta de Santo Domingo）",
-      "description": "8月初旬、マニラ市内で行われるカトリックの祭り。パレード、音楽、文化的な催しがあり、地元の雰囲気を子どもたちが体験できます。",
-      "date": "8月上旬",
-      "place": "マニラ市内各地、特にサント・ドミンゴ教会周辺",
-      "link": "",
+      "title": "National Heroes Day",
+      "description": "8月第4月曜日のフィリピン建国記念日。政府施設や博物館が無料開放され、パレードやセレモニーが開催。歴史学習に最適な家族向けイベント。",
+      "date": "8月第4月曜日（8月25日予定）",
+      "place": "マニラ市内全域・Rizal Park周辺",
+      "link": "https://www.gov.ph/",
       "free": true
     },
     {
-      "title": "フィリピン・フィエスタ・メモラビリア（Philippine Fiesta Memorabilia）",
-      "description": "伝統的なフィリピン料理、工芸品、地元文化の展示があるマーケット。子連れで地元の食事や雑貨を楽しめます。",
-      "date": "8月中旬",
-      "place": "イントラムロス（Intramuros）周辺",
-      "link": "https://www.intramurosmanila.ph",
-      "free": true
-    },
-    {
-      "title": "ナショナル・ミュージアム夏休み特別プログラム（National Museum Summer Program）",
-      "description": "子ども向けのワークショップ、インタラクティブ展示、ガイドツアーが充実。フィリピンの自然史と文化を楽しく学べます。",
-      "date": "8月通期",
-      "place": "National Museum of the Philippines, Rizal Park, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "title": "Manila Zoo Summer Programs",
+      "description": "マニラ動物園の夏休み特別プログラム。動物との触れ合い体験、教育ワークショップ、餌やり体験など子ども向けアクティビティが豊富。",
+      "date": "8月全月",
+      "place": "Manila Zoo, Rizal Park, Manila",
+      "link": "https://manilazooph.org/",
       "free": false
     },
     {
-      "title": "リサール公園（Rizal Park）での屋外アクティビティ",
-      "description": "広大な公園で凧揚げ、ピクニック、自転車乗車が楽しめます。博物館、プレイグラウンドもあり、家族全員で1日楽しめます。",
-      "date": "8月通期",
-      "place": "Rizal Park (Luneta Park), Manila",
-      "link": "https://www.tripadvisor.com/Tourism-g317155-Manila_Calabarzon_Region_Calabarzon_Laguna_Province_CALABARZON_Calabarzon.html",
+      "title": "Enchanted Kingdom Summer Splash",
+      "description": "テーマパークの夏限定アトラクション。水遊びエリア、キャラクターショー、子ども向けライドが拡充。乳幼児向けエリアも充実。",
+      "date": "8月全月",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから近郊）",
+      "link": "https://www.enchantedkingdom.ph/",
+      "free": false
+    },
+    {
+      "title": "Luneta Park Free Activities",
+      "description": "リサール公園内の芝生広場で家族向けピクニック、遊具利用、露店巡り。毎週末にイベントやパフォーマンス開催。入園無料で終日楽しめる。",
+      "date": "8月全月（土日祝日推奨）",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.nhtf.gov.ph/",
       "free": true
     },
     {
-      "title": "サン・パブロ教会とマニラ湾サンセットツアー",
-      "description": "夕方のマニラ湾でのボートツアーと歴史的教会訪問。美しい夕焼けを子どもと鑑賞でき、フィリピンの宗教文化も体験できます。",
-      "date": "8月通期",
-      "place": "マニラ湾沿い、サン・パブロ教会周辺",
-      "link": "",
-      "free": false
+      "title": "Marikina River Park Outdoor Activities",
+      "description": "川沿いの大型公園でサイクリング、ジョギング、ピクニックが可能。遊び場やスポーツ施設も充実。屋外での家族アクティビティに最適。",
+      "date": "8月全月",
+      "place": "Marikina River Park, Marikina City（マニラ隣接）",
+      "link": "https://marikina.gov.ph/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-06T01:13:44.412Z"
+  "updatedAt": "2026-08-10T00:43:59.246Z"
 }

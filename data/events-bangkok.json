@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ルンピニ公園での朝のエクササイズと自然観察",
-      "description": "バンコク中心部の広大な公園で、朝日の中を散歩・サイクリング。野鳥観察やトンボ池探検など、子どもの自然学習に最適。地元ファミリーとの交流も楽しめます。",
-      "date": "8月上旬〜下旬（早朝6:00-9:00推奨）",
-      "place": "ルンピニ公園（Lumphini Park）、Wireless Road, Pathum Wan, Bangkok",
-      "link": "https://www.tatbangkok.com/",
+      "title": "ルンピニ公園での早朝ラジオ体操と凧揚げ",
+      "description": "バンコクの大型公園で地元民と一緒に朝の運動を楽しめます。8月は雨季ですが、早朝は比較的晴れることが多く、広大な芝生で子どもたちが安全に走り回れます。",
+      "date": "8月上旬～下旬（毎朝）",
+      "place": "ルンピニ公園（Lumphini Park）、バンコク中央部",
+      "link": "https://www.bangkoktourist.com",
       "free": true
     },
     {
-      "title": "アート・カルチャーセンター（Bangkok Art and Culture Centre）の子ども向けワークショップ",
-      "description": "タイ文化体験プログラム。シルク絵付けやタイ工芸体験など、子ども向けの特別ワークショップを開催。スタッフが丁寧にサポートします。",
-      "date": "8月通期（週末開催）",
-      "place": "Bangkok Art and Culture Centre、Phayathai Road, Pathum Wan",
-      "link": "https://www.bacc.or.th/",
+      "title": "サイアム・パラゴン水族館の雨季特別プログラム",
+      "description": "東南アジア最大級の水族館で、雨季限定の海の生き物展示や子ども向けワークショップが開催されます。室内施設のため雨の日も楽しめます。",
+      "date": "8月中旬～下旬",
+      "place": "サイアム・パラゴン（Siam Paragon）、バンコク",
+      "link": "https://www.siamparagon.co.th",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット（夏休み特別企画）",
-      "description": "東南アジア最大級の市場。8月は子ども向けクラフト体験や屋台グルメが充実。迷路のような楽しさで子どもたちも大興奮。朝早い来園がおすすめ。",
-      "date": "8月の土日祝日（9:00-17:00）",
-      "place": "チャトゥチャック・ウィークエンド・マーケット、Kamphaeng Phet 2 Road",
-      "link": "https://www.chatuchakmarket.com/",
+      "title": "チャトゥチャック・ウィークエンド・マーケットでの子ども向けワークショップ",
+      "description": "世界最大級のウィークエンドマーケットで、子ども向けのDIY工作やタイ文化体験ワークショップが開催されます。家族向けの屋台グルメも豊富です。",
+      "date": "8月の土日",
+      "place": "チャトゥチャック・ウィークエンド・マーケット、バンコク北部",
+      "link": "https://www.chatuchakmarket.com",
       "free": true
     },
     {
-      "title": "ドリームワールド（Dream World）のレイン・フェスティバル特別イベント",
-      "description": "テーマパークで8月の雨季向け特別イベント開催。屋内アトラクション充実、子ども向けキャラクターショー、フォトスポット。雨対策も万全です。",
-      "date": "8月中旬〜下旬",
-      "place": "ドリームワールド、Rangsit, Pathum Thani Province",
-      "link": "https://www.dreamworldpark.com/",
+      "title": "ドリームワールド（テーマパーク）のレイン・シーズン・イベント",
+      "description": "バンコク最大級のテーマパークで雨季限定のイベントや割引料金が適用されます。乗り物や屋内アトラクションで子どもたちが楽しめます。",
+      "date": "8月上旬～下旬",
+      "place": "ドリームワールド（Dream World）、バンコク北部",
+      "link": "https://www.dreamworld.co.th",
       "free": false
     },
     {
-      "title": "ナショナルミュージアム（National Museum Bangkok）の夏休み子ども向けツアー",
-      "description": "タイの歴史・文化を学ぶガイド付きツアー。子ども用パンフレット配布、クイズラリー開催。古都の息吹を感じながら文化理解が深まります。",
-      "date": "8月上旬〜下旬（火-日 9:00-16:00）",
-      "place": "ナショナルミュージアム、Na Phra That Road, Phra Nakhon",
-      "link": "https://www.thaimuseum.com/",
+      "title": "アユタヤ水上マーケット体験ツアー",
+      "description": "バンコクから日帰りで訪れられる古都アユタヤの水上マーケット。ボートに乗って市場を巡り、タイ文化を学べます。小学生向けの冒険アクティビティです。",
+      "date": "8月上旬～下旬（早朝出発ツアー）",
+      "place": "アユタヤ県・アンプワー水上マーケット",
+      "link": "https://www.tourismthailand.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-06T01:13:36.860Z"
+  "updatedAt": "2026-08-10T00:43:52.051Z"
 }

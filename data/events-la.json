@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Summer Twilight Concerts",
-      "description": "ロサンゼルス図書館が主催する無料のサマーコンサートシリーズ。家族向けの音楽パフォーマンスが毎週開催。子ども向けのインタラクティブなプログラムも充実。",
-      "date": "8月中旬まで（週末開催）",
-      "place": "Los Angeles Central Library, 630 W 5th St, Los Angeles, CA 90071",
-      "link": "https://www.lapl.org/",
-      "free": true
+      "title": "ロサンゼルス・カウンティ・フェア（LA County Fair）",
+      "description": "8月中旬から9月上旬開催。乗り物、ゲーム、ライブエンターテイメント、キッズゾーンなど家族向けアトラクションが充実。地元の農産物や工芸品の展示も楽しめます。",
+      "date": "8月中旬〜9月上旬",
+      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://lacountyfair.com",
+      "free": false
     },
     {
-      "title": "Natural History Museum Summer Programs",
-      "description": "自然史博物館の夏季特別プログラム。恐竜展示、昆虫ラボ、屋外探索ツアーなど子ども向けのワークショップが毎日開催。年齢別プログラムあり。",
+      "title": "ハリウッド・ボウル（サマーコンサート）",
+      "description": "屋外の大型音楽会場で家族向けコンサートを開催。クラシック音楽やファミリー向けプログラムなど多彩。ピクニック持参で芝生エリアから鑑賞できます。",
       "date": "8月上旬〜下旬",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://nhm.org/",
+      "place": "2301 N Highland Ave, Los Angeles, CA 90068",
+      "link": "https://www.hollywoodbowl.com",
       "free": false
     },
     {
-      "title": "Echo Park Lake Summer Recreation",
-      "description": "エコーパークレイクでのボート乗車、水遊び、ビーチエリアでの無料アクティビティ。ファミリー向けの野外イベントも定期開催。涼しい朝間がおすすめ。",
-      "date": "8月全期間",
-      "place": "Echo Park Lake, 751 Echo Park Ave, Los Angeles, CA 90026",
-      "link": "https://www.laparks.org/dos/parks/facility/echo-park-lake",
+      "title": "サンタモニカ・ビーチ・パーク（Beach Park Programs）",
+      "description": "無料で楽しめるビーチ。子ども向けの水遊び、砂浜での遊び、遊具がある公園エリアあり。夏の定番屋外アクティビティです。",
+      "date": "8月通年",
+      "place": "Santa Monica Beach, 1642 Promenade, Santa Monica, CA 90401",
+      "link": "https://www.smgov.net/departments/parks",
       "free": true
     },
     {
-      "title": "Griffith Observatory Summer Nights",
-      "description": "グリフィス天文台の夏の特別観望会。子ども向けプラネタリウムショー、望遠鏡での惑星観察。屋外テラスは無料で楽しめ、夜景とともに星空教育が学べます。",
-      "date": "8月全期間（金土日開催）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
-      "free": true
-    },
-    {
-      "title": "Universal Studios Hollywood Summer Specials",
-      "description": "ユニバーサルスタジオハリウッドの夏季キャンペーン。キッズ向けアトラクション、シネマティック体験、スタント・エフェクトショー。家族パッケージの割引あり。",
-      "date": "8月全期間",
-      "place": "Universal Studios Hollywood, 100 Universal City Plaza, Universal City, CA 91608",
-      "link": "https://www.universalstudios.com/",
+      "title": "グリフィス天文台（Planetarium Shows）",
+      "description": "子ども向けプラネタリウムショーと常設展示。宇宙や科学を学べます。天文台から市街地夜景も楽しめます。一部無料エリアあり。",
+      "date": "8月通年",
+      "place": "2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": false
+    },
+    {
+      "title": "カリフォルニア・サイエンス・センター（Summer Programs）",
+      "description": "常設の無料科学館。8月は夏休みスペシャルプログラムを開催。インタラクティブな展示で子どもが科学を体験できます。",
+      "date": "8月通年",
+      "place": "700 Exposition Park Dr, Los Angeles, CA 90037",
+      "link": "https://californiasciencecenter.org",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-06T01:13:51.455Z"
+  "updatedAt": "2026-08-10T00:44:07.260Z"
 }

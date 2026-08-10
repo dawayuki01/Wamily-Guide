@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "National Day Celebrations（ナショナルデー・セレブレーション）",
-      "description": "8月9日のシンガポール建国記念日。パレード、花火、伝統舞踊など家族向けのイベント。複数の会場で無料で楽しめます。",
+      "title": "National Day Celebrations（ナショナルデー祝賀イベント）",
+      "description": "シンガポールの独立記念日（8月9日）を祝うイベント。パレード、花火、文化表演など家族向けの催しが各地で開催されます。",
       "date": "8月9日前後",
-      "place": "マリーナ・ベイ、パダン・フィールドほか複数会場",
-      "link": "https://www.ndp.sg",
+      "place": "Marina Bay, Padang（マリーナベイ、パダン）及び各地域",
+      "link": "https://www.ndp.org.sg",
       "free": true
     },
     {
-      "title": "Singapore Zoo Summer Camp Programs",
-      "description": "シンガポール動物園の夏休み特別プログラム。動物とのふれあい、ジャングルトレッキング、ワークショップなど子ども向けアクティビティ満載。",
-      "date": "8月上旬〜下旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road",
-      "link": "https://www.zoo.com.sg",
-      "free": false
+      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
+      "description": "美術館周辺が光のアート作品で彩られる期間限定イベント。子どもも楽しめるインタラクティブなインスタレーションや演技が鑑賞できます。",
+      "date": "8月中旬〜下旬（2026年の日程要確認）",
+      "place": "National Museum of Singapore, Art Museum一帯（ミュージアムロード周辺）",
+      "link": "https://www.nightfestival.sg",
+      "free": true
     },
     {
-      "title": "East Coast Park Beach Activities（イーストコースト・パークビーチ）",
-      "description": "シンガポール最大のビーチパーク。海水浴、砂遊び、サイクリング、ウォータースポーツなど無料で楽しめる屋外アクティビティが充実。",
-      "date": "8月通年利用可",
-      "place": "East Coast Park, 1210 East Coast Parkway",
+      "title": "East Coast Park Beach Activities（イーストコースト・パーク）",
+      "description": "シンガポール最大のビーチパーク。子ども用の遊水エリア、水上アクティビティ、サイクリングが楽しめます。8月の夏休みシーズンにぴったり。",
+      "date": "通年（8月が最適）",
+      "place": "East Coast Park Road, Singapore 449897",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Science Centre Singapore Summer Workshops",
-      "description": "科学センターの夏季特別ワークショップ。STEM教育プログラム、実験体験、プラネタリウムなど子どもの興味に合わせたプログラム多数。",
-      "date": "8月上旬〜下旬",
-      "place": "Science Centre Singapore, 15 Science Centre Road",
-      "link": "https://www.science.edu.sg",
+      "title": "Singapore Zoo Summer Programs（シンガポール動物園の特別プログラム）",
+      "description": "夏休み期間中の子ども向け教育プログラム。動物との触れ合い体験や飼育員トークなど、学びながら楽しめます。",
+      "date": "8月全月（プログラムは日程により異なる）",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.com.sg",
       "free": false
     },
     {
-      "title": "Gardens by the Bay Free Admission Events",
-      "description": "シンガポールの象徴的スポット。定期的に無料入園時間や家族向けワークショップを開催。光と音のショー「Supertree Light Show」も見どころ。",
-      "date": "8月通年（イベント随時開催）",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "Mid-Autumn Festival Celebrations（中秋節イベント）",
+      "description": "シンガポール中華街やチャイナタウンで開催。ランタン展示、ライトアップ、子ども向けの工作ブース、屋台など家族で楽しめる催しです。",
+      "date": "8月下旬〜9月（旧暦8月15日前後）",
+      "place": "Chinatown, Singapore（特にChina Town Heritage Centre周辺）",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-06T01:13:27.819Z"
+  "updatedAt": "2026-08-10T00:43:43.729Z"
 }
