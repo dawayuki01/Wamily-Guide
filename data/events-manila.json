@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "National Heroes Day",
-      "description": "8月第4月曜日のフィリピン建国記念日。政府施設や博物館が無料開放され、パレードやセレモニーが開催。歴史学習に最適な家族向けイベント。",
-      "date": "8月第4月曜日（8月25日予定）",
-      "place": "マニラ市内全域・Rizal Park周辺",
-      "link": "https://www.gov.ph/",
+      "title": "National Heroes Day（フィリピン独立記念日）関連イベント",
+      "description": "8月第2月曜日の国民の祝日。マニラ各地で愛国的なパレードや式典が開催。博物館の特別展示やコンサートもあり、フィリピン文化を学べます。",
+      "date": "8月11日（月）",
+      "place": "マニラ市内各地（リサール公園など）",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "Manila Zoo Summer Programs",
-      "description": "マニラ動物園の夏休み特別プログラム。動物との触れ合い体験、教育ワークショップ、餌やり体験など子ども向けアクティビティが豊富。",
-      "date": "8月全月",
-      "place": "Manila Zoo, Rizal Park, Manila",
-      "link": "https://manilazooph.org/",
+      "title": "フィリピン・チルドレンズ・ミュージアム特別展示・プログラム",
+      "description": "子ども向けの対話型展示やワークショップが多数。8月は夏休みシーズンの特別プログラムが予定されており、科学実験や創作活動が楽しめます。",
+      "date": "8月通年",
+      "place": "Manila Science Park, Gen. Santos Ave, Manila",
+      "link": "https://www.childrensmuseum.org.ph/",
       "free": false
     },
     {
-      "title": "Enchanted Kingdom Summer Splash",
-      "description": "テーマパークの夏限定アトラクション。水遊びエリア、キャラクターショー、子ども向けライドが拡充。乳幼児向けエリアも充実。",
-      "date": "8月全月",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから近郊）",
-      "link": "https://www.enchantedkingdom.ph/",
-      "free": false
-    },
-    {
-      "title": "Luneta Park Free Activities",
-      "description": "リサール公園内の芝生広場で家族向けピクニック、遊具利用、露店巡り。毎週末にイベントやパフォーマンス開催。入園無料で終日楽しめる。",
-      "date": "8月全月（土日祝日推奨）",
-      "place": "Rizal Park, Manila",
-      "link": "https://www.nhtf.gov.ph/",
+      "title": "Rizal Park（リサール公園）での屋外活動",
+      "description": "マニラ最大の公園。遊び場、美術館、動物園があり家族向け。8月は夏シーズンで比較的涼しい早朝がおすすめ。ジョギング、ピクニック、探索が楽しめます。",
+      "date": "8月通年",
+      "place": "Rizal Park, Padre Burgos Ave, Manila",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "Marikina River Park Outdoor Activities",
-      "description": "川沿いの大型公園でサイクリング、ジョギング、ピクニックが可能。遊び場やスポーツ施設も充実。屋外での家族アクティビティに最適。",
-      "date": "8月全月",
-      "place": "Marikina River Park, Marikina City（マニラ隣接）",
-      "link": "https://marikina.gov.ph/",
+      "title": "SM Mall of Asia Kids Zone・特別イベント",
+      "description": "ショッピングモール内のキッズゾーンで遊具やアクティビティが充実。8月の夏季には特別なキッズイベント、ワークショップが開催されることがあります。",
+      "date": "8月通年",
+      "place": "SM Mall of Asia, CCP Complex, Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
+      "free": false
+    },
+    {
+      "title": "Manila Bay Waterfront夏季レクリエーション",
+      "description": "マニラ湾沿いのウォーターフロント地区で家族向けアクティビティが展開。アイスクリーム屋台、遊び場、景観散策などが無料で楽しめます。",
+      "date": "8月通年",
+      "place": "Manila Bay Waterfront, Manila",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-10T00:43:59.246Z"
+  "updatedAt": "2026-08-13T00:52:03.417Z"
 }
