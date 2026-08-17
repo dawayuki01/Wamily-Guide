@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港サマーナイトカーニバル",
-      "description": "ビクトリア公園で開催される夏の大型イベント。ゲーム、屋台、ライブパフォーマンス、子ども向けアトラクションが充実。家族向けの楽しい雰囲気が特徴。",
+      "title": "香港サマーナイトカーニバル（Hong Kong Summer Night Carnival）",
+      "description": "ビクトリアパークで開催される夏祭り。子ども向けゲーム、乗り物、屋台が充実。花火やライブパフォーマンスも楽しめる家族向けイベントです。",
       "date": "8月上旬〜中旬",
-      "place": "ビクトリア公園（Victoria Park）、香港島銅鑼灣",
+      "place": "ビクトリアパーク（銅鑼灣 Causeway Bay）",
       "link": "https://www.discoverhongkong.com",
-      "free": true
-    },
-    {
-      "title": "香港科学館の夏休み特別展示・ワークショップ",
-      "description": "毎年夏に開催される子ども向けの対話型展示やSTEMワークショップ。乳幼児から小学生まで年齢別プログラムが豊富で、科学学習を楽しく体験できます。",
-      "date": "8月通期",
-      "place": "香港科学館（Hong Kong Science Museum）、九龍尖沙咀",
-      "link": "https://www.lcsd.gov.hk/sc_chi/museums/science/index.html",
       "free": false
     },
     {
-      "title": "スターフェリーでの海上アクティビティ＆ビクトリアハーバー観光",
-      "description": "香港の象徴的な赤いスターフェリーで海を渡りながら景色を楽しむ。ビクトリアハーバーの絶景とそよ風を感じながら、子どもも大人も楽しめるアクティビティ。",
-      "date": "8月通期",
-      "place": "スターフェリー乗り場、香港島・九龍間のルート",
+      "title": "スターフェリー乗船体験（Star Ferry Ride）",
+      "description": "100年以上の歴史を持つスターフェリーで香港湾を横断。海風を感じながらスカイラインを眺められる定番アクティビティ。乳幼児も乗船可能です。",
+      "date": "通年（8月は朝夕の涼しい時間推奨）",
+      "place": "スターフェリーターミナル（セントラル〜尖沙咀）",
       "link": "https://www.starferry.com.hk",
       "free": false
     },
     {
-      "title": "香港公園での無料の自然観察・水遊び",
-      "description": "広大な香港公園は緑豊かで、子ども向けの遊び場や池での生き物観察が可能。屋外で自然を感じながら無料で過ごせるファミリースポット。",
-      "date": "8月通期",
-      "place": "香港公園（Hong Kong Park）、香港島中環",
-      "link": "https://www.lcsd.gov.hk/en/parks/hkp/index.php",
+      "title": "香港科学館の夏休み特別展示・ワークショップ",
+      "description": "子ども向けの科学実験ショーやインタラクティブ展示。8月は夏休み向けの特別プログラムが充実。乳幼児から小学生まで年齢別に楽しめます。",
+      "date": "8月全期間",
+      "place": "香港科学館（尖沙咀 Tsim Sha Tsui）",
+      "link": "https://www.lcsd.gov.hk/sc_chi/hm/hkscm/",
+      "free": false
+    },
+    {
+      "title": "ビクトリアピーク トラムウォーク（無料開放区域）",
+      "description": "ビクトリアピークの展望台周辺で無料で楽しめるハイキングコース。パノラマビューの香港湾を見下ろしながら家族で散歩。朝早いと比較的涼しいです。",
+      "date": "8月全期間（早朝推奨）",
+      "place": "ビクトリアピーク（セントラル Peak Tram乗車地点）",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "ディズニーランド・香港のサマースペシャルプログラム",
-      "description": "夏季限定の水遊びゾーンやキャラクター特別ショーなど、子ども向けコンテンツが充実。乳幼児から小学生まで楽しめるテーマパークの夏のハイライト。",
-      "date": "8月通期",
-      "place": "香港ディズニーランド、ランタオ島",
-      "link": "https://www.hongkongdisneyland.com",
-      "free": false
+      "title": "アビリーン・サンセット・マーケット（アウトレット・モール夏セール）",
+      "description": "香港内の大型ショッピングモール（IFC Mallなど）で8月限定セール開催。キッズ服飾や玩具の割引、子ども向けアクティビティコーナーが無料で利用できます。",
+      "date": "8月全期間",
+      "place": "IFC Mall（セントラル）ほか主要モール",
+      "link": "https://www.ifcmall.com.hk",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-13T00:52:35.349Z"
+  "updatedAt": "2026-08-17T00:29:34.138Z"
 }

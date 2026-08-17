@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plages）",
-      "description": "セーヌ川沿いに砂浜やビーチが出現。子ども向けプール、水遊び広場、ミニゴルフなど。夏の無料の屋外レジャースポット。",
-      "date": "8月上旬〜下旬",
-      "place": "セーヌ川沿い（ポン・ヌフ～トゥール・エッフェル周辺）",
-      "link": "https://www.paris.fr/pages/paris-plages-3896",
+      "title": "パリ・プラージュ（Paris Plage）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもの遊び場、プール、ビーチバレーなど無料で楽しめる。8月は最も混雑する季節ですが、夏らしい雰囲気が味わえます。",
+      "date": "8月上旬〜下旬（7月中旬〜8月下旬）",
+      "place": "セーヌ川両岸、ルーヴル美術館周辺ほか",
+      "link": "https://www.paris.fr/pages/paris-plage-2",
       "free": true
     },
     {
-      "title": "ルーヴル美術館の子ども向けワークショップ",
-      "description": "夏休みシーズンの特別プログラム。4〜12歳向けの創造的なアート体験やガイドツアー。美術館での学習活動。",
+      "title": "フランス国立自然史博物館のサマーキャンプ・親子プログラム",
+      "description": "昆虫採集、化石発掘体験など子ども向けの特別ワークショップが開催。年齢別プログラムで乳幼児から小学生まで対応。事前予約推奨。",
       "date": "8月上旬〜下旬",
-      "place": "ルーヴル美術館、パリ1区",
-      "link": "https://www.louvre.fr/en/events-activities",
+      "place": "Muséum national d'Histoire naturelle, 57 Rue Cuvier, 75005 Paris",
+      "link": "https://www.mnhn.fr/",
       "free": false
     },
     {
-      "title": "動物園（Ménagerie du Jardin des Plantes）の夏季特別展示",
-      "description": "パリの歴史ある動物園。夏シーズンの夜間延長営業やナイトツアー、子ども向け教育プログラムなど。",
-      "date": "8月全体",
-      "place": "Ménagerie du Jardin des Plantes, 57 rue Cuvier, パリ5区",
-      "link": "https://www.mnhn.fr/fr/visitez/lieux/menagerie-jardin-plantes",
+      "title": "オペラ座（パレ・ガルニエ）の子ども向けガイドツアー",
+      "description": "バレエ練習室やステージ裏を見学。子どもも興奮する豪華な内装と舞台裏の秘密を学べます。8月は観光客が少ない時期でゆったり楽しめます。",
+      "date": "8月上旬〜下旬（通年開催）",
+      "place": "Opéra Garnier, Place de l'Opéra, 75009 Paris",
+      "link": "https://www.operadeparis.fr/en/visit",
       "free": false
     },
     {
-      "title": "シネマテーク・フランセーズのファミリー上映会",
-      "description": "クラシック映画やアニメ映画の子ども向け上映。夏休み特別プログラムで字幕版や吹替版を上映。涼しい館内での家族向けアクティビティ。",
-      "date": "8月全体",
-      "place": "Cinémathèque Française, 51 rue de Bercy, パリ12区",
-      "link": "https://www.cinematheque.fr/",
+      "title": "ブローニュの森（Bois de Boulogne）での自転車・ボート体験",
+      "description": "広大な公園で家族向けレンタル自転車、子ども用ボート体験可能。夏季は野外映画上映も。自然の中でのんびり遊べます。",
+      "date": "8月上旬〜下旬（通年）",
+      "place": "Bois de Boulogne, 75016 Paris",
+      "link": "https://www.paris.fr/pages/le-bois-de-boulogne-10",
       "free": false
     },
     {
-      "title": "モンマルトルの屋外アート＆マーケット散策",
-      "description": "テルトル広場で地元アーティストが作品展示販売。無料で鑑賞、散策可能。子どもの似顔絵サービスも楽しめる屋外体験。",
-      "date": "8月全体（毎日開催）",
-      "place": "Place du Tertre, モンマルトル, パリ18区",
-      "link": "https://www.paris.fr/pages/montmartre-8012",
+      "title": "モンマルトルの階段・アルザス広場での屋外マーケット＆街角パフォーマンス",
+      "description": "古い街並みを散策しながら、露天商や路上パフォーマーを観賞。アイスクリーム店も多く、のんびり歩くだけで子どもも楽しい。ほぼ無料。",
+      "date": "8月上旬〜下旬（通年）",
+      "place": "Montmartre, Place du Tertre, 75018 Paris",
+      "link": "https://www.paris.fr/pages/montmartre-7",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-13T00:51:33.677Z"
+  "updatedAt": "2026-08-17T00:28:29.673Z"
 }
