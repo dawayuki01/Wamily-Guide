@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "National Day Parade（国家建設記念日パレード）",
-      "description": "シンガポール独立記念日の8月9日を祝う大規模パレード。花火、伝統音楽、カラフルなパフォーマンスで、子どもたちが夜空を彩る花火を楽しめます。",
+      "title": "National Day Celebration（建国記念日）",
+      "description": "8月9日のシンガポール建国記念日。Padang広場でのパレード、花火、コンサート。子ども向けの特別プログラムもあり、シンガポール文化を体験できます。",
       "date": "8月9日前後",
-      "place": "Padang、シティ・センター周辺（Singapore）",
-      "link": "https://www.ndp.gov.sg",
+      "place": "The Padang / Marina Bay",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
-      "description": "美術館周辺がアート＆ライト・インスタレーションで彩られる。子ども向けのワークショップ、ストリートパフォーマンス、屋台が楽しめます。",
-      "date": "8月下旬の数日間",
-      "place": "National Museum of Singapore周辺、Bras Basah.Bugis（Singapore）",
-      "link": "https://www.nightfestival.sg",
+      "title": "Singapore Night Festival",
+      "description": "8月に開催される光と音の祭り。博物館地区が幻想的にライトアップされ、プロジェクションマッピングや音楽ステージで家族向けの演出が充実。無料エリアも多数。",
+      "date": "8月中旬（年により異なる）",
+      "place": "Museum Planning Area / National Museum of Singapore周辺",
+      "link": "https://www.singaporenightfestival.sg",
       "free": true
     },
     {
-      "title": "East Coast Park Beach活動・水遊び",
-      "description": "シンガポール最大のビーチパーク。8月は夏休み期間で、子ども向けの水上アクティビティ、サンドアート教室が開催。安全な遊泳エリアで家族水浴が楽しめます。",
+      "title": "Gardens by the Bay - Special Summer Programs",
+      "description": "シンガポール最大級の植物園で、8月の夏休み向けワークショップやガイドツアーを開催。Supertree Lightshowは夜間も楽しめ、子どもたちが自然に親しめます。",
       "date": "8月通期",
-      "place": "East Coast Park、East Coast Parkway（Singapore 1555）",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
-      "free": true
+      "place": "Gardens by the Bay, Marina South",
+      "link": "https://www.gardensbythebay.com.sg",
+      "free": false
     },
     {
-      "title": "Singapore Zoo Summer Camp & 特別プログラム",
-      "description": "夏休み期間の子ども向け特別ツアーや飼育体験。動物との触れ合い、教育的なワークショップで、乳幼児から小学生まで楽しめます。",
-      "date": "8月通期（要事前予約）",
-      "place": "Singapore Zoo、80 Mandai Lake Road（Singapore 729826）",
+      "title": "Singapore Zoo & River Safari - School Holiday Programs",
+      "description": "冬休みプログラム（南半球の8月夏休み対応）で、餌やりやガイドツアーなどの特別体験。700種以上の動物を見学でき、屋外で動物との距離が近い体験ができます。",
+      "date": "8月通期",
+      "place": "Singapore Zoo, 80 Mandai Lake Road",
       "link": "https://www.zoo.com.sg",
       "free": false
     },
     {
-      "title": "Gardens by the Bay 季節展示・Kids Programs",
-      "description": "世界的に有名なボタニカルガーデン。子ども向けワークショップ、スプラッシュパッドなどの水遊び施設で、涼しい環境で楽しめます。",
+      "title": "East Coast Park - Family Beach Activities",
+      "description": "シンガポール最長のビーチパーク。サイクリング、水上スポーツ、砂浜での遊びなど屋外アクティビティが充実。食堂やレンタル施設が充実し、家族連れに最適なスポット。",
       "date": "8月通期",
-      "place": "Gardens by the Bay、18 Marina Gardens Drive（Singapore 018953）",
-      "link": "https://www.gardensbythebay.com.sg",
-      "free": false
+      "place": "East Coast Park, East Coast Parkway",
+      "link": "https://www.nparks.gov.sg",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-17T00:28:45.097Z"
+  "updatedAt": "2026-08-20T00:27:57.643Z"
 }

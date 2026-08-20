@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Statewide Perseid Meteor Shower",
-      "description": "8月中旬に見られるペルセウス流星群。子どもと一緒に夜空の星を観察できます。ビーチや暗い場所から無料で楽しめる天体イベント。",
-      "date": "8月中旬",
-      "place": "ハワイ州全域（ビーチやマウナケア周辺推奨）",
-      "link": "",
+      "title": "Stew Show（スチューショー）",
+      "description": "ハワイアンミュージックとダンスの家族向けエンターテイメント。子どもも楽しめるカジュアルな雰囲気で、ハワイ文化を体験できます。",
+      "date": "8月通年開催",
+      "place": "ワイキキ、複数会場",
+      "link": "https://www.stewshow.com",
+      "free": false
+    },
+    {
+      "title": "ワイキキビーチの無料ビーチアクティビティ",
+      "description": "8月のハワイは波が穏やかでビーチシーズン。シュノーケリング、サンドビルディング、ビーチバレーなど家族で楽しめます。",
+      "date": "8月通年（波の状況による）",
+      "place": "ワイキキビーチ（ホノルル）",
+      "link": "https://www.honolulu.gov/parks",
       "free": true
     },
     {
-      "title": "Hawaii State Fair",
-      "description": "毎年8月下旬に開催される州立フェア。家畜の展示、乗り物、フードブース、キッズゲームなど家族向けの多彩なアトラクションを楽しめます。",
-      "date": "8月下旬",
-      "place": "Ala Moana Center パーキング周辺（オアフ島ホノルル）",
-      "link": "https://www.hawaiistatefair.org/",
+      "title": "ハワイ大学マノア植物園 Kids in Garden Program",
+      "description": "子ども向けの自然学習プログラム。トロピカル植物を学びながら、家族で園内を探索できます。",
+      "date": "8月の指定日程",
+      "place": "ハワイ大学マノア植物園（ホノルル）",
+      "link": "https://www.hawaii.edu/manoa",
       "free": false
     },
     {
-      "title": "Honolulu Zoo Summer Movie Night",
-      "description": "ホノルル動物園で開催される屋外映画上映。家族向けの作品を上映し、動物園の雰囲気を楽しみながら映画鑑賞できます。",
-      "date": "8月（不定期開催）",
-      "place": "Honolulu Zoo, Waikiki, Oahu",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "ホノルル動物園 Summer Camp Events",
+      "description": "夏休み期間中の動物園特別プログラム。ワークショップやトークイベントで動物について学べます。",
+      "date": "8月通年開催",
+      "place": "ホノルル動物園（ワイキキ）",
+      "link": "https://www.honoluluzoo.org",
+      "free": false
+    },
+    {
+      "title": "KCC farmers market（カカアコ・ファーマーズマーケット）",
+      "description": "毎週土曜開催のローカルマーケット。新鮮なトロピカルフルーツ、地元グルメ、工芸品が揃う無料で楽しめるスポット。",
+      "date": "8月毎週土曜朝8時〜12時",
+      "place": "KCC（カピオラニコミュニティカレッジ）、ホノルル",
+      "link": "https://www.honolulufarmersmarket.com",
       "free": true
-    },
-    {
-      "title": "Waikiki Aquarium Summer Camp Programs",
-      "description": "ワイキキ水族館の子ども向け夏期プログラム。海の生き物について学べるワークショップや体験型アクティビティで、海洋生物の知識を深めます。",
-      "date": "8月通年",
-      "place": "Waikiki Aquarium, 2777 Kalakaua Avenue, Honolulu",
-      "link": "https://www.waikikiaquarium.org/",
-      "free": false
-    },
-    {
-      "title": "Snorkeling at Hanauma Bay",
-      "description": "ハワイを代表するシュノーケリングスポット。遠浅で家族向けのビーチ。カラフルな熱帯魚を間近で観察でき、子どもにとって忘れられない海洋体験になります。",
-      "date": "8月全期間",
-      "place": "Hanauma Bay Nature Preserve, Oahu",
-      "link": "https://www.honolulu.gov/parks-recreation/beaches/hanauma-bay.html",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-17T00:29:17.223Z"
+  "updatedAt": "2026-08-20T00:28:27.186Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム夏祭り（Stockholm Summer Festival）",
-      "description": "8月のストックホルムを彩る音楽・文化・食の祭典。複数の会場で無料コンサート、パレード、キッズワークショップが開催される家族向けイベント。",
-      "date": "8月上旬〜中旬",
-      "place": "ストックホルム市内各所（Kungsträdgården他）",
-      "link": "https://www.stockholm.se/en/events/stockholm-summer-festival/",
+      "title": "Skansen夏期イベント・動物園でのプログラム",
+      "description": "北欧最大の野外博物館兼動物園。夏休み期間中、子ども向けの動物体験プログラムやスウェーデン伝統体験が充実。広大な敷地で動物とふれあい、文化を学べます。",
+      "date": "8月全期間",
+      "place": "Skansen, Djurgårdsslätten 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
+      "free": false
+    },
+    {
+      "title": "ストックホルム群島でのカヌー・ボートツアー",
+      "description": "ストックホルムの象徴である美しい群島を家族でカヌーやボートで探検。子ども向けの短時間ツアーも多数。夏の湖での水遊びと自然体験が最高です。",
+      "date": "8月全期間",
+      "place": "Stockholm Archipelago（ストックホルム中央駅周辺から出発）",
+      "link": "https://www.visitstockholm.com",
+      "free": false
+    },
+    {
+      "title": "Vasa Museum（ヴァーサ号博物館）での子ども向けガイドツアー",
+      "description": "17世紀の帆船ヴァーサ号の保存展示館。夏期は子ども向けの物語的なガイドツアーや対話型プログラムを実施。北欧の歴史を分かりやすく学べます。",
+      "date": "8月全期間",
+      "place": "Vasa Museum, Galärvarvsvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se",
+      "free": false
+    },
+    {
+      "title": "王立公園（Kungsträdgården）での無料夏イベント",
+      "description": "ストックホルム中心地の大型公園。夏は音楽ライブ、マーケット、キッズプレイエリアが無料開放。家族で気軽に立ち寄れる憩いの場。",
+      "date": "8月全期間",
+      "place": "Kungsträdgården, Norrmalm, 111 47 Stockholm",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館での夏のアクティビティ",
-      "description": "動物園とスウェーデン伝統文化博物館が融合。8月は夏祭りイベント、動物との触れ合い、伝統工芸体験など子どもが楽しめるプログラムが充実。",
-      "date": "8月通期",
-      "place": "Djurgårdsslätten 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/en",
-      "free": false
-    },
-    {
-      "title": "ノーベル博物館の子ども向け特別展示",
-      "description": "夏休みシーズンに科学体験コーナーやインタラクティブ展示を充実させた子ども向けプログラム。科学への興味を引き出す工夫が満載。",
-      "date": "8月通期",
-      "place": "Stortorget 2, 111 29 Stockholm（ガムラスタン地区）",
-      "link": "https://www.nobelmuseum.se/en/",
-      "free": false
-    },
-    {
-      "title": "ダルスランド運河でのカヌー・ボート体験",
-      "description": "ストックホルムの北約2時間。夏の風景を楽しむカヌーツアーやボートレンタル。スウェーデン自然体験の定番。幼児向けオプションも利用可能。",
-      "date": "8月通期",
-      "place": "Dalsland Canal area（ストックホルム北部）",
-      "link": "https://www.dalslandkanal.se/en/",
-      "free": false
-    },
-    {
-      "title": "ニューモンダ美術館の家族向けワークショップ",
-      "description": "北欧モダンデザイン美術館。夏休み期間中、年齢別のアート工作教室やファミリー向け企画展示。創造性を育む体験が可能。",
-      "date": "8月上旬〜中旬",
-      "place": "Exercisvägen 13, 115 27 Stockholm",
-      "link": "https://www.designmuseum.se/en",
+      "title": "ストックホルム子ども博物館（Junibacken）での特別展示",
+      "description": "スウェーデン児童文学「長くつ下のピッピ」などを題材にした体験型施設。夏期限定の屋外遊び場やキャラクター体験が充実。乳幼児から小学生まで楽しめます。",
+      "date": "8月全期間",
+      "place": "Junibacken, Galärvarvsvägen 12, 115 21 Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-17T00:28:37.332Z"
+  "updatedAt": "2026-08-20T00:27:50.161Z"
 }

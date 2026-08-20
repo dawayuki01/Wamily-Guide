@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン独立記念日（National Heroes Day）関連イベント",
-      "description": "8月第2月曜日の国民の祝日。マニラ市内で愛国パレード、文化表演、家族向けコンサートが開催。子どもも参加できるフィリピン文化体験。",
-      "date": "8月中旬",
-      "place": "リサール公園（Rizal Park）、マニラ市内各地",
-      "link": "https://www.tourism.gov.ph/",
+      "title": "National Heroes Day",
+      "description": "8月第4月曜日に開催される国民的祝日。各地で式典やカルチャーイベント、パレードが行われ、フィリピンの歴史や文化を学べるイベント。無料で参加できます。",
+      "date": "8月第4月曜日",
+      "place": "マニラ各地、 リサール公園（Rizal Park）など",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "フィリピン国立博物館 キッズプログラム",
-      "description": "夏休み向けの子ども向け特別展示・ワークショップ。恐竜展示やインタラクティブ展示で学びながら遊べます。家族連れに人気。",
-      "date": "8月通期",
-      "place": "フィリピン国立博物館（National Museum of the Philippines、パドレファウラ、マニラ）",
-      "link": "https://nationalmuseum.gov.ph/",
+      "title": "Manila Ocean Park（マニラオーシャンパーク）- 夏季スペシャルプログラム",
+      "description": "水族館とプールを備く施設。8月は家族向けの特別プログラムやワークショップが豊富。海の生物について学べるインタラクティブな体験が人気です。",
+      "date": "8月通年",
+      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceanpark.com",
       "free": false
     },
     {
-      "title": "SM モールズ サマーキャンプ・キッズイベント",
-      "description": "大型ショッピングモール内での子ども向け夏イベント。ワークショップ、ゲーム、キャラクター体験など。エアコン完備で快適。",
-      "date": "8月通期",
-      "place": "SM City Manila、SM Megamall 他（マニラ・メトロマニラ各地）",
-      "link": "https://www.smmalls.com/",
+      "title": "Luneta Park（ルネタ公園）での無料家族イベント",
+      "description": "マニラ最大の公園で、8月は無料の屋外コンサート、アート展示、子ども向けアクティビティが随時開催。広い芝生でピクニックも楽しめます。",
+      "date": "8月通年（週末中心）",
+      "place": "Rizal Park, East Avenue, Manila",
+      "link": "https://www.tourism.gov.ph",
       "free": true
     },
     {
-      "title": "マニラ湾サンセット ウォーターアクティビティ",
-      "description": "アロハ・ボートツアーや家族向けクルーズで湾を体験。フィリピン独特の夕焼けが壮観。イルカ観察の可能性も。屋外アクティビティ。",
-      "date": "8月通期（毎日運航）",
-      "place": "CCP コンプレックス、Manila Baywalk（マニラ）",
-      "link": "https://www.tourism.gov.ph/destinations/regions/ncr/manila",
+      "title": "Manila Toy Museum - Summer Kids Workshop",
+      "description": "おもちゃ博物館が開催する子ども向けワークショップ。ものづくり体験やアート教室など、知育的なプログラムが8月に集中開催されます。",
+      "date": "8月通年（週末中心）",
+      "place": "Manila Toy Museum, Imus, Cavite（マニラ近郊）",
+      "link": "",
       "free": false
     },
     {
-      "title": "ピナンタボ火山灰アート展・自然科学展",
-      "description": "フィリピンの自然現象をテーマにした期間限定展示。子ども向け科学教室やクイズラリーも実施。教育的かつ楽しい体験。",
-      "date": "8月",
-      "place": "ユニバーシティ・オブ・サント・トーマス博物館（UST Museum of Arts and Sciences、マニラ）",
-      "link": "https://www.ust.edu.ph/",
+      "title": "Enchanted Kingdom（エンチャンテッド キングダム）- Summer Festival",
+      "description": "フィリピンを代表するテーマパーク。8月は夏休みシーズンの特別イベント、キャラクターショー、限定アトラクションが充実。屋外で1日楽しめます。",
+      "date": "8月通年",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから車で約1時間）",
+      "link": "https://www.enchantedkingdom.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-17T00:29:02.701Z"
+  "updatedAt": "2026-08-20T00:28:12.719Z"
 }

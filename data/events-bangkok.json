@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ルンピニ公園でのアウトドアアクティビティと無料イベント",
-      "description": "バンコク最大級の公園。8月は雨季ですが、早朝のジョギングコース散策、池でのボート体験、広場でのフリーマーケットなど家族向け無料アクティビティが充実しています。",
-      "date": "8月通年",
-      "place": "ルンピニ公園（Lumphini Park）、Rama IV Road, Pathum Wan District",
-      "link": "https://www.bangkok.go.th/",
+      "title": "ラーマ8世橋周辺の夜間ライトアップと川沿いマーケット",
+      "description": "バンコク中心部を流れるチャオプラヤ川沿いで、涼しくなった夕方から夜間にかけて開催される川辺マーケット。屋台グルメと家族向けアトラクションが楽しめます。",
+      "date": "8月中旬〜下旬の週末",
+      "place": "Rama VIII Bridge vicinity, Bangkok",
+      "link": "",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館の特別展示",
-      "description": "大型ショッピングモール内の水族館。8月は子ども向けワークショップやエデュケーショナルプログラムが開催され、海洋生物について学びながら楽しめます。",
-      "date": "8月通年（プログラム内容は変動）",
-      "place": "サイアム・パラゴン（Siam Paragon）、999 Rama I Road, Pathum Wan",
-      "link": "https://www.siamparagon.co.th/",
+      "title": "サイアム・パラゴン水族館の夏休み特別企画",
+      "description": "東南アジア最大級の水族館で、8月の夏休み期間に子ども向けの海生生物教室やタッチプール体験などの特別プログラムを開催しています。",
+      "date": "8月上旬〜下旬",
+      "place": "Siam Paragon, 991 Rama I Road, Pathum Wan, Bangkok",
+      "link": "https://www.siamparagon.com/en",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "毎週末開催の世界最大級のマーケット。雑貨、衣類、食べ物、動物コーナーなど、子どもも楽しめるスポットが豊富。8月は雨季ですが屋根付き売店が多いため訪問可能。",
-      "date": "8月の土日祝日",
-      "place": "チャトゥチャック・ウィークエンド・マーケット（Chatuchak Market）、Kamphaeng Phet 2 Road, Chatuchak",
-      "link": "https://www.chatuchakmarket.org/",
+      "title": "ルンピニ公園でのモーニングヨガと野外遊び",
+      "description": "バンコク最大級の公園で、早朝から無料で楽しめるモーニングヨガや、広大な芝生での自由な遊び。午前中は比較的過ごしやすい気温で家族向けです。",
+      "date": "8月毎日",
+      "place": "Lumphini Park, Rama IV Road, Pathum Wan, Bangkok",
+      "link": "https://www.bangkok.go.th",
       "free": true
     },
     {
-      "title": "サファリワールドでの動物ツアー体験",
-      "description": "バンコク郊外の大型動物園。ドライブスルーサファリと徒歩エリアで多様な動物が観察できます。8月は朝方の涼しい時間帯がおすすめ。家族向けの充実した施設。",
-      "date": "8月通年",
-      "place": "サファリワールド（Safari World）、99 Ramindra Road, Sai Mai District",
-      "link": "https://www.safariworld.com/",
+      "title": "キッザニア・バンコクの夏休み特別営業",
+      "description": "子ども向けの職業体験テーマパーク。8月の夏休み期間に特別営業時間拡大や限定ワークショップを開催。小学生向けのアクティビティが豊富です。",
+      "date": "8月上旬〜下旬",
+      "place": "The Mall Bangkapi, 1st-2nd Floor, 69 Rama IX Road, Bangkok",
+      "link": "https://www.kidzania.com/en/kidzania-bangkok",
       "free": false
     },
     {
-      "title": "オートーコーサマー夜市での無料散策",
-      "description": "バンコク郊外の大型ナイトマーケット。屋台グルメ、雑貨、ゲームコーナーが充実。8月の夕方以降の涼しい時間帯に訪問すれば、子ども連れでも快適に楽しめます。",
-      "date": "8月の金土日",
-      "place": "オートーコーサマー（Talad Rot Fai）、Sena Ruam Jai Road, Din Daeng District",
-      "link": "https://www.talodrotfai.com/",
-      "free": true
+      "title": "バンコク国立博物館の子ども向けツアープログラム",
+      "description": "タイの歴史と文化を学べる博物館。8月に子ども向けの特別ガイドツアーや体験プログラムを開催。乳幼児〜小学生向けの展示解説があります。",
+      "date": "8月毎週木曜〜日曜",
+      "place": "National Museum Bangkok, Na Phra That Road, Bangkok",
+      "link": "https://www.virtualmuseum.go.th/th",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-17T00:28:54.326Z"
+  "updatedAt": "2026-08-20T00:28:05.513Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス郡立美術館（LACMA）のサマープログラム",
-      "description": "子ども向けのワークショップやファミリーイベントが開催。アート制作体験など、創造性を高める季節特別プログラムが充実しています。",
+      "title": "ロサンゼルス郡立自然史博物館 サマープログラム",
+      "description": "化石発掘体験やナチュラリストプログラムなど、子どもが楽しく学べる夏季特別プログラム。恐竜展示も人気で、乳幼児から小学生まで楽しめます。",
       "date": "8月上旬〜下旬",
-      "place": "ロサンゼルス郡立美術館（LACMA）、5905 Wilshire Boulevard, Los Angeles, CA 90036",
-      "link": "https://www.lacma.org/",
+      "place": "Los Angeles County Museum of Natural History, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
       "free": false
     },
     {
-      "title": "ビーチでのサンセット・サーフレッスン",
-      "description": "サンタモニカやハンティントンビーチで、子ども向けサーフレッスンが開催。安全管理された環境で海でのアクティビティを体験できます。",
+      "title": "グリフィス天文台 サマーナイトプログラム",
+      "description": "夜間営業で望遠鏡を通じた星空観察ができます。8月は流星群も見られ、親子で宇宙を学ぶ絶好の機会。屋外アクティビティ。",
       "date": "8月上旬〜下旬",
-      "place": "サンタモニカビーチ、Santa Monica, CA 90401",
-      "link": "https://www.santamonicaca.gov/",
-      "free": false
-    },
-    {
-      "title": "グリフィス天文台での天体観測イベント",
-      "description": "夏の夜間イベントで家族向けの天体観測会を実施。子どもたちが星空を学べる特別な体験ができます。展示室は無料入場。",
-      "date": "8月上旬〜下旬",
-      "place": "グリフィス天文台、2800 E Observatory Road, Los Angeles, CA 90027",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "カリフォルニア科学センターのサマーキャンプ",
-      "description": "STEM学習を中心とした子ども向けサマープログラム。ハンズオン体験で科学への興味を深められます。常設展示は無料。",
+      "title": "サンタモニカ・ピア サマーフェスティバル",
+      "description": "ライブ音楽、子ども向けステージパフォーマンス、露店が集まるビーチサイドのお祭り。無料で楽しめ、家族連れで賑わいます。",
+      "date": "8月中旬〜下旬",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.org/",
+      "free": true
+    },
+    {
+      "title": "カリフォルニア科学センター サマープログラム",
+      "description": "IMAX映画、宇宙船エンデバー見学、インタラクティブ展示。入館料無料で、8月の特別ワークショップで科学学習を楽しめます。",
       "date": "8月上旬〜下旬",
-      "place": "カリフォルニア科学センター、700 Exposition Park Drive, Los Angeles, CA 90037",
+      "place": "California Science Center, 700 Exposition Park Dr, Los Angeles, CA 90037",
       "link": "https://www.californiasciencecenter.org/",
       "free": true
     },
     {
-      "title": "ロサンゼルス・ファーマーズマーケット（サマーバージョン）",
-      "description": "地元の新鮮な農産物や子ども向けベンダーが出店。家族で地産地消を学びながら楽しめる週末マーケット。",
-      "date": "8月毎週末",
-      "place": "ロサンゼルス・ファーマーズマーケット、6333 W 3rd Street, Los Angeles, CA 90036",
-      "link": "https://www.farmersmarketla.com/",
-      "free": true
+      "title": "ビーチ・サンセット・アイスクリームイベント",
+      "description": "マリブやハンティントンビーチで開催される夏季限定のアイスクリーム祭。地元アイスクリームショップが出店し、子どもたちに大人気。",
+      "date": "8月上旬〜中旬",
+      "place": "Huntington Beach Main Street, Huntington Beach, CA 92648",
+      "link": "",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-17T00:29:10.035Z"
+  "updatedAt": "2026-08-20T00:28:20.363Z"
 }
