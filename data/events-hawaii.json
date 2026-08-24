@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Stew Show（スチューショー）",
-      "description": "ハワイアンミュージックとダンスの家族向けエンターテイメント。子どもも楽しめるカジュアルな雰囲気で、ハワイ文化を体験できます。",
-      "date": "8月通年開催",
-      "place": "ワイキキ、複数会場",
-      "link": "https://www.stewshow.com",
-      "free": false
-    },
-    {
-      "title": "ワイキキビーチの無料ビーチアクティビティ",
-      "description": "8月のハワイは波が穏やかでビーチシーズン。シュノーケリング、サンドビルディング、ビーチバレーなど家族で楽しめます。",
-      "date": "8月通年（波の状況による）",
-      "place": "ワイキキビーチ（ホノルル）",
-      "link": "https://www.honolulu.gov/parks",
+      "title": "ホノルル・フェスティバル・オブ・ザ・アーツ",
+      "description": "ハワイ文化と国際文化が融合するイベント。キッズワークショップ、パフォーマンス、文化展示が楽しめます。家族向けプログラムも充実しています。",
+      "date": "8月上旬（毎年開催予定）",
+      "place": "ホノルル、ハワイ・コンベンション・センター周辺",
+      "link": "https://www.honolulufestival.com",
       "free": true
     },
     {
-      "title": "ハワイ大学マノア植物園 Kids in Garden Program",
-      "description": "子ども向けの自然学習プログラム。トロピカル植物を学びながら、家族で園内を探索できます。",
-      "date": "8月の指定日程",
-      "place": "ハワイ大学マノア植物園（ホノルル）",
-      "link": "https://www.hawaii.edu/manoa",
+      "title": "スノーケリング＆ビーチ遊び（ハナウマ湾など）",
+      "description": "オアフ島の代表的なスノーケルスポット。熱帯魚が間近で見られ、浅瀬で小さな子どもも安全に海遊びが楽しめます。入園料は必要。",
+      "date": "8月通年（夏季は水温が高く快適）",
+      "place": "ハナウマ湾、ホノルル",
+      "link": "https://www.honolulu.gov/parks-recreation/beaches-pools/hanauma-bay.html",
       "free": false
     },
     {
-      "title": "ホノルル動物園 Summer Camp Events",
-      "description": "夏休み期間中の動物園特別プログラム。ワークショップやトークイベントで動物について学べます。",
-      "date": "8月通年開催",
-      "place": "ホノルル動物園（ワイキキ）",
-      "link": "https://www.honoluluzoo.org",
+      "title": "ワイキキ・アクアリウム夏季キッズプログラム",
+      "description": "海洋生物について学べる子ども向け教育プログラム。海の生き物とのふれあいイベントや特別ツアーが開催されます。",
+      "date": "8月通年",
+      "place": "ワイキキ・アクアリウム、ワイキキ",
+      "link": "https://www.waikikiaquarium.org",
       "free": false
     },
     {
-      "title": "KCC farmers market（カカアコ・ファーマーズマーケット）",
-      "description": "毎週土曜開催のローカルマーケット。新鮮なトロピカルフルーツ、地元グルメ、工芸品が揃う無料で楽しめるスポット。",
-      "date": "8月毎週土曜朝8時〜12時",
-      "place": "KCC（カピオラニコミュニティカレッジ）、ホノルル",
-      "link": "https://www.honolulufarmersmarket.com",
+      "title": "ハワイ・ナチュラル・エナジー・インスティテュート(無料ツアー)",
+      "description": "オアフ島のエネルギー施設見学ツアー。教育的で、子どもが科学を学べるプログラムが用意されています。事前予約が必要。",
+      "date": "8月通年（営業日のみ）",
+      "place": "ハワイ大学マノア校キャンパス内",
+      "link": "",
       "free": true
+    },
+    {
+      "title": "ダイヤモンド・ヘッド・ハイキング（キッズ向け）",
+      "description": "ハワイの象徴的な火山。30分程度で山頂到達可能。小学生以上向け。見晴らしが素晴らしく、忘れられない体験になります。",
+      "date": "8月通年（早朝推奨・日中は暑い）",
+      "place": "ダイヤモンド・ヘッド州立記念公園、ワイキキ",
+      "link": "https://dlnr.hawaii.gov",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-20T00:28:27.186Z"
+  "updatedAt": "2026-08-24T00:31:03.808Z"
 }

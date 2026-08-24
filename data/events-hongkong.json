@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "香港サマーナイトカーニバル",
-      "description": "ビクトリアパークで開催される夏祭り。ゲーム、屋台、ライブパフォーマンスなど家族向けのエンターテインメントが豊富。夜間のライトアップも美しく、子どもたちが楽しめるアトラクションが多数あります。",
+      "description": "ビクトリア公園で開催される夏の屋外カーニバル。ゲーム、屋台、ライブパフォーマンスなど家族向けのエンターテイメントが充実。乳幼児向けのゲームコーナーもあります。",
       "date": "8月上旬〜中旬",
-      "place": "ビクトリアパーク（Victoria Park）、香港島銅鑼灣",
-      "link": "https://www.discoverhongkong.com",
-      "free": false
-    },
-    {
-      "title": "スターフェリー体験クルーズ",
-      "description": "ビクトリア湾を横切る歴史あるスターフェリーの乗船。涼しい海風を感じながら香港のスカイラインを眺められます。乳幼児から小学生まで楽しめるシンプルで安全なアクティビティです。",
-      "date": "8月通年",
-      "place": "スターフェリー乗船場（セントラル～尖沙咀間）",
-      "link": "https://www.starferry.com.hk",
-      "free": false
-    },
-    {
-      "title": "香港科学館の夏休み特別展示",
-      "description": "毎年夏休み期間に開催される子ども向けの特別展示やワークショップ。インタラクティブな展示や実験体験が充実。涼しい室内環境で、科学への興味を引き出すプログラムが豊富です。",
-      "date": "8月全期間",
-      "place": "香港科学館（尖沙咀、Tsim Sha Tsui）",
-      "link": "https://www.lcsd.gov.hk/sc_chi/museums/hkscience/index.html",
-      "free": false
-    },
-    {
-      "title": "ビーチでの海水浴と砂浜遊び",
-      "description": "赤柱ビーチやディスカバリーベイなど、香港の美しいビーチで無料で楽しめます。透き通った海での水遊び、砂浜での家族時間。ライフガード常駐で安全で、カフェ施設も充実しています。",
-      "date": "8月全期間",
-      "place": "赤柱ビーチ（Stanley Beach）、香港島南部",
-      "link": "https://www.discoverhongkong.com",
+      "place": "ビクトリア公園（Victoria Park）、香港島銅鑼灣",
+      "link": "https://www.lcsd.gov.hk/",
       "free": true
     },
     {
-      "title": "香港公園での野外ピクニック＆無料施設利用",
-      "description": "センタルに位置する香港公園は無料で楽しめます。広い芝生、子どもの遊び場、野鳥観察ができ、涼しい緑の中でピクニック。温室やバナナ園も無料で見学でき、家族でリラックスできます。",
-      "date": "8月全期間",
-      "place": "香港公園（Hong Kong Park）、セントラル",
-      "link": "https://www.lcsd.gov.hk/en/parks/hkpark/index.html",
+      "title": "香港ディズニーランド サマーキャンプ",
+      "description": "子ども向けの特別サマープログラム。キャラクターグリーティング、ワークショップ、限定ショーなど季節限定のアトラクションが盛りだくさん。乳幼児〜小学生向けコンテンツ豊富。",
+      "date": "8月中旬〜下旬",
+      "place": "香港ディズニーランド、ランタオ島",
+      "link": "https://www.hongkongdisneyland.com/",
+      "free": false
+    },
+    {
+      "title": "スターフェリー乗船体験＆ビクトリアハーバー散策",
+      "description": "香港を代表する屋外アクティビティ。スターフェリーで海を渡り、壮大な海景色を楽しめます。乳幼児も利用可能で、セントラル〜尖沙咀間の往復が子どもに人気です。",
+      "date": "8月上旬〜下旬（通年利用可）",
+      "place": "スターフェリー各乗車場、ビクトリアハーバー沿い",
+      "link": "https://www.starferry.com.hk/",
+      "free": true
+    },
+    {
+      "title": "香港科学館 サマースペシャルプログラム",
+      "description": "子ども向けの科学実験教室やハンズオン展示が充実。エアコンが効いた屋内施設で、高温多湿の8月でも快適に過ごせます。乳幼児向けコーナーもあります。",
+      "date": "8月上旬〜下旬",
+      "place": "香港科学館、九龍尖沙咀",
+      "link": "https://www.lcsd.gov.hk/hk/en/ps/default.html",
+      "free": false
+    },
+    {
+      "title": "ウィローズビーチ（南灣海灘）での海水浴・ウォータースポーツ",
+      "description": "香港随一のビーチ。8月は波が穏やかで家族向けの遊泳に最適。ライフガードも常駐し、子ども用浅瀬エリアもあります。ビーチ脇でローカルグルメも楽しめます。",
+      "date": "8月上旬〜下旬",
+      "place": "ウィローズビーチ（Repulse Bay）、香港島南側",
+      "link": "https://www.discoverhongkong.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-20T00:28:44.080Z"
+  "updatedAt": "2026-08-24T00:31:19.506Z"
 }

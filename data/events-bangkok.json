@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ラーマ8世橋周辺の夜間ライトアップと川沿いマーケット",
-      "description": "バンコク中心部を流れるチャオプラヤ川沿いで、涼しくなった夕方から夜間にかけて開催される川辺マーケット。屋台グルメと家族向けアトラクションが楽しめます。",
-      "date": "8月中旬〜下旬の週末",
-      "place": "Rama VIII Bridge vicinity, Bangkok",
+      "title": "ルンピニ公園での早朝散歩・トカゲ観察",
+      "description": "バンコク最大の公園で、朝の涼しい時間に散歩。野生のオオトカゲやリスなど珍しい動物を観察できます。子どもも大喜びの自然体験が無料で楽しめます。",
+      "date": "8月全期間（早朝6:00-7:00推奨）",
+      "place": "ルンピニ公園（Lumphini Park）、バンコク中心部",
+      "link": "https://www.bangkoktourist.com",
+      "free": true
+    },
+    {
+      "title": "チャイナタウン（ヤワラート）のナイトマーケット散策",
+      "description": "8月の夜間、ヤワラート通りは屋台マーケットで大賑わい。子ども向けのおもちゃ屋、フルーツ、タイデザートなど食べ歩きが楽しめる無料イベント。",
+      "date": "8月全期間（毎日18:00-23:00頃）",
+      "place": "ヤワラート通り（Yaowarat Road）、チャイナタウン",
       "link": "",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館の夏休み特別企画",
-      "description": "東南アジア最大級の水族館で、8月の夏休み期間に子ども向けの海生生物教室やタッチプール体験などの特別プログラムを開催しています。",
-      "date": "8月上旬〜下旬",
-      "place": "Siam Paragon, 991 Rama I Road, Pathum Wan, Bangkok",
-      "link": "https://www.siamparagon.com/en",
+      "title": "シーアクアリウムのサマープログラム",
+      "description": "バンコク最大級の水族館で、8月限定の子ども向けワークショップやタッチプール体験が開催。海の生き物との交流で学べるプログラム。",
+      "date": "8月全期間（日程により異なる）",
+      "place": "シーム リーム（Siam Ocean World）、シアム駅近くのシーアクアリウムビル",
+      "link": "https://www.siamoceanworld.com",
       "free": false
     },
     {
-      "title": "ルンピニ公園でのモーニングヨガと野外遊び",
-      "description": "バンコク最大級の公園で、早朝から無料で楽しめるモーニングヨガや、広大な芝生での自由な遊び。午前中は比較的過ごしやすい気温で家族向けです。",
-      "date": "8月毎日",
-      "place": "Lumphini Park, Rama IV Road, Pathum Wan, Bangkok",
-      "link": "https://www.bangkok.go.th",
-      "free": true
-    },
-    {
-      "title": "キッザニア・バンコクの夏休み特別営業",
-      "description": "子ども向けの職業体験テーマパーク。8月の夏休み期間に特別営業時間拡大や限定ワークショップを開催。小学生向けのアクティビティが豊富です。",
-      "date": "8月上旬〜下旬",
-      "place": "The Mall Bangkapi, 1st-2nd Floor, 69 Rama IX Road, Bangkok",
-      "link": "https://www.kidzania.com/en/kidzania-bangkok",
+      "title": "アユタヤ古都への日帰り象乗り体験ツアー",
+      "description": "バンコクから約1時間。象に乗って遺跡を巡るユニークな体験。子ども向けの安全なコースもあり、タイ文化と自然を同時に学べます。",
+      "date": "8月全期間（早朝出発のツアーが一般的）",
+      "place": "アユタヤ（Ayutthaya）、バンコクから北へ約80km",
+      "link": "https://www.tourismthailand.org",
       "free": false
     },
     {
-      "title": "バンコク国立博物館の子ども向けツアープログラム",
-      "description": "タイの歴史と文化を学べる博物館。8月に子ども向けの特別ガイドツアーや体験プログラムを開催。乳幼児〜小学生向けの展示解説があります。",
-      "date": "8月毎週木曜〜日曜",
-      "place": "National Museum Bangkok, Na Phra That Road, Bangkok",
-      "link": "https://www.virtualmuseum.go.th/th",
+      "title": "キッザニア・バンコクの特別プログラム",
+      "description": "子ども向けテーマパークで、8月限定の職業体験プログラムが拡充。消防士、医者、パイロットなど、子どもが大人の仕事にチャレンジできます。",
+      "date": "8月全期間（営業時間内随時）",
+      "place": "キッザニア・バンコク（KidZania Bangkok）、エンポリアムプラスビル内",
+      "link": "https://www.kidzania.com/en/bangkok",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-20T00:28:05.513Z"
+  "updatedAt": "2026-08-24T00:30:39.575Z"
 }

@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "パリ・プラージュ（Paris Plage）",
-      "description": "セーヌ川沿いに砂浜が出現。ビーチチェア、プール、水遊び広場など。子どもたちが都心で水遊びを楽しめる。8月中旬までの開催。",
-      "date": "8月上旬～中旬",
-      "place": "セーヌ川沿い（ポン・ヌフ周辺など複数箇所）",
-      "link": "https://www.paris.fr",
+      "description": "セーヌ川沿いに広がるビーチリゾート。砂浜、プール、ウォータースライダーなど。子どもたちが水遊びを楽しめる無料の屋外アクティビティです。",
+      "date": "8月上旬〜下旬",
+      "place": "セーヌ川沿い（ポンタレクサンドル周辺）",
+      "link": "https://www.paris.fr/pages/paris-plage-10110",
       "free": true
     },
     {
-      "title": "ルーヴル美術館「子どもワークショップ」",
-      "description": "夏休み期間中、美術館が子ども向けの特別ガイドツアーや創作ワークショップを開催。年齢別プログラムあり。事前予約推奨。",
-      "date": "8月全期間（日程確認要）",
-      "place": "ルーヴル美術館、Rue de Rivoli, 75004 Paris",
+      "title": "ルーヴル美術館の子ども向けワークショップ",
+      "description": "夏休みシーズンに開催される子ども対象のガイドツアーと創作ワークショップ。美術館の名作を楽しく学べるプログラムです。",
+      "date": "8月中旬〜下旬",
+      "place": "ルーヴル美術館（パレ・ロワイヤル広場）",
       "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "モンソー公園（Parc Monceau）での屋外遊び・ピクニック",
-      "description": "広大な緑地公園で無料で遊べる。遊具、池、広場が充実。夏は家族でピクニックを楽しむ絶好スポット。午前中が比較的空いている。",
-      "date": "8月全期間",
-      "place": "Parc Monceau, 35 Boulevard de Courcelles, 75008 Paris",
-      "link": "https://www.paris.fr/pages/parc-monceau-7869",
-      "free": true
-    },
-    {
-      "title": "シテ科学館（Cité des sciences et de l'industrie）特別展示",
-      "description": "子ども向けの科学体験ゾーン「シテ・デ・アンファン」で、8月は夏の特別プログラムを実施。インタラクティブな展示で学びながら遊べる。",
-      "date": "8月全期間",
-      "place": "Cité des sciences et de l'industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+      "title": "シテ科学産業博物館の特別展示",
+      "description": "科学と技術をテーマにした対話型展示。プラネタリウムやシネマテークも充実。子どもが体験しながら学べる施設です。",
+      "date": "8月上旬〜下旬",
+      "place": "ラ・ヴィレット公園（19区）",
       "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "ボタニカル・ガーデン（植物園）散策",
-      "description": "パリの植物園で、夏の花々を観賞。子ども向けガイド付きツアーも開催。自然学習と散歩が組み合わさった親子向けアクティビティ。",
-      "date": "8月全期間",
-      "place": "Jardin des Plantes, 57 Rue Cuvier, 75005 Paris",
-      "link": "https://www.jardindesplantes.net",
+      "title": "バスティーユ・デー関連イベント・花火",
+      "description": "7月14日後の週末に開催される花火大会やコンサート。セーヌ川沿いやシャン・ド・マルスで家族向けの音楽ライブと花火が楽しめます。",
+      "date": "8月上旬（7月14日の翌週末）",
+      "place": "セーヌ川沿い、シャン・ド・マルス公園など",
+      "link": "https://www.paris.fr",
       "free": true
+    },
+    {
+      "title": "アクアルディス水族館のサマープログラム",
+      "description": "熱帯魚や海の生き物を観察できる屋内水族館。夏季は子ども向けの餌やりイベントや解説ツアーが充実しています。",
+      "date": "8月上旬〜下旬",
+      "place": "シャイヨー宮地下（16区）",
+      "link": "https://www.aquariumdeparis.com",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-20T00:27:42.130Z"
+  "updatedAt": "2026-08-24T00:30:15.591Z"
 }
