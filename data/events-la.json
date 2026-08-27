@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA County Fair（ロサンゼルス郡フェア）",
-      "description": "8月下旬から9月上旬に開催される大型フェア。乗り物、ゲーム、ライブエンターテインメント、動物との触れ合いなど、家族向けアクティビティが豊富。地元の食べ物やステージショーも楽しめます。",
-      "date": "8月下旬～9月上旬",
+      "title": "Los Angeles County Fair",
+      "description": "ロサンゼルス郡最大の夏祭り。乗り物、ゲーム、キャラクターショー、動物とのふれあいなど子ども向けアクティビティが充実。ポメロナ市で開催。",
+      "date": "8月中旬〜9月上旬",
       "place": "Pomona Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
       "link": "https://lacountyfair.com",
       "free": false
     },
     {
-      "title": "Santa Monica Pier Park（サンタモニカピア周辺の無料ビーチアクティビティ）",
-      "description": "夏季の海岸で無料のファミリー向けプログラム。ビーチでの遊び、サンセット体験、時期によっては野外映画上映など。海の景色を楽しみながら家族で過ごせます。",
-      "date": "8月通期",
+      "title": "Santa Monica Pier の夏のプログラム",
+      "description": "遊園地、アーケードゲーム、海での水遊びが楽しめます。夏はファミリー向けのイベントやライブエンターテイメントが開催され、夕焼けの景色は必見。",
+      "date": "8月通年",
       "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.org",
+      "link": "https://www.santamonicapier.com",
       "free": true
     },
     {
-      "title": "Griffith Observatory Sunset & Stargazing（グリフィス天文台での観星会）",
-      "description": "無料で利用できる天文台。8月は夜間に星空観測プログラムを実施。大型望遠鏡での観察やプラネタリウム（有料）もあり、子どもの学習と体験が組み合わせられます。",
-      "date": "8月通期（火～日）",
+      "title": "Griffith Observatory 星空観察",
+      "description": "無料で訪問でき、夏の夜間プログラムで天体観測ができます。子ども向けプラネタリウムショーも開催。グリフィス公園での自然散策も楽しめます。",
+      "date": "8月通年（夜間）",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "Los Angeles Zoo Summer Camp Programs",
-      "description": "LA動物園の夏季特別プログラム。動物との近距離体験、ガイドツアー、クイズラリーなど。園内で動物について楽しく学べる子ども向けアクティビティが展開されます。",
-      "date": "8月通期",
+      "title": "LA Zoo の Summer Camp & Evening Hours",
+      "description": "8月は延長営業で夕涼みの中、動物観察ができます。子ども向けワークショップやキャラクターとのふれあいイベントも実施。象、ライオン、パンダなど多数展示。",
+      "date": "8月通年",
       "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
       "link": "https://www.lazoo.org",
       "free": false
     },
     {
-      "title": "Runyon Canyon Hike（ラニョンキャニオン・ハイキング）",
-      "description": "ハリウッドに位置する無料で楽しめる家族向けハイキングスポット。様々なトレイルコースがあり、子どもレベルに合わせて選択可能。ロサンゼルスの街並みや景色が楽しめます。",
-      "date": "8月通期（早朝推奨）",
-      "place": "Runyon Canyon Park, 2000 N Fuller Ave, Los Angeles, CA 90046",
-      "link": "https://www.lamountains.com/runyon-canyon-park",
+      "title": "Zuma Beach での海でのアクティビティ",
+      "description": "マリブ地域の人気ビーチ。8月は水温が高く、子ども向けサーフィンレッスンやビーチゲーム開催。波が穏やかなエリアで安全に水遊びできます。",
+      "date": "8月通年",
+      "place": "Zuma Beach, 30000 Pacific Coast Hwy, Malibu, CA 90265",
+      "link": "https://beaches.lacounty.gov",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-24T00:30:55.949Z"
+  "updatedAt": "2026-08-27T05:15:52.121Z"
 }

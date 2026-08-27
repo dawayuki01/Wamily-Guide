@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "National Heroes Day（ナショナル・ヒーローズ・デイ）",
-      "description": "8月第4月曜日のフィリピンの祝日。各地で愛国心関連のイベントやパレードが開催。子ども向けの文化体験プログラムや家族向けのコミュニティ活動が多く企画されます。",
-      "date": "8月第4月曜日（2026年8月24日）",
-      "place": "マニラ各地（Luneta Park・フィリピン国立博物館周辺など）",
-      "link": "https://www.tripadvisor.com/Tourism-g317155-Manila_Calabarzon_Region_Calabarzon_CALABARZON.html",
+      "title": "National Heroes Day（ナショナル・ヒーローズ・デー）",
+      "description": "フィリピンの国民の祝日。8月の最終月曜日に国立英雄墓地での式典やパレードがあり、地域によってはお祭りムード。家族で歴史と文化を学べます。",
+      "date": "8月最終月曜日",
+      "place": "Libingan ng mga Bayani（Manila North Cemetery）、メトロマニラ各地",
+      "link": "",
       "free": true
     },
     {
-      "title": "Manila Ocean Park Summer Programs",
-      "description": "フィリピン最大級の海洋生物パーク。夏季は子ども向けの水族館ツアー、海洋教育プログラム、イルカショーなど多数の体験アクティビティを開催しています。",
-      "date": "8月通年",
-      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceanpark.com/",
+      "title": "Manila Ocean Park Summer Events",
+      "description": "海洋公園での夏季プログラム。子ども向けの海生生物学習ワークショップ、プール、ウォータースライダーなど。乳幼児向けの浅いプール施設も完備。",
+      "date": "8月通期",
+      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Pasay",
+      "link": "https://www.manilaoceanpark.com",
       "free": false
     },
     {
-      "title": "Luneta Park（リネタパーク）でのファミリーアクティビティ",
-      "description": "マニラ最大の公園。8月は朝方が涼しく、子ども向けの遊具エリア、無料の緑地での家族ピクニック、週末のファミリーイベントなど無料で楽しめます。",
-      "date": "8月通年（特に早朝がおすすめ）",
-      "place": "Luneta Park, Roxas Boulevard, Manila",
-      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d319271-Reviews-Rizal_Park_Luneta-Manila_Calabarzon_Region_Calabarzon_CALABARZON.html",
+      "title": "Feast of Santo Domingo de Guzmán Festival",
+      "description": "マニラ地域で8月中旬に開催される聖人祭。地元の教会や公共広場でのカラフルなパレード、音楽、露店グルメが楽しめます。無料で参加でき、フィリピンの信仰と文化を体験できます。",
+      "date": "8月中旬（4日前後）",
+      "place": "Santo Domingo Church周辺、マニラ各地",
+      "link": "",
       "free": true
     },
     {
-      "title": "Philippine National Museum Family Days",
-      "description": "フィリピン国立博物館では夏季に家族向けの特別ツアーやワークショップを開催。子ども向けのインタラクティブな展示解説や文化体験プログラムが楽しめます。",
-      "date": "8月の指定日程",
-      "place": "Philippine National Museum, Padre Burgos Street, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
-      "free": false
+      "title": "Rizal Park Open-Air Activities & Play Zones",
+      "description": "マニラの広大な公園で、遊具エリア、湖でのボート体験、屋外コンサート。子ども向けランニングレースやゲームイベント開催。朝の涼しい時間帯がおすすめ。",
+      "date": "8月通期（週末中心）",
+      "place": "Rizal Park, East Drive, Rizal Park, Ermita, Manila",
+      "link": "https://www.rizalpark.gov.ph",
+      "free": true
     },
     {
-      "title": "Enchanted Kingdom Summer Programs",
-      "description": "フィリピンの大型テーマパーク。8月は夏季特別プログラムとして、キッズパレード、キャラクターグリーティング、ウォーターパークエリアの営業など、乳幼児から小学生向けのアトラクションが充実しています。",
-      "date": "8月通年",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから約30km）",
-      "link": "https://www.enchantedkingdom.com/",
+      "title": "Children's Museum of Manila Special Programs",
+      "description": "夏休み向けの特別ワークショップ・展示会。STEM学習、アート制作、インタラクティブ遊び。乳幼児〜小学生対象の年齢別プログラムが豊富です。",
+      "date": "8月通期",
+      "place": "Children's Museum of Manila, Metro Manila",
+      "link": "https://www.cmm.org.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-24T00:30:47.719Z"
+  "updatedAt": "2026-08-27T05:15:45.150Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plage）",
-      "description": "セーヌ川沿いに広がるビーチリゾート。砂浜、プール、ウォータースライダーなど。子どもたちが水遊びを楽しめる無料の屋外アクティビティです。",
-      "date": "8月上旬〜下旬",
-      "place": "セーヌ川沿い（ポンタレクサンドル周辺）",
-      "link": "https://www.paris.fr/pages/paris-plage-10110",
+      "title": "パリ・プラージュ（Paris-Plage）",
+      "description": "セーヌ河岸に出現する砂浜。ビーチバレー、水遊び、映画上映など家族向けアクティビティが充実。入場無料で夏の風情を満喫できます。",
+      "date": "8月中旬〜8月下旬",
+      "place": "セーヌ河岸（ポン・ドゥ・ラルマ付近）、パリ",
+      "link": "https://www.paris.fr/pages/paris-plage-6680",
       "free": true
     },
     {
       "title": "ルーヴル美術館の子ども向けワークショップ",
-      "description": "夏休みシーズンに開催される子ども対象のガイドツアーと創作ワークショップ。美術館の名作を楽しく学べるプログラムです。",
-      "date": "8月中旬〜下旬",
-      "place": "ルーヴル美術館（パレ・ロワイヤル広場）",
-      "link": "https://www.louvre.fr",
+      "description": "夏期プログラムとして美術館の子ども向け特別ガイドツアーやアトリエ。年齢別に名画や彫刻を学べ、創作活動も体験できます。",
+      "date": "8月上旬〜8月下旬",
+      "place": "ルーヴル美術館、パレ・ロワイヤル広場、パリ75001",
+      "link": "https://www.louvre.fr/",
       "free": false
     },
     {
-      "title": "シテ科学産業博物館の特別展示",
-      "description": "科学と技術をテーマにした対話型展示。プラネタリウムやシネマテークも充実。子どもが体験しながら学べる施設です。",
-      "date": "8月上旬〜下旬",
-      "place": "ラ・ヴィレット公園（19区）",
-      "link": "https://www.cite-sciences.fr",
+      "title": "パリ・プール（public swimming pools）での水遊び",
+      "description": "パリ市内の公営プールが開放。幼児用プール完備で、夏の暑さを避けて家族で水遊び。市営なので利用料も手頃です。",
+      "date": "8月上旬〜8月下旬",
+      "place": "パリ市内各所の公営プール（Piscine）",
+      "link": "https://www.paris.fr/pages/les-piscines-23",
       "free": false
     },
     {
-      "title": "バスティーユ・デー関連イベント・花火",
-      "description": "7月14日後の週末に開催される花火大会やコンサート。セーヌ川沿いやシャン・ド・マルスで家族向けの音楽ライブと花火が楽しめます。",
-      "date": "8月上旬（7月14日の翌週末）",
-      "place": "セーヌ川沿い、シャン・ド・マルス公園など",
-      "link": "https://www.paris.fr",
+      "title": "ヴェルサイユ宮殿の噴水ショー＆庭園散策",
+      "description": "8月はグランド・キャナル周辺で音楽に合わせた噴水ショーが開催。広大な庭園での散策やピクニック、子ども向けの迷路も人気です。",
+      "date": "8月の週末",
+      "place": "ヴェルサイユ宮殿、ヴェルサイユ",
+      "link": "https://www.chateauversailles.fr/",
+      "free": false
+    },
+    {
+      "title": "シャン・ド・マルス公園でのピクニック＆エッフェル塔見学",
+      "description": "エッフェル塔直下の広大な芝生広場。ピクニック、凧揚げ、散策が無料。夜間はエッフェル塔のライトアップも楽しめます。",
+      "date": "8月上旬〜8月下旬",
+      "place": "シャン・ド・マルス公園、5 Avenue Anatole France, 75007 パリ",
+      "link": "https://www.paris.fr/pages/le-champ-de-mars-32",
       "free": true
-    },
-    {
-      "title": "アクアルディス水族館のサマープログラム",
-      "description": "熱帯魚や海の生き物を観察できる屋内水族館。夏季は子ども向けの餌やりイベントや解説ツアーが充実しています。",
-      "date": "8月上旬〜下旬",
-      "place": "シャイヨー宮地下（16区）",
-      "link": "https://www.aquariumdeparis.com",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-24T00:30:15.591Z"
+  "updatedAt": "2026-08-27T05:15:13.257Z"
 }

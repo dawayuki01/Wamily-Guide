@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "8月中旬に開催される北欧最大級の音楽・文化祭。ステージパフォーマンス、子ども向けワークショップ、水辺のアクティビティが充実。家族向けエリアも設置。",
-      "date": "8月中旬（約10日間）",
-      "place": "ストックホルムの各地（主にニューマルム地区・王立公園周辺）",
+      "description": "8月中旬に開催される北欧最大級の水上イベント。ステージパフォーマンス、子ども向けアクティビティ、水上アトラクションなど、家族で楽しめるプログラムが豊富。",
+      "date": "8月中旬（通常8月10日～18日前後）",
+      "place": "ストックホルム市内各地（メインステージはNorrmalm地区）",
       "link": "https://www.stockholmwaterfestival.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の夏プログラム",
-      "description": "北欧の伝統建築と動物園。8月は子ども向けガイドツアー、伝統工芸体験、動物とのふれあいイベントが充実。北欧の歴史と自然を学べる。",
+      "title": "スカンセン野外博物館のサマープログラム",
+      "description": "北欧最大級の野外博物館。8月は夏休み特別プログラム、動物ふれあい体験、伝統工芸ワークショップなど子ども向け企画が充実。スウェーデン文化を体験できます。",
       "date": "8月通期",
-      "place": "Skansen, Djurgården, 115 21 Stockholm",
+      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユールゴーデン島での屋外遊び・水遊び",
-      "description": "ストックホルムの遊園地・美術館・自然公園が集中する島。8月は天候良好で、子ども向け遊具、ビーチでの水遊び、サイクリングロードが無料で楽しめる。",
+      "title": "ユーグarden島でのサイクリング・ピクニック",
+      "description": "ストックホルムの絶景スポット。8月は天気も良く、自転車レンタルでファミリーサイクリング、湖畔でのピクニック、アイスクリーム店など家族向けアクティビティが充実。",
       "date": "8月通期",
-      "place": "Djurgården island, Stockholm",
-      "link": "https://www.visitstockholm.com/see-do/djurgarden/",
+      "place": "Djurgården, Stockholm",
+      "link": "",
       "free": true
     },
     {
-      "title": "グローナ・ルンド遊園地の夏営業",
-      "description": "1883年創業の伝統的遊園地。8月も営業中で、子ども向けアトラクション、キャラクターショー、イベントが毎日開催。北欧最大級の夏休みスポット。",
+      "title": "ストックホルム子ども博物館（Junibacken）の夏季特別展示",
+      "description": "スウェーデンの児童文学・アニメをテーマにした博物館。8月は夏休み特別プログラムで、インタラクティブ展示やキャラクター体験イベント、ワークショップが開催されます。",
       "date": "8月通期",
-      "place": "Gröna Lund, Djurgården, 102 52 Stockholm",
-      "link": "https://www.gronalund.com",
+      "place": "Junibacken, Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     },
     {
-      "title": "ストックホルム市立図書館・子ども向けプログラム",
-      "description": "モダン図書館での夏休み向けストーリーテイム、クラフト教室、読書イベント。北欧デザインの美しい建築空間で無料で楽しめる文化体験。",
-      "date": "8月通期",
-      "place": "Stadsbiblioteket, Sveavägen 73, 104 29 Stockholm",
-      "link": "https://biblioteket.stockholm.se",
+      "title": "ストックホルムの夏市場とストリートフェスティバル",
+      "description": "市内各地で開催される夏のマーケット。手作り工芸品、地元食材、キッズ向けクラフト体験ブースなど。家族向けエンターテインメントや食べ歩きが楽しめます。",
+      "date": "8月通期（複数の週末開催）",
+      "place": "ストックホルム市内各所（Gamla Stan周辺、Stortorget広場など）",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-24T00:30:23.652Z"
+  "updatedAt": "2026-08-27T05:15:21.144Z"
 }
