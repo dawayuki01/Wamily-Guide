@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Aloha Festivals（アロハ・フェスティバル）",
-      "description": "ハワイの文化を祝う月間イベント。フラダンス、音楽、パレードなど家族向けプログラムが豊富。各島で異なる日程で開催され、ハワイの伝統文化を体験できます。",
-      "date": "8月下旬〜9月上旬",
-      "place": "ハワイ州全域（オアフ島、マウイ島など）",
-      "link": "https://www.alohafestivals.com",
+      "title": "Statewide Obon Festival（全州盂蘭盆祭）",
+      "description": "ハワイ各地で開催される伝統的な盂蘭盆祭。提灯飾りや盆踊り、屋台など家族で楽しめる文化的なイベントです。8月中旬から下旬に各島で開催されます。",
+      "date": "8月中旬〜下旬",
+      "place": "ハワイ各島（主にホノルル、ハイロなど）",
+      "link": "https://www.gohawaii.com/",
       "free": true
     },
     {
-      "title": "ホノルル動物園のサマープログラム",
-      "description": "ワークショップ、アニマルエンカウンター、ナイトズーツアーなど子ども向け特別プログラム開催。動物との触れ合いを通じた学習体験が充実しています。",
-      "date": "8月通期（曜日による）",
-      "place": "ホノルル動物園、ワイキキ、ホノルル、ハワイ州",
-      "link": "https://www.honoluluzoo.org",
+      "title": "Honolulu Zoo Summer Camps & Programs",
+      "description": "ホノルル動物園の夏季プログラム。動物との交流や教育的なワークショップ。年齢別プログラムがあり、子どもの興味に合わせて選べます。",
+      "date": "8月（通年実施、夏期特別プログラム）",
+      "place": "Honolulu Zoo, Waikiki, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "カイルア・ビーチでのビーチアクティビティ",
-      "description": "ハワイNo.1の透明度を誇るビーチでシュノーケリング、カヤック、サンドバー探索が無料で楽しめます。浅瀬が広く乳幼児連れにも最適。",
-      "date": "8月通期",
-      "place": "カイルア・ビーチ、カイルア、オアフ島、ハワイ州",
-      "link": "",
+      "title": "Waikiki Beach での海水浴・サーフィン教室",
+      "description": "ハワイの代表的なビーチ。8月は水温が高く子どもに最適。初心者向けサーフィンレッスンやビーチアクティビティも豊富で、家族で1日楽しめます。",
+      "date": "8月（通年）",
+      "place": "Waikiki Beach, Honolulu, HI 96815",
+      "link": "https://www.gohawaii.com/oahu/regions/waikiki",
       "free": true
     },
     {
-      "title": "ワイキキ水族館の子ども向けプログラム",
-      "description": "タッチプール体験、ガイドツアー、教育ワークショップなど。南国の海洋生物について学べ、小学生向けの充実した学習プログラムが用意されています。",
-      "date": "8月通期（毎日）",
-      "place": "ワイキキ水族館、ワイキキ、ホノルル、ハワイ州",
-      "link": "https://www.waikikiaquarium.org",
+      "title": "Bishop Museum Summer Programs",
+      "description": "ハワイ最大級の博物館。夏休み限定の子ども向けプログラム、科学実験ワークショップ、ハワイ文化体験が充実しています。",
+      "date": "8月（夏期プログラム）",
+      "place": "Bishop Museum, 1525 Bernice Street, Honolulu, HI 96817",
+      "link": "https://www.bishopmuseum.org/",
       "free": false
     },
     {
-      "title": "KCC ファーマーズマーケット（カカアコ）",
-      "description": "毎週土曜開催の地元農産物・食品マーケット。新鮮なマンゴー、パパイア、ローカルフード試食が無料。朝涼しく、子連れに優しい雰囲気です。",
-      "date": "8月毎週土曜（朝7:30-11:00）",
-      "place": "KCC ファーマーズマーケット、カカアコ、ホノルル、ハワイ州",
-      "link": "https://www.kccfarmersmarket.com",
+      "title": "KCC Farmers Market（KCCファーマーズマーケット）",
+      "description": "毎週土曜朝に開催される地元密着型マーケット。新鮮なトロピカルフルーツ、アサイーボウル、地元グルメが楽しめます。子ども連れで買い物、食べ歩きができます。",
+      "date": "8月（毎週土曜7:30-11:00）",
+      "place": "Kapiolani Community College, 4303 Diamond Head Road, Honolulu, HI 96816",
+      "link": "https://www.honolulufarmersmarket.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-27T05:15:59.864Z"
+  "updatedAt": "2026-08-31T01:51:21.265Z"
 }

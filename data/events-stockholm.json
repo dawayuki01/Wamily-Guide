@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "8月中旬に開催される北欧最大級の水上イベント。ステージパフォーマンス、子ども向けアクティビティ、水上アトラクションなど、家族で楽しめるプログラムが豊富。",
-      "date": "8月中旬（通常8月10日～18日前後）",
-      "place": "ストックホルム市内各地（メインステージはNorrmalm地区）",
+      "description": "8月中旬に開催される北欧最大級の水上イベント。コンサート、パフォーマンス、子ども向けアクティビティ、花火が楽しめます。湖畔での家族向けイベント満載。",
+      "date": "8月中旬（約10日間）",
+      "place": "ストックホルム中心部・湖畔エリア、ニューマルム地区",
       "link": "https://www.stockholmwaterfestival.se",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館のサマープログラム",
-      "description": "北欧最大級の野外博物館。8月は夏休み特別プログラム、動物ふれあい体験、伝統工芸ワークショップなど子ども向け企画が充実。スウェーデン文化を体験できます。",
-      "date": "8月通期",
-      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "title": "スカンセン野外博物館の夏プログラム",
+      "description": "北欧最大級の野外博物館。8月は動物園、伝統家屋、職人体験が充実。子ども向けの餌やり体験やワークショップが毎日開催されます。",
+      "date": "8月通年",
+      "place": "Djurgården, Skansen, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユーグarden島でのサイクリング・ピクニック",
-      "description": "ストックホルムの絶景スポット。8月は天気も良く、自転車レンタルでファミリーサイクリング、湖畔でのピクニック、アイスクリーム店など家族向けアクティビティが充実。",
-      "date": "8月通期",
+      "title": "ジューガルデン島でのフリーピクニック＆自然散策",
+      "description": "王立公園ジューガルデン島は無料で散策できる広大な緑地。夏は野生動物観察、遊び場、ビーチが充実。家族でのんびり過ごせる北欧の自然を体験できます。",
+      "date": "8月通年",
       "place": "Djurgården, Stockholm",
-      "link": "",
+      "link": "https://www.stockholm.se/en/visitstockholm/attractions/djurgarden",
       "free": true
     },
     {
-      "title": "ストックホルム子ども博物館（Junibacken）の夏季特別展示",
-      "description": "スウェーデンの児童文学・アニメをテーマにした博物館。8月は夏休み特別プログラムで、インタラクティブ展示やキャラクター体験イベント、ワークショップが開催されます。",
-      "date": "8月通期",
-      "place": "Junibacken, Galärvägen 14, 115 21 Stockholm",
-      "link": "https://www.junibacken.se",
+      "title": "ヴァーサ号博物館の子ども向けツアー＆プログラム",
+      "description": "17世紀の軍艦を保存する世界的博物館。8月は子ども向けガイドツアーやインタラクティブプログラムが実施。海の歴史を学ぶ貴重な体験ができます。",
+      "date": "8月通年",
+      "place": "Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se",
       "free": false
     },
     {
-      "title": "ストックホルムの夏市場とストリートフェスティバル",
-      "description": "市内各地で開催される夏のマーケット。手作り工芸品、地元食材、キッズ向けクラフト体験ブースなど。家族向けエンターテインメントや食べ歩きが楽しめます。",
-      "date": "8月通期（複数の週末開催）",
-      "place": "ストックホルム市内各所（Gamla Stan周辺、Stortorget広場など）",
-      "link": "",
-      "free": true
+      "title": "グローナ・ルンド遊園地のサマーシーズンイベント",
+      "description": "北欧の老舗遊園地。8月はアトラクション充実、ライブパフォーマンス、キャラクターグリーティングが開催。乳幼児から小学生まで楽しめる施設が豊富。",
+      "date": "8月通年",
+      "place": "Djurgården, 115 21 Stockholm",
+      "link": "https://www.gronalund.com",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-27T05:15:21.144Z"
+  "updatedAt": "2026-08-31T01:50:39.501Z"
 }

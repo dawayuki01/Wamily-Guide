@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles County Fair",
-      "description": "ロサンゼルス郡最大の夏祭り。乗り物、ゲーム、キャラクターショー、動物とのふれあいなど子ども向けアクティビティが充実。ポメロナ市で開催。",
-      "date": "8月中旬〜9月上旬",
-      "place": "Pomona Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://lacountyfair.com",
+      "title": "ロサンゼルス郡立美術館（LACMA）キッズプログラム",
+      "description": "夏休み期間中、子ども向けの美術教室やワークショップが開催。ARTラボで創造性を育むプログラムが充実。家族向けガイドツアーも無料。",
+      "date": "8月通年",
+      "place": "5905 Wilshire Boulevard, Los Angeles, CA 90036",
+      "link": "https://www.lacma.org/",
       "free": false
     },
     {
-      "title": "Santa Monica Pier の夏のプログラム",
-      "description": "遊園地、アーケードゲーム、海での水遊びが楽しめます。夏はファミリー向けのイベントやライブエンターテイメントが開催され、夕焼けの景色は必見。",
-      "date": "8月通年",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
+      "title": "グリフィス天文台 無料夜間開放・子ども向けスターガイド",
+      "description": "8月の夜間、天文台が無料開放。子ども向けプラネタリウムショーと望遠鏡での観測体験。夏の星座を学べるイベント。駐車場も無料。",
+      "date": "8月上旬〜下旬（金土日）",
+      "place": "2800 East Observatory Road, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "Griffith Observatory 星空観察",
-      "description": "無料で訪問でき、夏の夜間プログラムで天体観測ができます。子ども向けプラネタリウムショーも開催。グリフィス公園での自然散策も楽しめます。",
-      "date": "8月通年（夜間）",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "title": "サンタモニカ・ビーチ サマーキャンプ体験",
+      "description": "ビーチサイドでの家族向け屋外アクティビティ。サーフレッスン、ビーチバレー、砂浜工作など。8月は波が穏やかで初心者向け。",
+      "date": "8月通年",
+      "place": "Santa Monica Beach, CA 90401",
+      "link": "https://smgov.net/departments/parks/divisions/beaches/",
       "free": true
     },
     {
-      "title": "LA Zoo の Summer Camp & Evening Hours",
-      "description": "8月は延長営業で夕涼みの中、動物観察ができます。子ども向けワークショップやキャラクターとのふれあいイベントも実施。象、ライオン、パンダなど多数展示。",
-      "date": "8月通年",
-      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "title": "ロサンゼルス自然史博物館 「Dino Summer」キッズプログラム",
+      "description": "夏休み期間中の恐竜展示関連プログラム。インタラクティブな化石発掘体験、古生物学者との対話タイムなど子ども向けコンテンツが充実。",
+      "date": "8月上旬〜下旬",
+      "place": "900 Exposition Boulevard, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
       "free": false
     },
     {
-      "title": "Zuma Beach での海でのアクティビティ",
-      "description": "マリブ地域の人気ビーチ。8月は水温が高く、子ども向けサーフィンレッスンやビーチゲーム開催。波が穏やかなエリアで安全に水遊びできます。",
-      "date": "8月通年",
-      "place": "Zuma Beach, 30000 Pacific Coast Hwy, Malibu, CA 90265",
-      "link": "https://beaches.lacounty.gov",
-      "free": true
+      "title": "バレンシア「Six Flags Magic Mountain」キッズナイト",
+      "description": "8月限定で家族向けの割引ナイトイベント開催。乗り物好きな子ども向けのエンターテインメント。涼しい夜間での快適な体験。",
+      "date": "8月中旬〜下旬（特定日）",
+      "place": "26101 Magic Mountain Parkway, Valencia, CA 91355",
+      "link": "https://www.sixflags.com/magicmountain",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-27T05:15:52.121Z"
+  "updatedAt": "2026-08-31T01:51:13.795Z"
 }

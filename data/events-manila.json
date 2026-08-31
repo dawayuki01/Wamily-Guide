@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "National Heroes Day（ナショナル・ヒーローズ・デー）",
-      "description": "フィリピンの国民の祝日。8月の最終月曜日に国立英雄墓地での式典やパレードがあり、地域によってはお祭りムード。家族で歴史と文化を学べます。",
-      "date": "8月最終月曜日",
-      "place": "Libingan ng mga Bayani（Manila North Cemetery）、メトロマニラ各地",
-      "link": "",
+      "title": "フィリピン独立記念日 (Araw ng Kagitingan) 関連イベント",
+      "description": "8月21日前後、マニラ市内で独立記念日を祝うパレード、コンサート、文化展示が開催。家族向けの催しや屋台が出ており、フィリピン文化を体験できます。",
+      "date": "8月中旬〜下旬（8月21日前後）",
+      "place": "リサール公園（Rizal Park）、マニラシティホール周辺",
+      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d317233-Reviews-Rizal_Park-Manila.html",
       "free": true
     },
     {
-      "title": "Manila Ocean Park Summer Events",
-      "description": "海洋公園での夏季プログラム。子ども向けの海生生物学習ワークショップ、プール、ウォータースライダーなど。乳幼児向けの浅いプール施設も完備。",
-      "date": "8月通期",
-      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Pasay",
-      "link": "https://www.manilaoceanpark.com",
+      "title": "スター シティ（Star City）サマーキャンペーン",
+      "description": "フィリピン最大級の遊園地で夏季限定のキャンペーンを開催。ファミリー向けアトラクション、キャラクターショー、割引チケットプロモーションなどが実施されます。",
+      "date": "8月上旬〜下旬",
+      "place": "スター シティ、マニラ湾沿い（Roxas Boulevard）",
+      "link": "https://www.star-city.com.ph/",
       "free": false
     },
     {
-      "title": "Feast of Santo Domingo de Guzmán Festival",
-      "description": "マニラ地域で8月中旬に開催される聖人祭。地元の教会や公共広場でのカラフルなパレード、音楽、露店グルメが楽しめます。無料で参加でき、フィリピンの信仰と文化を体験できます。",
-      "date": "8月中旬（4日前後）",
-      "place": "Santo Domingo Church周辺、マニラ各地",
+      "title": "イントラムロス地区での無料探索・文化体験",
+      "description": "スペイン統治時代の城壁都市。サント・アゴスチン教会、博物館、石畳の街並みが無料で楽しめます。子ども向けガイドツアーも利用可能で、歴史文化を学べます。",
+      "date": "通年（8月も営業）",
+      "place": "イントラムロス（Intramuros）、マニラ旧市街",
+      "link": "https://www.intramuros.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "アキノ公園（Aquino Park）でのファミリーピクニック・水遊び",
+      "description": "広大な公園で無料ピクニック可能。遊び場、芝生広場、屋外イベント会場があります。8月は雨季ですが、晴れた時間帯の屋外活動やアイスクリーム販売も充実。",
+      "date": "8月上旬〜下旬",
+      "place": "キアポ地区（Quiapo）、マニラ",
       "link": "",
       "free": true
     },
     {
-      "title": "Rizal Park Open-Air Activities & Play Zones",
-      "description": "マニラの広大な公園で、遊具エリア、湖でのボート体験、屋外コンサート。子ども向けランニングレースやゲームイベント開催。朝の涼しい時間帯がおすすめ。",
-      "date": "8月通期（週末中心）",
-      "place": "Rizal Park, East Drive, Rizal Park, Ermita, Manila",
-      "link": "https://www.rizalpark.gov.ph",
-      "free": true
-    },
-    {
-      "title": "Children's Museum of Manila Special Programs",
-      "description": "夏休み向けの特別ワークショップ・展示会。STEM学習、アート制作、インタラクティブ遊び。乳幼児〜小学生対象の年齢別プログラムが豊富です。",
-      "date": "8月通期",
-      "place": "Children's Museum of Manila, Metro Manila",
-      "link": "https://www.cmm.org.ph",
+      "title": "フィリピン国立博物館・子ども向け特別展示",
+      "description": "複数館ある国立博物館で、恐竜化石、自然史、美術作品の展示を開催。多くの館が子ども向けプログラムやワークショップを提供します。",
+      "date": "8月上旬〜下旬",
+      "place": "フィリピン国立博物館（National Museum of the Philippines）、ルネタ公園内",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-27T05:15:45.150Z"
+  "updatedAt": "2026-08-31T01:51:03.931Z"
 }

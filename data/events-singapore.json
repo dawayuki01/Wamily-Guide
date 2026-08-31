@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "National Day Celebration（ナショナルデー）",
-      "description": "8月9日シンガポール建国記念日。パレード、花火、ライトアップなど全島で祝う。子ども向けパフォーマンスや屋台も充実。家族連れで楽しめる国家的イベント。",
+      "title": "National Day Celebrations（ナショナルデー）",
+      "description": "8月9日のシンガポール建国記念日。パレード、花火、コンサートなど家族向けイベントが各地で開催。無料エリアも多数あります。",
       "date": "8月9日前後",
-      "place": "Marina Bay、パディングフィールド、各地域スポット",
-      "link": "https://www.visitsingapore.com/en/festivals-events-singapore/national-day/",
+      "place": "Marina Bay、Padang、各地域コミュニティセンター",
+      "link": "https://www.ndp.gov.sg",
       "free": true
     },
     {
-      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
-      "description": "美術館エリアでライトアップ、プロジェクションマッピング、ファミリー向けアート体験が楽しめる。夜間の屋外イベントで子どもも大喜び。8月下旬開催予定。",
-      "date": "8月下旬（予定）",
-      "place": "Civic District（美術館周辺エリア）",
-      "link": "https://www.nightfestival.sg/",
-      "free": true
-    },
-    {
-      "title": "East Coast Park Beach Activity",
-      "description": "シンガポール最大のビーチエリア。8月は海遊び、砂浜アクティビティ、サイクリングコースなど。屋外で自然を満喫できる。安全管理された家族向けビーチ。",
-      "date": "8月通年",
-      "place": "East Coast Park, 1210 East Coast Parkway",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
-      "free": true
-    },
-    {
-      "title": "Singapore Zoo & River Safari Special Programs",
-      "description": "夏休み期間中、子ども向け教育プログラム・フィーディングタイム・ナイトツアーなど特別企画。動物との触れ合いや学習ワークショップで知育要素満載。",
-      "date": "8月通年（特別プログラム）",
-      "place": "80 Mandai Lake Road, Singapore Zoo",
-      "link": "https://www.mandaipark.com/singapore-zoo",
+      "title": "Singapore Science Centre の Summer Holiday Programme",
+      "description": "IMAX映画上映、実験ワークショップ、サイエンスショーなど子ども向け特別プログラム。手を使った学習が充実。",
+      "date": "8月全体",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg",
       "free": false
     },
     {
-      "title": "Jurong Bird Park Keeper Experience",
-      "description": "バードパークで飼育体験プログラムやインタラクティブショー開催。鳥との距離が近く、子どもの好奇心を刺激。夏のシーズン限定プログラムあり。",
-      "date": "8月通年（特別プログラム）",
-      "place": "2 Jurong Hill, Singapore",
-      "link": "https://www.birdpark.sg/",
+      "title": "Bukit Timah Nature Reserve トレッキング",
+      "description": "シンガポール最高峰のハイキングスポット。子ども向けの初級ルートあり。自然観察、野鳥観賞が楽しめます。屋外アクティビティ。",
+      "date": "8月全体（早朝推奨）",
+      "place": "177A Hindhede Drive, Singapore 589318",
+      "link": "https://www.nparks.gov.sg",
+      "free": true
+    },
+    {
+      "title": "East Coast Park ビーチ活動＆ファミリーイベント",
+      "description": "シンガポール最大のビーチパーク。砂浜での遊び、キャンプ、サイクリング。季節イベントが開催されることもあります。",
+      "date": "8月全体",
+      "place": "East Coast Park Headquarters, 1220 East Coast Parkway, Singapore 449855",
+      "link": "https://www.nparks.gov.sg",
+      "free": true
+    },
+    {
+      "title": "Singapore Zoo の Splash Splash Show & Water Play Area",
+      "description": "動物園での野外教育プログラム。水遊びエリアで涼しく遊べます。8月の暑い時期に最適なアクティビティ。",
+      "date": "8月全体",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.gov.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-27T05:15:29.025Z"
+  "updatedAt": "2026-08-31T01:50:46.568Z"
 }

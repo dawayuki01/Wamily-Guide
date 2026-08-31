@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris-Plage）",
-      "description": "セーヌ河岸に出現する砂浜。ビーチバレー、水遊び、映画上映など家族向けアクティビティが充実。入場無料で夏の風情を満喫できます。",
-      "date": "8月中旬〜8月下旬",
-      "place": "セーヌ河岸（ポン・ドゥ・ラルマ付近）、パリ",
-      "link": "https://www.paris.fr/pages/paris-plage-6680",
+      "title": "パリ・プラージュ（Paris Plage）",
+      "description": "セーヌ河岸に砂浜やビーチチェアが出現。子どもの水遊びスポットやキッズアクティビティが充実。無料で楽しめるパリの夏の風物詩です。",
+      "date": "8月中旬〜下旬（例年7月中旬〜8月中旬）",
+      "place": "セーヌ河岸、パリ中心部（1区〜4区周辺）",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "ルーヴル美術館の子ども向けワークショップ",
-      "description": "夏期プログラムとして美術館の子ども向け特別ガイドツアーやアトリエ。年齢別に名画や彫刻を学べ、創作活動も体験できます。",
-      "date": "8月上旬〜8月下旬",
-      "place": "ルーヴル美術館、パレ・ロワイヤル広場、パリ75001",
-      "link": "https://www.louvre.fr/",
-      "free": false
-    },
-    {
-      "title": "パリ・プール（public swimming pools）での水遊び",
-      "description": "パリ市内の公営プールが開放。幼児用プール完備で、夏の暑さを避けて家族で水遊び。市営なので利用料も手頃です。",
-      "date": "8月上旬〜8月下旬",
-      "place": "パリ市内各所の公営プール（Piscine）",
-      "link": "https://www.paris.fr/pages/les-piscines-23",
-      "free": false
-    },
-    {
-      "title": "ヴェルサイユ宮殿の噴水ショー＆庭園散策",
-      "description": "8月はグランド・キャナル周辺で音楽に合わせた噴水ショーが開催。広大な庭園での散策やピクニック、子ども向けの迷路も人気です。",
-      "date": "8月の週末",
-      "place": "ヴェルサイユ宮殿、ヴェルサイユ",
-      "link": "https://www.chateauversailles.fr/",
-      "free": false
-    },
-    {
-      "title": "シャン・ド・マルス公園でのピクニック＆エッフェル塔見学",
-      "description": "エッフェル塔直下の広大な芝生広場。ピクニック、凧揚げ、散策が無料。夜間はエッフェル塔のライトアップも楽しめます。",
-      "date": "8月上旬〜8月下旬",
-      "place": "シャン・ド・マルス公園、5 Avenue Anatole France, 75007 パリ",
-      "link": "https://www.paris.fr/pages/le-champ-de-mars-32",
+      "title": "フランス国立図書館の子ども向けサマープログラム",
+      "description": "読書会、工作、ストーリータイム等。図書館によって異なるプログラムで乳幼児から小学生まで対応。年間スケジュール確認が必要です。",
+      "date": "8月上旬〜下旬",
+      "place": "Bibliothèque Nationale de France (BnF) Quai François Mauriac, 75706 Paris",
+      "link": "https://www.bnf.fr",
       "free": true
+    },
+    {
+      "title": "ディスカバリー・ガーデン at パリ国立自然史博物館",
+      "description": "子どもが自然観察できる屋外ガーデン。昆虫採集や植物学習の時間帯あり。夏休みのワークショップが開催されます。",
+      "date": "8月上旬〜下旬",
+      "place": "36 Rue Geoffroy Saint-Hilaire, 75005 Paris",
+      "link": "https://www.mnhn.fr",
+      "free": false
+    },
+    {
+      "title": "エミール・ザラ公園でのピクニック＆水遊び",
+      "description": "広大な公園で家族向けピクニック。無料の遊具エリア、池での水遊びスポット。夏季は水噴水が稼働し子どもに人気です。",
+      "date": "8月通期",
+      "place": "Parc Émile Zola, Avenue Émile Zola, 75015 Paris",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "アクアリウム・デ・パリ（Aquarium of Paris）のサマー特別展示",
+      "description": "海洋生物の特別展示やフィーディングタイムが増加。子ども向けの生物解説プログラムで学習と体験を同時に。",
+      "date": "8月上旬〜下旬",
+      "place": "5 Avenue Albert de Mun, 75016 Paris",
+      "link": "https://www.aquariumdeparis.com",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-27T05:15:13.257Z"
+  "updatedAt": "2026-08-31T01:50:31.666Z"
 }
