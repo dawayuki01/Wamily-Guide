@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス郡立美術館（LACMA）キッズプログラム",
-      "description": "夏休み期間中、子ども向けの美術教室やワークショップが開催。ARTラボで創造性を育むプログラムが充実。家族向けガイドツアーも無料。",
-      "date": "8月通年",
-      "place": "5905 Wilshire Boulevard, Los Angeles, CA 90036",
-      "link": "https://www.lacma.org/",
+      "title": "LA County Fair（ロサンゼルス郡フェア）",
+      "description": "ポメロナで開催される大規模フェア。乗り物、ゲーム、動物とのふれあい、グルメなど家族向けのエンターテイメントが充実。子ども向けのアクティビティが豊富です。",
+      "date": "9月中旬〜下旬",
+      "place": "Fairplex, 1101 W. McKinley Ave, Pomona, CA 91768",
+      "link": "https://lacountyfair.com",
       "free": false
     },
     {
-      "title": "グリフィス天文台 無料夜間開放・子ども向けスターガイド",
-      "description": "8月の夜間、天文台が無料開放。子ども向けプラネタリウムショーと望遠鏡での観測体験。夏の星座を学べるイベント。駐車場も無料。",
-      "date": "8月上旬〜下旬（金土日）",
-      "place": "2800 East Observatory Road, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
+      "title": "Santa Monica Pier & Beach（サンタモニカ桟橋とビーチ）",
+      "description": "木製の桟橋上のアミューズメント施設、ビーチでの海水浴やサンドアート。9月は気候が良く、波も穏やか。親子で一日楽しめる屋外スポット。",
+      "date": "9月全期間",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
       "free": true
     },
     {
-      "title": "サンタモニカ・ビーチ サマーキャンプ体験",
-      "description": "ビーチサイドでの家族向け屋外アクティビティ。サーフレッスン、ビーチバレー、砂浜工作など。8月は波が穏やかで初心者向け。",
-      "date": "8月通年",
-      "place": "Santa Monica Beach, CA 90401",
-      "link": "https://smgov.net/departments/parks/divisions/beaches/",
+      "title": "Griffith Observatory（グリフィス天文台）",
+      "description": "無料で入場可能な天文台。プラネタリウムやロサンゼルスの夜景を楽しめます。秋の澄んだ夜空での星空観賞が最適。家族向けの展示も充実。",
+      "date": "9月全期間",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "ロサンゼルス自然史博物館 「Dino Summer」キッズプログラム",
-      "description": "夏休み期間中の恐竜展示関連プログラム。インタラクティブな化石発掘体験、古生物学者との対話タイムなど子ども向けコンテンツが充実。",
-      "date": "8月上旬〜下旬",
-      "place": "900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org/",
+      "title": "Aquarium of the Pacific（太平洋水族館）",
+      "description": "ロングビーチにある大規模水族館。9月は夏休み後の特別展示やプログラムがあり、子どもが海の生き物について学べる対話型展示が人気です。",
+      "date": "9月全期間",
+      "place": "Aquarium of the Pacific, 100 Aquarium Way, Long Beach, CA 90802",
+      "link": "https://www.aquariumofpacific.org",
       "free": false
     },
     {
-      "title": "バレンシア「Six Flags Magic Mountain」キッズナイト",
-      "description": "8月限定で家族向けの割引ナイトイベント開催。乗り物好きな子ども向けのエンターテインメント。涼しい夜間での快適な体験。",
-      "date": "8月中旬〜下旬（特定日）",
-      "place": "26101 Magic Mountain Parkway, Valencia, CA 91355",
-      "link": "https://www.sixflags.com/magicmountain",
-      "free": false
+      "title": "Los Angeles Public Library（ロサンゼルス公共図書館）- Summer Reading Program 関連イベント",
+      "description": "複数の図書館で子ども向けのストーリータイムやワークショップを開催。秋シーズンの開始時期に特別プログラムがあり、読書や工作活動が楽しめます。",
+      "date": "9月上旬〜中旬",
+      "place": "Central Library, 630 W 5th St, Los Angeles, CA 90071 他複数館",
+      "link": "https://www.lapl.org",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-31T01:51:13.795Z"
+  "updatedAt": "2026-09-03T01:39:40.834Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Statewide Obon Festival（全州盂蘭盆祭）",
-      "description": "ハワイ各地で開催される伝統的な盂蘭盆祭。提灯飾りや盆踊り、屋台など家族で楽しめる文化的なイベントです。8月中旬から下旬に各島で開催されます。",
-      "date": "8月中旬〜下旬",
-      "place": "ハワイ各島（主にホノルル、ハイロなど）",
-      "link": "https://www.gohawaii.com/",
+      "title": "Aloha Festivals（アロハ・フェスティバル）",
+      "description": "ハワイ文化を祝う約6週間のフェスティバル。フラダンス、音楽、パレード、文化展示が各島で開催。子どもも参加できるワークショップやパフォーマンスが豊富です。",
+      "date": "9月上旬〜10月中旬",
+      "place": "オアフ島各地（ワイキキ、ダウンタウンなど）",
+      "link": "https://www.alohafestivals.com",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Summer Camps & Programs",
-      "description": "ホノルル動物園の夏季プログラム。動物との交流や教育的なワークショップ。年齢別プログラムがあり、子どもの興味に合わせて選べます。",
-      "date": "8月（通年実施、夏期特別プログラム）",
-      "place": "Honolulu Zoo, Waikiki, Honolulu, HI 96815",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "ホノルル動物園の子ども向けプログラム",
+      "description": "動物との触れ合い体験やガイドツアーが充実。9月の夏休み終盤も混雑が少なく、涼しい朝間に快適に見学できます。小学生向けのワークショップも開催。",
+      "date": "9月通年",
+      "place": "ホノルル動物園（Waikiki）、151 Kapahulu Ave, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "Waikiki Beach での海水浴・サーフィン教室",
-      "description": "ハワイの代表的なビーチ。8月は水温が高く子どもに最適。初心者向けサーフィンレッスンやビーチアクティビティも豊富で、家族で1日楽しめます。",
-      "date": "8月（通年）",
-      "place": "Waikiki Beach, Honolulu, HI 96815",
-      "link": "https://www.gohawaii.com/oahu/regions/waikiki",
+      "title": "Honolulu Night Market（ホノルル・ナイト・マーケット）",
+      "description": "毎週木曜夜間開催の屋外マーケット。ハワイアンフードや工芸品が並び、ライブミュージックも楽しめます。家族向けのアクティビティゾーンもあり、夜間の涼しい時間に散策できます。",
+      "date": "9月の毎週木曜夜間",
+      "place": "Civic Center, Honolulu（場所は変動する場合あり）",
+      "link": "https://www.kakaakohonolulu.com",
       "free": true
     },
     {
-      "title": "Bishop Museum Summer Programs",
-      "description": "ハワイ最大級の博物館。夏休み限定の子ども向けプログラム、科学実験ワークショップ、ハワイ文化体験が充実しています。",
-      "date": "8月（夏期プログラム）",
-      "place": "Bishop Museum, 1525 Bernice Street, Honolulu, HI 96817",
-      "link": "https://www.bishopmuseum.org/",
+      "title": "ハナウマ湾でのシュノーケリング体験",
+      "description": "ハワイを代表するシュノーケリングスポット。カラフルな熱帯魚が見られ、子どもも楽しめます。9月は波が穏やかな傾向。ビーチでの家族向けアクティビティとして最適です。",
+      "date": "9月通年",
+      "place": "ハナウマ湾（Hanauma Bay Nature Preserve）、Kailua, Oahu, HI 96734",
+      "link": "https://www.honolulu.gov/parks/facility-names/65.html",
       "free": false
     },
     {
-      "title": "KCC Farmers Market（KCCファーマーズマーケット）",
-      "description": "毎週土曜朝に開催される地元密着型マーケット。新鮮なトロピカルフルーツ、アサイーボウル、地元グルメが楽しめます。子ども連れで買い物、食べ歩きができます。",
-      "date": "8月（毎週土曜7:30-11:00）",
-      "place": "Kapiolani Community College, 4303 Diamond Head Road, Honolulu, HI 96816",
-      "link": "https://www.honolulufarmersmarket.com/",
-      "free": true
+      "title": "Bishop Museum の子ども向けプログラム",
+      "description": "ハワイ文化・自然史を学べる博物館。9月は秋のスペシャルプログラムやインタラクティブ展示が充実。乳幼児〜小学生向けのハンズオン体験で学べます。",
+      "date": "9月通年",
+      "place": "Bishop Museum、1525 Bernice St, Honolulu, HI 96817",
+      "link": "https://www.bishopmuseum.org",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-31T01:51:21.265Z"
+  "updatedAt": "2026-09-03T01:39:51.533Z"
 }

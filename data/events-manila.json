@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィリピン独立記念日 (Araw ng Kagitingan) 関連イベント",
-      "description": "8月21日前後、マニラ市内で独立記念日を祝うパレード、コンサート、文化展示が開催。家族向けの催しや屋台が出ており、フィリピン文化を体験できます。",
-      "date": "8月中旬〜下旬（8月21日前後）",
-      "place": "リサール公園（Rizal Park）、マニラシティホール周辺",
-      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d317233-Reviews-Rizal_Park-Manila.html",
-      "free": true
-    },
-    {
-      "title": "スター シティ（Star City）サマーキャンペーン",
-      "description": "フィリピン最大級の遊園地で夏季限定のキャンペーンを開催。ファミリー向けアトラクション、キャラクターショー、割引チケットプロモーションなどが実施されます。",
-      "date": "8月上旬〜下旬",
-      "place": "スター シティ、マニラ湾沿い（Roxas Boulevard）",
-      "link": "https://www.star-city.com.ph/",
+      "title": "ザ・スターシティ・フェスティバル（The Star City Festival）",
+      "description": "スターシティ遊園地での秋のお祭り。子ども向けゲーム、アトラクション、パレードなどが開催。家族連れ向けの割引チケットも用意されています。",
+      "date": "9月中旬〜下旬",
+      "place": "スターシティ（Star City）、Parañaque市",
+      "link": "https://www.star-city.com.ph",
       "free": false
     },
     {
-      "title": "イントラムロス地区での無料探索・文化体験",
-      "description": "スペイン統治時代の城壁都市。サント・アゴスチン教会、博物館、石畳の街並みが無料で楽しめます。子ども向けガイドツアーも利用可能で、歴史文化を学べます。",
-      "date": "通年（8月も営業）",
-      "place": "イントラムロス（Intramuros）、マニラ旧市街",
-      "link": "https://www.intramuros.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "アキノ公園（Aquino Park）でのファミリーピクニック・水遊び",
-      "description": "広大な公園で無料ピクニック可能。遊び場、芝生広場、屋外イベント会場があります。8月は雨季ですが、晴れた時間帯の屋外活動やアイスクリーム販売も充実。",
-      "date": "8月上旬〜下旬",
-      "place": "キアポ地区（Quiapo）、マニラ",
+      "title": "マニラ湾沿い無料ビーチ・散歩",
+      "description": "マニラ湾の整備されたウォーターフロント地域を散歩。夕焼けが美しく、家族でリラックスできます。9月は雨の日が多いため晴れた日がおすすめ。",
+      "date": "9月中旬以降の晴天日",
+      "place": "マニラ湾ウォーターフロント（Manila Bay Waterfront Area）、Ermita地区",
       "link": "",
       "free": true
     },
     {
-      "title": "フィリピン国立博物館・子ども向け特別展示",
-      "description": "複数館ある国立博物館で、恐竜化石、自然史、美術作品の展示を開催。多くの館が子ども向けプログラムやワークショップを提供します。",
-      "date": "8月上旬〜下旬",
-      "place": "フィリピン国立博物館（National Museum of the Philippines）、ルネタ公園内",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "フィリピン国立博物館キッズプログラム（National Museum Kids Programs）",
+      "description": "恐竜展示やインタラクティブ展示、ワークショップなど。毎月テーマが変わり、小学生向けの教育的な体験ができます。涼しい屋内施設。",
+      "date": "9月中旬〜下旬（開催日確認推奨）",
+      "place": "フィリピン国立博物館（National Museum of the Philippines）、Rizal Park内",
+      "link": "https://www.nationalmuseum.gov.ph",
+      "free": true
+    },
+    {
+      "title": "アヤラモールのキッズアクティビティ・セール（Ayala Malls Kids Activities）",
+      "description": "クリスマスシーズン前の大型キャンペーン。キッズゾーンでのワークショップ、キャラクター体験、無料ミニゲームコーナーなど家族向け企画が多数。",
+      "date": "9月下旬〜10月初旬",
+      "place": "アヤラモール・マニラ湾（Ayala Malls Manila Bay）ほか複数店舗",
+      "link": "https://www.ayala-malls.com",
       "free": false
+    },
+    {
+      "title": "モアレス・アート・フェスティバル・キッズゾーン（Morales Art Festival）",
+      "description": "地域アーティストによる野外アート展示と子ども向けクリエイティブワークショップ。親子で参加できる無料の絵画・工作体験も開催。",
+      "date": "9月中旬",
+      "place": "リサール公園（Rizal Park）、Intramuros地区",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-31T01:51:03.931Z"
+  "updatedAt": "2026-09-03T01:39:31.390Z"
 }

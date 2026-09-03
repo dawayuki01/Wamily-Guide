@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plage）",
-      "description": "セーヌ河岸に砂浜やビーチチェアが出現。子どもの水遊びスポットやキッズアクティビティが充実。無料で楽しめるパリの夏の風物詩です。",
-      "date": "8月中旬〜下旬（例年7月中旬〜8月中旬）",
-      "place": "セーヌ河岸、パリ中心部（1区〜4区周辺）",
+      "title": "パリ・プラージュ（Paris Plages）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもたちが砂遊びや水遊びを楽しめ、無料で利用できる夏の風物詩。9月初旬まで開催されることが多い。",
+      "date": "9月上旬（開催終了時期による）",
+      "place": "セーヌ川沿い（ポン・ネフ周辺など複数箇所）",
       "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "フランス国立図書館の子ども向けサマープログラム",
-      "description": "読書会、工作、ストーリータイム等。図書館によって異なるプログラムで乳幼児から小学生まで対応。年間スケジュール確認が必要です。",
-      "date": "8月上旬〜下旬",
-      "place": "Bibliothèque Nationale de France (BnF) Quai François Mauriac, 75706 Paris",
-      "link": "https://www.bnf.fr",
-      "free": true
-    },
-    {
-      "title": "ディスカバリー・ガーデン at パリ国立自然史博物館",
-      "description": "子どもが自然観察できる屋外ガーデン。昆虫採集や植物学習の時間帯あり。夏休みのワークショップが開催されます。",
-      "date": "8月上旬〜下旬",
-      "place": "36 Rue Geoffroy Saint-Hilaire, 75005 Paris",
-      "link": "https://www.mnhn.fr",
+      "title": "ミュゼ・ルーヴル・アブダビ特別展示と子ども向けワークショップ",
+      "description": "ルーヴル美術館では秋シーズンに子ども向けのアート・ワークショップやガイドツアーが開催。年齢別プログラムで、家族で美術を学べる。",
+      "date": "9月中旬〜下旬",
+      "place": "ルーヴル美術館（Rue de Rivoli, 75004 Paris）",
+      "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "エミール・ザラ公園でのピクニック＆水遊び",
-      "description": "広大な公園で家族向けピクニック。無料の遊具エリア、池での水遊びスポット。夏季は水噴水が稼働し子どもに人気です。",
-      "date": "8月通期",
-      "place": "Parc Émile Zola, Avenue Émile Zola, 75015 Paris",
+      "title": "秋の庭園散策＆子ども向けガイドツアー（ヴェルサイユ宮殿）",
+      "description": "ヴェルサイユ宮殿の広大な庭園で秋の訪れを感じながら散策。子ども向けの探検ツアーが開催され、王妃の村や迷路も楽しめる。",
+      "date": "9月中旬〜下旬",
+      "place": "ヴェルサイユ宮殿（Château de Versailles, 78000 Versailles）",
+      "link": "https://www.chateauversailles.fr",
+      "free": false
+    },
+    {
+      "title": "モンマルトルの芸術祭と露店市場",
+      "description": "伝統的な芸術祭として地元アーティストの作品展示や実演、子ども向けアート教室などが催される。周辺のお祭り雰囲気を無料で楽しめる。",
+      "date": "9月中旬",
+      "place": "モンマルトル地区（Place du Tertre周辺、75018 Paris）",
       "link": "",
       "free": true
     },
     {
-      "title": "アクアリウム・デ・パリ（Aquarium of Paris）のサマー特別展示",
-      "description": "海洋生物の特別展示やフィーディングタイムが増加。子ども向けの生物解説プログラムで学習と体験を同時に。",
-      "date": "8月上旬〜下旬",
-      "place": "5 Avenue Albert de Mun, 75016 Paris",
-      "link": "https://www.aquariumdeparis.com",
-      "free": false
+      "title": "リュクサンブール公園での子ども向けアクティビティと公園散策",
+      "description": "パリ最大級の公園で無料の庭園散策。子ども用遊具、木馬、操舵ボート池での遊びが充実。秋の景観を楽しみながら家族でリラックス。",
+      "date": "9月上旬〜下旬",
+      "place": "リュクサンブール公園（Jardin du Luxembourg, 75006 Paris）",
+      "link": "https://www.senat.fr/visite/luxembourg.html",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-31T01:50:31.666Z"
+  "updatedAt": "2026-09-03T01:38:58.338Z"
 }

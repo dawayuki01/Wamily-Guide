@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム水の祭典（Stockholm Water Festival）",
-      "description": "8月中旬に開催される北欧最大級の水上イベント。コンサート、パフォーマンス、子ども向けアクティビティ、花火が楽しめます。湖畔での家族向けイベント満載。",
-      "date": "8月中旬（約10日間）",
-      "place": "ストックホルム中心部・湖畔エリア、ニューマルム地区",
-      "link": "https://www.stockholmwaterfestival.se",
-      "free": true
-    },
-    {
-      "title": "スカンセン野外博物館の夏プログラム",
-      "description": "北欧最大級の野外博物館。8月は動物園、伝統家屋、職人体験が充実。子ども向けの餌やり体験やワークショップが毎日開催されます。",
-      "date": "8月通年",
-      "place": "Djurgården, Skansen, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
+      "title": "Skansen Open Air Museum - 秋の動物園体験",
+      "description": "スウェーデン最大の野外博物館。秋の動物園では、ヘラジカやトナカイなど北欧の野生動物を観察できます。子ども向けの触れ合いコーナーも充実。",
+      "date": "9月全期間",
+      "place": "Skansen, Djurgården, Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ジューガルデン島でのフリーピクニック＆自然散策",
-      "description": "王立公園ジューガルデン島は無料で散策できる広大な緑地。夏は野生動物観察、遊び場、ビーチが充実。家族でのんびり過ごせる北欧の自然を体験できます。",
-      "date": "8月通年",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/en/visitstockholm/attractions/djurgarden",
+      "title": "Stockholm Kulturfestival（ストックホルム文化祭）",
+      "description": "スウェーデン最大の文化祭。音楽、演劇、パフォーマンスが街中で繰り広げられます。多くのイベントが無料で、子ども向けワークショップも充実。",
+      "date": "9月中旬（約2週間）",
+      "place": "Stockholm city center and various venues",
+      "link": "https://www.stockholmkulturfestival.se/",
       "free": true
     },
     {
-      "title": "ヴァーサ号博物館の子ども向けツアー＆プログラム",
-      "description": "17世紀の軍艦を保存する世界的博物館。8月は子ども向けガイドツアーやインタラクティブプログラムが実施。海の歴史を学ぶ貴重な体験ができます。",
-      "date": "8月通年",
-      "place": "Galärvägen 14, 115 21 Stockholm",
-      "link": "https://www.vasamuseet.se",
+      "title": "Vasa Museum - 特別子ども展示プログラム",
+      "description": "17世紀の軍艦を展示する博物館。秋の時期に子ども向けの特別展示やインタラクティブプログラムを開催。家族で海の歴史を学べます。",
+      "date": "9月全期間",
+      "place": "Galärvägen 14, Djurgården, Stockholm",
+      "link": "https://www.vasamuseet.se/",
       "free": false
     },
     {
-      "title": "グローナ・ルンド遊園地のサマーシーズンイベント",
-      "description": "北欧の老舗遊園地。8月はアトラクション充実、ライブパフォーマンス、キャラクターグリーティングが開催。乳幼児から小学生まで楽しめる施設が豊富。",
-      "date": "8月通年",
-      "place": "Djurgården, 115 21 Stockholm",
-      "link": "https://www.gronalund.com",
+      "title": "Drottningholm Palace - 秋のガーデンウォーク",
+      "description": "王妃の宮殿と広大な庭園。9月は秋の自然が美しく、子どもと一緒に歴史的な庭園を散策できます。屋外での無料エリアも多数。",
+      "date": "9月全期間",
+      "place": "Drottningholmsvägen, Ekerö, Stockholm",
+      "link": "https://www.royalpalaces.se/drottningholmspalace",
+      "free": true
+    },
+    {
+      "title": "Junibacken - 北欧の子ども向けテーマパーク",
+      "description": "スウェーデンの児童文学をテーマにしたテーマパーク。ムーミンハウスなどの世界観を体験でき、小学生以下の子どもに大人気のアトラクション施設。",
+      "date": "9月全期間",
+      "place": "Galärvägen 8, Djurgården, Stockholm",
+      "link": "https://www.junibacken.se/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-31T01:50:39.501Z"
+  "updatedAt": "2026-09-03T01:39:05.238Z"
 }

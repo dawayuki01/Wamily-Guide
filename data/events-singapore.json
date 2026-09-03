@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "National Day Celebrations（ナショナルデー）",
-      "description": "8月9日のシンガポール建国記念日。パレード、花火、コンサートなど家族向けイベントが各地で開催。無料エリアも多数あります。",
-      "date": "8月9日前後",
-      "place": "Marina Bay、Padang、各地域コミュニティセンター",
-      "link": "https://www.ndp.gov.sg",
+      "title": "シンガポール・モナリザ・フェスティバル（Singapore Mooncake Festival）",
+      "description": "中秋節を祝うお祭り。提灯飾り、屋台、伝統的なムーンケーキの試食が楽しめます。子ども向けの提灯作りワークショップやゲームもあります。",
+      "date": "9月中旬～下旬（旧暦8月15日前後）",
+      "place": "River Hongbao、Marina Bay周辺、各地域のコミュニティセンター",
+      "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "Singapore Science Centre の Summer Holiday Programme",
-      "description": "IMAX映画上映、実験ワークショップ、サイエンスショーなど子ども向け特別プログラム。手を使った学習が充実。",
-      "date": "8月全体",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
-      "free": false
-    },
-    {
-      "title": "Bukit Timah Nature Reserve トレッキング",
-      "description": "シンガポール最高峰のハイキングスポット。子ども向けの初級ルートあり。自然観察、野鳥観賞が楽しめます。屋外アクティビティ。",
-      "date": "8月全体（早朝推奨）",
-      "place": "177A Hindhede Drive, Singapore 589318",
-      "link": "https://www.nparks.gov.sg",
-      "free": true
-    },
-    {
-      "title": "East Coast Park ビーチ活動＆ファミリーイベント",
-      "description": "シンガポール最大のビーチパーク。砂浜での遊び、キャンプ、サイクリング。季節イベントが開催されることもあります。",
-      "date": "8月全体",
-      "place": "East Coast Park Headquarters, 1220 East Coast Parkway, Singapore 449855",
-      "link": "https://www.nparks.gov.sg",
-      "free": true
-    },
-    {
-      "title": "Singapore Zoo の Splash Splash Show & Water Play Area",
-      "description": "動物園での野外教育プログラム。水遊びエリアで涼しく遊べます。8月の暑い時期に最適なアクティビティ。",
-      "date": "8月全体",
+      "title": "シンガポール動物園・ナイトサファリ（Singapore Zoo / Night Safari）",
+      "description": "夜間営業の動物園。夜行性動物の活動を観察でき、子どもたちにとって貴重な体験。トラムライドで園内を巡ります。",
+      "date": "9月通年営業（夜間）",
       "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.gov.sg",
+      "link": "https://www.mandai.com/",
       "free": false
+    },
+    {
+      "title": "イースト・コースト・パーク（East Coast Park）でのビーチアクティビティ",
+      "description": "広大なビーチパークで遊泳、サイクリング、水上アクティビティが楽しめます。遊具エリアも充実しており、子どもたちが安全に遊べます。",
+      "date": "9月通年（屋外活動に最適）",
+      "place": "East Coast Park, Singapore",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "シンガポール・サイエンス・センター（Singapore Science Centre）",
+      "description": "子ども向けの実験ワークショップやインタラクティブ展示。9月は新しい季節展示が開始されることが多く、STEM学習に最適です。",
+      "date": "9月通年",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg/",
+      "free": false
+    },
+    {
+      "title": "ガーデンズ・バイ・ザ・ベイ（Gardens by the Bay）スーパーツリー・ライトアップ",
+      "description": "巨大な人工樹木が夜間にライトアップされるショー。無料で観賞でき、子どもたちが楽しめる幻想的な体験。併設のドームも人気です。",
+      "date": "9月通年（毎晩開催）",
+      "place": "18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-08-31T01:50:46.568Z"
+  "updatedAt": "2026-09-03T01:39:15.169Z"
 }
