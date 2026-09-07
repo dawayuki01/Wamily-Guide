@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Skansen Open Air Museum - 秋の動物園体験",
-      "description": "スウェーデン最大の野外博物館。秋の動物園では、ヘラジカやトナカイなど北欧の野生動物を観察できます。子ども向けの触れ合いコーナーも充実。",
-      "date": "9月全期間",
-      "place": "Skansen, Djurgården, Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "Skansen秋のハーベストフェスティバル",
+      "description": "北欧最大の野外博物館で、秋の収穫を祝うイベント。動物との触れ合い、伝統的な秋の食べ物、子ども向けアクティビティが充実しています。",
+      "date": "9月中旬〜10月下旬",
+      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "Stockholm Kulturfestival（ストックホルム文化祭）",
-      "description": "スウェーデン最大の文化祭。音楽、演劇、パフォーマンスが街中で繰り広げられます。多くのイベントが無料で、子ども向けワークショップも充実。",
-      "date": "9月中旬（約2週間）",
-      "place": "Stockholm city center and various venues",
-      "link": "https://www.stockholmkulturfestival.se/",
-      "free": true
-    },
-    {
-      "title": "Vasa Museum - 特別子ども展示プログラム",
-      "description": "17世紀の軍艦を展示する博物館。秋の時期に子ども向けの特別展示やインタラクティブプログラムを開催。家族で海の歴史を学べます。",
-      "date": "9月全期間",
-      "place": "Galärvägen 14, Djurgården, Stockholm",
-      "link": "https://www.vasamuseet.se/",
+      "title": "Drottningholm宮殿の庭園散策と水路巡り",
+      "description": "ユネスコ世界遺産のドロットニングホルム宮殿で秋の庭園を散策。水路でのボート乗車体験も可能。家族向けガイドツアーあり。",
+      "date": "9月上旬〜下旬",
+      "place": "Drottningholms slott, 178 02 Drottningholm",
+      "link": "https://www.drottningholmsslott.se",
       "free": false
     },
     {
-      "title": "Drottningholm Palace - 秋のガーデンウォーク",
-      "description": "王妃の宮殿と広大な庭園。9月は秋の自然が美しく、子どもと一緒に歴史的な庭園を散策できます。屋外での無料エリアも多数。",
-      "date": "9月全期間",
-      "place": "Drottningholmsvägen, Ekerö, Stockholm",
-      "link": "https://www.royalpalaces.se/drottningholmspalace",
+      "title": "Stockholm城塞島（Skeppsholmen）での無料探検",
+      "description": "中心部から船で5分の島。歴史的建造物、美術館、カフェ、公園があり、子どもと無料で散策・探検できます。秋の風景も美しい。",
+      "date": "9月通年可能",
+      "place": "Skeppsholmen, Stockholm",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "Junibacken - 北欧の子ども向けテーマパーク",
-      "description": "スウェーデンの児童文学をテーマにしたテーマパーク。ムーミンハウスなどの世界観を体験でき、小学生以下の子どもに大人気のアトラクション施設。",
-      "date": "9月全期間",
-      "place": "Galärvägen 8, Djurgården, Stockholm",
-      "link": "https://www.junibacken.se/",
+      "title": "Naturhistoriska Riksmuseum（自然史博物館）の特別展示",
+      "description": "恐竜化石、動物標本、インタラクティブ展示。秋の特別プログラムや子ども向けワークショップが開催され、学びと遊びが融合。",
+      "date": "9月通年",
+      "place": "Naturhistoriska riksmuseet, Frescativägen 40, Stockholm",
+      "link": "https://www.nrm.se",
+      "free": false
+    },
+    {
+      "title": "Junibackenの屋内テーマパーク体験",
+      "description": "北欧の児童文学キャラクターをテーマにした屋内施設。乳幼児〜小学生向けのアトラクション、演劇、クリエイティブワークショップが充実。",
+      "date": "9月通年",
+      "place": "Junibacken, Galärvägen 14, Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-03T01:39:05.238Z"
+  "updatedAt": "2026-09-07T01:27:10.373Z"
 }

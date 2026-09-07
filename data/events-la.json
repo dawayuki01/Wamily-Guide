@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "LA County Fair（ロサンゼルス郡フェア）",
-      "description": "ポメロナで開催される大規模フェア。乗り物、ゲーム、動物とのふれあい、グルメなど家族向けのエンターテイメントが充実。子ども向けのアクティビティが豊富です。",
-      "date": "9月中旬〜下旬",
-      "place": "Fairplex, 1101 W. McKinley Ave, Pomona, CA 91768",
-      "link": "https://lacountyfair.com",
+      "title": "ロサンゼルス・カウンティ・フェア（LA County Fair）",
+      "description": "9月中旬〜10月上旬に開催される南カリフォルニア最大級の農業祭。子ども向けの乗り物、動物との触れ合い、楽しい食べ物が豊富で、家族向けアトラクションが充実しています。",
+      "date": "9月中旬〜10月上旬",
+      "place": "Pomona Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://lacountyfair.com/",
       "free": false
     },
     {
-      "title": "Santa Monica Pier & Beach（サンタモニカ桟橋とビーチ）",
-      "description": "木製の桟橋上のアミューズメント施設、ビーチでの海水浴やサンドアート。9月は気候が良く、波も穏やか。親子で一日楽しめる屋外スポット。",
-      "date": "9月全期間",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
+      "title": "ハンティントンビーチ サーフシティ USA ビーチクリーンアップ＆ファミリーデー",
+      "description": "太平洋のビーチで無料のファミリー向けイベント。子どもたちが砂遊びをしたり、波で遊んだり、地元の海の生き物を学べます。9月は天候も良く、水温も適切です。",
+      "date": "9月中旬～下旬（毎週末開催）",
+      "place": "Huntington Beach Main Beach Pier, 1 Pacific Coast Hwy, Huntington Beach, CA 92648",
+      "link": "https://www.surfcityusa.com/",
       "free": true
     },
     {
-      "title": "Griffith Observatory（グリフィス天文台）",
-      "description": "無料で入場可能な天文台。プラネタリウムやロサンゼルスの夜景を楽しめます。秋の澄んだ夜空での星空観賞が最適。家族向けの展示も充実。",
-      "date": "9月全期間",
+      "title": "グリフィス天文台 秋の無料イベント",
+      "description": "ロサンゼルス最高の無料観光地。プラネタリウムショー、天体観測、展望台からの街景色。子ども向けの科学展示が充実し、ハイキングも楽しめます。9月の夜間開館でスターガイドプログラムもあります。",
+      "date": "9月通年（特に夜間）",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "Aquarium of the Pacific（太平洋水族館）",
-      "description": "ロングビーチにある大規模水族館。9月は夏休み後の特別展示やプログラムがあり、子どもが海の生き物について学べる対話型展示が人気です。",
-      "date": "9月全期間",
-      "place": "Aquarium of the Pacific, 100 Aquarium Way, Long Beach, CA 90802",
-      "link": "https://www.aquariumofpacific.org",
+      "title": "ナッツベリーファーム ファミリーフェスティバル",
+      "description": "アナハイムの歴史あるテーマパーク。秋のシーズンイベントでは子ども向けショー、キャラクター出演、季節限定アトラクション、家族向けアクティビティが展開されます。",
+      "date": "9月中旬～下旬",
+      "place": "Knott's Berry Farm, 8039 Beach Blvd, Buena Park, CA 90620",
+      "link": "https://www.knotts.com/",
       "free": false
     },
     {
-      "title": "Los Angeles Public Library（ロサンゼルス公共図書館）- Summer Reading Program 関連イベント",
-      "description": "複数の図書館で子ども向けのストーリータイムやワークショップを開催。秋シーズンの開始時期に特別プログラムがあり、読書や工作活動が楽しめます。",
-      "date": "9月上旬〜中旬",
-      "place": "Central Library, 630 W 5th St, Los Angeles, CA 90071 他複数館",
-      "link": "https://www.lapl.org",
+      "title": "サンタモニカ桟橋 キッズゲーム＆アトラクション",
+      "description": "太平洋岸の歴史的な遊園地。観覧車、子ども向けゲーム、アーケード、ビーチアクセス。9月の涼しい季節に家族でゆったり楽しめ、夕焼けも素晴らしいです。",
+      "date": "9月通年（毎日営業）",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-03T01:39:40.834Z"
+  "updatedAt": "2026-09-07T01:27:49.743Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plages）",
-      "description": "セーヌ川沿いに砂浜が出現。子どもたちが砂遊びや水遊びを楽しめ、無料で利用できる夏の風物詩。9月初旬まで開催されることが多い。",
-      "date": "9月上旬（開催終了時期による）",
-      "place": "セーヌ川沿い（ポン・ネフ周辺など複数箇所）",
+      "title": "パリ・プラージュ（Paris Plage）",
+      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊びできるプール、滑り台、砂場など。9月も営業していることが多く、家族向けアクティビティが充実しています。",
+      "date": "9月上旬〜中旬",
+      "place": "セーヌ川沿い（ポン・ネフ周辺など複数箇所）、パリ",
       "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "ミュゼ・ルーヴル・アブダビ特別展示と子ども向けワークショップ",
-      "description": "ルーヴル美術館では秋シーズンに子ども向けのアート・ワークショップやガイドツアーが開催。年齢別プログラムで、家族で美術を学べる。",
-      "date": "9月中旬〜下旬",
-      "place": "ルーヴル美術館（Rue de Rivoli, 75004 Paris）",
-      "link": "https://www.louvre.fr",
-      "free": false
-    },
-    {
-      "title": "秋の庭園散策＆子ども向けガイドツアー（ヴェルサイユ宮殿）",
-      "description": "ヴェルサイユ宮殿の広大な庭園で秋の訪れを感じながら散策。子ども向けの探検ツアーが開催され、王妃の村や迷路も楽しめる。",
-      "date": "9月中旬〜下旬",
-      "place": "ヴェルサイユ宮殿（Château de Versailles, 78000 Versailles）",
-      "link": "https://www.chateauversailles.fr",
-      "free": false
-    },
-    {
-      "title": "モンマルトルの芸術祭と露店市場",
-      "description": "伝統的な芸術祭として地元アーティストの作品展示や実演、子ども向けアート教室などが催される。周辺のお祭り雰囲気を無料で楽しめる。",
-      "date": "9月中旬",
-      "place": "モンマルトル地区（Place du Tertre周辺、75018 Paris）",
+      "title": "秋の蚤の市（Vide-greniers）",
+      "description": "パリ郊外やモンマルトルで開催される大規模な蚤の市。おもちゃや子ども用品が豊富。家族連れが多く、屋外で探索するのが楽しい季節です。",
+      "date": "9月上旬〜下旬（週末）",
+      "place": "モンマルトル広場ほかパリ各地",
       "link": "",
       "free": true
     },
     {
-      "title": "リュクサンブール公園での子ども向けアクティビティと公園散策",
-      "description": "パリ最大級の公園で無料の庭園散策。子ども用遊具、木馬、操舵ボート池での遊びが充実。秋の景観を楽しみながら家族でリラックス。",
-      "date": "9月上旬〜下旬",
-      "place": "リュクサンブール公園（Jardin du Luxembourg, 75006 Paris）",
-      "link": "https://www.senat.fr/visite/luxembourg.html",
+      "title": "シテ科学産業博物館の子ども向け展示・ワークショップ",
+      "description": "パリ北東部のラ・ヴィレット公園内。9月は新学期の特別プログラムが充実。子ども向けの実験教室やプラネタリウムが人気です。",
+      "date": "9月中旬〜下旬",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
+      "free": false
+    },
+    {
+      "title": "ルクセンブルク公園での屋外遊び・乗馬体験",
+      "description": "パリ最大級の公園。ポニー乗馬、遊び場、人形劇、木のボートで池で遊べます。9月の心地よい気候で子どもと遊ぶのに最適な季節です。",
+      "date": "9月上旬〜下旬（通年営業、天候による）",
+      "place": "Rue de Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite/index.html",
       "free": true
+    },
+    {
+      "title": "モンマルトルの子ども向け美術館・工房プログラム",
+      "description": "アール・ブリュット美術館など小規模美術館では秋の子ども向け造形ワークショップを開催。絵の具遊びやモザイク制作など体験型です。",
+      "date": "9月中旬〜下旬",
+      "place": "モンマルトル地区、パリ18区",
+      "link": "https://www.halledesaint-pierre.net",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-03T01:38:58.338Z"
+  "updatedAt": "2026-09-07T01:27:03.316Z"
 }

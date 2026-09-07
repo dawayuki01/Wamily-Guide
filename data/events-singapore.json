@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・モナリザ・フェスティバル（Singapore Mooncake Festival）",
-      "description": "中秋節を祝うお祭り。提灯飾り、屋台、伝統的なムーンケーキの試食が楽しめます。子ども向けの提灯作りワークショップやゲームもあります。",
-      "date": "9月中旬～下旬（旧暦8月15日前後）",
-      "place": "River Hongbao、Marina Bay周辺、各地域のコミュニティセンター",
+      "title": "Mid-Autumn Festival（中秋節）",
+      "description": "提灯飾りやランタン放流、伝統菓子の販売など。子どもたちが提灯を持ってパレードに参加できます。チャイナタウンやシティホールが中心地。",
+      "date": "9月下旬（旧暦8月15日前後）",
+      "place": "Chinatown, Singapore",
       "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "シンガポール動物園・ナイトサファリ（Singapore Zoo / Night Safari）",
-      "description": "夜間営業の動物園。夜行性動物の活動を観察でき、子どもたちにとって貴重な体験。トラムライドで園内を巡ります。",
-      "date": "9月通年営業（夜間）",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.mandai.com/",
+      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
+      "description": "ナショナル・ミュージアムやアートスペースでアート展示やインタラクティブ体験が開催。子ども向けのワークショップも充実。9月中旬開催。",
+      "date": "9月中旬",
+      "place": "Museum Planning Area, Singapore",
+      "link": "https://www.nightfestival.sg/",
       "free": false
     },
     {
-      "title": "イースト・コースト・パーク（East Coast Park）でのビーチアクティビティ",
-      "description": "広大なビーチパークで遊泳、サイクリング、水上アクティビティが楽しめます。遊具エリアも充実しており、子どもたちが安全に遊べます。",
-      "date": "9月通年（屋外活動に最適）",
-      "place": "East Coast Park, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
-      "free": true
-    },
-    {
-      "title": "シンガポール・サイエンス・センター（Singapore Science Centre）",
-      "description": "子ども向けの実験ワークショップやインタラクティブ展示。9月は新しい季節展示が開始されることが多く、STEM学習に最適です。",
-      "date": "9月通年",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg/",
-      "free": false
-    },
-    {
-      "title": "ガーデンズ・バイ・ザ・ベイ（Gardens by the Bay）スーパーツリー・ライトアップ",
-      "description": "巨大な人工樹木が夜間にライトアップされるショー。無料で観賞でき、子どもたちが楽しめる幻想的な体験。併設のドームも人気です。",
-      "date": "9月通年（毎晩開催）",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
+      "title": "Gardens by the Bay - September Activities",
+      "description": "屋外庭園での季節の花展示やファミリー向けガイドツアー。Supertree Groveのライトアップは必見。子ども向けのアクティビティプログラム開催。",
+      "date": "9月上旬〜下旬",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
       "link": "https://www.gardensbythebay.com.sg/",
+      "free": false
+    },
+    {
+      "title": "Marina Barrage - Family Outdoor Activities",
+      "description": "無料で利用できる公園。凧揚げ、ピクニック、川遊びが楽しめます。子連れ家族向けのワークショップも随時開催。シンガポール川での屋外アクティビティ。",
+      "date": "9月上旬〜下旬",
+      "place": "Marina Barrage, 8 Marina Gardens Drive, Singapore 018951",
+      "link": "https://www.pub.gov.sg/marinabarrage",
       "free": true
+    },
+    {
+      "title": "National Museum Singapore - Family Programmes",
+      "description": "子ども向けの特別展示やワークショップ。シンガポール文化や自然についての体験型展示。9月の夏休みプログラムで家族向けアクティビティ充実。",
+      "date": "9月上旬〜下旬",
+      "place": "National Museum of Singapore, 93 Stamford Road, Singapore 178897",
+      "link": "https://www.nationalmuseum.sg/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-03T01:39:15.169Z"
+  "updatedAt": "2026-09-07T01:27:19.119Z"
 }

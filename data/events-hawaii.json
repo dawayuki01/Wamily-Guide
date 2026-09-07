@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Aloha Festivals（アロハ・フェスティバル）",
-      "description": "ハワイ文化を祝う約6週間のフェスティバル。フラダンス、音楽、パレード、文化展示が各島で開催。子どもも参加できるワークショップやパフォーマンスが豊富です。",
-      "date": "9月上旬〜10月中旬",
-      "place": "オアフ島各地（ワイキキ、ダウンタウンなど）",
-      "link": "https://www.alohafestivals.com",
+      "description": "ハワイ文化を祝う約6週間のフェスティバル。パレード、フラダンス、音楽ライブなど家族向けイベントが多数。9月はメインの開催時期で、子どもも参加できるワークショップがあります。",
+      "date": "9月上旬〜下旬",
+      "place": "ホノルル市内各地（オアフ島）",
+      "link": "https://www.alohafestivals.com/",
       "free": true
     },
     {
-      "title": "ホノルル動物園の子ども向けプログラム",
-      "description": "動物との触れ合い体験やガイドツアーが充実。9月の夏休み終盤も混雑が少なく、涼しい朝間に快適に見学できます。小学生向けのワークショップも開催。",
-      "date": "9月通年",
-      "place": "ホノルル動物園（Waikiki）、151 Kapahulu Ave, Honolulu, HI 96815",
-      "link": "https://www.honoluluzoo.org",
+      "title": "Honolulu Zoo（ホノルル動物園）の子ども向けプログラム",
+      "description": "動物園内で実施される季節限定の子ども向けエデュケーションプログラム。ハワイ固有の動物について学べ、インタラクティブな体験ができます。乳幼児から楽しめます。",
+      "date": "9月通年実施",
+      "place": "Honolulu Zoo, 151 Kapiolani Park, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "Honolulu Night Market（ホノルル・ナイト・マーケット）",
-      "description": "毎週木曜夜間開催の屋外マーケット。ハワイアンフードや工芸品が並び、ライブミュージックも楽しめます。家族向けのアクティビティゾーンもあり、夜間の涼しい時間に散策できます。",
-      "date": "9月の毎週木曜夜間",
-      "place": "Civic Center, Honolulu（場所は変動する場合あり）",
-      "link": "https://www.kakaakohonolulu.com",
+      "title": "Waikiki Aquarium（ワイキキ水族館）の季節展示",
+      "description": "ハワイの海洋生物を観察できる水族館。秋季の特別展示では、季節ごとの海の生き物の行動が学べます。子ども連れに人気で、ベビーカーも使用可能です。",
+      "date": "9月通年実施",
+      "place": "Waikiki Aquarium, 2777 Kalakaua Avenue, Honolulu, HI 96815",
+      "link": "https://www.waikikiaquarium.org/",
+      "free": false
+    },
+    {
+      "title": "Duke Kahanamoku Beach Park でのビーチクリーンアップ＆シュノーケリング",
+      "description": "子ども向けのビーチクリーンアップボランティア後、家族でシュノーケリングが楽しめます。海の環境学習と海洋生物観察が同時にでき、多くの回は無料または低額です。",
+      "date": "9月中旬〜下旬の週末",
+      "place": "Duke Kahanamoku Beach Park, Haleiwa, HI 96712",
+      "link": "",
       "free": true
     },
     {
-      "title": "ハナウマ湾でのシュノーケリング体験",
-      "description": "ハワイを代表するシュノーケリングスポット。カラフルな熱帯魚が見られ、子どもも楽しめます。9月は波が穏やかな傾向。ビーチでの家族向けアクティビティとして最適です。",
-      "date": "9月通年",
-      "place": "ハナウマ湾（Hanauma Bay Nature Preserve）、Kailua, Oahu, HI 96734",
-      "link": "https://www.honolulu.gov/parks/facility-names/65.html",
-      "free": false
-    },
-    {
-      "title": "Bishop Museum の子ども向けプログラム",
-      "description": "ハワイ文化・自然史を学べる博物館。9月は秋のスペシャルプログラムやインタラクティブ展示が充実。乳幼児〜小学生向けのハンズオン体験で学べます。",
-      "date": "9月通年",
-      "place": "Bishop Museum、1525 Bernice St, Honolulu, HI 96817",
-      "link": "https://www.bishopmuseum.org",
+      "title": "Diamond Head（ダイヤモンドヘッド）ファミリーハイキング",
+      "description": "ハワイを代表するランドマーク。往復約30分の子ども向けハイキングコース。9月は朝夕が涼しく、頂上からの絶景とハワイの自然を家族で満喫できます。",
+      "date": "9月通年（早朝推奨）",
+      "place": "Diamond Head State Park, 3908 Diamond Head Road, Honolulu, HI 96816",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-03T01:39:51.533Z"
+  "updatedAt": "2026-09-07T01:28:00.040Z"
 }
