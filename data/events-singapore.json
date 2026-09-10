@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Mid-Autumn Festival（中秋節）",
-      "description": "提灯飾りやランタン放流、伝統菓子の販売など。子どもたちが提灯を持ってパレードに参加できます。チャイナタウンやシティホールが中心地。",
-      "date": "9月下旬（旧暦8月15日前後）",
-      "place": "Chinatown, Singapore",
-      "link": "https://www.stb.gov.sg/",
+      "description": "提灯飾り、伝統的なお菓子、ライトアップが楽しめるお祭り。子どもたちが提灯を持って歩き、文化体験ができます。複数の公園で開催されます。",
+      "date": "9月中旬〜下旬",
+      "place": "River Hongbao、Bedok Reservoir Park、West Coast Park ほか",
+      "link": "https://www.visitsingapore.com/",
       "free": true
     },
     {
-      "title": "Singapore Night Festival（シンガポール・ナイト・フェスティバル）",
-      "description": "ナショナル・ミュージアムやアートスペースでアート展示やインタラクティブ体験が開催。子ども向けのワークショップも充実。9月中旬開催。",
-      "date": "9月中旬",
-      "place": "Museum Planning Area, Singapore",
-      "link": "https://www.nightfestival.sg/",
-      "free": false
-    },
-    {
-      "title": "Gardens by the Bay - September Activities",
-      "description": "屋外庭園での季節の花展示やファミリー向けガイドツアー。Supertree Groveのライトアップは必見。子ども向けのアクティビティプログラム開催。",
-      "date": "9月上旬〜下旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg/",
-      "free": false
-    },
-    {
-      "title": "Marina Barrage - Family Outdoor Activities",
-      "description": "無料で利用できる公園。凧揚げ、ピクニック、川遊びが楽しめます。子連れ家族向けのワークショップも随時開催。シンガポール川での屋外アクティビティ。",
-      "date": "9月上旬〜下旬",
-      "place": "Marina Barrage, 8 Marina Gardens Drive, Singapore 018951",
-      "link": "https://www.pub.gov.sg/marinabarrage",
+      "title": "Singapore Night Festival",
+      "description": "美術館や文化施設がライトアップされ、アート展示やパフォーマンスが楽しめるナイトイベント。家族向けのワークショップやアクティビティも充実。",
+      "date": "9月中旬（年1回開催）",
+      "place": "Museum Planning Area, Stamford Road周辺",
+      "link": "https://www.singaporenightfestival.com/",
       "free": true
     },
     {
-      "title": "National Museum Singapore - Family Programmes",
-      "description": "子ども向けの特別展示やワークショップ。シンガポール文化や自然についての体験型展示。9月の夏休みプログラムで家族向けアクティビティ充実。",
-      "date": "9月上旬〜下旬",
-      "place": "National Museum of Singapore, 93 Stamford Road, Singapore 178897",
-      "link": "https://www.nationalmuseum.sg/",
+      "title": "Universal Studios Singapore - キッズスペシャルプログラム",
+      "description": "年間を通じたキャラクターグリーティング、シーズナルイベント。9月は新しいアトラクションやファミリー向けショーが楽しめます。",
+      "date": "9月通年",
+      "place": "Sentosa Island, 8 Sentosa Gateway",
+      "link": "https://www.universalstudiosingapore.com/",
+      "free": false
+    },
+    {
+      "title": "East Coast Park Coastal Cleanup & Family Day",
+      "description": "ビーチクリーンアップイベント。家族で参加でき、終了後はビーチで自由に遊べます。自然体験と環境学習が同時にできます。",
+      "date": "9月下旬（時期は毎年異なる）",
+      "place": "East Coast Park",
+      "link": "https://www.nparks.gov.sg/",
+      "free": true
+    },
+    {
+      "title": "National Gallery Singapore - Family Art Workshops",
+      "description": "子ども向けのアートワークショップ。創造性を育みながら、シンガポールの美術作品を学べます。事前予約で参加できます。",
+      "date": "9月通年（週末・祝日開催）",
+      "place": "National Gallery Singapore, 1 St Andrew's Road",
+      "link": "https://www.nationalgallery.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-07T01:27:19.119Z"
+  "updatedAt": "2026-09-10T01:39:10.951Z"
 }

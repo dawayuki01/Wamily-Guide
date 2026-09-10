@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ルンピニ公園でのアウトドアアクティビティ",
-      "description": "バンコク最大級の公園で、朝の散歩、自転車レンタル、子ども向けプレイグラウンドが楽しめます。9月は朝夕が涼しく、家族連れに最適です。",
-      "date": "9月通年",
-      "place": "ルンピニ公園、Rama IV Rd, Bangkok",
-      "link": "https://www.bangkok.go.th",
-      "free": true
-    },
-    {
-      "title": "サイアム・パラゴン水族館の特別展示",
-      "description": "東南アジア最大規模の水族館。9月は新しい海洋生物の特別展示やキッズ向けワークショップが開催されることが多いです。",
-      "date": "9月上旬〜下旬",
-      "place": "サイアム・パラゴン、991 Rama I Rd, Bangkok",
-      "link": "https://www.siamparagon.co.th",
+      "title": "ナイト・サファリ・バンコク (Night Safari Bangkok)",
+      "description": "夜間に野生動物を観察できる施設。子どもたちが安全に動物たちの夜の行動を学べる教育的なアクティビティ。乗車型ツアーで疲れにくい。",
+      "date": "9月通年営業",
+      "place": "Night Safari Bangkok, 99/9 Moo 4, Soi Ramintra 113, Ramintra Road, Bangkok 10230",
+      "link": "https://www.nightsafaribangkok.com",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウイークエンド・マーケット",
-      "description": "世界最大級の市場で、毎週末開催。子ども向けのおもちゃ、服、雑貨が豊富です。朝8時〜正午の訪問がおすすめです。",
-      "date": "9月毎週末（土日）",
-      "place": "チャトゥチャック・ウイークエンド・マーケット、Phahon Yothin Rd, Bangkok",
+      "title": "チャトゥチャック・ウィークエンド・マーケット (Chatuchak Weekend Market)",
+      "description": "世界最大級の週末市場。毎週土日に開催。子ども向けおもちゃ、衣類、軽食が豊富。午前中が狙い目で比較的涼しく人出も少なめ。",
+      "date": "9月の毎週土日（営業日注要確認）",
+      "place": "Chatuchak Weekend Market, 587/10 Kamphaeng Phet Rd, Bangkok 10900",
       "link": "https://www.chatuchakmarket.org",
       "free": true
     },
     {
-      "title": "ムアン・ボーラン（古都）での歴史体験",
-      "description": "タイの古い建築物を再現した野外博物館。乗馬や象乗り体験ができ、タイ文化を学べます。屋外での活動的な学習に最適。",
-      "date": "9月上旬〜中旬（雨季で午後の訪問は避け朝訪問推奨）",
-      "place": "ムアン・ボーラン、33 Moo 3, Samphran District, Nakhon Pathom",
-      "link": "https://www.muangboran.com",
+      "title": "サイアム・パラゴン水族館 (Siam Paragon Aquarium)",
+      "description": "大規模な室内水族館。9月の雨季でも快適に楽しめる。タッチプールや給餌体験など子ども向けプログラムが豊富。エアコン完備で暑さ対策も万全。",
+      "date": "9月通年営業",
+      "place": "Siam Paragon Aquarium, Siam Paragon, 991 Rama I Rd, Bangkok 10330",
+      "link": "https://www.siamparagon.co.th/en/aquarium",
       "free": false
     },
     {
-      "title": "バンコク国立博物館のファミリー向けガイドツアー",
-      "description": "タイの歴史と文化を学べる博物館。9月は子ども向けの特別ガイドツアーが週末に開催されます。教育的で涼しい屋内活動です。",
-      "date": "9月毎週土曜日",
-      "place": "バンコク国立博物館、Na Phra That Rd, Bangkok",
-      "link": "https://www.bnmuseum.com",
+      "title": "ルンピニ公園 (Lumphini Park)",
+      "description": "バンコク中心部の広大な緑地公園。早朝のラジオ体操イベント（タイ国民が参加）や散策が無料。池でスイレンやトンボが観察できる教育的スポット。",
+      "date": "9月通年営業",
+      "place": "Lumphini Park, Rama IV Rd, Bangkok 10330",
+      "link": "https://www.bangkok.go.th",
+      "free": true
+    },
+    {
+      "title": "キッザニア・バンコク (KidZania Bangkok)",
+      "description": "子どもが様々な職業体験できるテーマパーク。室内完全空調で9月の天候に左右されない。保護者の付添も可能で親子で楽しめる。",
+      "date": "9月通年営業（営業時間・定休日は事前確認）",
+      "place": "KidZania Bangkok, EmQuartier, 689 Sukhumvit Rd, Bangkok 10110",
+      "link": "https://www.kidzania.co.th",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-03T01:39:23.116Z"
+  "updatedAt": "2026-09-10T01:39:21.480Z"
 }

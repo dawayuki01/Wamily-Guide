@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "SM Mall of Asia キッズフェスティバル",
-      "description": "マニラ最大級のショッピングモールで開催される子ども向けイベント。ゲーム、ワークショップ、キャラクターショーなど家族で楽しめるアクティビティが充実。",
-      "date": "9月上旬〜中旬",
-      "place": "SM Mall of Asia, Bay Boulevard, Pasay City",
-      "link": "https://www.smmallofasia.com/",
+      "title": "Manila Bay Sunset Cruises & Family Boat Tours",
+      "description": "マニラ湾でのサンセット クルーズ。家族向けの安全な船舶で、夕焼けを眺めながら海の風を感じられます。乳幼児も参加でき、思い出深い体験ができます。",
+      "date": "9月通年（毎日運行）",
+      "place": "Manila Bay, Rizal Park vicinity, Manila",
+      "link": "",
+      "free": false
+    },
+    {
+      "title": "Rizal Park（リサール公園）での屋外活動",
+      "description": "マニラの広大な公園。子どもの遊び場、自転車道、ピクニックエリアがあります。9月は雨季ですが午前中は晴れることが多く、無料で家族全員で楽しめます。",
+      "date": "9月通年（午前推奨）",
+      "place": "Rizal Park, Padre Burgos Avenue, Manila",
+      "link": "https://www.tripadvisor.com/Tourism-g317155-Manila_Calabarzon_Region_Calabarzon_Tagalog_Region_Calabarzon_Central_Luzon.html",
       "free": true
     },
     {
-      "title": "Rizal Park での家族向けアウトドアイベント",
-      "description": "マニラ市内の広大な公園でのピクニックやサイクリング。無料で楽しめる緑地。9月は雨季ですが晴れた日に最適。子どもの運動能力を伸ばす屋外遊び。",
+      "title": "Enchanted Kingdom Special September Programs",
+      "description": "大型テーマパーク。9月は学校休暇シーズンで子ども向けプログラム充実。アトラクション、キャラクターミートなど家族向けイベント多数。",
       "date": "9月中旬〜下旬",
-      "place": "Rizal Park, Luneta, Manila",
-      "link": "https://www.tourism.gov.ph/",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna（マニラから1時間）",
+      "link": "https://www.enchantedkingdom.com.ph",
+      "free": false
+    },
+    {
+      "title": "National Museum Free Entry Day",
+      "description": "フィリピン国立博物館。毎月最終日曜日は無料入場。9月は自然史、美術、人類学など多様な展示で子どもの学習に最適です。",
+      "date": "9月最終日曜日",
+      "place": "National Museum Complex, Padre Burgos Avenue, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": true
     },
     {
-      "title": "フィリピン国立博物館 キッズプログラム",
-      "description": "子ども向けの特別展示ツアーやワークショップ。フィリピンの歴史・文化を学べます。毎週末にアクティビティを開催。小学生向けプログラムが充実。",
-      "date": "9月通期（週末）",
-      "place": "National Museum of the Philippines, Padre Burgos, Manila",
-      "link": "https://nationalmuseum.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "マニラ湾クルーズ 夕焼けツアー",
-      "description": "家族向けの安全なボートツアー。マニラ湾からの美しい夕焼けを観賞。乳幼児連れでも利用できるクルーズ船が多数。海からの街の景色が印象的。",
-      "date": "9月通期",
-      "place": "Manila Bay, Baywalk, Pasay City",
-      "link": "https://www.tourism.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "Enchanted Kingdom 9月スペシャルイベント",
-      "description": "フィリピン最大のテーマパーク。ファミリー向けのアトラクションとショーが充実。乳幼児向けエリアも完備。9月はローシーズンで比較的空いている。",
-      "date": "9月通期",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
-      "link": "https://www.enchantedkingdom.ph/",
+      "title": "SM Mall of Asia - Family Weekend Events",
+      "description": "大型ショッピングモール。9月の週末は子ども向けワークショップ、遊び場イベント、エンターテイメント実施。雨季対策として屋内での家族活動に最適。",
+      "date": "9月の週末",
+      "place": "SM Mall of Asia, Entertainment City, Manila Bay",
+      "link": "https://www.smmallofasia.com.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-07T01:27:38.138Z"
+  "updatedAt": "2026-09-10T01:39:30.934Z"
 }
