@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Aloha Festivals（アロハ・フェスティバル）",
-      "description": "ハワイ文化を祝う約6週間のフェスティバル。パレード、フラダンス、音楽ライブなど家族向けイベントが多数。9月はメインの開催時期で、子どもも参加できるワークショップがあります。",
-      "date": "9月上旬〜下旬",
-      "place": "ホノルル市内各地（オアフ島）",
+      "description": "ハワイ文化を祝う大型フェスティバル。フラダンス、音楽、工芸品展示など家族向けイベント満載。子どもも参加できるワークショップが充実。",
+      "date": "9月上旬〜10月中旬",
+      "place": "オアフ島全域（メイン会場：ワイキキ）",
       "link": "https://www.alohafestivals.com/",
       "free": true
     },
     {
-      "title": "Honolulu Zoo（ホノルル動物園）の子ども向けプログラム",
-      "description": "動物園内で実施される季節限定の子ども向けエデュケーションプログラム。ハワイ固有の動物について学べ、インタラクティブな体験ができます。乳幼児から楽しめます。",
-      "date": "9月通年実施",
-      "place": "Honolulu Zoo, 151 Kapiolani Park, Honolulu, HI 96815",
+      "title": "Honolulu Zoo（ホノルル動物園）の家族向けプログラム",
+      "description": "9月は動物園の特別教育プログラムが充実。子ども向けのアニマルトークやハンズオン体験で、ハワイの生態系を学べます。",
+      "date": "9月通年",
+      "place": "ホノルル動物園、ワイキキ、3651 Kalakaua Ave, Honolulu",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "Waikiki Aquarium（ワイキキ水族館）の季節展示",
-      "description": "ハワイの海洋生物を観察できる水族館。秋季の特別展示では、季節ごとの海の生き物の行動が学べます。子ども連れに人気で、ベビーカーも使用可能です。",
-      "date": "9月通年実施",
-      "place": "Waikiki Aquarium, 2777 Kalakaua Avenue, Honolulu, HI 96815",
-      "link": "https://www.waikikiaquarium.org/",
+      "title": "Snorkel at Hanauma Bay Nature Preserve（ハナウマ湾での シュノーケリング）",
+      "description": "ハワイを代表するシュノーケルスポット。遠浅で小学生から楽しめます。カラフルな魚やウミガメに出会える屋外アクティビティ。",
+      "date": "9月通年（水曜定休）",
+      "place": "ハナウマ湾自然保護区、オアフ島東部、7455 Kalanianaole Hwy",
+      "link": "https://www.honolulu.gov/parks/facility-rental/hanauma-bay-nature-preserve.html",
       "free": false
     },
     {
-      "title": "Duke Kahanamoku Beach Park でのビーチクリーンアップ＆シュノーケリング",
-      "description": "子ども向けのビーチクリーンアップボランティア後、家族でシュノーケリングが楽しめます。海の環境学習と海洋生物観察が同時にでき、多くの回は無料または低額です。",
-      "date": "9月中旬〜下旬の週末",
-      "place": "Duke Kahanamoku Beach Park, Haleiwa, HI 96712",
-      "link": "",
+      "title": "KCC Farmers Market（KCCファーマーズマーケット）",
+      "description": "ハワイの新鮮なトロピカルフルーツと地元野菜が揃う市場。試食多数で、乳幼児も楽しめます。無料で散策できます。",
+      "date": "9月通年（土日開催）",
+      "place": "カピオラニ・コミュニティカレッジ、2210 Kamehameha Ave, Honolulu",
+      "link": "https://www.kcc.hawaii.edu/community/kcc-saturday-farmers-market/",
       "free": true
     },
     {
-      "title": "Diamond Head（ダイヤモンドヘッド）ファミリーハイキング",
-      "description": "ハワイを代表するランドマーク。往復約30分の子ども向けハイキングコース。9月は朝夕が涼しく、頂上からの絶景とハワイの自然を家族で満喫できます。",
-      "date": "9月通年（早朝推奨）",
-      "place": "Diamond Head State Park, 3908 Diamond Head Road, Honolulu, HI 96816",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+      "title": "Waikiki Aquarium（ワイキキ水族館）の子ども向けプログラム",
+      "description": "9月は夏休み明けの学習プログラムが充実。タッチプール体験やガイドツアーで、海の生き物について学べます。",
+      "date": "9月上旬〜中旬",
+      "place": "ワイキキ水族館、2777 Kalakaua Ave, Honolulu",
+      "link": "https://www.waikikiaquarium.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-07T01:28:00.040Z"
+  "updatedAt": "2026-09-14T01:54:37.302Z"
 }

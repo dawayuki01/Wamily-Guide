@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム国際映画祭（Stockholm International Film Festival）",
-      "description": "北欧最大級の映画祭。家族向け上映やキッズプログラムも充実。秋の文化的イベントとして子どもも楽しめるコンテンツが多数。",
-      "date": "9月中旬〜下旬",
-      "place": "ストックホルム市内各映画館、主催地はFilmhuset",
-      "link": "https://www.stockholmfilmfestival.se/",
-      "free": false
-    },
-    {
-      "title": "スカンセン野外博物館の秋まつり",
-      "description": "スウェーデンの伝統文化を体験できる野外博物館。秋には収穫祭や昔ながらの手工芸体験など季節限定プログラムが開催される。",
-      "date": "9月全般",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
-      "link": "https://www.skansen.se/",
-      "free": false
-    },
-    {
-      "title": "ジュルゴーデン島のハイキング・自然散策（無料）",
-      "description": "ストックホルムの緑豊かな離島。秋の自然散策に最適。湖畔の遊歩道は子連れに優しく、無料で自然を満喫できる屋外アクティビティ。",
-      "date": "9月全般",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/en/tourism/attractions/djurgarden/",
+      "title": "スウェーデン文化祭（Swedish Culture Festival）",
+      "description": "9月中旬にストックホルムで開催される、スウェーデンの伝統文化を紹介するフェスティバル。民族衣装、伝統工芸、音楽パフォーマンスなど、子どもも楽しめる多彩なプログラムが用意されます。",
+      "date": "9月中旬",
+      "place": "ストックホルム市街地（会場は毎年異なる）",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "ノーベル博物館の秋の特別展示・ワークショップ",
-      "description": "ノーベル賞にちなんだインタラクティブな展示やキッズ向けワークショップ。科学への興味を引き出す教育的アクティビティが充実。",
-      "date": "9月全般",
-      "place": "Nobelmuseet, Stortorget 2, Gamla Stan, Stockholm",
-      "link": "https://www.nobelmuseum.se/",
+      "title": "スカンセン野外博物館の秋祭り",
+      "description": "北欧最大の屋外博物館スカンセンで開催される秋祭り。動物との触れ合い、伝統工芸の体験コーナー、昔ながらのスウェーデン料理の試食など、家族向けの催しが満載です。",
+      "date": "9月中旬〜下旬",
+      "place": "スカンセン（Skansen）、Djurgårdsvägen 49-51, Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ストックホルム近郊の果実狩り・農園体験（無料〜低料金）",
-      "description": "9月は秋の果実（ベリー、リンゴなど）の収穫時期。地元農園での摘み取り体験は季節ならではのアクティビティ。自然体験と食育を兼ねた家族向けプログラム。",
-      "date": "9月全般",
-      "place": "Stockholm郊外の農園各地（UpplandsväsbyやBraxで多数）",
-      "link": "",
+      "title": "ノーベル賞授賞式記念イベント・ノーベル博物館の特別展示",
+      "description": "12月に行われるノーベル賞授賞式を前に、9月からノーベル博物館で特別展示や子ども向けワークショップが開催。科学への興味を引き出す貴重な学習体験ができます。",
+      "date": "9月上旬〜下旬",
+      "place": "ノーベル博物館（Nobelmuseet）、Stortorget 2, Stockholm",
+      "link": "https://www.nobelmuseum.se",
+      "free": false
+    },
+    {
+      "title": "ストックホルム群島でのカヤック・自然散策ツアー",
+      "description": "秋の美しいストックホルム群島で、親子向けのカヤックツアーや自然ガイド付きのハイキングが実施される季節。穏やかな天気と紅葉を満喫できます。",
+      "date": "9月上旬〜中旬",
+      "place": "ストックホルム群島周辺（複数の出発地点あり）",
+      "link": "https://www.visitstockholm.com",
+      "free": false
+    },
+    {
+      "title": "ユーグレン美術館（Fotografiska）の子ども向けワークショップ",
+      "description": "現代写真美術館で毎週末開催される子ども向けの創造的ワークショップ。写真撮影、デジタルアート制作など、実践的で楽しい体験ができます。",
+      "date": "9月中旬〜下旬の週末",
+      "place": "フォトグラフィスカ（Fotografiska）、Stadsgårdshamnen 22, Stockholm",
+      "link": "https://www.fotografiska.se",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-10T01:39:02.677Z"
+  "updatedAt": "2026-09-14T01:53:52.190Z"
 }
