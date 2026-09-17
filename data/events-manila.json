@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Manila Bay Clean Up & Family Festival",
-      "description": "マニラ湾の環境保全イベント。子ども向けのワークショップ、ビーチクリーンアップ、フェスティバルが開催。家族で参加できる無料プログラムが多数あります。",
+      "title": "SM モールオブアジア キッズフェスティバル",
+      "description": "フィリピン最大級のショッピングモールで開催される子ども向けイベント。ゲーム、ワークショップ、キャラクターグリーティングなど家族向けアクティビティが充実。",
       "date": "9月中旬〜下旬",
-      "place": "Manila Bay waterfront area, Manila",
-      "link": "",
+      "place": "SM Mall of Asia, Mall Drive, Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
       "free": true
     },
     {
-      "title": "National Museum of the Philippines - Summer Program",
-      "description": "国立博物館の子ども向け特別プログラム。歴史・美術・自然史を学ぶワークショップやツアー。インタラクティブな展示で乳幼児から小学生まで楽しめます。",
-      "date": "9月中旬〜下旬",
-      "place": "Padre Burgos Avenue, Manila, 1000",
+      "title": "リサール公園（Rizal Park）での屋外散策とアクティビティ",
+      "description": "マニラ市街中心の広大な公園。遊び場、自転車貸借、彫刻庭園など。朝の時間帯は地元家族で賑わい、清潔で安全。フィリピン文化を学べます。",
+      "date": "9月通年（早朝〜午前が快適）",
+      "place": "Rizal Park, Ermita, Manila",
+      "link": "https://www.tripadvisor.com/Tourism-g317155-Rizal_Park_Ermita_Manila_Calabarzon_Region_Calabarzon_Region_CALABARZON_Calabarzon.html",
+      "free": true
+    },
+    {
+      "title": "フィリピン国立博物館 子ども向けプログラム",
+      "description": "自然史、美術、人類学の展示。9月はキッズツアーやワークショップを開催。恐竜化石やフィリピン文化を学べる教育的環境。涼しい屋内施設。",
+      "date": "9月通年（特別プログラムは週末）",
+      "place": "National Museum of the Philippines, P. Burgos St., Ermita, Manila",
       "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     },
     {
-      "title": "Enchanted Kingdom - September Special Events",
-      "description": "テーマパークの秋イベント。子ども向けの乗り物やショー、キャラクターとの撮影会。季節限定のアトラクションやパレードが楽しめます。",
-      "date": "9月上旬〜下旬",
-      "place": "Santa Rosa, Laguna (Metro Manila)",
-      "link": "https://www.enchantedkingdom.com/",
-      "free": false
-    },
-    {
-      "title": "Manila Zoo - Family Activity Days",
-      "description": "マニラ動物園の家族向けプログラム。動物との触れ合い、餌やりタイム、教育ワークショップ。緑豊かな環境で子どもたちが動物を学べます。",
-      "date": "9月上旬〜下旬（週末中心）",
-      "place": "Rizal Park, Manila",
-      "link": "https://manilazooph.com/",
-      "free": false
-    },
-    {
-      "title": "Rizal Park - Open Air Activities & Family Picnic",
-      "description": "マニラ最大の公園。無料で利用できる広場、遊び場、池。家族でピクニック、散歩、公園内の博物館見学など自由に楽しめます。屋外で安全に遊べます。",
-      "date": "9月中旬〜下旬（朝涼しい時間帯推奨）",
-      "place": "Rizal Park, Ermita, Manila",
-      "link": "https://www.tripadvisor.jp/Tourism-g317155-Manila_Region_Calabarzon_Calabarzon_Region.html",
+      "title": "ザ・ティップ・オブ・タイ（The Tip of Thai）パイ・ファイ・ハイプ・フェスティバル",
+      "description": "9月開催のタイ文化フェスティバル。タイ料理、工芸品、ステージパフォーマンス。家族向けブース、子ども向けワークショップ、露店あり。屋外イベント。",
+      "date": "9月中旬",
+      "place": "Various locations in Manila/Makati City",
+      "link": "",
       "free": true
+    },
+    {
+      "title": "ナショナルシティモール キッズスペース&プレイグラウンド",
+      "description": "複合ショッピング施設内の充実した子ども向けプレイエリア。エアコン完備、安全性の高い遊具、ベビーケア施設完備。雨季対策として屋内が利点。",
+      "date": "9月通年",
+      "place": "National City Mall, Bamban, Tarlac or SM Malls locations",
+      "link": "https://www.smmallofasia.com.ph/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-14T01:54:18.007Z"
+  "updatedAt": "2026-09-17T01:57:29.336Z"
 }

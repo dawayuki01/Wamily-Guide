@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "パリ・プラージュ（Paris Plage）",
-      "description": "セーヌ川沿いに造られた人工ビーチ。砂浜、ビーチバレー、キッズ向けアクティビティが充実。夏の終わりまで開催され、9月初旬まで楽しめます。",
-      "date": "9月上旬まで",
-      "place": "セーヌ川沿い、パリ中心部（1区〜4区）",
-      "link": "https://www.paris.fr/pages/paris-plage-7073",
+      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊びや砂遊びを楽しめます。9月でも開催され、屋外での家族向けアクティビティが充実しています。",
+      "date": "9月上旬〜中旬",
+      "place": "セーヌ川左岸（Port de la Tournelle周辺）、パリ4区〜13区",
+      "link": "https://www.paris.fr/pages/paris-plage-9088",
       "free": true
     },
     {
-      "title": "モンマルトレ葡萄祭り（Fête des Vendanges de Montmartre）",
-      "description": "パリ最古のぶどう園の収穫祭。パレード、ワインテイスティング、子ども向けゲームやアクティビティが開催される伝統的なお祭り。",
-      "date": "9月中旬（例年2週間程度）",
-      "place": "モンマルトル地区、サクレ・クール周辺",
-      "link": "https://www.fetedesvendangesdemontmartre.com",
-      "free": true
-    },
-    {
-      "title": "シテ科学産業博物館の特別展示・ワークショップ",
-      "description": "Cité des Sciences et de l'Industrie。9月は秋のプログラムがスタート。子ども向けの科学実験や体験型展示、プラネタリウムが充実しています。",
-      "date": "9月通年",
-      "place": "ラ・ヴィレット公園内、19区30 Avenue Corentin Cariou",
-      "link": "https://www.cite-sciences.fr",
+      "title": "ルーヴル美術館 子ども向けワークショップ",
+      "description": "9月の秋シーズンに開催される、子ども向けのアート教室やツアー。年齢別プログラムで美術館を楽しく学べます。",
+      "date": "9月中旬〜下旬（不定期）",
+      "place": "ルーヴル美術館、パリ1区 Rue de Rivoli 75004",
+      "link": "https://www.louvre.fr/en",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園での秋の自然散策・遊び場",
-      "description": "広大な公園で秋の風景を楽しめます。子ども向けの遊び場、木馬、木のボート遊び、人形劇ステージなど。四季を感じるのに最適。",
-      "date": "9月通年",
-      "place": "ルクセンブルク公園、6区 Rue de Médicis",
-      "link": "https://www.senat.fr/visite/jardin",
+      "title": "パリ・ブックス（Rentrée literaire）関連イベント",
+      "description": "フランスの秋の新学期シーズンに合わせた書籍イベント。子ども向けの読み聞かせやストーリータイムが各図書館で開催されます。",
+      "date": "9月上旬〜中旬",
+      "place": "パリ市立図書館各支所（Bibliothèque Forney など）",
+      "link": "https://www.paris.fr/pages/les-bibliotheques-de-paris-5050",
       "free": true
     },
     {
-      "title": "パリ子ども向けアート・ワークショップ（ポンピドゥー・センター）",
-      "description": "Centre Pompidouでは9月から子ども向けのアート・ワークショップが定期開催。創造性を育む活動が多数用意されています。",
-      "date": "9月通年（要確認）",
-      "place": "ポンピドゥー・センター、4区 Place Georges-Pompidou",
-      "link": "https://www.centrepompidou.fr",
+      "title": "アンバリデス軍事博物館 ファミリーツアー",
+      "description": "秋シーズンに家族向けの特別ガイドツアーを実施。子どもが楽しめるインタラクティブな展示と庭園でのアクティビティがあります。",
+      "date": "9月中旬〜下旬（毎週末）",
+      "place": "アンバリデス軍事博物館、パリ7区 129 rue de Grenelle",
+      "link": "https://www.musee-armee.fr/en",
+      "free": false
+    },
+    {
+      "title": "ジャルダン・デ・プラント（植物園）秋の自然散策",
+      "description": "子ども向けの自然観察ツアーが9月に開催。動物園も併設され、乳幼児から小学生まで楽しめる屋外での学習体験です。",
+      "date": "9月上旬〜下旬",
+      "place": "ジャルダン・デ・プラント、パリ5区 57 rue Cuvier",
+      "link": "https://www.jardindesplantes.net/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-14T01:53:42.488Z"
+  "updatedAt": "2026-09-17T01:56:55.620Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン文化祭（Swedish Culture Festival）",
-      "description": "9月中旬にストックホルムで開催される、スウェーデンの伝統文化を紹介するフェスティバル。民族衣装、伝統工芸、音楽パフォーマンスなど、子どもも楽しめる多彩なプログラムが用意されます。",
-      "date": "9月中旬",
-      "place": "ストックホルム市街地（会場は毎年異なる）",
-      "link": "https://www.visitstockholm.com",
+      "title": "ストックホルム国際映画祭",
+      "description": "北欧最大級の映画祭。家族向けの短編やアニメーション映画の特別上映が充実し、子どもたちが世界の映画文化に触れられます。",
+      "date": "9月中旬〜下旬",
+      "place": "ストックホルム市内各映画館",
+      "link": "https://stockholmfilmfestival.se/",
+      "free": false
+    },
+    {
+      "title": "スカンセン野外博物館の秋のイベント",
+      "description": "伝統的なスウェーデン家屋や動物園がある屋外博物館。秋の収穫祭や工芸体験など、季節ならではのプログラムが開催されます。",
+      "date": "9月上旬〜下旬",
+      "place": "Djurgården, Skansen, Stockholm",
+      "link": "https://www.skansen.se/",
+      "free": false
+    },
+    {
+      "title": "ジュルゴーデン島でのハイキング・散策",
+      "description": "ストックホルムの緑豊かな島。秋の紅葉が美しく、幅広い年齢の子どもが楽しめる多数のトレイルがあります。無料で自然を満喫できます。",
+      "date": "9月上旬〜下旬（秋の紅葉シーズン）",
+      "place": "Djurgården, Stockholm",
+      "link": "",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の秋祭り",
-      "description": "北欧最大の屋外博物館スカンセンで開催される秋祭り。動物との触れ合い、伝統工芸の体験コーナー、昔ながらのスウェーデン料理の試食など、家族向けの催しが満載です。",
-      "date": "9月中旬〜下旬",
-      "place": "スカンセン（Skansen）、Djurgårdsvägen 49-51, Stockholm",
-      "link": "https://www.skansen.se",
-      "free": false
-    },
-    {
-      "title": "ノーベル賞授賞式記念イベント・ノーベル博物館の特別展示",
-      "description": "12月に行われるノーベル賞授賞式を前に、9月からノーベル博物館で特別展示や子ども向けワークショップが開催。科学への興味を引き出す貴重な学習体験ができます。",
+      "title": "ノーベル博物館のキッズプログラム",
+      "description": "ノーベル賞の歴史を学べる博物館。9月には子ども向けの特別ワークショップやガイドツアーが開催されます。",
       "date": "9月上旬〜下旬",
-      "place": "ノーベル博物館（Nobelmuseet）、Stortorget 2, Stockholm",
-      "link": "https://www.nobelmuseum.se",
+      "place": "Stortorget 2, Stockholm",
+      "link": "https://www.nobelmuseum.se/",
       "free": false
     },
     {
-      "title": "ストックホルム群島でのカヤック・自然散策ツアー",
-      "description": "秋の美しいストックホルム群島で、親子向けのカヤックツアーや自然ガイド付きのハイキングが実施される季節。穏やかな天気と紅葉を満喫できます。",
-      "date": "9月上旬〜中旬",
-      "place": "ストックホルム群島周辺（複数の出発地点あり）",
-      "link": "https://www.visitstockholm.com",
-      "free": false
-    },
-    {
-      "title": "ユーグレン美術館（Fotografiska）の子ども向けワークショップ",
-      "description": "現代写真美術館で毎週末開催される子ども向けの創造的ワークショップ。写真撮影、デジタルアート制作など、実践的で楽しい体験ができます。",
-      "date": "9月中旬〜下旬の週末",
-      "place": "フォトグラフィスカ（Fotografiska）、Stadsgårdshamnen 22, Stockholm",
-      "link": "https://www.fotografiska.se",
-      "free": false
+      "title": "クンクスホルメン公園での無料屋外活動",
+      "description": "ストックホルムの中心部の大型公園。秋の晴天時に子どもが遊べる遊具やピクニックエリア、湖の散策が無料で楽しめます。",
+      "date": "9月全般",
+      "place": "Kungsträdgården, Stockholm",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-14T01:53:52.190Z"
+  "updatedAt": "2026-09-17T01:57:02.050Z"
 }

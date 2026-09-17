@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・フード・フェスティバル（Singapore Food Festival）",
-      "description": "シンガポール料理の多様性を祝うフェスティバル。子どもも楽しめる試食コーナーや料理教室、ライブパフォーマンスが開催されます。",
-      "date": "9月中旬〜下旬",
-      "place": "イベント・スペース各地（Timbre+など）",
+      "title": "マーライオン周辺の花火大会・ナイトショー",
+      "description": "9月はシンガポール建国記念日（8月9日）後の祝賀イベントが続き、マーライオン公園周辺でライトアップやナイトショーが開催されます。無料で楽しめる屋外スポット。",
+      "date": "9月上旬〜中旬",
+      "place": "マーライオン公園（Marina Bay）",
       "link": "https://www.visitsingapore.com",
+      "free": true
+    },
+    {
+      "title": "シンガポール動物園の春季特別プログラム",
+      "description": "乾季に向かう9月は動物たちが活発になる時期。子ども向けの餌やりワークショップやガイドツアーが開催されます。幼児から小学生向けのプログラム充実。",
+      "date": "9月通期",
+      "place": "シンガポール動物園（80 Mandai Lake Road）",
+      "link": "https://www.zoo.sg",
       "free": false
     },
     {
-      "title": "ガーデンズ・バイ・ザ・ベイの無料展示エリア",
-      "description": "世界遺産的植物園。Flower Dome、Cloud Forestなどの特別展示は有料ですが、広大な庭園エリアは無料で散策可能。子ども向けアクティビティも充実。",
-      "date": "通年（9月は雨季だが訪問可）",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
+      "title": "ガーデンズ・バイ・ザ・ベイの子ども向け展示・ワークショップ",
+      "description": "季節の植物展示と同時に、子ども向けの自然体験ワークショップやスカルプチャー鑑賞が楽しめます。屋内外どちらでも活動でき、乳幼児から対応。",
+      "date": "9月通期",
+      "place": "ガーデンズ・バイ・ザ・ベイ（18 Marina Gardens Drive）",
       "link": "https://www.gardensbythebay.com.sg",
-      "free": true
-    },
-    {
-      "title": "マーライオン公園＆リバーボート・ツアー",
-      "description": "シンガポール象徴のマーライオン公園は無料。シンガポール川クルーズで川沿いの歴史的建造物を観光。乳幼児連れも利用しやすい屋外アクティビティです。",
-      "date": "通年（9月は湿度高いが運行）",
-      "place": "1 Raffles Avenue, Marina Park, Singapore 039803",
-      "link": "https://www.visitsingapore.com/en/see-do/attractions/marina-bay-merlion",
-      "free": true
-    },
-    {
-      "title": "シンガポール・ナショナル・ミュージアムの子ども向けプログラム",
-      "description": "インタラクティブな展示と季節限定ワークショップ。9月は「Heritage Month」に関連したキッズ向けの特別体験プログラムを実施。家族で楽しめます。",
-      "date": "9月上旬〜下旬",
-      "place": "93 Stamford Road, Singapore 178897",
-      "link": "https://www.nationalmuseum.sg",
       "free": false
     },
     {
-      "title": "セントーサ島のビーチ＆アクティビティパック",
-      "description": "シンガポール最大のビーチリゾート。海水浴、シュノーケリング、ジップライン、ウォーターパークなど家族向けアクティビティが豊富。9月は夏休みシーズンの混雑は緩和。",
-      "date": "通年（9月は午後の雨に注意）",
-      "place": "Sentosa Island, Singapore",
-      "link": "https://www.sentosa.com.sg",
+      "title": "イースト・コースト・パーク海辺の無料ビーチアクティビティ",
+      "description": "シンガポール最大級のビーチパーク。9月はモンスーン前で比較的波が穏やか。無料で家族向けビーチ遊びやピクニックエリアを利用可能な屋外スポット。",
+      "date": "9月通期",
+      "place": "イースト・コースト・パーク（East Coast Parkway）",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "シンガポール科学館の秋季特別展示",
+      "description": "子ども向けのインタラクティブ展示や科学実験ショーが随時開催。乳幼児向けキッズゾーンも完備。屋内で快適に過ごせる施設。",
+      "date": "9月通期",
+      "place": "シンガポール科学館（15 Science Centre Road）",
+      "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-14T01:54:01.838Z"
+  "updatedAt": "2026-09-17T01:57:11.771Z"
 }

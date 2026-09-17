@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港ワインフェスティバル（Hong Kong Wine & Dine Festival）",
-      "description": "秋の香港を代表するグルメイベント。家族向けエリアでは子ども向けワークショップやグルメ体験も開催。音楽ライブも楽しめます。",
-      "date": "9月中旬〜下旬",
-      "place": "セントラル・ハーバーフロント（Central Harbourfront）",
-      "link": "https://www.hkwddf.com/",
-      "free": false
-    },
-    {
-      "title": "スターフェリー・フリーライド＆ビクトリアハーバーの夕焼け",
-      "description": "無料のスターフェリー乗車で観光。9月はまだ暖かくビクトリアハーバーの景色を楽しむベストシーズン。子どもにとって最高の体験になります。",
-      "date": "9月通年",
-      "place": "スターフェリー乗り場（セントラル〜尖沙咀間）",
-      "link": "https://www.starferry.com.hk/",
+      "title": "香港ナイトパレード（Mid-Autumn Festival関連）",
+      "description": "中秋節時期に開催される光と音のパレード。子どもたちが提灯を持って参加できる屋外イベント。ビクトリアパークなどで無料観覧可能。",
+      "date": "9月下旬～10月上旬（中秋節前後）",
+      "place": "ビクトリアパーク（Causeway Bay）、中環エリア各所",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "香港科学館の特別展示＆キッズプログラム",
-      "description": "季節ごとの特別展示と子ども向けSTEMワークショップ。手を動かして学ぶ展示が豊富。乳幼児エリアもあります。",
-      "date": "9月通年",
-      "place": "尖沙咀チムサーチョイ東（東尖沙咀）、香港科学館",
-      "link": "https://www.hk.science.museum/",
+      "title": "ハッピーバレー馬場での親子向けイベント",
+      "description": "Happy Valley Racecourseで開催される家族向け特別プログラム。馬の展示、乗馬体験、子ども向けアクティビティなど。",
+      "date": "9月中旬～下旬の週末",
+      "place": "Happy Valley Racecourse, So Kon Po, Wan Chai",
+      "link": "https://www.happyvalleyracecourse.com",
       "free": false
     },
     {
-      "title": "中秋節祭り（Mid-Autumn Festival）",
-      "description": "秋の大事な伝統祭。提灯飾り、お菓子、獅子舞のパレード。ヴィクトリアパークでは大規模なお祭りイベントが開催。家族向けアクティビティが充実。",
-      "date": "9月29日〜10月上旬（旧暦8月15日）",
-      "place": "ヴィクトリアパーク（Causeway Bay）、各地域で開催",
-      "link": "https://www.discoverhongkong.com/",
-      "free": true
+      "title": "スターフェリー乗船体験＆ビクトリアハーバー散策",
+      "description": "香港の象徴的な運河体験。屋外で海風を楽しみながらビクトリアハーバーを横断。低廉な料金で乗船可能な屋外アクティビティ。",
+      "date": "通年（9月は台風シーズン後の秋風が心地よい）",
+      "place": "セントラル～尖沙咀フェリーターミナル",
+      "link": "https://www.starferry.com.hk",
+      "free": false
     },
     {
-      "title": "スタンレービーチ＆アウトドアアクティビティ",
-      "description": "香港南部の美しいビーチ。9月はまだ海水浴シーズン。シュノーケリング、カヤック体験など家族向けウォータースポーツが充実。",
-      "date": "9月通年",
-      "place": "スタンレービーチ（Stanley Beach）、南香港",
-      "link": "https://www.discoverhongkong.com/jp/",
+      "title": "香港科学館の特別展示・子ども向けワークショップ",
+      "description": "科学館の季節展示と対話型ワークショップ。9月は新学期向けの教育プログラムが充実。室内で楽しく学べる施設。",
+      "date": "9月通期（平日は比較的空いている）",
+      "place": "Hong Kong Science Museum, Tsim Sha Tsui",
+      "link": "https://www.lcsd.gov.hk/en/hkscm",
+      "free": false
+    },
+    {
+      "title": "スターピアス・アウトドア マーケット＆ビーチアクティビティ",
+      "description": "スターピアス周辺のフリマーケット、カフェ、ビーチ。子どもと一緒にのんびり散策。無料で楽しめる屋外スペース。",
+      "date": "9月中旬～下旬の週末",
+      "place": "Star Pier & Harbour Promenade, Central",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-14T01:54:53.164Z"
+  "updatedAt": "2026-09-17T01:57:59.813Z"
 }
