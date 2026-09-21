@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris Plage）",
-      "description": "セーヌ川沿いに砂浜が出現。子どもが水遊びや砂遊びを楽しめます。9月でも開催され、屋外での家族向けアクティビティが充実しています。",
-      "date": "9月上旬〜中旬",
-      "place": "セーヌ川左岸（Port de la Tournelle周辺）、パリ4区〜13区",
-      "link": "https://www.paris.fr/pages/paris-plage-9088",
+      "title": "パリ・プラージュ（Paris-Plage）",
+      "description": "セーヌ川沿いに砂浜が出現。ビーチバレー、水遊び、映画上映など家族向けアクティビティが豊富。9月初旬まで開催される夏の風物詩。",
+      "date": "9月上旬まで",
+      "place": "セーヌ川沿い（ポンタレクサンドル3世周辺など複数箇所）",
+      "link": "https://www.paris.fr/pages/paris-plage-2024-7523",
       "free": true
     },
     {
-      "title": "ルーヴル美術館 子ども向けワークショップ",
-      "description": "9月の秋シーズンに開催される、子ども向けのアート教室やツアー。年齢別プログラムで美術館を楽しく学べます。",
-      "date": "9月中旬〜下旬（不定期）",
-      "place": "ルーヴル美術館、パリ1区 Rue de Rivoli 75004",
-      "link": "https://www.louvre.fr/en",
+      "title": "ルーヴル美術館の子ども向けワークショップ",
+      "description": "9月はファミリープログラムが充実。年齢別のアートワークショップやガイドツアーで、子どもたちが美術品を楽しく学べます。",
+      "date": "9月通年（曜日限定）",
+      "place": "ルーヴル美術館、パリ1区 Rue de Rivoli",
+      "link": "https://www.louvre.fr/en/events",
       "free": false
     },
     {
-      "title": "パリ・ブックス（Rentrée literaire）関連イベント",
-      "description": "フランスの秋の新学期シーズンに合わせた書籍イベント。子ども向けの読み聞かせやストーリータイムが各図書館で開催されます。",
-      "date": "9月上旬〜中旬",
-      "place": "パリ市立図書館各支所（Bibliothèque Forney など）",
-      "link": "https://www.paris.fr/pages/les-bibliotheques-de-paris-5050",
+      "title": "テュイルリー庭園での秋のアクティビティ",
+      "description": "子ども用遊具、木馬、迷路などが無料で楽しめる。秋の涼しい気候で家族散策に最適。池での水遊びやピクニックもおすすめ。",
+      "date": "9月通年",
+      "place": "テュイルリー庭園、パリ1区 Place de la Concorde",
+      "link": "https://www.paris.fr/pages/jardins-des-tuileries-25",
       "free": true
     },
     {
-      "title": "アンバリデス軍事博物館 ファミリーツアー",
-      "description": "秋シーズンに家族向けの特別ガイドツアーを実施。子どもが楽しめるインタラクティブな展示と庭園でのアクティビティがあります。",
-      "date": "9月中旬〜下旬（毎週末）",
-      "place": "アンバリデス軍事博物館、パリ7区 129 rue de Grenelle",
-      "link": "https://www.musee-armee.fr/en",
+      "title": "パリ科学産業博物館（Cité des Sciences）のキッズプログラム",
+      "description": "4歳〜12歳向けの体験型展示とワークショップが充実。STEM教育、宇宙、生命科学など、子どもの好奇心を刺激する施設。",
+      "date": "9月通年",
+      "place": "ラ・ヴィレット公園、パリ19区 30 Avenue Corentin Cariou",
+      "link": "https://www.cite-sciences.fr/en",
       "free": false
     },
     {
-      "title": "ジャルダン・デ・プラント（植物園）秋の自然散策",
-      "description": "子ども向けの自然観察ツアーが9月に開催。動物園も併設され、乳幼児から小学生まで楽しめる屋外での学習体験です。",
-      "date": "9月上旬〜下旬",
-      "place": "ジャルダン・デ・プラント、パリ5区 57 rue Cuvier",
-      "link": "https://www.jardindesplantes.net/",
-      "free": false
+      "title": "ラ・ヴィレット公園での屋外イベント＆遊び場",
+      "description": "広大な公園内に子ども向け遊技場、運河での散歩、映画上映。9月は涼しく、家族で1日過ごすのに最適な無料スポット。",
+      "date": "9月通年",
+      "place": "ラ・ヴィレット公園、パリ19区 211 Avenue Jean-Jaurès",
+      "link": "https://www.villette.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-17T01:56:55.620Z"
+  "updatedAt": "2026-09-21T01:52:28.649Z"
 }

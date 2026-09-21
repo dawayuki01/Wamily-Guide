@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム国際映画祭",
-      "description": "北欧最大級の映画祭。家族向けの短編やアニメーション映画の特別上映が充実し、子どもたちが世界の映画文化に触れられます。",
+      "title": "ストックホルム映画祭（Stockholm International Film Festival）",
+      "description": "北欧最大級の映画祭。子ども向けの映画上映や家族向けプログラムが充実。9月中旬から下旬にかけて市内各地で開催されます。",
       "date": "9月中旬〜下旬",
-      "place": "ストックホルム市内各映画館",
-      "link": "https://stockholmfilmfestival.se/",
+      "place": "ストックホルム市内各地",
+      "link": "https://www.stockholmfilmfestival.se",
       "free": false
     },
     {
-      "title": "スカンセン野外博物館の秋のイベント",
-      "description": "伝統的なスウェーデン家屋や動物園がある屋外博物館。秋の収穫祭や工芸体験など、季節ならではのプログラムが開催されます。",
-      "date": "9月上旬〜下旬",
-      "place": "Djurgården, Skansen, Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "スキャンセン野外博物館での秋のアクティビティ",
+      "description": "伝統的なスウェーデン建築と動物園。秋の収穫祭やハロウィンイベントが開催。子どもが動物とふれあい、季節の変化を体験できます。",
+      "date": "9月全期間",
+      "place": "Djurgården, Skansen, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ジュルゴーデン島でのハイキング・散策",
-      "description": "ストックホルムの緑豊かな島。秋の紅葉が美しく、幅広い年齢の子どもが楽しめる多数のトレイルがあります。無料で自然を満喫できます。",
-      "date": "9月上旬〜下旬（秋の紅葉シーズン）",
+      "title": "ストックホルム王宮での衛兵交代式（無料観覧）",
+      "description": "王宮前広場で行われる壮厳な衛兵交代式。9月も毎日実施。子どもも楽しめる儀式で、スウェーデンの文化を学べます。",
+      "date": "9月全期間（毎日）",
+      "place": "Gamla Stan, Slottsbacken, 111 30 Stockholm",
+      "link": "https://www.kungligaslotten.se",
+      "free": true
+    },
+    {
+      "title": "ジュルガーデン島でのサイクリング・遊歩道散策",
+      "description": "ストックホルム随一の緑地。秋の紅葉が美しく、遊び場や遊歩道が充実。家族で自転車をレンタルして自然を満喫できます。",
+      "date": "9月全期間",
       "place": "Djurgården, Stockholm",
-      "link": "",
+      "link": "https://www.visitstockholm.com",
       "free": true
     },
     {
-      "title": "ノーベル博物館のキッズプログラム",
-      "description": "ノーベル賞の歴史を学べる博物館。9月には子ども向けの特別ワークショップやガイドツアーが開催されます。",
-      "date": "9月上旬〜下旬",
-      "place": "Stortorget 2, Stockholm",
-      "link": "https://www.nobelmuseum.se/",
+      "title": "スウェーデン自然史博物館（Naturhistoriska riksmuseet）での秋プログラム",
+      "description": "恐竜展示やインタラクティブな自然科学展示。秋の特別プログラムで子ども向けワークショップを開催。室内で学習と体験ができます。",
+      "date": "9月全期間",
+      "place": "Frescativägen 40, 104 05 Stockholm",
+      "link": "https://www.nrm.se",
       "free": false
-    },
-    {
-      "title": "クンクスホルメン公園での無料屋外活動",
-      "description": "ストックホルムの中心部の大型公園。秋の晴天時に子どもが遊べる遊具やピクニックエリア、湖の散策が無料で楽しめます。",
-      "date": "9月全般",
-      "place": "Kungsträdgården, Stockholm",
-      "link": "",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-17T01:57:02.050Z"
+  "updatedAt": "2026-09-21T01:52:35.674Z"
 }

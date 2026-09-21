@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港ナイトパレード（Mid-Autumn Festival関連）",
-      "description": "中秋節時期に開催される光と音のパレード。子どもたちが提灯を持って参加できる屋外イベント。ビクトリアパークなどで無料観覧可能。",
-      "date": "9月下旬～10月上旬（中秋節前後）",
-      "place": "ビクトリアパーク（Causeway Bay）、中環エリア各所",
+      "title": "Mid-Autumn Festival（中秋節）",
+      "description": "9月下旬の伝統行事。提灯飾り、ランタン展示、獅子舞、民間活動が各地で開催。子どもたちはカラフルな提灯を持ち、家族で月を鑑賞する文化体験ができます。",
+      "date": "9月下旬（旧暦8月15日前後）",
+      "place": "香港全域（ビクトリアパーク、スターフェリー、各商業施設など）",
       "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "ハッピーバレー馬場での親子向けイベント",
-      "description": "Happy Valley Racecourseで開催される家族向け特別プログラム。馬の展示、乗馬体験、子ども向けアクティビティなど。",
-      "date": "9月中旬～下旬の週末",
-      "place": "Happy Valley Racecourse, So Kon Po, Wan Chai",
-      "link": "https://www.happyvalleyracecourse.com",
+      "title": "香港海洋公園（Hong Kong Ocean Park）の秋季イベント",
+      "description": "子ども向けの特別プログラム、キャラクターイベント、動物ショー、絶叫マシンから乗り物まで楽しめる。季節限定の装飾やメニューも充実。",
+      "date": "9月全期間",
+      "place": "香港特別行政区黄竹坑香港仔道180号",
+      "link": "https://www.oceanpark.com.hk",
       "free": false
     },
     {
-      "title": "スターフェリー乗船体験＆ビクトリアハーバー散策",
-      "description": "香港の象徴的な運河体験。屋外で海風を楽しみながらビクトリアハーバーを横断。低廉な料金で乗船可能な屋外アクティビティ。",
-      "date": "通年（9月は台風シーズン後の秋風が心地よい）",
-      "place": "セントラル～尖沙咀フェリーターミナル",
+      "title": "スターフェリー乗船体験＆ビクトリアピーク散策",
+      "description": "香港の絶景体験。スターフェリーで維多利亚港を横断し、ピークトラムで山頂へ。展望台からの眺望は子どもも大人も感動。9月は秋の爽やかな季節。",
+      "date": "9月全期間",
+      "place": "スターフェリー乗船場：スターストリート（セントラル・ワンチャイ間）",
       "link": "https://www.starferry.com.hk",
       "free": false
     },
     {
-      "title": "香港科学館の特別展示・子ども向けワークショップ",
-      "description": "科学館の季節展示と対話型ワークショップ。9月は新学期向けの教育プログラムが充実。室内で楽しく学べる施設。",
-      "date": "9月通期（平日は比較的空いている）",
-      "place": "Hong Kong Science Museum, Tsim Sha Tsui",
-      "link": "https://www.lcsd.gov.hk/en/hkscm",
-      "free": false
+      "title": "香港公園（Hong Kong Park）での無料散策＆水上活動",
+      "description": "広大な庭園、池、野鳥、植物園が無料で楽しめます。9月は爽やかな気候で散策に最適。子ども向けの遊び場もあり、バードウォッチングもできます。",
+      "date": "9月全期間",
+      "place": "香港島中環雪厂街19号",
+      "link": "https://www.lcsd.gov.hk/en/parks",
+      "free": true
     },
     {
-      "title": "スターピアス・アウトドア マーケット＆ビーチアクティビティ",
-      "description": "スターピアス周辺のフリマーケット、カフェ、ビーチ。子どもと一緒にのんびり散策。無料で楽しめる屋外スペース。",
-      "date": "9月中旬～下旬の週末",
-      "place": "Star Pier & Harbour Promenade, Central",
-      "link": "",
-      "free": true
+      "title": "香港科学館（Hong Kong Science Museum）の常設展示＆特別展",
+      "description": "子ども向けの体験型展示、ライブデモンストレーション、シアター。9月は新学期に合わせた特別プログラムが実施される場合があります。",
+      "date": "9月全期間",
+      "place": "香港九龍尖沙咀科学館道2号",
+      "link": "https://www.lcsd.gov.hk/en/sciencemuseum",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-17T01:57:59.813Z"
+  "updatedAt": "2026-09-21T01:53:32.805Z"
 }

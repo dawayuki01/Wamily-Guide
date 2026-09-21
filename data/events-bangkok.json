@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ルンピニ公園での朝のエクササイズと自然観察",
-      "description": "バンコク中心部の緑地公園。朝の涼しい時間帯に散歩、トレーニング風景の見学、野生動物観察が無料で楽しめます。池ではワニも見られることがあり、子どもの好奇心を刺激します。",
-      "date": "9月上旬〜下旬",
-      "place": "ルンピニ公園（Lumphini Park）、ラマ4世通り、パトゥムワン区",
-      "link": "https://www.bangkok.gov.th",
-      "free": true
-    },
-    {
-      "title": "サイアム・パラゴン水族館での海の生き物体験",
-      "description": "シャークラグーン、デンキウナギの展示など、大規模な淡水・海水生物館。9月の特別プログラムでは子ども向けの飼育員ガイドツアーや触れ合い体験が開催されることがあります。",
-      "date": "9月中旬〜下旬",
-      "place": "サイアム・パラゴン（Siam Paragon）、バンコク10330",
-      "link": "https://www.siamparagon.co.th",
-      "free": false
-    },
-    {
-      "title": "ルンピニ公園での無料ナイトマーケット散策",
-      "description": "夕方以降、公園周辺にフードスタンドが出現。露店フード、アイスクリーム、おもちゃなどが並び、家族連れで賑わいます。タイ文化を体験でき、食べ歩きが楽しめます。",
-      "date": "9月上旬〜下旬",
-      "place": "ルンピニ公園周辺、バンコク",
+      "title": "ロイクラトン祭り準備・ランタン作り体験",
+      "description": "11月のロイクラトン祭りに向けた準備期間。バンコク内の寺院やコミュニティセンターで、子ども向けのランタンやボート製作ワークショップが開催されます。タイ文化を学べる貴重な体験です。",
+      "date": "9月下旬〜10月",
+      "place": "バンコク市内の寺院・コミュニティセンター（会場は時期により変動）",
       "link": "",
       "free": true
     },
     {
-      "title": "サファリワールド・バンコクでのオープンカーサファリツアー",
-      "description": "猛獣エリアをオープンカーで通過して野生動物を間近で観察。象のショーも毎日上演。子どもが大自然でのアドベンチャーを体験でき、屋外アクティビティとしては最適です。",
-      "date": "9月中旬〜下旬",
-      "place": "サファリワールド（Safari World Bangkok）、バンナーナイ区",
-      "link": "https://www.safariworld.com",
+      "title": "サファリワールド（Safari World）",
+      "description": "動物園・サファリパークの複合施設。ドライブスルーサファリとしまうま、ライオンなどの大型動物が見られます。9月は雨季ですが施設は営業。子どもの年齢に応じた体験が豊富です。",
+      "date": "通年営業（9月は雨の日がある）",
+      "place": "99 Suan Sampran, Soi Ramindra 1, Patthumthani 12120",
+      "link": "https://www.safariworld.com/",
       "free": false
     },
     {
-      "title": "エラワン博物館での子ども向けガイドツアー",
-      "description": "象をモチーフにした独創的な建築物。9月の特別企画では、子ども向けの体験型ガイドツアーやワークショップが開催されます。仏教文化と美術工芸を学べます。",
-      "date": "9月上旬〜中旬",
-      "place": "エラワン博物館（Erawan Museum）、バンナーナイ区",
-      "link": "https://www.erawan-museum.com",
+      "title": "ルンピニ公園での朝のエクササイズ・散策",
+      "description": "バンコク中心部の広大な公園。朝は地元民と一緒にヨガやラジオ体操が行われています。無料で参加でき、池周辺の散策も子どもが楽しめます。朝涼しい時間帯がおすすめです。",
+      "date": "9月通年（毎朝開放）",
+      "place": "Lumphini Park, Wireless Road, Bangkok 10330",
+      "link": "https://www.bangkok.go.th/bangkokparks/",
+      "free": true
+    },
+    {
+      "title": "チルドレンズ・ディスカバリー・ミュージアム（Children's Discovery Museum）",
+      "description": "5〜12歳向けの体験型ミュージアム。科学、文化、技術を遊びながら学べます。雨が多い9月に最適な屋内施設で、STEM教育プログラムが充実しています。",
+      "date": "通年営業（9月は雨季のため屋内施設が最適）",
+      "place": "Chatuchak Park, Bangkok 10900",
+      "link": "",
       "free": false
+    },
+    {
+      "title": "チャトゥチャック・ウィークエンド・マーケット（タイ雑貨・子ども向け店舗エリア）",
+      "description": "世界最大級のウィークエンドマーケット。土日営業。子ども向けおもちゃ、衣類、アイスクリーム、フルーツジュースなど見どころ満載。早朝訪問で混雑を避けられます。",
+      "date": "毎週土日（9月も営業）",
+      "place": "Chatuchak Market, Kamphaeng Phet 2, Chatuchak, Bangkok 10900",
+      "link": "https://www.chatuchakmarket.org/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-17T01:57:20.400Z"
+  "updatedAt": "2026-09-21T01:52:52.119Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・カウンティ・フェア",
-      "description": "9月に開催される大規模なフェア。乗り物、ゲーム、動物との触れ合い、子ども向けの工作や教育プログラムなど家族向けアクティビティが充実しています。",
-      "date": "9月上旬〜中旬",
-      "place": "ロサンゼルス・カウンティ・フェアグラウンズ（Pomona Fairplex）",
-      "link": "https://lacountyfair.com",
+      "title": "ロサンゼルス・カウンティ・フェア（Los Angeles County Fair）",
+      "description": "動物ふれあい、遊乗施設、キッズステージ、地元グルメが楽しめる大規模フェア。乳幼児向けエリアもあり、家族連れに最適です。",
+      "date": "9月上旬〜下旬",
+      "place": "ポモーナ・フェアグラウンド（Fairplex）、601 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://www.lacountyfair.com",
       "free": false
     },
     {
-      "title": "グリフィス天文台での無料観測と展示",
-      "description": "天文台の展示室は入場無料。子ども向けの展示が充実しており、宇宙や天体について楽しく学べます。夜間は有料ショーも開催。",
-      "date": "9月通年",
-      "place": "グリフィス天文台（Griffith Observatory）、4800 East Observatory Road, Los Angeles, CA 90027",
+      "title": "グリフィス天文台での星空観察（Griffith Observatory）",
+      "description": "無料で利用できる天文台。プラネタリウムショーは有料ですが、屋外テラスからの眺望と無料展示が充実。子ども向けプログラムも随時開催。",
+      "date": "9月中旬〜下旬",
+      "place": "グリフィス天文台、2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "サンタモニカ・ピアでのビーチアクティビティと無料イベント",
-      "description": "砂浜での遊び、波乗り教室、ピアでのエンターテイメント。9月は夏休み終わりで人が少なく、子どもが快適に楽しめる屋外スポット。多くの無料イベントも開催。",
-      "date": "9月通年",
-      "place": "サンタモニカ・ピア（Santa Monica Pier）、200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
+      "title": "カリフォルニア・サイエンス・センターの秋企画展",
+      "description": "無料の科学館。9月は季節の特別展や子ども向けワークショップが開催されます。宇宙船や恐竜展示など、あらゆる年代の子どもが楽しめます。",
+      "date": "9月全月",
+      "place": "カリフォルニア・サイエンス・センター、700 Exposition Park Dr, Los Angeles, CA 90037",
+      "link": "https://www.californiasciencecenter.org",
       "free": true
     },
     {
-      "title": "ナチュラル・ヒストリー・ミュージアムの特別展示",
-      "description": "ロサンゼルス自然史博物館では恐竜展示や子ども向けの特別プログラムを開催。動きのある展示で子どもの興味を引き出します。",
-      "date": "9月通年",
-      "place": "ナチュラル・ヒストリー・ミュージアム（Natural History Museum）、900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://nhm.org",
+      "title": "ビーチでのサンセットと海辺アクティビティ（サンタモニカ・ビーチ）",
+      "description": "9月は秋の心地よい気候が続き、海水温もぬるく子どもに最適。砂浜でのビーチバレー、遊具、埠頭でのシーライフ観察など屋外で丸一日楽しめます。",
+      "date": "9月全月",
+      "place": "サンタモニカ・ビーチ、Santa Monica, CA 90401",
+      "link": "https://www.santamonica.com",
+      "free": true
+    },
+    {
+      "title": "ロサンゼルス自然史博物館の秋の企画展",
+      "description": "恐竜、化石、動物標本など子どもを魅了する展示が充実。9月は秋の特別プログラムやガイドツアーが実施されます。",
+      "date": "9月全月",
+      "place": "ロサンゼルス自然史博物館、900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org",
       "free": false
-    },
-    {
-      "title": "アロヨセコ・ウィークエンドに親しむハイキング",
-      "description": "アロヨセコ自然公園でのハイキングとピクニック。9月は初秋で気温が心地よく、自然の中で家族向けハイキングに最適。野鳥観察も可能。",
-      "date": "9月上旬〜中旬（土日祝日）",
-      "place": "アロヨセコ・パークウェイ（Arroyo Seco Park）、Los Angeles, CA",
-      "link": "https://www.laparks.org/dos-rios",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-17T01:57:37.478Z"
+  "updatedAt": "2026-09-21T01:53:08.186Z"
 }

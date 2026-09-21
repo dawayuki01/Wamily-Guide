@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Aloha Festivals（アロハフェスティバル）",
-      "description": "ハワイ文化を祝う大規模フェスティバル。フラダンス、音楽、パレード、工芸品展示など家族向けプログラムが豊富。9月中旬から10月上旬にかけて開催。",
-      "date": "9月中旬〜下旬",
-      "place": "オアフ島全域（主催：Honolulu）",
-      "link": "https://www.alohafestivals.com/",
+      "title": "Aloha Festivals（アロハ・フェスティバル）",
+      "description": "ハワイの文化を祝う月間イベント。パレード、フラダンス、音楽ライブなど家族向けプログラムが豊富。無料で楽しめるステージイベントも多数あります。",
+      "date": "9月上旬〜下旬",
+      "place": "オアフ島全域（メインはワイキキ・ホノルル）",
+      "link": "https://www.alohafestivals.com",
       "free": true
     },
     {
-      "title": "ホノルル動物園サマープログラム",
-      "description": "子ども向けの教育プログラムや夏期特別展示。動物との触れ合い体験やガイドツアーで、家族で楽しく学べます。",
-      "date": "9月上旬〜下旬",
-      "place": "ホノルル動物園（Waikiki、2000 Monsarrat Ave, Honolulu, HI 96815）",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "Diamond Head（ダイヤモンドヘッド）トレッキング",
+      "description": "ワイキキの象徴的な火山。往復約1時間半の初心者向けハイキング。頂上からの絶景とハワイの自然を体験できます。小学生向けの最適なアクティビティです。",
+      "date": "9月全般（早朝推奨）",
+      "place": "Diamond Head State Monument, Honolulu, HI 96815",
+      "link": "https://dlnr.hawaii.gov/dofaw/hiking/oahu/diamond-head/",
       "free": false
     },
     {
-      "title": "ワイキキビーチでのシュノーケリング・ビーチアクティビティ",
-      "description": "9月のハワイは海水温が温かく、シュノーケリング日和。子ども向けのビーチレッスンやウミガメ観察ツアーが開催されます。",
-      "date": "9月上旬〜下旬",
-      "place": "ワイキキビーチ（Honolulu, Oahu）",
-      "link": "",
+      "title": "Honolulu Zoo（ホノルル動物園）子ども向けプログラム",
+      "description": "動物たちとの触れ合いやフィーディングタイム。9月は夏の特別プログラムが開催中。乳幼児から楽しめる施設です。",
+      "date": "9月全般",
+      "place": "151 Kapahulu Ave, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org",
+      "free": false
+    },
+    {
+      "title": "Waikiki Beach Park（ワイキキビーチパーク）無料水遊び",
+      "description": "遠浅で安全なビーチ。ライフガード常駐。波が穏やかで乳幼児も参加できる水遊び・砂遊びに最適。完全無料で家族向けです。",
+      "date": "9月全般",
+      "place": "2552 Kalakaua Ave, Honolulu, HI 96815",
+      "link": "https://www.oahubeaches.com/waikiki-beach",
       "free": true
     },
     {
-      "title": "マノア滝ハイキングトレイル",
-      "description": "初心者向けの往復1.6km程度のハイキングコース。熱帯雨林の自然観察と迫力ある滝が子どもも楽しめます。早朝がおすすめ。",
-      "date": "9月上旬〜下旬",
-      "place": "マノア渓谷トレイル（Manoa Valley, Honolulu, Oahu）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "ビショップ・ミュージアムのキッズプログラム",
-      "description": "ハワイ文化・歴史を学ぶ博物館。子ども向けの特別展示やワークショップで、フラダンスやレイ作りなどハワイ文化を体験できます。",
-      "date": "9月上旬〜下旬",
-      "place": "ビショップ・ミュージアム（1525 Bernice St, Honolulu, HI 96817）",
-      "link": "https://www.bishopmuseum.org/",
+      "title": "Bishop Museum（ビショップミュージアム）キッズプログラム",
+      "description": "ハワイ文化の中心的博物館。9月は夏休み最後の週末イベントが開催。インタラクティブな展示で子どもが楽しく学べます。",
+      "date": "9月全般（特に上旬）",
+      "place": "1525 Bernice St, Honolulu, HI 96817",
+      "link": "https://www.bishopmuseum.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-17T01:57:44.846Z"
+  "updatedAt": "2026-09-21T01:53:15.574Z"
 }
