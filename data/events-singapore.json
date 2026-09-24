@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Mid-Autumn Festival（中秋節）",
-      "description": "ランタン飾りやライトアップ、伝統的なお菓子の販売が各地で行われる。子どもたちがカラフルなランタンを持って町を歩く風情ある季節イベント。",
-      "date": "9月中旬～下旬（旧暦8月15日周辺）",
-      "place": "シンガポール全域（River Hongbao、Sentosa島など主要スポット）",
-      "link": "https://www.stb.gov.sg/",
+      "title": "マリーナ・ベイ・フローラル・ディスプレイ",
+      "description": "マリーナ・ベイ・サンズ周辺に季節の花々が装飾される。子どもも楽しめるインスタ映えスポット。写真撮影に最適な無料アクティビティです。",
+      "date": "9月中旬〜下旬",
+      "place": "Marina Bay, Singapore",
+      "link": "https://www.marinabaysands.com",
       "free": true
     },
     {
-      "title": "Singapore Zoo - Wild Asia Express",
-      "description": "シンガポール動物園の人気アトラクション。小動物とのふれあいやトレーニングショーが楽しめ、乳幼児から小学生まで楽しめる屋外教育プログラム。",
-      "date": "通年（9月は比較的雨の少ない時期）",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.gov.sg/",
+      "title": "シンガポール動物園の「ワイルド・ウォーターズ」プログラム",
+      "description": "夏季の子ども向け特別プログラム。動物との水遊びやエデュケーショナル・アクティビティ。乳幼児から小学生まで楽しめます。",
+      "date": "9月上旬〜中旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road",
+      "link": "https://www.zoo.com.sg",
       "free": false
     },
     {
-      "title": "East Coast Park - Beach Activities",
-      "description": "シンガポール最大の海岸公園。9月は雨季でも晴れ間が多く、ビーチでの砂遊びやサイクリング、ピクニックが楽しめる屋外スポット。",
-      "date": "9月通年（早朝・夕方がおすすめ）",
-      "place": "1200 East Coast Parkway, Singapore 449855",
+      "title": "イースト・コースト・パーク散策・屋外遊び",
+      "description": "広大なビーチパークで砂浜遊び、サイクリング、ピクニック。家族向けの無料屋外アクティビティ。遊具エリアも充実しています。",
+      "date": "9月通年",
+      "place": "East Coast Park, East Coast Parkway",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "Singapore Science Centre - Special Exhibitions",
-      "description": "科学館の季節展示と常設プログラム。キッズラボやインタラクティブ展示で、手を動かしながら学べる屋内アクティビティ。",
-      "date": "9月通年（特別展は変動）",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg/",
+      "title": "シンガポール・サイエンス・センター特別展示",
+      "description": "子ども向けのインタラクティブ展示やワークショップ。季節ごとの特別プログラムで科学の楽しさを学べます。",
+      "date": "9月上旬〜下旬",
+      "place": "Singapore Science Centre, 15 Science Centre Road",
+      "link": "https://www.science.edu.sg",
       "free": false
     },
     {
-      "title": "National Museum of Singapore - Family Programs",
-      "description": "子ども向けの特別ツアーや工作ワークショップを開催。シンガポール文化を学べる屋内施設で、小学生向けの教育プログラムが充実。",
-      "date": "9月通年（週末プログラム開催）",
-      "place": "93 Stamford Road, Singapore 178897",
-      "link": "https://www.nationalmuseum.sg/",
+      "title": "リバー・ワンダーランド・ボート・ツアー",
+      "description": "シンガポール川の自然と歴史を学ぶボートツアー。子どもから大人まで楽しめ、サステナブル・ツーリズム体験ができます。",
+      "date": "9月通年",
+      "place": "Boat Quay, Singapore River",
+      "link": "https://www.stb.gov.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-21T01:52:43.269Z"
+  "updatedAt": "2026-09-24T01:47:46.016Z"
 }

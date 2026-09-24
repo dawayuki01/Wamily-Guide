@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "SM モール・オブ・アジア キッズイベント",
-      "description": "フィリピン最大級のショッピングモール内で開催される子ども向けの季節イベント。ゲームコーナー、ワークショップ、キャラクターグリーティングなど家族向けアクティビティが充実。",
-      "date": "9月中旬〜下旬",
-      "place": "SM モール・オブ・アジア、マニラ湾沿い",
-      "link": "https://www.smmallofasia.com.ph",
+      "title": "SM モール・オブ・アジア キッズ向けイベント＆遊び場",
+      "description": "フィリピン最大級ショッピングモールで開催される子ども向けのアクティビティゾーン。季節ごとのテーマイベント、ゲーム、ワークショップが無料〜低価格で楽しめます。",
+      "date": "9月通年",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
       "free": true
     },
     {
-      "title": "マニラ動物園（Manila Zoo）への訪問",
-      "description": "フィリピン最古の動物園。象、キリン、フラミンゴなど多くの動物が見られます。9月は雨季ですが朝方が狙い目。子ども向けの教育プログラムも実施中。",
-      "date": "9月上旬〜下旬",
-      "place": "パコ、マニラ（Paco Park近く）",
-      "link": "https://www.manilazooph.com",
+      "title": "フィリピン国立自然史博物館 夏休みプログラム",
+      "description": "恐竜、海洋生物、フィリピンの自然に関する展示と子ども向けワークショップ。9月は日本の夏休み終盤で、親子で学べる教育的アクティビティが充実しています。",
+      "date": "9月上旬〜中旬",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     },
     {
-      "title": "ロハス・ブールバード（Roxas Boulevard）サイクリング・散策",
-      "description": "マニラ湾沿いの広大な遊歩道。夕刻は多くの家族連れで賑わいます。無料で散歩やサイクリングを楽しめます。屋台も多く、フィリピン文化を体験できます。",
-      "date": "9月全月（特に早朝・夕方推奨）",
-      "place": "ロハス・ブールバード、マニラ湾沿い",
+      "title": "タグアイタイ高原 野外アクティビティと季節の花",
+      "description": "マニラから車で約1.5時間。涼しい気候でトレッキング、乗馬、フルーツ狩りなどの屋外体験。9月は雨季ながら新緑が美しく、子どもの探検心をくすぐります。",
+      "date": "9月下旬推奨（雨季ピーク前）",
+      "place": "Tagaytay, Cavite Province",
       "link": "",
-      "free": true
-    },
-    {
-      "title": "フィリピン国立博物館（Philippine National Museum）キッズプログラム",
-      "description": "美術館・博物館・自然史館など複合施設。9月は学校休みで子ども向けワークショップやガイド付きツアーが充実。恐竜展示は子どもに人気。",
-      "date": "9月中旬〜下旬（学校休み期間中）",
-      "place": "ルネタ公園内、フィリピン国立博物館",
-      "link": "https://nationalmuseum.gov.ph",
       "free": false
     },
     {
-      "title": "ルネタ公園（Luneta Park）での屋外活動",
-      "description": "マニラの中心部にある広大な公園。遊具、芝生広場、無料の屋外イベントが随時開催。家族向けのレクリエーション活動が充実。朝方が過ごしやすい。",
-      "date": "9月全月（早朝推奨）",
-      "place": "リサール公園（ルネタ公園）、マニラ",
-      "link": "https://www.tourism.gov.ph",
+      "title": "ロハス公園（Luneta Park/Rizal Park）無料屋外レクリエーション",
+      "description": "マニラ最大の都市公園。広場でのピクニック、遊具エリア、池での景観楽しみ。定期的にファミリー向けイベントも開催。完全無料で半日楽しめます。",
+      "date": "9月通年（早朝がおすすめ）",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.tripadvisor.com.ph/Tourism-g317155-Rizal_Park_Manila_Calabarzon_Region_Calabarzon.html",
       "free": true
+    },
+    {
+      "title": "スターシティ・テーマパーク キッズシーズンプログラム",
+      "description": "フィリピン最大級の遊園地。9月はローシーズンで混雑が少なく、ファミリー向けの割引キャンペーンが展開されます。乳幼児〜小学生向けアトラクション多数。",
+      "date": "9月通年",
+      "place": "Pasay City",
+      "link": "https://www.starcity.com.ph/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-21T01:53:00.105Z"
+  "updatedAt": "2026-09-24T01:48:02.660Z"
 }

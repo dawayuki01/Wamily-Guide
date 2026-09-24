@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソウル秋祭り（Seoul Autumn Festival）",
-      "description": "9月下旬から10月にかけて開催される、伝統文化体験、K-POPコンサート、フードフェスティバルなど家族向けプログラムが豊富な大型祭り。子ども向けの体験コーナーも多数。",
-      "date": "9月下旬～10月中旬",
-      "place": "ソウル広場・清渓広場周辺（Seoul Plaza, Cheonggyecheon Area）",
-      "link": "https://www.seoul.go.kr/news/news_report.do",
+      "title": "ソウル灯祭り（Seoul Lantern Festival）",
+      "description": "清渓川沿いで開催される大規模な灯籠祭り。カラフルな灯籠アート、子ども向けワークショップ、伝統文化体験が楽しめる9月の風物詩。",
+      "date": "9月中旬〜下旬",
+      "place": "清渓川文化館周辺・ソウル市中区",
+      "link": "https://www.seoullanternfestival.kr",
       "free": true
     },
     {
-      "title": "南山タワー子ども向け特別展示・体験プログラム",
-      "description": "ナンサンタワーでは秋シーズンに子ども向けの特別プログラム（映像体験、アート展示など）を開催。タワーからのソウル市街地の眺望も素晴らしく、家族向けのスナック施設も充実。",
-      "date": "9月上旬～下旬",
-      "place": "南山タワー（Namsan Tower, Seoul）",
-      "link": "https://www.seoultower.co.kr/",
+      "title": "南山タワー周辺の秋祭り・スカイライト体験",
+      "description": "南山タワーで開催される秋イベント。展望台からのパノラマ、キッズ向け体験プログラム、家族向けの季節限定アクティビティが充実。",
+      "date": "9月上旬〜10月中旬",
+      "place": "南山タワー・ソウル市龍山区",
+      "link": "https://www.seoulnamsantower.co.kr",
       "free": false
     },
     {
-      "title": "漢江公園（ハンガン）サイクリング＆ピクニック",
-      "description": "秋の爽やかな気候の中、漢江公園でのサイクリング、ピクニック、水遊びなど。レンタル自転車やキッズ用バイクも豊富。広大な公園で家族向けの屋外アクティビティに最適。",
-      "date": "9月上旬～下旬",
-      "place": "漢江公園各地点（Hangang Park, Seoul）",
-      "link": "https://parks.seoul.go.kr/template/sub/hangang.do",
+      "title": "ソウル子ども大公園の秋イベント",
+      "description": "子ども向け施設が充実した公園で開催される秋のプログラム。動物園、植物園、キッズ乗り物、季節ワークショップで一日楽しめます。",
+      "date": "9月全月",
+      "place": "ソウル子ども大公園・ソウル市広진区",
+      "link": "https://www.sisul.or.kr/park/children",
+      "free": false
+    },
+    {
+      "title": "漢江公園でのピクニック・秋の野外活動",
+      "description": "広大な河川敷公園でレンタル自転車、ピクニック、水遊び。9月の心地よい気候で家族向けアウトドアアクティビティが最適。",
+      "date": "9月全月",
+      "place": "漢江公園（複数の公園地区）・ソウル市全域",
+      "link": "https://hanpark.seoul.go.kr",
       "free": true
     },
     {
-      "title": "ソウル子ども大公園の秋イベント＆動物園",
-      "description": "秋の特別イベント、動物園での動物観察、遊園地での乗り物体験。子どもたちが自然とふれあえる広大な公園。季節限定の秋祭りプログラムも開催される。",
-      "date": "9月上旬～下旬",
-      "place": "ソウル子ども大公園（Seoul Children's Grand Park, Gwangjin-gu）",
-      "link": "https://www.sisul.or.kr/park/childrenpark/",
-      "free": false
-    },
-    {
-      "title": "東大門デザインプラザ（DDP）キッズ向けワークショップ＆展示",
-      "description": "近代的な建築が特徴のDDPで、子ども向けアート体験ワークショップや季節展示を開催。家族向けのカフェ・レストランも充実し、建築美を楽しみながら文化体験できる。",
-      "date": "9月上旬～下旬",
-      "place": "東大門デザインプラザ（DDP, Dongdaemun Design Plaza, Jung-gu）",
-      "link": "https://www.ddp.or.kr/",
+      "title": "Lotte World Adventure・秋のシーズナルイベント",
+      "description": "室内外テーマパークで開催される秋限定イベント。乳幼児〜小学生向けアトラクション、家族向けショー、季節装飾で一日楽しめます。",
+      "date": "9月全月",
+      "place": "ロッテワールド・ソウル市松坡区",
+      "link": "https://www.lotteworld.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-21T01:53:24.285Z"
+  "updatedAt": "2026-09-24T01:48:25.232Z"
 }

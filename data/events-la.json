@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・カウンティ・フェア（Los Angeles County Fair）",
-      "description": "動物ふれあい、遊乗施設、キッズステージ、地元グルメが楽しめる大規模フェア。乳幼児向けエリアもあり、家族連れに最適です。",
-      "date": "9月上旬〜下旬",
-      "place": "ポモーナ・フェアグラウンド（Fairplex）、601 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://www.lacountyfair.com",
+      "title": "LA County Fair（ロサンゼルス郡フェア）",
+      "description": "9月開催の大規模フェア。乗り物、ゲーム、キャラクターショー、動物との触れ合いなど家族向けアトラクションが充実。地元グルメも楽しめます。",
+      "date": "9月上旬〜中旬",
+      "place": "Pomona Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://lacountyfair.com",
       "free": false
     },
     {
-      "title": "グリフィス天文台での星空観察（Griffith Observatory）",
-      "description": "無料で利用できる天文台。プラネタリウムショーは有料ですが、屋外テラスからの眺望と無料展示が充実。子ども向けプログラムも随時開催。",
-      "date": "9月中旬〜下旬",
-      "place": "グリフィス天文台、2800 E Observatory Rd, Los Angeles, CA 90027",
+      "title": "Griffith Observatory での無料観察会とハイキング",
+      "description": "グリフィス天文台での無料夜間観察会（火〜日）。子どもも楽しめるプラネタリウム、展示、美しい夜景。昼間のハイキングコースも家族向け。",
+      "date": "9月通年",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
       "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "カリフォルニア・サイエンス・センターの秋企画展",
-      "description": "無料の科学館。9月は季節の特別展や子ども向けワークショップが開催されます。宇宙船や恐竜展示など、あらゆる年代の子どもが楽しめます。",
-      "date": "9月全月",
-      "place": "カリフォルニア・サイエンス・センター、700 Exposition Park Dr, Los Angeles, CA 90037",
-      "link": "https://www.californiasciencecenter.org",
-      "free": true
-    },
-    {
-      "title": "ビーチでのサンセットと海辺アクティビティ（サンタモニカ・ビーチ）",
-      "description": "9月は秋の心地よい気候が続き、海水温もぬるく子どもに最適。砂浜でのビーチバレー、遊具、埠頭でのシーライフ観察など屋外で丸一日楽しめます。",
-      "date": "9月全月",
-      "place": "サンタモニカ・ビーチ、Santa Monica, CA 90401",
+      "title": "Santa Monica Beach でのビーチアクティビティ",
+      "description": "9月は水温が高く遊泳に最適。サンタモニカピアでのレトロなアミューズメント、遊具、波乗り教室など。無料で砂浜で遊べます。",
+      "date": "9月通年",
+      "place": "Santa Monica Beach, 1642 Promenade, Santa Monica, CA 90401",
       "link": "https://www.santamonica.com",
       "free": true
     },
     {
-      "title": "ロサンゼルス自然史博物館の秋の企画展",
-      "description": "恐竜、化石、動物標本など子どもを魅了する展示が充実。9月は秋の特別プログラムやガイドツアーが実施されます。",
-      "date": "9月全月",
-      "place": "ロサンゼルス自然史博物館、900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org",
+      "title": "LA Zoo の秋の特別プログラム",
+      "description": "ロサンゼルス動物園の動物教育プログラムやキーパートーク。9月は比較的涼しく動物観察に適した季節。子ども向けワークショップも開催。",
+      "date": "9月通年",
+      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
       "free": false
+    },
+    {
+      "title": "Downtown Los Angeles Grand Central Market での家族向けワークショップ",
+      "description": "歴史ある屋内マーケットでの食文化体験。各種レストランで多国籍料理を試食。子ども向けの調理デモンストレーションやアート体験も季節開催。",
+      "date": "9月通年",
+      "place": "Grand Central Market, 317 S Broadway, Los Angeles, CA 90013",
+      "link": "https://www.grandcentralmarket.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-21T01:53:08.186Z"
+  "updatedAt": "2026-09-24T01:48:09.567Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム映画祭（Stockholm International Film Festival）",
-      "description": "北欧最大級の映画祭。子ども向けの映画上映や家族向けプログラムが充実。9月中旬から下旬にかけて市内各地で開催されます。",
+      "title": "ストックホルム国際映画祭（Stockholm International Film Festival）",
+      "description": "北欧最大級の映画祭。子ども向けプログラムも充実しており、家族で楽しめる映画上映やワークショップが開催されます。",
       "date": "9月中旬〜下旬",
-      "place": "ストックホルム市内各地",
-      "link": "https://www.stockholmfilmfestival.se",
+      "place": "ストックホルム市内各劇場",
+      "link": "https://www.stockholmfilmfestival.se/",
       "free": false
     },
     {
-      "title": "スキャンセン野外博物館での秋のアクティビティ",
-      "description": "伝統的なスウェーデン建築と動物園。秋の収穫祭やハロウィンイベントが開催。子どもが動物とふれあい、季節の変化を体験できます。",
-      "date": "9月全期間",
-      "place": "Djurgården, Skansen, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
+      "title": "スカンセン野外博物館での秋の収穫祭",
+      "description": "北欧伝統文化を体験できる野外博物館。秋の収穫時期に伝統的な秋祭りが開催され、動物との触れ合いや手工芸体験が楽しめます。",
+      "date": "9月上旬〜10月中旬",
+      "place": "Djurgården, Skansen, Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ストックホルム王宮での衛兵交代式（無料観覧）",
-      "description": "王宮前広場で行われる壮厳な衛兵交代式。9月も毎日実施。子どもも楽しめる儀式で、スウェーデンの文化を学べます。",
-      "date": "9月全期間（毎日）",
-      "place": "Gamla Stan, Slottsbacken, 111 30 Stockholm",
-      "link": "https://www.kungligaslotten.se",
-      "free": true
-    },
-    {
-      "title": "ジュルガーデン島でのサイクリング・遊歩道散策",
-      "description": "ストックホルム随一の緑地。秋の紅葉が美しく、遊び場や遊歩道が充実。家族で自転車をレンタルして自然を満喫できます。",
+      "title": "ユールゴーデン島での秋の自然散策・無料公園利用",
+      "description": "スウェーデン王妃の離宮やアミューズメント施設がある島。秋の景色を楽しむ無料の散策、公園での遊びが最高の季節。芝生エリアで家族でピクニックも可能。",
       "date": "9月全期間",
       "place": "Djurgården, Stockholm",
-      "link": "https://www.visitstockholm.com",
+      "link": "https://www.visitstockholm.com/what-to-do/djurgarden/",
       "free": true
     },
     {
-      "title": "スウェーデン自然史博物館（Naturhistoriska riksmuseet）での秋プログラム",
-      "description": "恐竜展示やインタラクティブな自然科学展示。秋の特別プログラムで子ども向けワークショップを開催。室内で学習と体験ができます。",
-      "date": "9月全期間",
-      "place": "Frescativägen 40, 104 05 Stockholm",
-      "link": "https://www.nrm.se",
+      "title": "ヴァーサ号博物館の子ども向け特別プログラム",
+      "description": "17世紀の戦艦を展示する世界的博物館。子ども向けの探検ガイドツアーやアクティビティが秋に開催され、歴史体験が可能です。",
+      "date": "9月全期間（特定日程）",
+      "place": "Galärvarvsvägen 14, Djurgården, Stockholm",
+      "link": "https://www.vasamuseet.se/",
       "free": false
+    },
+    {
+      "title": "ストックホルムの秋マーケット（Höstmarknad）",
+      "description": "地元の秋の農産物、工芸品が並ぶマーケット。無料で散策でき、地元の食文化を体験。子ども向けの食べ物やアクティビティも多数出店。",
+      "date": "9月中旬〜下旬",
+      "place": "ストックホルム市内各地（主にガムラスタンやノルマルム地区）",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-21T01:52:35.674Z"
+  "updatedAt": "2026-09-24T01:47:38.964Z"
 }
