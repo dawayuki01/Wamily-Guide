@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Mid-Autumn Festival（中秋節）",
-      "description": "提灯飾り、ランタン行列、伝統菓子の試食など。チャイナタウンやシンガポール川周辺で開催。子どもたちが色とりどりの提灯を持って歩く風習は必見です。",
-      "date": "9月下旬〜10月上旬（旧暦8月15日）",
-      "place": "チャイナタウン、River Hongbao周辺",
+      "title": "Deepavali（ディパバリ・光の祭り）",
+      "description": "インド系住民による光の祭り。リトル・インディアで色鮮やかなランプ、装飾、露店が並び、子どもが異文化を体験できます。無料で楽しめます。",
+      "date": "10月下旬〜11月上旬",
+      "place": "リトル・インディア（Little India）、シンガポール",
       "link": "https://www.visitsingapore.com/",
       "free": true
     },
     {
-      "title": "Gardens by the Bay - Heritage Storytelling & Family Workshops",
-      "description": "親子向けのワークショップやガイドツアー。熱帯植物について学び、自然観察できます。屋外庭園での探検型アクティビティもあり。",
-      "date": "9月通年（週末中心）",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive",
+      "title": "Gardens by the Bay – Autumn Light Festival",
+      "description": "ガーデンズ・バイ・ザ・ベイで秋のテーマの光と音のショー。Supertreeのライトアップと季節装飾が楽しめ、家族向けの特別プログラムも実施。",
+      "date": "10月中旬〜11月中旬",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore",
       "link": "https://www.gardensbythebay.com.sg/",
       "free": false
     },
     {
-      "title": "Singapore Zoo - Breakfast with the Animals",
-      "description": "朝食時に動物たちを見学する特別体験。テーマパーク内での親子向けアクティビティやショーも充実しています。9月は比較的混雑が少ない時期。",
-      "date": "9月通年（毎日開園）",
-      "place": "Singapore Zoo, 80 Mandai Lake Road",
-      "link": "https://www.zoo.com.sg/",
+      "title": "Singapore Science Centre – Autumn School Holiday Programme",
+      "description": "科学センターの秋休み特別プログラム。実験教室やワークショップなど、子ども向けの体験学習が充実。乳幼児〜小学生向け複数コース。",
+      "date": "10月（学校休暇期間に開催）",
+      "place": "Singapore Science Centre, 15 Science Centre Road, Singapore",
+      "link": "https://www.science.edu.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park - Family Cycling & Beach Activities",
-      "description": "シンガポール最大のビーチパーク。自転車レンタル、砂浜での遊び、ピクニックが無料。海沿いの屋外アクティビティで家族連れに人気です。",
-      "date": "9月通年",
-      "place": "East Coast Park, East Coast Parkway",
+      "title": "East Coast Park – Family Beach Day",
+      "description": "シンガポール最大のビーチパークでの屋外アクティビティ。遊具、自転車レンタル、安全な水浴びスポットで家族向けにぴったり。無料で利用可。",
+      "date": "10月全期間",
+      "place": "East Coast Park, Singapore",
       "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
       "free": true
     },
     {
-      "title": "National Museum of Singapore - Kids Discovery Programme",
-      "description": "子ども向けの探索型展示やワークショップ。シンガポールの歴史と文化を楽しく学べます。冷房完備で暑い季節に最適。",
-      "date": "9月通年",
-      "place": "National Museum of Singapore, 93 Stamford Road",
-      "link": "https://www.nationalmuseum.sg/",
+      "title": "SEA Aquarium – Creature of the Deep Experience",
+      "description": "シンガポール水族館で秋の特別プログラム。ダイバーショー、タッチプール、乳幼児向けの読み聞かせイベントなど体験型コンテンツが豊富。",
+      "date": "10月全期間",
+      "place": "S.E.A. Aquarium, 8 Sentosa Gateway, Singapore",
+      "link": "https://www.rwsentosa.com/en/attractions/sea-aquarium",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-28T02:09:20.785Z"
+  "updatedAt": "2026-10-01T02:38:17.802Z"
 }

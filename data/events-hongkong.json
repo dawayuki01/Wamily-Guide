@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港ディズニーランド秋のスペシャルイベント",
-      "description": "9月は秋のテーマイベントが開催。キャラクターグリーティングや季節限定アトラクション、子ども向けワークショップなど家族向けプログラムが充実しています。",
-      "date": "9月上旬〜下旬",
-      "place": "香港ディズニーランド、ランタオ島",
-      "link": "https://www.hongkongdisneyland.com/",
+      "title": "香港アート・バーゼル（Art Basel Hong Kong）",
+      "description": "アジア最大級の現代美術フェア。子ども向けアート体験ワークショップやファミリーデーがあり、創造性を刺激する環境で家族で楽しめます。",
+      "date": "10月中旬〜下旬",
+      "place": "香港会議展覧館（Hong Kong Convention and Exhibition Centre）、湾仔",
+      "link": "https://www.artbasel.com/hong-kong",
       "free": false
     },
     {
-      "title": "ビクトリアパーク秋の花火祭り・コミュニティイベント",
-      "description": "9月中旬から下旬にかけて、地元コミュニティの屋外フェスティバルや子ども向けアクティビティが開催。広大な公園で家族連れが楽しめます。",
-      "date": "9月中旬〜下旬",
-      "place": "ビクトリアパーク、銅鑼灣（Causeway Bay）",
-      "link": "https://www.lcsd.gov.hk/en/parks/vp/index.php",
+      "title": "スターフェリー乗船体験（Star Ferry Ride）",
+      "description": "ビクトリア湾を横断する100年以上の歴史を持つスターフェリー。秋の心地よい気候の中、海からの香港スカイラインの眺望は最高。子どもも大喜びです。",
+      "date": "10月上旬〜下旬通年",
+      "place": "スターフェリー乗船場（中環・湾仔・尖沙咀各所）",
+      "link": "https://www.starferry.com.hk",
+      "free": false
+    },
+    {
+      "title": "ビクトリア・ピーク・ハイキング（無料）",
+      "description": "ピークトラムで頂上に到着後、初心者向けハイキングコースを散策。秋の涼しい気候は家族ハイキングに最適。無料で香港全景を望めます。",
+      "date": "10月上旬〜下旬",
+      "place": "ビクトリア・ピーク（The Peak）、中環",
+      "link": "https://www.thepeak.com.hk",
       "free": true
     },
     {
-      "title": "香港サイエンスミュージアム秋の特別展示",
-      "description": "秋シーズンに子ども向けの特別展示やハンズオン体験プログラムを開催。STEM学習や科学実験ワークショップで乳幼児から小学生まで楽しめます。",
-      "date": "9月上旬〜下旬",
-      "place": "香港サイエンスミュージアム、尖沙咀（Tsim Sha Tsui）",
-      "link": "https://www.lcsd.gov.hk/en/museums/science/index.html",
+      "title": "スノウ・ワールド（Snow World at K11 Musea）",
+      "description": "屋内スノーパーク。秋から冬へ向かう季節に、人工雪の中で滑りや雪遊びが楽しめます。小さな子どもでも安心のキッズエリアがあります。",
+      "date": "10月〜翌年3月（季節営業）",
+      "place": "K11 Musea、尖沙咀",
+      "link": "",
       "free": false
     },
     {
-      "title": "スターフェリー乗車体験・ビクトリアハーバー無料クルーズ",
-      "description": "香港の象徴的なスターフェリーに乗船。ビクトリアハーバーの景色を楽しめ、子どもにとって忘れられない体験になります。乗車料金のみで特別な景観を楽しめます。",
-      "date": "9月通年",
-      "place": "スターフェリー乗り場、セントラル〜尖沙咀間",
-      "link": "https://www.starferry.com.hk/",
-      "free": false
-    },
-    {
-      "title": "オーシャンパーク秋のスペシャルプログラム",
-      "description": "水族館と遊園地を兼ねた施設で、秋季の子ども向けワークショップや動物餌やり体験プログラムが充実。屋外でも屋内でも楽しめます。",
-      "date": "9月上旬〜下旬",
-      "place": "オーシャンパーク、ウォンチャイ南（Wong Chuk Hang）",
-      "link": "https://www.oceanpark.com.hk/",
+      "title": "スターライト・シアター（Starlight Theatre at Hong Kong Disneyland）の秋プログラム",
+      "description": "香港ディズニーランドの秋限定エンターテイメント。子ども向けショーやパレード、季節装飾が楽しめ、家族で丸一日楽しめるテーマパーク体験。",
+      "date": "10月上旬〜下旬",
+      "place": "香港ディズニーランド・リゾート、ランタオ島",
+      "link": "https://www.hongkongdisneyland.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-28T02:10:22.724Z"
+  "updatedAt": "2026-10-01T02:39:06.648Z"
 }

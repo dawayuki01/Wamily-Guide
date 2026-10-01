@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・プラージュ（Paris-Plage）",
-      "description": "セーヌ河畔に砂浜やビーチベッドが出現。子どもの水遊び場、音楽イベント、屋外映画など。パリの夏の風物詩で無料で楽しめます。",
-      "date": "9月上旬〜中旬",
-      "place": "セーヌ河畔（ポン・デ・ザルムからポン・ドートュイユ周辺）",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館「子どもワークショップ」",
-      "description": "美術館が提供する子ども向け特別プログラム。年齢別ガイドツアーやアート制作体験。名画を遊びながら学べます。",
-      "date": "9月上旬〜下旬（週末・平日）",
-      "place": "ルーヴル美術館、パレ・ロワイアル広場、75001パリ",
-      "link": "https://www.louvre.fr",
+      "title": "パリ・オートンヌ・フェスティバル（Paris Automne）",
+      "description": "秋の芸術祭。子ども向けワークショップ、劇場公演、音楽イベントが開催。家族で秋の文化を楽しめます。",
+      "date": "10月上旬〜11月中旬",
+      "place": "パリ市内各地",
+      "link": "https://www.parisautomne.paris",
       "free": false
     },
     {
-      "title": "モンソー公園での秋の自然散策",
-      "description": "広大な緑地公園で秋の景色を楽しめます。池、遊具、並木道が充実。子どもが安全に走り回れる。パリの日常風景を体験できます。",
-      "date": "9月中旬〜下旬",
-      "place": "モンソー公園（Parc Monceau）、17e区",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "シテ科学館「キッズゾーン」特別展示",
-      "description": "最新テクノロジーや自然科学を学べる子ども向けエリア。対話型展示が充実。乳幼児から小学生まで楽しめます。",
-      "date": "9月上旬〜下旬（通年開催）",
-      "place": "シテ・デ・サイエンス、ラ・ヴィレット公園、19e区",
-      "link": "https://www.cite-sciences.fr",
+      "title": "ラ・ファリエール・デ・モンマルトル（牧場と動物ふれあい）",
+      "description": "モンマルトルの牧場で動物たちと触れ合い。秋の自然を感じながら、乳幼児から小学生が楽しめるアクティビティです。",
+      "date": "10月通年営業",
+      "place": "Rue Saint-Rustique, 75018 Paris",
+      "link": "https://www.lamaisonrosemontmartre.com",
       "free": false
     },
     {
-      "title": "ノートルダム大聖堂再開記念イベント",
-      "description": "2024年4月再開のノートルダム。9月は秋シーズンの観光シーズンで混雑。子連れ向けガイドツアーやファミリーチケットが利用できます。",
-      "date": "9月中旬〜下旬",
-      "place": "ノートルダム・ド・シャルトル大聖堂、Île de la Cité, 75004パリ",
-      "link": "https://www.notredamedechartres.com",
+      "title": "セーヌ河畔の秋散策・無料オープンエア市場",
+      "description": "セーヌ河畔の散策路は秋の景色が美しく、週末の無料オープンマーケットで地元の食材やおもちゃを購入。屋外での家族散策に最適。",
+      "date": "10月通年（土日祝日のマーケット）",
+      "place": "Seine riverbanks / パリ中央エリア（Île Saint-Louis周辺）",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "ポンピドゥー・センター・キッズアート展",
+      "description": "モダンアート美術館で子ども向け特別展示・ワークショップを開催。対話型アート体験で、親子で現代美術を楽しめます。",
+      "date": "10月（特別プログラム開催）",
+      "place": "Place Georges-Pompidou, 75004 Paris",
+      "link": "https://www.centrepompidou.fr",
+      "free": false
+    },
+    {
+      "title": "ハロウィンイベント・ドルマ・テーマパーク（Parc Astérix周辺）",
+      "description": "パリ郊外テーマパークで秋ハロウィンイベント。仮装パレード、キャラクターショー、キッズアトラクション満載。",
+      "date": "10月中旬〜下旬",
+      "place": "Parc Astérix, Plailly, 60128 France（パリ北郊40km）",
+      "link": "https://www.parcasterix.fr",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-28T02:09:02.782Z"
+  "updatedAt": "2026-10-01T02:38:02.794Z"
 }

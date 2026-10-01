@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Stockholm Culture Festival（ストックホルム文化祭）",
-      "description": "9月に開催される北欧最大級の文化祭。子ども向けのワークショップ、音楽パフォーマンス、演劇など多数のプログラムが無料で楽しめます。",
-      "date": "9月上旬〜中旬",
-      "place": "ストックホルム市内各地（主に王立公園など）",
-      "link": "https://www.stockholmsfestivalen.se",
-      "free": true
+      "title": "Stockholms Skärgård（ストックホルム群島）の秋の紅葉クルーズ",
+      "description": "ストックホルム群島の美しい秋景色を船で巡るクルーズ。島々の紅葉と海の風景を楽しめ、子どもも喜ぶ屋外アクティビティ。",
+      "date": "10月上旬〜10月下旬",
+      "place": "Strandvägen/Norrmalm, Stockholm",
+      "link": "https://www.waxholmsbolaget.se",
+      "free": false
     },
     {
-      "title": "Skansen Open-Air Museum の秋の収穫祭",
-      "description": "北欧最大の野外博物館スカンセンで開催される秋の収穫祭。伝統的な手工芸体験、動物との触れ合い、季節の食べ物が楽しめます。",
-      "date": "9月中旬〜下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
+      "title": "Skansen（スカンセン野外博物館）の秋祭り",
+      "description": "北欧最大の野外博物館で開催される秋イベント。伝統工芸展示、地元の食べ物、動物との触れ合い体験が豊富で家族向け。",
+      "date": "10月上旬〜10月下旬",
+      "place": "Djurgårdsslätten 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "Stockholms Skärgård（ストックホルムの群島）でのカヤック・島巡りツアー",
-      "description": "30,000個の島々からなるストックホルム群島でのカヤックやボートツアー。秋の自然を満喫でき、多くのツアー業者が子ども向けプログラムを提供しています。",
-      "date": "9月上旬〜中旬",
-      "place": "ストックホルム市街地から出発（Norrmalm地区など）",
-      "link": "https://www.visitstockholm.com",
+      "title": "Drottningholm Palace（ドロットニングホルム王宮）の秋庭園散策",
+      "description": "ユネスコ世界遺産の王宮と広大な庭園を散策。秋の色彩豊かな景色と宮殿見学が同時に楽しめる無料の屋外スポット。",
+      "date": "10月上旬〜10月下旬",
+      "place": "Drottningholm, 171 71 Ekerö, Sweden",
+      "link": "https://www.royalpalaces.se/drottningholm-palace",
+      "free": true
+    },
+    {
+      "title": "Fotografiska Stockholm（フォトグラフィスカ）の子ども向け特別展示",
+      "description": "写真美術館が開催する家族向けの特別展示やワークショップ。視覚的に楽しめるインタラクティブなコンテンツが充実。",
+      "date": "10月上旬〜10月下旬",
+      "place": "Fiskaregatan 17, 111 52 Stockholm",
+      "link": "https://www.fotografiska.se/stockholm",
       "free": false
     },
     {
-      "title": "Junibacken の秋のプログラム",
-      "description": "スウェーデン児童文学をテーマにした子どものための体験館。秋限定の特別展示やアクティビティで、北欧の物語の世界に浸れます。",
-      "date": "9月通年",
-      "place": "Junibacken, Galärvarvsvägen 14, Djurgården, Stockholm",
-      "link": "https://www.junibacken.se",
-      "free": false
-    },
-    {
-      "title": "Fotografiska Stockholm の家族向けワークショップ",
-      "description": "写真美術館で開催される子ども向けの創意的なワークショップ。カメラの使い方や秋の風景撮影など、親子で参加できるプログラムがあります。",
-      "date": "9月各週末",
-      "place": "Fotografiska, Stadsgårdshamnen 22, Stockholm",
-      "link": "https://www.fotografiska.se",
-      "free": false
+      "title": "Gamla Stan（ガムラスタン）の秋マーケット",
+      "description": "ストックホルムの旧市街で開催される秋マーケット。地元の農産物、手工芸品、キッズ向けアクティビティ。無料で散策可能。",
+      "date": "10月中旬〜10月下旬",
+      "place": "Gamla Stan, Stockholm Old Town",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-28T02:09:11.827Z"
+  "updatedAt": "2026-10-01T02:38:10.252Z"
 }

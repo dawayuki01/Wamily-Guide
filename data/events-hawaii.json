@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Aloha Festivals（アロハ・フェスティバル）",
-      "description": "ハワイ文化を祝う大規模フェスティバル。フラショー、音楽ライブ、パレード、ハワイアン工芸品の展示販売など、家族向けプログラムが充実。各島で開催。",
-      "date": "9月上旬〜10月中旬",
-      "place": "オアフ島・マウイ島・ハワイ島など各島",
-      "link": "https://www.alohafestivals.com/",
+      "title": "Aloha Festivals",
+      "description": "ハワイ文化を祝う州全体のイベント。パレード、フラ・ダンス、音楽ステージ、工芸品展示など。子どもも楽しめるハワイアン文化体験が豊富です。",
+      "date": "10月上旬〜下旬",
+      "place": "オアフ島全域（ホノルル、他地域）",
+      "link": "https://www.alohafestivals.com",
       "free": true
     },
     {
-      "title": "ワイキキ・アクアリウムの季節プログラム",
-      "description": "夏休みの延長期間中、子どもたちが海の生き物について学べるインタラクティブなプログラムや、タッチプール体験が提供される。乳幼児向けのプログラムもあり。",
-      "date": "9月全般",
-      "place": "ワイキキ・アクアリウム（2777 Kalakaua Ave, Honolulu）",
-      "link": "https://www.waikikiaquarium.org/",
+      "title": "Honolulu Zoo Fall Fun Day",
+      "description": "ホノルル動物園の秋のスペシャルイベント。動物とのふれあいタイム、教育プログラム、キッズ向けアクティビティが充実。乳幼児から楽しめます。",
+      "date": "10月中旬",
+      "place": "ホノルル動物園（ワイキキ、50 Aala Park）",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "KCC Farmers Market（カカアコ・ファーマーズマーケット）",
-      "description": "毎週水・土曜に開催される地元農産物・フードスタンドの市場。新鮮なトロピカルフルーツやローカルフードを試食でき、家族連れに人気。無料で散策・試食可能。",
-      "date": "9月毎週水土曜",
-      "place": "KCC Farmers Market（2271 Beretania Street, Honolulu）",
-      "link": "https://www.kkccfarmersmarket.com/",
+      "title": "Snorkeling at Hanauma Bay",
+      "description": "オアフ島で最高の海洋保護区。海亀やカラフルな魚が見られ、浅瀬は小さな子どもも安心。自然保全学習も兼ねた屋外アクティビティ。",
+      "date": "10月全般（通年営業）",
+      "place": "ハナウマ湾（オアフ島東側、7455 Kalanianaole Hwy）",
+      "link": "https://www.honolulu.gov/parks/park-info-hanauma-bay.html",
+      "free": false
+    },
+    {
+      "title": "Waikiki Farmers Market",
+      "description": "毎週土曜朝の地元農産物・工芸品マーケット。ハワイ産フルーツ試食、地元の雰囲気を体験。無料で散策でき、朝食購入も可。",
+      "date": "10月全般（毎週土曜）",
+      "place": "クヒオビーチパーク（ワイキキ、オアフ島）",
+      "link": "https://www.waikikifarmersmkt.com",
       "free": true
     },
     {
-      "title": "ハナウマ湾でのシュノーケリング体験",
-      "description": "ハワイ屈指のシュノーケリングスポット。カラフルな熱帯魚やウミガメが見られる。9月は水温が温かく、子どもも楽しみやすい時期。ライフジャケット着用で安全に。",
-      "date": "9月全般（毎週火曜定休）",
-      "place": "ハナウマ湾（Hanauma Bay Nature Preserve, Honolulu）",
-      "link": "https://www.honolulu.gov/parks/programs-services/hanauma-bay-nature-preserve.html",
-      "free": false
-    },
-    {
-      "title": "ホノルル動物園の秋の特別プログラム",
-      "description": "バックヤードツアーや動物の食事タイムなど季節限定プログラムを開催。小学生向けの教育ワークショップも充実。広大な園内で様々な動物に出会える。",
-      "date": "9月全般",
-      "place": "ホノルル動物園（151 Kapahulu Ave, Honolulu）",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "Hawaii Children's Discovery Center Autumn Programs",
+      "description": "ホノルルの子ども向けミュージアム。秋限定STEM学習プログラム、インタラクティブ展示、屋内で安心。乳幼児〜小学生向けコンテンツが豊富。",
+      "date": "10月全般",
+      "place": "ハワイ・チルドレンズ・ディスカバリー・センター（111 Ohe St, Honolulu）",
+      "link": "https://www.discoverycenterhawaii.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-28T02:10:07.073Z"
+  "updatedAt": "2026-10-01T02:38:49.508Z"
 }

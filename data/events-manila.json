@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ナショナル・ヘリテージ・マンス（National Heritage Month）",
-      "description": "フィリピンの文化遺産を祝う月間。博物館の特別展示、文化的なパフォーマンス、子ども向けワークショップが開催される。フィリピンの伝統文化を学べます。",
-      "date": "9月全体",
-      "place": "フィリピン国立博物館（National Museum of the Philippines）、Padre Burgos St, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "マニラ動物園（Manila Zoo）の秋シーズンプログラム",
-      "description": "マニラ動物園は9月に特別な教育プログラムやフィーディングタイムを開催。動物とのふれあい体験や飼育員によるレクチャーが充実した季節です。",
-      "date": "9月上旬〜下旬",
-      "place": "Manila Zoo, Adriatico St, Malate, Manila",
-      "link": "https://manilazooph.com/",
+      "title": "Enchanted Kingdom ハロウィンスペシャルイベント",
+      "description": "マニラ郊外のテーマパークで開催されるハロウィンイベント。子ども向けのトリックオアトリート、仮装パレード、キャラクターショーが楽しめます。",
+      "date": "10月中旬〜下旬",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.ph/",
       "free": false
     },
     {
-      "title": "スターシティ（Star City）の秋イベント",
-      "description": "マニラ最大の遊園地。9月は新しいアトラクションやキャラクターショーが登場。家族向けの乗り物やゲームが充実しており、乳幼児向けのエリアもあります。",
-      "date": "9月全体（土日祝が混雑）",
-      "place": "Star City, Robinsons Star Mall Complex, CCP Complex, Pasay City",
-      "link": "https://www.starcity.com.ph/",
-      "free": false
-    },
-    {
-      "title": "タグイグ城南公園（Rizal Park/Luneta Park）での無料屋外活動",
-      "description": "マニラ最大の公園。朝は家族連れで賑わい、レンタル自転車、散歩、ピクニックが楽しめます。9月は雨季ですが早朝なら清々しい環境。入園無料。",
-      "date": "9月中旬〜下旬の早朝",
-      "place": "Rizal Park, Padre Burgos Ave, Ermita, Manila",
-      "link": "https://www.manila.gov.ph/",
+      "title": "Makati Art District Free Community Walk",
+      "description": "マカティの屋外公共スペースで開催される無料のアート・コミュニティウォーク。子どもも参加でき、地元アート、文化、工芸品を楽しめます。",
+      "date": "10月上旬〜中旬の週末",
+      "place": "Makati Avenue及びその周辺（Makati, Manila）",
+      "link": "",
       "free": true
     },
     {
-      "title": "アユアラ博物館（Ayala Museum）キッズプログラム",
-      "description": "フィリピン文化と歴史を学べる博物館。9月に親子向けワークショップやインタラクティブ展示が開催。陶芸やアート体験が人気で、幅広い年齢層が楽しめます。",
-      "date": "9月中旬〜下旬の週末",
-      "place": "Ayala Museum, Makati Avenue, Makati City",
-      "link": "https://www.ayalamuseum.org/",
+      "title": "SM Mall of Asia キッズフェスティバル",
+      "description": "東南アジア最大級のショッピングモールで開催される子ども向けイベント。ワークショップ、キャラクターミート、子ども向けショーが日替わりで実施されます。",
+      "date": "10月中旬〜下旬",
+      "place": "SM Mall of Asia, Pasay City",
+      "link": "https://www.smmallofasia.com.ph/",
+      "free": true
+    },
+    {
+      "title": "Rizal Park Outdoor Family Activities",
+      "description": "マニラの中心部にある広大な公園で無料の家族向けアウトドア活動。散策、ピクニック、子ども向けプレイエリアの利用ができます。",
+      "date": "10月通年",
+      "place": "Rizal Park, Ermita, Manila",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "Manila Ocean Park キッズプログラム",
+      "description": "水族館施設で開催される子ども向けの特別プログラム。海洋生物との触れ合い、インタラクティブ展示、教育ワークショップが楽しめます。",
+      "date": "10月通年（特別プログラムは週末）",
+      "place": "Manila Ocean Park, Paranaque City",
+      "link": "https://www.manilaoceanpark.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-09-28T02:09:39.426Z"
+  "updatedAt": "2026-10-01T02:38:33.149Z"
 }
