@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Stockholms Skärgård（ストックホルム群島）の秋の紅葉クルーズ",
-      "description": "ストックホルム群島の美しい秋景色を船で巡るクルーズ。島々の紅葉と海の風景を楽しめ、子どもも喜ぶ屋外アクティビティ。",
-      "date": "10月上旬〜10月下旬",
-      "place": "Strandvägen/Norrmalm, Stockholm",
-      "link": "https://www.waxholmsbolaget.se",
+      "title": "スウェーデン王立動物園（Skansen）の秋祭り",
+      "description": "スウェーデン最大の野外博物館で、秋の収穫祭を開催。動物との触れ合い、昔ながらの工芸品製作体験、秋の自然散策が楽しめます。",
+      "date": "10月上旬〜下旬",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "Skansen（スカンセン野外博物館）の秋祭り",
-      "description": "北欧最大の野外博物館で開催される秋イベント。伝統工芸展示、地元の食べ物、動物との触れ合い体験が豊富で家族向け。",
-      "date": "10月上旬〜10月下旬",
-      "place": "Djurgårdsslätten 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
+      "title": "ストックホルム子ども博物館（Junibacken）の特別展示",
+      "description": "スウェーデン児童文学をテーマにした博物館。秋シーズンは季節限定の特別展示やハロウィンイベントを開催。4〜12歳向けの体験型展示。",
+      "date": "10月上旬〜31日",
+      "place": "Norrmälarstrand 17-19, 111 27 Stockholm",
+      "link": "https://www.junibacken.se/",
       "free": false
     },
     {
-      "title": "Drottningholm Palace（ドロットニングホルム王宮）の秋庭園散策",
-      "description": "ユネスコ世界遺産の王宮と広大な庭園を散策。秋の色彩豊かな景色と宮殿見学が同時に楽しめる無料の屋外スポット。",
-      "date": "10月上旬〜10月下旬",
-      "place": "Drottningholm, 171 71 Ekerö, Sweden",
-      "link": "https://www.royalpalaces.se/drottningholm-palace",
+      "title": "ヴァーサ船博物館（Vasa Museet）ファミリーツアー",
+      "description": "17世紀の実船を展示。子ども向けの特別ガイドツアーや宝探しゲームで船の歴史を学べます。北欧屈指の博物館で秋の屋内アクティビティに最適。",
+      "date": "10月通期",
+      "place": "Galärvägen 14, 115 21 Stockholm",
+      "link": "https://www.vasamuseet.se/",
+      "free": false
+    },
+    {
+      "title": "ジュルゴーデン島での秋の散策・自然観察（無料）",
+      "description": "ストックホルムの緑の庭園。10月の秋色に染まった景色を散策。湖畔での自然観察、ピクニックが無料で楽しめます。子ども連れに最適な屋外スポット。",
+      "date": "10月通期",
+      "place": "Djurgården, 115 21 Stockholm",
+      "link": "",
       "free": true
     },
     {
-      "title": "Fotografiska Stockholm（フォトグラフィスカ）の子ども向け特別展示",
-      "description": "写真美術館が開催する家族向けの特別展示やワークショップ。視覚的に楽しめるインタラクティブなコンテンツが充実。",
-      "date": "10月上旬〜10月下旬",
-      "place": "Fiskaregatan 17, 111 52 Stockholm",
-      "link": "https://www.fotografiska.se/stockholm",
-      "free": false
-    },
-    {
-      "title": "Gamla Stan（ガムラスタン）の秋マーケット",
-      "description": "ストックホルムの旧市街で開催される秋マーケット。地元の農産物、手工芸品、キッズ向けアクティビティ。無料で散策可能。",
-      "date": "10月中旬〜10月下旬",
-      "place": "Gamla Stan, Stockholm Old Town",
-      "link": "",
+      "title": "ストックホルム公立図書館（Stockholm Public Library）の秋のキッズプログラム",
+      "description": "読み聞かせ会、工作教室など毎週開催。スウェーデン語が分からなくても参加可能なクリエイティブワークショップが無料で楽しめます。",
+      "date": "10月通期",
+      "place": "Sveavägen 73, 113 50 Stockholm",
+      "link": "https://biblioteket.stockholm.se/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-01T02:38:10.252Z"
+  "updatedAt": "2026-10-05T02:34:17.028Z"
 }

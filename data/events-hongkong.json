@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港アート・バーゼル（Art Basel Hong Kong）",
-      "description": "アジア最大級の現代美術フェア。子ども向けアート体験ワークショップやファミリーデーがあり、創造性を刺激する環境で家族で楽しめます。",
+      "title": "Hong Kong Arts Festival（香港アートフェスティバル）準備期間・関連イベント",
+      "description": "秋の文化シーズン開始。子ども向けのワークショップやファミリー向けパフォーマンスが開催されます。劇場での体験型プログラムも充実。",
       "date": "10月中旬〜下旬",
-      "place": "香港会議展覧館（Hong Kong Convention and Exhibition Centre）、湾仔",
-      "link": "https://www.artbasel.com/hong-kong",
+      "place": "香港文化センター及び各劇場（尖沙咀エリア）",
+      "link": "https://www.hkaf.org/",
       "free": false
     },
     {
-      "title": "スターフェリー乗船体験（Star Ferry Ride）",
-      "description": "ビクトリア湾を横断する100年以上の歴史を持つスターフェリー。秋の心地よい気候の中、海からの香港スカイラインの眺望は最高。子どもも大喜びです。",
-      "date": "10月上旬〜下旬通年",
-      "place": "スターフェリー乗船場（中環・湾仔・尖沙咀各所）",
-      "link": "https://www.starferry.com.hk",
+      "title": "Clockenflap Music & Arts Festival",
+      "description": "香港最大の音楽・アートフェスティバル。キッズエリアがあり、ワークショップやエンターテイメント、フードコートが充実。家族向けの日中プログラムも。",
+      "date": "10月下旬（土日）",
+      "place": "Central Harbourfront 香港中環海濱",
+      "link": "https://www.clockenflap.com/",
       "free": false
     },
     {
-      "title": "ビクトリア・ピーク・ハイキング（無料）",
-      "description": "ピークトラムで頂上に到着後、初心者向けハイキングコースを散策。秋の涼しい気候は家族ハイキングに最適。無料で香港全景を望めます。",
-      "date": "10月上旬〜下旬",
-      "place": "ビクトリア・ピーク（The Peak）、中環",
-      "link": "https://www.thepeak.com.hk",
+      "title": "Victoria Park Flower Show（ビクトリアパーク花まつり）",
+      "description": "秋の花展示イベント。色鮮やかな花々が展示され、子どもの写真撮影スポットに最適。園内の遊び場も利用可能。",
+      "date": "10月中旬",
+      "place": "Victoria Park（銅鑼灣、Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk/en/index.html",
       "free": true
     },
     {
-      "title": "スノウ・ワールド（Snow World at K11 Musea）",
-      "description": "屋内スノーパーク。秋から冬へ向かう季節に、人工雪の中で滑りや雪遊びが楽しめます。小さな子どもでも安心のキッズエリアがあります。",
-      "date": "10月〜翌年3月（季節営業）",
-      "place": "K11 Musea、尖沙咀",
-      "link": "",
+      "title": "Hong Kong Disneyland Haunted House Season",
+      "description": "ハロウィンシーズンの香港ディズニーランド。子ども向けハロウィンイベント、キャラクターミートグリート、特別パレードが開催。",
+      "date": "10月上旬〜下旬",
+      "place": "Hong Kong Disneyland（ランタオ島）",
+      "link": "https://www.hongkongdisneyland.com/",
       "free": false
     },
     {
-      "title": "スターライト・シアター（Starlight Theatre at Hong Kong Disneyland）の秋プログラム",
-      "description": "香港ディズニーランドの秋限定エンターテイメント。子ども向けショーやパレード、季節装飾が楽しめ、家族で丸一日楽しめるテーマパーク体験。",
-      "date": "10月上旬〜下旬",
-      "place": "香港ディズニーランド・リゾート、ランタオ島",
-      "link": "https://www.hongkongdisneyland.com",
+      "title": "Star Ferry とビクトリア湾ハーバークルーズ（秋の絶好期）",
+      "description": "秋の涼しい気候に乗船。ビクトリア湾の夜景を楽しむ家族向けクルーズ。スター・フェリーは廉価で絶景が楽しめる屋外アクティビティ。",
+      "date": "10月通年（気候最適）",
+      "place": "Star Ferry Pier セントラル・ワンチャイ発着",
+      "link": "https://www.starferry.com.hk/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-01T02:39:06.648Z"
+  "updatedAt": "2026-10-05T02:35:12.852Z"
 }

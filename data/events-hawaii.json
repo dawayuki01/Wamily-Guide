@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "Aloha Festivals",
-      "description": "ハワイ文化を祝う州全体のイベント。パレード、フラ・ダンス、音楽ステージ、工芸品展示など。子どもも楽しめるハワイアン文化体験が豊富です。",
-      "date": "10月上旬〜下旬",
-      "place": "オアフ島全域（ホノルル、他地域）",
-      "link": "https://www.alohafestivals.com",
+      "description": "ハワイ文化を祝う島全体のお祭り。パレード、フラダンス、音楽ライブ、文化体験ブースなど家族向けプログラムが豊富です。",
+      "date": "10月上旬〜中旬",
+      "place": "オアフ島全域（メイン会場はホノルル市街地）",
+      "link": "https://www.alohafestivals.com/",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Fall Fun Day",
-      "description": "ホノルル動物園の秋のスペシャルイベント。動物とのふれあいタイム、教育プログラム、キッズ向けアクティビティが充実。乳幼児から楽しめます。",
-      "date": "10月中旬",
-      "place": "ホノルル動物園（ワイキキ、50 Aala Park）",
-      "link": "https://www.honoluluzoo.org",
+      "title": "ダイアモンドヘッド登山",
+      "description": "ワイキキの象徴的な火山。往復1.5時間の家族向けハイキング。子どもの体力に合わせたコース選択が可能です。",
+      "date": "10月中旬〜下旬",
+      "place": "Diamond Head Road, Honolulu, HI 96815",
+      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
       "free": false
     },
     {
-      "title": "Snorkeling at Hanauma Bay",
-      "description": "オアフ島で最高の海洋保護区。海亀やカラフルな魚が見られ、浅瀬は小さな子どもも安心。自然保全学習も兼ねた屋外アクティビティ。",
-      "date": "10月全般（通年営業）",
-      "place": "ハナウマ湾（オアフ島東側、7455 Kalanianaole Hwy）",
-      "link": "https://www.honolulu.gov/parks/park-info-hanauma-bay.html",
+      "title": "ホノルル動物園の秋イベント",
+      "description": "ハロウィン関連プログラムや秋の動物園体験。子ども向けの教育プログラムやワークショップが開催されます。",
+      "date": "10月中旬〜下旬",
+      "place": "151 Kapiolani Park, Honolulu, HI 96815",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "Waikiki Farmers Market",
-      "description": "毎週土曜朝の地元農産物・工芸品マーケット。ハワイ産フルーツ試食、地元の雰囲気を体験。無料で散策でき、朝食購入も可。",
-      "date": "10月全般（毎週土曜）",
-      "place": "クヒオビーチパーク（ワイキキ、オアフ島）",
-      "link": "https://www.waikikifarmersmkt.com",
+      "title": "Waikiki Beach Park での無料ビーチアクティビティ",
+      "description": "広大なビーチで家族向け水遊び。10月は波が穏やかで、子どもにも安全。ピクニック施設やプレイグラウンドも充実。",
+      "date": "10月全月",
+      "place": "Waikiki Beach, Honolulu, HI 96815",
+      "link": "https://www.oahu.com/beaches/waikiki-beach/",
       "free": true
     },
     {
-      "title": "Hawaii Children's Discovery Center Autumn Programs",
-      "description": "ホノルルの子ども向けミュージアム。秋限定STEM学習プログラム、インタラクティブ展示、屋内で安心。乳幼児〜小学生向けコンテンツが豊富。",
-      "date": "10月全般",
-      "place": "ハワイ・チルドレンズ・ディスカバリー・センター（111 Ohe St, Honolulu）",
-      "link": "https://www.discoverycenterhawaii.org",
+      "title": "Honolulu Children's Discovery Center の秋プログラム",
+      "description": "科学・芸術・文化を学ぶ参加型展示。秋の特別ワークショップやハンズオン体験で、幼児〜小学生向けの学習楽習。",
+      "date": "10月全月",
+      "place": "111 Ohe Street, Honolulu, HI 96813",
+      "link": "https://www.discoverycenterhawaii.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-01T02:38:49.508Z"
+  "updatedAt": "2026-10-05T02:34:56.541Z"
 }

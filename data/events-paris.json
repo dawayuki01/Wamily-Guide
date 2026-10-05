@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・オートンヌ・フェスティバル（Paris Automne）",
-      "description": "秋の芸術祭。子ども向けワークショップ、劇場公演、音楽イベントが開催。家族で秋の文化を楽しめます。",
-      "date": "10月上旬〜11月中旬",
-      "place": "パリ市内各地",
-      "link": "https://www.parisautomne.paris",
+      "title": "パリ・ブックフェア（Salon du Livre de Paris）",
+      "description": "フランス最大級の書籍イベント。子ども向けの本、朗読会、ワークショップが充実。作家サイン会なども開催され、家族で楽しめます。",
+      "date": "10月中旬",
+      "place": "ポルト・ド・ベルサイユ展示場（Hall 5/6） 1 Place de la Porte de Versailles, 75015 Paris",
+      "link": "https://www.salondulivreparis.com/",
       "free": false
     },
     {
-      "title": "ラ・ファリエール・デ・モンマルトル（牧場と動物ふれあい）",
-      "description": "モンマルトルの牧場で動物たちと触れ合い。秋の自然を感じながら、乳幼児から小学生が楽しめるアクティビティです。",
-      "date": "10月通年営業",
-      "place": "Rue Saint-Rustique, 75018 Paris",
-      "link": "https://www.lamaisonrosemontmartre.com",
-      "free": false
+      "title": "ルクセンブルク公園の秋の景観散策",
+      "description": "紅葉が美しい公園で無料散策。子ども用遊具、ポニー乗車、木製帆船レンタルなど。秋の自然を満喫でき、ピクニックにも最適です。",
+      "date": "10月上旬〜11月上旬",
+      "place": "ルクセンブルク公園 Rue de Médicis, 75006 Paris",
+      "link": "https://www.senat.fr/visite/jardin/index.html",
+      "free": true
     },
     {
-      "title": "セーヌ河畔の秋散策・無料オープンエア市場",
-      "description": "セーヌ河畔の散策路は秋の景色が美しく、週末の無料オープンマーケットで地元の食材やおもちゃを購入。屋外での家族散策に最適。",
-      "date": "10月通年（土日祝日のマーケット）",
-      "place": "Seine riverbanks / パリ中央エリア（Île Saint-Louis周辺）",
+      "title": "パリ・マザー・グース・フェスティバル（ハロウィン関連イベント）",
+      "description": "10月後半、パリ各地で子ども向けのハロウィンイベント開催。仮装コンテスト、トリック・オア・トリート、家族向けマーケットなどが楽しめます。",
+      "date": "10月下旬",
+      "place": "パリ市内各所（Champs-Élysées周辺、ディズニーランド・パリなど）",
       "link": "",
       "free": true
     },
     {
-      "title": "ポンピドゥー・センター・キッズアート展",
-      "description": "モダンアート美術館で子ども向け特別展示・ワークショップを開催。対話型アート体験で、親子で現代美術を楽しめます。",
-      "date": "10月（特別プログラム開催）",
-      "place": "Place Georges-Pompidou, 75004 Paris",
-      "link": "https://www.centrepompidou.fr",
+      "title": "シテ・デ・アンファン（Cité des Enfants）の季節プログラム",
+      "description": "ラ・ヴィレット科学館内の子ども向け施設。秋の特別ワークショップ、自然・テクノロジー体験が豊富。乳幼児〜12才向けの展示が充実。",
+      "date": "10月通年開催",
+      "place": "ラ・ヴィレット公園内 30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr/fr/visite/cite-des-enfants",
       "free": false
     },
     {
-      "title": "ハロウィンイベント・ドルマ・テーマパーク（Parc Astérix周辺）",
-      "description": "パリ郊外テーマパークで秋ハロウィンイベント。仮装パレード、キャラクターショー、キッズアトラクション満載。",
-      "date": "10月中旬〜下旬",
-      "place": "Parc Astérix, Plailly, 60128 France（パリ北郊40km）",
-      "link": "https://www.parcasterix.fr",
-      "free": false
+      "title": "モンマルトル・ブドウ収穫祭（Fête des Vendanges de Montmartre）",
+      "description": "パリ唯一のブドウ畑での秋の収穫祭。子ども向けアニメーション、地元食産品の試食、音楽ライブなど家族向けプログラムが豊富です。",
+      "date": "10月上旬",
+      "place": "モンマルト地区 Rue des Saules, 75018 Paris",
+      "link": "https://www.fetedescvendangesdemontmartre.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-01T02:38:02.794Z"
+  "updatedAt": "2026-10-05T02:34:09.258Z"
 }

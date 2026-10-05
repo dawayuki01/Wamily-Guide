@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Enchanted Kingdom ハロウィンスペシャルイベント",
-      "description": "マニラ郊外のテーマパークで開催されるハロウィンイベント。子ども向けのトリックオアトリート、仮装パレード、キャラクターショーが楽しめます。",
+      "title": "Oktoberfest Manila",
+      "description": "マニラで開催されるドイツの伝統的なビール祭り。家族向けエリアではドイツ料理、音楽、工芸品販売などが楽しめます。子ども向けのアクティビティやゲームも充実しています。",
       "date": "10月中旬〜下旬",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
-      "link": "https://www.enchantedkingdom.ph/",
+      "place": "BGC（ボニファシオ・グローバル・シティ）、Bonifacio High Street",
+      "link": "https://www.manila.gov.ph",
       "free": false
     },
     {
-      "title": "Makati Art District Free Community Walk",
-      "description": "マカティの屋外公共スペースで開催される無料のアート・コミュニティウォーク。子どもも参加でき、地元アート、文化、工芸品を楽しめます。",
+      "title": "Manila Zoo無料開放日",
+      "description": "マニラ動物園の特別無料開放日。象、ライオン、サルなど多様な動物が見られます。子どもたちが動物について学べる教育プログラムも実施されます。",
+      "date": "10月中旬（動物の日等に合わせて）",
+      "place": "Manila Zoo, Quirino Avenue, Manila",
+      "link": "https://manilazooph.com",
+      "free": true
+    },
+    {
+      "title": "Enchanted Kingdom Spooktacular",
+      "description": "人気テーマパークのハロウィンイベント。ファミリー向けアトラクション、パレード、仮装コンテストなど。子どもたちが楽しめるスリルと笑いの空間。",
+      "date": "10月上旬〜下旬",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.ph",
+      "free": false
+    },
+    {
+      "title": "Pasig River Cleanup & Family Eco-Tour",
+      "description": "パシグ川の親子向けエコツアーとクリーンアップ活動。ボート体験、環境学習、ピクニック。無料または低価格で自然とマニラの歴史を学べます。",
       "date": "10月上旬〜中旬の週末",
-      "place": "Makati Avenue及びその周辺（Makati, Manila）",
+      "place": "Pasig River, Manila（複数の乗船地点あり）",
       "link": "",
       "free": true
     },
     {
-      "title": "SM Mall of Asia キッズフェスティバル",
-      "description": "東南アジア最大級のショッピングモールで開催される子ども向けイベント。ワークショップ、キャラクターミート、子ども向けショーが日替わりで実施されます。",
-      "date": "10月中旬〜下旬",
-      "place": "SM Mall of Asia, Pasay City",
-      "link": "https://www.smmallofasia.com.ph/",
-      "free": true
-    },
-    {
-      "title": "Rizal Park Outdoor Family Activities",
-      "description": "マニラの中心部にある広大な公園で無料の家族向けアウトドア活動。散策、ピクニック、子ども向けプレイエリアの利用ができます。",
-      "date": "10月通年",
-      "place": "Rizal Park, Ermita, Manila",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "Manila Ocean Park キッズプログラム",
-      "description": "水族館施設で開催される子ども向けの特別プログラム。海洋生物との触れ合い、インタラクティブ展示、教育ワークショップが楽しめます。",
-      "date": "10月通年（特別プログラムは週末）",
-      "place": "Manila Ocean Park, Paranaque City",
-      "link": "https://www.manilaoceanpark.com/",
+      "title": "Philippine Children's Museum特別展示・ワークショップ",
+      "description": "子ども向け博物館での季節限定ワークショップ。フィリピン文化、科学、芸術などを学べるハンズオン体験。乳幼児から小学生まで楽しめます。",
+      "date": "10月全期間（週末中心）",
+      "place": "Philippine Children's Museum, Cardona, Rizal",
+      "link": "https://www.childrensmuseum.org.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-01T02:38:33.149Z"
+  "updatedAt": "2026-10-05T02:34:41.286Z"
 }

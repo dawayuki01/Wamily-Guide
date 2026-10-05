@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles County Fair（ロサンゼルス郡フェア）",
-      "description": "9月下旬から10月中旬に開催される家族向けの大型フェア。乗り物、ゲーム、動物との触れ合い、子ども向けパレードなど、乳幼児から小学生まで楽しめるアトラクションが豊富です。",
-      "date": "10月上旬〜中旬",
-      "place": "Pomona Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://www.lacountyfair.com",
+      "title": "ハロウィン・イベント（ユニバーサル・スタジオ・ハリウッド）",
+      "description": "キッズ向けのハロウィン仮装イベント。子どもたちがトリック・オア・トリートを楽しめる特別プログラムが開催されます。アトラクションもハロウィン仕様に。",
+      "date": "10月上旬〜下旬",
+      "place": "ユニバーサル・スタジオ・ハリウッド、100 Universal City Plaza, Universal City, CA 91608",
+      "link": "https://www.universalstudios.com",
       "free": false
     },
     {
-      "title": "Pumpkin Patch & Halloween Events（パンプキンパッチ）",
-      "description": "10月はハロウィンシーズン。LA周辺の農場やガーデンセンターでパンプキンパッチが開催。かぼちゃ狩りや迷路、ハロウィン装飾など秋の風情を体験できます。",
-      "date": "10月中旬〜下旬",
-      "place": "Underwood Family Farms, 3370 Sunset Valley Rd, Moorpark, CA 93021",
-      "link": "https://www.underwoodfamilyfarms.com",
-      "free": false
-    },
-    {
-      "title": "Exposition Park - Free Days & Family Events",
-      "description": "ロサンゼルス自然史博物館、航空宇宙博物館などがある公園。第1日曜日は多くの施設が無料。10月の秋晴れの中、屋外の庭園や動物園エリアも無料で楽しめます。",
-      "date": "10月（第1日曜日）",
-      "place": "Exposition Park, 700 State Dr, Los Angeles, CA 90037",
-      "link": "https://www.expositionpark.ca.gov",
+      "title": "ロサンゼルス・ファーマーズ・マーケット（季節の秋野菜・果物）",
+      "description": "秋の野菜や果物が豊富に揃う週末マーケット。子どもと一緒に新鮮な季節の食材を選ぶ楽しさが味わえます。キッズ向けワークショップも開催。",
+      "date": "10月毎週日曜日",
+      "place": "ロサンゼルス・ファーマーズ・マーケット複数開催地（アートメイズ・ファームスタンド他）",
+      "link": "https://www.sfvfarmersmarket.com",
       "free": true
     },
     {
-      "title": "Runyon Canyon & Griffith Park - Autumn Hikes",
-      "description": "ロサンゼルスの人気ハイキングスポット。10月は涼しくハイキングに最適な季節。子ども向けの短いトレイルコース多数。LA市街地の眺望が素晴らしく、家族で自然を満喫できます。",
-      "date": "10月全期間",
-      "place": "Runyon Canyon, 2000 N Fuller Ave, Los Angeles, CA 90046",
-      "link": "https://www.lamountains.com",
+      "title": "グリフィス・パークでのハイキングと天文台",
+      "description": "秋の涼しい気候はハイキングに最適。グリフィス天文台では子ども向けプラネタリウムと展示が無料で楽しめます。眺望も素晴らしい。",
+      "date": "10月全体（毎日開放）",
+      "place": "グリフィス・パーク、Griffith Observatory, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "LA Zoo - Halloween Events",
-      "description": "ロサンゼルス動物園は10月にハロウィン特別プログラムを開催。動物との交流、仮装パレード、子ども向けトリックオアトリートなど、季節限定の家族向けイベント。",
-      "date": "10月中旬〜下旬",
-      "place": "Los Angeles Zoo and Botanical Gardens, 5333 Zoo Dr, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
+      "title": "ロサンゼルス・カウンティ・ミュージアム・オブ・アート（LACMA）キッズプログラム",
+      "description": "秋の特別展示と子ども向けアートワークショップ。有名なウィート・フィールド彫刻も見学可。家族向けの創作体験が充実。",
+      "date": "10月上旬〜下旬（週末中心）",
+      "place": "LACMA, 5905 Wilshire Boulevard, Los Angeles, CA 90036",
+      "link": "https://www.lacma.org",
       "free": false
+    },
+    {
+      "title": "ビーチでのシーズンアクティビティ（サンタモニカ・ビーチ）",
+      "description": "10月のロサンゼルスは海水温も温かく、ビーチ散策に最適。子ども向けのビーチゲーム、砂遊び、波乗り体験が楽しめます。",
+      "date": "10月全体（毎日）",
+      "place": "サンタモニカ・ビーチ、Santa Monica Beach, Los Angeles, CA 90401",
+      "link": "https://www.santamonica.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-01T02:38:41.631Z"
+  "updatedAt": "2026-10-05T02:34:49.634Z"
 }
