@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Oktoberfest Manila",
-      "description": "マニラで開催されるドイツの伝統的なビール祭り。家族向けエリアではドイツ料理、音楽、工芸品販売などが楽しめます。子ども向けのアクティビティやゲームも充実しています。",
+      "title": "SM Malls of Asia Halloween Festival",
+      "description": "フィリピン最大級のショッピングモール「SM Malls of Asia」での大規模ハロウィンイベント。子ども向けトリックオアトリート、キャラクターグリーティング、ハロウィン装飾が楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "BGC（ボニファシオ・グローバル・シティ）、Bonifacio High Street",
-      "link": "https://www.manila.gov.ph",
-      "free": false
-    },
-    {
-      "title": "Manila Zoo無料開放日",
-      "description": "マニラ動物園の特別無料開放日。象、ライオン、サルなど多様な動物が見られます。子どもたちが動物について学べる教育プログラムも実施されます。",
-      "date": "10月中旬（動物の日等に合わせて）",
-      "place": "Manila Zoo, Quirino Avenue, Manila",
-      "link": "https://manilazooph.com",
+      "place": "SM Malls of Asia, Mall of Asia Complex, Pasay City",
+      "link": "https://www.smmallsofasia.com.ph/",
       "free": true
     },
     {
-      "title": "Enchanted Kingdom Spooktacular",
-      "description": "人気テーマパークのハロウィンイベント。ファミリー向けアトラクション、パレード、仮装コンテストなど。子どもたちが楽しめるスリルと笑いの空間。",
-      "date": "10月上旬〜下旬",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
-      "link": "https://www.enchantedkingdom.ph",
-      "free": false
-    },
-    {
-      "title": "Pasig River Cleanup & Family Eco-Tour",
-      "description": "パシグ川の親子向けエコツアーとクリーンアップ活動。ボート体験、環境学習、ピクニック。無料または低価格で自然とマニラの歴史を学べます。",
-      "date": "10月上旬〜中旬の週末",
-      "place": "Pasig River, Manila（複数の乗船地点あり）",
+      "title": "Palarong Pambansa 2026関連イベント",
+      "description": "フィリピン全国スポーツ大会期間中の公開トレーニング・デモンストレーション。子どもたちが国内トップアスリートのパフォーマンスを間近で見学できます。",
+      "date": "10月上旬〜中旬",
+      "place": "フィリピンアリーナほか複数会場、Pasig City",
       "link": "",
       "free": true
     },
     {
-      "title": "Philippine Children's Museum特別展示・ワークショップ",
-      "description": "子ども向け博物館での季節限定ワークショップ。フィリピン文化、科学、芸術などを学べるハンズオン体験。乳幼児から小学生まで楽しめます。",
-      "date": "10月全期間（週末中心）",
-      "place": "Philippine Children's Museum, Cardona, Rizal",
-      "link": "https://www.childrensmuseum.org.ph",
+      "title": "Manila Ocean Park Special Programs",
+      "description": "水族館での10月限定の子ども向けプログラム。スクール・ホリデーの季節に教育的なアクアリウムツアーやタッチプールアクティビティが開催されます。",
+      "date": "10月全月",
+      "place": "Manila Ocean Park, CCP Complex, Pasay City",
+      "link": "https://www.manilaoceanpark.com/",
+      "free": false
+    },
+    {
+      "title": "Rizal Park Family Outreach Programs",
+      "description": "フィリピン最大の都市公園での屋外ファミリーアクティビティ。自然散策、ピクニックエリア、子ども向けワークショップが無料で楽しめます。広大な緑地での運動に最適。",
+      "date": "10月全月（週末中心）",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.parks.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "Enchanted Kingdom Halloween Haunt",
+      "description": "テーマパーク「Enchanted Kingdom」でのハロウィンスペシャルイベント。子ども向けのマイルドなホーンテッド体験、コスプレコンテスト、限定キャラクターショーが開催されます。",
+      "date": "10月中旬〜下旬",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-05T02:34:41.286Z"
+  "updatedAt": "2026-10-08T03:09:51.480Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソウル灯祭（Seoul Lantern Festival）",
-      "description": "清渓川沿いで開催される光の祭典。カラフルな灯籠が川を彩り、夜間のライトアップは子どもたちにとって幻想的な体験になります。屋台も多く家族連れに人気。",
-      "date": "10月中旬〜下旬",
-      "place": "清渓川（청계천）、ソウル市中区",
-      "link": "https://www.visitseoul.net",
+      "title": "ソウル灯祭り（Seoul Lantern Festival）",
+      "description": "清渓川沿いでカラフルな灯篭が展示される秋の風物詩。子どもたちが楽しめるインタラクティブなライトアート作品が多数設置されます。",
+      "date": "10月中旬〜11月上旬",
+      "place": "清渓川（청계천）、ソウル市鐘路区",
+      "link": "https://english.seoul.go.kr/",
       "free": true
     },
     {
-      "title": "南山公園（Namsan Park）の秋景観ハイキング",
-      "description": "秋の紅葉が美しい南山公園。乳幼児向けの緩やかなコースから小学生向けの本格ハイキングまで選べます。ロープウェイも利用でき、気軽に自然を楽しめます。",
-      "date": "10月上旬〜11月上旬",
-      "place": "南山公園（남산공원）、ソウル市中区",
-      "link": "https://parks.seoul.go.kr",
-      "free": true
-    },
-    {
-      "title": "ソウル子ども大公園のハロウィンイベント",
-      "description": "ハロウィンシーズンに開催される子ども向けの仮装パレードやゲーム大会。乳幼児向けのコーナーもあり、動物園エリアとあわせて終日楽しめます。",
+      "title": "南山ハロウィンフェスティバル（Namsan Halloween Festival）",
+      "description": "南山公園でのハロウィンイベント。子ども向けのコスチュームコンテスト、トリックオアトリート、マジックショーなど多彩なプログラムが開催されます。",
       "date": "10月下旬",
-      "place": "ソウル子ども大公園（서울어린이대공원）、ソウル市広津区",
-      "link": "https://www.seoulchildrenspark.org",
+      "place": "南山公園（남산공원）、ソウル市中区",
+      "link": "https://www.seoultouristboard.com/",
+      "free": true
+    },
+    {
+      "title": "韓国児童博物館（Korea Children's Museum）秋の特別展",
+      "description": "秋をテーマにした子ども向け特別展覧会。乳幼児から小学生まで楽しめるハンズオン体験や工作ワークショップが開催されます。",
+      "date": "10月全般",
+      "place": "龍山家族公園内、ソウル市龍山区",
+      "link": "https://www.cmk.or.kr/",
       "free": false
     },
     {
-      "title": "仁寺洞（インサドン）秋祭り・伝統文化体験",
-      "description": "韓国伝統工芸品や文化が集まるインサドン地区で開催される秋の文化祭。子ども向けの陶芸体験やハンドメイドワークショップが多数あります。",
-      "date": "10月中旬〜下旬",
-      "place": "仁寺洞（인사동）、ソウル市鍾路区",
-      "link": "https://www.visitseoul.net",
-      "free": false
+      "title": "漢江公園（Hangang Park）秋の紅葉トレッキング",
+      "description": "ソウル市内の漢江沿いの大規模公園。秋の紅葉を楽しみながら、キッズ向けのトレイルやピクニックエリアで家族一緒に屋外活動が満喫できます。",
+      "date": "10月上旬〜11月中旬",
+      "place": "漢江公園（한강공원）各地点、ソウル市内",
+      "link": "https://hangang.seoul.go.kr/",
+      "free": true
     },
     {
-      "title": "ロッテワールドのハロウィンスペシャルイベント",
-      "description": "室内テーマパークでハロウィン仕様の装飾とイベントを開催。子ども向けのライドやパレード、仮装パーティーが充実。雨天でも楽しめます。",
-      "date": "10月中旬〜下旬",
-      "place": "ロッテワールド（롯데월드）、ソウル市松坡区",
-      "link": "https://www.lotteworld.com",
+      "title": "Nソウルタワーオータムフェスティバル",
+      "description": "秋の高さ限定イベント。子ども向けの工作体験、マジックショー、キャラクターグリーティングなどが開催。展望台からのソウルの秋景色が楽しめます。",
+      "date": "10月全般",
+      "place": "Nソウルタワー、ソウル市龍山区",
+      "link": "https://www.nseoultower.co.kr/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-05T02:35:04.204Z"
+  "updatedAt": "2026-10-08T03:10:18.871Z"
 }

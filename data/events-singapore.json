@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Deepavali（ディーパバリ）フェスティバル",
-      "description": "インド系コミュニティによるライトと花火の祭り。リトルインディアが色鮮やかに装飾され、露店やライトアップが家族連れで楽しめます。",
-      "date": "10月下旬～11月上旬",
-      "place": "リトルインディア地区、Serangoon Road周辺、シンガポール",
-      "link": "https://www.visitsingapore.com",
+      "title": "Deepavali（ディパバリ）",
+      "description": "インド系住民による光の祭典。Little India地区が色鮮やかにデコレーションされ、屋台やお店が立ち並びます。10月下旬から11月上旬に開催。子ども向けの工作体験やお菓子販売も。",
+      "date": "10月下旬〜11月上旬",
+      "place": "Little India, シンガポール",
+      "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "Gardens by the Bay - Flower Dome特別展示",
-      "description": "世界最大級の温室で季節ごとの特別フラワー展示。子ども向けインタラクティブプログラムや植物について学べるワークショップが開催されます。",
-      "date": "10月中旬～11月下旬",
-      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg",
+      "title": "Singapore Children's Festival（シンガポール子どもフェスティバル）",
+      "description": "子ども向けのパフォーマンス、インタラクティブ展示、工作ワークショップなどが開催される年1回のイベント。乳幼児から小学生まで楽しめるアクティビティが豊富。",
+      "date": "10月中旬〜下旬",
+      "place": "National Museum of Singapore またはその他会場",
+      "link": "https://www.nmsg.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park - 屋外ファミリーアクティビティ",
-      "description": "15km以上の海辺公園で自転車レンタル、ビーチ遊び、ピクニックが楽しめます。10月は気候が良く家族向けアクティビティが充実しています。",
-      "date": "10月上旬～下旬（通年営業）",
-      "place": "East Coast Park, 1210 East Coast Parkway, Singapore 449876",
-      "link": "https://www.nparks.gov.sg",
+      "title": "East Coast Park でのビーチアクティビティ",
+      "description": "シンガポール東側の広大なビーチパーク。子ども向けの遊具、レンタサイクル、水遊びが楽しめます。10月は雨が多いため天気を確認し、晴れた日の午前中がおすすめ。",
+      "date": "10月通年（天気による）",
+      "place": "East Coast Park Road, Singapore 1441",
+      "link": "https://www.nparks.gov.sg/",
       "free": true
     },
     {
-      "title": "Singapore Science Centre - School Holiday Programs",
-      "description": "10月の学校休暇期間に子ども向け特別プログラムやワークショップを開催。インタラクティブな科学体験が楽しめます。",
-      "date": "10月（学校休暇期間）",
-      "place": "Singapore Science Centre, 15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
+      "title": "Gardens by the Bay の特別展示・ワークショップ",
+      "description": "光と植物の融合した庭園。10月の季節展示やファミリー向けワークショップが開催。Supertree Groveのライトアップも子どもに人気。屋外での自然散策が楽しめます。",
+      "date": "10月通年",
+      "place": "18 Marina Gardens Drive, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg/",
       "free": false
     },
     {
-      "title": "Sentosa Island - Family Festival Events",
-      "description": "テーマパークUniversal Studios、ビーチ、アトラクションが集結。10月は秋のファミリーイベントが開催され、子ども向けアクティビティが豊富です。",
-      "date": "10月上旬～下旬",
-      "place": "Sentosa Island, Singapore",
-      "link": "https://www.sentosa.com.sg",
+      "title": "Singapore Zoo の季節イベント",
+      "description": "アジア最大級の動物園。10月は園内でファミリー向けの教育プログラムやフィーディング体験が開催。年間を通じて動物との触れ合いが充実しています。",
+      "date": "10月通年",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-05T02:34:24.141Z"
+  "updatedAt": "2026-10-08T03:09:33.214Z"
 }

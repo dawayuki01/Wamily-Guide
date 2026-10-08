@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン祭り（Loy Krathong Festival）",
-      "description": "灯籠を川に流す伝統的な光の祭り。子どもたちが花で飾られた灯籠を作り、チャオプラヤ川や公園の池に流す体験ができます。夜間は美しいライトアップも楽しめます。",
-      "date": "10月下旬～11月上旬",
-      "place": "チャオプラヤ川沿い（バンコク全域）、ルンピニ公園など",
-      "link": "https://www.tatnews.org",
+      "title": "ロイクラトン祭り（Loy Krathong）",
+      "description": "灯籠を川に流す伝統祭り。子どもたちが家族と一緒にクラトン（灯籠）を作り、チャオプラヤ川で流す体験ができます。夜間の幻想的なライトアップが印象的です。",
+      "date": "10月下旬〜11月上旬（満月の日）",
+      "place": "チャオプラヤ川沿い、ルンピニ公園ほか市内各地",
+      "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "キッザニア・バンコク（KidZania Bangkok）特別プログラム",
-      "description": "子どもが様々な職業体験できる施設。10月は秋のイベントプログラムが展開され、通常と異なる限定職業体験やワークショップが開催されます。",
-      "date": "10月通年",
-      "place": "The EmQuartier, Sukhumvit Rd., Khlong Toei, Bangkok",
-      "link": "https://www.kidzania.co.th",
+      "title": "チャトゥチャック・ウィークエンド・マーケット",
+      "description": "世界最大級の屋外市場。子ども向けおもちゃ、衣類、食べ物が豊富。迷路のような通路を探索する冒険気分が子どもたちに人気です。週末営業。",
+      "date": "10月全体（土日）",
+      "place": "チャトゥチャック公園、バンコク北部",
+      "link": "https://www.chatuchakmarket.org/",
+      "free": true
+    },
+    {
+      "title": "サイアム・パラゴン水族館（SEA LIFE Bangkok Ocean World）",
+      "description": "ショッピングモール内の大規模水族館。ジンベイザメやペンギンなど多数の海洋生物を観察。10月は学校休暇期間で混雑しますが、子ども向け教育プログラムも実施。",
+      "date": "10月全体",
+      "place": "サイアム・パラゴン内、地下1階、バンコク中央部",
+      "link": "https://www.visitsealifebangkok.com/",
       "free": false
     },
     {
-      "title": "チャットチャック週末マーケット（Chatuchak Weekend Market）",
-      "description": "東南アジア最大級の週末マーケット。子ども向けおもちゃ、衣類、手作り品などの屋台が多数。家族向けフードコートもあり、タイ文化を体験できます。",
-      "date": "毎週土日（10月も開催）",
-      "place": "Chatuchak Park, Phahon Yothin Rd., Bangkok",
-      "link": "https://www.chatuchak.org",
+      "title": "ルンピニ公園での屋外散策とアクティビティ",
+      "description": "バンコク最大の公園。朝の散歩で野鳥観察、子ども向けの運動広場、池でのボート乗車が楽しめます。涼しい朝間の活動をおすすめします。",
+      "date": "10月全体（早朝推奨）",
+      "place": "ルンピニ公園、シーロム通り",
+      "link": "https://www.bangkokpark.com/",
       "free": true
     },
     {
-      "title": "サファリワールド（Safari World Bangkok）",
-      "description": "野生動物の保護区とテーマパークの複合施設。ドライブスルーサファリで動物観察、イルカショー、バードショーなど子ども向けアトラクション豊富。",
-      "date": "10月通年（毎日営業）",
-      "place": "99 Panya Intra Rd., Samwa, Bangkok",
-      "link": "https://www.safariworld.com",
+      "title": "キッザニア・バンコク（KidZania Bangkok）",
+      "description": "子ども向けテーマパーク。さまざまな職業体験ができます。10月は学校イベント期間で特別プログラムや割引が用意されることがあります。屋内施設なため気候に左右されません。",
+      "date": "10月全体",
+      "place": "エンポリアム・エムポリウム3階、バンコク中央部",
+      "link": "https://www.kidzania.com/bangkok",
       "free": false
-    },
-    {
-      "title": "スアン・ルアン公園でのサイクリング・ピクニック（Suan Luang Rama IX Park）",
-      "description": "広大な王立公園でのアウトドアアクティビティ。レンタル自転車で家族向けのサイクリング、ピクニック、野外遊び場が充実。10月は気候が過ごしやすく最適です。",
-      "date": "10月通年",
-      "place": "Suan Luang Rama IX Park, Wachira, Bangkok",
-      "link": "",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-05T02:34:32.472Z"
+  "updatedAt": "2026-10-08T03:09:43.238Z"
 }

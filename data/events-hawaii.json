@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Aloha Festivals",
-      "description": "ハワイ文化を祝う島全体のお祭り。パレード、フラダンス、音楽ライブ、文化体験ブースなど家族向けプログラムが豊富です。",
+      "title": "Aloha Festivals（アロハフェスティバル）",
+      "description": "ハワイ文化を祝う大規模フェスティバル。フラダンス、音楽、伝統工芸などが楽しめ、子ども向けのワークショップやパレードも開催されます。",
       "date": "10月上旬〜中旬",
-      "place": "オアフ島全域（メイン会場はホノルル市街地）",
+      "place": "オアフ島全域（メイン会場：Kapiolani Park、ホノルル）",
       "link": "https://www.alohafestivals.com/",
       "free": true
     },
     {
-      "title": "ダイアモンドヘッド登山",
-      "description": "ワイキキの象徴的な火山。往復1.5時間の家族向けハイキング。子どもの体力に合わせたコース選択が可能です。",
-      "date": "10月中旬〜下旬",
-      "place": "Diamond Head Road, Honolulu, HI 96815",
-      "link": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
-      "free": false
-    },
-    {
-      "title": "ホノルル動物園の秋イベント",
-      "description": "ハロウィン関連プログラムや秋の動物園体験。子ども向けの教育プログラムやワークショップが開催されます。",
-      "date": "10月中旬〜下旬",
-      "place": "151 Kapiolani Park, Honolulu, HI 96815",
-      "link": "https://www.honoluluzoo.org/",
-      "free": false
-    },
-    {
-      "title": "Waikiki Beach Park での無料ビーチアクティビティ",
-      "description": "広大なビーチで家族向け水遊び。10月は波が穏やかで、子どもにも安全。ピクニック施設やプレイグラウンドも充実。",
-      "date": "10月全月",
-      "place": "Waikiki Beach, Honolulu, HI 96815",
-      "link": "https://www.oahu.com/beaches/waikiki-beach/",
+      "title": "Honolulu Marathon Expo（ホノルルマラソン エキスポ）",
+      "description": "マラソン開催に伴うイベント。スポーツ用品展示、キッズゾーン、ハワイアン音楽や踊りなど、家族向けの体験が豊富です。",
+      "date": "10月中旬",
+      "place": "Hawaii Convention Center、Honolulu",
+      "link": "https://www.honolulumarathon.org/",
       "free": true
     },
     {
-      "title": "Honolulu Children's Discovery Center の秋プログラム",
-      "description": "科学・芸術・文化を学ぶ参加型展示。秋の特別ワークショップやハンズオン体験で、幼児〜小学生向けの学習楽習。",
-      "date": "10月全月",
-      "place": "111 Ohe Street, Honolulu, HI 96813",
-      "link": "https://www.discoverycenterhawaii.org/",
+      "title": "Makapuu Lighthouse Trail Hike（マカプウ灯台ハイキング）",
+      "description": "小学生向きの往復1時間程度のハイキングコース。歴史ある灯台へのトレイル、太平洋の絶景が楽しめ、季節の野鳥も観察できます。",
+      "date": "10月中旬〜下旬（通年可）",
+      "place": "Makapuu State Wayside Park、Waimanalo, Oahu",
+      "link": "https://dlnr.hawaii.gov/",
+      "free": true
+    },
+    {
+      "title": "Waikiki Aquarium Fall Programs（ワイキキ水族館 秋プログラム）",
+      "description": "季節限定の子ども向け教育プログラム。海の生き物との触れ合い体験、ガイド付きツアー、海洋生物学の学習が充実しています。",
+      "date": "10月中旬〜下旬",
+      "place": "Waikiki Aquarium, 2777 Kalakaua Ave, Honolulu",
+      "link": "https://www.waikikiaquarium.org/",
       "free": false
+    },
+    {
+      "title": "Kailua Beach Park での秋のビーチデー",
+      "description": "10月は穏やかな海が特徴。透明度の高い水、白砂のビーチで家族でシュノーケリングや水遊びを安全に楽しめます。無料で一日過ごせます。",
+      "date": "10月上旬〜下旬（通年可）",
+      "place": "Kailua Beach Park, 450 Kawailoa Rd, Kailua, Oahu",
+      "link": "https://www.honolulu.gov/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-05T02:34:56.541Z"
+  "updatedAt": "2026-10-08T03:10:10.145Z"
 }

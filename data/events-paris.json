@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・ブックフェア（Salon du Livre de Paris）",
-      "description": "フランス最大級の書籍イベント。子ども向けの本、朗読会、ワークショップが充実。作家サイン会なども開催され、家族で楽しめます。",
-      "date": "10月中旬",
-      "place": "ポルト・ド・ベルサイユ展示場（Hall 5/6） 1 Place de la Porte de Versailles, 75015 Paris",
-      "link": "https://www.salondulivreparis.com/",
+      "title": "パリ・オートンヌ・フェスティバル（Paris Automne Festival）",
+      "description": "秋の芸術祭。子ども向けのワークショップ、音楽公演、アート展示が開催されます。屋内外で多様な文化体験ができる大型イベントです。",
+      "date": "10月上旬〜11月中旬",
+      "place": "パリ市内各所（メイン会場：モンマルトル周辺など）",
+      "link": "https://www.parisinfo.com",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園の秋の景観散策",
-      "description": "紅葉が美しい公園で無料散策。子ども用遊具、ポニー乗車、木製帆船レンタルなど。秋の自然を満喫でき、ピクニックにも最適です。",
-      "date": "10月上旬〜11月上旬",
-      "place": "ルクセンブルク公園 Rue de Médicis, 75006 Paris",
-      "link": "https://www.senat.fr/visite/jardin/index.html",
+      "title": "ルクセンブルク公園の秋景と子ども向けアクティビティ",
+      "description": "秋色に染まる広大な公園。遊具、木馬、人形劇、セーリング池など子ども向けの無料・低価格アクティビティが充実。屋外で季節を感じられます。",
+      "date": "10月全期間",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、6区",
+      "link": "https://www.senat.fr/visite/jardin",
       "free": true
     },
     {
-      "title": "パリ・マザー・グース・フェスティバル（ハロウィン関連イベント）",
-      "description": "10月後半、パリ各地で子ども向けのハロウィンイベント開催。仮装コンテスト、トリック・オア・トリート、家族向けマーケットなどが楽しめます。",
-      "date": "10月下旬",
-      "place": "パリ市内各所（Champs-Élysées周辺、ディズニーランド・パリなど）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "シテ・デ・アンファン（Cité des Enfants）の季節プログラム",
-      "description": "ラ・ヴィレット科学館内の子ども向け施設。秋の特別ワークショップ、自然・テクノロジー体験が豊富。乳幼児〜12才向けの展示が充実。",
-      "date": "10月通年開催",
-      "place": "ラ・ヴィレット公園内 30 Avenue Corentin Cariou, 75019 Paris",
-      "link": "https://www.cite-sciences.fr/fr/visite/cite-des-enfants",
+      "title": "パリ・ハロウィン・イベント（ディズニーランド・パリ）",
+      "description": "ディズニーランド・パリで開催される秋のイベント。仮装した家族連れで賑わい、季節装飾やハロウィンパレード、子ども向けアトラクションが充実。",
+      "date": "10月中旬〜10月31日",
+      "place": "ディズニーランド・パリ（Disneyland Paris）、77700 Marne-la-Vallée",
+      "link": "https://www.disneylandparis.com",
       "free": false
     },
     {
-      "title": "モンマルトル・ブドウ収穫祭（Fête des Vendanges de Montmartre）",
-      "description": "パリ唯一のブドウ畑での秋の収穫祭。子ども向けアニメーション、地元食産品の試食、音楽ライブなど家族向けプログラムが豊富です。",
-      "date": "10月上旬",
-      "place": "モンマルト地区 Rue des Saules, 75018 Paris",
-      "link": "https://www.fetedescvendangesdemontmartre.com/",
+      "title": "モンマルトルの秋祭り・アート市場",
+      "description": "モンマルトルで開催される秋のアート市場。地元アーティストの作品展示販売、ストリートパフォーマンス、キッズ向けワークショップが無料で楽しめます。",
+      "date": "10月中旬〜下旬",
+      "place": "モンマルトル地区、Place du Tertre周辺、18区",
+      "link": "https://www.parisinfo.com",
       "free": true
+    },
+    {
+      "title": "パリ・ナチュレール展示（パリ自然史博物館の秋プログラム）",
+      "description": "秋の特別展示やワークショップ。子ども向けの自然観察プログラム、恐竜展示、インタラクティブ展示で学びと遊びを両立。",
+      "date": "10月全期間",
+      "place": "パリ自然史博物館（Muséum national d'Histoire naturelle）、5区",
+      "link": "https://www.mnhn.fr",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-05T02:34:09.258Z"
+  "updatedAt": "2026-10-08T03:09:15.797Z"
 }

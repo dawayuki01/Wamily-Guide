@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ハロウィン・イベント（ユニバーサル・スタジオ・ハリウッド）",
-      "description": "キッズ向けのハロウィン仮装イベント。子どもたちがトリック・オア・トリートを楽しめる特別プログラムが開催されます。アトラクションもハロウィン仕様に。",
+      "title": "ロサンゼルス・カウンティ・フェア（LA County Fair）",
+      "description": "秋の大型フェア。乗り物、動物との触れ合い、キッズゲーム、屋台グルメなど家族向けアトラクションが充実。10月中旬まで開催予定。",
+      "date": "9月下旬〜10月中旬",
+      "place": "Pomona Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://www.lacountyfair.com/",
+      "free": false
+    },
+    {
+      "title": "グリフィス天文台（Griffith Observatory）のハロウィン関連イベント",
+      "description": "10月はハロウィン特別プログラムを実施。プラネタリウムショー、展示、屋外天文台見学が楽しめます。子ども向けプログラムも充実。",
       "date": "10月上旬〜下旬",
-      "place": "ユニバーサル・スタジオ・ハリウッド、100 Universal City Plaza, Universal City, CA 91608",
-      "link": "https://www.universalstudios.com",
-      "free": false
-    },
-    {
-      "title": "ロサンゼルス・ファーマーズ・マーケット（季節の秋野菜・果物）",
-      "description": "秋の野菜や果物が豊富に揃う週末マーケット。子どもと一緒に新鮮な季節の食材を選ぶ楽しさが味わえます。キッズ向けワークショップも開催。",
-      "date": "10月毎週日曜日",
-      "place": "ロサンゼルス・ファーマーズ・マーケット複数開催地（アートメイズ・ファームスタンド他）",
-      "link": "https://www.sfvfarmersmarket.com",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
     },
     {
-      "title": "グリフィス・パークでのハイキングと天文台",
-      "description": "秋の涼しい気候はハイキングに最適。グリフィス天文台では子ども向けプラネタリウムと展示が無料で楽しめます。眺望も素晴らしい。",
-      "date": "10月全体（毎日開放）",
-      "place": "グリフィス・パーク、Griffith Observatory, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "title": "サンタ・モニカ・ピアのファミリープログラム＆ビーチ散策",
+      "description": "秋の過ごしやすい気候でビーチ散策。ピアの乗り物、ゲームセンター、広い砂浜での遊びが子連れに最適。カリフォルニアの海を満喫できます。",
+      "date": "10月上旬〜下旬",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
       "free": true
     },
     {
-      "title": "ロサンゼルス・カウンティ・ミュージアム・オブ・アート（LACMA）キッズプログラム",
-      "description": "秋の特別展示と子ども向けアートワークショップ。有名なウィート・フィールド彫刻も見学可。家族向けの創作体験が充実。",
-      "date": "10月上旬〜下旬（週末中心）",
-      "place": "LACMA, 5905 Wilshire Boulevard, Los Angeles, CA 90036",
-      "link": "https://www.lacma.org",
+      "title": "ロサンゼルス自然史博物館（Natural History Museum）の秋の特別展示",
+      "description": "恐竜展示、古生物化石、自然科学について学べる。子ども向けハンズオン体験コーナーもあり、秋の特別プログラムを実施予定。",
+      "date": "10月上旬〜下旬",
+      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://nhm.org/",
       "free": false
     },
     {
-      "title": "ビーチでのシーズンアクティビティ（サンタモニカ・ビーチ）",
-      "description": "10月のロサンゼルスは海水温も温かく、ビーチ散策に最適。子ども向けのビーチゲーム、砂遊び、波乗り体験が楽しめます。",
-      "date": "10月全体（毎日）",
-      "place": "サンタモニカ・ビーチ、Santa Monica Beach, Los Angeles, CA 90401",
-      "link": "https://www.santamonica.com",
+      "title": "アグリウォークス・ファーマーズマーケット（Farmers Markets）の秋の収穫祭",
+      "description": "地元野菜・果物の販売、キッズ向けワークショップ、ライブミュージック。10月はかぼちゃやリンゴなど秋の味覚が充実。家族で楽しめる雰囲気。",
+      "date": "10月上旬〜下旬（毎週末）",
+      "place": "Various Locations - Hollywood Farmers Market, Ivar Ave & Selma Ave, Los Angeles, CA 90028",
+      "link": "https://www.hollywoodfarmersmarket.org/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-05T02:34:49.634Z"
+  "updatedAt": "2026-10-08T03:10:01.099Z"
 }
