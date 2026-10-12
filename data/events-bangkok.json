@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン祭り（Loy Krathong）",
-      "description": "灯籠を川に流す伝統祭り。子どもたちが家族と一緒にクラトン（灯籠）を作り、チャオプラヤ川で流す体験ができます。夜間の幻想的なライトアップが印象的です。",
-      "date": "10月下旬〜11月上旬（満月の日）",
-      "place": "チャオプラヤ川沿い、ルンピニ公園ほか市内各地",
+      "title": "ロイクラトン祭り（Loy Krathong Festival）",
+      "description": "タイの伝統的な水上灯籠祭り。子どもも参加でき、川に灯籠を流す神秘的な体験ができます。バンコクの主要な川や寺院で開催されます。",
+      "date": "10月下旬〜11月上旬（満月の夜）",
+      "place": "チャオプラヤ川沿い、ワット・アルン、ルンピニ公園周辺",
       "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "世界最大級の屋外市場。子ども向けおもちゃ、衣類、食べ物が豊富。迷路のような通路を探索する冒険気分が子どもたちに人気です。週末営業。",
-      "date": "10月全体（土日）",
-      "place": "チャトゥチャック公園、バンコク北部",
+      "title": "サファリワールド（Safari World）秋の特別プログラム",
+      "description": "動物園とドライブスルーサファリが一体になった施設。10月は乗馬体験やイルカショーなど季節限定プログラムが充実。子ども向けイベントが豊富です。",
+      "date": "10月通年",
+      "place": "99 Moo 7, Panya Indra Rd., Samut Prakan 10540",
+      "link": "https://www.safariworld.com/",
+      "free": false
+    },
+    {
+      "title": "チャトチャック・ウィークエンド・マーケット（Chatuchak Weekend Market）",
+      "description": "世界最大級のマーケット。子ども用の衣類、おもちゃ、屋台の食べ物など家族で楽しめます。週末に開催。10月の気候は比較的涼しく訪問に最適。",
+      "date": "10月毎週土日",
+      "place": "Chatuchak Park, Phahonyothin Rd., Chatuchak, Bangkok 10900",
       "link": "https://www.chatuchakmarket.org/",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館（SEA LIFE Bangkok Ocean World）",
-      "description": "ショッピングモール内の大規模水族館。ジンベイザメやペンギンなど多数の海洋生物を観察。10月は学校休暇期間で混雑しますが、子ども向け教育プログラムも実施。",
-      "date": "10月全体",
-      "place": "サイアム・パラゴン内、地下1階、バンコク中央部",
-      "link": "https://www.visitsealifebangkok.com/",
+      "title": "サイアム・パラゴン水族館（Siam Paragon Aquarium）",
+      "description": "東南アジア最大級の水族館。インタラクティブな展示やタッチプール、ペンギンへの給餌体験など子ども向けプログラムが充実。空調完備で快適です。",
+      "date": "10月通年",
+      "place": "Siam Square Soi 5, Rama I Rd., Pathumwan, Bangkok 10330",
+      "link": "https://www.siamparagon.co.th/",
       "free": false
     },
     {
-      "title": "ルンピニ公園での屋外散策とアクティビティ",
-      "description": "バンコク最大の公園。朝の散歩で野鳥観察、子ども向けの運動広場、池でのボート乗車が楽しめます。涼しい朝間の活動をおすすめします。",
-      "date": "10月全体（早朝推奨）",
-      "place": "ルンピニ公園、シーロム通り",
-      "link": "https://www.bangkokpark.com/",
+      "title": "ルンピニ公園でのサイクリング・ウォーキングツアー",
+      "description": "バンコク最大の公園で自然を体験。朝のウォーキングやレンタル自転車での家族サイクリング、野鳥観察ができます。10月は気候が涼しく屋外活動に最適。",
+      "date": "10月通年（早朝6〜9時がおすすめ）",
+      "place": "Lumphini Park, Rama IV Rd., Pathum Wan, Bangkok 10330",
+      "link": "https://www.bangkok.go.th/",
       "free": true
-    },
-    {
-      "title": "キッザニア・バンコク（KidZania Bangkok）",
-      "description": "子ども向けテーマパーク。さまざまな職業体験ができます。10月は学校イベント期間で特別プログラムや割引が用意されることがあります。屋内施設なため気候に左右されません。",
-      "date": "10月全体",
-      "place": "エンポリアム・エムポリウム3階、バンコク中央部",
-      "link": "https://www.kidzania.com/bangkok",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-08T03:09:43.238Z"
+  "updatedAt": "2026-10-12T02:50:02.079Z"
 }

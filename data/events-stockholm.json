@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム国際児童映画祭（Stockholm International Film Festival - Kids section）",
-      "description": "子ども向けの映画上映とワークショップが開催される。北欧の児童文学原作の映画化作品も上映。家族で楽しめる国際的な映画祭。",
-      "date": "10月中旬〜下旬",
-      "place": "ストックホルム市内各映画館",
-      "link": "https://www.filmfestivalen.se/",
-      "free": false
+      "title": "ストックホルム秋祭り（Stockholm Höstmarknad）",
+      "description": "ストックホルム旧市街（ガムラスタン）で開催される秋の屋外マーケット。地元の食べ物、工芸品、子ども向けのアクティビティが豊富。秋の雰囲気を感じながら散策できます。",
+      "date": "10月上旬～中旬",
+      "place": "ガムラスタン（旧市街）、ストックホルム中心部",
+      "link": "https://www.stockholm.se/",
+      "free": true
     },
     {
-      "title": "スカンセン野外博物館の秋の収穫祭（Höstmarknad）",
-      "description": "伝統的な北欧の秋祭り。動物との触れ合い、民族衣装体験、伝統工芸のデモンストレーション、地元の食べ物が楽しめる。",
-      "date": "10月中旬〜下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "title": "スカンセン野外博物館の秋イベント",
+      "description": "北欧最大級の野外博物館で、秋の動物たち観察やスウェーデン伝統体験が楽しめます。10月は秋祭り関連イベントも開催。小学生向けの教育プログラムが充実。",
+      "date": "10月通期",
+      "place": "スカンセン、Djurgårdsvägen 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ストックホルム群島のカヤッキング・プチハイキング（紅葉時期）",
-      "description": "秋の美しい景色の中で、家族向けのガイド付きカヤックツアーやハイキング。穏やかなルートで乳幼児～小学生が楽しめる。",
-      "date": "10月上旬〜中旬",
-      "place": "ストックホルム群島（ジューガルデン近辺）",
-      "link": "https://www.stockholmsightseeing.com/",
+      "title": "ノーベル賞ディナー見学（王宮周辺）＆秋の王宮ガイドツアー",
+      "description": "10月中旬にノーベル賞発表が行われます。王宮周辺は特別な雰囲気に。家族向けの王宮ガイドツアーで、スウェーデン王室の歴史を学べます。",
+      "date": "10月中旬",
+      "place": "王宮（Kungliga Slottet）、Lejonbacken, 111 30 Stockholm",
+      "link": "https://www.royalpalace.se/",
       "free": false
     },
     {
-      "title": "ストックホルム市立図書館の秋の子ども向けプログラム",
-      "description": "読み聞かせ、手工芸ワークショップ、北欧民話の語り部イベント。無料で参加でき、北欧文化を学べる。",
-      "date": "10月通年開催",
-      "place": "Stockholm Public Library, Sveavägen 73, 113 59 Stockholm",
-      "link": "https://biblioteket.stockholm.se/",
+      "title": "ジュルゴーデン島での秋の紅葉散策（無料）",
+      "description": "ストックホルムの美しい離島。秋の紅葉が見事で、遊歩道を歩きながら自然を楽しめます。ピクニックスポットも多く、家族連れに最適な屋外アクティビティ。",
+      "date": "10月上旬～11月上旬",
+      "place": "ジュルゴーデン島（Djurgården）、ストックホルム",
+      "link": "https://www.visitstockholm.com/",
       "free": true
     },
     {
-      "title": "ユーレンスバリ遊園地の秋営業＆ハロウィンイベント",
-      "description": "北欧最古の遊園地。秋限定のハロウィン装飾、キッズ向けのアトラクション、ポンプキンピッキングなどの季節イベント。",
-      "date": "10月中旬〜下旬",
-      "place": "Gröna Lund, Allmänna vägen 9, 115 21 Stockholm",
-      "link": "https://www.gronalund.com/",
+      "title": "スウェーデン国立自然史博物館の秋特別展示",
+      "description": "動物の冬支度や北欧の秋の生態系に関する展示。子ども向けの体験コーナーやワークショップが開催されます。乳幼児から小学生まで楽しめます。",
+      "date": "10月通期",
+      "place": "スウェーデン国立自然史博物館、Frescativägen 40, 104 05 Stockholm",
+      "link": "https://www.nrm.se/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-08T03:09:24.769Z"
+  "updatedAt": "2026-10-12T02:49:43.543Z"
 }

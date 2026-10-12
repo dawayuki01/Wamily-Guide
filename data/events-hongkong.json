@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港アートウィーク（Art Basel Hong Kong周辺のアートイベント）",
-      "description": "10月は香港の文化シーズンの始まり。ギャラリーやアートスペースで子ども向けワークショップが開催されます。創造性を刺激する体験ができます。",
+      "title": "Hong Kong Arts Festival - Children's Programme",
+      "description": "香港アーツフェスティバルの子ども向けプログラム。演劇、音楽、ダンスなど家族向けパフォーマンスが多数開催される文化イベント。",
       "date": "10月中旬〜下旬",
-      "place": "香港各地（セントラル、湾仔周辺）",
-      "link": "https://www.hktourism.com",
-      "free": true
-    },
-    {
-      "title": "スターフェリー沿線の海辺散策・アウトドアアクティビティ",
-      "description": "10月は天気が良く、気温が涼しくなる季節。スターフェリーでビクトリアハーバーを渡ったり、ビーチでの水遊びやハイキングに最適。子どもと一緒に海風を楽しめます。",
-      "date": "10月上旬〜下旬（通年）",
-      "place": "ビクトリアハーバー周辺、香港各地のビーチ",
-      "link": "https://www.starferry.com.hk",
-      "free": true
-    },
-    {
-      "title": "香港科学館・香港歴史博物館の特別展示",
-      "description": "10月は秋の新企画展示がオープンする時期。子ども向けの対話型展示やワークショップが充実。実際に触れて学べる体験施設です。",
-      "date": "10月（企画展示は変動）",
-      "place": "尖沙咀：香港科学館、香港歴史博物館",
-      "link": "https://www.sciman.org.hk",
+      "place": "香港文化中心ほか各地（Wan Chai, Hong Kong）",
+      "link": "https://www.hkaf.org",
       "free": false
     },
     {
-      "title": "ウィンターマーケット・フェスティバル準備期間のショッピングイベント",
-      "description": "10月後半から冬のマーケットシーズンが始まります。クリスマス関連の屋外マーケットやフェスティバルで、家族向けゲーム・食べ物・工作体験が楽しめます。",
-      "date": "10月下旬〜11月",
-      "place": "中環・湾仔・尖沙咀の各イベント会場",
-      "link": "https://www.hktourism.com",
+      "title": "Hong Kong Book Fair - Kids Zone",
+      "description": "香港ブックフェアの子ども向けコーナー。児童書、絵本、教育教材が揃い、ワークショップや読み聞かせイベントも開催。",
+      "date": "10月中旬〜下旬",
+      "place": "香港コンベンション・エキシビション・センター（Wan Chai）",
+      "link": "https://www.hkbookfair.com",
+      "free": false
+    },
+    {
+      "title": "香港ウェットランド公園 - バードウォッチング",
+      "description": "秋の渡り鳥シーズン。子どもと一緒に野鳥観察できる自然公園。双眼鏡貸出あり。屋外での季節限定アクティビティ。",
+      "date": "10月上旬〜11月中旬",
+      "place": "香港ウェットランド公園（新界Tin Shui Wai）",
+      "link": "https://www.wetlandpark.gov.hk",
       "free": true
     },
     {
-      "title": "ディズニーランド香港の秋イベント・ハロウィーンスペシャル",
-      "description": "10月はハロウィーン関連イベントやキャラクターミートが開催。子ども向けのアトラクション・パレード・限定イベントで一日中楽しめます。",
-      "date": "10月上旬〜下旬",
-      "place": "ランタオ島 香港ディズニーランド",
-      "link": "https://www.hongkongdisneyland.com",
+      "title": "Ocean Park - Halloween Fest",
+      "description": "海洋公園のハロウィーンイベント。子ども向けのかわいいハロウィーン装飾、トリック・オア・トリート、アトラクション特別企画。",
+      "date": "10月中旬〜下旬",
+      "place": "オーシャンパーク（南区Aberdeen）",
+      "link": "https://www.oceanpark.com.hk",
       "free": false
+    },
+    {
+      "title": "深水埗ハロウィーンマーケット - 屋外フェスティバル",
+      "description": "地元の屋外マーケットで開催されるハロウィーンイベント。ストリートパフォーマンス、屋台グルメ、手工芸品販売など家族向け。",
+      "date": "10月下旬",
+      "place": "深水埗レクリエーション広場周辺（Sham Shui Po）",
+      "link": "",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-08T03:10:28.536Z"
+  "updatedAt": "2026-10-12T02:50:46.401Z"
 }

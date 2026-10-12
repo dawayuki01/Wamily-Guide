@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "SM Malls of Asia Halloween Festival",
-      "description": "フィリピン最大級のショッピングモール「SM Malls of Asia」での大規模ハロウィンイベント。子ども向けトリックオアトリート、キャラクターグリーティング、ハロウィン装飾が楽しめます。",
+      "title": "SM City Manila キッズフェスティバル",
+      "description": "フィリピン最大級のショッピングモールで開催される子ども向けイベント。ゲーム、ワークショップ、キャラクターグリーティングなど家族向けの催し物が豊富です。",
       "date": "10月中旬〜下旬",
-      "place": "SM Malls of Asia, Mall of Asia Complex, Pasay City",
-      "link": "https://www.smmallsofasia.com.ph/",
+      "place": "SM City Manila、Metromall Building 1、M.H. del Pilar corner Mariano Jhocson St., Malate, Manila",
+      "link": "https://www.sminmall.com/",
       "free": true
     },
     {
-      "title": "Palarong Pambansa 2026関連イベント",
-      "description": "フィリピン全国スポーツ大会期間中の公開トレーニング・デモンストレーション。子どもたちが国内トップアスリートのパフォーマンスを間近で見学できます。",
-      "date": "10月上旬〜中旬",
-      "place": "フィリピンアリーナほか複数会場、Pasig City",
+      "title": "ザ・ラッキー・チャイナタウン フェスティバル",
+      "description": "マニラのビノンド地区で開催される文化祭。提灯装飾、伝統的なパレード、屋台でのフードサンプリングが特徴。子どもも楽しめる異文化体験です。",
+      "date": "10月中旬",
+      "place": "Binondo District, Manila - Ongpin Street周辺",
       "link": "",
       "free": true
     },
     {
-      "title": "Manila Ocean Park Special Programs",
-      "description": "水族館での10月限定の子ども向けプログラム。スクール・ホリデーの季節に教育的なアクアリウムツアーやタッチプールアクティビティが開催されます。",
-      "date": "10月全月",
-      "place": "Manila Ocean Park, CCP Complex, Pasay City",
-      "link": "https://www.manilaoceanpark.com/",
+      "title": "フィリピン国立博物館 子ども向けワークショップ",
+      "description": "フィリピンの歴史・文化を学ぶ体験型プログラム。工作や展示室での学習ツアーが行われます。涼しい屋内環境で親子で楽しめます。",
+      "date": "10月通年（週末開催）",
+      "place": "National Museum Complex, Padre Burgos Ave., Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": false
     },
     {
-      "title": "Rizal Park Family Outreach Programs",
-      "description": "フィリピン最大の都市公園での屋外ファミリーアクティビティ。自然散策、ピクニックエリア、子ども向けワークショップが無料で楽しめます。広大な緑地での運動に最適。",
-      "date": "10月全月（週末中心）",
-      "place": "Rizal Park, Manila",
-      "link": "https://www.parks.gov.ph/",
+      "title": "リサール公園でのアウトドア活動",
+      "description": "マニラ最大の公園。10月は乾季で天気が良く、自転車レンタル、ピクニック、遊具での遊びが快適。家族向けの広大なスペースです。",
+      "date": "10月上旬〜下旬",
+      "place": "Rizal Park (Luneta Park), Padre Burgos Ave., Ermita, Manila",
+      "link": "https://www.tripadvisor.com/Tourism-g317155-Rizal_Park_Luneta_Park_Manila_Calabarzon_Region_Calabarzon.html",
       "free": true
     },
     {
-      "title": "Enchanted Kingdom Halloween Haunt",
-      "description": "テーマパーク「Enchanted Kingdom」でのハロウィンスペシャルイベント。子ども向けのマイルドなホーンテッド体験、コスプレコンテスト、限定キャラクターショーが開催されます。",
-      "date": "10月中旬〜下旬",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
-      "link": "https://www.enchantedkingdom.ph/",
+      "title": "メトロポリタン美術館 ファミリーツアー",
+      "description": "子ども向けのガイド付きツアー。フィリピンアートの鑑賞を通じて文化的リテラシーを育みます。対話型の展示で幼児も興味を持ちやすいです。",
+      "date": "10月通年（要予約）",
+      "place": "Metropolitan Museum of Manila, 1 Bangko Sentral Complex, Roxas Boulevard, Malate, Manila",
+      "link": "https://www.metmuseum.org.ph/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-08T03:09:51.480Z"
+  "updatedAt": "2026-10-12T02:50:11.639Z"
 }

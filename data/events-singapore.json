@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Deepavali（ディパバリ）",
-      "description": "インド系住民による光の祭典。Little India地区が色鮮やかにデコレーションされ、屋台やお店が立ち並びます。10月下旬から11月上旬に開催。子ども向けの工作体験やお菓子販売も。",
-      "date": "10月下旬〜11月上旬",
-      "place": "Little India, シンガポール",
-      "link": "https://www.stb.gov.sg/",
+      "title": "Festival of Lights（ディパバリ祭）",
+      "description": "10月下旬から11月上旬にかけて開催されるヒンドゥー教の光の祭典。Little India地区がカラフルに装飾され、子ども向けの文化体験やパフォーマンスが楽しめます。無料で散策可能。",
+      "date": "10月下旬〜11月初旬",
+      "place": "Little India、Serangoon Road",
+      "link": "https://www.yoursingapore.com",
       "free": true
     },
     {
-      "title": "Singapore Children's Festival（シンガポール子どもフェスティバル）",
-      "description": "子ども向けのパフォーマンス、インタラクティブ展示、工作ワークショップなどが開催される年1回のイベント。乳幼児から小学生まで楽しめるアクティビティが豊富。",
+      "title": "Singapore Biennale 2026（子ども向けプログラム付き）",
+      "description": "現代アートの国際展。美術館では子ども向けのアート体験やワークショップが随時開催されます。家族で芸術に触れる良い機会になります。",
+      "date": "10月〜翌年1月頃（予定）",
+      "place": "National Gallery Singapore、Marina Bay周辺",
+      "link": "https://www.nationalgallery.sg",
+      "free": false
+    },
+    {
+      "title": "Chingay Parade練習・準備イベント",
+      "description": "2月の大型パレード「チンゲイ・パレード」に向けた10月の準備期間に、コミュニティセンターで子ども向けの獅子舞やダンスワークショップが開催されます。",
       "date": "10月中旬〜下旬",
-      "place": "National Museum of Singapore またはその他会場",
-      "link": "https://www.nmsg.sg/",
-      "free": false
-    },
-    {
-      "title": "East Coast Park でのビーチアクティビティ",
-      "description": "シンガポール東側の広大なビーチパーク。子ども向けの遊具、レンタサイクル、水遊びが楽しめます。10月は雨が多いため天気を確認し、晴れた日の午前中がおすすめ。",
-      "date": "10月通年（天気による）",
-      "place": "East Coast Park Road, Singapore 1441",
-      "link": "https://www.nparks.gov.sg/",
+      "place": "各コミュニティセンター・PAD（People's Association）",
+      "link": "https://www.pa.gov.sg",
       "free": true
     },
     {
-      "title": "Gardens by the Bay の特別展示・ワークショップ",
-      "description": "光と植物の融合した庭園。10月の季節展示やファミリー向けワークショップが開催。Supertree Groveのライトアップも子どもに人気。屋外での自然散策が楽しめます。",
-      "date": "10月通年",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg/",
+      "title": "Gardens by the Bay「花と光の展示」",
+      "description": "季節ごとのフラワーディスプレイと夜間のライトショー。子どもも楽しめる屋外庭園での自然体験とNight Garden Showは見逃せません。",
+      "date": "10月通年開催",
+      "place": "Gardens by the Bay、18 Marina Gardens Drive",
+      "link": "https://www.gardensbythebay.com.sg",
       "free": false
     },
     {
-      "title": "Singapore Zoo の季節イベント",
-      "description": "アジア最大級の動物園。10月は園内でファミリー向けの教育プログラムやフィーディング体験が開催。年間を通じて動物との触れ合いが充実しています。",
-      "date": "10月通年",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.sg/",
+      "title": "Singapore Science Centre「ハロウィン・サイエンス体験」",
+      "description": "10月限定でハロウィンテーマのインタラクティブサイエンスプログラムを開催。子どもが科学を楽しく学べる体験型イベントです。",
+      "date": "10月中旬〜下旬",
+      "place": "Singapore Science Centre、5 Science Centre Road",
+      "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-08T03:09:33.214Z"
+  "updatedAt": "2026-10-12T02:49:51.915Z"
 }
