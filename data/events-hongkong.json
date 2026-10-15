@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Hong Kong Arts Festival - Children's Programme",
-      "description": "香港アーツフェスティバルの子ども向けプログラム。演劇、音楽、ダンスなど家族向けパフォーマンスが多数開催される文化イベント。",
-      "date": "10月中旬〜下旬",
-      "place": "香港文化中心ほか各地（Wan Chai, Hong Kong）",
-      "link": "https://www.hkaf.org",
+      "title": "香港アートフェスティバル",
+      "description": "10月に開催される香港最大級の芸術祭。家族向けのワークショップ、キッズシアター、インタラクティブアート展示など、子どもも楽しめるプログラムが豊富です。",
+      "date": "10月中旬〜11月上旬",
+      "place": "香港各地（主要会場：アートセンター他）",
+      "link": "https://www.hkaf.org/",
       "free": false
     },
     {
-      "title": "Hong Kong Book Fair - Kids Zone",
-      "description": "香港ブックフェアの子ども向けコーナー。児童書、絵本、教育教材が揃い、ワークショップや読み聞かせイベントも開催。",
-      "date": "10月中旬〜下旬",
-      "place": "香港コンベンション・エキシビション・センター（Wan Chai）",
-      "link": "https://www.hkbookfair.com",
+      "title": "スターフェリー乗船体験＆スターガイド散策",
+      "description": "香港の象徴スターフェリーで維多利亚湾を横断。秋の穏やかな気候の中、乳幼児から楽しめる屋外アクティビティ。景色も素晴らしく、家族向けの最高の思い出になります。",
+      "date": "10月通年（季節最適）",
+      "place": "セントラル〜ワンチャイ間（香港島・九龍間）",
+      "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "香港ウェットランド公園 - バードウォッチング",
-      "description": "秋の渡り鳥シーズン。子どもと一緒に野鳥観察できる自然公園。双眼鏡貸出あり。屋外での季節限定アクティビティ。",
-      "date": "10月上旬〜11月中旬",
-      "place": "香港ウェットランド公園（新界Tin Shui Wai）",
-      "link": "https://www.wetlandpark.gov.hk",
+      "title": "ビクトリア・パーク秋祭り＆公園散策",
+      "description": "ビクトリア・パークで開催される秋の季節イベント。広大な芝生での家族ピクニック、子ども向けゲーム、地元文化体験が無料で楽しめます。自然の中でのリラックス時間が最高です。",
+      "date": "10月中旬〜下旬",
+      "place": "ビクトリア・パーク（銅鑼灣 Causeway Bay）",
+      "link": "https://www.lcsd.gov.hk/en/parks/vp/",
       "free": true
     },
     {
-      "title": "Ocean Park - Halloween Fest",
-      "description": "海洋公園のハロウィーンイベント。子ども向けのかわいいハロウィーン装飾、トリック・オア・トリート、アトラクション特別企画。",
-      "date": "10月中旬〜下旬",
-      "place": "オーシャンパーク（南区Aberdeen）",
-      "link": "https://www.oceanpark.com.hk",
+      "title": "香港海事博物館 キッズプログラム",
+      "description": "香港の海事歴史を学ぶ博物館。秋の特別子ども向けワークショップで、インタラクティブ体験や実物展示を通じて香港の文化を理解できます。",
+      "date": "10月通年（特別プログラム：10月各週末）",
+      "place": "香港海事博物館（セントラル・ピア8）",
+      "link": "https://www.maritimemuseum.hk/",
       "free": false
     },
     {
-      "title": "深水埗ハロウィーンマーケット - 屋外フェスティバル",
-      "description": "地元の屋外マーケットで開催されるハロウィーンイベント。ストリートパフォーマンス、屋台グルメ、手工芸品販売など家族向け。",
-      "date": "10月下旬",
-      "place": "深水埗レクリエーション広場周辺（Sham Shui Po）",
+      "title": "スターライト・シネマ＆屋外家族イベント",
+      "description": "香港各地の屋外スクリーンで上映される家族向けムービーナイト。秋の涼しい夜間、子ども向け映画が無料または低価格で楽しめます。地域コミュニティの雰囲気も最高です。",
+      "date": "10月上旬〜中旬",
+      "place": "香港各地の公園・広場",
       "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-12T02:50:46.401Z"
+  "updatedAt": "2026-10-15T02:00:58.443Z"
 }

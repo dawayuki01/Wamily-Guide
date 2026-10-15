@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・ハロウィン・カーニバル",
-      "description": "10月下旬、ダウンタウンLAで開催される大規模ハロウィンイベント。キッズゾーンでは安全な環境でトリック・オア・トリーティングや仮装パレードが楽しめます。",
-      "date": "10月下旬（10月25日〜31日頃）",
-      "place": "Downtown Los Angeles",
-      "link": "https://www.visitcalifornia.com/",
+      "title": "ロサンゼルス・カウンティ・フェア（LA County Fair）",
+      "description": "秋の大規模フェアで、子ども向けの乗り物、ゲーム、動物とのふれあいコーナー、美味しい食べ物が豊富。家族連れに最適な季節のイベントです。",
+      "date": "9月下旬〜10月上旬",
+      "place": "LA County Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://www.lacountyfair.com",
       "free": false
     },
     {
-      "title": "グリフィス天文台（Griffith Observatory）無料開放デー",
-      "description": "グリフィス天文台は無料で入館可能。10月は涼しい天気で星空観察に最適。子ども向けプラネタリウム展示や天体ショーが楽しめます。",
-      "date": "10月通年",
+      "title": "グリフィス・オブザーバトリーのハロウィン特別プログラム",
+      "description": "天文館での子ども向けハロウィンイベント。プラネタリウムショーや宇宙体験が特別仕様に。乳幼児〜小学生向けプログラムがあります。",
+      "date": "10月中旬〜下旬",
       "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "LA County Fair（ロサンゼルス郡フェア）",
-      "description": "ポモーナで開催される大規模秋祭り。乗り物、動物とのふれあい、キッズ向けショー、美味しい屋台グルメが満載。家族連れに大人気のイベントです。",
-      "date": "10月上旬〜下旬",
-      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://www.lacountyfair.com/",
+      "title": "トーランス・ビーチでのカイト・フェスティバル",
+      "description": "秋の最適な風を利用した凧揚げイベント。家族で参加でき、色とりどりの凧が空を彩ります。砂浜でのアウトドア体験が楽しめます。",
+      "date": "10月上旬〜中旬",
+      "place": "Torrance Beach, Torrance, CA 90501",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "サンタモニカ・ピアのハロウィン・イベント",
+      "description": "ビーチ沿いの遊園地でハロウィン仕様に装飾。子ども向けゲーム、仮装パレード、ライトアップがあり、家族で楽しめます。",
+      "date": "10月中旬〜下旬",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
       "free": false
     },
     {
-      "title": "ビーチ・クリーンアップと海洋生物観察（Santa Monica Beach）",
-      "description": "サンタモニカビーチでの無料の自然体験。家族で砂浜の探索、貝殻採集、季節の海鳥観察が楽しめます。子ども向けの環境学習プログラムもあります。",
-      "date": "10月通年",
-      "place": "Santa Monica Beach, Santa Monica, CA 90401",
-      "link": "https://www.santamonica.gov/",
-      "free": true
-    },
-    {
-      "title": "LA Zoo（ロサンゼルス動物園）秋のスペシャルプログラム",
-      "description": "涼しい秋の季節、動物たちが活発に活動。乳幼児向けタッチプール、キッズ向け飼育員トークなど季節限定プログラムが開催されます。",
-      "date": "10月通年",
-      "place": "Los Angeles Zoo, 5333 Zoo Drive, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org/",
+      "title": "ロサンゼルス自然史博物館のハロウィン・ナイト",
+      "description": "博物館での子ども向けハロウィンプログラム。恐竜展示、ミイラ展示など怖すぎない形で楽しめ、仮装入館が歓迎されます。",
+      "date": "10月下旬",
+      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-12T02:50:20.643Z"
+  "updatedAt": "2026-10-15T02:00:30.895Z"
 }
