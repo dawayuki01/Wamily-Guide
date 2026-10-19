@@ -2,40 +2,40 @@
   "items": [
     {
       "title": "Aloha Festivals（アロハフェスティバル）",
-      "description": "ハワイ文化を祝う州全体のお祭り。フラダンス、音楽、パレード、工芸品展示など家族向けプログラムが充実。子どもも参加できるワークショップあり。",
-      "date": "10月上旬〜中旬",
-      "place": "オアフ島全域（ワイキキビーチ、カピオラニパークなど複数会場）",
+      "description": "ハワイの文化を祝う大型フェスティバル。フラダンス、音楽、パレード、伝統工芸展示など家族向けのプログラムが豊富。子どもも参加できるワークショップあり。",
+      "date": "10月上旬〜下旬",
+      "place": "オアフ島全島（ワイキキビーチなど複数会場）",
       "link": "https://www.alohafestivals.com",
       "free": true
     },
     {
-      "title": "Honolulu Zoo Halloween Events",
-      "description": "ホノルル動物園のハロウィンイベント。動物との触れ合い体験やコスチュームコンテスト、家族向けアクティビティが開催されます。",
+      "title": "Honolulu Zoo（ホノルル動物園）- October Family Programs",
+      "description": "動物園の秋の特別ファミリープログラム。ガイド付きツアーやハロウィンイベント、動物とのふれあいなど。乳幼児から小学生まで楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "Honolulu Zoo, 151 Kapiolani Park, Honolulu, HI 96815",
+      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
       "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "Waikiki Beach Park での海水浴・シュノーケリング",
-      "description": "10月のハワイは気候が良く、海の透明度も高い季節。家族向けの浅瀬エリアでシュノーケリングや海水浴が楽しめます。ビーチサイドでの自然観察。",
+      "title": "Waikiki Beach での無料ビーチアクティビティ",
+      "description": "10月は水温も快適で、ファミリー向けのビーチタイム。無料のビーチ散策、シュノーケリング、砂遊び。ライフガードも常駐で安全。",
       "date": "10月全期間",
       "place": "Waikiki Beach, Honolulu, HI",
-      "link": "https://www.go-hawaii.com",
+      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
       "free": true
     },
     {
-      "title": "Maui County Fair（マウイカウンティフェア）",
-      "description": "マウイ島で開催される地域のお祭り。子ども向け遊具、アートショー、フード屋台、ハワイアン音楽。家族向けの伝統的なカウンティフェア。",
-      "date": "10月中旬",
-      "place": "Kahului, Maui, HI（詳細は公式確認推奨）",
-      "link": "https://mauicountyfair.com",
+      "title": "Kailua Beach でのウォータースポーツ体験",
+      "description": "オアフ島で最も美しいビーチ。カヤック、パドルボード、シュノーケリングなど。家族向けレンタルプランやキッズガイド付きツアーあり。浅瀬で安全。",
+      "date": "10月全期間",
+      "place": "Kailua Beach Park, Kailua, HI 96734",
+      "link": "https://www.gohawaii.com/islands/oahu",
       "free": false
     },
     {
-      "title": "Bishop Museum の子ども向けプログラム",
-      "description": "ハワイ博物館で開催される子ども向けワークショップ。ハワイアン文化体験、フラレッスン、工作教室など季節プログラムあり。",
-      "date": "10月全期間（内容は日程確認要）",
+      "title": "Bishop Museum - October Kids Programs",
+      "description": "ハワイの歴史文化博物館。10月はハロウィンテーマのキッズワークショップやハンズオン展示が充実。乳幼児向けの安全エリアも完備。",
+      "date": "10月中旬〜下旬",
       "place": "Bishop Museum, 1525 Bernice St, Honolulu, HI 96817",
       "link": "https://www.bishopmuseum.org",
       "free": false
@@ -43,5 +43,5 @@
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-15T02:00:39.777Z"
+  "updatedAt": "2026-10-19T02:00:14.855Z"
 }

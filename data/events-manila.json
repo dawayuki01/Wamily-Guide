@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Makati City Fiesta",
-      "description": "マカティの守護聖人を祝う伝統的なお祭り。パレード、音楽、屋台など家族で楽しめる。子ども向けの催し物や安全な観覧スペースが用意されます。",
-      "date": "10月中旬",
-      "place": "マカティシティ、アヤラ通り周辺",
+      "title": "SM モール・オブ・アジア ハロウィンフェスティバル",
+      "description": "10月のハロウィンシーズンに開催される大型ショッピングモール内のファミリー向けイベント。子ども向けのコスチューム企画、トリックオアトリート、キャラクターグリーティングなど。",
+      "date": "10月中旬〜31日",
+      "place": "SM モール・オブ・アジア、マニラ湾エリア",
+      "link": "https://www.smmallofasia.com",
+      "free": true
+    },
+    {
+      "title": "フィリピン国立博物館の親子向けワークショップ",
+      "description": "フィリピンの歴史と文化を学べる博物館での特別プログラム。子ども向けの展示説明ツアーや工作ワークショップを開催。秋の特別展示も同時開催。",
+      "date": "10月全般（土日祝）",
+      "place": "フィリピン国立博物館、ロハス大通り、マニラ",
+      "link": "https://nationalmuseum.gov.ph",
+      "free": true
+    },
+    {
+      "title": "ナヤログ・ナチュラル・ファーム トレイルハイキングツアー",
+      "description": "マニラ郊外の有機農場での家族向けアウトドアアクティビティ。自然散策、野菜収穫体験、ピクニックランチが含まれる。季節の花々も見られる。",
+      "date": "10月上旬〜下旬",
+      "place": "ナヤログ・ナチュラル・ファーム、ロザリオ（マニラから約60km）",
+      "link": "https://www.nayalog.com",
+      "free": false
+    },
+    {
+      "title": "バーンハム・パーク ファミリー・アウトドアデー",
+      "description": "マニラの大型公園での家族向け屋外イベント。サイクリング、ピクニックエリア、芝生での遊び、屋外アート展示。公園内の散策と自然を楽しめる無料スポット。",
+      "date": "10月全般（特に土日）",
+      "place": "バーンハム・パーク、イントラムロス地区、マニラ",
       "link": "",
       "free": true
     },
     {
-      "title": "Manila Zoo (マニラ動物園) - October Programs",
-      "description": "リサール公園内の動物園。10月は秋のアクティビティが充実。乳幼児から小学生まで動物観察、給餌体験など季節プログラムが開催されます。",
-      "date": "10月通年",
-      "place": "リサール公園、Rizal Park, Manila",
-      "link": "https://manilazo.gov.ph/",
-      "free": false
-    },
-    {
-      "title": "Enchanted Kingdom (エンチャンテッド・キングダム) - Halloween Events",
-      "description": "テーマパークの季節限定ハロウィンイベント。子ども向けアトラクション、コスチュームコンテスト、仮装パレードなど家族向けの楽しい催し物が満載です。",
-      "date": "10月中旬〜下旬",
-      "place": "Santa Rosa, Laguna(マニラから車で約1時間)",
-      "link": "https://www.enchantedkingdom.ph/",
-      "free": false
-    },
-    {
-      "title": "Luneta Park Free Activities & Sunday Market",
-      "description": "リサール公園での無料アクティビティ。緑豊かな環境で家族でピクニック、日曜市場での地元工芸品・食べ物を楽しめます。乳幼児向けの安全な散策コースあり。",
-      "date": "10月全体（特に日曜日）",
-      "place": "Rizal Park (Luneta Park), Manila",
-      "link": "https://www.tourism.gov.ph/",
-      "free": true
-    },
-    {
-      "title": "Philippine Children's Museum - Holiday Programs",
-      "description": "子ども向けの専門博物館。10月に秋・ハロウィンテーマの教育プログラムやワークショップを開催。乳幼児から小学生まで参加できるインタラクティブな展示。",
-      "date": "10月全体",
-      "place": "Makati City, Bonifacio Global City",
-      "link": "https://www.childrensmuseum.org.ph/",
+      "title": "チルドレンズ・ライブラリーの秋学期スペシャルプログラム",
+      "description": "絵本の読み聞かせ、英語と子ども向けワークショップ、工作体験。10月は「読書月間」として特別プログラムを開催。乳幼児から小学生向けの多彩なプログラム。",
+      "date": "10月全般（平日・土曜）",
+      "place": "チルドレンズ・ライブラリー、アヤラ・センター・マカティ内",
+      "link": "https://www.childrenslibraryph.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-15T02:00:21.748Z"
+  "updatedAt": "2026-10-19T01:59:56.132Z"
 }

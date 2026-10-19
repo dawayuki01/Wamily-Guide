@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港アートフェスティバル",
-      "description": "10月に開催される香港最大級の芸術祭。家族向けのワークショップ、キッズシアター、インタラクティブアート展示など、子どもも楽しめるプログラムが豊富です。",
-      "date": "10月中旬〜11月上旬",
-      "place": "香港各地（主要会場：アートセンター他）",
-      "link": "https://www.hkaf.org/",
-      "free": false
-    },
-    {
-      "title": "スターフェリー乗船体験＆スターガイド散策",
-      "description": "香港の象徴スターフェリーで維多利亚湾を横断。秋の穏やかな気候の中、乳幼児から楽しめる屋外アクティビティ。景色も素晴らしく、家族向けの最高の思い出になります。",
-      "date": "10月通年（季節最適）",
-      "place": "セントラル〜ワンチャイ間（香港島・九龍間）",
-      "link": "https://www.starferry.com.hk/",
-      "free": false
-    },
-    {
-      "title": "ビクトリア・パーク秋祭り＆公園散策",
-      "description": "ビクトリア・パークで開催される秋の季節イベント。広大な芝生での家族ピクニック、子ども向けゲーム、地元文化体験が無料で楽しめます。自然の中でのリラックス時間が最高です。",
+      "title": "Hong Kong Sports and Fitness Expo（香港スポーツ・フィットネスエキスポ）",
+      "description": "子ども向けのスポーツ体験コーナーやアクティビティが充実。様々なスポーツを気軽に体験でき、家族で楽しめるイベント。入場料はかかりますが、子ども向けプログラムが豊富です。",
       "date": "10月中旬〜下旬",
-      "place": "ビクトリア・パーク（銅鑼灣 Causeway Bay）",
-      "link": "https://www.lcsd.gov.hk/en/parks/vp/",
+      "place": "香港コンベンション・エキスビション・センター（Hong Kong Convention and Exhibition Centre）、湾仔（ワンチャイ）",
+      "link": "https://www.hkexhibition.com",
+      "free": false
+    },
+    {
+      "title": "Mid-Autumn Festival（中秋節）関連イベント",
+      "description": "香港全域で開催される伝統的なお祭り。ランタン飾り、提灯行進、屋台グルメが楽しめます。無料で楽しめるエリアが多く、子どもも喜ぶ。ただし2026年は10月6日前後の開催予定。",
+      "date": "10月初旬（旧暦8月15日前後）",
+      "place": "維多利亜公園、香港各地のコミュニティ",
+      "link": "https://www.discoverhongkong.com",
       "free": true
     },
     {
-      "title": "香港海事博物館 キッズプログラム",
-      "description": "香港の海事歴史を学ぶ博物館。秋の特別子ども向けワークショップで、インタラクティブ体験や実物展示を通じて香港の文化を理解できます。",
-      "date": "10月通年（特別プログラム：10月各週末）",
-      "place": "香港海事博物館（セントラル・ピア8）",
-      "link": "https://www.maritimemuseum.hk/",
+      "title": "Ocean Park Halloween Bash（オーシャンパーク ハロウィンバッシュ）",
+      "description": "香港最大級のテーマパーク・オーシャンパークで開催されるハロウィンイベント。子ども向けのコスチューム体験やパレード、ライトアップが楽しめます。",
+      "date": "10月中旬〜下旬",
+      "place": "オーシャンパーク（Ocean Park Hong Kong）、南風湾（ナムフォンワン）",
+      "link": "https://www.oceanpark.com.hk",
       "free": false
     },
     {
-      "title": "スターライト・シネマ＆屋外家族イベント",
-      "description": "香港各地の屋外スクリーンで上映される家族向けムービーナイト。秋の涼しい夜間、子ども向け映画が無料または低価格で楽しめます。地域コミュニティの雰囲気も最高です。",
-      "date": "10月上旬〜中旬",
-      "place": "香港各地の公園・広場",
-      "link": "",
+      "title": "香港アート・ウィーク / Hong Kong Art Week",
+      "description": "ギャラリー展示やアート体験が各地で開催。子ども向けワークショップやファミリー向けアート鑑賞プログラムも。無料の公開イベントも多数あります。",
+      "date": "10月中旬〜下旬",
+      "place": "セントラル・ワンチャイ地区の各ギャラリー・美術館",
+      "link": "https://www.discoverhongkong.com",
+      "free": true
+    },
+    {
+      "title": "ハイキング・家族向け登山体験（郊野公園）",
+      "description": "10月は香港の最適なハイキングシーズン。ビクトリアピーク、スターフェリーなど初心者向けコースが充実。家族で自然を満喫でき、無料で楽しめます。",
+      "date": "10月通期",
+      "place": "ビクトリアピーク、ライオンロック、各郊野公園",
+      "link": "https://www.afcd.gov.hk/english/country/cou_vis.html",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-15T02:00:58.443Z"
+  "updatedAt": "2026-10-19T02:00:34.234Z"
 }

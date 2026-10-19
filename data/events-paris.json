@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Paris Manga & Science Fiction Festival（パリ・マンガ＆SFフェスティバル）",
-      "description": "パリで開催される大規模なポップカルチャーイベント。キャラクター体験、ワークショップ、アニメ上映など、子どもたちが楽しめるコンテンツが豊富。家族向けのエリアも充実しています。",
+      "title": "パリ・オートンヌ・フェスティバル（Paris Automne Festival）",
+      "description": "秋のパリを彩る文化祭。劇場、美術館、公園での子ども向けワークショップ、音楽公演、展示が開催されます。家族向けプログラムが豊富。",
+      "date": "10月中旬〜11月中旬",
+      "place": "パリ全域（複数会場）",
+      "link": "https://www.parisautomne.paris",
+      "free": false
+    },
+    {
+      "title": "ルクセンブルク公園の秋の散歩と子どもプレイエリア",
+      "description": "秋色に染まる広大な庭園を散歩。子ども向けプレイグラウンド、ポニー乗馬体験、操り人形劇も。無料で自然を楽しめます。",
+      "date": "10月上旬〜下旬",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ6区",
+      "link": "https://www.senat.fr/visite/jardins",
+      "free": true
+    },
+    {
+      "title": "シテ科学産業ミュージアムのハロウィン特別プログラム",
+      "description": "最新科学技術を学べる施設で、10月はハロウィン関連の子ども向けワークショップ、プラネタリウム、インタラクティブ展示が楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "パリ・エキスポ・ポルト・ドゥ・ベルサイユ（Paris Expo Porte de Versailles）",
-      "link": "https://www.mangasciencefiction.com",
+      "place": "シテ科学産業ミュージアム（Cité des Sciences et de l'Industrie）、パリ19区",
+      "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "Fête de la Science（サイエンスフェスティバル）",
-      "description": "フランス全土で開催される無料の科学イベント。パリのミュージアムや科学館では子ども向けの実験ワークショップ、デモンストレーション、インタラクティブな展示が行われます。",
-      "date": "10月初旬〜中旬",
-      "place": "パリ各地の科学館・博物館（パレ・ドゥ・ラ・デクヴルトなど）",
-      "link": "https://www.fetedelascience.fr",
+      "title": "モンマルトル・ヴィンテージ・マーケット（秋版）",
+      "description": "秋のアンティークとクラフト市。子ども向け手作り体験ブース、キャラクターグッズ、秋の装飾品が並びます。無料入場で散策できます。",
+      "date": "10月上旬〜中旬の週末",
+      "place": "モンマルトル地区・サクレ・クール周辺、パリ18区",
+      "link": "",
       "free": true
     },
     {
-      "title": "Automne aux Tuileries（チュイルリー庭園の秋祭り）",
-      "description": "チュイルリー庭園で開催される季節イベント。秋の庭園散策、子ども向けの遊び場、キャロセル、木の葉の色づき鑑賞など家族で楽しめる屋外アクティビティが充実しています。",
-      "date": "10月全期間",
-      "place": "チュイルリー庭園（Jardin des Tuileries）、パリ1区",
-      "link": "https://www.paris.fr",
-      "free": true
-    },
-    {
-      "title": "Musée de la Magie（マジック博物館）の秋ワークショップ",
-      "description": "マジックやイリュージョンを学べる子ども向けワークショップを開催。トリックアートの展示、マジシャンによるデモンストレーション、簡単なマジック習得など、4歳以上の子どもが楽しめます。",
-      "date": "10月全期間（週末・祝日）",
-      "place": "Musée de la Magie、パリ4区（11 Rue Saint-Paul）",
-      "link": "https://www.museedelamagie.com",
+      "title": "ヴェルサイユ宮殿の秋庭園ツアーと子ども向けガイド",
+      "description": "紅葉美しい広大な庭園を散歩。子ども対象のスペシャルツアーやマリー・アントワネット別邸の探検で歴史を学べます。",
+      "date": "10月上旬〜下旬",
+      "place": "ヴェルサイユ宮殿（Château de Versailles）、ヴェルサイユ市",
+      "link": "https://www.chateauversailles.fr",
       "free": false
-    },
-    {
-      "title": "Bois de Boulogne の秋の自然散策",
-      "description": "パリ最大級の公園で、秋の落ち葉の中でのピクニック、自転車レンタル、湖でのボート遊び、子ども向けの自然観察ツアーなど。秋色に染まった景色は写真映えもします。",
-      "date": "10月全期間",
-      "place": "ブローニュの森（Bois de Boulogne）、パリ16区",
-      "link": "https://www.paris.fr/pages/le-bois-de-boulogne-3806",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-15T01:59:44.735Z"
+  "updatedAt": "2026-10-19T01:59:18.919Z"
 }

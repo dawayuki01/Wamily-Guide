@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "オクトーバーフェスト バンコク",
-      "description": "10月にバンコク各地で開催される秋のビール祭り。家族向けエリアもあり、子ども向けの食べ物や娯楽も充実。バイエルン文化を楽しめます。",
-      "date": "10月中旬〜下旬",
-      "place": "バンコク市内各所（主にセントラルワールドプラザ周辺やホテルの広場）",
-      "link": "https://www.tatnews.org",
-      "free": false
-    },
-    {
-      "title": "チュラロンコン大学 秋の学園祭",
-      "description": "タイ最高峰の大学による秋の文化祭。フード屋台、ゲーム、ステージパフォーマンスが充実。子どもが楽しめるアクティビティが多数。",
-      "date": "10月中旬",
-      "place": "チュラロンコン大学キャンパス、バンコク区、Phayathai Rd",
-      "link": "",
+      "title": "ロイクラトン祭り（Loy Krathong Festival）",
+      "description": "タイの伝統的な水の祭り。灯籠を川に流す神秘的な体験が子どもたちを魅了します。バンコク中心部の複数の場所で開催され、家族向けイベントも豊富です。",
+      "date": "10月下旬〜11月上旬（旧暦12月の満月の日）",
+      "place": "バンコク全域（チャオプラヤー川沿岸など）",
+      "link": "https://www.tourism.go.th",
       "free": true
     },
     {
-      "title": "ルンピニ公園でのアウトドア体験",
-      "description": "バンコク最大級の公園で、朝のジョギング、凧揚げ、池でのボート体験。10月は雨季から乾季への移行で天気も安定。家族でリラックスできます。",
-      "date": "10月通年（早朝がおすすめ）",
-      "place": "ルンピニ公園、Wireless Rd, Lumpini, Pathumwan",
-      "link": "https://www.bangkok.go.th",
+      "title": "アンプワー（Amphawa）フローティングマーケット",
+      "description": "手漕ぎボートで運行される水上マーケット。新鮮な食べ物や土産物を楽しめます。ボート乗船体験やローカル文化を学べる屋外アクティビティです。",
+      "date": "10月上旬〜下旬（毎週末開催、特に10月は気候が良好）",
+      "place": "Amphawa District, Samut Songkhram Province",
+      "link": "https://www.amphawafloatingmarket.com",
       "free": true
     },
     {
-      "title": "サイアム パラゴン アクアリウム 秋イベント",
-      "description": "東南アジア最大級の水族館で、10月の秋限定プログラムが実施。子ども向けワークショップやタッチプール体験が充実。",
-      "date": "10月通年",
-      "place": "Siam Paragon, 991 Rama 1 Rd, Pathumwan, Bangkok",
-      "link": "https://www.siamparagon.co.th",
+      "title": "サイアム・パラゴン水族館（Siam Paragon Aquarium）",
+      "description": "東南アジア最大級の水族館。インタラクティブな海洋生物体験コーナーがあり、乳幼児から小学生まで楽しめる秋期特別プログラムが開催されます。",
+      "date": "10月通年開催（特別プログラムは異なる場合あり）",
+      "place": "991 Rama I Road, Pathum Wan, Bangkok",
+      "link": "https://www.siamparagon.com",
       "free": false
     },
     {
-      "title": "ダムヌンサドゥアク水上マーケット 秋の朝市",
-      "description": "バンコク郊外の伝統的な水上マーケット。10月は比較的過ごしやすい気候。ボートでの移動が冒険心をくすぐり、子どもに人気。地元の生活が体験できます。",
-      "date": "10月通年（早朝5:00〜9:00）",
-      "place": "Damnoen Saduak Floating Market, Ratchaburi Province（バンコクから約100km）",
-      "link": "https://www.tourismthailand.org",
+      "title": "ルンピニー公園（Lumphini Park）での凧揚げ体験",
+      "description": "広大な公園で凧揚げやサイクリングを楽しめます。10月は天候が良く、地元ファミリーが集まる時期。無料で自然体験できます。",
+      "date": "10月上旬〜下旬（毎日）",
+      "place": "Rama IV Rd, Pathum Wan, Bangkok",
+      "link": "https://www.tourism.go.th",
+      "free": true
+    },
+    {
+      "title": "キッザニア・バンコク（KidZania Bangkok）秋期イベント",
+      "description": "子ども向けテーマパークの季節特別プログラム。職業体験や学習イベントが充実。乳幼児向けエリアもあり、家族全員で楽しめます。",
+      "date": "10月上旬〜下旬（施設開館日に随時開催）",
+      "place": "Siam Square, 1 Rama I Road, Pathum Wan, Bangkok",
+      "link": "https://www.kidzania.com/thailand",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-15T02:00:13.252Z"
+  "updatedAt": "2026-10-19T01:59:46.064Z"
 }

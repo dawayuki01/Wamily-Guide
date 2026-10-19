@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "秋のストックホルム群島クルーズ",
-      "description": "30,000以上の島々からなるストックホルム群島を巡るクルーズ。秋の紅葉と海の景色が美しく、家族向けのゆったりとしたツアーが多数運航されます。",
+      "title": "スウェーデン科学館(Swedish Museum of Science and Technology)の秋の特別展示",
+      "description": "インタラクティブな科学展示やハンズオン実験で、子どもたちが楽しみながら学べます。秋の特別テーマ展示は毎年変わり、10月は新学期スタートの子ども向けプログラムが充実しています。",
       "date": "10月上旬〜下旬",
-      "place": "Strömkajen（ストロームカイェン桟橋）、Norrmalm, Stockholm",
-      "link": "https://www.stromma.se/en/stockholm/",
+      "place": "Museivägen 7, 115 27 Stockholm",
+      "link": "https://www.tekniskamuseet.se",
       "free": false
     },
     {
-      "title": "スカンセン野外博物館のハロウィンイベント",
-      "description": "北欧最大級の野外博物館で、秋限定のハロウィンイベントを開催。伝統的な北欧文化と秋の雰囲気を楽しめ、子ども向けアクティビティが豊富です。",
+      "title": "ユーセウス(Junibacken)の秋の特別イベント",
+      "description": "スウェーデンの児童文学キャラクターをテーマにした子ども向け施設。10月はハロウィン関連のワークショップやコスチュームイベントが開催され、乳幼児から小学生まで楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "Skansen, Djurgården, Stockholm",
-      "link": "https://www.skansen.se/",
+      "place": "Galärvarvsvägen 14, 102 52 Stockholm",
+      "link": "https://www.junibacken.se",
       "free": false
     },
     {
-      "title": "ユーガルデン（遊園地）のハロウィンパーティー",
-      "description": "ストックホルムの歴史ある遊園地で開催されるハロウィンイベント。仮装した子どもたちが楽しめるアトラクション、ショー、お菓子配布が行われます。",
-      "date": "10月中旬〜下旬",
-      "place": "Gröna Lund, Djurgården, Stockholm",
-      "link": "https://www.gronalund.com/",
-      "free": false
-    },
-    {
-      "title": "ノーベル賞授賞式・晩餐会の準備風景見学（コンサートホール周辺）",
-      "description": "12月のノーベル賞授賞式に向けた秋の準備期間。コンサートホール周辺の飾り付けや準備の様子を自由に見学できます。スウェーデン文化を学ぶ良い機会。",
-      "date": "10月下旬",
-      "place": "Konserthuset, Hötorget, Norrmalm, Stockholm",
-      "link": "https://www.konserthuset.se/",
+      "title": "ストックホルムの秋の紅葉ハイキング(Drottningholm Palace Park)",
+      "description": "王宮周辺の広大な公園で、秋の紅葉を楽しみながらハイキングできます。整備された歩道で乳幼児のベビーカーも利用可能。運が良ければ野生動物も観察できます。",
+      "date": "10月上旬〜中旬",
+      "place": "Drottningholmsvägen, 178 02 Drottningholm",
+      "link": "https://www.royalpalaces.se/drottningholm-palace",
       "free": true
     },
     {
-      "title": "ストックホルム群島での秋の自然散策（無料）",
-      "description": "ユーガルデン島などの自然散策コース。秋の紅葉、野生動物観察、子ども向け遊歩道完備。家族で北欧の秋を体験できる屋外アクティビティです。",
+      "title": "Skansen動物園の秋のプログラム",
+      "description": "北欧の動物と伝統的な農場生活を学べる屋外博物館。10月は秋の収穫体験イベントやハロウィン仕様のプログラムが開催され、子どもたちが参加体験できます。",
       "date": "10月上旬〜下旬",
-      "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholm.se/en/",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se",
+      "free": false
+    },
+    {
+      "title": "ノーベル賞授賞式(Nobel Prize Ceremony)の街中パレード観光",
+      "description": "12月10日に向けた10月中旬の準備期間中、ストックホルムの街中でノーベル賞関連の展示や無料パブリックビューイングが開催されます。スウェーデン文化と歴史を学べます。",
+      "date": "10月中旬〜下旬",
+      "place": "Gamla Stan(旧市街)、Nobel Prize Museum周辺",
+      "link": "https://www.nobelprizemuseum.se",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-15T01:59:53.876Z"
+  "updatedAt": "2026-10-19T01:59:28.594Z"
 }

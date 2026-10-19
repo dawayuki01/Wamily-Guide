@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・カウンティ・フェア（LA County Fair）",
-      "description": "秋の大規模フェアで、子ども向けの乗り物、ゲーム、動物とのふれあいコーナー、美味しい食べ物が豊富。家族連れに最適な季節のイベントです。",
-      "date": "9月下旬〜10月上旬",
-      "place": "LA County Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://www.lacountyfair.com",
-      "free": false
-    },
-    {
-      "title": "グリフィス・オブザーバトリーのハロウィン特別プログラム",
-      "description": "天文館での子ども向けハロウィンイベント。プラネタリウムショーや宇宙体験が特別仕様に。乳幼児〜小学生向けプログラムがあります。",
+      "title": "ハロウィーン・イベント（グリフィス・パークなど各地）",
+      "description": "10月下旬から各地で開催。子ども向けのトリック・オア・トリート、仮装パレード、かぼちゃ狩りなど。屋外での季節イベントを家族で楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
+      "place": "グリフィス・パーク（4730 Crystal Springs Dr, Los Angeles）ほか各地",
+      "link": "https://www.discoverlosangeles.com/",
       "free": true
     },
     {
-      "title": "トーランス・ビーチでのカイト・フェスティバル",
-      "description": "秋の最適な風を利用した凧揚げイベント。家族で参加でき、色とりどりの凧が空を彩ります。砂浜でのアウトドア体験が楽しめます。",
-      "date": "10月上旬〜中旬",
-      "place": "Torrance Beach, Torrance, CA 90501",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "サンタモニカ・ピアのハロウィン・イベント",
-      "description": "ビーチ沿いの遊園地でハロウィン仕様に装飾。子ども向けゲーム、仮装パレード、ライトアップがあり、家族で楽しめます。",
-      "date": "10月中旬〜下旬",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
+      "title": "ロサンゼルス・カウンティー・フェア（LA County Fair）",
+      "description": "秋の伝統的な大規模フェア。子ども向けの乗り物、動物とのふれあい、ステージショー、グルメ屋台など家族向けコンテンツが豊富です。",
+      "date": "9月末〜10月中旬",
+      "place": "ポモーナ fairplex（1101 W McKinley Ave, Pomona）",
+      "link": "https://www.lacountyfair.com/",
       "free": false
     },
     {
-      "title": "ロサンゼルス自然史博物館のハロウィン・ナイト",
-      "description": "博物館での子ども向けハロウィンプログラム。恐竜展示、ミイラ展示など怖すぎない形で楽しめ、仮装入館が歓迎されます。",
-      "date": "10月下旬",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Blvd, Los Angeles, CA 90007",
-      "link": "https://www.nhm.org",
+      "title": "ラ・ブレア・タール・ピット（La Brea Tar Pits）の秋季プログラム",
+      "description": "自然史博物館が実施する子ども向けのワークショップやガイドツアー。氷河期の化石発掘体験など、教育的でエンターテイニングなプログラムが充実。",
+      "date": "10月通年",
+      "place": "ラ・ブレア・タール・ピット（5801 Wilshire Blvd, Los Angeles）",
+      "link": "https://www.nhm.org/site/visit-tar-pits",
+      "free": false
+    },
+    {
+      "title": "ビーチ・クリーンアップ・イベント（無料体験）",
+      "description": "サンタモニカ、マリブなど各ビーチで開催。家族で環境保全を学びながら屋外で遊べます。ボランティアプログラムで無料参加できます。",
+      "date": "10月通年（週末開催）",
+      "place": "サンタモニカ・ビーチ（1550 Pacific Coast Hwy, Santa Monica）",
+      "link": "https://www.smmc.ca.gov/",
+      "free": true
+    },
+    {
+      "title": "ナチュラル・ヒストリー・ミュージアムの秋季特別展示",
+      "description": "動物、昆虫、恐竜などの展示に加え、10月は子ども向けの特別プログラムやハロウィーン関連イベントを開催。屋内の全天候対応施設。",
+      "date": "10月通年",
+      "place": "ナチュラル・ヒストリー・ミュージアム（900 Exposition Blvd, Los Angeles）",
+      "link": "https://www.nhm.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-15T02:00:30.895Z"
+  "updatedAt": "2026-10-19T02:00:05.966Z"
 }

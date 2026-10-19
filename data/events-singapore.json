@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ディーパバリ（Deepavali）",
-      "description": "光の祭典。リトルインディアで色彩豊かな装飾、屋台、伝統的なスイーツが楽しめます。子どもも喜ぶ異文化体験で、家族で散策するのに最適です。",
-      "date": "10月下旬〜11月上旬",
-      "place": "リトルインディア地区、Serangoon Road、Singapore",
-      "link": "https://www.stb.gov.sg/",
+      "title": "deepavali（ディパバリ）",
+      "description": "インドの光の祭り。Little India地区がカラフルにデコレーションされ、ライトアップやストリートマーケットが楽しめます。子ども向けの文化体験やお菓子の屋台も多数。",
+      "date": "10月下旬〜11月初旬",
+      "place": "リトルインディア（Little India）、シンガポール",
+      "link": "https://www.stb.gov.sg",
       "free": true
     },
     {
-      "title": "シンガポール動物園（Singapore Zoo）の秋季特別プログラム",
-      "description": "子ども向けの動物ふれあい体験やキーパー・トークが充実する季節。夕涼しい時間帯の探索が快適です。屋外で動物たちと触れ合える貴重な機会です。",
-      "date": "10月上旬〜下旬",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.com.sg/",
+      "title": "シンガポール動物園ハロウィンスペシャル",
+      "description": "Singapore Zoo内でのハロウィンイベント。仮装した動物ガイドツアーや子ども向けのアクティビティ、家族向けショーが開催されます。通常営業とは異なる特別プログラムが楽しめます。",
+      "date": "10月中旬〜下旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore",
+      "link": "https://www.singaporezoo.com",
       "free": false
     },
     {
-      "title": "イースト・コースト・パーク（East Coast Park）での秋のアウトドアアクティビティ",
-      "description": "15kmの広大な海辺公園。子ども向けの自転車レンタル、ピクニック、ビーチ遊びが楽しめます。10月は涼しく過ごしやすく、家族連れに最適なシーズンです。",
-      "date": "10月上旬〜下旬",
-      "place": "1210 East Coast Parkway, Singapore 449876",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "East Coast Park でのアウトドア活動",
+      "description": "シンガポール最大のビーチパーク。子ども向けのビーチエリア、サイクリングロード、遊び場が充実。10月は気候が良く、家族でピクニックやサイクリングに最適です。",
+      "date": "10月通年",
+      "place": "East Coast Park, Singapore",
+      "link": "https://www.nparks.gov.sg/parks-and-gardens/east-coast-park",
       "free": true
     },
     {
-      "title": "チャイナタウン・ハーitage・ツアー＆マーケット",
-      "description": "チャイナタウンで開催される文化フェスティバル。伝統工芸品、屋台グルメ、子ども向けワークショップが豊富。シンガポールの文化を家族で学べます。",
-      "date": "10月中旬〜下旬",
-      "place": "Chinatown, Singapore",
-      "link": "https://www.stb.gov.sg/",
-      "free": true
+      "title": "Gardens by the Bay 子ども向けワークショップ",
+      "description": "Gardens by the Bayで開催される季節のワークショップ。植物育成体験や自然観察プログラムなど、子ども向けの教育的アクティビティが実施されます。",
+      "date": "10月通年（週末中心）",
+      "place": "Gardens by the Bay, 18 Marina Gardens Drive, Singapore",
+      "link": "https://www.gardensbythebay.com.sg",
+      "free": false
     },
     {
-      "title": "ナイト・サファリ（Night Safari）",
-      "description": "世界初の夜間動物園。トラムで夜行性動物を観察でき、子どもにとって魔法のような体験。10月の涼しい夜は快適に楽しめます。",
-      "date": "10月上旬〜下旬",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.nightsafari.com.sg/",
+      "title": "Sentosa Island ファミリーアクティビティ",
+      "description": "セントーサ島のビーチ、トロピカルガーデン、キッズ向けアトラクション。10月はシンガポール学期中で家族向けプログラムが充実しており、安全な環境で海辺の遊びが楽しめます。",
+      "date": "10月通年",
+      "place": "Sentosa Island, Singapore",
+      "link": "https://www.sentosa.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-15T02:00:03.252Z"
+  "updatedAt": "2026-10-19T01:59:37.343Z"
 }
