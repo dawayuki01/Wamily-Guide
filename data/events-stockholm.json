@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "スウェーデン科学館(Swedish Museum of Science and Technology)の秋の特別展示",
-      "description": "インタラクティブな科学展示やハンズオン実験で、子どもたちが楽しみながら学べます。秋の特別テーマ展示は毎年変わり、10月は新学期スタートの子ども向けプログラムが充実しています。",
+      "title": "ストックホルム・オータムマーケット",
+      "description": "10月のストックホルムでは各地で秋のマーケットが開催。地元産の野菜、手工芸品、グルメが集まり、ファミリー向けの屋台やワークショップも豊富です。",
       "date": "10月上旬〜下旬",
-      "place": "Museivägen 7, 115 27 Stockholm",
-      "link": "https://www.tekniskamuseet.se",
-      "free": false
-    },
-    {
-      "title": "ユーセウス(Junibacken)の秋の特別イベント",
-      "description": "スウェーデンの児童文学キャラクターをテーマにした子ども向け施設。10月はハロウィン関連のワークショップやコスチュームイベントが開催され、乳幼児から小学生まで楽しめます。",
-      "date": "10月中旬〜下旬",
-      "place": "Galärvarvsvägen 14, 102 52 Stockholm",
-      "link": "https://www.junibacken.se",
-      "free": false
-    },
-    {
-      "title": "ストックホルムの秋の紅葉ハイキング(Drottningholm Palace Park)",
-      "description": "王宮周辺の広大な公園で、秋の紅葉を楽しみながらハイキングできます。整備された歩道で乳幼児のベビーカーも利用可能。運が良ければ野生動物も観察できます。",
-      "date": "10月上旬〜中旬",
-      "place": "Drottningholmsvägen, 178 02 Drottningholm",
-      "link": "https://www.royalpalaces.se/drottningholm-palace",
+      "place": "ストックホルム旧市街（Gamla Stan）周辺、各地域のマーケット広場",
+      "link": "https://www.stockholmtown.com",
       "free": true
     },
     {
-      "title": "Skansen動物園の秋のプログラム",
-      "description": "北欧の動物と伝統的な農場生活を学べる屋外博物館。10月は秋の収穫体験イベントやハロウィン仕様のプログラムが開催され、子どもたちが参加体験できます。",
-      "date": "10月上旬〜下旬",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "title": "スカンセン屋外博物館・秋のハロウィンイベント",
+      "description": "北欧最大の屋外博物館で秋の祭りやハロウィン関連イベント、動物との触れ合い体験を開催。乳幼児から楽しめるファミリー向けアクティビティが充実しています。",
+      "date": "10月中旬〜下旬",
+      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ノーベル賞授賞式(Nobel Prize Ceremony)の街中パレード観光",
-      "description": "12月10日に向けた10月中旬の準備期間中、ストックホルムの街中でノーベル賞関連の展示や無料パブリックビューイングが開催されます。スウェーデン文化と歴史を学べます。",
-      "date": "10月中旬〜下旬",
-      "place": "Gamla Stan(旧市街)、Nobel Prize Museum周辺",
-      "link": "https://www.nobelprizemuseum.se",
+      "title": "ドラッテニンゴルム島のサイクリング・ピクニック",
+      "description": "ストックホルム郊外の緑豊かな島でサイクリングやハイキング。秋の紅葉が美しく、子連れ向けのレンタサイクルやピクニックエリアが完備されています。",
+      "date": "10月上旬〜中旬",
+      "place": "Drottningholm Island, Stockholm",
+      "link": "https://www.stockholmtown.com",
       "free": true
+    },
+    {
+      "title": "ストックホルム市立図書館・キッズ秋プログラム",
+      "description": "子ども向けのストーリータイム、手作り工作ワークショップ、秋をテーマにした展示を開催。屋内で楽しめるファミリー向けプログラムが豊富です。",
+      "date": "10月通し",
+      "place": "Stockholm Public Library (Stadsbiblioteket), Sveavägen 73, 113 50 Stockholm",
+      "link": "https://biblioteket.stockholm.se",
+      "free": true
+    },
+    {
+      "title": "ユーランドス動物園・秋の動物観察プログラム",
+      "description": "ストックホルム北部の動物園で秋限定の動物プログラムや餌やり体験。北欧の動物たちと季節の変化を間近で観察できます。",
+      "date": "10月上旬〜下旬",
+      "place": "Urindustrimuseet/Yo, Kolonnvägen 30, 195 60 Märsta",
+      "link": "https://www.kolmarden.com",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-19T01:59:28.594Z"
+  "updatedAt": "2026-10-22T02:04:09.323Z"
 }

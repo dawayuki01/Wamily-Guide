@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ・オートンヌ・フェスティバル（Paris Automne Festival）",
-      "description": "秋のパリを彩る文化祭。劇場、美術館、公園での子ども向けワークショップ、音楽公演、展示が開催されます。家族向けプログラムが豊富。",
-      "date": "10月中旬〜11月中旬",
-      "place": "パリ全域（複数会場）",
-      "link": "https://www.parisautomne.paris",
-      "free": false
-    },
-    {
-      "title": "ルクセンブルク公園の秋の散歩と子どもプレイエリア",
-      "description": "秋色に染まる広大な庭園を散歩。子ども向けプレイグラウンド、ポニー乗馬体験、操り人形劇も。無料で自然を楽しめます。",
+      "title": "パリ・オートンヌ（秋の公園と庭園ツアー）",
+      "description": "パリの主要公園が秋の装いに。ルクセンブルク庭園やチュイルリー庭園で紅葉を楽しめます。子ども向けの遊具も充実。無料で散策できます。",
       "date": "10月上旬〜下旬",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ6区",
-      "link": "https://www.senat.fr/visite/jardins",
+      "place": "ルクセンブルク庭園、チュイルリー庭園など パリ各地",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "シテ科学産業ミュージアムのハロウィン特別プログラム",
-      "description": "最新科学技術を学べる施設で、10月はハロウィン関連の子ども向けワークショップ、プラネタリウム、インタラクティブ展示が楽しめます。",
+      "title": "フランス自然史博物館「秋の特別展示」",
+      "description": "動物や昆虫の秋の生態に関する特別展示。プラネタリウムも人気。子ども向けワークショップ開催。家族で科学を学べます。",
       "date": "10月中旬〜下旬",
-      "place": "シテ科学産業ミュージアム（Cité des Sciences et de l'Industrie）、パリ19区",
-      "link": "https://www.cite-sciences.fr",
+      "place": "Muséum National d'Histoire Naturelle, 2 Rue Buffon, 75005 Paris",
+      "link": "https://www.mnhn.fr",
       "free": false
     },
     {
-      "title": "モンマルトル・ヴィンテージ・マーケット（秋版）",
-      "description": "秋のアンティークとクラフト市。子ども向け手作り体験ブース、キャラクターグッズ、秋の装飾品が並びます。無料入場で散策できます。",
-      "date": "10月上旬〜中旬の週末",
-      "place": "モンマルトル地区・サクレ・クール周辺、パリ18区",
-      "link": "",
+      "title": "セーヌ河沿いサイクリング・ウォーキング",
+      "description": "秋の陽気の中、セーヌ河沿いを散策またはレンタル自転車で巡るアクティビティ。パリの街並みと季節の景色が楽しめます。無料で楽しめます。",
+      "date": "10月上旬〜中旬",
+      "place": "セーヌ河沿い全域 パリ市内",
+      "link": "https://www.paris.fr",
       "free": true
     },
     {
-      "title": "ヴェルサイユ宮殿の秋庭園ツアーと子ども向けガイド",
-      "description": "紅葉美しい広大な庭園を散歩。子ども対象のスペシャルツアーやマリー・アントワネット別邸の探検で歴史を学べます。",
-      "date": "10月上旬〜下旬",
-      "place": "ヴェルサイユ宮殿（Château de Versailles）、ヴェルサイユ市",
-      "link": "https://www.chateauversailles.fr",
+      "title": "モンマルトル・ハロウィンマーケット",
+      "description": "パリの各地でハロウィン関連のマーケットが開催。秋の装飾品やお菓子、手工芸品が並びます。家族連れ向けのイベントが豊富。",
+      "date": "10月下旬",
+      "place": "モンマルトル地区、シャンゼリゼ地区など パリ各地",
+      "link": "https://www.paris.fr/pages/les-marches-a-paris-5107",
+      "free": true
+    },
+    {
+      "title": "パリ水族館（シテ・ド・ラ・メール）特別プログラム",
+      "description": "秋の海の生き物たちに関する特別展示とキッズ向けワークショップ。トロカデロから眺める景色も素晴らしく、家族向けスポット。",
+      "date": "10月初旬〜下旬",
+      "place": "5 Avenue Albert de Mun, 75016 Paris",
+      "link": "https://www.citedelamer.com",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-19T01:59:18.919Z"
+  "updatedAt": "2026-10-22T02:03:59.825Z"
 }

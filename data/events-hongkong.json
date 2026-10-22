@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Hong Kong Sports and Fitness Expo（香港スポーツ・フィットネスエキスポ）",
-      "description": "子ども向けのスポーツ体験コーナーやアクティビティが充実。様々なスポーツを気軽に体験でき、家族で楽しめるイベント。入場料はかかりますが、子ども向けプログラムが豊富です。",
-      "date": "10月中旬〜下旬",
-      "place": "香港コンベンション・エキスビション・センター（Hong Kong Convention and Exhibition Centre）、湾仔（ワンチャイ）",
-      "link": "https://www.hkexhibition.com",
+      "title": "香港アートフェスティバル",
+      "description": "毎年10月〜11月開催。子ども向けワークショップ、インタラクティブ展示、家族向けパフォーマンスなど。美術館や劇場で開催される季節の大型イベント。",
+      "date": "10月下旬〜11月上旬",
+      "place": "香港文化中心ほか各地",
+      "link": "https://www.hongkongartsfestival.org/",
       "free": false
     },
     {
-      "title": "Mid-Autumn Festival（中秋節）関連イベント",
-      "description": "香港全域で開催される伝統的なお祭り。ランタン飾り、提灯行進、屋台グルメが楽しめます。無料で楽しめるエリアが多く、子どもも喜ぶ。ただし2026年は10月6日前後の開催予定。",
-      "date": "10月初旬（旧暦8月15日前後）",
-      "place": "維多利亜公園、香港各地のコミュニティ",
-      "link": "https://www.discoverhongkong.com",
-      "free": true
-    },
-    {
-      "title": "Ocean Park Halloween Bash（オーシャンパーク ハロウィンバッシュ）",
-      "description": "香港最大級のテーマパーク・オーシャンパークで開催されるハロウィンイベント。子ども向けのコスチューム体験やパレード、ライトアップが楽しめます。",
-      "date": "10月中旬〜下旬",
-      "place": "オーシャンパーク（Ocean Park Hong Kong）、南風湾（ナムフォンワン）",
-      "link": "https://www.oceanpark.com.hk",
+      "title": "スターフェリー乗船体験＋スターフェリー周辺の無料スポット散策",
+      "description": "香港湾を横断する100年以上の歴史あるスターフェリーは子どもに大人気。ビクトリアハーバーの景色を楽しめます。周辺の水上警察博物館の外観見学なども無料。",
+      "date": "10月通年",
+      "place": "中環・尖沙咀スターフェリー乗り場（ビクトリアハーバー）",
+      "link": "https://www.starferry.com.hk/",
       "free": false
     },
     {
-      "title": "香港アート・ウィーク / Hong Kong Art Week",
-      "description": "ギャラリー展示やアート体験が各地で開催。子ども向けワークショップやファミリー向けアート鑑賞プログラムも。無料の公開イベントも多数あります。",
-      "date": "10月中旬〜下旬",
-      "place": "セントラル・ワンチャイ地区の各ギャラリー・美術館",
-      "link": "https://www.discoverhongkong.com",
-      "free": true
+      "title": "香港科学館の特別展示・子ども向けプログラム",
+      "description": "10月の秋季特別展示や季節限定の子ども向けワークショップが開催。IMAX映画やインタラクティブ展示で科学を学べます。",
+      "date": "10月通年",
+      "place": "香港科学館（尖沙咀）、1 Museum Road, Tsim Sha Tsui",
+      "link": "https://www.lcsd.gov.hk/en/hkscm/",
+      "free": false
     },
     {
-      "title": "ハイキング・家族向け登山体験（郊野公園）",
-      "description": "10月は香港の最適なハイキングシーズン。ビクトリアピーク、スターフェリーなど初心者向けコースが充実。家族で自然を満喫でき、無料で楽しめます。",
-      "date": "10月通期",
-      "place": "ビクトリアピーク、ライオンロック、各郊野公園",
-      "link": "https://www.afcd.gov.hk/english/country/cou_vis.html",
+      "title": "ビクトリアピークハイキング＆トラムライド",
+      "description": "秋の心地よい気候でハイキング最適季節。ピークトラムで山頂へ移動でき、香港360度パノラマビューを楽しめます。子どもも歩きやすいコースあり。",
+      "date": "10月上旬〜中旬（涼しい季節）",
+      "place": "ビクトリアピーク（Central, Hong Kong Island）",
+      "link": "https://www.thepeak.com.hk/",
+      "free": false
+    },
+    {
+      "title": "香港公園での無料散策＆季節の花・野鳥観察",
+      "description": "10月は涼しくなり、公園内の庭園を家族で無料散策できます。子ども遊び場、池での野鳥観察、季節の花が楽しめる家族向けスポット。",
+      "date": "10月通年",
+      "place": "香港公園（Central, 19 Cotton Tree Drive）",
+      "link": "https://www.lcsd.gov.hk/en/parks/hkp/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-19T02:00:34.234Z"
+  "updatedAt": "2026-10-22T02:05:16.336Z"
 }

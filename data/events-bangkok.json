@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン祭り（Loy Krathong Festival）",
-      "description": "タイの伝統的な水の祭り。灯籠を川に流す神秘的な体験が子どもたちを魅了します。バンコク中心部の複数の場所で開催され、家族向けイベントも豊富です。",
-      "date": "10月下旬〜11月上旬（旧暦12月の満月の日）",
-      "place": "バンコク全域（チャオプラヤー川沿岸など）",
-      "link": "https://www.tourism.go.th",
+      "title": "ロイクラトン祭り（水灯籠祭り）",
+      "description": "灯籠を水に流す伝統的な祭り。子どもたちも灯籠作りや放流に参加でき、バンコク各地の寺院や公園で夜間に開催。幻想的な雰囲気を家族で楽しめます。",
+      "date": "10月下旬～11月上旬（旧暦12月15日）",
+      "place": "バンコク市内各所（サナムルアン広場、ワット・ポー周辺など）",
+      "link": "",
       "free": true
     },
     {
-      "title": "アンプワー（Amphawa）フローティングマーケット",
-      "description": "手漕ぎボートで運行される水上マーケット。新鮮な食べ物や土産物を楽しめます。ボート乗船体験やローカル文化を学べる屋外アクティビティです。",
-      "date": "10月上旬〜下旬（毎週末開催、特に10月は気候が良好）",
-      "place": "Amphawa District, Samut Songkhram Province",
-      "link": "https://www.amphawafloatingmarket.com",
+      "title": "キング・プロミット・パーク（Khlong Toei Floating Market）での秋の食文化フェスティバル",
+      "description": "バンコクの水上マーケットで開催される季節フェスティバル。新鮮なタイ料理やお菓子を試食でき、子ども向けの工作ワークショップも実施。地元文化を体験できます。",
+      "date": "10月中旬～下旬",
+      "place": "キロン・トーイ水上マーケット、バンコク東部",
+      "link": "",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン水族館（Siam Paragon Aquarium）",
-      "description": "東南アジア最大級の水族館。インタラクティブな海洋生物体験コーナーがあり、乳幼児から小学生まで楽しめる秋期特別プログラムが開催されます。",
-      "date": "10月通年開催（特別プログラムは異なる場合あり）",
-      "place": "991 Rama I Road, Pathum Wan, Bangkok",
-      "link": "https://www.siamparagon.com",
+      "title": "サイアム・パラゴン水族館の秋の特別展示",
+      "description": "アジア最大級の水族館で季節限定の展示やタッチプールプログラムを開催。海の生き物と直接触れ合える貴重な体験で、乳幼児から小学生まで楽しめます。",
+      "date": "10月通期",
+      "place": "サイアム・パラゴン（Siam Paragon）、バンコク中心部",
+      "link": "https://www.siamparagon.co.th/",
       "free": false
     },
     {
-      "title": "ルンピニー公園（Lumphini Park）での凧揚げ体験",
-      "description": "広大な公園で凧揚げやサイクリングを楽しめます。10月は天候が良く、地元ファミリーが集まる時期。無料で自然体験できます。",
-      "date": "10月上旬〜下旬（毎日）",
-      "place": "Rama IV Rd, Pathum Wan, Bangkok",
-      "link": "https://www.tourism.go.th",
+      "title": "ルンピニ公園でのアウトドア・アクティビティデー",
+      "description": "バンコク最大級の公園で開催される家族向けイベント。自転車レンタル、ジョギング、ピクニック、鳥類観察など屋外を満喫できます。朝早い時間帯の訪問がおすすめです。",
+      "date": "10月通期（毎週末に各種企画あり）",
+      "place": "ルンピニ公園（Lumphini Park）、バンコク中心部",
+      "link": "https://www.bangkok.go.th/",
       "free": true
     },
     {
-      "title": "キッザニア・バンコク（KidZania Bangkok）秋期イベント",
-      "description": "子ども向けテーマパークの季節特別プログラム。職業体験や学習イベントが充実。乳幼児向けエリアもあり、家族全員で楽しめます。",
-      "date": "10月上旬〜下旬（施設開館日に随時開催）",
-      "place": "Siam Square, 1 Rama I Road, Pathum Wan, Bangkok",
-      "link": "https://www.kidzania.com/thailand",
+      "title": "エラワン博物館（Erawan Museum）の子ども向けツアー",
+      "description": "3頭の象が支える宮殿型の博物館。タイの装飾美術を学べる子ども向けガイドツアーが開催。美しい建築と文化体験で、小学生の学習に最適です。",
+      "date": "10月通期（火～日曜開館）",
+      "place": "エラワン博物館、バンコク北部（1921 Moo 7, Sukhumvit Rd.）",
+      "link": "https://www.erawan-museum.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-19T01:59:46.064Z"
+  "updatedAt": "2026-10-22T02:04:28.901Z"
 }
