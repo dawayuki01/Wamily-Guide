@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ハロウィーン・イベント at グリフィス・オブザーバトリー周辺",
-      "description": "10月下旬、グリフィス・パークではハロウィーンの雰囲気あふれるイベントが開催。子どもたちは仮装して参加でき、地元の秋の祭りの雰囲気を楽しめます。",
+      "title": "Los Angeles County Fair（ロサンゼルス郡フェア）",
+      "description": "10月開催の大型フェア。子ども向けの乗り物、ゲーム、動物とのふれあいコーナー、ステージショーなどが充実。家族向けのアクティビティが豊富で、乳幼児から小学生まで楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "グリフィス・パーク（Griffith Park）、ロサンゼルス",
-      "link": "https://www.laparks.org/griffith-park",
+      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
+      "link": "https://lacountyfair.com",
+      "free": false
+    },
+    {
+      "title": "Griffith Observatory での秋の星空観察会",
+      "description": "無料で利用できるロサンゼルスの人気スポット。10月は天気が良く、キッズ向けの天文教室やプラネタリウムも実施。子どもたちが宇宙に興味を持つきっかけになります。",
+      "date": "10月通年",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "サンタモニカ・ピアのハロウィーン・イベント",
-      "description": "サンタモニカ・ピアではハロウィーン期間に家族向けのイベントやデコレーションが施される。遊園地や屋外アクティビティを楽しみながら季節を感じられます。",
-      "date": "10月下旬",
-      "place": "サンタモニカ・ピア（Santa Monica Pier）、サンタモニカ",
-      "link": "https://www.santamonicapier.com",
+      "title": "Los Angeles Zoo の Boo at the Zoo（ハロウィンイベント）",
+      "description": "10月末のハロウィンシーズンに開催される子ども向けイベント。仮装した動物たちとの出会い、キャンディーのトリック・オア・トリート、ステージショーなど家族向けプログラムが満載。",
+      "date": "10月中旬〜下旬（ハロウィン期間）",
+      "place": "Los Angeles Zoo, 5333 Zoo Dr, Los Angeles, CA 90027",
+      "link": "https://www.lazoo.org",
       "free": false
     },
     {
-      "title": "LA County Museum of Art（LACMA）の家族向けプログラム",
-      "description": "LAの大型美術館では秋季に子ども向けワークショップや対話型展示を開催。アート体験を通じて創造性を養えます。",
+      "title": "Santa Monica Beach での屋外フェスティバル",
+      "description": "10月はロサンゼルスの気候が最適。サンタモニカビーチでは秋のフェスティバルやマーケットが開催されることが多い。砂浜での遊び、アイスクリーム、キッズ向けアクティビティが充実。",
       "date": "10月通年",
-      "place": "LACMA（5905 Wilshire Blvd）、ロサンゼルス",
-      "link": "https://www.lacma.org",
-      "free": false
-    },
-    {
-      "title": "キャプティン・キッズ・デイ at ハーバー地区",
-      "description": "10月中旬、ロングビーチやサンペドロのハーバー地区で海に関する子ども向けイベント。遊覧船乗船や海洋生物学習が楽しめます。",
-      "date": "10月中旬",
-      "place": "ロングビーチ・ハーバー（Long Beach Harbor）",
-      "link": "https://www.visitlongbeach.com",
+      "place": "Santa Monica Beach, Santa Monica, CA 90401",
+      "link": "https://www.santamonica.com",
       "free": true
     },
     {
-      "title": "ハンティントン・ライブラリーの秋の庭園散策",
-      "description": "広大な庭園で秋の草花が楽しめる。子ども向けのガイドツアーも定期開催。屋外での自然体験と文化学習が同時に得られます。",
+      "title": "California Science Center の季節特別展示",
+      "description": "無料の子ども向け科学館。10月は秋の特別展示やワークショップを開催。乳幼児から小学生向けの体験型展示が豊富で、家族で終日楽しめます。",
       "date": "10月通年",
-      "place": "ハンティントン・ライブラリー（1151 Oxford Rd, San Marino）",
-      "link": "https://www.huntingtonlibrary.org",
-      "free": false
+      "place": "California Science Center, 700 State Dr, Los Angeles, CA 90037",
+      "link": "https://www.californiasciencecenter.org",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-22T02:04:47.177Z"
+  "updatedAt": "2026-10-26T01:57:27.965Z"
 }

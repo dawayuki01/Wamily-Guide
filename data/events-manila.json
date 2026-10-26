@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "バニハムフェスティバル（Binirayan Festival）",
-      "description": "フィリピンの歴史的なボルネオからの移民到着を祝う文化祭。パレード、伝統舞踊、手工芸品市が開催され、家族で民族文化を体験できます。",
-      "date": "10月上旬",
-      "place": "マニラ周辺地域・イントラムロス",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "パンダッキャン野鳥保護区でのバードウォッチング",
-      "description": "マニラ湾の重要な湿地帯。子どもも参加できるガイド付きボート探検で、地元の野鳥やフィリピン固有種を観察できます。",
+      "title": "Manila Ocean Park - Halloween Special",
+      "description": "水族館がハロウィン仕様にデコレーション。子ども向けの海洋生物展示と期間限定アクティビティが楽しめます。乳幼児から小学生まで楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "Pandacan Bird Sanctuary, Manila Bay",
-      "link": "https://www.denr.gov.ph/",
+      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceranpark.com",
       "free": false
     },
     {
-      "title": "ナショナルミュージアムのキッズプログラム",
-      "description": "フィリピン文化と自然史を学ぶ子ども向けワークショップ。10月は秋の特別展示と対話型展示が充実しています。",
-      "date": "10月通期",
-      "place": "National Museum Complex, Padre Burgos Ave, Manila",
-      "link": "https://www.nationalmuseum.gov.ph/",
+      "title": "Philippine National Museum - Free Entrance Day",
+      "description": "毎月最後の日曜日は無料入館。子ども向けの自然歴史展示やアートギャラリーを家族で鑑賞できます。教育的で安全な屋内施設です。",
+      "date": "10月27日（最終日曜日）",
+      "place": "Philippine National Museum, Padre Burgos Avenue, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": true
     },
     {
-      "title": "リサール公園での屋外体験アクティビティ",
-      "description": "マニラ最大の公園。10月は天候が良く、子ども向けの自転車レンタル、湖でのペダルボート、遊具広場が楽しめます。",
+      "title": "Rizal Park Family Activities",
+      "description": "マニラ最大の公園で、遊び場、自転車レンタル、ライアル記念碑見学が楽しめます。屋外で自然を満喫でき、親子向けのリラックス環境です。",
+      "date": "10月上旬〜下旬（通年）",
+      "place": "Rizal Park, Roxas Boulevard, Manila",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
+    },
+    {
+      "title": "SM Mall of Asia - Kids Festival",
+      "description": "大型モールで秋季キッズ向けイベント開催。子どもアクティビティ、ワークショップ、キャラクターショーなど屋内で安全に楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "Rizal Park (Luneta Park), Manila",
-      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d311191-Reviews-Rizal_Park-Manila_Calabarzon_Region_CALABARZON.html",
-      "free": true
+      "place": "SM Mall of Asia, Seaside Boulevard, Pasay City",
+      "link": "https://www.smmallofasia.com.ph",
+      "free": false
     },
     {
-      "title": "スターシティ・テーマパークのオータムイベント",
-      "description": "フィリピン最大のテーマパーク。10月は季節限定のキッズプログラムと特別割引が実施され、乗り物やアトラクションを家族で楽しめます。",
-      "date": "10月全期間",
-      "place": "Star City, Seaside Boulevard, Manila",
-      "link": "https://www.star-city.com.ph/",
+      "title": "Enchanted Kingdom - October Events",
+      "description": "テーマパークで秋のスペシャルイベント開催。家族向けアトラクション、ショー、キャラクターグリーティングが楽しめます。幅広い年齢層対応。",
+      "date": "10月上旬〜下旬",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.com.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-22T02:04:38.090Z"
+  "updatedAt": "2026-10-26T01:57:18.953Z"
 }

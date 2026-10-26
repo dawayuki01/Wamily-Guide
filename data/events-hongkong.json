@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "香港アートフェスティバル",
-      "description": "毎年10月〜11月開催。子ども向けワークショップ、インタラクティブ展示、家族向けパフォーマンスなど。美術館や劇場で開催される季節の大型イベント。",
-      "date": "10月下旬〜11月上旬",
-      "place": "香港文化中心ほか各地",
-      "link": "https://www.hongkongartsfestival.org/",
+      "title": "香港アート・ウィーク（Hong Kong Art Week）",
+      "description": "10月中旬に開催される現代アートの祭典。ギャラリーやミュージアムが特別展示を開催。子ども向けワークショップやファミリー向けツアーも実施される。",
+      "date": "10月中旬",
+      "place": "香港各地のギャラリー・美術館",
+      "link": "https://www.hongkongartweek.com",
       "free": false
     },
     {
-      "title": "スターフェリー乗船体験＋スターフェリー周辺の無料スポット散策",
-      "description": "香港湾を横断する100年以上の歴史あるスターフェリーは子どもに大人気。ビクトリアハーバーの景色を楽しめます。周辺の水上警察博物館の外観見学なども無料。",
+      "title": "スターフェリー＆ビクトリアハーバー散策",
+      "description": "屋外アクティビティ。往年の木造フェリーに乗船し、海から香港島とビクトリアピークの絶景を眺める。10月は秋晴れで景色が最高。子どもも楽しめる。",
       "date": "10月通年",
-      "place": "中環・尖沙咀スターフェリー乗り場（ビクトリアハーバー）",
-      "link": "https://www.starferry.com.hk/",
+      "place": "スターフェリー乗り場（セントラル/ワンチャイ）、ビクトリアハーバー",
+      "link": "https://www.starferry.com.hk",
       "free": false
     },
     {
-      "title": "香港科学館の特別展示・子ども向けプログラム",
-      "description": "10月の秋季特別展示や季節限定の子ども向けワークショップが開催。IMAX映画やインタラクティブ展示で科学を学べます。",
+      "title": "香港公園（Hong Kong Park）での秋の散策＆無料アクティビティ",
+      "description": "市街地の広大な公園。秋の花々が咲き、児童遊び場、バードサンクチュアリ、滝など自然体験が充実。入園料無料で家族向けプログラムも開催される。",
       "date": "10月通年",
-      "place": "香港科学館（尖沙咀）、1 Museum Road, Tsim Sha Tsui",
-      "link": "https://www.lcsd.gov.hk/en/hkscm/",
+      "place": "セントラル、香港公園（27 Garden Road, Central）",
+      "link": "https://www.lcsd.gov.hk/en/parks/hkp/index.html",
+      "free": true
+    },
+    {
+      "title": "スターハウス & キッズワークショップ（香港科学館の秋企画）",
+      "description": "香港科学館で秋から冬にかけて開催される子ども向けの特別展示と体験プログラム。STEM学習やインタラクティブ展示で学びながら楽しめる。",
+      "date": "10月〜12月",
+      "place": "尖沙咀、香港科学館（Museum Road, Tsim Sha Tsui East）",
+      "link": "https://www.lcsd.gov.hk/en/museums/science",
       "free": false
     },
     {
-      "title": "ビクトリアピークハイキング＆トラムライド",
-      "description": "秋の心地よい気候でハイキング最適季節。ピークトラムで山頂へ移動でき、香港360度パノラマビューを楽しめます。子どもも歩きやすいコースあり。",
-      "date": "10月上旬〜中旬（涼しい季節）",
-      "place": "ビクトリアピーク（Central, Hong Kong Island）",
-      "link": "https://www.thepeak.com.hk/",
-      "free": false
-    },
-    {
-      "title": "香港公園での無料散策＆季節の花・野鳥観察",
-      "description": "10月は涼しくなり、公園内の庭園を家族で無料散策できます。子ども遊び場、池での野鳥観察、季節の花が楽しめる家族向けスポット。",
-      "date": "10月通年",
-      "place": "香港公園（Central, 19 Cotton Tree Drive）",
-      "link": "https://www.lcsd.gov.hk/en/parks/hkp/",
+      "title": "セントラルの無料パブリックスペース & 街歩きイベント",
+      "description": "セントラル地区では秋に定期的にファミリー向けストリートマーケットや屋外アクティビティが開催。無料で参加でき、香港の都市文化を体験できる。",
+      "date": "10月中旬〜下旬",
+      "place": "セントラル（Central）各広場・パブリックスペース",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-22T02:05:16.336Z"
+  "updatedAt": "2026-10-26T01:57:57.397Z"
 }

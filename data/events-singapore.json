@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ディーパバリ（Deepavali）",
-      "description": "光の祭り。リトル・インディアが装飾で輝き、お祭り雰囲気を楽しめます。家族で夜間の街歩きやお菓子を味わえます。",
+      "title": "ディパバリ（Deepavali）祭り",
+      "description": "光の祭りとして知られるヒンドゥー教の重要な祝日。リトル・インディアで色鮮やかな装飾、屋台、伝統音楽が楽しめます。子どもも家族も文化体験ができます。",
       "date": "10月下旬〜11月上旬",
-      "place": "リトル・インディア地区、シンガポール全域",
-      "link": "https://www.stb.gov.sg/content/stb/en/homepage.html",
+      "place": "リトル・インディア（Little India）、シンガポール",
+      "link": "https://www.visitsingapore.com",
       "free": true
     },
     {
-      "title": "シンガポール・セーリング・スクール（子ども向けプログラム）",
-      "description": "マリーナベイで子ども向けセーリング体験。10月は天気が良く、水上でのファミリーアクティビティに最適です。",
-      "date": "10月通年実施",
-      "place": "Marina Bay, 1 Marina Boulevard, Singapore 018989",
-      "link": "https://www.singaporesailingschool.com.sg/",
+      "title": "シンガポール・ガーデンズ・フェスティバル 特別展示",
+      "description": "シンガポール植物園での季節展示。秋の庭園イベントで、子ども向けワークショップ、花の観賞、屋外散策が楽しめます。自然学習に最適。",
+      "date": "10月中旬〜下旬",
+      "place": "シンガポール・ボタニック・ガーデン（Singapore Botanic Gardens）",
+      "link": "https://www.sbg.org.sg",
       "free": false
     },
     {
-      "title": "ガーデンズ・バイ・ザ・ベイ（Supertrees Light Show）",
-      "description": "大型植物造形の夜間ライトアップショー。子どもが驚く美しい光の演出。昼間の庭園探索も楽しめます。",
-      "date": "10月通年実施（毎晩）",
-      "place": "18 Marina Gardens Drive, Singapore 018953",
-      "link": "https://www.gardensbythebay.com.sg/",
+      "title": "バタフライ・パーク＆昆虫館 秋の特別プログラム",
+      "description": "1,000種以上の生きた蝶を観察できる屋内パーク。秋の特別展示や子ども向けガイドツアーで、生態学習ができます。屋外庭園も併設。",
+      "date": "10月通月",
+      "place": "バタフライ・パーク＆昆虫館（Butterfly Park & Insectarium）、セントーサ島",
+      "link": "https://www.sentosa.com.sg/attractions/butterfly-park-insectarium",
       "free": false
     },
     {
-      "title": "East Coast Park でのファミリーサイクリング＆ビーチアクティビティ",
-      "description": "シンガポール最大の公園。レンタサイクル、ビーチ遊び、ピクニックなど。屋外ファミリーアクティビティの定番。",
-      "date": "10月通年利用可能",
-      "place": "East Coast Park, Singapore",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "title": "イースト・コースト・パーク ファミリー・アウトドア・デー",
+      "description": "シンガポール最大級のビーチパーク。10月は天気が良く、サイクリング、水遊び、ピクニックが無料で楽しめます。子ども向けの砂浜遊びも最適。",
+      "date": "10月中旬〜下旬の週末",
+      "place": "イースト・コースト・パーク（East Coast Park）",
+      "link": "https://www.nparks.gov.sg",
       "free": true
     },
     {
-      "title": "シンガポール・ズー（季節特別プログラム）",
-      "description": "子ども向け動物体験プログラムが充実。Keeper's Talkやバードショーなど。10月は気候が涼しく園内散策に適しています。",
-      "date": "10月通年実施",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.com.sg/",
+      "title": "シンガポール・サイエンス・センター ハロウィーン特別ワークショップ",
+      "description": "STEM学習と秋の季節プログラム。子ども向けの実験教室、プラネタリウム、インタラクティブ展示で科学が学べます。家族向けイベントも開催。",
+      "date": "10月中旬〜下旬",
+      "place": "シンガポール・サイエンス・センター（Singapore Science Centre）",
+      "link": "https://www.science.edu.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-22T02:04:17.968Z"
+  "updatedAt": "2026-10-26T01:57:00.894Z"
 }

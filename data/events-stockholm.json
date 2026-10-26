@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム・オータムマーケット",
-      "description": "10月のストックホルムでは各地で秋のマーケットが開催。地元産の野菜、手工芸品、グルメが集まり、ファミリー向けの屋台やワークショップも豊富です。",
-      "date": "10月上旬〜下旬",
-      "place": "ストックホルム旧市街（Gamla Stan）周辺、各地域のマーケット広場",
-      "link": "https://www.stockholmtown.com",
-      "free": true
-    },
-    {
-      "title": "スカンセン屋外博物館・秋のハロウィンイベント",
-      "description": "北欧最大の屋外博物館で秋の祭りやハロウィン関連イベント、動物との触れ合い体験を開催。乳幼児から楽しめるファミリー向けアクティビティが充実しています。",
+      "title": "ストックホルム国際児童映画祭（Stockholm International Film Festival - Kids Program）",
+      "description": "子ども向けの映画上映会やワークショップが開催される。秋の文化的なイベントで、家族で映画を楽しめます。",
       "date": "10月中旬〜下旬",
-      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
+      "place": "ストックホルム市内各映画館",
+      "link": "https://www.stockholmfilmfestival.se/",
       "free": false
     },
     {
-      "title": "ドラッテニンゴルム島のサイクリング・ピクニック",
-      "description": "ストックホルム郊外の緑豊かな島でサイクリングやハイキング。秋の紅葉が美しく、子連れ向けのレンタサイクルやピクニックエリアが完備されています。",
+      "title": "スカンセン野外博物館の秋のプログラム",
+      "description": "北欧の伝統的な建築物と動物園。秋の紅葉を楽しみながら、子ども向けの体験学習プログラムや動物との触れ合いができます。",
+      "date": "10月全期間",
+      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
+      "free": false
+    },
+    {
+      "title": "ユーグルゴーデン（Ericsson Globe周辺）のハロウィンイベント",
+      "description": "10月末のハロウィン時期に、子ども向けの仮装イベントやストリートパフォーマンスが開催。家族向けの安全な雰囲気です。",
+      "date": "10月下旬",
+      "place": "Globentorget 2, 121 64 Stockholm",
+      "link": "https://www.stockholm.se/",
+      "free": true
+    },
+    {
+      "title": "ドロットニングホルム宮殿の秋の庭園散策",
+      "description": "王妃の宮殿と庭園。秋の紅葉が美しく、子どもも楽しめる広々とした庭園散策。無料で自由に探索できます。",
+      "date": "10月全期間",
+      "place": "Drottningholm Palace, 178 02 Ekerö",
+      "link": "https://www.sweden.se/experiences/drottningholm-palace/",
+      "free": true
+    },
+    {
+      "title": "ストックホルムの島巡りボートツアー（子ども向けプログラム）",
+      "description": "秋晴れのストックホルムの群島をボートで巡るアクティビティ。子どもも参加でき、自然とスウェーデンの景観を堪能できます。",
       "date": "10月上旬〜中旬",
-      "place": "Drottningholm Island, Stockholm",
-      "link": "https://www.stockholmtown.com",
-      "free": true
-    },
-    {
-      "title": "ストックホルム市立図書館・キッズ秋プログラム",
-      "description": "子ども向けのストーリータイム、手作り工作ワークショップ、秋をテーマにした展示を開催。屋内で楽しめるファミリー向けプログラムが豊富です。",
-      "date": "10月通し",
-      "place": "Stockholm Public Library (Stadsbiblioteket), Sveavägen 73, 113 50 Stockholm",
-      "link": "https://biblioteket.stockholm.se",
-      "free": true
-    },
-    {
-      "title": "ユーランドス動物園・秋の動物観察プログラム",
-      "description": "ストックホルム北部の動物園で秋限定の動物プログラムや餌やり体験。北欧の動物たちと季節の変化を間近で観察できます。",
-      "date": "10月上旬〜下旬",
-      "place": "Urindustrimuseet/Yo, Kolonnvägen 30, 195 60 Märsta",
-      "link": "https://www.kolmarden.com",
+      "place": "Norrmalm, Stockholm Harbor",
+      "link": "https://www.stockholm.se/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-22T02:04:09.323Z"
+  "updatedAt": "2026-10-26T01:56:51.585Z"
 }

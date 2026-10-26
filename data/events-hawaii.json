@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Aloha Festivals（アロハ・フェスティバル）",
-      "description": "ハワイ文化を祝う月間イベント。フラダンス、音楽、パレード、文化体験ブースなど家族向けプログラムが豊富。子どもも参加できるワークショップあり。",
-      "date": "10月上旬〜中旬",
-      "place": "オアフ島全域（ワイキキビーチ、アラモアナセンター他）",
-      "link": "https://www.alohafestivals.com/",
+      "title": "Honolulu Festival",
+      "description": "ハワイの秋を彩る国際文化祭。パレード、ステージパフォーマンス、花火大会など家族向けイベントが豊富。子ども向けワークショップも開催され、異文化交流が楽しめます。",
+      "date": "10月中旬〜下旬",
+      "place": "ワイキキビーチ周辺、カピオラニ公園（ホノルル）",
+      "link": "https://www.honolulufestival.com/",
       "free": true
     },
     {
-      "title": "ホノルル動物園の子ども向け教育プログラム",
-      "description": "10月の秋シーズンに動物との触れ合い体験やガイド付きツアーを実施。乳幼児から小学生向けのプログラムで動物について学べます。",
-      "date": "10月中旬〜下旬",
-      "place": "ホノルル動物園（ワイキキ、550 Kapiolani Blvd, Honolulu, HI 96815）",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "ハワイ火山国立公園のジャガー美術館・キラウエア火口ハイキング",
+      "description": "キラウエア火山の壮大な景観を子どもと体験。初心者向けの短めハイキングコースがあり、火山地形の学習と自然観察ができます。10月は天候が比較的安定しており最適な季節です。",
+      "date": "10月上旬〜下旬（通年）",
+      "place": "Hawaii Volcanoes National Park, Big Island",
+      "link": "https://www.nps.gov/havo/",
       "free": false
     },
     {
-      "title": "マノア・フォールズ・トレイル（屋外ハイキング）",
-      "description": "初心者向けの往復約1時間のハイキングコース。熱帯雨林を抜けて滝に到達。子どもサイズのハイキングシューズ着用なら乳幼児を除き楽しめます。",
-      "date": "10月中旬〜下旬（雨季前）",
-      "place": "マノア渓谷（3860 Manoa Rd, Honolulu, HI 96822）",
+      "title": "ハロウィンイベント＆トリック・オア・トリート",
+      "description": "ワイキキやアラモアナなど各地でハロウィンパーティーが開催。子どもの仮装でキャンディ配布、パレード、フェスティバルなど。商業施設も特別プログラムを実施。",
+      "date": "10月下旬（10月31日前後）",
+      "place": "ワイキキ、アラモアナセンター、各ショッピングモール（オアフ島）",
       "link": "",
       "free": true
     },
     {
-      "title": "ビショップ美術館のファミリープログラム",
-      "description": "ハワイアート展示と子ども向けワークショップ。10月は秋企画で家族参加型のクラフト体験やレイ作り教室を開催。",
-      "date": "10月通期",
-      "place": "ビショップ美術館（1525 Bernice St, Honolulu, HI 96817）",
-      "link": "https://www.bishopmuseum.org/",
+      "title": "ホノルル動物園のファミリーデー＆秋の特別プログラム",
+      "description": "10月はファミリー向けの特別イベントが充実。動物の餌やり体験、キッズワークショップ、ガイドツアーなど。ハワイ固有の動物や鳥類を学べます。乳幼児も楽しめます。",
+      "date": "10月上旬〜下旬（週末イベント）",
+      "place": "Honolulu Zoo, Waikiki（ホノルル）",
+      "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "KCC ファーマーズマーケット",
-      "description": "毎週土曜朝開催の地元農産物・フードマーケット。ハワイ産の新鮮なパイナップルやマンゴー、地元フードを試食。家族向けに手頃な価格の軽食多数。",
-      "date": "10月毎週土曜（通年開催）",
-      "place": "カピオラニ・コミュニティ・カレッジ（4303 Diamond Head Rd, Honolulu, HI 96816）",
-      "link": "https://www.kkccfarmersmarket.org/",
+      "title": "Duke Kahanamoku Beach Championship（サーフィン大会観戦＆ビーチアクティビティ",
+      "description": "世界的サーファーの大会を家族で観戦。ビーチではアクティビティブース、地元の屋台、ライブミュージック。子どもサーフレッスンの無料デモンストレーションも実施。",
+      "date": "10月下旬",
+      "place": "Sunset Beach Park, North Shore（オアフ島）",
+      "link": "https://www.dukechampionships.com/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-22T02:04:57.030Z"
+  "updatedAt": "2026-10-26T01:57:37.856Z"
 }
