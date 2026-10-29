@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ子ども映画祭（Festival Paris l'Enfance）",
-      "description": "子ども向けアニメーション映画や短編映画の上映会。家族で楽しめる作品が多く、字幕なしやダビング版も豊富。10月に開催される年が多い。",
-      "date": "10月上旬〜中旬",
-      "place": "パリ市内の複数の映画館",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "セーヌ川沿いの紅葉散歩＆ピクニック",
-      "description": "秋のパリは紅葉が美しく、セーヌ川沿いのスクエア・ド・ヴェール・ガラン公園やポン・デザール周辺は屋外ピクニックに最適。地元の子どもたちで賑わう。",
+      "title": "パリ秋祭り（Fête d'Automne à Paris）",
+      "description": "パリ全体で開催される秋の祭典。子ども向けワークショップ、パレード、地元産品マーケットなど。家族向けアクティビティが豊富で、秋の雰囲気を満喫できます。",
       "date": "10月中旬〜下旬",
-      "place": "セーヌ川沿い、ノートルダム周辺、アイル・サン・ルイ",
+      "place": "パリ市内各地（シャン・ド・マルス広場など主要スポット）",
       "link": "",
       "free": true
     },
     {
-      "title": "シテ・デ・ザンファン（Cité des Enfants）の秋の特別ワークショップ",
-      "description": "ポンピドゥー・センター内の子ども向けサイエンス施設。秋限定のテーマワークショップ（環境・自然に関する体験型プログラム）を開催。乳幼児〜小学生対象。",
-      "date": "10月通年（毎日）",
-      "place": "ポンピドゥー・センター、プラッツ・イゴール・ストラヴィンスキー、75004 Paris",
-      "link": "https://www.centrepompidou.fr/",
-      "free": false
-    },
-    {
-      "title": "フォンテーヌブロー城の秋の庭園散策＆マーケット",
-      "description": "パリ郊外の世界遺産・フォンテーヌブロー城。秋季は庭園が美しく、週末は地元産の野菜や工芸品を扱うマーケットが開催。子どもも楽しめる自然散策スポット。",
-      "date": "10月中旬〜下旬（週末）",
-      "place": "Château de Fontainebleau, 77300 Fontainebleau（パリから電車で約1時間）",
-      "link": "https://www.chateaudefontainebleau.fr/",
-      "free": false
-    },
-    {
-      "title": "ルクセンブルク公園の秋の無料イベント＆遊び場",
-      "description": "パリ市民の憩いの場。秋は落ち葉拾いやボート遊びが人気。子ども向けの遊具も充実。ホットチョコレート屋台も登場し、季節を感じられる。",
-      "date": "10月通年",
+      "title": "ルクセンブルク庭園の秋の屋外アクティビティ",
+      "description": "パリの代表的な庭園で、乳幼児から楽しめる遊具、ポニー乗馬、人形劇などが開催。秋の風景を見ながらピクニックも可能。家族連れに最適な屋外スポット。",
+      "date": "10月全期間（通年開放）",
       "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.senat.fr/visite/",
+      "link": "https://www.paris.fr/pages/le-jardin-du-luxembourg-9340",
       "free": true
+    },
+    {
+      "title": "パリ子ども博物館の秋の特別展示",
+      "description": "未就学児〜小学生向けの体験型展示。秋をテーマにした特別プログラムやワークショップを開催。インタラクティブな学習を通じて自然や文化を学べます。",
+      "date": "10月上旬〜11月上旬",
+      "place": "Musée en Herbe, 23 rue de l'Arbre-Sec, 75001 Paris",
+      "link": "https://www.musee-en-herbe.com",
+      "free": false
+    },
+    {
+      "title": "モンマルトル・ハロウィンマーケット",
+      "description": "モンマルトルで開催される秋のマーケット。かぼちゃ、地元農産物、ハンドメイド雑貨など。子ども向けの顔ペイントやゲームも。歴史的な街並みを楽しみながら買い物できます。",
+      "date": "10月下旬",
+      "place": "モンマルトル地区（Place du Tertre周辺）, Paris",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "パリ水族館（アクアリウム）の秋イベント",
+      "description": "熱帯魚やサメなど3,500種類以上の生き物を観察。秋の特別エデュケーショナルプログラムで海洋生物について学習。幼児から楽しめる安全で快適な施設。",
+      "date": "10月全期間",
+      "place": "Aquarium de Paris - Cinéaqua, 5 Ave Albert de Mun, 75016 Paris",
+      "link": "https://www.aquariumdeparis.com",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-26T01:56:42.973Z"
+  "updatedAt": "2026-10-29T03:01:45.349Z"
 }

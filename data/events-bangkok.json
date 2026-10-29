@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン祭り（Loy Krathong Festival）",
-      "description": "タイの伝統的な水の祭り。灯籠を川に流し、家族で参加できます。バンコク市内の各地で開催され、子どもたちも伝統文化を体験できる貴重な機会です。",
-      "date": "10月下旬〜11月中旬（旧暦12月15日）",
-      "place": "バンコク市内各所（チャオプラヤー川沿い、ルンピニ公園など）",
-      "link": "https://www.tatnews.org/",
+      "title": "ロイクラトン祭り（灯篭流し）",
+      "description": "水上に灯篭を流す伝統行事。バンコク市内の運河や寺院でも開催。子どもたちが灯篭作りに参加でき、夜間の幻想的な風景は家族で楽しめます。",
+      "date": "10月下旬～11月上旬（満月の夜）",
+      "place": "バンコク市内各地（チャオプラヤ川周辺、寺院など）",
+      "link": "https://www.tourismthailand.org/About-Thailand/Thai-Festivals/Loy-Krathong",
       "free": true
     },
     {
-      "title": "ルンピニ公園でのアウトドア活動",
-      "description": "バンコク最大の公園。朝の散歩、ジョギング、池での自然観察が楽しめます。子ども向けプレイグラウンドもあり、地元家族で賑わいます。10月は天気も良く最適な季節。",
-      "date": "10月全期間（毎日利用可）",
-      "place": "ルンピニ公園、バンコク、タイ（Rama IV Road沿い）",
-      "link": "https://www.bangkoktourist.com/",
+      "title": "チャトゥチャック・ウィークエンドマーケット",
+      "description": "東南アジア最大規模の週末市場。子ども向け玩具、衣類、食べ物が充実。無料で入場でき、家族で数時間楽しめます。朝早い時間がおすすめ。",
+      "date": "毎週土日、10月全週",
+      "place": "チャトゥチャック公園、バンコク北部",
+      "link": "https://www.chatuchakmarket.com",
       "free": true
     },
     {
-      "title": "ドリームワールド（Dream World）の秋イベント",
-      "description": "バンコクの大型テーマパーク。10月は特別イベントやキャンペーンを開催。ファミリー向けアトラクション、キャラクターグリーティング、子ども向けショーが充実しています。",
-      "date": "10月全期間",
-      "place": "ドリームワールド、102/1 Moo 1, Rangsit-Ongkharak Rd., Thanyaburi, Pathumthani",
-      "link": "https://www.dreamworld-bangkok.com/",
+      "title": "サイアム・パラゴン水族館の子ども向けプログラム",
+      "description": "エアコン完備の屋内施設で、乳幼児から楽しめる広大な水族館。10月は秋休み向け特別プログラムを開催。インタラクティブな展示が充実。",
+      "date": "10月全期間（特別プログラムは中旬～下旬）",
+      "place": "サイアム・パラゴン、ラマ1世通り、バンコク中心部",
+      "link": "https://www.siamparagon.co.th/en/aquarium",
       "free": false
     },
     {
-      "title": "キッズプラザ・バンコク（Kids Plaza Bangkok）の特別プログラム",
-      "description": "室内の子ども向け施設。10月のハロウィーンシーズンに子ども向けワークショップやコスチュームパーティーを開催。乳幼児から小学生まで楽しめるアクティビティが豊富。",
-      "date": "10月中旬〜下旬",
-      "place": "キッズプラザ・バンコク、ショッピングモール内（複数店舗あり）",
-      "link": "https://www.kidplazabangkok.com/",
-      "free": false
+      "title": "ルンピニ公園での朝の太極拳と自然散策",
+      "description": "バンコク最大級の公園で、地元民に交じって朝の運動を体験。散歩道は安全で広く、トンボ池や緑豊かな環境は子どもの自然学習に最適。",
+      "date": "10月全期間（早朝5:00～7:00推奨）",
+      "place": "ルンピニ公園、ラマ4世通り、バンコク中心部",
+      "link": "https://www.bangkok.go.th",
+      "free": true
     },
     {
-      "title": "オーキッド園めぐりと自然散策",
-      "description": "バンコク郊外の蘭園を訪問。10月は蘭の開花シーズン。ノンケム蘭園などが有名で、家族で花を鑑賞できます。自然に触れながら子どもの学習にも。",
-      "date": "10月全期間",
-      "place": "ノンケム蘭園など、バンコク郊外（Min Buri地区）",
-      "link": "https://www.bangkoktourist.com/",
+      "title": "キッザニア・バンコク",
+      "description": "子どもが職業体験できるエデュテイメント施設。10月は新学期企画やスペシャルイベントを実施。乳幼児から小学生まで年齢別プログラムあり。",
+      "date": "10月全期間（イベント内容は要確認）",
+      "place": "シティバンク・ビルディング、シーナカリン通り、バンコク東部",
+      "link": "https://www.kidzania.com/thailand",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-26T01:57:11.120Z"
+  "updatedAt": "2026-10-29T03:02:13.695Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Manila Ocean Park - Halloween Special",
-      "description": "水族館がハロウィン仕様にデコレーション。子ども向けの海洋生物展示と期間限定アクティビティが楽しめます。乳幼児から小学生まで楽しめます。",
-      "date": "10月中旬〜下旬",
-      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceranpark.com",
-      "free": false
-    },
-    {
-      "title": "Philippine National Museum - Free Entrance Day",
-      "description": "毎月最後の日曜日は無料入館。子ども向けの自然歴史展示やアートギャラリーを家族で鑑賞できます。教育的で安全な屋内施設です。",
-      "date": "10月27日（最終日曜日）",
-      "place": "Philippine National Museum, Padre Burgos Avenue, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
+      "title": "フィエスタ・デ・サンタ・クルス（Santa Cruz Fiesta）",
+      "description": "10月中旬に開催される地域の祭り。パレード、音楽、伝統的なパフォーマンス、露店があり、フィリピンの文化を体験できます。家族連れ向けの楽しいイベントです。",
+      "date": "10月中旬",
+      "place": "マニラ市内各地、特にサンタ・クルス地区",
+      "link": "",
       "free": true
     },
     {
-      "title": "Rizal Park Family Activities",
-      "description": "マニラ最大の公園で、遊び場、自転車レンタル、ライアル記念碑見学が楽しめます。屋外で自然を満喫でき、親子向けのリラックス環境です。",
-      "date": "10月上旬〜下旬（通年）",
-      "place": "Rizal Park, Roxas Boulevard, Manila",
-      "link": "https://www.tourism.gov.ph",
-      "free": true
-    },
-    {
-      "title": "SM Mall of Asia - Kids Festival",
-      "description": "大型モールで秋季キッズ向けイベント開催。子どもアクティビティ、ワークショップ、キャラクターショーなど屋内で安全に楽しめます。",
-      "date": "10月中旬〜下旬",
-      "place": "SM Mall of Asia, Seaside Boulevard, Pasay City",
-      "link": "https://www.smmallofasia.com.ph",
-      "free": false
-    },
-    {
-      "title": "Enchanted Kingdom - October Events",
-      "description": "テーマパークで秋のスペシャルイベント開催。家族向けアトラクション、ショー、キャラクターグリーティングが楽しめます。幅広い年齢層対応。",
+      "title": "フィリピン国立児童博物館（Philippine National Children's Museum）の秋特別展",
+      "description": "子ども向けの体験型展示と工作ワークショップ。知育プログラムが充実しており、乳幼児から小学生まで楽しめる対話的な学習空間です。",
       "date": "10月上旬〜下旬",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
-      "link": "https://www.enchantedkingdom.com.ph",
+      "place": "フィリピン国立児童博物館、パコ公園内、マニラ市パコ",
+      "link": "https://www.pncm.org/",
+      "free": false
+    },
+    {
+      "title": "マニラ湾（Manila Bay）での屋外アクティビティ・サンセット鑑賞",
+      "description": "10月は雨季末期で天気が安定してきます。海沿いの散歩、ビーチアクティビティ、壮大なサンセットを家族で楽しめます。地元家族連れで賑わう無料スポット。",
+      "date": "10月上旬〜下旬",
+      "place": "マニラ湾沿い、バイバイ地区やロハス大通り",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "モール・オブ・エイジア（Mall of Asia）のファミリーイベント・ハロウィン装飾",
+      "description": "大型モールでハロウィンシーズンのイベントやキッズアクティビティが開催。ショップ、レストラン、映画館が集結し、安全で快適な屋内施設で家族で過ごせます。",
+      "date": "10月中旬〜下旬",
+      "place": "モール・オブ・エイジア、マニラ市パサイ地区",
+      "link": "https://www.mallofasia.com.ph/",
+      "free": false
+    },
+    {
+      "title": "フォート・サンティアゴ（Intramuros Fort Santiago）での歴史体験ツアー",
+      "description": "世代を超えて楽しめる歴史的スポット。ガイドツアーで子どもにもわかりやすく説明。広い敷地内は散策や写真撮影に最適です。家族向けガイドプログラムもあります。",
+      "date": "10月上旬〜下旬",
+      "place": "フォート・サンティアゴ、イントラムロス地区、マニラ市",
+      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d311354-Reviews-Fort_Santiago-Manila_Calabarzon_Region_Calabarzon.html",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-26T01:57:18.953Z"
+  "updatedAt": "2026-10-29T03:02:23.987Z"
 }

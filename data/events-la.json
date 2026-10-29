@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Los Angeles County Fair（ロサンゼルス郡フェア）",
-      "description": "10月開催の大型フェア。子ども向けの乗り物、ゲーム、動物とのふれあいコーナー、ステージショーなどが充実。家族向けのアクティビティが豊富で、乳幼児から小学生まで楽しめます。",
+      "title": "ロサンゼルス・カウンティ・フェア",
+      "description": "秋の大型フェア。乗り物、動物とのふれあい、キッズゲーム、フードコートなど家族向けの多様なアトラクションが集結。毎年9月下旬〜10月中旬開催。",
+      "date": "10月上旬〜中旬",
+      "place": "ロサンゼルス・カウンティ・フェアグラウンド、ポモーナ",
+      "link": "https://lacountyfair.com/",
+      "free": false
+    },
+    {
+      "title": "グリフィス・パークのハロウィーン・イベント",
+      "description": "グリフィス天文館周辺でのハロウィーン関連のプログラムやトリック・オア・トリート。屋外散策しながら秋の自然とハロウィーンを楽しめるファミリー向けアクティビティ。",
       "date": "10月中旬〜下旬",
-      "place": "Fairplex, 1101 W McKinley Ave, Pomona, CA 91768",
-      "link": "https://lacountyfair.com",
+      "place": "グリフィス・パーク、ロサンゼルス",
+      "link": "https://www.griffithobservatory.org/",
+      "free": true
+    },
+    {
+      "title": "LA Live ハロウィーン・セレブレーション",
+      "description": "ダウンタウンLAのLA Liveでのハロウィーンイベント。キッズゲーム、コスチュームコンテスト、トリック・オア・トリートなど子ども向けプログラムが充実。",
+      "date": "10月下旬",
+      "place": "LA Live、ダウンタウンロサンゼルス",
+      "link": "https://www.lalive.com/",
+      "free": true
+    },
+    {
+      "title": "ファーマーズ・マーケット・ハロウィーン・ウィークエンド",
+      "description": "オリジナル・ファーマーズ・マーケットでのハロウィーン仕様のマーケット。季節の農産物、キッズアクティビティ、地元ベンダーでのお買い物を楽しめる。",
+      "date": "10月第3〜4週末",
+      "place": "オリジナル・ファーマーズ・マーケット、ロサンゼルス",
+      "link": "https://www.farmersmarketla.com/",
+      "free": true
+    },
+    {
+      "title": "サンタモニカ・ピアのハロウィーン・キャーニバル",
+      "description": "サンタモニカ・ピアでのハロウィーン特別イベント。アミューズメント乗り物、キッズゲーム、海沿いの散策など家族向けの秋の屋外アクティビティ。",
+      "date": "10月中旬〜下旬",
+      "place": "サンタモニカ・ピア、サンタモニカ",
+      "link": "https://www.santamonicapier.com/",
       "free": false
-    },
-    {
-      "title": "Griffith Observatory での秋の星空観察会",
-      "description": "無料で利用できるロサンゼルスの人気スポット。10月は天気が良く、キッズ向けの天文教室やプラネタリウムも実施。子どもたちが宇宙に興味を持つきっかけになります。",
-      "date": "10月通年",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
-      "free": true
-    },
-    {
-      "title": "Los Angeles Zoo の Boo at the Zoo（ハロウィンイベント）",
-      "description": "10月末のハロウィンシーズンに開催される子ども向けイベント。仮装した動物たちとの出会い、キャンディーのトリック・オア・トリート、ステージショーなど家族向けプログラムが満載。",
-      "date": "10月中旬〜下旬（ハロウィン期間）",
-      "place": "Los Angeles Zoo, 5333 Zoo Dr, Los Angeles, CA 90027",
-      "link": "https://www.lazoo.org",
-      "free": false
-    },
-    {
-      "title": "Santa Monica Beach での屋外フェスティバル",
-      "description": "10月はロサンゼルスの気候が最適。サンタモニカビーチでは秋のフェスティバルやマーケットが開催されることが多い。砂浜での遊び、アイスクリーム、キッズ向けアクティビティが充実。",
-      "date": "10月通年",
-      "place": "Santa Monica Beach, Santa Monica, CA 90401",
-      "link": "https://www.santamonica.com",
-      "free": true
-    },
-    {
-      "title": "California Science Center の季節特別展示",
-      "description": "無料の子ども向け科学館。10月は秋の特別展示やワークショップを開催。乳幼児から小学生向けの体験型展示が豊富で、家族で終日楽しめます。",
-      "date": "10月通年",
-      "place": "California Science Center, 700 State Dr, Los Angeles, CA 90037",
-      "link": "https://www.californiasciencecenter.org",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-26T01:57:27.965Z"
+  "updatedAt": "2026-10-29T03:02:33.181Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ディパバリ（Deepavali）祭り",
-      "description": "光の祭りとして知られるヒンドゥー教の重要な祝日。リトル・インディアで色鮮やかな装飾、屋台、伝統音楽が楽しめます。子どもも家族も文化体験ができます。",
-      "date": "10月下旬〜11月上旬",
-      "place": "リトル・インディア（Little India）、シンガポール",
-      "link": "https://www.visitsingapore.com",
+      "title": "Deepavali（ディワリ）",
+      "description": "インド系住民のお祭り。Little India地区がカラフルに装飾され、提灯やライト、屋台が並びます。子どもも楽しめる伝統的な雰囲気が魅力。",
+      "date": "10月下旬〜11月上旬（年によって変動）",
+      "place": "Little India、Serangoon Road",
+      "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "シンガポール・ガーデンズ・フェスティバル 特別展示",
-      "description": "シンガポール植物園での季節展示。秋の庭園イベントで、子ども向けワークショップ、花の観賞、屋外散策が楽しめます。自然学習に最適。",
+      "title": "Singapore Zoo Halloween特別プログラム",
+      "description": "シンガポール動物園での秋季特別イベント。動物たちとのふれあいやハロウィン仕様のアクティビティが楽しめます。乳幼児から楽しめる屋外施設。",
       "date": "10月中旬〜下旬",
-      "place": "シンガポール・ボタニック・ガーデン（Singapore Botanic Gardens）",
-      "link": "https://www.sbg.org.sg",
+      "place": "Singapore Zoo, Mandai Lake Road",
+      "link": "https://www.singaporezoo.com/",
       "free": false
     },
     {
-      "title": "バタフライ・パーク＆昆虫館 秋の特別プログラム",
-      "description": "1,000種以上の生きた蝶を観察できる屋内パーク。秋の特別展示や子ども向けガイドツアーで、生態学習ができます。屋外庭園も併設。",
+      "title": "National Museum Singapore キッズプログラム",
+      "description": "シンガポール国立博物館での子ども向けワークショップ。シンガポール文化や歴史をインタラクティブに学べます。屋内で快適。",
+      "date": "10月中旬（開催日変動）",
+      "place": "National Museum Singapore, Stamford Road",
+      "link": "https://www.nationalmuseum.sg/",
+      "free": false
+    },
+    {
+      "title": "Marina Bay Waterfront Park でのファミリーデー",
+      "description": "シンガポールの美しい夜景を背景に、家族向けのレクリーション活動が開催されます。芝生エリアで無料のゲームやアクティビティが楽しめます。",
+      "date": "10月中旬（週末開催予定）",
+      "place": "Marina Bay Waterfront Park",
+      "link": "https://www.nparks.gov.sg/",
+      "free": true
+    },
+    {
+      "title": "Science Centre Singapore 秋の企画展示",
+      "description": "科学館での季節限定展示。インタラクティブな体験を通じ、子どもの好奇心を刺激。プラネタリウムも人気で、全年代で楽しめます。",
       "date": "10月通月",
-      "place": "バタフライ・パーク＆昆虫館（Butterfly Park & Insectarium）、セントーサ島",
-      "link": "https://www.sentosa.com.sg/attractions/butterfly-park-insectarium",
-      "free": false
-    },
-    {
-      "title": "イースト・コースト・パーク ファミリー・アウトドア・デー",
-      "description": "シンガポール最大級のビーチパーク。10月は天気が良く、サイクリング、水遊び、ピクニックが無料で楽しめます。子ども向けの砂浜遊びも最適。",
-      "date": "10月中旬〜下旬の週末",
-      "place": "イースト・コースト・パーク（East Coast Park）",
-      "link": "https://www.nparks.gov.sg",
-      "free": true
-    },
-    {
-      "title": "シンガポール・サイエンス・センター ハロウィーン特別ワークショップ",
-      "description": "STEM学習と秋の季節プログラム。子ども向けの実験教室、プラネタリウム、インタラクティブ展示で科学が学べます。家族向けイベントも開催。",
-      "date": "10月中旬〜下旬",
-      "place": "シンガポール・サイエンス・センター（Singapore Science Centre）",
-      "link": "https://www.science.edu.sg",
+      "place": "Science Centre Singapore, Science Centre Road",
+      "link": "https://www.science.edu.sg/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-26T01:57:00.894Z"
+  "updatedAt": "2026-10-29T03:02:03.093Z"
 }

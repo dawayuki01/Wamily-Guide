@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム国際児童映画祭（Stockholm International Film Festival - Kids Program）",
-      "description": "子ども向けの映画上映会やワークショップが開催される。秋の文化的なイベントで、家族で映画を楽しめます。",
-      "date": "10月中旬〜下旬",
-      "place": "ストックホルム市内各映画館",
-      "link": "https://www.stockholmfilmfestival.se/",
-      "free": false
+      "title": "ストックホルム秋のマーケット＆ハロウィンイベント",
+      "description": "ガムラスタンの旧市街やスキップホルメン島周辺でハロウィン装飾が施され、子ども向けのアクティビティやカボチャ彫刻、秋の工芸品マーケットが開催されます。",
+      "date": "10月上旬〜下旬",
+      "place": "Gamla Stan（ガムラスタン）、ストックホルム旧市街",
+      "link": "",
+      "free": true
     },
     {
-      "title": "スカンセン野外博物館の秋のプログラム",
-      "description": "北欧の伝統的な建築物と動物園。秋の紅葉を楽しみながら、子ども向けの体験学習プログラムや動物との触れ合いができます。",
-      "date": "10月全期間",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
+      "title": "スカンセン野外博物館の秋の収穫祭",
+      "description": "北欧の伝統的な秋の収穫をテーマにした祭り。動物とのふれあい、伝統工芸のデモンストレーション、子ども向けのワークショップが多数開催されます。",
+      "date": "10月中旬〜下旬",
+      "place": "Skansen, Djurgården（スカンセン、ユールゴーデン島）",
       "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "ユーグルゴーデン（Ericsson Globe周辺）のハロウィンイベント",
-      "description": "10月末のハロウィン時期に、子ども向けの仮装イベントやストリートパフォーマンスが開催。家族向けの安全な雰囲気です。",
-      "date": "10月下旬",
-      "place": "Globentorget 2, 121 64 Stockholm",
-      "link": "https://www.stockholm.se/",
+      "title": "ユールゴーデン島の秋の自然散策＆公園遊び",
+      "description": "王立公園ユールゴーデン島は、秋の紅葉が美しく、子ども向けの遊び場や動物園が点在。家族で無料で散策・ピクニックが楽しめます。",
+      "date": "10月上旬〜下旬",
+      "place": "Djurgården Island（ユールゴーデン島）、ストックホルム中心部から橋で直結",
+      "link": "https://www.stockholm.se/en/",
       "free": true
     },
     {
-      "title": "ドロットニングホルム宮殿の秋の庭園散策",
-      "description": "王妃の宮殿と庭園。秋の紅葉が美しく、子どもも楽しめる広々とした庭園散策。無料で自由に探索できます。",
-      "date": "10月全期間",
-      "place": "Drottningholm Palace, 178 02 Ekerö",
-      "link": "https://www.sweden.se/experiences/drottningholm-palace/",
-      "free": true
+      "title": "ノルディスカ・ムセットの子ども向け秋の特別展示",
+      "description": "北欧文化を展示する美術館で、秋のテーマに合わせた子ども向けワークショップと対話型展示が開催。北欧の伝統文化を体験できます。",
+      "date": "10月上旬〜下旬",
+      "place": "Nordiska Museet, Djurgården（ノルディスカ・ムセット、ユールゴーデン島）",
+      "link": "https://www.nordiskamuseet.se/",
+      "free": false
     },
     {
-      "title": "ストックホルムの島巡りボートツアー（子ども向けプログラム）",
-      "description": "秋晴れのストックホルムの群島をボートで巡るアクティビティ。子どもも参加でき、自然とスウェーデンの景観を堪能できます。",
-      "date": "10月上旬〜中旬",
-      "place": "Norrmalm, Stockholm Harbor",
-      "link": "https://www.stockholm.se/",
+      "title": "クンスティッグ・ペトテッスに（フレームセンター）の子ども向けアート教室",
+      "description": "ストックホルムの児童向けアート施設で、秋の自然をテーマにした工作教室やペイント体験が開催。創造性を高める対話的なプログラムです。",
+      "date": "10月中旬〜下旬",
+      "place": "Cullbergbaletten/Kulturhuset Stadsteatern（文化施設複合地）、ストックホルム中心部",
+      "link": "",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-26T01:56:51.585Z"
+  "updatedAt": "2026-10-29T03:01:55.228Z"
 }
