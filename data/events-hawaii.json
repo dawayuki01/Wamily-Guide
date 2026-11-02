@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ホノルル・フェスティバル・オブ・アーツ（Honolulu Festival of the Arts）",
-      "description": "10月はハワイの秋のアート祭シーズン。子ども向けの工作ワークショップ、ライブパフォーマンス、文化体験ブースなどが開催されます。家族全員で楽しめるイベントです。",
-      "date": "10月中旬〜下旬",
-      "place": "ホノルル・シティセンター周辺・ワイキキ地区",
-      "link": "https://www.honolulufestival.com/",
-      "free": true
-    },
-    {
-      "title": "マカプゥ展望台でのハイキング＆野生動物観察",
-      "description": "10月は気温が心地よく、ハイキングに最適な季節。マカプゥ展望台へのハイキングコースは比較的短く、家族向け。野生イルカやクジラの回遊も見られる可能性があります。",
-      "date": "10月全体（最適期）",
-      "place": "マカプゥ展望台トレイル（ワイマナロ地区、オアフ島）",
-      "link": "https://dlnr.hawaii.gov/dofaw/hiking/",
-      "free": true
-    },
-    {
-      "title": "ホノルル・ズーの秋の特別プログラム",
-      "description": "ホノルル・ズーでは秋シーズンに、子ども向けのアニマルカンファレンス、飼育員トークなど特別プログラムを開催。園内の涼しい環境で動物を学べます。",
-      "date": "10月全体",
-      "place": "ホノルル・ズー（ワイキキ）",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "Honolulu Zoo Holiday Programs",
+      "description": "ホノルル動物園の11月〜12月の特別プログラム。子どもたちが動物について学べるワークショップやクリスマス関連のアクティビティが開催されます。",
+      "date": "11月中旬〜下旬",
+      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ、ホノルル、ハワイ州",
+      "link": "https://www.honoluluzoo.org",
       "free": false
     },
     {
-      "title": "アロハ・スタジアム・スワップミート",
-      "description": "毎週水・土・日開催の大型フリマ。新鮮なハワイアン雑貨、おもちゃ、衣類が手に入り、掘り出し物を探すのは子どもにも楽しい体験です。屋外なので10月の天気は最適。",
-      "date": "10月の水・土・日（毎週）",
-      "place": "アロハ・スタジアム・スワップミート（オアフ島中央部）",
-      "link": "https://www.alohastadiumswapmeet.net/",
+      "title": "Waikiki Beach 無料ビーチアクティビティ",
+      "description": "11月のワイキキビーチは穏やかで家族向け。無料で海遊びが楽しめ、ライフガード常駐で安全。シュノーケリングも可能。",
+      "date": "11月上旬〜下旬",
+      "place": "ワイキキビーチ、ホノルル、ハワイ州",
+      "link": "https://www.gohawaii.com/islands/oahu/experiences/beaches/waikiki-beach",
+      "free": true
+    },
+    {
+      "title": "Honolulu Museum of Art - Kids Programs",
+      "description": "ホノルル美術館の子ども向けワークショップ。アート制作体験やハワイ文化を学べるプログラムが11月に開催されます。",
+      "date": "11月中旬〜下旬（日程は変動）",
+      "place": "ホノルル美術館、ホノルル、ハワイ州",
+      "link": "https://www.honolulumuseum.org",
       "free": false
     },
     {
-      "title": "ウォーターサンクチュアリー・ビーチでのシュノーケリング体験",
-      "description": "10月はハワイの穏やかな海況が続く季節。子ども向けシュノーケリングツアーが多数運行。カラフルな魚や海亀の観察ができ、家族の貴重な思い出になります。",
-      "date": "10月全体",
-      "place": "ハナウマ湾、グレー・ランチ・ビーチほか（オアフ島）",
-      "link": "https://www.gohawaii.com/islands/oahu",
+      "title": "Kaena Point State Park トレッキング",
+      "description": "11月は気候が涼しく、ハイキングに最適。初心者向けコースで、野生動物観察と海の景色が楽しめます。無料で利用可能。",
+      "date": "11月上旬〜下旬",
+      "place": "カエナ・ポイント州立公園、オアフ島北西部、ハワイ州",
+      "link": "https://dlnr.hawaii.gov/dofaw",
+      "free": true
+    },
+    {
+      "title": "Bishop Museum Discovery Programs",
+      "description": "ビショップ美術館の家族向け展示と体験プログラム。ハワイの自然・文化・歴史を学べ、子ども専用の遊び学習コーナーがあります。",
+      "date": "11月上旬〜下旬（通年開催）",
+      "place": "ビショップ美術館、ホノルル、ハワイ州",
+      "link": "https://www.bishopmuseum.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-29T03:02:42.027Z"
+  "updatedAt": "2026-11-02T02:56:33.174Z"
 }

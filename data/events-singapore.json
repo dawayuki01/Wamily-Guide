@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Deepavali（ディワリ）",
-      "description": "インド系住民のお祭り。Little India地区がカラフルに装飾され、提灯やライト、屋台が並びます。子どもも楽しめる伝統的な雰囲気が魅力。",
-      "date": "10月下旬〜11月上旬（年によって変動）",
-      "place": "Little India、Serangoon Road",
-      "link": "https://www.stb.gov.sg/",
+      "title": "シンガポール・セーラーズ・フェスティバル",
+      "description": "海辺のイベントエリアで、ステージパフォーマンス、子ども向けワークショップ、フェイスペイント、キャラクターグリーティングなどが楽しめるファミリー向けフェスティバル。",
+      "date": "11月中旬〜下旬",
+      "place": "マリーナ・ベイ・エリア、シンガポール",
+      "link": "https://www.yoursingapore.com",
       "free": true
     },
     {
-      "title": "Singapore Zoo Halloween特別プログラム",
-      "description": "シンガポール動物園での秋季特別イベント。動物たちとのふれあいやハロウィン仕様のアクティビティが楽しめます。乳幼児から楽しめる屋外施設。",
-      "date": "10月中旬〜下旬",
-      "place": "Singapore Zoo, Mandai Lake Road",
-      "link": "https://www.singaporezoo.com/",
+      "title": "シンガポール・ボタニック・ガーデンのスペシャル展示",
+      "description": "世界遺産の植物園で季節の花々が見頃。キッズプレイグラウンドやファミリー向けガイドツアー、ピクニックスポット完備で、親子で自然を楽しめます。",
+      "date": "11月上旬〜下旬",
+      "place": "1 Cluny Road, Singapore 259569",
+      "link": "https://www.sbg.org.sg",
       "free": false
     },
     {
-      "title": "National Museum Singapore キッズプログラム",
-      "description": "シンガポール国立博物館での子ども向けワークショップ。シンガポール文化や歴史をインタラクティブに学べます。屋内で快適。",
-      "date": "10月中旬（開催日変動）",
-      "place": "National Museum Singapore, Stamford Road",
-      "link": "https://www.nationalmuseum.sg/",
-      "free": false
-    },
-    {
-      "title": "Marina Bay Waterfront Park でのファミリーデー",
-      "description": "シンガポールの美しい夜景を背景に、家族向けのレクリーション活動が開催されます。芝生エリアで無料のゲームやアクティビティが楽しめます。",
-      "date": "10月中旬（週末開催予定）",
-      "place": "Marina Bay Waterfront Park",
-      "link": "https://www.nparks.gov.sg/",
+      "title": "チャイナタウン・ライト・アップ（準備期間）",
+      "description": "11月はクリスマスシーズンの装飾準備期間。ディープ・アヴィニュー・マーケット、伝統的なショップ巡り、子ども向けの手工芸ワークショップなど無料で楽しめます。",
+      "date": "11月上旬〜下旬",
+      "place": "チャイナタウン、シンガポール",
+      "link": "https://www.chinatownsg.com.sg",
       "free": true
     },
     {
-      "title": "Science Centre Singapore 秋の企画展示",
-      "description": "科学館での季節限定展示。インタラクティブな体験を通じ、子どもの好奇心を刺激。プラネタリウムも人気で、全年代で楽しめます。",
-      "date": "10月通月",
-      "place": "Science Centre Singapore, Science Centre Road",
-      "link": "https://www.science.edu.sg/",
+      "title": "セント・ジョーンズ・アイランド・ビーチ・アクティビティ",
+      "description": "フェリーで行く離島で、ビーチ遊び、シュノーケリング体験、海辺でのピクニック。乳幼児〜小学生向けの安全なビーチプログラムが開催されます。",
+      "date": "11月上旬〜中旬",
+      "place": "St. John's Island Ferry Terminal, Marina South Pier",
+      "link": "https://www.nparks.gov.sg",
+      "free": false
+    },
+    {
+      "title": "シンガポール・サイエンス・センターの特別展示",
+      "description": "子ども向けハンズオン展示、プラネタリウムショー、キッズラボ。11月は年末企画の特別プログラムやワークショップが充実しています。",
+      "date": "11月上旬〜下旬",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.sciencecentre.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-29T03:02:03.093Z"
+  "updatedAt": "2026-11-02T02:55:56.688Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "フィエスタ・デ・サンタ・クルス（Santa Cruz Fiesta）",
-      "description": "10月中旬に開催される地域の祭り。パレード、音楽、伝統的なパフォーマンス、露店があり、フィリピンの文化を体験できます。家族連れ向けの楽しいイベントです。",
-      "date": "10月中旬",
-      "place": "マニラ市内各地、特にサンタ・クルス地区",
+      "title": "Makati Salubong Festival（マカティ・サルボン・フェスティバル）",
+      "description": "11月のマカティを彩る大規模なストリートフェスティバル。パレード、音楽、ダンス、子ども向けアクティビティが満載。家族で楽しめる屋外イベントです。",
+      "date": "11月上旬〜中旬",
+      "place": "Makati Avenue, Makati City",
       "link": "",
       "free": true
     },
     {
-      "title": "フィリピン国立児童博物館（Philippine National Children's Museum）の秋特別展",
-      "description": "子ども向けの体験型展示と工作ワークショップ。知育プログラムが充実しており、乳幼児から小学生まで楽しめる対話的な学習空間です。",
-      "date": "10月上旬〜下旬",
-      "place": "フィリピン国立児童博物館、パコ公園内、マニラ市パコ",
-      "link": "https://www.pncm.org/",
+      "title": "National Museum of the Philippine People - 特別展示会と子ども向けワークショップ",
+      "description": "フィリピンの文化・歴史を学べるミュージアム。11月は子ども向けの特別ワークショップやガイドツアーが開催される傾向。乳幼児〜小学生対象です。",
+      "date": "11月中旬〜下旬",
+      "place": "Padre Burgos St, Ermita, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     },
     {
-      "title": "マニラ湾（Manila Bay）での屋外アクティビティ・サンセット鑑賞",
-      "description": "10月は雨季末期で天気が安定してきます。海沿いの散歩、ビーチアクティビティ、壮大なサンセットを家族で楽しめます。地元家族連れで賑わう無料スポット。",
-      "date": "10月上旬〜下旬",
-      "place": "マニラ湾沿い、バイバイ地区やロハス大通り",
-      "link": "",
+      "title": "Rizal Park（リサール公園）- オープンエアアクティビティ",
+      "description": "広大な緑地公園。11月は気候が良好で、乳幼児カー、自転車、ピクニックに最適。遊具やアウトドア遊びが無料で楽しめます。",
+      "date": "11月全期間推奨",
+      "place": "Rizal Park, Padre Burgos St, Manila",
+      "link": "https://www.tripadvisor.com/Tourism-g317155-Manila_calabarzon_Region_Calabarzon_Region_CALABARZON.html",
       "free": true
     },
     {
-      "title": "モール・オブ・エイジア（Mall of Asia）のファミリーイベント・ハロウィン装飾",
-      "description": "大型モールでハロウィンシーズンのイベントやキッズアクティビティが開催。ショップ、レストラン、映画館が集結し、安全で快適な屋内施設で家族で過ごせます。",
-      "date": "10月中旬〜下旬",
-      "place": "モール・オブ・エイジア、マニラ市パサイ地区",
-      "link": "https://www.mallofasia.com.ph/",
+      "title": "SM Mall of Asia - 子ども向けイベントとテーマパーク",
+      "description": "11月は年末シーズンに向けた大型商業施設でのキャラクターイベント、ワークショップ、遊園地アクティビティが盛んです。屋内で快適に楽しめます。",
+      "date": "11月全期間",
+      "place": "Seaside Boulevard, Pasay City",
+      "link": "https://www.mallofasia.com.ph",
       "free": false
     },
     {
-      "title": "フォート・サンティアゴ（Intramuros Fort Santiago）での歴史体験ツアー",
-      "description": "世代を超えて楽しめる歴史的スポット。ガイドツアーで子どもにもわかりやすく説明。広い敷地内は散策や写真撮影に最適です。家族向けガイドプログラムもあります。",
-      "date": "10月上旬〜下旬",
-      "place": "フォート・サンティアゴ、イントラムロス地区、マニラ市",
-      "link": "https://www.tripadvisor.com/Attraction_Review-g317155-d311354-Reviews-Fort_Santiago-Manila_Calabarzon_Region_Calabarzon.html",
+      "title": "Enchanted Kingdom（エンチャンテッド・キングダム）- 特別イベント",
+      "description": "フィリピンの主要テーマパーク。11月下旬は年末準備で特別イベントが開催。乳幼児向け施設から小学生向けアトラクションまで充実しています。",
+      "date": "11月中旬〜下旬",
+      "place": "Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.ph",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-29T03:02:23.987Z"
+  "updatedAt": "2026-11-02T02:56:15.075Z"
 }

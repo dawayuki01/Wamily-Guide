@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "パリ秋祭り（Fête d'Automne à Paris）",
-      "description": "パリ全体で開催される秋の祭典。子ども向けワークショップ、パレード、地元産品マーケットなど。家族向けアクティビティが豊富で、秋の雰囲気を満喫できます。",
-      "date": "10月中旬〜下旬",
-      "place": "パリ市内各地（シャン・ド・マルス広場など主要スポット）",
+      "title": "クリスマスマーケット（シャンゼリゼ）",
+      "description": "11月下旬から12月にかけてシャンゼリゼ大通りに登場するクリスマスマーケット。子ども向けの乗り物、ホットチョコレート、手作り工芸品など家族で楽しめます。",
+      "date": "11月下旬〜12月",
+      "place": "シャンゼリゼ大通り（Champs-Élysées）",
+      "link": "https://www.paris-touristoffice.com",
+      "free": true
+    },
+    {
+      "title": "アニメーション美術館の秋冬特別展示",
+      "description": "ミュージアム・オブ・アニメーション・アート・パリで、子ども向けアニメーション企画展が開催。インタラクティブなワークショップも実施予定。",
+      "date": "11月中旬〜12月中旬",
+      "place": "Musée de l'Animation - パリ16区",
       "link": "",
-      "free": true
-    },
-    {
-      "title": "ルクセンブルク庭園の秋の屋外アクティビティ",
-      "description": "パリの代表的な庭園で、乳幼児から楽しめる遊具、ポニー乗馬、人形劇などが開催。秋の風景を見ながらピクニックも可能。家族連れに最適な屋外スポット。",
-      "date": "10月全期間（通年開放）",
-      "place": "Jardin du Luxembourg, 75006 Paris",
-      "link": "https://www.paris.fr/pages/le-jardin-du-luxembourg-9340",
-      "free": true
-    },
-    {
-      "title": "パリ子ども博物館の秋の特別展示",
-      "description": "未就学児〜小学生向けの体験型展示。秋をテーマにした特別プログラムやワークショップを開催。インタラクティブな学習を通じて自然や文化を学べます。",
-      "date": "10月上旬〜11月上旬",
-      "place": "Musée en Herbe, 23 rue de l'Arbre-Sec, 75001 Paris",
-      "link": "https://www.musee-en-herbe.com",
       "free": false
     },
     {
-      "title": "モンマルトル・ハロウィンマーケット",
-      "description": "モンマルトルで開催される秋のマーケット。かぼちゃ、地元農産物、ハンドメイド雑貨など。子ども向けの顔ペイントやゲームも。歴史的な街並みを楽しみながら買い物できます。",
-      "date": "10月下旬",
-      "place": "モンマルトル地区（Place du Tertre周辺）, Paris",
-      "link": "",
+      "title": "ルクセンブルク公園の秋の散策と公園イベント",
+      "description": "広大な庭園で秋の紅葉を楽しめます。子ども向けの木製遊具、ポニー乗馬体験、人形劇も不定期開催。家族でゆったり過ごせます。",
+      "date": "11月通年",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）",
+      "link": "https://www.senat.fr/visite/jardins",
       "free": true
     },
     {
-      "title": "パリ水族館（アクアリウム）の秋イベント",
-      "description": "熱帯魚やサメなど3,500種類以上の生き物を観察。秋の特別エデュケーショナルプログラムで海洋生物について学習。幼児から楽しめる安全で快適な施設。",
-      "date": "10月全期間",
-      "place": "Aquarium de Paris - Cinéaqua, 5 Ave Albert de Mun, 75016 Paris",
-      "link": "https://www.aquariumdeparis.com",
+      "title": "フィリップスタルク設計の子ども向けワークショップ",
+      "description": "ポンピドゥー・センターで11月に実施される子ども対象のアート・デザイン体験プログラム。親子で創作活動に参加できます。",
+      "date": "11月中旬〜下旬",
+      "place": "ポンピドゥー・センター（Centre Pompidou）",
+      "link": "https://www.centrepompidou.fr",
+      "free": false
+    },
+    {
+      "title": "パリ自然史博物館の恐竜展示ツアー",
+      "description": "子ども向けの恐竜・骨格標本ガイドツアー。大型スクリーンでの学習プログラムも充実。年間通じて人気のファミリー向け施設。",
+      "date": "11月通年",
+      "place": "パリ自然史博物館（Muséum National d'Histoire Naturelle）",
+      "link": "https://www.mnhn.fr",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-29T03:01:45.349Z"
+  "updatedAt": "2026-11-02T02:55:38.542Z"
 }

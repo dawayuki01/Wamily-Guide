@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ロイクラトン祭り（灯篭流し）",
-      "description": "水上に灯篭を流す伝統行事。バンコク市内の運河や寺院でも開催。子どもたちが灯篭作りに参加でき、夜間の幻想的な風景は家族で楽しめます。",
-      "date": "10月下旬～11月上旬（満月の夜）",
-      "place": "バンコク市内各地（チャオプラヤ川周辺、寺院など）",
-      "link": "https://www.tourismthailand.org/About-Thailand/Thai-Festivals/Loy-Krathong",
+      "description": "タイの伝統的な水上祭り。子どもたちが花で飾った灯篭を川に流し、美しいライトアップと花火を楽しめます。バンコク中心部のチャオプラヤ川沿いが主会場。",
+      "date": "11月中旬（旧暦12月満月の夜）",
+      "place": "チャオプラヤ川沿い（バンコク中心部）、ルンピニ公園ほか",
+      "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "チャトゥチャック・ウィークエンドマーケット",
-      "description": "東南アジア最大規模の週末市場。子ども向け玩具、衣類、食べ物が充実。無料で入場でき、家族で数時間楽しめます。朝早い時間がおすすめ。",
-      "date": "毎週土日、10月全週",
-      "place": "チャトゥチャック公園、バンコク北部",
-      "link": "https://www.chatuchakmarket.com",
-      "free": true
-    },
-    {
-      "title": "サイアム・パラゴン水族館の子ども向けプログラム",
-      "description": "エアコン完備の屋内施設で、乳幼児から楽しめる広大な水族館。10月は秋休み向け特別プログラムを開催。インタラクティブな展示が充実。",
-      "date": "10月全期間（特別プログラムは中旬～下旬）",
-      "place": "サイアム・パラゴン、ラマ1世通り、バンコク中心部",
-      "link": "https://www.siamparagon.co.th/en/aquarium",
+      "title": "ジム・トンプソン・ハウス子ども向けツアー",
+      "description": "タイの伝統的なテーク造りの館を見学。子ども向けに分かりやすく説明するツアーが開催されることがあり、タイの文化と建築を学べます。",
+      "date": "11月通年開催",
+      "place": "6 Soi Kasemsan 2, Rama I Road, Pathum Wan, Bangkok",
+      "link": "https://www.jimthompsonhouse.com/",
       "free": false
     },
     {
-      "title": "ルンピニ公園での朝の太極拳と自然散策",
-      "description": "バンコク最大級の公園で、地元民に交じって朝の運動を体験。散歩道は安全で広く、トンボ池や緑豊かな環境は子どもの自然学習に最適。",
-      "date": "10月全期間（早朝5:00～7:00推奨）",
-      "place": "ルンピニ公園、ラマ4世通り、バンコク中心部",
-      "link": "https://www.bangkok.go.th",
-      "free": true
+      "title": "シリラート医学博物館",
+      "description": "医学や解剖学に関する展示が多数。子ども向けの分かりやすいエリアもあり、興味深い学習体験ができます。入場料が安く、ユニークな施設。",
+      "date": "11月通年開放（月曜休）",
+      "place": "2 Prannok Road, Siriraj, Bangkok Noi, Bangkok",
+      "link": "https://www.si.mahidol.ac.th/",
+      "free": false
     },
     {
-      "title": "キッザニア・バンコク",
-      "description": "子どもが職業体験できるエデュテイメント施設。10月は新学期企画やスペシャルイベントを実施。乳幼児から小学生まで年齢別プログラムあり。",
-      "date": "10月全期間（イベント内容は要確認）",
-      "place": "シティバンク・ビルディング、シーナカリン通り、バンコク東部",
-      "link": "https://www.kidzania.com/thailand",
+      "title": "ドゥシット動物園での秋季特別プログラム",
+      "description": "バンコク唯一の大型動物園。11月は涼しく過ごしやすく、象やワニなどと触れ合えるプログラムや給餌体験が充実。子どもに大人気。",
+      "date": "11月通年開放",
+      "place": "71 Rama V Road, Dusit, Bangkok",
+      "link": "https://www.dusitzoo.org/",
       "free": false
+    },
+    {
+      "title": "ルンピニ公園での朝ヨガ・緑化イベント",
+      "description": "バンコク最大の公園で無料の朝ヨガやエクササイズが行われます。家族向けの運動イベントも開催。緑豊かで朝の涼しい時間帯に散歩・ジョギングに最適。",
+      "date": "11月通年開放",
+      "place": "Rama IV Road, Pathum Wan, Bangkok",
+      "link": "https://www.bangkok.go.th/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-29T03:02:13.695Z"
+  "updatedAt": "2026-11-02T02:56:06.439Z"
 }

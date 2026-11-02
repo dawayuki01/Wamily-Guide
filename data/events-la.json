@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・カウンティ・フェア",
-      "description": "秋の大型フェア。乗り物、動物とのふれあい、キッズゲーム、フードコートなど家族向けの多様なアトラクションが集結。毎年9月下旬〜10月中旬開催。",
-      "date": "10月上旬〜中旬",
-      "place": "ロサンゼルス・カウンティ・フェアグラウンド、ポモーナ",
-      "link": "https://lacountyfair.com/",
+      "title": "ロサンゼルス・カウンティ・フェア（LA County Fair）",
+      "description": "秋の大型フェア。ライド、ゲーム、キャラクターショー、動物ふれあい、グルメが楽しめます。乳幼児から小学生まで全年代向けのアトラクションが豊富です。",
+      "date": "9月下旬〜10月中旬（2026年のスケジュール確認推奨）",
+      "place": "Pomona Fairplex, Pomona, CA",
+      "link": "https://lacountyfair.com",
       "free": false
     },
     {
-      "title": "グリフィス・パークのハロウィーン・イベント",
-      "description": "グリフィス天文館周辺でのハロウィーン関連のプログラムやトリック・オア・トリート。屋外散策しながら秋の自然とハロウィーンを楽しめるファミリー向けアクティビティ。",
-      "date": "10月中旬〜下旬",
-      "place": "グリフィス・パーク、ロサンゼルス",
-      "link": "https://www.griffithobservatory.org/",
+      "title": "グリフィス天文台でのホリデーライティング・セレモニー",
+      "description": "11月下旬から12月にかけてグリフィス天文台周辺がライトアップされます。無料で夜景と装飾を楽しめ、天文台の展示も子どもに人気です。",
+      "date": "11月下旬〜12月",
+      "place": "Griffith Observatory, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "LA Live ハロウィーン・セレブレーション",
-      "description": "ダウンタウンLAのLA Liveでのハロウィーンイベント。キッズゲーム、コスチュームコンテスト、トリック・オア・トリートなど子ども向けプログラムが充実。",
-      "date": "10月下旬",
-      "place": "LA Live、ダウンタウンロサンゼルス",
-      "link": "https://www.lalive.com/",
+      "title": "サンタモニカ・ピア・ホリデー・ライトショー＆カーニバル",
+      "description": "11月下旬から1月初旬までサンタモニカピアが装飾されます。無料で光を楽しめ、有料のライド、ボードウォーク散策、ビーチアクセスがあります。",
+      "date": "11月下旬〜1月初旬",
+      "place": "Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com",
       "free": true
     },
     {
-      "title": "ファーマーズ・マーケット・ハロウィーン・ウィークエンド",
-      "description": "オリジナル・ファーマーズ・マーケットでのハロウィーン仕様のマーケット。季節の農産物、キッズアクティビティ、地元ベンダーでのお買い物を楽しめる。",
-      "date": "10月第3〜4週末",
-      "place": "オリジナル・ファーマーズ・マーケット、ロサンゼルス",
-      "link": "https://www.farmersmarketla.com/",
-      "free": true
-    },
-    {
-      "title": "サンタモニカ・ピアのハロウィーン・キャーニバル",
-      "description": "サンタモニカ・ピアでのハロウィーン特別イベント。アミューズメント乗り物、キッズゲーム、海沿いの散策など家族向けの秋の屋外アクティビティ。",
-      "date": "10月中旬〜下旬",
-      "place": "サンタモニカ・ピア、サンタモニカ",
-      "link": "https://www.santamonicapier.com/",
+      "title": "ロサンゼルス自然史博物館のキッズ特別プログラム",
+      "description": "秋冬シーズンの恐竜展示やハンズオン体験が充実。乳幼児向けのトドラープログラムと小学生向けの探検ツアーが定期開催されます。",
+      "date": "11月通年",
+      "place": "Natural History Museum of Los Angeles County, 900 Exposition Boulevard, Los Angeles, CA 90007",
+      "link": "https://nhm.org",
       "free": false
+    },
+    {
+      "title": "ビーチでのアウトドアアクティビティ：マリブビーチ・ハイキング",
+      "description": "11月はロサンゼルス沿岸で最適な天気。マリブ・キーク・トレイルなど家族向けハイキングコースで海と自然を楽しめます。海辺でのシーグラス探しも人気。",
+      "date": "11月上旬〜下旬",
+      "place": "Malibu Creek State Park, Malibu, CA 90265",
+      "link": "https://www.parks.ca.gov/?page_id=612",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-10-29T03:02:33.181Z"
+  "updatedAt": "2026-11-02T02:56:24.784Z"
 }
