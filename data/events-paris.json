@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "クリスマスマーケット（シャンゼリゼ）",
-      "description": "11月下旬から12月にかけてシャンゼリゼ大通りに登場するクリスマスマーケット。子ども向けの乗り物、ホットチョコレート、手作り工芸品など家族で楽しめます。",
+      "title": "パリ・クリスマスマーケット（シャンゼリゼ通り）",
+      "description": "11月下旬からシャンゼリゼ通りに広がるクリスマスマーケット。子ども向けの遊具、ホットチョコレート、工芸品販売など。家族連れに人気の季節の風物詩です。",
       "date": "11月下旬〜12月",
-      "place": "シャンゼリゼ大通り（Champs-Élysées）",
-      "link": "https://www.paris-touristoffice.com",
+      "place": "Avenue des Champs-Élysées, 75008 Paris",
+      "link": "https://www.paris-champs-elysees.com",
       "free": true
     },
     {
-      "title": "アニメーション美術館の秋冬特別展示",
-      "description": "ミュージアム・オブ・アニメーション・アート・パリで、子ども向けアニメーション企画展が開催。インタラクティブなワークショップも実施予定。",
-      "date": "11月中旬〜12月中旬",
-      "place": "Musée de l'Animation - パリ16区",
-      "link": "",
+      "title": "ルーヴル美術館・子ども向けワークショップ",
+      "description": "秋冬シーズンのルーヴル美術館では、4〜12歳向けの特別ガイドツアーやワークショップを開催。名作を楽しく学べるプログラムです。",
+      "date": "11月上旬〜下旬（土日祝中心）",
+      "place": "Rue de Rivoli, 75004 Paris",
+      "link": "https://www.louvre.fr",
       "free": false
     },
     {
-      "title": "ルクセンブルク公園の秋の散策と公園イベント",
-      "description": "広大な庭園で秋の紅葉を楽しめます。子ども向けの木製遊具、ポニー乗馬体験、人形劇も不定期開催。家族でゆったり過ごせます。",
-      "date": "11月通年",
-      "place": "ルクセンブルク公園（Jardin du Luxembourg）",
-      "link": "https://www.senat.fr/visite/jardins",
+      "title": "テュイルリー公園での秋の散策と遊び場",
+      "description": "秋色に染まるテュイルリー公園は子どもの遊び場が充実。広大な庭園での散歩、遊具、ポニー乗馬体験など。11月の涼しい気候で快適です。",
+      "date": "11月上旬〜下旬",
+      "place": "Place de la Concorde, 75008 Paris",
+      "link": "https://www.tuileries.culturespaces.com",
       "free": true
     },
     {
-      "title": "フィリップスタルク設計の子ども向けワークショップ",
-      "description": "ポンピドゥー・センターで11月に実施される子ども対象のアート・デザイン体験プログラム。親子で創作活動に参加できます。",
-      "date": "11月中旬〜下旬",
-      "place": "ポンピドゥー・センター（Centre Pompidou）",
-      "link": "https://www.centrepompidou.fr",
+      "title": "シテ科学館・冬の特別展示",
+      "description": "パリ東部の大規模科学館。子ども向けプラネタリウム、インタラクティブ展示、プール施設も。11月の冬プログラムで新しい展示が多数登場します。",
+      "date": "11月上旬〜下旬",
+      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "パリ自然史博物館の恐竜展示ツアー",
-      "description": "子ども向けの恐竜・骨格標本ガイドツアー。大型スクリーンでの学習プログラムも充実。年間通じて人気のファミリー向け施設。",
-      "date": "11月通年",
-      "place": "パリ自然史博物館（Muséum National d'Histoire Naturelle）",
-      "link": "https://www.mnhn.fr",
-      "free": false
+      "title": "モンマルトル地区の秋祭り＆アート散策",
+      "description": "モンマルトルの広場ではストリートアーティスト、似顔絵師が集結。秋の趣を感じながら散策でき、子どもも楽しめるアートの街の雰囲気を体験できます。",
+      "date": "11月上旬〜下旬（週末特に混雑）",
+      "place": "Place du Tertre, 75018 Paris",
+      "link": "https://www.montmartre.fr",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-02T02:55:38.542Z"
+  "updatedAt": "2026-11-05T03:51:59.970Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Makati Salubong Festival（マカティ・サルボン・フェスティバル）",
-      "description": "11月のマカティを彩る大規模なストリートフェスティバル。パレード、音楽、ダンス、子ども向けアクティビティが満載。家族で楽しめる屋外イベントです。",
-      "date": "11月上旬〜中旬",
-      "place": "Makati Avenue, Makati City",
+      "title": "Christmas Festival at SM Malls of Asia",
+      "description": "11月下旬からマニラ各地のショッピングモールでクリスマスフェスティバルが始まります。子ども向けのキャラクターグリーティング、ライトアップ、ゲームコーナーが楽しめます。",
+      "date": "11月下旬〜12月中旬",
+      "place": "SM Malls of Asia, Mall of Asia Complex, Pasay City",
+      "link": "https://www.smmallsofasia.com.ph",
+      "free": true
+    },
+    {
+      "title": "Philippine National Children's Month Celebration",
+      "description": "11月は子どもの月（Children's Month）。全国の図書館や公共施設で子ども向けのワークショップ、ストーリータイム、アート展示が開催されます。",
+      "date": "11月1日〜30日",
+      "place": "National Library of the Philippines, Rizal Park, Manila",
+      "link": "https://www.nlp.gov.ph",
+      "free": true
+    },
+    {
+      "title": "Taguig City Firefly Watching & Outdoor Adventure",
+      "description": "マニラから車で約2時間。ホタル観賞ツアーやマングローブ探検など、子どもが自然体験できるエコツーリズムプログラムが楽しめます。",
+      "date": "11月上旬〜下旬",
+      "place": "Taguig City, Lagoon Park Area",
+      "link": "https://taguig.gov.ph",
+      "free": false
+    },
+    {
+      "title": "Manila Ocean Park Special Programs",
+      "description": "水族館での子ども向けの餌やりプログラムやタッチプール体験、シーライオンショーなど季節限定のスペシャルアクティビティが開催されます。",
+      "date": "11月通年開催（時間帯により異なる）",
+      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceanpark.com",
+      "free": false
+    },
+    {
+      "title": "Barrio Fiesta at Various Communities",
+      "description": "マニラ周辺の地域コミュニティで開催される地元の祭り。屋台、ライブパフォーマンス、子どもゲーム、伝統工芸体験が楽しめ、地元文化を体験できます。",
+      "date": "11月中旬〜下旬",
+      "place": "Various barangays in Metro Manila",
       "link": "",
       "free": true
-    },
-    {
-      "title": "National Museum of the Philippine People - 特別展示会と子ども向けワークショップ",
-      "description": "フィリピンの文化・歴史を学べるミュージアム。11月は子ども向けの特別ワークショップやガイドツアーが開催される傾向。乳幼児〜小学生対象です。",
-      "date": "11月中旬〜下旬",
-      "place": "Padre Burgos St, Ermita, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
-      "free": false
-    },
-    {
-      "title": "Rizal Park（リサール公園）- オープンエアアクティビティ",
-      "description": "広大な緑地公園。11月は気候が良好で、乳幼児カー、自転車、ピクニックに最適。遊具やアウトドア遊びが無料で楽しめます。",
-      "date": "11月全期間推奨",
-      "place": "Rizal Park, Padre Burgos St, Manila",
-      "link": "https://www.tripadvisor.com/Tourism-g317155-Manila_calabarzon_Region_Calabarzon_Region_CALABARZON.html",
-      "free": true
-    },
-    {
-      "title": "SM Mall of Asia - 子ども向けイベントとテーマパーク",
-      "description": "11月は年末シーズンに向けた大型商業施設でのキャラクターイベント、ワークショップ、遊園地アクティビティが盛んです。屋内で快適に楽しめます。",
-      "date": "11月全期間",
-      "place": "Seaside Boulevard, Pasay City",
-      "link": "https://www.mallofasia.com.ph",
-      "free": false
-    },
-    {
-      "title": "Enchanted Kingdom（エンチャンテッド・キングダム）- 特別イベント",
-      "description": "フィリピンの主要テーマパーク。11月下旬は年末準備で特別イベントが開催。乳幼児向け施設から小学生向けアトラクションまで充実しています。",
-      "date": "11月中旬〜下旬",
-      "place": "Santa Rosa, Laguna",
-      "link": "https://www.enchantedkingdom.ph",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-02T02:56:15.075Z"
+  "updatedAt": "2026-11-05T03:52:36.298Z"
 }

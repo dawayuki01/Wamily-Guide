@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "クリスマスマーケット（Gamla Stan Christmas Market）",
-      "description": "ストックホルム旧市街で開催される北欧最大級のクリスマスマーケット。手作りおもちゃ、お菓子、工芸品が並び、子ども向けアトラクションやホットチョコレートが楽しめます。",
-      "date": "11月下旬〜12月24日",
-      "place": "Gamla Stan（旧市街）、Stortorget広場",
-      "link": "https://www.visitstockholm.com/",
+      "title": "ストックホルム・クリスマスマーケット",
+      "description": "11月下旬からスタートするクリスマスマーケット。手工芸品、クリスマス装飾、ホットチョコレートなど。子どもが楽しめるメリーゴーランドやアトラクションも。",
+      "date": "11月下旬～12月",
+      "place": "ガムラスタン（旧市街）、スキューリオルデン広場など複数会場",
+      "link": "https://www.stockholmochregionen.se",
       "free": false
     },
     {
-      "title": "スウェーデン王立自然史博物館の冬期特別展示",
-      "description": "冬休み向けの子ども向けワークショップや体験型展示が開催。恐竜、動物、自然科学について学べます。雨の日にも最適な屋内施設です。",
-      "date": "11月上旬〜12月",
-      "place": "Frescativägen 40, 104 05 Stockholm",
-      "link": "https://www.nrm.se/",
+      "title": "スキーセン野外博物館の秋～冬プログラム",
+      "description": "100以上の建物と伝統文化を展示する野外博物館。11月は動物との触れ合い、伝統工芸ワークショップ、季節の食文化を体験できます。家族向けアクティビティが豊富。",
+      "date": "11月通年",
+      "place": "スキーセン、Djurgården（ユールゴーデン島）",
+      "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "Skansen（スカンセン野外博物館）の秋冬風景散策",
-      "description": "北欧の伝統的な建物が並ぶ野外博物館。11月の紅葉シーズンと初冬の景色が美しく、動物園エリアも充実。子どもたちが自然の中で走り回れます。",
-      "date": "11月全般",
-      "place": "Djurgårdsvägen 49-51, 115 21 Stockholm",
-      "link": "https://www.skansen.se/",
+      "title": "ユールゴーデン島での紅葉散策と屋外遊び",
+      "description": "ストックホルムの自然公園。11月の秋色の風景を楽しめます。遊具、動物園、美術館など多数あり。無料で島全体を散策・ピクニック可能。",
+      "date": "11月通年",
+      "place": "Djurgården（ユールゴーデン島）、ストックホルム中心部から交通機関で約10分",
+      "link": "https://www.stockholmochregionen.se",
+      "free": true
+    },
+    {
+      "title": "スウェーデン王立博物館の子ども向けワークショップ",
+      "description": "北欧美術や歴史を学べる博物館。11月は冬休みに向けた子ども向けワークショップ、アート体験プログラムを実施。家族で楽しむ特別展も。",
+      "date": "11月中旬～下旬",
+      "place": "国立美術館、Nationalmuseum、Södra Blasieholmshamnen 2",
+      "link": "https://www.nationalmuseum.se",
       "free": false
     },
     {
-      "title": "Drottningholm Palace（ドロットニングホルム宮殿）の秋景色散策と博物館",
-      "description": "王妃の宮殿と広大な庭園。11月の秋色に染まった庭園は散策に最適。宮殿内博物館も見学でき、子ども向けファミリーツアーも開催されます。",
-      "date": "11月全般",
-      "place": "Drottningholm, 178 02 Ekerö",
-      "link": "https://www.drottningholmsslott.se/",
-      "free": false
-    },
-    {
-      "title": "Hellasgården での秋の自然体験＆無料散策",
-      "description": "ストックホルム郊外の自然保護区。無料で入場でき、紅葉の中のハイキング、野生動物観察ができます。子ども向けの自然ガイドツアーも定期開催。",
-      "date": "11月全般",
-      "place": "Hellasgården, Stora Värtan, Stockholm",
-      "link": "",
+      "title": "ストックホルム市立図書館の季節イベント",
+      "description": "建築が美しい図書館で、子ども向けストーリータイムやクリスマス準備のクラフトワークショップを開催。絵本コーナーも充実。無料。",
+      "date": "11月通年",
+      "place": "ストックホルム市立図書館、Sveavägen 73",
+      "link": "https://biblioteket.stockholm.se",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-02T02:55:47.663Z"
+  "updatedAt": "2026-11-05T03:52:09.640Z"
 }

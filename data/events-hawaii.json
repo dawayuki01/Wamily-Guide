@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Zoo Holiday Programs",
-      "description": "ホノルル動物園の11月〜12月の特別プログラム。子どもたちが動物について学べるワークショップやクリスマス関連のアクティビティが開催されます。",
+      "title": "Honolulu Zoo Halloween Events & Family Programs",
+      "description": "ホノルル動物園の秋シーズンプログラム。子ども向けの動物教室やふれあい体験が充実。涼しくなった11月は動物たちも活発で観察に最適。",
+      "date": "11月通年",
+      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ",
+      "link": "https://www.honoluluzoo.org/",
+      "free": false
+    },
+    {
+      "title": "ハレイワ・アートフェスティバル（Haleiwa Art Festival）",
+      "description": "ノースショアで開催される地域密着型アートイベント。家族向けの手作り工作ワークショップ、ローカルアーティストの作品展示。無料で楽しめるエリアも多い。",
+      "date": "11月中旬",
+      "place": "ハレイワ・タウン（Haleiwa Town）、ノースショア",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "ワイキキ・ビーチ・サンセット・スイミング",
+      "description": "11月は水温も適温で波も比較的穏やかな時期。家族で安心して海水浴できます。ビーチでのシュノーケリングやサンセット鑑賞も最高。",
+      "date": "11月通年",
+      "place": "ワイキキ・ビーチ（Waikiki Beach）",
+      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
+      "free": true
+    },
+    {
+      "title": "ビショップ・ミュージアム（Bishop Museum）の子ども向けプログラム",
+      "description": "ハワイ文化・自然史を学べる博物館。11月は秋休みシーズンの特別ワークショップや家族向けスペシャルプログラムが充実。",
+      "date": "11月通年（特に中旬以降）",
+      "place": "ビショップ・ミュージアム、ホノルル",
+      "link": "https://www.bishopmuseum.org/",
+      "free": false
+    },
+    {
+      "title": "パイオニア・ミル（Pioneer Mill Sugar Museum & Family Events）",
+      "description": "マウイ島のラハイナで開催。ハワイの砂糖生産の歴史を学ぶ。家族向け体験プログラムや子ども農業体験ワークショップが11月に開催。",
       "date": "11月中旬〜下旬",
-      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ、ホノルル、ハワイ州",
-      "link": "https://www.honoluluzoo.org",
-      "free": false
-    },
-    {
-      "title": "Waikiki Beach 無料ビーチアクティビティ",
-      "description": "11月のワイキキビーチは穏やかで家族向け。無料で海遊びが楽しめ、ライフガード常駐で安全。シュノーケリングも可能。",
-      "date": "11月上旬〜下旬",
-      "place": "ワイキキビーチ、ホノルル、ハワイ州",
-      "link": "https://www.gohawaii.com/islands/oahu/experiences/beaches/waikiki-beach",
-      "free": true
-    },
-    {
-      "title": "Honolulu Museum of Art - Kids Programs",
-      "description": "ホノルル美術館の子ども向けワークショップ。アート制作体験やハワイ文化を学べるプログラムが11月に開催されます。",
-      "date": "11月中旬〜下旬（日程は変動）",
-      "place": "ホノルル美術館、ホノルル、ハワイ州",
-      "link": "https://www.honolulumuseum.org",
-      "free": false
-    },
-    {
-      "title": "Kaena Point State Park トレッキング",
-      "description": "11月は気候が涼しく、ハイキングに最適。初心者向けコースで、野生動物観察と海の景色が楽しめます。無料で利用可能。",
-      "date": "11月上旬〜下旬",
-      "place": "カエナ・ポイント州立公園、オアフ島北西部、ハワイ州",
-      "link": "https://dlnr.hawaii.gov/dofaw",
-      "free": true
-    },
-    {
-      "title": "Bishop Museum Discovery Programs",
-      "description": "ビショップ美術館の家族向け展示と体験プログラム。ハワイの自然・文化・歴史を学べ、子ども専用の遊び学習コーナーがあります。",
-      "date": "11月上旬〜下旬（通年開催）",
-      "place": "ビショップ美術館、ホノルル、ハワイ州",
-      "link": "https://www.bishopmuseum.org",
+      "place": "パイオニア・ミル、マウイ島ラハイナ",
+      "link": "https://www.mauihawaii.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-02T02:56:33.174Z"
+  "updatedAt": "2026-11-05T03:52:55.101Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・セーラーズ・フェスティバル",
-      "description": "海辺のイベントエリアで、ステージパフォーマンス、子ども向けワークショップ、フェイスペイント、キャラクターグリーティングなどが楽しめるファミリー向けフェスティバル。",
+      "title": "Children's Season at Singapore Zoo",
+      "description": "動物園の子ども向けスペシャルプログラム。乳幼児から小学生対象の餌やりタイムやアニマルトークなど、インタラクティブな体験ができます。",
+      "date": "11月上旬〜下旬",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.com.sg",
+      "free": false
+    },
+    {
+      "title": "Deepavali（ディパバリ祭）",
+      "description": "ヒンドゥー教の光の祭り。Little India地区が美しくデコレーションされ、屋台やお祭りの雰囲気を無料で楽しめます。子ども向けのアクティビティもあります。",
+      "date": "11月（日程は毎年異なります）",
+      "place": "Little India, Serangoon Road, Singapore",
+      "link": "https://www.visitsingapore.com",
+      "free": true
+    },
+    {
+      "title": "East Coast Park Family Beach Day",
+      "description": "シンガポール最大のビーチパーク。遊具、砂遊びエリア、サイクリングロードが充実。天気の良い11月は家族連れに最適の屋外スポット。",
+      "date": "11月上旬〜下旬",
+      "place": "East Coast Park, East Coast Parkway, Singapore 1543",
+      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
+      "free": true
+    },
+    {
+      "title": "Singapore Science Centre - Special Children's Exhibitions",
+      "description": "幼児〜小学生向けのハンズオン科学体験。11月は季節特別展示やワークショップが開催。科学を楽しく学べます。",
+      "date": "11月上旬〜下旬",
+      "place": "Singapore Science Centre, 15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg",
+      "free": false
+    },
+    {
+      "title": "Sentosa Hari Raya Celebrations & Beach Activities",
+      "description": "セントーサ島でのマレー系イスラム文化イベント。カラフルなデコレーション、フードスタル、ビーチでの家族向けアクティビティが楽しめます。",
       "date": "11月中旬〜下旬",
-      "place": "マリーナ・ベイ・エリア、シンガポール",
-      "link": "https://www.yoursingapore.com",
-      "free": true
-    },
-    {
-      "title": "シンガポール・ボタニック・ガーデンのスペシャル展示",
-      "description": "世界遺産の植物園で季節の花々が見頃。キッズプレイグラウンドやファミリー向けガイドツアー、ピクニックスポット完備で、親子で自然を楽しめます。",
-      "date": "11月上旬〜下旬",
-      "place": "1 Cluny Road, Singapore 259569",
-      "link": "https://www.sbg.org.sg",
-      "free": false
-    },
-    {
-      "title": "チャイナタウン・ライト・アップ（準備期間）",
-      "description": "11月はクリスマスシーズンの装飾準備期間。ディープ・アヴィニュー・マーケット、伝統的なショップ巡り、子ども向けの手工芸ワークショップなど無料で楽しめます。",
-      "date": "11月上旬〜下旬",
-      "place": "チャイナタウン、シンガポール",
-      "link": "https://www.chinatownsg.com.sg",
-      "free": true
-    },
-    {
-      "title": "セント・ジョーンズ・アイランド・ビーチ・アクティビティ",
-      "description": "フェリーで行く離島で、ビーチ遊び、シュノーケリング体験、海辺でのピクニック。乳幼児〜小学生向けの安全なビーチプログラムが開催されます。",
-      "date": "11月上旬〜中旬",
-      "place": "St. John's Island Ferry Terminal, Marina South Pier",
-      "link": "https://www.nparks.gov.sg",
-      "free": false
-    },
-    {
-      "title": "シンガポール・サイエンス・センターの特別展示",
-      "description": "子ども向けハンズオン展示、プラネタリウムショー、キッズラボ。11月は年末企画の特別プログラムやワークショップが充実しています。",
-      "date": "11月上旬〜下旬",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.sciencecentre.sg",
+      "place": "Sentosa Island, Singapore",
+      "link": "https://www.sentosa.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-02T02:55:56.688Z"
+  "updatedAt": "2026-11-05T03:52:17.888Z"
 }

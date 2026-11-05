@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・カウンティ・フェア（LA County Fair）",
-      "description": "秋の大型フェア。ライド、ゲーム、キャラクターショー、動物ふれあい、グルメが楽しめます。乳幼児から小学生まで全年代向けのアトラクションが豊富です。",
-      "date": "9月下旬〜10月中旬（2026年のスケジュール確認推奨）",
-      "place": "Pomona Fairplex, Pomona, CA",
-      "link": "https://lacountyfair.com",
-      "free": false
-    },
-    {
-      "title": "グリフィス天文台でのホリデーライティング・セレモニー",
-      "description": "11月下旬から12月にかけてグリフィス天文台周辺がライトアップされます。無料で夜景と装飾を楽しめ、天文台の展示も子どもに人気です。",
-      "date": "11月下旬〜12月",
-      "place": "Griffith Observatory, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org",
-      "free": true
-    },
-    {
-      "title": "サンタモニカ・ピア・ホリデー・ライトショー＆カーニバル",
-      "description": "11月下旬から1月初旬までサンタモニカピアが装飾されます。無料で光を楽しめ、有料のライド、ボードウォーク散策、ビーチアクセスがあります。",
-      "date": "11月下旬〜1月初旬",
-      "place": "Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス自然史博物館のキッズ特別プログラム",
-      "description": "秋冬シーズンの恐竜展示やハンズオン体験が充実。乳幼児向けのトドラープログラムと小学生向けの探検ツアーが定期開催されます。",
-      "date": "11月通年",
-      "place": "Natural History Museum of Los Angeles County, 900 Exposition Boulevard, Los Angeles, CA 90007",
-      "link": "https://nhm.org",
-      "free": false
-    },
-    {
-      "title": "ビーチでのアウトドアアクティビティ：マリブビーチ・ハイキング",
-      "description": "11月はロサンゼルス沿岸で最適な天気。マリブ・キーク・トレイルなど家族向けハイキングコースで海と自然を楽しめます。海辺でのシーグラス探しも人気。",
+      "title": "ロサンゼルス・カウンティ・アート・ミュージアム（LACMA）- キッズプログラム",
+      "description": "美術館の11月特別プログラム。子ども向けワークショップやファミリーデーで、美術体験を通じて創造性を育みます。屋内施設で快適に楽しめます。",
       "date": "11月上旬〜下旬",
-      "place": "Malibu Creek State Park, Malibu, CA 90265",
-      "link": "https://www.parks.ca.gov/?page_id=612",
+      "place": "LACMA, 5905 Wilshire Blvd, Los Angeles, CA 90036",
+      "link": "https://www.lacma.org/",
+      "free": false
+    },
+    {
+      "title": "グリフィス・オブザーバトリー周辺のハイキング＆天文台見学",
+      "description": "晴れた秋の日差しが心地よい11月。子連れ向けの短いトレイル散策後、天文台で惑星観測。無料で庭園散策と展示も楽しめます。",
+      "date": "11月上旬〜下旬",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
       "free": true
+    },
+    {
+      "title": "ビーチ・シーズンの終わり - サンタモニカ・ビーチ",
+      "description": "11月は気温が心地よく、人出が少ないベストシーズン。砂浜での遊びやピクニック、桟橋のアトラクションを家族で満喫できます。",
+      "date": "11月上旬〜下旬",
+      "place": "Santa Monica Beach, 1550 Pico Blvd, Santa Monica, CA 90405",
+      "link": "https://www.santamonica.com/",
+      "free": true
+    },
+    {
+      "title": "ザ・グローブ・アット・パシフィック・パーク - ホリデー・シーズン開始",
+      "description": "11月下旬からクリスマスシーズンが始まり、装飾やイベントが充実。家族向けレストラン、ショップ、遊び場が集約された屋外商業施設。",
+      "date": "11月下旬",
+      "place": "The Grove, 189 The Grove Drive, Los Angeles, CA 90036",
+      "link": "https://www.thegrovela.com/",
+      "free": false
+    },
+    {
+      "title": "ナチュラル・ヒストリー・ミュージアム - 秋の企画展＆キッズゾーン",
+      "description": "恐竜化石やミイラなど子どもが夢中になる展示が充実。11月は屋内で快適に学習できる施設。ファミリー向けプログラムも開催。",
+      "date": "11月上旬〜下旬",
+      "place": "Natural History Museum, 900 Exposition Blvd, Los Angeles, CA 90007",
+      "link": "https://www.nhm.org/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-02T02:56:24.784Z"
+  "updatedAt": "2026-11-05T03:52:45.938Z"
 }
