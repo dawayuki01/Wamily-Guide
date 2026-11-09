@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Children's Season at Singapore Zoo",
-      "description": "動物園の子ども向けスペシャルプログラム。乳幼児から小学生対象の餌やりタイムやアニマルトークなど、インタラクティブな体験ができます。",
-      "date": "11月上旬〜下旬",
-      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.zoo.com.sg",
-      "free": false
-    },
-    {
-      "title": "Deepavali（ディパバリ祭）",
-      "description": "ヒンドゥー教の光の祭り。Little India地区が美しくデコレーションされ、屋台やお祭りの雰囲気を無料で楽しめます。子ども向けのアクティビティもあります。",
-      "date": "11月（日程は毎年異なります）",
-      "place": "Little India, Serangoon Road, Singapore",
-      "link": "https://www.visitsingapore.com",
-      "free": true
-    },
-    {
-      "title": "East Coast Park Family Beach Day",
-      "description": "シンガポール最大のビーチパーク。遊具、砂遊びエリア、サイクリングロードが充実。天気の良い11月は家族連れに最適の屋外スポット。",
-      "date": "11月上旬〜下旬",
-      "place": "East Coast Park, East Coast Parkway, Singapore 1543",
-      "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park",
-      "free": true
-    },
-    {
-      "title": "Singapore Science Centre - Special Children's Exhibitions",
-      "description": "幼児〜小学生向けのハンズオン科学体験。11月は季節特別展示やワークショップが開催。科学を楽しく学べます。",
-      "date": "11月上旬〜下旬",
-      "place": "Singapore Science Centre, 15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg",
-      "free": false
-    },
-    {
-      "title": "Sentosa Hari Raya Celebrations & Beach Activities",
-      "description": "セントーサ島でのマレー系イスラム文化イベント。カラフルなデコレーション、フードスタル、ビーチでの家族向けアクティビティが楽しめます。",
+      "title": "シンガポール・セーリング・フェスティバル",
+      "description": "11月はセーリングシーズンの開始時期。マリーナベイで様々なセーリング体験プログラムや子ども向けのマリンアクティビティが開催されます。",
       "date": "11月中旬〜下旬",
-      "place": "Sentosa Island, Singapore",
-      "link": "https://www.sentosa.com.sg",
+      "place": "マリーナベイ（Marina Bay）",
+      "link": "https://www.yoursingapore.com",
+      "free": false
+    },
+    {
+      "title": "ディーパバリ（Deepavali）祭り",
+      "description": "11月上旬のヒンドゥー教の光の祭り。リトル・インディアはカラフルに装飾され、特別な食べ物やお菓子が楽しめます。無料で雰囲気を味わえます。",
+      "date": "11月上旬",
+      "place": "リトル・インディア（Little India）",
+      "link": "https://www.yoursingapore.com",
+      "free": true
+    },
+    {
+      "title": "シンガポール・ガーデン・フェスティバル",
+      "description": "11月開催。シンガポール植物園での季節花展示とガーデンツアー。子ども向けワークショップや屋外アクティビティが豊富です。",
+      "date": "11月中旬〜下旬",
+      "place": "シンガポール植物園（Singapore Botanic Gardens）",
+      "link": "https://www.sbg.org.sg",
+      "free": false
+    },
+    {
+      "title": "チャンギ・ビーチ・カーニバル",
+      "description": "11月の週末に開催。キッズゲーム、フェイスペイント、飲食ブースが集結。ビーチでの無料アクティビティも同時開催されます。",
+      "date": "11月下旬の週末",
+      "place": "チャンギ・ビーチ（Changi Beach）",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "キッズ向け特別プログラム（シンガポール動物園）",
+      "description": "11月の親子向けワークショップやナイトサファリツアー。動物の行動学習やインタラクティブな飼育体験が充実しています。",
+      "date": "11月通期",
+      "place": "シンガポール動物園（Singapore Zoo）",
+      "link": "https://www.zoo.com.sg",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-05T03:52:17.888Z"
+  "updatedAt": "2026-11-09T03:13:32.057Z"
 }

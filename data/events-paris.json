@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "パリ・クリスマスマーケット（シャンゼリゼ通り）",
-      "description": "11月下旬からシャンゼリゼ通りに広がるクリスマスマーケット。子ども向けの遊具、ホットチョコレート、工芸品販売など。家族連れに人気の季節の風物詩です。",
-      "date": "11月下旬〜12月",
-      "place": "Avenue des Champs-Élysées, 75008 Paris",
-      "link": "https://www.paris-champs-elysees.com",
-      "free": true
-    },
-    {
-      "title": "ルーヴル美術館・子ども向けワークショップ",
-      "description": "秋冬シーズンのルーヴル美術館では、4〜12歳向けの特別ガイドツアーやワークショップを開催。名作を楽しく学べるプログラムです。",
-      "date": "11月上旬〜下旬（土日祝中心）",
-      "place": "Rue de Rivoli, 75004 Paris",
-      "link": "https://www.louvre.fr",
+      "description": "シャンゼリゼ通りに広がるクリスマスマーケット。子ども向けのメリーゴーラウンド、ホットチョコレート、クリスマスのおもちゃ販売など家族向けアクティビティが豊富です。",
+      "date": "11月中旬〜12月下旬",
+      "place": "シャンゼリゼ通り、パリ8区",
+      "link": "https://www.paris.fr",
       "free": false
     },
     {
-      "title": "テュイルリー公園での秋の散策と遊び場",
-      "description": "秋色に染まるテュイルリー公園は子どもの遊び場が充実。広大な庭園での散歩、遊具、ポニー乗馬体験など。11月の涼しい気候で快適です。",
-      "date": "11月上旬〜下旬",
-      "place": "Place de la Concorde, 75008 Paris",
-      "link": "https://www.tuileries.culturespaces.com",
+      "title": "ルーヴル美術館・子ども向けワークショップ",
+      "description": "美術館が提供する親子参加型の創作ワークショップ。美術作品に触発された絵画やクラフト制作を通じて、小学生も楽しく美術を学べます。",
+      "date": "11月通年（日程は事前確認）",
+      "place": "ルーヴル美術館、パリ1区",
+      "link": "https://www.louvre.fr/en/visites-et-activites",
+      "free": false
+    },
+    {
+      "title": "パリ公園めぐりの散策（屋外・無料）",
+      "description": "ブローニュの森、ルクセンブルク公園など、11月のパリ公園では落ち葉の絨毯が広がります。子どもが走り回るに最適な無料の屋外スポット。",
+      "date": "11月全期間",
+      "place": "ブローニュの森・ルクセンブルク公園ほか、パリ全域",
+      "link": "https://www.paris.fr/pages/les-espaces-verts-de-paris-3988",
       "free": true
     },
     {
-      "title": "シテ科学館・冬の特別展示",
-      "description": "パリ東部の大規模科学館。子ども向けプラネタリウム、インタラクティブ展示、プール施設も。11月の冬プログラムで新しい展示が多数登場します。",
-      "date": "11月上旬〜下旬",
-      "place": "30 Avenue Corentin Cariou, 75019 Paris",
+      "title": "パリ市立科学産業博物館（Cité des Sciences）・子ども展示",
+      "description": "乳幼児〜小学生向けの対話的展示『Cité des Enfants』。宇宙、水、光など科学をテーマにした体験型展示室で、手を使って楽しく学べます。",
+      "date": "11月全期間（月曜休館）",
+      "place": "ラ・ヴィレット科学公園、パリ19区",
       "link": "https://www.cite-sciences.fr",
       "free": false
     },
     {
-      "title": "モンマルトル地区の秋祭り＆アート散策",
-      "description": "モンマルトルの広場ではストリートアーティスト、似顔絵師が集結。秋の趣を感じながら散策でき、子どもも楽しめるアートの街の雰囲気を体験できます。",
-      "date": "11月上旬〜下旬（週末特に混雑）",
-      "place": "Place du Tertre, 75018 Paris",
-      "link": "https://www.montmartre.fr",
+      "title": "パリ・ノエル・イルミネーション鑑賞（無料）",
+      "description": "11月下旬からパリ市街地がクリスマスイルミネーションで彩られます。特にシテ島、エッフェル塔周辺は見事。夜間の散歩で家族向け無料アクティビティ。",
+      "date": "11月下旬〜12月末",
+      "place": "パリ市街地全域（シテ島、エッフェル塔周辺など）",
+      "link": "https://www.paris.fr",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-05T03:51:59.970Z"
+  "updatedAt": "2026-11-09T03:13:15.040Z"
 }

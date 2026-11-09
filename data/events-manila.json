@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Christmas Festival at SM Malls of Asia",
-      "description": "11月下旬からマニラ各地のショッピングモールでクリスマスフェスティバルが始まります。子ども向けのキャラクターグリーティング、ライトアップ、ゲームコーナーが楽しめます。",
-      "date": "11月下旬〜12月中旬",
-      "place": "SM Malls of Asia, Mall of Asia Complex, Pasay City",
-      "link": "https://www.smmallsofasia.com.ph",
-      "free": true
-    },
-    {
-      "title": "Philippine National Children's Month Celebration",
-      "description": "11月は子どもの月（Children's Month）。全国の図書館や公共施設で子ども向けのワークショップ、ストーリータイム、アート展示が開催されます。",
-      "date": "11月1日〜30日",
-      "place": "National Library of the Philippines, Rizal Park, Manila",
-      "link": "https://www.nlp.gov.ph",
-      "free": true
-    },
-    {
-      "title": "Taguig City Firefly Watching & Outdoor Adventure",
-      "description": "マニラから車で約2時間。ホタル観賞ツアーやマングローブ探検など、子どもが自然体験できるエコツーリズムプログラムが楽しめます。",
-      "date": "11月上旬〜下旬",
-      "place": "Taguig City, Lagoon Park Area",
-      "link": "https://taguig.gov.ph",
+      "title": "Enchanted Kingdom クリスマスシーズン",
+      "description": "フィリピン最大のテーマパークが11月下旬からクリスマス仕様にデコレーション。子ども向けアトラクション、パレード、光の装飾が楽しめます。",
+      "date": "11月下旬～12月",
+      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
+      "link": "https://www.enchantedkingdom.ph",
       "free": false
     },
     {
-      "title": "Manila Ocean Park Special Programs",
-      "description": "水族館での子ども向けの餌やりプログラムやタッチプール体験、シーライオンショーなど季節限定のスペシャルアクティビティが開催されます。",
-      "date": "11月通年開催（時間帯により異なる）",
-      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceanpark.com",
-      "free": false
-    },
-    {
-      "title": "Barrio Fiesta at Various Communities",
-      "description": "マニラ周辺の地域コミュニティで開催される地元の祭り。屋台、ライブパフォーマンス、子どもゲーム、伝統工芸体験が楽しめ、地元文化を体験できます。",
-      "date": "11月中旬〜下旬",
-      "place": "Various barangays in Metro Manila",
+      "title": "Manila Bay Sunset Walk（無料・屋外）",
+      "description": "マニラ湾沿いの散策路で、夕焼けの景色を楽しめます。家族で散歩しながら海風を感じ、地元の雰囲気を体験できる無料アクティビティ。",
+      "date": "11月上旬～下旬",
+      "place": "Manila Bay Waterfront, Manila",
       "link": "",
       "free": true
+    },
+    {
+      "title": "National Museum of Natural History キッズプログラム",
+      "description": "恐竜の化石や動物標本を展示。子ども向けガイドツアーや体験学習プログラムが開催され、教育的で楽しい時間が過ごせます。",
+      "date": "11月通年（毎日開館）",
+      "place": "Rizal Park, Manila",
+      "link": "https://www.nationalmuseum.gov.ph",
+      "free": false
+    },
+    {
+      "title": "Bonifacio Global City（BGC）フェスティバル",
+      "description": "ビジネス地区BGCで開催される秋のイベント。家族向けアクティビティ、ストリートパフォーマンス、フードマーケットが並び、無料で楽しめます。",
+      "date": "11月中旬",
+      "place": "Bonifacio Global City, Taguig",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "Zoobic Safari・子どもの日特別プログラム",
+      "description": "野生動物園でサファリバスツアーや動物とのふれあいプログラム。11月は気候が良く、子ども向けの教育ワークショップが開催されることがあります。",
+      "date": "11月上旬～下旬",
+      "place": "Zoobic Safari, Subic, Zambales",
+      "link": "https://www.zoobicsafari.com.ph",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-05T03:52:36.298Z"
+  "updatedAt": "2026-11-09T03:13:50.325Z"
 }

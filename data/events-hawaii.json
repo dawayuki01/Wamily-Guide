@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Zoo Halloween Events & Family Programs",
-      "description": "ホノルル動物園の秋シーズンプログラム。子ども向けの動物教室やふれあい体験が充実。涼しくなった11月は動物たちも活発で観察に最適。",
-      "date": "11月通年",
-      "place": "ホノルル動物園（Honolulu Zoo）、ワイキキ",
+      "title": "Honolulu Zoo Holiday Fest",
+      "description": "ホノルル動物園のクリスマスシーズンイベント。動物たちとの触れ合い、キャロル演奏、子ども向けアクティビティが楽しめます。11月後半から開催されます。",
+      "date": "11月下旬〜12月",
+      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "ハレイワ・アートフェスティバル（Haleiwa Art Festival）",
-      "description": "ノースショアで開催される地域密着型アートイベント。家族向けの手作り工作ワークショップ、ローカルアーティストの作品展示。無料で楽しめるエリアも多い。",
-      "date": "11月中旬",
-      "place": "ハレイワ・タウン（Haleiwa Town）、ノースショア",
-      "link": "",
+      "title": "KCC Saturday Farmers Market",
+      "description": "毎週土曜開催のハワイ最大級ファーマーズマーケット。新鮮な野菜、果物、ローカルグルメが揃い、家族で楽しめます。屋外で開放感があります。",
+      "date": "11月中旬〜下旬（毎週土曜）",
+      "place": "Kapiolani Community College, 4303 Diamond Head Rd, Honolulu, HI 96816",
+      "link": "https://www.kccfarmersmarket.com/",
       "free": true
     },
     {
-      "title": "ワイキキ・ビーチ・サンセット・スイミング",
-      "description": "11月は水温も適温で波も比較的穏やかな時期。家族で安心して海水浴できます。ビーチでのシュノーケリングやサンセット鑑賞も最高。",
-      "date": "11月通年",
-      "place": "ワイキキ・ビーチ（Waikiki Beach）",
-      "link": "https://www.gohawaii.com/islands/oahu/regions/waikiki",
+      "title": "Ala Moana Center Keiki Activities & Holiday Events",
+      "description": "アラモアナセンターの無料キッズプログラム。11月はクリスマス装飾、工作ワークショップ、サンタ写真撮影など、子ども向けコンテンツが豊富です。",
+      "date": "11月全期間",
+      "place": "Ala Moana Center, 1450 Ala Moana Blvd, Honolulu, HI 96814",
+      "link": "https://www.alamoanacenter.com/",
       "free": true
     },
     {
-      "title": "ビショップ・ミュージアム（Bishop Museum）の子ども向けプログラム",
-      "description": "ハワイ文化・自然史を学べる博物館。11月は秋休みシーズンの特別ワークショップや家族向けスペシャルプログラムが充実。",
-      "date": "11月通年（特に中旬以降）",
-      "place": "ビショップ・ミュージアム、ホノルル",
-      "link": "https://www.bishopmuseum.org/",
+      "title": "Snorkeling at Hanauma Bay Nature Preserve",
+      "description": "家族向けシュノーケリングスポット。色とりどりの魚、ウミガメが見られます。11月は水温も適切で、乳幼児から小学生まで楽しめる穏やかな海況です。",
+      "date": "11月全期間",
+      "place": "Hanauma Bay Nature Preserve, 100 Hanauma Bay Rd, Honolulu, HI 96825",
+      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
       "free": false
     },
     {
-      "title": "パイオニア・ミル（Pioneer Mill Sugar Museum & Family Events）",
-      "description": "マウイ島のラハイナで開催。ハワイの砂糖生産の歴史を学ぶ。家族向け体験プログラムや子ども農業体験ワークショップが11月に開催。",
-      "date": "11月中旬〜下旬",
-      "place": "パイオニア・ミル、マウイ島ラハイナ",
-      "link": "https://www.mauihawaii.org/",
+      "title": "Maui Ocean Center Aquarium - Seasonal Programs",
+      "description": "マウイの水族館で海洋生物について学ぶ。11月は特別ワークショップやタッチプール体験など、子ども向けプログラムが充実しています。",
+      "date": "11月全期間",
+      "place": "Maui Ocean Center, 192 Maalaea Rd, Wailuku, HI 96793",
+      "link": "https://www.mauioceancenter.com/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-05T03:52:55.101Z"
+  "updatedAt": "2026-11-09T03:14:09.138Z"
 }

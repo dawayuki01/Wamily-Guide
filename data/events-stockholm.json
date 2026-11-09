@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム・クリスマスマーケット",
-      "description": "11月下旬からスタートするクリスマスマーケット。手工芸品、クリスマス装飾、ホットチョコレートなど。子どもが楽しめるメリーゴーランドやアトラクションも。",
-      "date": "11月下旬～12月",
-      "place": "ガムラスタン（旧市街）、スキューリオルデン広場など複数会場",
-      "link": "https://www.stockholmochregionen.se",
-      "free": false
+      "title": "ストックホルム・クリスマスマーケット（Gamla Stan Christmas Market）",
+      "description": "ガムラスタン（旧市街）で開催される北欧最大級のクリスマスマーケット。子ども向けの手作り工芸品、ホットチョコレート、スウェーデン伝統菓子が並びます。",
+      "date": "11月中旬〜12月下旬（11月中旬から開始）",
+      "place": "Gamla Stan, Stockholm",
+      "link": "https://www.stockholm.se",
+      "free": true
     },
     {
-      "title": "スキーセン野外博物館の秋～冬プログラム",
-      "description": "100以上の建物と伝統文化を展示する野外博物館。11月は動物との触れ合い、伝統工芸ワークショップ、季節の食文化を体験できます。家族向けアクティビティが豊富。",
-      "date": "11月通年",
-      "place": "スキーセン、Djurgården（ユールゴーデン島）",
+      "title": "スカンセン屋外博物館の秋冬アクティビティ",
+      "description": "北欧最大の屋外博物館。11月は動物たちの冬支度が見られ、子ども向けのハンドメイド体験やスウェーデン民族文化の学習プログラムが充実しています。",
+      "date": "11月上旬〜下旬（通年開放）",
+      "place": "Skansen, Djurgårdsvägen 49-51, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ユールゴーデン島での紅葉散策と屋外遊び",
-      "description": "ストックホルムの自然公園。11月の秋色の風景を楽しめます。遊具、動物園、美術館など多数あり。無料で島全体を散策・ピクニック可能。",
-      "date": "11月通年",
-      "place": "Djurgården（ユールゴーデン島）、ストックホルム中心部から交通機関で約10分",
-      "link": "https://www.stockholmochregionen.se",
+      "title": "リッダーホルメン島の秋の散策（無料屋外アクティビティ）",
+      "description": "ストックホルムの紅葉スポット。島全体が公園で、落ち葉のビーチでの散策、小さな子どもの遊び場あり。水辺の風景が美しく家族向けです。",
+      "date": "11月上旬〜下旬",
+      "place": "Riddarholmen, Stockholm",
+      "link": "https://www.stockholm.se",
       "free": true
     },
     {
-      "title": "スウェーデン王立博物館の子ども向けワークショップ",
-      "description": "北欧美術や歴史を学べる博物館。11月は冬休みに向けた子ども向けワークショップ、アート体験プログラムを実施。家族で楽しむ特別展も。",
-      "date": "11月中旬～下旬",
-      "place": "国立美術館、Nationalmuseum、Södra Blasieholmshamnen 2",
-      "link": "https://www.nationalmuseum.se",
+      "title": "ノーベル博物館の子ども向けワークショップ",
+      "description": "ノーベル賞の歴史を学べる博物館。11月はノーベル賞授賞式前後に特別な子ども向けワークショップやガイドツアーが開催されます。",
+      "date": "11月中旬〜下旬",
+      "place": "Nobelmuseet, Stortorget 2, Gamla Stan, Stockholm",
+      "link": "https://www.nobelmuseum.se",
       "free": false
     },
     {
-      "title": "ストックホルム市立図書館の季節イベント",
-      "description": "建築が美しい図書館で、子ども向けストーリータイムやクリスマス準備のクラフトワークショップを開催。絵本コーナーも充実。無料。",
-      "date": "11月通年",
-      "place": "ストックホルム市立図書館、Sveavägen 73",
-      "link": "https://biblioteket.stockholm.se",
-      "free": true
+      "title": "ストックホルム市庁舎のクリスマス準備ツアー",
+      "description": "11月からクリスマス装飾が始まる市庁舎。子ども向けのガイドツアーでスウェーデンのクリスマス文化と建築を学べます。塔からの眺望も魅力。",
+      "date": "11月中旬〜下旬",
+      "place": "Stockholms Stadshus, Hantverkargatan 1, 111 52 Stockholm",
+      "link": "https://www.stockholmsstad.se/stadshuset",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-05T03:52:09.640Z"
+  "updatedAt": "2026-11-09T03:13:24.305Z"
 }
