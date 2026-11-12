@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Zoo Holiday Fest",
-      "description": "ホノルル動物園のクリスマスシーズンイベント。動物たちとの触れ合い、キャロル演奏、子ども向けアクティビティが楽しめます。11月後半から開催されます。",
-      "date": "11月下旬〜12月",
-      "place": "Honolulu Zoo, 151 Kapahulu Ave, Honolulu, HI 96815",
+      "title": "ホノルル・マラソン・フェスティバル",
+      "description": "毎年11月第2日曜に開催。子ども向けの1マイルランやキッズゾーンがあり、家族で参加できるマラソンイベント。ハワイの年間最大級のスポーツイベントです。",
+      "date": "11月上旬〜中旬",
+      "place": "ワイキキビーチ周辺・ホノルル全域",
+      "link": "https://www.honolulumarathon.org/",
+      "free": false
+    },
+    {
+      "title": "ハナウマ湾での海水浴・シュノーケリング",
+      "description": "11月は波が穏やかで初心者向けの季節。天然の魚が豊かで、子どもも安全にシュノーケリングが楽しめます。自然保護区として保全されたビーチです。",
+      "date": "11月（通年）",
+      "place": "ハナウマ湾自然保護区、ホノルル市東側",
+      "link": "https://hanaumabaystatepark.com/",
+      "free": false
+    },
+    {
+      "title": "KCC ファーマーズマーケット",
+      "description": "毎週土曜朝に開催される地元農家による市場。新鮮なトロピカルフルーツやローカルフードが揃い、家族で楽しめます。購入した食材でピクニックも可能です。",
+      "date": "11月の毎週土曜",
+      "place": "カピオラニ・コミュニティ・カレッジ駐車場、ホノルル",
+      "link": "https://www.honoluluhiddengems.com/kcc-farmers-market",
+      "free": true
+    },
+    {
+      "title": "ホノルル動物園 キッズプログラム",
+      "description": "11月のハワイアン・スペシャルプログラムでは、子ども向けの動物ふれあい体験や教育プログラムが充実。トロピカルな環境で動物との学習ができます。",
+      "date": "11月（通年運営・季節プログラムあり）",
+      "place": "ホノルル動物園、カピオラニ公園内",
       "link": "https://www.honoluluzoo.org/",
       "free": false
     },
     {
-      "title": "KCC Saturday Farmers Market",
-      "description": "毎週土曜開催のハワイ最大級ファーマーズマーケット。新鮮な野菜、果物、ローカルグルメが揃い、家族で楽しめます。屋外で開放感があります。",
-      "date": "11月中旬〜下旬（毎週土曜）",
-      "place": "Kapiolani Community College, 4303 Diamond Head Rd, Honolulu, HI 96816",
-      "link": "https://www.kccfarmersmarket.com/",
-      "free": true
-    },
-    {
-      "title": "Ala Moana Center Keiki Activities & Holiday Events",
-      "description": "アラモアナセンターの無料キッズプログラム。11月はクリスマス装飾、工作ワークショップ、サンタ写真撮影など、子ども向けコンテンツが豊富です。",
-      "date": "11月全期間",
-      "place": "Ala Moana Center, 1450 Ala Moana Blvd, Honolulu, HI 96814",
+      "title": "アラモアナセンター・ホリデーイルミネーション",
+      "description": "11月下旬からホリデーシーズンの無料イルミネーションとイベントが開始。キッズエリアやサンタフォトスポットがあり、家族で楽しめます。",
+      "date": "11月下旬〜12月",
+      "place": "アラモアナセンター、ホノルル",
       "link": "https://www.alamoanacenter.com/",
       "free": true
-    },
-    {
-      "title": "Snorkeling at Hanauma Bay Nature Preserve",
-      "description": "家族向けシュノーケリングスポット。色とりどりの魚、ウミガメが見られます。11月は水温も適切で、乳幼児から小学生まで楽しめる穏やかな海況です。",
-      "date": "11月全期間",
-      "place": "Hanauma Bay Nature Preserve, 100 Hanauma Bay Rd, Honolulu, HI 96825",
-      "link": "https://www.honolulu.gov/parks-recreation/hanauma-bay.html",
-      "free": false
-    },
-    {
-      "title": "Maui Ocean Center Aquarium - Seasonal Programs",
-      "description": "マウイの水族館で海洋生物について学ぶ。11月は特別ワークショップやタッチプール体験など、子ども向けプログラムが充実しています。",
-      "date": "11月全期間",
-      "place": "Maui Ocean Center, 192 Maalaea Rd, Wailuku, HI 96793",
-      "link": "https://www.mauioceancenter.com/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-09T03:14:09.138Z"
+  "updatedAt": "2026-11-12T04:31:08.774Z"
 }

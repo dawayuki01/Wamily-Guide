@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Enchanted Kingdom クリスマスシーズン",
-      "description": "フィリピン最大のテーマパークが11月下旬からクリスマス仕様にデコレーション。子ども向けアトラクション、パレード、光の装飾が楽しめます。",
-      "date": "11月下旬～12月",
-      "place": "Enchanted Kingdom, Santa Rosa, Laguna",
-      "link": "https://www.enchantedkingdom.ph",
-      "free": false
+      "title": "マニラ・フィエスタ（Manila Fiesta）",
+      "description": "マニラの守護聖人サン・ニニョを祝うフェスティバル。パレード、文化的なパフォーマンス、屋台が出店し、家族で楽しめる伝統行事です。",
+      "date": "11月中旬～下旬",
+      "place": "マニラ市内各地・リサール公園周辺",
+      "link": "https://www.tourism.gov.ph",
+      "free": true
     },
     {
-      "title": "Manila Bay Sunset Walk（無料・屋外）",
-      "description": "マニラ湾沿いの散策路で、夕焼けの景色を楽しめます。家族で散歩しながら海風を感じ、地元の雰囲気を体験できる無料アクティビティ。",
-      "date": "11月上旬～下旬",
-      "place": "Manila Bay Waterfront, Manila",
+      "title": "バロウェイ・パシグ・フェスティバル（Balewale Pasig Festival）",
+      "description": "パシグ川の健全化を祝うフェスティバル。カラフルなカヌーパレード、文化表演、ファミリーゾーンが設置され、屋外で川の景色を楽しめます。",
+      "date": "11月中旬",
+      "place": "パシグ川・パシグ市内",
       "link": "",
       "free": true
     },
     {
-      "title": "National Museum of Natural History キッズプログラム",
-      "description": "恐竜の化石や動物標本を展示。子ども向けガイドツアーや体験学習プログラムが開催され、教育的で楽しい時間が過ごせます。",
-      "date": "11月通年（毎日開館）",
-      "place": "Rizal Park, Manila",
+      "title": "スター・シティ・テーマパーク（Star City）",
+      "description": "マニラの大型遊園地。乳幼児向けの乗り物から小学生向けアトラクション、家族向けショーが豊富。11月は天候も過ごしやすく最適です。",
+      "date": "11月通年営業",
+      "place": "Epifanio De Los Santos Ave, Manila",
+      "link": "https://www.star-city.ph",
+      "free": false
+    },
+    {
+      "title": "フィリピン国立博物館 子ども向けプログラム（National Museum of the Philippines）",
+      "description": "恐竜展示や対話型の子ども向けコーナー、文化体験ワークショップが充実。11月の特別教育プログラムで古代フィリピン文化を学べます。",
+      "date": "11月通年開催",
+      "place": "Padre Burgos St, Manila",
       "link": "https://www.nationalmuseum.gov.ph",
       "free": false
     },
     {
-      "title": "Bonifacio Global City（BGC）フェスティバル",
-      "description": "ビジネス地区BGCで開催される秋のイベント。家族向けアクティビティ、ストリートパフォーマンス、フードマーケットが並び、無料で楽しめます。",
-      "date": "11月中旬",
-      "place": "Bonifacio Global City, Taguig",
-      "link": "",
+      "title": "イントラムロス（Intramuros）での散策・文化体験",
+      "description": "フィリピンのスペイン植民地時代の城壁都市。家族向けの歴史ツアー、カレッサ（馬車）乗車、公園でのピクニックが楽しめる屋外スポット。",
+      "date": "11月通年営業",
+      "place": "Intramuros, Manila",
+      "link": "https://www.intramuros.gov.ph",
       "free": true
-    },
-    {
-      "title": "Zoobic Safari・子どもの日特別プログラム",
-      "description": "野生動物園でサファリバスツアーや動物とのふれあいプログラム。11月は気候が良く、子ども向けの教育ワークショップが開催されることがあります。",
-      "date": "11月上旬～下旬",
-      "place": "Zoobic Safari, Subic, Zambales",
-      "link": "https://www.zoobicsafari.com.ph",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-09T03:13:50.325Z"
+  "updatedAt": "2026-11-12T04:30:49.614Z"
 }

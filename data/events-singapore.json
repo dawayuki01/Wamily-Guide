@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・セーリング・フェスティバル",
-      "description": "11月はセーリングシーズンの開始時期。マリーナベイで様々なセーリング体験プログラムや子ども向けのマリンアクティビティが開催されます。",
-      "date": "11月中旬〜下旬",
-      "place": "マリーナベイ（Marina Bay）",
-      "link": "https://www.yoursingapore.com",
-      "free": false
-    },
-    {
-      "title": "ディーパバリ（Deepavali）祭り",
-      "description": "11月上旬のヒンドゥー教の光の祭り。リトル・インディアはカラフルに装飾され、特別な食べ物やお菓子が楽しめます。無料で雰囲気を味わえます。",
-      "date": "11月上旬",
-      "place": "リトル・インディア（Little India）",
-      "link": "https://www.yoursingapore.com",
+      "title": "シンガポール・クリスマス・フェスティバル",
+      "description": "オーチャード・ロードの街全体がクリスマスデコレーションで彩られ、イルミネーション、パレード、子ども向けアクティビティが開催される年末の大型イベント。",
+      "date": "11月中旬〜12月中旬",
+      "place": "オーチャード・ロード周辺（Orchard Road, Singapore）",
+      "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "シンガポール・ガーデン・フェスティバル",
-      "description": "11月開催。シンガポール植物園での季節花展示とガーデンツアー。子ども向けワークショップや屋外アクティビティが豊富です。",
-      "date": "11月中旬〜下旬",
-      "place": "シンガポール植物園（Singapore Botanic Gardens）",
-      "link": "https://www.sbg.org.sg",
+      "title": "セントーサ島での季節アクティビティ・プログラム",
+      "description": "セントーサ島内のビーチクラブやファミリーパークで、水遊び、砂浜アクティビティ、動物園ツアーなど子ども向けの季節限定プログラムが展開される。",
+      "date": "11月上旬〜下旬",
+      "place": "セントーサ島（Sentosa Island, Singapore）",
+      "link": "https://www.sentosa.com.sg/",
       "free": false
     },
     {
-      "title": "チャンギ・ビーチ・カーニバル",
-      "description": "11月の週末に開催。キッズゲーム、フェイスペイント、飲食ブースが集結。ビーチでの無料アクティビティも同時開催されます。",
-      "date": "11月下旬の週末",
-      "place": "チャンギ・ビーチ（Changi Beach）",
+      "title": "シンガポール植物園・チルドレンズ・ガーデン",
+      "description": "広大な植物園内の子ども向けエリアで、季節の花々を観察しながら、水遊びやナチュラルプレイスペースで自然と触れ合える。11月は天気も過ごしやすい。",
+      "date": "11月上旬〜下旬",
+      "place": "シンガポール植物園（1 Cluny Road, Singapore）",
+      "link": "https://www.nparks.gov.sg/sbg",
+      "free": true
+    },
+    {
+      "title": "S.E.A. アクアリウム・ホリデー・プログラム",
+      "description": "セントーサ島の大型水族館で、子ども向けの特別ワークショップやタッチプール体験、海の生き物学習プログラムが開催される。",
+      "date": "11月中旬〜12月下旬",
+      "place": "S.E.A. アクアリウム（8 Sentosa Gateway, Sentosa Island, Singapore）",
+      "link": "https://www.rwsentosa.com/attractions/sea-aquarium",
+      "free": false
+    },
+    {
+      "title": "キッズマーケット・トランディディ",
+      "description": "毎月定期開催される子ども向けマーケット。地元アーティストによるワークショップ、手作り品の販売、家族向けアクティビティが楽しめる。11月も開催予定。",
+      "date": "11月中旬の週末",
+      "place": "ジャック・アーリー・パーク（Jack Early Park, Singapore）周辺",
       "link": "",
       "free": true
-    },
-    {
-      "title": "キッズ向け特別プログラム（シンガポール動物園）",
-      "description": "11月の親子向けワークショップやナイトサファリツアー。動物の行動学習やインタラクティブな飼育体験が充実しています。",
-      "date": "11月通期",
-      "place": "シンガポール動物園（Singapore Zoo）",
-      "link": "https://www.zoo.com.sg",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-09T03:13:32.057Z"
+  "updatedAt": "2026-11-12T04:30:31.050Z"
 }
