@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・クリスマス・フェスティバル",
-      "description": "オーチャード・ロードの街全体がクリスマスデコレーションで彩られ、イルミネーション、パレード、子ども向けアクティビティが開催される年末の大型イベント。",
-      "date": "11月中旬〜12月中旬",
-      "place": "オーチャード・ロード周辺（Orchard Road, Singapore）",
+      "title": "Christmas Wonderland",
+      "description": "11月下旬から1月にかけてマリーナベイエリアで開催されるクリスマスイベント。光のデコレーション、キャラクターグリーティング、子ども向けアクティビティが充実しています。",
+      "date": "11月下旬〜",
+      "place": "Marina Bay, Singapore",
+      "link": "https://www.stb.gov.sg/",
+      "free": false
+    },
+    {
+      "title": "Deepavali Festival（ディパヴァリ祭）",
+      "description": "インド系住民の光の祭り。Little India地区が色鮮やかにデコレーションされ、伝統音楽、ダンス、屋台グルメを楽しめます。家族向けの無料イベントです。",
+      "date": "11月上旬",
+      "place": "Little India, Singapore",
       "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "セントーサ島での季節アクティビティ・プログラム",
-      "description": "セントーサ島内のビーチクラブやファミリーパークで、水遊び、砂浜アクティビティ、動物園ツアーなど子ども向けの季節限定プログラムが展開される。",
-      "date": "11月上旬〜下旬",
-      "place": "セントーサ島（Sentosa Island, Singapore）",
-      "link": "https://www.sentosa.com.sg/",
+      "title": "Singapore Science Centre Special Exhibitions",
+      "description": "季節ごとの特別展示やワークショップを開催。子どもが実験・体験を通じて科学を学べます。11月は秋冬向けの新展示がオープンする時期です。",
+      "date": "11月上旬〜",
+      "place": "15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg/",
       "free": false
     },
     {
-      "title": "シンガポール植物園・チルドレンズ・ガーデン",
-      "description": "広大な植物園内の子ども向けエリアで、季節の花々を観察しながら、水遊びやナチュラルプレイスペースで自然と触れ合える。11月は天気も過ごしやすい。",
-      "date": "11月上旬〜下旬",
-      "place": "シンガポール植物園（1 Cluny Road, Singapore）",
-      "link": "https://www.nparks.gov.sg/sbg",
+      "title": "East Coast Park Family Cycling & Picnic",
+      "description": "11月は天候が良く、シンガポール最大のビーチパークでサイクリングやピクニックに最適。無料で利用でき、レンタル自転車も手軽に借りられます。",
+      "date": "11月中旬〜下旬",
+      "place": "East Coast Park, Singapore",
+      "link": "https://www.nparks.gov.sg/",
       "free": true
     },
     {
-      "title": "S.E.A. アクアリウム・ホリデー・プログラム",
-      "description": "セントーサ島の大型水族館で、子ども向けの特別ワークショップやタッチプール体験、海の生き物学習プログラムが開催される。",
-      "date": "11月中旬〜12月下旬",
-      "place": "S.E.A. アクアリウム（8 Sentosa Gateway, Sentosa Island, Singapore）",
-      "link": "https://www.rwsentosa.com/attractions/sea-aquarium",
+      "title": "Singapore Zoo Year-End Festival & Night Safari",
+      "description": "シンガポール動物園とナイトサファリの特別プログラム。11月の涼しい気候は動物園訪問に最適。夜間の動物観察で家族向けの教育プログラムも充実しています。",
+      "date": "11月中旬〜下旬",
+      "place": "80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.mandai.sg/",
       "free": false
-    },
-    {
-      "title": "キッズマーケット・トランディディ",
-      "description": "毎月定期開催される子ども向けマーケット。地元アーティストによるワークショップ、手作り品の販売、家族向けアクティビティが楽しめる。11月も開催予定。",
-      "date": "11月中旬の週末",
-      "place": "ジャック・アーリー・パーク（Jack Early Park, Singapore）周辺",
-      "link": "",
-      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-12T04:30:31.050Z"
+  "updatedAt": "2026-11-16T03:22:37.810Z"
 }

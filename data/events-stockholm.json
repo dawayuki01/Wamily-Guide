@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム・クリスマスマーケット（Gamla Stan）",
-      "description": "旧市街ガムラスタンで開催されるクリスマスマーケット。11月中旬から12月にかけて、クリスマス装飾、手工芸品、スウェーデン伝統菓子などが販売される子連れ向けイベント。",
-      "date": "11月中旬〜12月",
-      "place": "Gamla Stan（旧市街）、Stortorget広場",
+      "title": "ストックホルム・クリスマスマーケット",
+      "description": "11月中旬から12月上旬にかけてガムラスタン（旧市街）で開催。クリスマス装飾、手工芸品、ホットチョコレートなど家族向けの屋台が多数出店します。",
+      "date": "11月中旬〜12月上旬",
+      "place": "ガムラスタン（Gamla Stan）、ストックホルム旧市街",
       "link": "https://www.stockholmtown.com",
       "free": true
     },
     {
-      "title": "スカンセン野外博物館の秋・冬プログラム",
-      "description": "北欧の伝統的建築と動物園を一体化した施設。11月は秋から冬への季節変化が観察でき、子ども向けの動物とのふれあいプログラムが実施されている。",
-      "date": "11月通年",
-      "place": "Djurgården島、Skansen",
+      "title": "スカンセン屋外博物館の秋のアクティビティ",
+      "description": "北欧最大の屋外民俗博物館。秋の自然散策、動物観察、伝統的なスウェーデン文化体験。子ども向けプログラムや遊び場も充実しています。",
+      "date": "11月通年営業",
+      "place": "Skansen, Djurgården, 115 21 Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "スウェーデン国立美術館の子ども向けツアー・ワークショップ",
-      "description": "Nationalmuseum内で実施される乳幼児・子ども向けの季節プログラム。アート体験やクリエイティブワークショップが各週末に開催される。",
-      "date": "11月通年（週末主体）",
-      "place": "Nationalmuseum、Blasieholmen、Stockholm",
-      "link": "https://www.nationalmuseum.se",
+      "title": "テルマルバーデン温泉施設の子ども向けプログラム",
+      "description": "スウェーデン最大級の温泉・ウェルネス施設。冬季の屋外温泉が気持ちよく、子ども用プールやスライダーなど家族向け施設が充実しています。",
+      "date": "11月通年営業",
+      "place": "Termalbaden, Västra vägen 1, 169 70 Solna",
+      "link": "https://www.termalbaden.se",
       "free": false
     },
     {
-      "title": "ジュルゴーデン島での秋の散策・自然観察",
-      "description": "ストックホルムの主要な公園島。11月の紅葉が美しく、子どもも楽しめるハイキングコース、小動物観察エリア、遊び場が整備されている屋外アクティビティ。",
-      "date": "11月上旬〜中旬",
-      "place": "Djurgården島全域",
+      "title": "ノーベル博物館の子ども向け展示体験",
+      "description": "ガムラスタンに位置するノーベル賞の歴史を学べる博物館。インタラクティブな展示や子ども向けのガイドツアーがあり、STEM教育にも最適です。",
+      "date": "11月通年営業",
+      "place": "Nobelmuseet, Stortorget 2, Gamla Stan, 103 16 Stockholm",
+      "link": "https://www.nobelmuseum.se",
+      "free": false
+    },
+    {
+      "title": "ユールマーケット（Julemärknader）巡り",
+      "description": "11月下旬からストックホルム各地でクリスマスマーケットが開催。Skeppsbron、Stortorget、Hötorgなど複数の無料屋外マーケットを家族で巡る楽しみがあります。",
+      "date": "11月下旬〜12月",
+      "place": "ストックホルム市内各地（Hötorget, Skeppsbron等）",
       "link": "https://www.stockholmtown.com",
       "free": true
-    },
-    {
-      "title": "オスカル劇場・シルキア劇場のキッズ向け公演",
-      "description": "ストックホルムの児童劇場で実施される冬シーズンの子ども向けステージ作品。スウェーデン童話などの演劇が多言語字幕で上演される。",
-      "date": "11月下旬〜12月",
-      "place": "Parkteatern, Gärdet / Cecilia Culinaris föreställningar",
-      "link": "",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-12T04:30:22.078Z"
+  "updatedAt": "2026-11-16T03:22:30.730Z"
 }

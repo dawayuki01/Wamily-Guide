@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "クリスマスマーケット（シャンゼリゼ）",
-      "description": "11月下旬から開始するパリの冬の風物詩。シャンゼリゼ通りが光に包まれ、キャラメルポップコーン、ホットチョコレート、おもちゃなど子ども向けの屋台が並びます。",
-      "date": "11月下旬〜12月",
-      "place": "シャンゼリゼ通り、パリ8区",
-      "link": "https://www.paris-tourism.fr",
+      "title": "モンマルトルのクリスマスマーケット",
+      "description": "11月中旬からテルトル広場周辺で開催。手作り工芸品、クリスマス装飾、子ども向けの乗り物や遊びが楽しめます。パリの雰囲気を感じながら家族で散策できます。",
+      "date": "11月中旬～12月",
+      "place": "Place du Tertre, 75018 Paris",
+      "link": "https://www.paris-monmartre.com",
       "free": true
     },
     {
-      "title": "ルーヴル美術館・子ども向けワークショップ",
-      "description": "11月の秋休みや週末に開催される、子ども向けの美術鑑賞プログラム。親子で楽しめるガイドツアーやクリエイティブワークショップが用意されています。",
-      "date": "11月通年（曜日限定）",
-      "place": "ルーヴル美術館、パリ1区",
-      "link": "https://www.louvre.fr",
-      "free": false
-    },
-    {
-      "title": "ブローニュの森（ボワ・ド・ブローニュ）での秋散策",
-      "description": "846ヘクタールの広大な森林公園。11月の晩秋は落ち葉が美しく、子ども向けの遊具エリア、湖でのボート体験、ポニー乗馬などのアクティビティが楽しめます。",
+      "title": "パリ植物園（Jardin des Plantes）の秋の散策",
+      "description": "11月の秋の情景を楽しむ屋外アクティビティ。紅葉、動物園、温室など家族向けの施設が充実。自然を感じながら無料で園内を歩けます。",
       "date": "11月通年",
-      "place": "ボワ・ド・ブローニュ、パリ16区",
-      "link": "https://www.paris.fr",
+      "place": "57 rue Cuvier, 75005 Paris",
+      "link": "https://www.jardindesplantes.net",
       "free": true
     },
     {
-      "title": "パリ自然史博物館・キッズプログラム",
-      "description": "恐竜骨格やジャルダン・デ・プラント内の動物園が魅力。11月は秋休みシーズンの特別プログラムやガイドツアーが充実しており、乳幼児から小学生まで楽しめます。",
-      "date": "11月通年",
-      "place": "パリ自然史博物館、パリ5区",
-      "link": "https://www.mnhn.fr",
+      "title": "フランス国立図書館のこども向け展示",
+      "description": "季節ごとの子ども向け展示やワークショップを開催。絵本や子ども文学の企画展で、親子で楽しめる文化体験ができます。",
+      "date": "11月開催（開催状況は要確認）",
+      "place": "Quai François Mauriac, 75013 Paris",
+      "link": "https://www.bnf.fr",
       "free": false
     },
     {
-      "title": "トーマス・ブロック広場のメリーゴーラウンド",
-      "description": "パリ各地に設置されるクリスマスシーズンのメリーゴーラウンド。11月下旬から点灯し、ノスタルジックな雰囲気が子どもたちに人気。入場料が安く家族向けです。",
-      "date": "11月下旬〜12月",
-      "place": "トーカドロ広場ほか複数箇所、パリ16区周辺",
-      "link": "https://www.paris-tourism.fr",
+      "title": "ルーヴル美術館のファミリープログラム",
+      "description": "11月の秋休暇時期に親子向けのガイドツアーやワークショップを開催。子どもの視点で美術作品を学べる体験型プログラムです。",
+      "date": "11月中旬～下旬",
+      "place": "Rue de Rivoli, 75004 Paris",
+      "link": "https://www.louvre.fr/en/events",
       "free": false
+    },
+    {
+      "title": "シャンゼリゼ通りのクリスマスイルミネーション点灯式",
+      "description": "11月下旬にシャンゼリゼがクリスマスイルミネーションで輝き始めます。家族で夜の散策や買い物を楽しめ、パリの魔法的な雰囲気を体験できます。",
+      "date": "11月下旬～1月",
+      "place": "Avenue des Champs-Élysées, 75008 Paris",
+      "link": "https://www.paris-tourism.com",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-12T04:30:13.018Z"
+  "updatedAt": "2026-11-16T03:22:22.933Z"
 }

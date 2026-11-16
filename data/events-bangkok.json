@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ローイクラトン祭り（灯篭流し）",
-      "description": "タイの伝統的な水の祭り。子どもと一緒に灯篭を流し、花火を楽しめます。バンコク各地の水辺で開催され、幻想的な雰囲気が特徴的です。",
-      "date": "11月中旬（満月の夜、2026年は11月13日前後）",
-      "place": "チャオプラヤー川沿い、ルンピニ公園周辺など市内各地",
-      "link": "https://www.tourismthailand.org/",
+      "title": "ロイクラトン祭り（灯篭流し）",
+      "description": "タイの伝統祭りで、川に灯篭を流す光の祭典。バンコク中の水路やチャオプラヤ川で開催。子どもも灯篭作り・放流体験ができる家族向けイベント。",
+      "date": "11月中旬（タイ暦12月満月の日。2026年は11月15日頃）",
+      "place": "チャオプラヤ川沿い全域、ルンピニ公園など複数会場",
+      "link": "https://www.bangkoktourist.com/",
       "free": true
     },
     {
       "title": "サイアム・パラゴン水族館の秋のイベント",
-      "description": "東南アジア最大級の水族館。11月は特別教育プログラムや餌やりタイムなど、子ども向けの体験イベントが充実しています。",
-      "date": "11月通期（特別プログラムあり）",
-      "place": "サイアム・パラゴン B1F、バンコク中心部",
+      "description": "東南アジア最大級の水族館で、季節限定の子ども向けプログラムやショーを開催。触れて学べる海洋生物体験、飼育員トークなど。",
+      "date": "11月通期（季節イベント開催）",
+      "place": "Siam Paragon、Rama I Rd, Pathum Wan, Bangkok",
       "link": "https://www.siamparagon.co.th/",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケットの秋シーズン",
-      "description": "世界最大級のウィークエンドマーケット。11月は気候が涼しく、子連れ散策に最適。おもちゃ、衣類、フード屋台など家族向け店舗が豊富です。",
-      "date": "11月の土日（毎週開催）",
-      "place": "チャトゥチャック、バンコク北部",
-      "link": "https://www.chatuchakmarket.org/",
+      "title": "チャトゥチャック・ウィークエンド・マーケット",
+      "description": "世界最大級の露天市で毎週末開催。子ども向けおもちゃ、衣類、食べ物が豊富。朝の涼しい時間がおすすめ。屋外散策で親子の冒険気分も。",
+      "date": "11月毎週土日（特に朝6時～12時）",
+      "place": "Chatuchak Park, Phahon Yothin Rd, Jatujak, Bangkok",
+      "link": "https://www.chatuchakmarket.com/",
       "free": true
     },
     {
-      "title": "ダムヌン・サドゥアク水上マーケットでの舟遊び",
-      "description": "バンコク近郊の伝統的な水上マーケット。子どもと小舟に乗り、水路を巡りながら地元の暮らしを体験できる屋外アクティビティです。",
-      "date": "11月通期（毎日開催）",
-      "place": "ダムヌン・サドゥアク地区、バンコクから約100km西部",
-      "link": "https://www.tourismthailand.org/",
+      "title": "ドリームワールド・ハロウィン・スペシャルイベント",
+      "description": "タイの大型テーマパーク。11月でもハロウィン関連イベント延長や秋の特別プログラムを開催。乗り物、ショー、子ども向けアトラクション充実。",
+      "date": "11月中旬～下旬（イベント継続期間）",
+      "place": "Dream World, 62 Sai Yut Rd, Min Buri, Bangkok",
+      "link": "https://www.dreamworld-bangkok.com/",
       "free": false
     },
     {
-      "title": "サイアム・スクエアやMBKセンターの子ども向けワークショップ",
-      "description": "大型ショッピングモール内で開催される、タイ文化体験や手工芸教室。11月は季節イベント関連の無料・低価格ワークショップが豊富です。",
-      "date": "11月随時開催",
-      "place": "MBKセンター・サイアム・スクエア周辺、バンコク中心部",
-      "link": "",
+      "title": "ベンジャキティ公園でのバードウォッチング・家族ハイキング",
+      "description": "市内有数の自然公園で野鳥観察会。11月は野鳥の群れが集まる季節。家族向けガイドツアーも実施。緑豊かで子どもにも人気。",
+      "date": "11月上旬～下旬（毎日開放、ガイドツアーは指定日）",
+      "place": "Benjakitti Park, Sukhumvit Soi 24, Wattana, Bangkok",
+      "link": "https://www.bangkok.go.th/",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-12T04:30:40.807Z"
+  "updatedAt": "2026-11-16T03:22:47.263Z"
 }
