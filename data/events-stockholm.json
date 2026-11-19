@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ストックホルム・クリスマスマーケット",
-      "description": "11月中旬から12月上旬にかけてガムラスタン（旧市街）で開催。クリスマス装飾、手工芸品、ホットチョコレートなど家族向けの屋台が多数出店します。",
-      "date": "11月中旬〜12月上旬",
-      "place": "ガムラスタン（Gamla Stan）、ストックホルム旧市街",
-      "link": "https://www.stockholmtown.com",
+      "description": "ガムラスタン旧市街で開催される北欧最大級のクリスマスマーケット。クリスマスデコレーション、手工芸品、温かい飲食が楽しめ、子どもも楽しめるアトラクションやお菓子が豊富。",
+      "date": "11月中旬〜12月下旬",
+      "place": "Gamla Stan, Stockholm",
+      "link": "https://www.stockholm.se/",
       "free": true
     },
     {
-      "title": "スカンセン屋外博物館の秋のアクティビティ",
-      "description": "北欧最大の屋外民俗博物館。秋の自然散策、動物観察、伝統的なスウェーデン文化体験。子ども向けプログラムや遊び場も充実しています。",
-      "date": "11月通年営業",
-      "place": "Skansen, Djurgården, 115 21 Stockholm",
-      "link": "https://www.skansen.se",
+      "title": "Skansen（スカンセン野外博物館）の秋・冬プログラム",
+      "description": "北欧最古の野外博物館で、秋冬の季節行事を体験。動物との触れ合い、伝統工芸の実演、子ども向けワークショップが開催。クリスマスシーズンには特別イベントも。",
+      "date": "11月上旬〜12月下旬",
+      "place": "Djurgårdsvagen 49-51, 115 21 Stockholm",
+      "link": "https://www.skansen.se/",
       "free": false
     },
     {
-      "title": "テルマルバーデン温泉施設の子ども向けプログラム",
-      "description": "スウェーデン最大級の温泉・ウェルネス施設。冬季の屋外温泉が気持ちよく、子ども用プールやスライダーなど家族向け施設が充実しています。",
-      "date": "11月通年営業",
-      "place": "Termalbaden, Västra vägen 1, 169 70 Solna",
-      "link": "https://www.termalbaden.se",
+      "title": "Drottningholm Palace（ドロットニングホルム宮殿）の紅葉散策",
+      "description": "スウェーデン王妃の離宮。11月の秋の景色が美しく、広大な庭園を家族で散策できます。子ども向けガイドツアーも利用可能な歴史的建造物です。",
+      "date": "11月上旬〜中旬",
+      "place": "Drottningholm, 178 02 Ekerö",
+      "link": "https://www.royalpalaces.se/drottningholm-palace",
       "free": false
     },
     {
-      "title": "ノーベル博物館の子ども向け展示体験",
-      "description": "ガムラスタンに位置するノーベル賞の歴史を学べる博物館。インタラクティブな展示や子ども向けのガイドツアーがあり、STEM教育にも最適です。",
-      "date": "11月通年営業",
-      "place": "Nobelmuseet, Stortorget 2, Gamla Stan, 103 16 Stockholm",
-      "link": "https://www.nobelmuseum.se",
+      "title": "Naturhistoriska Riksmuseet（スウェーデン自然史博物館）の冬期特別展示",
+      "description": "恐竜化石、動物剥製、北極圏の生物など、子どもが興味を持つ展示が豊富。冬季に子ども向けワークショップや対話型展示が充実している人気施設。",
+      "date": "11月通年",
+      "place": "Frescativägen 40, 104 05 Stockholm",
+      "link": "https://www.nrm.se/",
       "free": false
     },
     {
-      "title": "ユールマーケット（Julemärknader）巡り",
-      "description": "11月下旬からストックホルム各地でクリスマスマーケットが開催。Skeppsbron、Stortorget、Hötorgなど複数の無料屋外マーケットを家族で巡る楽しみがあります。",
-      "date": "11月下旬〜12月",
-      "place": "ストックホルム市内各地（Hötorget, Skeppsbron等）",
-      "link": "https://www.stockholmtown.com",
+      "title": "ストックホルムの公園での秋の屋外アクティビティ",
+      "description": "Hagapark や Ralambshovsparken では、秋から初冬の自然散策、落ち葉遊び、ピクニックが無料で楽しめます。子連れに優しい遊歩道と休憩施設が充実。",
+      "date": "11月上旬〜中旬",
+      "place": "Haga Park / Ralambshovsparken, Stockholm",
+      "link": "",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-16T03:22:30.730Z"
+  "updatedAt": "2026-11-19T04:41:01.174Z"
 }

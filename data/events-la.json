@@ -2,46 +2,46 @@
   "items": [
     {
       "title": "ハリウッド・クリスマス・パレード",
-      "description": "毎年11月下旬に開催される大規模なクリスマスパレード。有名キャラクターやセレブが登場し、家族向けのエンターテインメント満載です。",
-      "date": "11月下旬（通常11月末）",
+      "description": "11月下旬に開催される、豪華なフロートとセレブリティが登場するパレード。家族向けの楽しいエンターテインメント。有料チケットもありますが、沿道での観覧は無料です。",
+      "date": "11月下旬（通常11月23日〜12月1日）",
       "place": "ハリウッド・ブルーバード（Hollywood Boulevard）、ロサンゼルス",
-      "link": "https://www.hollywoodchristmasparade.com/",
+      "link": "https://www.hollywoodchristmasparade.com",
       "free": true
     },
     {
-      "title": "グリフィス天文台でのクリスマスシーズン・イベント",
-      "description": "紅葉の美しいグリフィス公園内の天文台で、クリスマスシーズン特別プログラムや展示を開催。LA市街地の眺望も素晴らしい屋外アクティビティです。",
-      "date": "11月中旬〜12月末",
+      "title": "グリフィス天文台のお祭りシーズンプログラム",
+      "description": "グリフィス天文台では11月から12月にかけて特別なホリデープログラムを開催。展示や天体観測、子ども向けのプラネタリウムショーが楽しめます。",
+      "date": "11月上旬〜下旬（通年施設）",
       "place": "グリフィス天文台（Griffith Observatory）、2800 E Observatory Rd, Los Angeles",
-      "link": "https://www.griffithobservatory.org/",
+      "link": "https://www.griffithobservatory.org",
       "free": true
     },
     {
-      "title": "ザ・グローブ・アット・パシフィック・パーク フェスティバル・オブ・ホリデイズ",
-      "description": "ショッピングモール内で11月からクリスマスイルミネーションやキッズアクティビティが充実。乗り物や工作体験など家族向けプログラムが豊富です。",
-      "date": "11月上旬〜12月末",
-      "place": "The Grove at Pacific Park, 189 The Grove Drive, Los Angeles",
-      "link": "https://www.thegroveLA.com/",
+      "title": "ロサンゼルス・ファーマーズマーケット ホリデーマーケット",
+      "description": "11月から12月にかけて開催される季節限定マーケット。地元の農産物、工芸品、ホリデーギフトが並び、家族で買い物や食事が楽しめます。",
+      "date": "11月上旬〜下旬（11月以降）",
+      "place": "ザ・グローブ（The Grove）隣接 ファーマーズマーケット、6333 W 3rd St, Los Angeles",
+      "link": "https://www.farmersmarketla.com",
+      "free": true
+    },
+    {
+      "title": "サンタモニカ・ピアのホリデーイルミネーション＆ビーチアクティビティ",
+      "description": "11月下旬から装飾が始まるサンタモニカ・ピア。イルミネーション、ビーチでの散策、遊園地での乗り物など、子どもが楽しめる屋外アクティビティが充実。",
+      "date": "11月下旬〜12月（ホリデーシーズン）",
+      "place": "サンタモニカ・ピア（Santa Monica Pier），Santa Monica",
+      "link": "https://www.santamonicapier.com",
       "free": false
     },
     {
-      "title": "サンタ・モニカ・ピアのシーズナル・アクティビティ",
-      "description": "11月はサンタ・モニカ・ピアで季節限定のキッズゲーム、遊園地、海辺のビーチウォーク。温暖な気候で屋外アクティビティに最適です。",
-      "date": "11月通年（イベントは日程変動あり）",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica",
-      "link": "https://www.santamonicapier.com/",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス・カウンティー・ミュージアム・オブ・アート（LACMA）キッズ・プログラム",
-      "description": "秋冬シーズンの特別展と連動したファミリー向けワークショップ。アート体験と学習が一緒に楽しめます。",
-      "date": "11月中旬〜下旬（週末中心）",
-      "place": "LACMA, 5905 Wilshire Boulevard, Los Angeles",
-      "link": "https://www.lacma.org/",
+      "title": "ロサンゼルス自然史博物館 キッズ向けホリデープログラム",
+      "description": "11月から12月にかけて、子ども向けの特別ワークショップやアクティビティが開催されます。恐竜や自然に関する展示も常設で楽しめます。",
+      "date": "11月上旬〜下旬（通年施設）",
+      "place": "ロサンゼルス自然史博物館（Natural History Museum），900 Exposition Blvd, Los Angeles",
+      "link": "https://www.nhm.org",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-12T04:30:59.176Z"
+  "updatedAt": "2026-11-19T04:41:38.962Z"
 }

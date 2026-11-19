@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Christmas Wonderland",
-      "description": "11月下旬から1月にかけてマリーナベイエリアで開催されるクリスマスイベント。光のデコレーション、キャラクターグリーティング、子ども向けアクティビティが充実しています。",
-      "date": "11月下旬〜",
-      "place": "Marina Bay, Singapore",
-      "link": "https://www.stb.gov.sg/",
-      "free": false
-    },
-    {
-      "title": "Deepavali Festival（ディパヴァリ祭）",
-      "description": "インド系住民の光の祭り。Little India地区が色鮮やかにデコレーションされ、伝統音楽、ダンス、屋台グルメを楽しめます。家族向けの無料イベントです。",
-      "date": "11月上旬",
-      "place": "Little India, Singapore",
+      "title": "シンガポール・クリスマス・フェスティバル",
+      "description": "オーチャード通りがイルミネーションで彩られ、クリスマスマーケット、子ども向けショー、ライトアップが楽しめます。シンガポールの年末イベントとして家族に人気です。",
+      "date": "11月下旬〜12月中旬",
+      "place": "オーチャード通り（Orchard Road）、シンガポール中心部",
       "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "Singapore Science Centre Special Exhibitions",
-      "description": "季節ごとの特別展示やワークショップを開催。子どもが実験・体験を通じて科学を学べます。11月は秋冬向けの新展示がオープンする時期です。",
-      "date": "11月上旬〜",
-      "place": "15 Science Centre Road, Singapore 609081",
-      "link": "https://www.science.edu.sg/",
+      "title": "シンガポール動物園 サマーキャンプ・プログラム",
+      "description": "子ども向けの動物学習プログラムやワークショップが開催。動物との距離が近く、乳幼児から小学生まで楽しめる体験型施設です。",
+      "date": "11月中旬〜下旬（学校休暇期間に合わせて）",
+      "place": "Singapore Zoo, 80 Mandai Lake Road, Singapore 729826",
+      "link": "https://www.zoo.com.sg/",
       "free": false
     },
     {
-      "title": "East Coast Park Family Cycling & Picnic",
-      "description": "11月は天候が良く、シンガポール最大のビーチパークでサイクリングやピクニックに最適。無料で利用でき、レンタル自転車も手軽に借りられます。",
-      "date": "11月中旬〜下旬",
-      "place": "East Coast Park, Singapore",
-      "link": "https://www.nparks.gov.sg/",
+      "title": "マリーナ・バイ・ザ・ベイ ライトアップ＆屋外ファウンテン鑑賞",
+      "description": "象徴的なマリーナベイ・サンズのライトアップ、ガーデンズ・バイ・ザ・ベイの超巨木型ツリー。家族で無料で楽しめる屋外スポットです。",
+      "date": "11月通年（特にクリスマス時期は特別ライトアップ）",
+      "place": "Gardens by the Bay, Singapore 018953",
+      "link": "https://www.gardensbythebay.com.sg/",
       "free": true
     },
     {
-      "title": "Singapore Zoo Year-End Festival & Night Safari",
-      "description": "シンガポール動物園とナイトサファリの特別プログラム。11月の涼しい気候は動物園訪問に最適。夜間の動物観察で家族向けの教育プログラムも充実しています。",
+      "title": "セントーサ島ファミリー・フェスティバル",
+      "description": "ビーチアクティビティ、子ども向けゲーム、移動式遊園地。シンガポールの主要テーマパーク島で家族向けイベントが開催されます。",
       "date": "11月中旬〜下旬",
-      "place": "80 Mandai Lake Road, Singapore 729826",
-      "link": "https://www.mandai.sg/",
+      "place": "Sentosa Island, Singapore",
+      "link": "https://www.sentosa.com.sg/",
       "free": false
+    },
+    {
+      "title": "チャンギ国際空港 ターミナル 4 キッズプレイエリア＆イベント",
+      "description": "空港内の無料キッズ遊技施設。トランジット時間つぶしや空港自体が体験スポット。教育的なインタラクティブ展示も充実しています。",
+      "date": "11月通年営業",
+      "place": "Singapore Changi Airport Terminal 4, Singapore 819642",
+      "link": "https://www.changiairport.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-16T03:22:37.810Z"
+  "updatedAt": "2026-11-19T04:41:10.466Z"
 }

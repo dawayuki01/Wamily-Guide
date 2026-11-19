@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Christmas Festival at SM Malls",
-      "description": "11月からフィリピンのクリスマスシーズンが本格化。SM Mallsでは大規模なクリスマスデコレーション、キャロル、サンタとの写真撮影など家族向けのイベントが開催されます。",
-      "date": "11月上旬〜12月",
-      "place": "SM Mall of Asia, SM Megamall, SM North EDSA（マニラ市内複数箇所）",
-      "link": "https://www.smmalls.com",
+      "title": "マニラ・フィエスタ・ナヴィダレーニャ（Manila Fiesta Navideña）",
+      "description": "11月後半から始まるクリスマスシーズンのお祭り。イルミネーション、クリスマスマーケット、ライブパフォーマンスが楽しめ、家族向けの活動が豊富です。",
+      "date": "11月下旬〜12月",
+      "place": "マニラ市内各地（リサール公園周辺など）",
+      "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "Palaruan ng Lungsod (City Park Activities)",
-      "description": "マニラの都市公園で季節の屋外アクティビティ。遊具、ピクニック、ウォーキングなど自然の中で家族で楽しめます。11月は雨季終盤で天候が改善する時期です。",
-      "date": "11月上旬〜下旬",
-      "place": "Luneta Park（リサール公園）、Rizal Park Avenue, Ermita, Manila",
-      "link": "https://www.tourism.gov.ph",
-      "free": true
-    },
-    {
-      "title": "Philippine Science Planetarium Shows",
-      "description": "フィリピン国立科学館のプラネタリウムで子ども向けの特別上映プログラム。宇宙や天文学について学べる実験ショーや対話型展示も充実。",
-      "date": "11月中旬〜下旬（通年開催、11月特別プログラムあり）",
-      "place": "National Museum Complex, Padre Burgos Avenue, Ermita, Manila",
-      "link": "https://www.nationalmuseum.gov.ph",
-      "free": false
-    },
-    {
-      "title": "AquaZone at SM Mall of Asia",
-      "description": "東南アジア最大級の屋内ウォーターパーク。スライダー、流れるプール、キッズエリアが充実。11月は快適な気候で水遊びに最適な季節です。",
-      "date": "11月上旬〜下旬（通年営業）",
-      "place": "SM Mall of Asia, Cor. Bay Drive & Macapagal Boulevard, Pasay City",
-      "link": "https://www.smmallofasia.com.ph",
-      "free": false
-    },
-    {
-      "title": "Manila Zoo Holiday Programs",
-      "description": "マニラ動物園がクリスマスシーズンに向けた特別プログラムを実施。動物との触れ合い、ガイデッドツアー、子ども向けワークショップなど家族向けコンテンツが豊富。",
+      "title": "スターシティ（Star City）クリスマス特別イベント",
+      "description": "マニラの遊園地がクリスマステーマで営業。子ども向けアトラクション、パレード、キャラクター出演などが楽しめます。",
       "date": "11月中旬〜12月",
-      "place": "Manila Zoo, Padre Burgos Avenue, Ermita, Manila",
-      "link": "https://manilazo.gov.ph",
+      "place": "Star City, Seaside Boulevard, Paranaque City",
+      "link": "https://www.starcity.com.ph/",
+      "free": false
+    },
+    {
+      "title": "ナヤ・マニラ・フォレスト・パーク（Naya Manila Forest Park）での親子アウトドア活動",
+      "description": "マニラ郊外の自然公園で、乳幼児から小学生まで楽しめる屋外アクティビティ。トレッキング、ピクニック、自然観察が無料で可能です。",
+      "date": "11月全期間（乾季で最適）",
+      "place": "Naya Manila Forest Park, Las Piñas-Paranaque Wetlands",
+      "link": "https://www.tourism.gov.ph/",
+      "free": true
+    },
+    {
+      "title": "フィリピン・チルドレンズ・ミュージアム（Philippine Children's Museum）の秋企画",
+      "description": "子ども向けの対話型展示館。STEM学習、アート制作、異文化体験など、11月の特別プログラムで学びながら遊べます。",
+      "date": "11月全期間",
+      "place": "Pasig City",
+      "link": "https://www.childrensmuseum.org.ph/",
+      "free": false
+    },
+    {
+      "title": "マニラ・レイルウェイ・パーク（Manila Railway Park）での機関車体験",
+      "description": "復古的な列車に乗車できるアクティビティ。子どもが乗車体験でき、フィリピンの交通文化を学べます。屋外での爽快感が味わえます。",
+      "date": "11月全期間（土日営業）",
+      "place": "Caloocan City",
+      "link": "",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-16T03:22:55.452Z"
+  "updatedAt": "2026-11-19T04:41:29.242Z"
 }

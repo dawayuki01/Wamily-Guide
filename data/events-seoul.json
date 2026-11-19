@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ソウル灯祭り（Seoul Lantern Festival）",
-      "description": "清渓川の水面を彩る数千個のLEDランタンと光の装置による幻想的なイベント。乳幼児から楽しめる安全な遊歩道での夜間散策が可能です。",
-      "date": "11月中旬〜12月上旬",
-      "place": "清渓川（チョンゲチョン）、ソウル市鍾路区",
-      "link": "https://www.seoullanternfestival.kr",
+      "title": "ソウル光祭り（Seoul Light Festival）",
+      "description": "漢江公園一帯がライトアップされ、イルミネーション展示や家族向けイベントが開催されます。子どもも楽しめる光の祭典で、秋から冬への季節の移ろいを感じられます。",
+      "date": "11月中旬〜12月下旬",
+      "place": "漢江公園（여의도 한강공원）、ソウル市永登浦区",
+      "link": "https://www.seoul.go.kr/",
       "free": true
     },
     {
-      "title": "南山公園の秋紅葉狩り",
-      "description": "ソウル市街地の緑地で11月は紅葉のピーク。ケーブルカー利用で小さなお子さんでも楽しめる屋外アクティビティ。散策路が整備されています。",
-      "date": "11月中旬〜下旬",
-      "place": "南山公園、ソウル市中区",
-      "link": "https://korean.visitseoul.net",
-      "free": true
-    },
-    {
-      "title": "ソウル子ども大公園の秋祭りプログラム",
-      "description": "紅葉の季節に開催される子ども向けのアクティビティイベント。乗り物、工芸体験、ステージパフォーマンスなど家族向けプログラムが充実しています。",
-      "date": "11月上旬〜下旬",
-      "place": "ソウル子ども大公園、ソウル市広津区",
-      "link": "https://www.seoulchildrenspark.org",
-      "free": false
-    },
-    {
-      "title": "ミョンドン・明洞文化祭",
-      "description": "商業地区での屋外フェスティバル。K-popパフォーマンス、体験コーナー、児童向けプログラムが開催。買い物と同時に楽しめます。",
+      "title": "ソウルドラマ観光展（Seoul Drama Tour Festival）",
+      "description": "K-ドラマのセットやキャラクターに会える体験型イベント。子ども向けの撮影スポット、フォトゾーン、物販が充実。家族で韓国文化を楽しめます。",
       "date": "11月初旬〜中旬",
-      "place": "明洞、ソウル市中区",
+      "place": "ソウル各地（例：江南区、奨忠体育館周辺）",
       "link": "",
+      "free": false
+    },
+    {
+      "title": "南山公園の秋景観ハイキング",
+      "description": "標高262mで登山初心者向け。紅葉が美しく、展望台からのソウル市街地の眺望が抜群。子どもサイズのトレッキングコース完備で、安全に自然を満喫できます。",
+      "date": "11月上旬〜中旬（紅葉のピーク）",
+      "place": "南山公園（남산공원）、ソウル市中区",
+      "link": "https://parks.seoul.go.kr/",
       "free": true
     },
     {
-      "title": "テディベア博物館の秋イベント",
-      "description": "テーマ展示と季節限定ワークショップ。乳幼児でも安全に楽しめるぬいぐるみ展示。屋内で天候に左右されない子ども向けアクティビティです。",
-      "date": "11月通年開催",
-      "place": "テディベア博物館、ソウル市江南区またはプチフランス（南怡島）",
-      "link": "https://www.teddybearmuseum.com",
+      "title": "ロッテワールドの秋・冬プログラム",
+      "description": "テーマパークが秋冬仕様にリニューアル。キャラクターグリーティング、子ども向けアトラクション、シーズン限定イベントが充実。乳幼児向けエリアもあります。",
+      "date": "11月全期間",
+      "place": "ロッテワールド（롯데월드）、ソウル市松坡区",
+      "link": "https://www.lotteworld.com/",
       "free": false
+    },
+    {
+      "title": "清渓川秋祭り（Cheonggyecheon Autumn Festival）",
+      "description": "清渓川沿いで開催される家族向けフェスティバル。フードコート、子ども工作教室、安全な水辺遊びなど。紅葉と文化を同時に楽しめます。",
+      "date": "11月初旬〜中旬",
+      "place": "清渓川（청계천）、ソウル市鍾路区・中区",
+      "link": "https://cheonggyecheon.seoul.go.kr/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-16T03:23:19.612Z"
+  "updatedAt": "2026-11-19T04:41:59.215Z"
 }
