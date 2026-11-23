@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "マニラ・フィエスタ・ナヴィダレーニャ（Manila Fiesta Navideña）",
-      "description": "11月後半から始まるクリスマスシーズンのお祭り。イルミネーション、クリスマスマーケット、ライブパフォーマンスが楽しめ、家族向けの活動が豊富です。",
-      "date": "11月下旬〜12月",
-      "place": "マニラ市内各地（リサール公園周辺など）",
+      "title": "マニラ・フィエスタ・フローレス（Manila Fiesta Flores）",
+      "description": "11月はマニラ市の花の祭り。カラフルな花の装飾、パレード、地元の食べ物屋台が並び、子どもたちが楽しめる家族向けイベント。",
+      "date": "11月上旬〜中旬",
+      "place": "リサール公園（Rizal Park）、マニラシティ周辺",
       "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "スターシティ（Star City）クリスマス特別イベント",
-      "description": "マニラの遊園地がクリスマステーマで営業。子ども向けアトラクション、パレード、キャラクター出演などが楽しめます。",
-      "date": "11月中旬〜12月",
-      "place": "Star City, Seaside Boulevard, Paranaque City",
+      "title": "スターシティ（Star City）クリスマス・スペシャルプログラム",
+      "description": "11月後半から始まる早期クリスマスイベント。子ども向けアトラクション、キャラクターショー、ゲーム、家族向けエンターテイメントが充実。",
+      "date": "11月下旬〜12月",
+      "place": "Star City, Entertainment City, Paranaque City",
       "link": "https://www.starcity.com.ph/",
       "free": false
     },
     {
-      "title": "ナヤ・マニラ・フォレスト・パーク（Naya Manila Forest Park）での親子アウトドア活動",
-      "description": "マニラ郊外の自然公園で、乳幼児から小学生まで楽しめる屋外アクティビティ。トレッキング、ピクニック、自然観察が無料で可能です。",
-      "date": "11月全期間（乾季で最適）",
-      "place": "Naya Manila Forest Park, Las Piñas-Paranaque Wetlands",
+      "title": "マニラ・オーシャン・パーク（Manila Ocean Park）季節プログラム",
+      "description": "水族館で海の生き物を学べる。11月は涼しく快適。子ども向けの餌やりプログラムやインタラクティブ体験が人気。",
+      "date": "11月（通年営業・季節特別プログラム）",
+      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
+      "link": "https://www.manilaoceanpark.com/",
+      "free": false
+    },
+    {
+      "title": "イノトランス（Intramuros）遺跡ツアー・屋外散策",
+      "description": "マニラの歴史地区を家族で散策。古い城壁、フォートサンティアゴ、子どもも楽しめる博物館。11月の気候は散策に最適。",
+      "date": "11月（通年・季節イベントあり）",
+      "place": "Intramuros, Manila",
       "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "フィリピン・チルドレンズ・ミュージアム（Philippine Children's Museum）の秋企画",
-      "description": "子ども向けの対話型展示館。STEM学習、アート制作、異文化体験など、11月の特別プログラムで学びながら遊べます。",
-      "date": "11月全期間",
-      "place": "Pasig City",
-      "link": "https://www.childrensmuseum.org.ph/",
-      "free": false
-    },
-    {
-      "title": "マニラ・レイルウェイ・パーク（Manila Railway Park）での機関車体験",
-      "description": "復古的な列車に乗車できるアクティビティ。子どもが乗車体験でき、フィリピンの交通文化を学べます。屋外での爽快感が味わえます。",
-      "date": "11月全期間（土日営業）",
-      "place": "Caloocan City",
+      "title": "スミロン島デイトリップ（Sumilan Island）・シュノーケリング",
+      "description": "マニラから日帰り可能な離島。11月は気候が良く、透明度の高い海での家族向けシュノーケリングやビーチ遊びが楽しめる。",
+      "date": "11月（乾季・最適期）",
+      "place": "Sumilan Island（マニラからボートで約2時間）",
       "link": "",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-19T04:41:29.242Z"
+  "updatedAt": "2026-11-23T04:16:04.424Z"
 }

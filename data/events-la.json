@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ハリウッド・クリスマス・パレード",
-      "description": "11月下旬に開催される、豪華なフロートとセレブリティが登場するパレード。家族向けの楽しいエンターテインメント。有料チケットもありますが、沿道での観覧は無料です。",
-      "date": "11月下旬（通常11月23日〜12月1日）",
-      "place": "ハリウッド・ブルーバード（Hollywood Boulevard）、ロサンゼルス",
-      "link": "https://www.hollywoodchristmasparade.com",
+      "title": "ロサンゼルス・クリスマス・パレード",
+      "description": "11月下旬から始まる東海岸最大級のクリスマスパレード。豪華なフロート、キャラクター、マーチングバンドが登場します。子どもたちが大喜びする冬の風物詩です。",
+      "date": "11月下旬（感謝祭後の日曜日）",
+      "place": "Hollywood Boulevard, Hollywood, CA 90028",
+      "link": "https://www.discoverlosangeles.com/",
       "free": true
     },
     {
-      "title": "グリフィス天文台のお祭りシーズンプログラム",
-      "description": "グリフィス天文台では11月から12月にかけて特別なホリデープログラムを開催。展示や天体観測、子ども向けのプラネタリウムショーが楽しめます。",
-      "date": "11月上旬〜下旬（通年施設）",
-      "place": "グリフィス天文台（Griffith Observatory）、2800 E Observatory Rd, Los Angeles",
-      "link": "https://www.griffithobservatory.org",
-      "free": true
-    },
-    {
-      "title": "ロサンゼルス・ファーマーズマーケット ホリデーマーケット",
-      "description": "11月から12月にかけて開催される季節限定マーケット。地元の農産物、工芸品、ホリデーギフトが並び、家族で買い物や食事が楽しめます。",
-      "date": "11月上旬〜下旬（11月以降）",
-      "place": "ザ・グローブ（The Grove）隣接 ファーマーズマーケット、6333 W 3rd St, Los Angeles",
-      "link": "https://www.farmersmarketla.com",
-      "free": true
-    },
-    {
-      "title": "サンタモニカ・ピアのホリデーイルミネーション＆ビーチアクティビティ",
-      "description": "11月下旬から装飾が始まるサンタモニカ・ピア。イルミネーション、ビーチでの散策、遊園地での乗り物など、子どもが楽しめる屋外アクティビティが充実。",
-      "date": "11月下旬〜12月（ホリデーシーズン）",
-      "place": "サンタモニカ・ピア（Santa Monica Pier），Santa Monica",
-      "link": "https://www.santamonicapier.com",
+      "title": "サンタモニカ・ピアのホリデーシーズン開幕",
+      "description": "11月中旬から始まるホリデー装飾とアトラクション。メリーゴーラウンド、観覧車、ゲームで家族向けの楽しみが満載。太平洋の景色も素晴らしいです。",
+      "date": "11月中旬〜12月",
+      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
+      "link": "https://www.santamonicapier.com/",
       "free": false
     },
     {
-      "title": "ロサンゼルス自然史博物館 キッズ向けホリデープログラム",
-      "description": "11月から12月にかけて、子ども向けの特別ワークショップやアクティビティが開催されます。恐竜や自然に関する展示も常設で楽しめます。",
-      "date": "11月上旬〜下旬（通年施設）",
-      "place": "ロサンゼルス自然史博物館（Natural History Museum），900 Exposition Blvd, Los Angeles",
-      "link": "https://www.nhm.org",
+      "title": "グリフィス天文台のホリデー特別展示",
+      "description": "グリフィス天文台では11月から特別なプラネタリウムショーと展示が開催。天文学を学びながら子どもたちが楽しめる教育的なアトラクションです。",
+      "date": "11月全体",
+      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org/",
+      "free": true
+    },
+    {
+      "title": "ハイランドパーク・ホリデー・マーケット",
+      "description": "11月中旬から始まる屋外クラフトマーケット。地元アーティストによる手作り品、フードトラック、キッズコーナーなど家族で楽しめる内容です。",
+      "date": "11月中旬〜12月",
+      "place": "Highland Park, Los Angeles, CA",
+      "link": "",
+      "free": true
+    },
+    {
+      "title": "ハンティントンライブラリー・ホリデーイベント",
+      "description": "11月から始まるクリスマスデコレーション展示。美しい庭園をホリデーライトで彩った空間を散策。子どもも大人も楽しめる屋外アートエクスペリエンスです。",
+      "date": "11月中旬〜1月上旬",
+      "place": "The Huntington Library, 1151 Oxford Rd, San Marino, CA 91108",
+      "link": "https://www.huntingtonlibrary.org/",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-19T04:41:38.962Z"
+  "updatedAt": "2026-11-23T04:16:13.345Z"
 }

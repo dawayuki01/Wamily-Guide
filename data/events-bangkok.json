@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラトン祭り（灯篭流し）",
-      "description": "タイの伝統的な水の祭り。子どもたちが灯篭を川に流し、花火や提灯を楽しむ。バンコク各地で開催され、家族向けイベントも多数。",
-      "date": "11月中旬（満月の日。2026年は11月15日頃）",
-      "place": "チャオプラヤ川沿い各地、ルンピニー公園、サイアムパラゴン周辺",
+      "title": "ロイクラットン祭り（Loy Krathong Festival）",
+      "description": "灯籠を川に流す伝統的なタイの祭り。家族で水上での幻想的な光景を楽しめます。子どもも簡単に参加でき、タイ文化を体験できる貴重な機会です。",
+      "date": "11月中旬（満月の日）",
+      "place": "チャオプラヤー川沿い、ルンピニ公園など全市内各地",
       "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "チャトゥチャック・ウィークエンド・マーケット",
-      "description": "世界最大級のウィークエンドマーケット。子ども服、玩具、ゲーム、フードコートが充実。家族で散策、買い物、グルメを楽しめる。",
-      "date": "毎週末（土日）通年開催、11月は涼しくおすすめ",
-      "place": "チャトゥチャック公園、バンコク北部",
-      "link": "https://www.chatuchakmarket.com/",
+      "title": "ジム・トンプソン・ハウス子ども向けツアー",
+      "description": "シルク王の邸宅を巡るガイドツアー。子ども向けプログラムでは泰シルクの歴史をわかりやすく学べます。タイの建築と文化を家族で体験できます。",
+      "date": "11月通年開催",
+      "place": "Jim Thompson House, 6 Soi Kasemsan 2, Rama 1 Road, Bangkok",
+      "link": "https://www.jimthompsonhouse.com/",
+      "free": false
+    },
+    {
+      "title": "ルンピニ公園での屋外アクティビティ",
+      "description": "広大な公園で朝のヨガ体験、ジョギング、池での景観鑑賞。11月は気候が涼しく快適。乳幼児用遊具もあり、家族みんなで自然を満喫できます。",
+      "date": "11月通年",
+      "place": "Lumphini Park, Rama IV Road, Pathum Wan, Bangkok",
+      "link": "https://www.bangkok.go.th/",
       "free": true
     },
     {
-      "title": "サイアム・パラゴン・シネマ&アクアリウム特別イベント",
-      "description": "シャムアクアリウムでは子ども向けの海生生物教室や給餌体験プログラムを実施。冷房完備で安全・快適。",
-      "date": "11月通期（土日祝に特別プログラム開催）",
-      "place": "サイアム・パラゴン3階、バンコク中心部",
+      "title": "ビッグ・シー・アクアリウムの特別展示",
+      "description": "水族館の季節展示で海の生き物を学ぶ。子ども向けの餌やりタイムやタッチプール体験など交互型プログラムがあり、乳幼児も楽しめます。",
+      "date": "11月通年",
+      "place": "Big Sea Aquarium, Siam Paragon, 991 Rama I Road, Bangkok",
       "link": "https://www.siamparagon.com/",
       "free": false
     },
     {
-      "title": "ドゥシット動物園での秋の特別イベント",
-      "description": "タイ最古の動物園。涼しい11月は訪問に最適。子ども向けの餌やりプログラムや教育的ショーが開催される。",
-      "date": "11月全体（毎日開園、土日は混雑）",
-      "place": "ドゥシット動物園、バンコク北部",
-      "link": "https://www.dusitzoo.org/",
-      "free": false
-    },
-    {
-      "title": "アユタヤ遺跡&水上市場ツアー",
-      "description": "バンコクから日帰りで世界遺産を訪問。ボートで水上マーケット散策、象乗り体験、古代遺跡探索。子どもが歴史と自然を学べる。",
-      "date": "11月全体（涼しく屋外活動に最適）",
-      "place": "アユタヤ県（バンコクから北へ約80km）",
-      "link": "https://www.tatnews.org/",
-      "free": false
+      "title": "チャトゥチャック・ウイークエンド・マーケット",
+      "description": "世界最大級の週末市場で、おもちゃ・衣類・グルメを家族で探索。11月は気候が良く歩きやすい。子ども向けアクセサリーやタイのお菓子も豊富です。",
+      "date": "11月の土日",
+      "place": "Chatuchak Weekend Market, Paholyothin Road, Bangkok",
+      "link": "https://www.chatuchakmarket.com/",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-19T04:41:20.426Z"
+  "updatedAt": "2026-11-23T04:15:55.370Z"
 }

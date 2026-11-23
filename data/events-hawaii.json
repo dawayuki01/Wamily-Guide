@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "Honolulu Marathon",
-      "description": "毎年12月第2日曜に開催されるマラソン大会。家族向けの1マイルキッズランも同時開催。ダイヤモンドヘッドの絶景コースを家族で楽しめます。",
-      "date": "11月下旬～12月上旬（準備期間）",
-      "place": "ホノルル市内全域、スタート地点：カピオラニ公園",
+      "title": "ホノルル・マラソン",
+      "description": "毎年11月第2日曜に開催される国際マラソン。家族向けの2kmキッズランもあり、子どもも参加できます。ワイキキからダイヤモンドヘッドまでの沿道で応援を楽しむのもおすすめ。",
+      "date": "11月中旬",
+      "place": "ホノルル市内（スタート：カピオラニ公園、ゴール：カピオラニ公園）",
       "link": "https://www.honolulumarathon.org/",
       "free": false
     },
     {
-      "title": "Ala Moana Center Holiday Activities",
-      "description": "アラモアナセンターの無料ホリデーイベント。サンタとの写真撮影、キッズエリアでのワークショップ、クリスマスデコレーション鑑賞が楽しめます。",
-      "date": "11月中旬～12月",
-      "place": "Ala Moana Center, 1450 Ala Moana Boulevard, Honolulu",
-      "link": "https://www.alamoanacenter.com/",
+      "title": "マウイ・ジオ・パーク無料ガイド・ツアー",
+      "description": "マウイ島のイアオ渓谷州立公園にて季節限定の無料ネイチャー・ガイド・ツアーを実施。子どもと一緒にハワイの自然を学べます。要事前申し込み。",
+      "date": "11月中旬～下旬",
+      "place": "イアオ渓谷州立公園、マウイ島",
+      "link": "https://dlnr.hawaii.gov/dofaw/iao-valley-state-park/",
       "free": true
     },
     {
-      "title": "Waikiki Aquarium Kids Programs",
-      "description": "ワイキキ水族館の秋冬特別プログラム。タッチプール体験やガイドツアーで海の生き物を学べます。乳幼児から小学生まで対応。",
-      "date": "11月通年開催",
-      "place": "Waikiki Aquarium, 2777 Kalakaua Avenue, Honolulu",
-      "link": "https://www.waikikiaquarium.org/",
+      "title": "ハナウマ湾自然保護区での海洋生物観察",
+      "description": "オアフ島の透明度の高い湾で、シュノーケリングや浅瀬での生物観察ができます。11月は水温が心地よく、子連れに最適。白砂ビーチと豊かな海の生き物が楽しめます。",
+      "date": "11月上旬～下旬",
+      "place": "ハナウマ湾、ホノルル、オアフ島",
+      "link": "https://www.honolulu.gov/parks-and-recreation/beaches/hanauma-bay.html",
       "free": false
     },
     {
-      "title": "Snorkeling at Hanauma Bay",
-      "description": "ハナウマ湾での家族向けシュノーケリング。遠浅で安全な海域、カラフルな魚が見られます。11月は涼しく快適。事前予約が必須です。",
-      "date": "11月全期間（火曜除く）",
-      "place": "Hanauma Bay Nature Preserve, 100 Hanauma Bay Road, Honolulu",
-      "link": "https://www.honolulu.gov/hanauma-bay-visit.html",
-      "free": false
-    },
-    {
-      "title": "Honolulu Zoo Free Nights",
-      "description": "毎週水曜・木曜の午後4時以降は入園料無料。キリン、ライオン、象など動物たちを観察。夕方の涼しい時間帯が子連れに最適です。",
-      "date": "11月全期間（毎週水・木）",
-      "place": "Honolulu Zoo, 151 Kapahulu Avenue, Honolulu",
-      "link": "https://www.honoluluzoo.org/",
+      "title": "オアフ島ワイキキビーチ無料ハイク・プログラム",
+      "description": "ホノルル市が開催する親子向けの無料ハイキングツアー。ダイヤモンドヘッドや周辺のトレイルを地元ガイドとともに散策。自然学習と運動を同時に楽しめます。",
+      "date": "11月全般",
+      "place": "ワイキキ周辺各所、オアフ島",
+      "link": "https://www.honolulu.gov/parks-and-recreation.html",
       "free": true
+    },
+    {
+      "title": "ハワイ・キルト・フェスティバル",
+      "description": "ハワイの伝統キルト文化を学べるワークショップや展示。子ども向けの簡単な手芸体験ブースもあり、ハワイの文化を身近に感じられます。",
+      "date": "11月下旬（予定）",
+      "place": "ホノルル市内各所",
+      "link": "",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-16T03:23:12.131Z"
+  "updatedAt": "2026-11-23T04:16:22.932Z"
 }
