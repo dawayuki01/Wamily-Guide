@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "クリスマスマーケット（シャンゼリゼ通り）",
-      "description": "パリ最大級のクリスマスマーケット。イルミネーション、キャラメルリンゴ、メリーゴーラウンドなど子どもが楽しめるアトラクションが充実。家族向けの温かい雰囲気が魅力です。",
-      "date": "11月下旬〜12月31日",
-      "place": "シャンゼリゼ通り、パリ8区",
-      "link": "https://www.parisinfo.com/",
+      "title": "クリスマスマーケット（シャンゼリゼ）",
+      "description": "11月下旬から始まるパリの冬の風物詩。シャンゼリゼ大通りにクリスマスデコレーション、メリーゴーランド、子ども向けショップが立ち並びます。家族連れに大人気。",
+      "date": "11月下旬〜12月",
+      "place": "シャンゼリゼ大通り（Avenue des Champs-Élysées）、パリ8区",
+      "link": "https://www.paris-tourisme.com/",
       "free": false
     },
     {
-      "title": "ルーヴル美術館の子ども向けアートワークショップ",
-      "description": "11月の秋シーズンに開催される子ども向けの特別プログラム。家族ガイドツアーやクリエイティブワークショップで、美術館を楽しく学べます。予約制で事前確認が必要です。",
-      "date": "11月中旬〜下旬（日程は変動）",
-      "place": "ルーヴル美術館、パリ1区",
-      "link": "https://www.louvre.fr/",
-      "free": false
-    },
-    {
-      "title": "セーヌ川沿いの紅葉散策（秋の景色）",
-      "description": "パリの秋は紅葉が美しく、セーヌ川沿いの散歩は子どもも楽しめます。アイル・サン・ルイやノートルダム周辺の景色が特におすすめ。季節限定の自然アクティビティです。",
-      "date": "11月上旬〜中旬",
-      "place": "セーヌ川沿い、シテ島周辺",
-      "link": "",
+      "title": "オートンヌ・パリ（Automne à Paris）秋の公園散策",
+      "description": "11月のパリは秋の紅葉が美しい季節。ルクセンブルク公園やヴィンセンヌの森で、色づいた落ち葉の中での散策が無料で楽しめます。子どもも自然を満喫できます。",
+      "date": "11月全期間",
+      "place": "ルクセンブルク公園（Jardin du Luxembourg）、パリ6区",
+      "link": "https://www.paris-tourisme.com/",
       "free": true
     },
     {
-      "title": "ディズニーランド・パリのハロウィン延長イベント",
-      "description": "11月初旬までハロウィンテーマのイベントが開催。その後、クリスマスシーズンへ移行。乳幼児から小学生まで、家族向けアトラクションが豊富です。",
-      "date": "11月上旬（イベント内容は変動）",
-      "place": "ディズニーランド・パリ、マルヌ・ラ・ヴァレ",
-      "link": "https://www.disneylandparis.com/",
+      "title": "ノエル・オ・トゥイルリ（Noël aux Tuileries）",
+      "description": "11月下旬から1月初旬にかけてチュイルリー庭園で開催。メリーゴーランド、スケートリンク、子ども向けショーなど家族で楽しめるイベントが充実。",
+      "date": "11月下旬〜12月",
+      "place": "チュイルリー庭園（Jardin des Tuileries）、パリ1区",
+      "link": "https://www.paris-tourisme.com/",
       "free": false
     },
     {
-      "title": "パリのマルシェ（市場）での季節食材体験",
-      "description": "11月の栗、梨、キノコなど秋の食材が並ぶ市場を訪問。子どもと一緒に買い物し、フランスの生活文化を学べます。モンマルトルやマレ地区の市場がおすすめ。",
-      "date": "11月通年（毎週開催）",
-      "place": "各地区のマルシェ（例：Marché Bastille、Marché Montmartre）",
-      "link": "https://www.parisinfo.com/",
-      "free": true
+      "title": "ミュゼ・グレヴァン（蝋人形館）特別ファミリープログラム",
+      "description": "11月は秋休み期間（フランスの学校休業）に合わせた子ども向けワークショップや特別展示が開催される。150年以上の歴史を持つ有名蝋人形館。",
+      "date": "11月全期間（特に休業期間）",
+      "place": "10 Boulevard Montmartre, 75009 Paris",
+      "link": "https://www.museegrevin.com/",
+      "free": false
+    },
+    {
+      "title": "サン＝マルタン運河でのボート散策",
+      "description": "11月の穏やかな天気の中、子ども向けボートツアーで運河を散策。歴史的な橋や沿岸の風景が見られます。屋外で季節を感じられるアクティビティ。",
+      "date": "11月全期間（天気による）",
+      "place": "Canal Saint-Martin, パリ10区",
+      "link": "https://www.paris-tourisme.com/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-23T04:15:27.253Z"
+  "updatedAt": "2026-11-26T05:37:52.613Z"
 }

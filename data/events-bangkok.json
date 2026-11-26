@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロイクラットン祭り（Loy Krathong Festival）",
-      "description": "灯籠を川に流す伝統的なタイの祭り。家族で水上での幻想的な光景を楽しめます。子どもも簡単に参加でき、タイ文化を体験できる貴重な機会です。",
-      "date": "11月中旬（満月の日）",
-      "place": "チャオプラヤー川沿い、ルンピニ公園など全市内各地",
+      "title": "ロイクラットン祭（Loy Krathong Festival）",
+      "description": "水に灯籠を流す伝統的なタイの祭り。家族で一緒にクラットンを飾り流す体験ができ、夜空の灯籠が幻想的。子どもたちにタイ文化を教える最高の機会です。",
+      "date": "11月中旬（満月の日。2026年は11月13日）",
+      "place": "バンコク中心部の川沿い（チャオプラヤ川沿いの複数会場）",
       "link": "https://www.tatnews.org/",
       "free": true
     },
     {
-      "title": "ジム・トンプソン・ハウス子ども向けツアー",
-      "description": "シルク王の邸宅を巡るガイドツアー。子ども向けプログラムでは泰シルクの歴史をわかりやすく学べます。タイの建築と文化を家族で体験できます。",
-      "date": "11月通年開催",
-      "place": "Jim Thompson House, 6 Soi Kasemsan 2, Rama 1 Road, Bangkok",
-      "link": "https://www.jimthompsonhouse.com/",
+      "title": "バンコク国際児童映画祭（Bangkok International Film Festival for Children）",
+      "description": "子ども向けの映画やアニメを上映する国際映画祭。家族で楽しめる作品が多数。タイの映画館で安心して子どもと映画体験ができます。",
+      "date": "11月上旬〜中旬",
+      "place": "バンコク市内の複数映画館",
+      "link": "",
       "free": false
     },
     {
-      "title": "ルンピニ公園での屋外アクティビティ",
-      "description": "広大な公園で朝のヨガ体験、ジョギング、池での景観鑑賞。11月は気候が涼しく快適。乳幼児用遊具もあり、家族みんなで自然を満喫できます。",
-      "date": "11月通年",
-      "place": "Lumphini Park, Rama IV Road, Pathum Wan, Bangkok",
-      "link": "https://www.bangkok.go.th/",
-      "free": true
-    },
-    {
-      "title": "ビッグ・シー・アクアリウムの特別展示",
-      "description": "水族館の季節展示で海の生き物を学ぶ。子ども向けの餌やりタイムやタッチプール体験など交互型プログラムがあり、乳幼児も楽しめます。",
-      "date": "11月通年",
-      "place": "Big Sea Aquarium, Siam Paragon, 991 Rama I Road, Bangkok",
-      "link": "https://www.siamparagon.com/",
+      "title": "ドゥシット動物園の秋シーズンプログラム（Dusit Zoo）",
+      "description": "バンコク最古の動物園。11月は涼しい気候で動物観察に最適。動物の餌やりやガイドツアーなど子ども向けプログラムが充実。広い園内で家族で丸一日楽しめます。",
+      "date": "11月全期間",
+      "place": "Rama V Rd, Dusit, Bangkok 10300",
+      "link": "https://www.dusitzoo.org/",
       "free": false
     },
     {
-      "title": "チャトゥチャック・ウイークエンド・マーケット",
-      "description": "世界最大級の週末市場で、おもちゃ・衣類・グルメを家族で探索。11月は気候が良く歩きやすい。子ども向けアクセサリーやタイのお菓子も豊富です。",
-      "date": "11月の土日",
-      "place": "Chatuchak Weekend Market, Paholyothin Road, Bangkok",
-      "link": "https://www.chatuchakmarket.com/",
+      "title": "チャトゥチャック・ウィークエンド・マーケット（Chatuchak Weekend Market）",
+      "description": "世界最大級の週末市場。土日に営業し、子ども向けおもちゃ、衣類、フードコートが充実。迷路のような楽しさで子どもたちも探検気分で楽しめます。",
+      "date": "11月全期間（土日開催）",
+      "place": "Chatuchak Park, Kamphaeng Phet Rd, Bangkok 10900",
+      "link": "https://www.chatuchakmarket.org/",
       "free": true
+    },
+    {
+      "title": "ルンピニー公園でのセーリング体験（Lumphini Park Sailing）",
+      "description": "バンコク市街地のラムプー湖でのセーリング教室。11月は天候が安定し快適。子ども向けの安全なカリキュラムで、屋外での新しい体験ができます。",
+      "date": "11月全期間（予約制）",
+      "place": "Rama IV Rd, Lumphini, Pathum Wan, Bangkok 10330",
+      "link": "https://www.lumphinipark.info/",
+      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-23T04:15:55.370Z"
+  "updatedAt": "2026-11-26T05:38:21.700Z"
 }

@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "マニラ・フィエスタ・フローレス（Manila Fiesta Flores）",
-      "description": "11月はマニラ市の花の祭り。カラフルな花の装飾、パレード、地元の食べ物屋台が並び、子どもたちが楽しめる家族向けイベント。",
+      "title": "マニラ・フィエスタ・フローテス・パレード",
+      "description": "11月の第2週に開催される、フィリピン最大級のパレードイベント。カラフルな山車や、伝統衣装を着た参加者たちが市街地を練り歩きます。子どもたちも楽しめる大規模なお祭りです。",
       "date": "11月上旬〜中旬",
-      "place": "リサール公園（Rizal Park）、マニラシティ周辺",
+      "place": "マニラ市内（ロハス大通り周辺）",
       "link": "https://www.tourism.gov.ph/",
       "free": true
     },
     {
-      "title": "スターシティ（Star City）クリスマス・スペシャルプログラム",
-      "description": "11月後半から始まる早期クリスマスイベント。子ども向けアトラクション、キャラクターショー、ゲーム、家族向けエンターテイメントが充実。",
-      "date": "11月下旬〜12月",
-      "place": "Star City, Entertainment City, Paranaque City",
-      "link": "https://www.starcity.com.ph/",
+      "title": "スターシティ・テーマパーク",
+      "description": "マニラ郊外のテーマパーク。乳幼児向けのキッズゾーン、ジェットコースターなどの乗り物、ステージショーなど、家族全員で楽しめるアトラクションが充実しています。",
+      "date": "通年（11月は比較的過ごしやすい季節）",
+      "place": "2800 Marcos Highway, Pasig, Manila",
+      "link": "https://www.starcityph.com/",
       "free": false
     },
     {
-      "title": "マニラ・オーシャン・パーク（Manila Ocean Park）季節プログラム",
-      "description": "水族館で海の生き物を学べる。11月は涼しく快適。子ども向けの餌やりプログラムやインタラクティブ体験が人気。",
-      "date": "11月（通年営業・季節特別プログラム）",
-      "place": "Manila Ocean Park, CCP Complex, Roxas Boulevard, Manila",
-      "link": "https://www.manilaoceanpark.com/",
-      "free": false
-    },
-    {
-      "title": "イノトランス（Intramuros）遺跡ツアー・屋外散策",
-      "description": "マニラの歴史地区を家族で散策。古い城壁、フォートサンティアゴ、子どもも楽しめる博物館。11月の気候は散策に最適。",
-      "date": "11月（通年・季節イベントあり）",
-      "place": "Intramuros, Manila",
+      "title": "マニラ・ベイ・パブリック・ビーチ（レクレーションエリア）",
+      "description": "マニラ湾沿いの改善されたビーチエリア。ウォーターパーク、ボートライド、家族向けレストランがあります。11月は乾季で過ごしやすく、屋外での海辺活動に最適です。",
+      "date": "通年（11月は最適シーズン）",
+      "place": "Manila Bay Waterfront Promenade, Manila",
       "link": "https://www.tourism.gov.ph/",
+      "free": false
+    },
+    {
+      "title": "フィリピン国立博物館・自然史セクション",
+      "description": "子ども向けの展示エリアがあり、恐竜の骨格標本や地質学的展示が学べます。冷房完備で、熱帯の日中の暑さを避けて、家族で知的に楽しめます。",
+      "date": "通年（特に11月の日中の暑さ対策に最適）",
+      "place": "Padre Burgos Avenue, Manila",
+      "link": "https://www.nationalmuseum.gov.ph/",
       "free": true
     },
     {
-      "title": "スミロン島デイトリップ（Sumilan Island）・シュノーケリング",
-      "description": "マニラから日帰り可能な離島。11月は気候が良く、透明度の高い海での家族向けシュノーケリングやビーチ遊びが楽しめる。",
-      "date": "11月（乾季・最適期）",
-      "place": "Sumilan Island（マニラからボートで約2時間）",
+      "title": "エデンホール・チルドレンズミュージアム",
+      "description": "子どもの学習と創意工夫を促す体験型博物館。ハンズオン展示、アートスタジオ、科学実験コーナーなど、乳幼児から小学生まで年齢別プログラムがあります。",
+      "date": "通年（11月は過ごしやすい季節）",
+      "place": "Kawilihan Street, Paco, Manila",
       "link": "",
       "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-23T04:16:04.424Z"
+  "updatedAt": "2026-11-26T05:38:31.523Z"
 }

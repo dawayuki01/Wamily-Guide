@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ロサンゼルス・クリスマス・パレード",
-      "description": "11月下旬から始まる東海岸最大級のクリスマスパレード。豪華なフロート、キャラクター、マーチングバンドが登場します。子どもたちが大喜びする冬の風物詩です。",
-      "date": "11月下旬（感謝祭後の日曜日）",
-      "place": "Hollywood Boulevard, Hollywood, CA 90028",
-      "link": "https://www.discoverlosangeles.com/",
+      "title": "ハリウッド・クリスマス・パレード",
+      "description": "11月下旬に開催される、ロサンゼルス最大級のクリスマスパレード。豪華なフロートや有名人が登場し、家族で楽しめます。沿道は無料で観覧できます。",
+      "date": "11月下旬（通常11月23-24日）",
+      "place": "ハリウッド・ブルバード（Hollywood Boulevard）、ロサンゼルス",
+      "link": "https://www.hollywoodchristmasparade.com",
       "free": true
     },
     {
-      "title": "サンタモニカ・ピアのホリデーシーズン開幕",
-      "description": "11月中旬から始まるホリデー装飾とアトラクション。メリーゴーラウンド、観覧車、ゲームで家族向けの楽しみが満載。太平洋の景色も素晴らしいです。",
-      "date": "11月中旬〜12月",
-      "place": "Santa Monica Pier, 200 Santa Monica Pier, Santa Monica, CA 90401",
-      "link": "https://www.santamonicapier.com/",
+      "title": "グリフィス天文台のホリデー期間特別プログラム",
+      "description": "グリフィス天文台は11月から特別な展示やプログラムを実施。子ども向けの科学教室と美しい夜景が楽しめます。入館料は無料（駐車料金別）。",
+      "date": "11月上旬〜12月下旬",
+      "place": "グリフィス天文台（Griffith Observatory）、Los Angeles, CA 90027",
+      "link": "https://www.griffithobservatory.org",
+      "free": true
+    },
+    {
+      "title": "ロサンゼルス・ファーマーズマーケット ホリデー特別イベント",
+      "description": "11月からクリスマスシーズンの特別マーケットが開催。新鮮な農産物、工芸品、キッズコーナーなど家族向けコンテンツが充実。駐車無料の日もあります。",
+      "date": "11月上旬〜12月下旬（特に週末）",
+      "place": "ロサンゼルス・ファーマーズマーケット（The Original Farmers Market）、Los Angeles, CA 90036",
+      "link": "https://www.farmersmarketla.com",
+      "free": true
+    },
+    {
+      "title": "ハンティントン・ライブラリー ホリデー展示",
+      "description": "世界的な美術館・図書館でホリデー期間の特別展示や子ども向けワークショップを開催。広大な庭園散策も楽しめます。",
+      "date": "11月上旬〜1月上旬",
+      "place": "ハンティントン・ライブラリー（The Huntington Library）、San Marino, CA 91108",
+      "link": "https://www.huntingtonlibrary.org",
       "free": false
     },
     {
-      "title": "グリフィス天文台のホリデー特別展示",
-      "description": "グリフィス天文台では11月から特別なプラネタリウムショーと展示が開催。天文学を学びながら子どもたちが楽しめる教育的なアトラクションです。",
-      "date": "11月全体",
-      "place": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
-      "link": "https://www.griffithobservatory.org/",
+      "title": "サンタモニカ・ビーチでのアウトドアアクティビティ",
+      "description": "11月は温暖でビーチ遊びに最適。サンタモニカ・ビーチではサイクリング、凧揚げ、砂浜での遊びが楽しめます。景観も素晴らしく家族向けです。",
+      "date": "11月上旬〜下旬（通年可能）",
+      "place": "サンタモニカ・ビーチ（Santa Monica Beach）、Santa Monica, CA 90401",
+      "link": "https://www.santamonica.com",
       "free": true
-    },
-    {
-      "title": "ハイランドパーク・ホリデー・マーケット",
-      "description": "11月中旬から始まる屋外クラフトマーケット。地元アーティストによる手作り品、フードトラック、キッズコーナーなど家族で楽しめる内容です。",
-      "date": "11月中旬〜12月",
-      "place": "Highland Park, Los Angeles, CA",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "ハンティントンライブラリー・ホリデーイベント",
-      "description": "11月から始まるクリスマスデコレーション展示。美しい庭園をホリデーライトで彩った空間を散策。子どもも大人も楽しめる屋外アートエクスペリエンスです。",
-      "date": "11月中旬〜1月上旬",
-      "place": "The Huntington Library, 1151 Oxford Rd, San Marino, CA 91108",
-      "link": "https://www.huntingtonlibrary.org/",
-      "free": false
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-23T04:16:13.345Z"
+  "updatedAt": "2026-11-26T05:38:41.045Z"
 }

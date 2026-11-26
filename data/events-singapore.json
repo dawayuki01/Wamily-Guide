@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "シンガポール・クリスマス・フェスティバル",
-      "description": "オーチャード・ロードを中心にクリスマスデコレーションやイルミネーションが施され、子ども向けのアクティビティ、パフォーマンス、カーニバルが開催される季節イベント。",
-      "date": "11月中旬～12月下旬",
-      "place": "オーチャード・ロード（Orchard Road）",
+      "title": "シンガポール・クリスマス・フェスティバル（Orchard Road）",
+      "description": "オーチャード・ロードがクリスマスデコレーションで彩られ、イルミネーション、パレード、子ども向けアクティビティが楽しめます。ショッピングモールでのイベントも充実。",
+      "date": "11月中旬〜12月中旬",
+      "place": "オーチャード・ロード（Orchard Road）、シンガポール中心部",
       "link": "https://www.stb.gov.sg/",
       "free": true
     },
     {
-      "title": "深セン・シンガポール・キッズウィーク（KidsFest）",
-      "description": "シンガポール各地の子ども向け施設が特別プログラムを実施。クリエイティブワークショップ、科学実験、エンターテインメントが無料または割引で楽しめる。",
-      "date": "11月中旬～下旬",
-      "place": "シンガポール全域（複数会場）",
-      "link": "",
-      "free": true
-    },
-    {
-      "title": "マリーナ・ベイ・フローラル・ディスプレイ",
-      "description": "マリーナ・ベイ・サンズ周辺に色鮮やかな花のディスプレイが展示される。写真撮影に最適で、季節の花々を楽しめる屋外スポット。入場無料。",
-      "date": "11月下旬～12月上旬",
-      "place": "マリーナ・ベイ・サンズ周辺（Marina Bay Sands）",
-      "link": "https://www.marinabaysands.com/",
-      "free": true
-    },
-    {
-      "title": "シンガポール・キッズ・ウィークエンド・マーケット",
-      "description": "子ども向けの手工芸ワークショップ、フェイスペイント、ゲームなどが楽しめるマーケット。家族連れ向けのアクティビティが豊富。",
-      "date": "11月全体（週末ごと）",
-      "place": "イースト・コースト・パーク（East Coast Park）ほか",
-      "link": "",
-      "free": false
-    },
-    {
-      "title": "ナイト・サファリ・スペシャル・イベント",
-      "description": "シンガポール・ナイト・サファリでの特別な夜間動物観察ツアー。11月は気候が良好で、子どもたちが夜行性動物の生態を学べるプログラム。",
+      "title": "スケルトン・フラワー展示（ボタニック・ガーデン）",
+      "description": "シンガポール・ボタニック・ガーデンで秋から冬にかけて色鮮やかな花々が咲き誇ります。子どもと自然を楽しみながら散策でき、広大な庭園は安全で家族向けです。",
       "date": "11月全体",
-      "place": "シンガポール・ナイト・サファリ（80 Mandai Lake Road）",
-      "link": "https://www.nightsafari.com.sg/",
+      "place": "Singapore Botanic Gardens, 1 Cluny Road, Singapore 259569",
+      "link": "https://www.nparks.gov.sg/sbg",
+      "free": true
+    },
+    {
+      "title": "ディーパバリ（Deepavali Festival）",
+      "description": "光の祭りとして知られるヒンドゥー教のお祭り。リトル・インディアで特別な飾り付け、市場、伝統的なお菓子やアート体験が楽しめます。文化体験に最適。",
+      "date": "11月初旬（日程は毎年変動）",
+      "place": "リトル・インディア（Little India）、Serangoon Road周辺",
+      "link": "https://www.stb.gov.sg/",
+      "free": true
+    },
+    {
+      "title": "チルドレン・フェスティバル（Science Centre Singapore）",
+      "description": "サイエンス・センター主催の子ども向け特別プログラム。STEM教育、実験ワークショップ、インタラクティブ展示で学びながら遊べます。乳幼児から小学生対象。",
+      "date": "11月中旬〜下旬（詳細は館に要確認）",
+      "place": "Science Centre Singapore, 15 Science Centre Road, Singapore 609081",
+      "link": "https://www.science.edu.sg/",
       "free": false
+    },
+    {
+      "title": "イースト・コースト・パーク サイクリング・ピクニック",
+      "description": "シンガポール最大のビーチパーク。自転車レンタル、砂浜での遊び、ピクニック施設が充実。屋外活動で海風を感じながら家族で過ごせます。天気が良く遊びやすい季節。",
+      "date": "11月全体（天気が良い日）",
+      "place": "East Coast Park, Singapore（複数の入口あり）",
+      "link": "https://www.nparks.gov.sg/parks-and-nature/parks/east-coast-park",
+      "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-23T04:15:45.672Z"
+  "updatedAt": "2026-11-26T05:38:11.720Z"
 }

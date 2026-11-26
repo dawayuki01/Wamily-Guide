@@ -1,47 +1,47 @@
 {
   "items": [
     {
-      "title": "ストックホルム・クリスマスマーケット",
-      "description": "11月下旬から12月初旬にかけて、ガムラスタン（旧市街）やノルマルム地区で開催されるクリスマスマーケット。子ども向けの手工芸品、ホットチョコレート、スウェーデン伝統のお菓子が楽しめます。",
-      "date": "11月下旬〜12月上旬",
-      "place": "ガムラスタン（Gamla Stan）、ノルマルム地区",
-      "link": "https://www.stockholmtown.com",
-      "free": true
+      "title": "スウェーデン王立劇場のクリスマスシーズンプログラム",
+      "description": "11月後半からクリスマスシーズンが始まり、家族向けのバレエや児童劇が上演されます。ストックホルムの冬の風情を感じながら、質の高い舞台を楽しめます。",
+      "date": "11月下旬〜12月",
+      "place": "Operahuset, Jakobs Torg 2, Stockholm",
+      "link": "https://www.operan.se",
+      "free": false
     },
     {
-      "title": "スカンセン野外博物館の秋冬プログラム",
-      "description": "北欧最大の野外博物館。11月は秋から冬への季節の変化を体験できます。動物たちの様子を観察でき、スウェーデン文化を学べる体験型施設。家族向けアクティビティが充実。",
-      "date": "11月上旬〜下旬",
+      "title": "スキャンセン野外博物館のクリスマスマーケット",
+      "description": "スウェーデン民俗文化が学べる施設で、11月末から本格的なクリスマスマーケットが開催。民族衣装、工芸品、伝統菓子が揃い、子どもも楽しめます。",
+      "date": "11月中旬〜12月",
       "place": "Skansen, Djurgårdsvägen 49-51, Stockholm",
       "link": "https://www.skansen.se",
       "free": false
     },
     {
-      "title": "ジュルゴーデン島での秋のハイキング・自然散策",
-      "description": "ストックホルム随一の自然公園。11月の紅葉が美しく、子どもも歩きやすい遊歩道が整備されています。無料で楽しめる屋外アクティビティ。自然の中でリラックスできます。",
-      "date": "11月上旬〜中旬",
+      "title": "ジュルゴーデン島での秋から冬への自然散策",
+      "description": "ストックホルムの美しい公園島で、秋の紅葉と初冬の風景を楽しむ屋外アクティビティ。無料で家族で散歩でき、複数の子ども向け施設も点在しています。",
+      "date": "11月全期間",
       "place": "Djurgården, Stockholm",
-      "link": "https://www.stockholmtown.com",
+      "link": "https://www.stockholm.se",
       "free": true
     },
     {
-      "title": "スウェーデン自然史博物館の冬支度展示",
-      "description": "子ども向けの対話的展示で、北欧の動物たちの冬支度を学べます。11月は冬のテーマに関する特別展示やワークショップが開催されることが多くあります。",
-      "date": "11月通期",
-      "place": "Naturhistoriska riksmuseet, Frescativägen 40, Stockholm",
-      "link": "https://www.nrm.se",
+      "title": "グローナ・ルンド遊園地のハロウィン＆ウィンターシーズン",
+      "description": "北欧最大規模の遊園地が11月にウィンターテーマで営業。クリスマスイルミネーション、子ども向けアトラクション、ホットチョコレートが楽しめます。",
+      "date": "11月全期間（週末中心）",
+      "place": "Gröna Lund, Allmänna vägen 9, Stockholm",
+      "link": "https://www.gronalund.com",
       "free": false
     },
     {
-      "title": "セーデルマルム地区のクリスマスデコレーション散策",
-      "description": "11月下旬から、ストックホルムの人気エリア・セーデルマルムの街角がクリスマスデコレーションで彩られます。カフェも多く、家族で散策しながら北欧の冬の雰囲気を感じられます。",
-      "date": "11月下旬〜12月",
-      "place": "Södermalm, Stockholm",
-      "link": "https://www.stockholmtown.com",
+      "title": "ストックホルム市立図書館の子ども向け冬プログラム",
+      "description": "北欧最大級の図書館で、11月に子どもストーリータイムやクラフト教室などの無料プログラムを開催。暖かく安全な室内で、スウェーデン文化を学べます。",
+      "date": "11月全期間",
+      "place": "Stockholms Stadsbibliotek, Sveavägen 73, Stockholm",
+      "link": "https://biblioteket.stockholm.se",
       "free": true
     }
   ],
   "source": "Claude AI 生成",
   "sourceUrl": "",
-  "updatedAt": "2026-11-23T04:15:36.945Z"
+  "updatedAt": "2026-11-26T05:38:01.615Z"
 }
